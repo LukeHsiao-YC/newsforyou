@@ -30,8 +30,8 @@ CHANNELS = [
 
 # 步驟一：先從 Google News 抓取真實的新聞標題與網址，避免 AI 產生假連結
 def fetch_real_news_from_rss(query):
-    # 加上 when:2d 確保抓到最近兩天的新聞
-    encoded_query = urllib.parse.quote(f"{query} when:2d")
+    # 放寬到 when:7d 確保一定能抓到各大洲的新聞
+    encoded_query = urllib.parse.quote(f"{query} when:7d")
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     
     try:
@@ -42,7 +42,7 @@ def fetch_real_news_from_rss(query):
             # 抓出真實的新聞標題、網址與來源媒體
             title = item.find('title').text
             link = item.find('link').text
-            source = item.find('source').text if item.find('source') is not None else "國際新聞"
+            source = item.find('source').text if item.find('source') is not None else "國際媒體"
             return {"title": title, "link": link, "source": source}
     except Exception as e:
         print(f"抓取 RSS 失敗 ({query}): {e}")
@@ -59,18 +59,19 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     新聞分類：{channel_info['region']}的{channel_info['category']}
     
     請你根據這個新聞標題，撰寫一篇完整的教育新聞，並嚴格遵守以下要求：
-    1. 中文內容 (zhContent)：必須大於 500 字，分成數個段落。語氣要像一個真實的大哥哥大姊姊在說故事，絕對不能出現「深入探討、值得注意的是、賦能」這類生硬的 AI 機器人用語。內容要客觀描述發生了什麼事，並解釋背後的原因。
-    2. 深度思考小站 (scaffold)：請不要直接給答案，而是提供 3 個層次的「引導提示」。這 3 個提示分別是：
+    1. 中文內容 (zhContent)：文章長度絕對必須超過 500 字！(非常重要)。如果字數不夠，請補充：這件事發生的背景原因、相關的科學或歷史知識、或是對未來世界的影響。分成數個段落，客觀描述發生了什麼事。
+    2. 寫作風格：你是一個真實的人類寫作者，溝通風格自然、溫暖。請不要使用 AI 慣用語（例如：深入探討、值得注意的是、賦能、一站式、全方位），絕對禁止使用破折號或 Em dash，也不要濫用 Emoji。請自己問自己：「一個真人會這樣寫嗎？」
+    3. 深度思考小站 (scaffold)：請不要直接給答案，而是提供 3 個層次的「引導提示」。這 3 個提示分別是：
        - 提示一（觀察事實）：這件事發生了什麼關鍵改變？（約30字）
        - 提示二（生活連結）：這件事跟台灣的學生或家庭有什麼關聯？（約40字）
        - 提示三（行動提案）：為了這個議題，學生現在在生活中可以做到的一件具體小事？（約40字）
-    3. 英文內容 (enContent)：請提供 basic, intermediate, advanced 三種難度的簡短英文摘要，並符合劍橋兒童英文 YLE Flyers 程度。
-    4. 重點單字 (vocabulary)：挑選 2 個符合該新聞主題的英文單字並附上中文。
-    5. 圖片關鍵字 (imageKeyword)：給一個具體的英文名詞，例如 rocket, forest, city, computer，用來自動配圖。
+    4. 英文內容 (enContent)：請提供 basic, intermediate, advanced 三種難度的簡短英文摘要，並符合劍橋兒童英文 YLE Flyers 程度。
+    5. 重點單字 (vocabulary)：挑選 2 個符合該新聞主題的英文單字並附上中文。
+    6. 圖片關鍵字 (imageKeyword)：給一個具體的英文單字名詞，例如 rocket, forest, city, train，用來自動配圖。
     
-    請只回傳合法的 JSON 格式物件，格式如下：
+    回傳格式必須是 JSON 物件（不需要 markdown 標籤）：
     {{
-      "zhTitle": "你幫這篇新聞下的一個吸引人的標題",
+      "zhTitle": "吸引人的標題",
       "zhSummary": "50字的客觀摘要",
       "zhContent": "<p>第一段...</p><p>第二段...</p><p>第三段...</p><p>第四段...</p>",
       "scaffold": ["提示一的內容", "提示二的內容", "提示三的內容"],
@@ -88,17 +89,21 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     }}
     """
 
-    payload = {"contents": [{"parts": [{"text": prompt}]}]}
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json" # 強制 AI 回傳標準的 JSON 格式
+        }
+    }
     headers = {"Content-Type": "application/json"}
     
     try:
-        response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+        # 增加 timeout 到 40 秒，因為寫 500 字需要一點時間
+        response = requests.post(API_URL, headers=headers, json=payload, timeout=40)
         response.raise_for_status()
         result = response.json()
         
         text_content = result['candidates'][0]['content']['parts'][0]['text']
-        text_content = re.sub(r'^```json', '', text_content, flags=re.MULTILINE)
-        text_content = re.sub(r'^```', '', text_content, flags=re.MULTILINE)
         article_data = json.loads(text_content.strip())
         
         # 組合完整的資料結構
@@ -110,7 +115,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
         article_data["date"] = today_date
         article_data["sourceName"] = real_news["source"]
         article_data["sourceLink"] = real_news["link"]
-        article_data["isFeatured"] = False # 預設為否，稍後隨機挑選
+        article_data["isFeatured"] = False 
         
         # 產生不重複的圖片網址
         keyword = article_data.get("imageKeyword", "news")
@@ -148,8 +153,8 @@ def update_daily_news():
             final_news_list.append(article)
             print("AI 撰寫完成！")
             
-        # 休息 2 秒，避免被 Google API 阻擋
-        time.sleep(2)
+        # 休息 5 秒鐘，避免被 Google API 判斷為惡意攻擊而阻擋 (429 Error)
+        time.sleep(5)
         
     if not final_news_list:
         print("今天沒有產出任何資料，提早結束程式。")
@@ -180,7 +185,6 @@ def update_daily_news():
     seen_ids = set()
     
     for news in all_news:
-        # 用日期加上頻道ID當作唯一識別碼，確保每天的資料不會被覆蓋錯
         unique_id = f"{news.get('date')}-{news.get('id')}"
         news_date_str = news.get('date', '')
         
