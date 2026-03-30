@@ -5,7 +5,6 @@ import datetime
 import requests
 import re
 import urllib.parse
-import random
 import time
 import xml.etree.ElementTree as ET
 
@@ -44,8 +43,8 @@ def fetch_real_news_from_rss(query):
     blocked_query = " -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易"
     
     # 定義優質媒體白名單與過濾黑名單 (作為雙重保險)
-    preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "澳洲廣播公司 (ABC)", "Radio New Zealand", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
-    blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易", "百度", "中天", ]
+    preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
+    blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易"]
     
     # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
     time_windows = ['2d', '5d', '14d']
@@ -100,7 +99,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     1. 真實忠誠：請盡量忠實呈現原文的新聞事件，不做過度誇飾，僅在語氣上進行改寫。
     2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在對孩子說話，讓他們感覺像在閱讀優質雜誌。
     3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語（例如：高大上、yyds、絕絕子 等）。
-    4. 封殺 AI 詞彙：絕對禁止使用機器感重詞彙，例如：深入探討、值得注意的是、賦能、一站式、全方位 等。
+    4. 封殺機器詞彙：絕對禁止使用機器感重詞彙，包含但不限於：賦能、一站式、全方位 等。
     5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用全形破折號以及濫用 Emoji。
     6. 最後檢查：請自己問自己：「一個真實的人類作家會這樣寫嗎？」
 
@@ -151,6 +150,24 @@ def generate_article_with_ai(channel_info, real_news, today_date):
         except Exception as e:
             print(f"[{get_now()}] 撰寫失敗: {e}"); time.sleep(15)
     return None
+
+def test_rss_search():
+    """只抓取 RSS 不呼叫 AI 的測試模式"""
+    print(f"[{get_now()}] >>> 啟動 RSS 抓取測試模式（不呼叫 AI） <<<")
+    success_count = 0
+    for idx, channel in enumerate(CHANNELS):
+        print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
+        real_news = fetch_real_news_from_rss(channel["query"])
+        if real_news:
+            success_count += 1
+            print(f"  ✅ 成功找到新聞：{real_news['title']}")
+            print(f"  來源：{real_news['source']}")
+            print(f"  連結：{real_news['link']}")
+        else:
+            print(f"  ❌ 找不到符合條件的新聞。")
+        time.sleep(2) # 稍微休息一下，避免對 Google 請求太快
+    
+    print(f"\n[{get_now()}] 測試結束。共設定 {len(CHANNELS)} 個頻道，成功找到 {success_count} 篇新聞。")
 
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -207,4 +224,8 @@ def update_daily_news():
     print(f"[{get_now()}] 存檔成功！今日新增 {len(final_news_list)} 篇報導。")
 
 if __name__ == "__main__":
-    update_daily_news()
+    # 檢查是否有傳入 'test' 參數
+    if len(sys.argv) > 1 and sys.argv[1] == 'test':
+        test_rss_search()
+    else:
+        update_daily_news()
