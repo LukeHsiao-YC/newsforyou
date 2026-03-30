@@ -29,7 +29,7 @@ jobs:
       - name: 執行新聞抓取腳本 (加上 test 啟動測試模式)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python fetch_news.py test_ai
+        run: python fetch_news.py
 
       - name: 將新資料存檔並推送到網頁
         run: |
