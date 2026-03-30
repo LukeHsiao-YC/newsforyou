@@ -23,32 +23,141 @@
         /* 頂部導覽列 */
         header {
             background-color: #fff;
-            padding: 20px 0;
+            padding: 30px 20px;
             text-align: center;
             box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-            margin-bottom: 40px;
+            position: relative;
         }
 
         header h1 {
-            font-size: 32px;
+            font-size: 36px;
             font-weight: 900;
             color: #2c3e50;
+            margin-bottom: 10px;
         }
 
         header p {
             color: #7f8c8d;
-            font-size: 16px;
-            margin-top: 5px;
+            font-size: 18px;
         }
 
-        /* 主要內容網格 */
-        .container {
+        /* 頁籤切換導覽 */
+        .tabs-container {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 25px;
+        }
+
+        .tab-btn {
+            background-color: #f1f2f6;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 30px;
+            font-size: 18px;
+            font-weight: 700;
+            color: #576574;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+
+        .tab-btn:hover {
+            background-color: #dfe4ea;
+        }
+
+        .tab-btn.active {
+            background-color: #2c3e50;
+            color: #fff;
+            box-shadow: 0 4px 10px rgba(44, 62, 80, 0.3);
+        }
+
+        /* 內容區塊管理 */
+        .content-section {
+            display: none;
             max-width: 1200px;
-            margin: 0 auto;
+            margin: 40px auto;
             padding: 0 20px;
+        }
+
+        .content-section.active {
+            display: block;
+        }
+
+        .section-title {
+            font-size: 28px;
+            font-weight: 900;
+            color: #2c3e50;
+            margin-bottom: 25px;
+            border-left: 6px solid #f39c12;
+            padding-left: 15px;
+        }
+
+        /* 每週精選特別版面 */
+        .featured-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+
+        .featured-card {
+            display: flex;
+            background: #fff;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+            cursor: pointer;
+            transition: transform 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .featured-card:hover {
+            transform: translateY(-5px);
+            border-color: #f39c12;
+        }
+
+        .featured-card .card-image {
+            width: 40%;
+            height: auto;
+            min-height: 250px;
+        }
+
+        .featured-card .card-content {
+            width: 60%;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .badge-featured {
+            display: inline-block;
+            background: #f39c12;
+            color: #fff;
+            padding: 5px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 900;
+            margin-bottom: 10px;
+            align-self: flex-start;
+        }
+
+        /* 一般新聞網格 */
+        .grid-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 30px;
+        }
+
+        /* 日期標題 (歷史庫用) */
+        .date-header {
+            font-size: 24px;
+            font-weight: 700;
+            color: #34495e;
+            margin: 40px 0 20px 0;
+            border-bottom: 2px solid #bdc3c7;
+            padding-bottom: 10px;
         }
 
         /* 新聞卡片 */
@@ -60,6 +169,8 @@
             cursor: pointer;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             position: relative;
+            display: flex;
+            flex-direction: column;
         }
 
         .news-card:hover {
@@ -76,6 +187,9 @@
 
         .card-content {
             padding: 20px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
         }
 
         .category-tag {
@@ -86,19 +200,20 @@
             font-size: 14px;
             font-weight: 700;
             margin-bottom: 12px;
+            align-self: flex-start;
         }
 
-        /* 不同分類的顏色 */
-        .tag-polecon { background-color: #e74c3c; } /* 政治經濟 */
-        .tag-tech { background-color: #3498db; }    /* 科技 */
-        .tag-human { background-color: #f39c12; }   /* 人文 */
-        .tag-nature { background-color: #2ecc71; }  /* 自然 */
+        .tag-polecon { background-color: #e74c3c; } 
+        .tag-tech { background-color: #3498db; }    
+        .tag-human { background-color: #9b59b6; }   
+        .tag-nature { background-color: #2ecc71; }  
 
         .news-card h2 {
             font-size: 22px;
             font-weight: 700;
             margin-bottom: 10px;
             color: #2c3e50;
+            line-height: 1.4;
         }
 
         .news-card p.summary {
@@ -108,160 +223,65 @@
             -webkit-line-clamp: 3;
             -webkit-box-orient: vertical;
             overflow: hidden;
-        }
-
-        /* 彈出視窗 (Modal) */
-        .modal-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.6);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.3s ease;
-            z-index: 1000;
-            padding: 20px;
-        }
-
-        .modal-overlay.active {
-            opacity: 1;
-            pointer-events: auto;
-        }
-
-        .modal-content {
-            background: #fff;
-            width: 100%;
-            max-width: 800px;
-            max-height: 90vh;
-            border-radius: 24px;
-            overflow-y: auto;
-            position: relative;
-            transform: translateY(20px);
-            transition: transform 0.3s ease;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .modal-overlay.active .modal-content {
-            transform: translateY(0);
-        }
-
-        .close-btn {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            background: #f1f2f6;
-            border: none;
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            font-size: 20px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #2f3542;
-            z-index: 10;
-        }
-
-        .close-btn:hover {
-            background: #dfe4ea;
-        }
-
-        .modal-header-img {
-            width: 100%;
-            height: 300px;
-            object-fit: cover;
-        }
-
-        .modal-body {
-            padding: 40px;
-        }
-
-        .article-section {
-            margin-bottom: 40px;
-        }
-
-        .article-section h3 {
-            font-size: 28px;
-            color: #2c3e50;
-            margin-bottom: 15px;
-            font-weight: 900;
-        }
-
-        .article-section p {
-            font-size: 18px;
-            color: #444;
             margin-bottom: 15px;
         }
 
-        /* 英文閱讀區塊樣式 */
-        .english-section {
-            background-color: #f0f4f8;
-            padding: 30px;
-            border-radius: 20px;
-            border-left: 6px solid #4a90e2;
-        }
-
-        .english-section h3 {
-            font-family: 'Nunito', sans-serif;
-            font-size: 24px;
-            color: #2980b9;
-            margin-bottom: 10px;
-            font-weight: 800;
-        }
-
-        .english-section p {
-            font-family: 'Nunito', sans-serif;
-            font-size: 20px;
-            color: #34495e;
-            line-height: 1.8;
-            margin-bottom: 0;
-        }
-        
-        .eng-badge {
-            display: inline-block;
-            background: #2980b9;
-            color: white;
-            font-size: 12px;
-            padding: 4px 10px;
-            border-radius: 10px;
-            margin-bottom: 15px;
-            font-family: 'Nunito', sans-serif;
-            font-weight: 800;
-        }
-
-        /* 新增：新聞來源連結按鈕樣式 */
-        .source-link-btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            background-color: #f1f2f6;
-            color: #2f3542;
-            padding: 10px 20px;
-            border-radius: 12px;
-            text-decoration: none;
-            font-size: 16px;
+        .card-date {
+            margin-top: auto;
+            font-size: 13px;
+            color: #95a5a6;
             font-weight: 700;
-            margin-top: 20px;
-            transition: background-color 0.2s ease;
         }
 
-        .source-link-btn:hover {
-            background-color: #dfe4ea;
+        /* 彈出視窗 (Modal) 樣式保持不變 */
+        .modal-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0, 0, 0, 0.6); display: flex; align-items: center; justify-content: center;
+            opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 1000; padding: 20px;
         }
+        .modal-overlay.active { opacity: 1; pointer-events: auto; }
+        .modal-content {
+            background: #fff; width: 100%; max-width: 800px; max-height: 90vh; border-radius: 24px;
+            overflow-y: auto; position: relative; transform: translateY(20px); transition: transform 0.3s ease;
+            display: flex; flex-direction: column;
+        }
+        .modal-overlay.active .modal-content { transform: translateY(0); }
+        .close-btn {
+            position: absolute; top: 20px; right: 20px; background: #fff; border: none; width: 40px; height: 40px;
+            border-radius: 50%; font-size: 20px; cursor: pointer; display: flex; align-items: center; justify-content: center;
+            color: #2f3542; z-index: 10; box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .close-btn:hover { background: #f1f2f6; }
+        .modal-header-img { width: 100%; height: 350px; object-fit: cover; }
+        .modal-body { padding: 40px; }
+        .article-section { margin-bottom: 40px; }
+        .article-section h3 { font-size: 32px; color: #2c3e50; margin-bottom: 20px; font-weight: 900; line-height: 1.3;}
+        .article-section p { font-size: 18px; color: #444; margin-bottom: 18px; line-height: 1.8; }
+        
+        .english-section { background-color: #f0f4f8; padding: 30px; border-radius: 20px; border-left: 6px solid #4a90e2; }
+        .english-section h3 { font-family: 'Nunito', sans-serif; font-size: 24px; color: #2980b9; margin-bottom: 10px; font-weight: 800; }
+        .english-section p { font-family: 'Nunito', sans-serif; font-size: 20px; color: #34495e; line-height: 1.8; margin-bottom: 0; }
+        .eng-badge { display: inline-block; background: #2980b9; color: white; font-size: 12px; padding: 4px 10px; border-radius: 10px; margin-bottom: 15px; font-family: 'Nunito', sans-serif; font-weight: 800; }
+        
+        .source-link-btn {
+            display: inline-flex; align-items: center; gap: 8px; background-color: #f1f2f6; color: #2f3542;
+            padding: 12px 20px; border-radius: 12px; text-decoration: none; font-size: 16px; font-weight: 700;
+            margin-top: 20px; transition: background-color 0.2s ease;
+        }
+        .source-link-btn:hover { background-color: #dfe4ea; }
 
+        /* RWD 響應式設定 */
+        @media (max-width: 768px) {
+            .featured-grid { grid-template-columns: 1fr; }
+            .featured-card { flex-direction: column; }
+            .featured-card .card-image { width: 100%; min-height: 200px; height: 200px; }
+            .featured-card .card-content { width: 100%; }
+        }
         @media (max-width: 600px) {
             .modal-body { padding: 25px; }
             .modal-header-img { height: 200px; }
-            .article-section h3 { font-size: 24px; }
+            .article-section h3 { font-size: 26px; }
             .article-section p { font-size: 16px; }
-            .english-section p { font-size: 18px; }
         }
     </style>
 </head>
@@ -270,10 +290,33 @@
     <header>
         <h1>🌍 地球日報：每日大探險</h1>
         <p>跟著地圖看世界，每天認識一件新鮮事！</p>
+        
+        <!-- 新增頁籤切換按鈕 -->
+        <div class="tabs-container">
+            <button class="tab-btn active" onclick="switchTab('latest')">首頁：最新與精選</button>
+            <button class="tab-btn" onclick="switchTab('archive')">時光機：歷史新聞庫</button>
+        </div>
     </header>
 
-    <div class="container" id="news-grid">
-        <!-- 卡片會由 JavaScript 動態產生放在這裡 -->
+    <!-- 區塊 1：最新與精選 (預設顯示) -->
+    <div id="latest-section" class="content-section active">
+        <h2 class="section-title">🌟 每週精選故事</h2>
+        <div class="featured-grid" id="featured-container">
+            <!-- 精選新聞會塞在這裡 -->
+        </div>
+
+        <h2 class="section-title" style="border-left-color: #3498db; margin-top: 50px;">📰 今日最新探索</h2>
+        <div class="grid-container" id="today-container">
+            <!-- 今日新聞會塞在這裡 -->
+        </div>
+    </div>
+
+    <!-- 區塊 2：歷史新聞庫 (隱藏) -->
+    <div id="archive-section" class="content-section">
+        <h2 class="section-title" style="border-left-color: #9b59b6;">📚 過去一個月發生了什麼事？</h2>
+        <div id="archive-container">
+            <!-- 歷史新聞會按日期分組塞在這裡 -->
+        </div>
     </div>
 
     <!-- 彈出視窗結構 -->
@@ -283,11 +326,11 @@
             <img src="" alt="News Image" class="modal-header-img" id="modal-img">
             <div class="modal-body">
                 <span class="category-tag" id="modal-tag"></span>
+                <span class="card-date" id="modal-date" style="margin-left: 10px;"></span>
                 
                 <div class="article-section">
                     <h3 id="modal-zh-title"></h3>
                     <div id="modal-zh-content"></div>
-                    <!-- 新增：新聞來源按鈕 -->
                     <a href="#" target="_blank" class="source-link-btn" id="modal-source-link">
                         📖 閱讀原始真實新聞 (<span id="modal-source-name"></span>)
                     </a>
@@ -303,147 +346,227 @@
     </div>
 
     <script>
-        // 每日四篇新聞資料庫 (文章長度擴充至 500 字以上，並加入真實來源)
-        const newsData = [
+        // 【自動化架構設計】
+        // 未來這個網頁會透過 fetch('news.json') 來抓取 GitHub Actions 自動生成的資料。
+        // 為了讓你在還沒架設好後台前就能預覽，我們準備了一份 mockData 作為備案。
+        
+        const MOCK_DATA = [
+            // --- 2026-03-30 (今日新聞) ---
             {
-                id: 1,
-                category: '政治經濟',
-                tagClass: 'tag-polecon',
-                imageUrl: 'http://googleusercontent.com/image_collection/image_retrieval/9179169646220321141',
-                zhTitle: '遠方的中東戰爭，為什麼讓我們的便當變貴了？',
-                zhSummary: '最近中東地區發生衝突，大家都在搶石油。石油變貴了，卡車運費增加，最後連我們每天吃的便當都跟著漲價了！',
-                zhContent: `
-                    <p>最近大家打開電視看新聞，可能常常聽到主播說：「中東地區又發生衝突了。」你可能會想，中東離我們台灣超過七千公里遠，坐飛機都要十幾個小時，那邊打仗跟我們這些小學生或國中生有什麼關係呢？其實關係可大了，甚至會偷偷吃掉你買零食或便當的零用錢！</p>
-                    <p>要搞懂這件事，我們得先認識一個藏在地底下的超強寶藏：石油。中東地區是全世界生產石油最多、也是最關鍵的地方。想像一下，石油就像是整個現代世界的「體力藥水」。不只是汽車、大卡車、飛機要喝汽油才能跑，我們生活中用的塑膠袋、衣服的化學纖維，甚至農夫種菜用的肥料，裡面通通都有石油的成分。</p>
-                    <p>當美國、伊朗或其他中東國家發生軍事衝突時，會發生什麼事呢？很多負責抽石油的工廠可能會因為危險而停工。而且，把石油運到全世界的超級大船，會因為害怕被流彈波及，不敢經過那些重要的海峽。結果就是，全世界能買到的石油瞬間變少了。</p>
-                    <p>這時候，經濟學裡最重要的一個規則就出現了：「物以稀為貴」。因為全世界的工廠和車子都需要石油，但石油變少了，擁有石油的人就會提高賣出去的價格。國際油價只要一飆漲，連鎖反應就開始了。</p>
-                    <p>首先，幫超級市場送貨的大卡車，他們加滿一次油的錢變貴了。司機叔叔為了不虧本，只好向菜市場或超市的老闆多收運費。接著，便當店老闆去買豬肉、買青菜的時候，發現食材都變貴了，加上店裡煮飯用的瓦斯也可能漲價。老闆算一算，如果便當不漲價，這家店就會倒閉。最後，老闆只好在菜單上貼出公告：「一個便當調漲十塊錢」。</p>
-                    <p>這就是為什麼，遠在地球另一端的戰爭，最後會讓我們的午餐變得更貴。在現在這個被稱為「全球化」的世界裡，我們每個人就像是牽在一起的蜘蛛網。只要網子的一個角落震動，全世界都會跟著搖晃，沒有人可以真正的置身事外喔！</p>
-                `,
-                enTitle: 'Why is Lunch More Expensive?',
-                enContent: 'Oil comes from deep under the ground. We need it to drive cars, fly planes, and even make plastic bags. The Middle East is a place that has a lot of oil. Right now, there is a big problem and people are fighting there. Because it is dangerous, it is very hard to get the oil out and send it to other countries. When everyone wants to buy oil but there is not enough, the price goes up very fast. This makes it more expensive for trucks to carry food to the supermarket. When the food costs more, the restaurants have to ask you to pay more money. This is why even your lunch box is more expensive today. In our world, everything is connected!',
-                sourceName: '中央通訊社 (CNA)',
-                sourceLink: 'https://www.cna.com.tw/news/afe/202404150022.aspx'
+                id: "20260330-1",
+                date: "2026-03-30",
+                isFeatured: true, // 這篇被標記為每週精選
+                category: "政治經濟",
+                tagClass: "tag-polecon",
+                imageUrl: "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?q=80&w=800&auto=format&fit=crop", // Unsplash 高畫質圖 (油桶/加油站意象)
+                zhTitle: "遠方的中東戰爭，為什麼讓我們的便當變貴了？",
+                zhSummary: "最近中東地區發生衝突，大家都在搶石油。石油變貴了，卡車運費增加，最後連我們每天吃的便當都跟著漲價了！",
+                zhContent: `<p>最近大家打開電視看新聞，可能常常聽到主播說：「中東地區又發生衝突了。」你可能會想，中東離我們台灣超過七千公里遠，坐飛機都要十幾個小時，那邊打仗跟我們這些小學生或國中生有什麼關係呢？其實關係可大了，甚至會偷偷吃掉你買零食或便當的零用錢！</p><p>要搞懂這件事，我們得先認識一個藏在地底下的超強寶藏：石油。中東地區是全世界生產石油最多、也是最關鍵的地方。想像一下，石油就像是整個現代世界的「體力藥水」。不只是汽車、大卡車、飛機要喝汽油才能跑，我們生活中用的塑膠袋、衣服的化學纖維，甚至農夫種菜用的肥料，裡面通通都有石油的成分。</p><p>當美國、伊朗或其他中東國家發生軍事衝突時，會發生什麼事呢？很多負責抽石油的工廠可能會因為危險而停工。而且，把石油運到全世界的超級大船，會因為害怕被流彈波及，不敢經過那些重要的海峽。結果就是，全世界能買到的石油瞬間變少了。</p><p>這時候，經濟學裡最重要的一個規則就出現了：「物以稀為貴」。因為全世界的工廠和車子都需要石油，但石油變少了，擁有石油的人就會提高賣出去的價格。國際油價只要一飆漲，連鎖反應就開始了。</p><p>首先，幫超級市場送貨的大卡車，他們加滿一次油的錢變貴了。司機叔叔為了不虧本，只好向菜市場或超市的老闆多收運費。接著，便當店老闆去買豬肉、買青菜的時候，發現食材都變貴了，加上店裡煮飯用的瓦斯也可能漲價。老闆算一算，如果便當不漲價，這家店就會倒閉。最後，老闆只好在菜單上貼出公告：「一個便當調漲十塊錢」。</p><p>這就是為什麼，遠在地球另一端的戰爭，最後會讓我們的午餐變得更貴。在現在這個被稱為「全球化」的世界裡，我們每個人就像是牽在一起的蜘蛛網。只要網子的一個角落震動，全世界都會跟著搖晃，沒有人可以真正的置身事外喔！</p>`,
+                enTitle: "Why is Lunch More Expensive?",
+                enContent: "Oil comes from deep under the ground. We need it to drive cars, fly planes, and even make plastic bags. The Middle East is a place that has a lot of oil. Right now, there is a big problem and people are fighting there. Because it is dangerous, it is very hard to get the oil out and send it to other countries. When everyone wants to buy oil but there is not enough, the price goes up very fast. This makes it more expensive for trucks to carry food to the supermarket. When the food costs more, the restaurants have to ask you to pay more money. This is why even your lunch box is more expensive today. In our world, everything is connected!",
+                sourceName: "中央通訊社 (CNA)",
+                sourceLink: "https://www.cna.com.tw"
             },
             {
-                id: 2,
-                category: '科技探索',
-                tagClass: 'tag-tech',
-                imageUrl: 'http://googleusercontent.com/image_collection/image_retrieval/10064229247718374743',
-                zhTitle: '重返月球！阿提米絲計畫的星際大露營',
-                zhSummary: '美國 NASA 正準備讓四位太空人搭乘新的太空船飛向月球。這不只是一次旅行，更是人類前往火星的暖身賽！',
-                zhContent: `
-                    <p>你晚上抬頭看月亮的時候，有想過上面到底長什麼樣子嗎？其實，人類已經很久沒有親自去月球拜訪了。但是，這個狀況馬上就要改變！美國國家航空暨太空總署（大家都叫它 NASA）正在進行一個超級龐大的計畫，叫做「阿提米絲計畫」（Artemis program）。</p>
-                    <p>這一次，NASA 準備讓四位非常勇敢的太空人，搭乘一艘叫做「獵戶座」（Orion）的最新型太空船出發。這次的任務雖然不會直接降落在月球表面，但他們會飛得非常遠，直接進入月球的軌道，繞著月球飛行好幾圈再回來地球。這聽起來是不是很像一場超級遙遠的星際露營？</p>
-                    <p>你可能會好奇，太空人在這麼小的太空船裡要怎麼生活呢？在太空中是沒有地心引力的，所以他們不能像我們一樣坐在餐桌前吃飯。他們的食物都會被裝在特別的袋子裡，連喝水都要用吸管小心翼翼地吸，不然水珠會在空中飄來飄去，如果不小心跑到機器裡弄壞電腦就糟了。睡覺的時候，他們甚至要把自己綁在牆壁上的睡袋裡，才不會在夢中飄走。</p>
-                    <p>為什麼我們要花這麼多錢和時間再回到月球呢？科學家們其實有著更長遠的目標。他們想在月球上建立一個「太空基地」。月球就像是一個中繼站，科學家可以在那裡測試最新的太空衣、新的生命維持系統，還有如何在沒有氧氣的地方開著太空車探險。</p>
-                    <p>這一切的準備，都是為了未來一個更瘋狂的夢想：把人類送上火星！火星離我們比月球還要遠非常多，所以這一次的阿提米絲計畫，就像是前往火星之前的一場超級大暖身。說不定等你長大以後，去月球旅行會變成一件很平常的事情喔！</p>
-                `,
-                enTitle: 'A Trip to the Moon',
-                enContent: 'Four brave astronauts are going on a special trip to the moon! They will fly in a brand new spaceship called Orion. They will not walk on the moon this time, but they will fly all the way around it. It is like a long camping trip in dark space. In the spaceship, everything floats because there is no gravity. They have to drink water from bags so it does not fly away. Scientists want to build a space camp on the moon one day. They are practicing now because they want to travel to Mars in the future. Mars is very far away, so they must be careful and learn everything they can.',
-                sourceName: 'NASA 官方網站',
-                sourceLink: 'https://www.nasa.gov/specials/artemis/'
+                id: "20260330-2",
+                date: "2026-03-30",
+                isFeatured: false,
+                category: "科技探索",
+                tagClass: "tag-tech",
+                imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800&auto=format&fit=crop", // 太空圖片
+                zhTitle: "重返月球！阿提米絲計畫的星際大露營",
+                zhSummary: "美國 NASA 正準備讓四位太空人搭乘新的太空船飛向月球。這不只是一次旅行，更是人類前往火星的暖身賽！",
+                zhContent: `<p>你晚上抬頭看月亮的時候，有想過上面到底長什麼樣子嗎？其實，人類已經很久沒有親自去月球拜訪了。但是，這個狀況馬上就要改變！美國國家航空暨太空總署（大家都叫它 NASA）正在進行一個超級龐大的計畫，叫做「阿提米絲計畫」（Artemis program）。</p><p>這一次，NASA 準備讓四位非常勇敢的太空人，搭乘一艘叫做「獵戶座」（Orion）的最新型太空船出發。這次的任務雖然不會直接降落在月球表面，但他們會飛得非常遠，直接進入月球的軌道，繞著月球飛行好幾圈再回來地球。這聽起來是不是很像一場超級遙遠的星際露營？</p><p>你可能會好奇，太空人在這麼小的太空船裡要怎麼生活呢？在太空中是沒有地心引力的，所以他們不能像我們一樣坐在餐桌前吃飯。他們的食物都會被裝在特別的袋子裡，連喝水都要用吸管小心翼翼地吸，不然水珠會在空中飄來飄去，如果不小心跑到機器裡弄壞電腦就糟了。睡覺的時候，他們甚至要把自己綁在牆壁上的睡袋裡，才不會在夢中飄走。</p><p>為什麼我們要花這麼多錢和時間再回到月球呢？科學家們其實有著更長遠的目標。他們想在月球上建立一個「太空基地」。月球就像是一個中繼站，科學家可以在那裡測試最新的太空衣、新的生命維持系統，還有如何在沒有氧氣的地方開著太空車探險。</p><p>這一切的準備，都是為了未來一個更瘋狂的夢想：把人類送上火星！火星離我們比月球還要遠非常多，所以這一次的阿提米絲計畫，就像是前往火星之前的一場超級大暖身。說不定等你長大以後，去月球旅行會變成一件很平常的事情喔！</p>`,
+                enTitle: "A Trip to the Moon",
+                enContent: "Four brave astronauts are going on a special trip to the moon! They will fly in a brand new spaceship called Orion. They will not walk on the moon this time, but they will fly all the way around it. It is like a long camping trip in dark space. In the spaceship, everything floats because there is no gravity. They have to drink water from bags so it does not fly away. Scientists want to build a space camp on the moon one day. They are practicing now because they want to travel to Mars in the future. Mars is very far away, so they must be careful and learn everything they can.",
+                sourceName: "NASA 官方網站",
+                sourceLink: "https://www.nasa.gov"
             },
             {
-                id: 3,
-                category: '人文流行',
-                tagClass: 'tag-human',
-                imageUrl: 'http://googleusercontent.com/image_collection/image_retrieval/7903217100796667856',
-                zhTitle: '可愛力量大！吉伊卡哇旋風席捲台灣',
-                zhSummary: '日本超人氣的動畫《吉伊卡哇》最新電影即將上映。為什麼這些看起來軟綿綿的小動物，會讓大人小孩都為之瘋狂呢？',
-                zhContent: `
-                    <p>最近走在路上，或者去逛文具店的時候，你是不是常常看到幾隻看起來軟綿綿、有著水汪汪大眼睛的小動物？沒錯，他們就是現在紅遍全亞洲的日本動畫角色《吉伊卡哇》（Chiikawa）。最近更有一個讓粉絲興奮的好消息，他們的最新動畫電影確定要在台灣的電影院上映了！</p>
-                    <p>你可能會覺得奇怪，為什麼這幾隻看起來只會發出「哇」、「呀」聲音的小傢伙，會這麼受歡迎呢？其實，這背後藏著很厲害的文化魅力。在日本，他們非常擅長創造「Kawaii」（可愛）文化。這種可愛的設計可以讓人看了一眼就覺得心情放鬆，忘記平常上學或上班的壓力。</p>
-                    <p>但是，《吉伊卡哇》之所以能引起這麼大的共鳴，不只是因為他們長得可愛而已。如果你仔細看過他們的故事，你會發現這些小動物其實過得並不輕鬆。在這個虛擬的世界裡，他們必須非常努力地去拔草、打工賺錢，有時候甚至還要拿著小武器去森林裡討伐可怕的怪物，才能換取食物或是買自己喜歡的東西。</p>
-                    <p>這種「長得很可愛，但生活卻充滿挑戰」的反差感，讓很多大人和小朋友在看的時候，覺得跟真實的社會好像有點像。我們每個人在生活中也會遇到困難的考試、或是覺得很累的時候，但看到吉伊卡哇他們遇到挫折還是會互相幫忙、一起吃頓好吃的飯來慶祝，就會讓人覺得被深深療癒了。</p>
-                    <p>看電影或看動畫，不只是為了好玩而已。我們也可以趁這個機會觀察，一個成功的角色是怎麼把正面能量傳遞給觀眾的。下次當你看到這些小動物時，不妨也學習他們那種即使遇到困難，也要勇敢面對、珍惜朋友的精神喔！</p>
-                `,
-                enTitle: 'A Fun Cartoon Movie',
-                enContent: 'Do you like cartoons? A very famous cartoon movie from Japan is coming to the cinema in Taiwan. The characters are small, soft, and have big, bright eyes. Many children and adults love them very much. You might ask, why are they so popular? It is because they look very cute, but their life is not easy. In the story, the little friends have to work hard to get money. Sometimes they even have to fight scary monsters in the forest. When they are sad or tired, they always help each other and share yummy food. This makes people feel warm and happy when they watch the show.',
-                sourceName: '聯合新聞網',
-                sourceLink: 'https://udn.com/news/story/7266/8180470'
+                id: "20260330-3",
+                date: "2026-03-30",
+                isFeatured: false,
+                category: "人文流行",
+                tagClass: "tag-human",
+                imageUrl: "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=800&auto=format&fit=crop", // 可愛動畫意象
+                zhTitle: "可愛力量大！吉伊卡哇旋風席捲台灣",
+                zhSummary: "日本超人氣的動畫《吉伊卡哇》最新電影即將上映。為什麼這些看起來軟綿綿的小動物，會讓大人小孩都為之瘋狂呢？",
+                zhContent: `<p>最近走在路上，或者去逛文具店的時候，你是不是常常看到幾隻看起來軟綿綿、有著水汪汪大眼睛的小動物？沒錯，他們就是現在紅遍全亞洲的日本動畫角色《吉伊卡哇》（Chiikawa）。最近更有一個讓粉絲興奮的好消息，他們的最新動畫電影確定要在台灣的電影院上映了！</p><p>你可能會覺得奇怪，為什麼這幾隻看起來只會發出「哇」、「呀」聲音的小傢伙，會這麼受歡迎呢？其實，這背後藏著很厲害的文化魅力。在日本，他們非常擅長創造「Kawaii」（可愛）文化。這種可愛的設計可以讓人看了一眼就覺得心情放鬆，忘記平常上學或上班的壓力。</p><p>但是，《吉伊卡哇》之所以能引起這麼大的共鳴，不只是因為他們長得可愛而已。如果你仔細看過他們的故事，你會發現這些小動物其實過得並不輕鬆。在這個虛擬的世界裡，他們必須非常努力地去拔草、打工賺錢，有時候甚至還要拿著小武器去森林裡討伐可怕的怪物，才能換取食物或是買自己喜歡的東西。</p><p>這種「長得很可愛，但生活卻充滿挑戰」的反差感，讓很多大人和小朋友在看的時候，覺得跟真實的社會好像有點像。我們每個人在生活中也會遇到困難的考試、或是覺得很累的時候，但看到吉伊卡哇他們遇到挫折還是會互相幫忙、一起吃頓好吃的飯來慶祝，就會讓人覺得被深深療癒了。</p><p>看電影或看動畫，不只是為了好玩而已。我們也可以趁這個機會觀察，一個成功的角色是怎麼把正面能量傳遞給觀眾的。下次當你看到這些小動物時，不妨也學習他們那種即使遇到困難，也要勇敢面對、珍惜朋友的精神喔！</p>`,
+                enTitle: "A Fun Cartoon Movie",
+                enContent: "Do you like cartoons? A very famous cartoon movie from Japan is coming to the cinema in Taiwan. The characters are small, soft, and have big, bright eyes. Many children and adults love them very much. You might ask, why are they so popular? It is because they look very cute, but their life is not easy. In the story, the little friends have to work hard to get money. Sometimes they even have to fight scary monsters in the forest. When they are sad or tired, they always help each other and share yummy food. This makes people feel warm and happy when they watch the show.",
+                sourceName: "聯合新聞網",
+                sourceLink: "https://udn.com"
             },
             {
-                id: 4,
-                category: '自然生態',
-                tagClass: 'tag-nature',
-                imageUrl: 'http://googleusercontent.com/image_collection/image_retrieval/395379843852257796',
-                zhTitle: '愛沙尼亞的年度動物：幫小刺蝟找個家',
-                zhSummary: '刺蝟當選了愛沙尼亞的年度動物！但因為人類把花園打掃得太乾淨，這些可愛的小傢伙現在面臨了沒有地方過冬的危機。',
-                zhContent: `
-                    <p>在歐洲東北部有一個充滿森林的美麗國家叫做「愛沙尼亞」。當地有一個很有趣的傳統，每年都會選出一位「年度動物」。今年，獲得這個光榮頭銜的，是背上長滿刺、遇到危險會縮成一顆球的可愛小傢伙：刺蝟！</p>
-                    <p>不過，動物保護協會選刺蝟當代表，並不只是為了慶祝牠們很可愛，背後其實藏著一個緊急的求救訊號。刺蝟是夜行性動物，也是大自然的除蟲好幫手，牠們喜歡在晚上的花園裡尋找蝸牛和昆蟲來吃。到了冬天，天氣變得非常寒冷，刺蝟需要找一堆乾燥的落葉、枯樹枝或是雜草叢，躲在裡面進行長達好幾個月的冬眠。</p>
-                    <p>但是，問題來了。隨著人類的城市越來越現代化，許多家庭喜歡把自家的花園整理得非常整齊。大人們會鋪上平坦的水泥，或是用自動除草機把院子裡的落葉和雜草清理得一乾二淨。甚至為了防範小偷，會把院子的圍牆蓋得密不透風。</p>
-                    <p>對人類來說，這樣的花園看起來很乾淨漂亮；但是對小刺蝟來說，這簡直是一場災難。牠們在冬天來臨前，到處找不到落葉可以蓋保暖的被子，也找不到隱蔽的樹叢可以躲藏，很多刺蝟就這樣在寒冬中凍死了。而且密閉的圍牆也讓牠們沒辦法穿越花園去尋找食物。</p>
-                    <p>所以，生態專家們開始呼籲大家，在整理花園的時候，可以刻意留一個「不完美」的小角落。不要把所有的落葉都掃掉，讓那個角落保持一點野外的感覺。甚至可以幫刺蝟在圍牆底下挖一個小洞，當作「刺蝟專用通道」。這件事提醒了我們，有時候放手讓大自然保留一點原始的樣子，就是對野生動物最好的保護。</p>
-                `,
-                enTitle: 'The Hedgehog Needs a Home',
-                enContent: 'A hedgehog is a small animal with sharp spikes on its back. If it gets scared, it rolls into a round ball. This year, it is the special "Animal of the Year" in a country called Estonia. Hedgehogs sleep for a long time during the cold winter. To stay warm, they need to hide under dead leaves and dry branches. But today, hedgehogs have a big problem. People clean their gardens too much. They cut all the grass and sweep away all the leaves. Now, the poor hedgehogs cannot find a safe place to build a warm bed. We can help them! We can leave some leaves in a corner of the garden to give them a home.',
-                sourceName: 'BBC News',
-                sourceLink: 'https://www.bbc.com/news/uk-58474966'
+                id: "20260330-4",
+                date: "2026-03-30",
+                isFeatured: false,
+                category: "自然生態",
+                tagClass: "tag-nature",
+                imageUrl: "https://images.unsplash.com/photo-1618826411640-d6df44dd3f7a?q=80&w=800&auto=format&fit=crop", // 刺蝟圖片
+                zhTitle: "愛沙尼亞的年度動物：幫小刺蝟找個家",
+                zhSummary: "刺蝟當選了愛沙尼亞的年度動物！但因為人類把花園打掃得太乾淨，這些可愛的小傢伙現在面臨了沒有地方過冬的危機。",
+                zhContent: `<p>在歐洲東北部有一個充滿森林的美麗國家叫做「愛沙尼亞」。當地有一個很有趣的傳統，每年都會選出一位「年度動物」。今年，獲得這個光榮頭銜的，是背上長滿刺、遇到危險會縮成一顆球的可愛小傢伙：刺蝟！</p><p>不過，動物保護協會選刺蝟當代表，並不只是為了慶祝牠們很可愛，背後其實藏著一個緊急的求救訊號。刺蝟是夜行性動物，也是大自然的除蟲好幫手，牠們喜歡在晚上的花園裡尋找蝸牛和昆蟲來吃。到了冬天，天氣變得非常寒冷，刺蝟需要找一堆乾燥的落葉、枯樹枝或是雜草叢，躲在裡面進行長達好幾個月的冬眠。</p><p>但是，問題來了。隨著人類的城市越來越現代化，許多家庭喜歡把自家的花園整理得非常整齊。大人們會鋪上平坦的水泥，或是用自動除草機把院子裡的落葉和雜草清理得一乾二淨。甚至為了防範小偷，會把院子的圍牆蓋得密不透風。</p><p>對人類來說，這樣的花園看起來很乾淨漂亮；但是對小刺蝟來說，這簡直是一場災難。牠們在冬天來臨前，到處找不到落葉可以蓋保暖的被子，也找不到隱蔽的樹叢可以躲藏，很多刺蝟就這樣在寒冬中凍死了。而且密閉的圍牆也讓牠們沒辦法穿越花園去尋找食物。</p><p>所以，生態專家們開始呼籲大家，在整理花園的時候，可以刻意留一個「不完美」的小角落。不要把所有的落葉都掃掉，讓那個角落保持一點野外的感覺。甚至可以幫刺蝟在圍牆底下挖一個小洞，當作「刺蝟專用通道」。這件事提醒了我們，有時候放手讓大自然保留一點原始的樣子，就是對野生動物最好的保護。</p>`,
+                enTitle: "The Hedgehog Needs a Home",
+                enContent: "A hedgehog is a small animal with sharp spikes on its back. If it gets scared, it rolls into a round ball. This year, it is the special \"Animal of the Year\" in a country called Estonia. Hedgehogs sleep for a long time during the cold winter. To stay warm, they need to hide under dead leaves and dry branches. But today, hedgehogs have a big problem. People clean their gardens too much. They cut all the grass and sweep away all the leaves. Now, the poor hedgehogs cannot find a safe place to build a warm bed. We can help them! We can leave some leaves in a corner of the garden to give them a home.",
+                sourceName: "BBC News",
+                sourceLink: "https://www.bbc.com"
+            },
+            
+            // --- 2026-03-29 (昨日新聞，僅做示範) ---
+            {
+                id: "20260329-1",
+                date: "2026-03-29",
+                isFeatured: true, // 這篇也是每週精選
+                category: "科技探索",
+                tagClass: "tag-tech",
+                imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop", // 晶片/電路圖片
+                zhTitle: "AI 超級大腦再升級，未來的學校會變成怎樣？",
+                zhSummary: "最新的超級 AI 模型發布了！它不只能回答問題，還能教你寫程式、幫你畫畫。未來的學習方式即將迎來大改變。",
+                zhContent: "<p>這是昨日的示範新聞內容...</p>",
+                enTitle: "The Super AI Teacher",
+                enContent: "AI is getting smarter every day...",
+                sourceName: "科技新報",
+                sourceLink: "#"
             }
         ];
 
-        // 渲染卡片到網頁上
-        const grid = document.getElementById('news-grid');
-        const modal = document.getElementById('news-modal');
-        const closeModalBtn = document.getElementById('close-modal');
+        // 啟動程式：嘗試抓取 json 檔案，如果失敗就使用 MOCK_DATA
+        async function initApp() {
+            let allNews = [];
+            try {
+                const response = await fetch('news.json');
+                if (!response.ok) throw new Error('Local file not found');
+                allNews = await response.json();
+            } catch (error) {
+                console.log("找不到 news.json，已自動載入備用展示資料。未來只要在同一個資料夾放上 news.json 系統就會自動讀取喔！");
+                allNews = MOCK_DATA;
+            }
+            renderNews(allNews);
+        }
 
-        // 建立卡片 HTML
-        newsData.forEach(news => {
-            const card = document.createElement('div');
-            card.className = 'news-card';
-            card.innerHTML = `
+        function renderNews(data) {
+            // 找出今天日期 (在這個範例裡抓資料庫的第一筆日期當作「今天」)
+            const todayStr = data[0].date;
+            
+            // 1. 篩選資料
+            const featuredNews = data.filter(n => n.isFeatured);
+            const todayNews = data.filter(n => n.date === todayStr && !n.isFeatured);
+            const archiveNews = data.filter(n => n.date !== todayStr);
+
+            // 2. 渲染每週精選
+            const featuredContainer = document.getElementById('featured-container');
+            featuredNews.forEach(news => {
+                const el = document.createElement('div');
+                el.className = 'featured-card';
+                el.innerHTML = `
+                    <img src="${news.imageUrl}" alt="img" class="card-image">
+                    <div class="card-content">
+                        <span class="badge-featured">🌟 每週精選</span>
+                        <span class="category-tag ${news.tagClass}" style="align-self: flex-start; margin-bottom: 10px;">${news.category}</span>
+                        <h2>${news.zhTitle}</h2>
+                        <p class="summary" style="-webkit-line-clamp: 2;">${news.zhSummary}</p>
+                        <span class="card-date">發布日期: ${news.date}</span>
+                    </div>
+                `;
+                el.addEventListener('click', () => openModal(news));
+                featuredContainer.appendChild(el);
+            });
+
+            // 3. 渲染今日新聞
+            const todayContainer = document.getElementById('today-container');
+            todayNews.forEach(news => {
+                todayContainer.appendChild(createNormalCard(news));
+            });
+
+            // 4. 渲染歷史新聞 (照日期分組)
+            const archiveContainer = document.getElementById('archive-container');
+            const groupedByDate = {};
+            archiveNews.forEach(n => {
+                if(!groupedByDate[n.date]) groupedByDate[n.date] = [];
+                groupedByDate[n.date].push(n);
+            });
+
+            Object.keys(groupedByDate).sort((a,b) => b.localeCompare(a)).forEach(date => {
+                // 產生日期標題
+                const dateHeader = document.createElement('div');
+                dateHeader.className = 'date-header';
+                dateHeader.textContent = `📅 ${date}`;
+                archiveContainer.appendChild(dateHeader);
+
+                // 產生網格
+                const grid = document.createElement('div');
+                grid.className = 'grid-container';
+                groupedByDate[date].forEach(news => {
+                    grid.appendChild(createNormalCard(news));
+                });
+                archiveContainer.appendChild(grid);
+            });
+        }
+
+        // 輔助函數：建立一般小卡片
+        function createNormalCard(news) {
+            const el = document.createElement('div');
+            el.className = 'news-card';
+            el.innerHTML = `
                 <img src="${news.imageUrl}" alt="${news.zhTitle}" class="card-image">
                 <div class="card-content">
                     <span class="category-tag ${news.tagClass}">${news.category}</span>
                     <h2>${news.zhTitle}</h2>
                     <p class="summary">${news.zhSummary}</p>
+                    <span class="card-date">${news.date}</span>
                 </div>
             `;
-            
-            // 點擊卡片開啟彈出視窗
-            card.addEventListener('click', () => openModal(news));
-            grid.appendChild(card);
-        });
+            el.addEventListener('click', () => openModal(news));
+            return el;
+        }
 
-        // 打開彈出視窗並填入資料
+        // 頁籤切換邏輯
+        function switchTab(tabId) {
+            // 切換按鈕視覺
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            // 切換區塊
+            document.querySelectorAll('.content-section').forEach(sec => sec.classList.remove('active'));
+            document.getElementById(`${tabId}-section`).classList.add('active');
+        }
+
+        // 彈出視窗相關邏輯
+        const modal = document.getElementById('news-modal');
         function openModal(news) {
             document.getElementById('modal-img').src = news.imageUrl;
-            
             const tagEl = document.getElementById('modal-tag');
             tagEl.className = `category-tag ${news.tagClass}`;
             tagEl.textContent = news.category;
-
+            document.getElementById('modal-date').textContent = news.date;
             document.getElementById('modal-zh-title').textContent = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
-            
             document.getElementById('modal-en-title').textContent = news.enTitle;
             document.getElementById('modal-en-content').textContent = news.enContent;
 
-            // 更新來源按鈕
             const sourceBtn = document.getElementById('modal-source-link');
             document.getElementById('modal-source-name').textContent = news.sourceName;
             sourceBtn.href = news.sourceLink;
 
             modal.classList.add('active');
-            document.body.style.overflow = 'hidden'; // 鎖定背景滾動
+            document.body.style.overflow = 'hidden';
         }
 
-        // 關閉彈出視窗
-        function closeModal() {
+        document.getElementById('close-modal').addEventListener('click', () => {
             modal.classList.remove('active');
-            document.body.style.overflow = 'auto'; // 恢復背景滾動
-        }
+            document.body.style.overflow = 'auto';
+        });
 
-        closeModalBtn.addEventListener('click', closeModal);
-
-        // 點擊背景也能關閉
         modal.addEventListener('click', (e) => {
             if (e.target === modal) {
-                closeModal();
+                modal.classList.remove('active');
+                document.body.style.overflow = 'auto';
             }
         });
+
+        // 執行啟動
+        initApp();
     </script>
 </body>
 </html>
