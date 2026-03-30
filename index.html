@@ -6,7 +6,7 @@
     <title>地球日報：每日新聞大探險</title>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;900&family=Nunito:wght@600;800&display=swap" rel="stylesheet">
     <style>
-        /* 基本樣式重置 */
+        /* 基本設定 */
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { background-color: #f4f7f6; font-family: 'Noto Sans TC', sans-serif; color: #333; line-height: 1.6; }
 
@@ -14,88 +14,90 @@
         header h1 { font-size: 36px; font-weight: 900; color: #2c3e50; margin-bottom: 10px; }
         header p { color: #7f8c8d; font-size: 18px; }
 
-        /* 頁籤切換 */
+        /* 頁籤導覽 */
         .tabs-container { display: flex; justify-content: center; gap: 15px; margin-top: 25px; }
-        .tab-btn { background-color: #f1f2f6; border: none; padding: 12px 25px; border-radius: 30px; font-size: 18px; font-weight: 700; color: #576574; cursor: pointer; transition: all 0.3s ease; }
+        .tab-btn { background-color: #f1f2f6; border: none; padding: 12px 28px; border-radius: 30px; font-size: 18px; font-weight: 700; color: #576574; cursor: pointer; transition: all 0.3s ease; font-family: 'Noto Sans TC', sans-serif; }
         .tab-btn.active { background-color: #2c3e50; color: #fff; box-shadow: 0 4px 10px rgba(44, 62, 80, 0.3); }
 
         .content-section { display: none; max-width: 1200px; margin: 40px auto; padding: 0 20px; }
         .content-section.active { display: block; }
         .section-title { font-size: 28px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; border-left: 6px solid #f39c12; padding-left: 15px; }
 
-        /* 四大面向與歷史網格 */
-        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; margin-bottom: 60px;}
-        .date-header { font-size: 24px; font-weight: 700; color: #34495e; margin: 40px 0 20px 0; border-bottom: 2px solid #bdc3c7; padding-bottom: 10px; }
-
-        /* 地圖區塊 */
-        .map-wrapper { background: #fff; border-radius: 24px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); margin-bottom: 60px; text-align: center; position: relative; }
-        .map-container { position: relative; width: 100%; max-width: 900px; margin: 0 auto; }
-        .map-svg { width: 100%; height: auto; opacity: 0.9; }
-        
-        .map-pin { position: absolute; transform: translate(-50%, -100%); cursor: pointer; transition: all 0.3s ease; z-index: 2;}
-        .map-pin:hover { transform: translate(-50%, -115%) scale(1.1); z-index: 10;}
-        .pin-icon { font-size: 32px; filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.3)); }
-        .pin-label { background: #fff; padding: 4px 12px; border-radius: 12px; font-size: 14px; font-weight: 900; box-shadow: 0 4px 12px rgba(0,0,0,0.15); white-space: nowrap; margin-top: -2px; color: #2c3e50; border: 2px solid #e74c3c;}
-
-        /* 卡片設計 */
-        .news-card { background: #fff; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: column; height: 100%; }
+        /* 網格與卡片 */
+        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-bottom: 60px; }
+        .news-card { background: #fff; border-radius: 24px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; }
         .news-card:hover { transform: translateY(-8px); box-shadow: 0 15px 35px rgba(0,0,0,0.1); }
-        .card-image { width: 100%; height: 180px; object-fit: cover; background-color: #ddd; }
-        .card-content { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
+        .card-image { width: 100%; height: 200px; object-fit: cover; background-color: #dfe6e9; display: block; }
+        .card-content { padding: 25px; flex-grow: 1; display: flex; flex-direction: column; }
         
-        .category-tag { padding: 4px 10px; border-radius: 10px; color: #fff; font-size: 12px; font-weight: 700; align-self: flex-start; margin-bottom: 12px; }
-        .region-tag { background-color: #34495e; padding: 4px 10px; border-radius: 10px; color: #fff; font-size: 12px; font-weight: 700; margin-left: 5px; }
+        .tag-wrap { display: flex; gap: 8px; margin-bottom: 12px; }
+        .category-tag { padding: 4px 12px; border-radius: 12px; color: #fff; font-size: 13px; font-weight: 700; }
+        .region-tag { background-color: #34495e; padding: 4px 12px; border-radius: 12px; color: #fff; font-size: 13px; font-weight: 700; }
+        
         .tag-polecon { background-color: #e74c3c; } 
         .tag-tech { background-color: #3498db; }    
         .tag-human { background-color: #9b59b6; }   
         .tag-nature { background-color: #2ecc71; }  
 
-        .news-card h2 { font-size: 18px; font-weight: 800; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
-        .news-card p.summary { font-size: 14px; color: #7f8c8d; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        .news-card h2 { font-size: 20px; font-weight: 800; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
+        .news-card p.summary { font-size: 15px; color: #7f8c8d; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+        /* 世界地圖互動區 */
+        .map-wrapper { background: #fff; border-radius: 28px; padding: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); margin-bottom: 60px; text-align: center; }
+        .map-container { position: relative; width: 100%; max-width: 900px; margin: 0 auto; }
+        .map-svg { width: 100%; height: auto; opacity: 0.9; }
+        
+        .map-pin { position: absolute; transform: translate(-50%, -100%); cursor: pointer; transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); z-index: 2;}
+        .map-pin:hover { transform: translate(-50%, -115%) scale(1.2); z-index: 10;}
+        .pin-icon { font-size: 36px; filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.3)); }
+        .pin-label { background: #fff; padding: 4px 14px; border-radius: 14px; font-size: 14px; font-weight: 900; box-shadow: 0 4px 15px rgba(0,0,0,0.15); white-space: nowrap; margin-top: -2px; color: #2c3e50; border: 2px solid #e74c3c; }
+
+        /* 歷史庫日期標題 */
+        .date-header { font-size: 26px; font-weight: 900; color: #2c3e50; margin: 50px 0 25px 0; border-bottom: 3px solid #bdc3c7; padding-bottom: 12px; display: flex; align-items: center; gap: 10px; }
 
         /* 彈出視窗 (Modal) */
-        .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 1000; padding: 20px; }
+        .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 2000; padding: 20px; }
         .modal-overlay.active { opacity: 1; pointer-events: auto; }
-        .modal-content { background: #fff; width: 100%; max-width: 850px; max-height: 90vh; border-radius: 28px; overflow-y: auto; position: relative; transform: translateY(30px); transition: transform 0.3s ease; }
+        .modal-content { background: #fff; width: 100%; max-width: 850px; max-height: 90vh; border-radius: 32px; overflow-y: auto; position: relative; transform: translateY(30px); transition: transform 0.3s ease; }
         .modal-overlay.active .modal-content { transform: translateY(0); }
-        .close-btn { position: absolute; top: 20px; right: 20px; background: #fff; border: none; width: 45px; height: 45px; border-radius: 50%; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.1); z-index: 10; }
+        .close-btn { position: absolute; top: 20px; right: 20px; background: rgba(255,255,255,0.9); border: none; width: 45px; height: 45px; border-radius: 50%; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.1); z-index: 10; display: flex; align-items: center; justify-content: center; }
         
-        .modal-header-img { width: 100%; height: 380px; object-fit: cover; background-color: #ddd; }
-        .modal-body { padding: 40px; }
-        .modal-zh-title { font-size: 30px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; line-height: 1.3; }
-        .modal-zh-content p { font-size: 18px; color: #444; margin-bottom: 18px; line-height: 1.8; text-align: justify; }
+        .modal-header-img { width: 100%; height: 400px; object-fit: cover; background-color: #eee; }
+        .modal-body { padding: 45px; }
+        .modal-zh-title { font-size: 32px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; line-height: 1.3; }
+        .modal-zh-content p { font-size: 19px; color: #444; margin-bottom: 22px; line-height: 1.8; text-align: justify; }
 
-        /* 深度思考小站 */
-        .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 24px; padding: 25px; margin: 35px 0; }
-        .scaffold-title { font-size: 22px; font-weight: 900; color: #d35400; margin-bottom: 20px; display: flex; align-items: center; gap: 10px;}
-        .scaffold-step { margin-bottom: 20px; }
-        .scaffold-header { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
-        .scaffold-label { color: #fff; background: #e67e22; padding: 5px 12px; border-radius: 8px; font-size: 13px; font-weight: 700; white-space: nowrap; }
-        .scaffold-q { font-size: 17px; color: #2d3436; font-weight: 800; margin: 0; }
-        
-        .hint-btn { background: #fff; border: 2px solid #e67e22; color: #e67e22; padding: 8px 18px; border-radius: 25px; font-size: 14px; font-weight: 700; cursor: pointer; transition: all 0.2s; margin-top: 5px; }
-        .hint-btn:hover { background: #e67e22; color: #fff; }
-        .scaffold-hint { display: none; margin-top: 12px; background: #fff; padding: 15px; border-radius: 15px; font-size: 16px; color: #555; line-height: 1.7; border-left: 6px solid #f1c40f; box-shadow: 0 4px 10px rgba(0,0,0,0.03); }
+        /* 思考小站 */
+        .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 24px; padding: 30px; margin: 40px 0; }
+        .scaffold-title { font-size: 24px; font-weight: 900; color: #d35400; margin-bottom: 25px; display: flex; align-items: center; gap: 12px;}
+        .scaffold-step { margin-bottom: 25px; }
+        .scaffold-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+        .scaffold-label { color: #fff; background: #e67e22; padding: 5px 12px; border-radius: 10px; font-size: 15px; font-weight: 800; white-space: nowrap; }
+        .scaffold-q { font-size: 18px; color: #2d3436; font-weight: 800; margin: 0; }
+        .hint-btn { background: #fff; border: 2px solid #e67e22; color: #e67e22; padding: 8px 20px; border-radius: 25px; font-size: 15px; font-weight: 800; cursor: pointer; transition: all 0.2s; margin-top: 8px; }
+        .scaffold-hint { display: none; margin-top: 15px; background: #fff; padding: 20px; border-radius: 18px; font-size: 17px; color: #555; line-height: 1.7; border-left: 6px solid #f1c40f; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
 
-        /* 英文學習 */
-        .english-section { background-color: #f0f4f8; padding: 30px; border-radius: 24px; border-left: 8px solid #4a90e2; margin-bottom: 30px;}
-        .eng-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; gap: 10px;}
-        .level-selector { display: flex; gap: 5px; background: #fff; padding: 5px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);}
-        .level-btn { border: none; background: transparent; padding: 7px 14px; border-radius: 10px; font-size: 13px; font-weight: 800; cursor: pointer; color: #7f8c8d; }
+        /* 英文與單字 */
+        .english-section { background-color: #f0f4f8; padding: 35px; border-radius: 28px; border-left: 8px solid #4a90e2; margin-bottom: 35px;}
+        .eng-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 15px;}
+        .english-section h3 { font-family: 'Nunito', sans-serif; font-size: 26px; color: #2980b9; font-weight: 800; }
+        .level-selector { display: flex; gap: 6px; background: #fff; padding: 5px; border-radius: 14px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);}
+        .level-btn { border: none; background: transparent; padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; cursor: pointer; color: #7f8c8d; transition: all 0.2s; }
         .level-btn.active { background: #4a90e2; color: #fff; }
-        .modal-en-content { font-family: 'Nunito', sans-serif; font-size: 18px; color: #34495e; line-height: 1.7; }
+        .modal-en-content { font-family: 'Nunito', sans-serif; font-size: 20px; color: #34495e; line-height: 1.7; }
 
-        .vocab-section { display: flex; gap: 15px; flex-wrap: wrap; margin-top: 25px; }
-        .vocab-card { background: #fff; border: 2px solid #e2e8f0; padding: 15px; border-radius: 15px; min-width: 180px; }
-        .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 800; color: #2c3e50; font-size: 20px; display: block; border-bottom: 2px solid #f1c40f; margin-bottom: 8px; padding-bottom: 4px; }
-        .vocab-zh { font-size: 15px; color: #7f8c8d; font-weight: 700; }
+        .vocab-section { display: flex; gap: 20px; flex-wrap: wrap; margin-top: 30px; }
+        .vocab-card { background: #fff; border: 2px solid #e2e8f0; padding: 18px; border-radius: 20px; min-width: 200px; flex: 1; }
+        .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 800; color: #2c3e50; font-size: 22px; display: block; border-bottom: 3px solid #f1c40f; margin-bottom: 10px; padding-bottom: 5px; }
+        .vocab-zh { font-size: 16px; color: #576574; font-weight: 700; }
 
-        .source-link-btn { display: inline-flex; align-items: center; gap: 8px; background-color: #f1f2f6; color: #2f3542; padding: 14px 24px; border-radius: 15px; text-decoration: none; font-size: 15px; font-weight: 700; margin-top: 10px; }
+        .source-link-btn { display: inline-flex; align-items: center; gap: 10px; background-color: #f1f2f6; color: #2f3542; padding: 16px 28px; border-radius: 18px; text-decoration: none; font-size: 16px; font-weight: 800; transition: all 0.2s; }
 
         @media (max-width: 768px) {
             .pin-label { display: none; }
-            .modal-body { padding: 25px; }
-            .modal-zh-title { font-size: 24px; }
+            .modal-body { padding: 30px; }
+            .modal-zh-title { font-size: 26px; }
+            .modal-header-img { height: 250px; }
         }
     </style>
 </head>
@@ -110,22 +112,23 @@
         </div>
     </header>
 
-    <!-- 區塊 1：今日地圖 -->
+    <!-- 區塊：今日內容 -->
     <div id="latest-section" class="content-section active">
         <h2 class="section-title">🗞️ 焦點四大面向</h2>
         <div class="grid-container" id="thematic-container">
-            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6;">記者正在加緊寫稿中...</p>
+            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6; padding: 40px;">正在呼叫全球記者趕往現場中...</p>
         </div>
 
         <h2 class="section-title" style="border-left-color: #3498db; margin-top: 40px;">🗺️ 環球視野地圖</h2>
         <div class="map-wrapper">
+            <p style="color: #7f8c8d; margin-bottom: 30px; font-weight: 700;">點擊地圖上的📍定位點，看看那邊發生了什麼事！</p>
             <div class="map-container" id="map-container">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg" class="map-svg" alt="World Map">
             </div>
         </div>
     </div>
 
-    <!-- 區塊 2：歷史庫 -->
+    <!-- 區塊：歷史紀錄 -->
     <div id="archive-section" class="content-section">
         <h2 class="section-title" style="border-left-color: #9b59b6;">📚 看看過去發生了什麼？</h2>
         <div id="archive-container"></div>
@@ -143,25 +146,25 @@
                 <div class="scaffold-section">
                     <div class="scaffold-title">🧠 深度思考小站</div>
                     <div class="scaffold-step">
-                        <div class="scaffold-header"><span class="scaffold-label">1. 觀察</span><p class="scaffold-q">這篇新聞提到了什麼關鍵變化？</p></div>
-                        <button class="hint-btn" onclick="toggleHint(0)" id="btn-0">💡 點看提示</button>
+                        <div class="scaffold-header"><span class="scaffold-label">1. 觀察事實</span><p class="scaffold-q">這篇新聞提到了什麼關鍵的改變？</p></div>
+                        <button class="hint-btn" onclick="toggleHint(0)" id="btn-0">💡 點看引導提示</button>
                         <div class="scaffold-hint"></div>
                     </div>
                     <div class="scaffold-step">
-                        <div class="scaffold-header"><span class="scaffold-label">2. 連結</span><p class="scaffold-q">這件事跟在台灣的我們有什麼關聯？</p></div>
-                        <button class="hint-btn" onclick="toggleHint(1)" id="btn-1">💡 點看提示</button>
+                        <div class="scaffold-header"><span class="scaffold-label">2. 生活連結</span><p class="scaffold-q">這件事如果發生在台灣，對我們有什麼影響？</p></div>
+                        <button class="hint-btn" onclick="toggleHint(1)" id="btn-1">💡 點看引導提示</button>
                         <div class="scaffold-hint"></div>
                     </div>
                     <div class="scaffold-step">
-                        <div class="scaffold-header"><span class="scaffold-label">3. 提案</span><p class="scaffold-q">你現在可以做到的一件小事是什麼？</p></div>
-                        <button class="hint-btn" onclick="toggleHint(2)" id="btn-2">💡 點看提示</button>
+                        <div class="scaffold-header"><span class="scaffold-label">3. 行動提案</span><p class="scaffold-q">針對這個議題，你現在可以做到的一件小事？</p></div>
+                        <button class="hint-btn" onclick="toggleHint(2)" id="btn-2">💡 點看引導提示</button>
                         <div class="scaffold-hint"></div>
                     </div>
                 </div>
 
                 <div class="english-section">
                     <div class="eng-header">
-                        <h3 id="modal-en-title" style="margin:0; font-family:'Nunito'; color:#2980b9;"></h3>
+                        <h3 id="modal-en-title" style="margin:0; font-family:'Nunito';"></h3>
                         <div class="level-selector">
                             <button class="level-btn active" onclick="setEng('basic')">基礎</button>
                             <button class="level-btn" onclick="setEng('intermediate')">中階</button>
@@ -172,7 +175,7 @@
                     <div class="vocab-section" id="modal-vocab"></div>
                 </div>
 
-                <a href="#" target="_blank" class="source-link-btn" id="modal-source-link">📖 閱讀真實新聞來源 (<span id="modal-source-name"></span>)</a>
+                <a href="#" target="_blank" class="source-link-btn" id="modal-source-link">📖 閱讀完整真實來源 (<span id="modal-source-name"></span>)</a>
             </div>
         </div>
     </div>
@@ -195,12 +198,13 @@
 
         async function init() {
             try {
+                // 加隨機參數破除緩存
                 const response = await fetch('news.json?v=' + Date.now());
                 if (!response.ok) throw new Error();
                 newsData = await response.json();
                 render();
             } catch (e) {
-                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>目前還沒有資料，請跑一次 GitHub Action 喔！</p>";
+                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center; padding: 40px;'>資料庫更新中，請等候 GitHub Action 執行完畢後重新整理網頁。</p>";
             }
         }
 
@@ -208,18 +212,20 @@
             if (newsData.length === 0) return;
             const latestDate = newsData[0].date;
 
-            // 渲染今日地圖與主題
-            const container = document.getElementById('thematic-container');
-            container.innerHTML = '';
+            // 1. 今日內容
+            const thematicContainer = document.getElementById('thematic-container');
+            thematicContainer.innerHTML = '';
             newsData.filter(n => n.type === 'thematic' && n.date === latestDate).forEach(n => {
                 const card = document.createElement('div');
                 card.className = 'news-card';
                 card.innerHTML = `<img src="${n.imageUrl}" class="card-image" onerror="this.src='${FALLBACK_IMG}'"><div class="card-content"><span class="category-tag ${n.tagClass}">${n.category}</span><h2>${n.zhTitle}</h2><p class="summary">${n.zhSummary}</p></div>`;
                 card.onclick = () => openModal(n);
-                container.appendChild(card);
+                thematicContainer.appendChild(card);
             });
 
+            // 2. 地圖點位
             const mapContainer = document.getElementById('map-container');
+            mapContainer.querySelectorAll('.map-pin').forEach(p => p.remove());
             newsData.filter(n => n.type === 'regional' && n.date === latestDate).forEach(n => {
                 const pos = regionCoords[n.region];
                 if (pos) {
@@ -232,20 +238,21 @@
                 }
             });
 
-            // 渲染歷史庫 (照日期分組)
+            // 3. 歷史分組
             const archiveContainer = document.getElementById('archive-container');
+            archiveContainer.innerHTML = '';
             const archiveData = newsData.filter(n => n.date !== latestDate);
             const groups = {};
             archiveData.forEach(n => { if(!groups[n.date]) groups[n.date] = []; groups[n.date].push(n); });
             
             Object.keys(groups).sort((a,b) => b.localeCompare(a)).forEach(date => {
-                const h = document.createElement('div'); h.className = 'date-header'; h.innerText = `📅 ${date}`;
+                const h = document.createElement('div'); h.className = 'date-header'; h.innerHTML = `📅 ${date}`;
                 archiveContainer.appendChild(h);
                 const grid = document.createElement('div'); grid.className = 'grid-container';
                 groups[date].forEach(n => {
                     const card = document.createElement('div');
                     card.className = 'news-card';
-                    card.innerHTML = `<img src="${n.imageUrl}" class="card-image" onerror="this.src='${FALLBACK_IMG}'"><div class="card-content"><div><span class="category-tag ${n.tagClass}">${n.category}</span><span class="region-tag">${n.region}</span></div><h2>${n.zhTitle}</h2><p class="summary">${n.zhSummary}</p></div>`;
+                    card.innerHTML = `<img src="${n.imageUrl}" class="card-image" onerror="this.src='${FALLBACK_IMG}'"><div class="card-content"><div class="tag-wrap"><span class="category-tag ${n.tagClass}">${n.category}</span><span class="region-tag">${n.region}</span></div><h2>${n.zhTitle}</h2><p class="summary">${n.zhSummary}</p></div>`;
                     card.onclick = () => openModal(n);
                     grid.appendChild(card);
                 });
@@ -255,6 +262,7 @@
 
         function openModal(news) {
             currentNews = news;
+            const modal = document.getElementById('news-modal');
             document.getElementById('modal-img').src = news.imageUrl;
             document.getElementById('modal-zh-title').innerText = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
@@ -264,7 +272,7 @@
 
             const hints = document.querySelectorAll('.scaffold-hint');
             const btns = document.querySelectorAll('.hint-btn');
-            hints.forEach((h, i) => { h.innerText = news.scaffold[i]; h.style.display = 'none'; btns[i].innerText = "💡 點看提示"; });
+            hints.forEach((h, i) => { h.innerText = news.scaffold[i] || "點擊看提示"; h.style.display = 'none'; btns[i].innerText = "💡 點看引導提示"; });
 
             setEng('basic');
 
@@ -274,7 +282,7 @@
                 vocab.innerHTML += `<div class="vocab-card"><span class="vocab-en">${v.word}</span><span class="vocab-zh">${v.zh}</span></div>`;
             });
 
-            document.getElementById('news-modal').classList.add('active');
+            modal.classList.add('active');
             document.body.style.overflow = 'hidden';
         }
 
@@ -282,7 +290,7 @@
             const h = document.querySelectorAll('.scaffold-hint')[i];
             const b = document.getElementById(`btn-${i}`);
             if (h.style.display === 'none') { h.style.display = 'block'; b.innerText = "👆 隱藏提示"; }
-            else { h.style.display = 'none'; b.innerText = "💡 點看提示"; }
+            else { h.style.display = 'none'; b.innerText = "💡 點看引導提示"; }
         }
 
         function setEng(lv) {
@@ -290,12 +298,12 @@
             const idx = lv === 'basic' ? 0 : (lv === 'intermediate' ? 1 : 2);
             document.querySelectorAll('.level-btn')[idx].classList.add('active');
             const content = currentNews.enContent;
-            document.getElementById('modal-en-content').innerText = (typeof content === 'string') ? content : content[lv];
+            document.getElementById('modal-en-content').innerText = (typeof content === 'string') ? content : (content[lv] || "暫無內容");
         }
 
         function switchTab(id) {
             document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-            event.target.classList.add('active');
+            event.currentTarget.classList.add('active');
             document.querySelectorAll('.content-section').forEach(s => s.classList.remove('active'));
             document.getElementById(`${id}-section`).classList.add('active');
         }
