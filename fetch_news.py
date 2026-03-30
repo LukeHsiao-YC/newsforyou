@@ -5,7 +5,6 @@ import datetime
 import requests
 import re
 import urllib.parse
-import random
 import time
 import xml.etree.ElementTree as ET
 
@@ -16,7 +15,7 @@ sys.stdout.reconfigure(line_buffering=True)
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
-# 定義 13 個新聞頻道 (新增趣味溫馨)
+# 定義 13 個新聞頻道 (包含趣味溫馨)
 CHANNELS = [
     {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 政治 經濟"},
     {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "國際 自然 環境 生態"},
@@ -37,7 +36,7 @@ def get_now():
     return datetime.datetime.now().strftime('%H:%M:%S')
 
 def fetch_real_news_from_rss(query):
-    # 強制將我們信賴的媒體加入搜尋條件，提高命中率
+    # 強制將信賴媒體加入搜尋條件
     media_query = " (中央社 OR 公視 OR 報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
     encoded_query = urllib.parse.quote(f"{query}{media_query} when:7d")
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
@@ -49,14 +48,11 @@ def fetch_real_news_from_rss(query):
         root = ET.fromstring(xml_content)
         items = root.findall('.//channel/item')
         
-        # 定義優質媒體白名單
         preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
-        # 定義黑名單
         blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易"]
         
         selected_item = None
         
-        # 1. 優先尋找白名單內的媒體
         for item in items:
             source_elem = item.find('source')
             source_name = source_elem.text if source_elem is not None else ""
@@ -66,7 +62,6 @@ def fetch_real_news_from_rss(query):
                 selected_item = item
                 break
                 
-        # 2. 如果找不到白名單，就找任何一個非黑名單的媒體
         if not selected_item:
             for item in items:
                 source_elem = item.find('source')
@@ -104,10 +99,9 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     2. 英文單字 (vocabulary)：請挑選 2 個。
        - "word" 欄位：必須、絕對、只能填寫『英文單字』。
        - "zh" 欄位：填寫該單字的中文翻譯與適合孩子理解的解釋。
-    3. 圖片指令 (imagePrompt)：請用英文寫一段這篇新聞的視覺描述（例如：'A futuristic solar farm in a lush tropical forest under a bright sun'）。
 
     【JSON 格式要求】
-    回傳標準 JSON 物件，不要帶 Markdown 標記：
+    回傳標準 JSON 物件，不要帶 Markdown 標記，也不需要提供圖片提示：
     {{
       "zhTitle": "吸引人的大標題",
       "zhSummary": "簡單摘要這則新聞的重點",
@@ -118,8 +112,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
       "vocabulary": [ 
           {{ "word": "English_Word_1", "zh": "中文意思與簡單生活化的解釋" }}, 
           {{ "word": "English_Word_2", "zh": "中文意思與簡單生活化的解釋" }} 
-      ],
-      "imagePrompt": "A unique English descriptive sentence for AI image generation"
+      ]
     }}
     """
     payload = { "contents": [{"parts": [{"text": prompt}]}], "generationConfig": { "responseMimeType": "application/json" } }
@@ -143,12 +136,6 @@ def generate_article_with_ai(channel_info, real_news, today_date):
                 "tagClass": channel_info["tagClass"], "region": channel_info["region"], "date": today_date,
                 "sourceName": real_news["source"], "sourceLink": real_news["link"], "isFeatured": False 
             })
-            
-            raw_img_prompt = article_data.get("imagePrompt", "Global scenery")
-            en_title = article_data.get("enTitle", "")
-            unique_img_prompt = f"{raw_img_prompt} inspired by {en_title}"
-            random_seed = random.randint(1, 999999)
-            article_data["imageUrl"] = f"https://image.pollinations.ai/prompt/{urllib.parse.quote(unique_img_prompt)}?width=800&height=500&nologo=true&seed={random_seed}"
             
             return article_data
         except Exception as e:
