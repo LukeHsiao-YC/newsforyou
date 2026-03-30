@@ -57,43 +57,36 @@ def fetch_real_news_from_rss(query):
     return None
 
 def generate_article_with_ai(channel_info, real_news, today_date):
-    # 升級版 Prompt：強迫輸出長文並豐富內容
+    # 更強大的 Prompt：規定字數與結構
     prompt = f"""
-    你現在是一位充滿熱情、知識淵博的青少年新聞總編。
-    目標讀者：國小高年級到國中生（10-15歲）。
+    你現在是一位知識博大精深、充滿魅力的青少年報紙總編輯。
+    請根據這則真實新聞標題：{real_news['title']}，為 10-15 歲的孩子撰寫一篇深度專題。
     
-    真實新聞標題：{real_news['title']}
-    區域與類型：{channel_info['region']}的{channel_info['category']}
-    
-    請撰寫一篇富有教育意義的長篇報導，嚴格遵守：
-    1. 中文長度 (zhContent)：絕對必須超過 500 字，甚至 700 字也沒關係。
-       內容必須包含以下三個「隱藏段落」來支撐字數：
-       - 第一部分：這件事發生的詳細經過與因果關係。
-       - 第二部分：補充與此事件相關的一個「科學知識」或「歷史背景」。
-       - 第三部分：這件事對人類社會或未來世界的長遠影響。
-       語氣要自然溫暖，像是在跟孩子促膝長談，禁止 AI 慣用語。
-       
-    2. 深度思考提示 (scaffold)：請提供 3 個層次的引導文字（不要直接給答案）：
-       - 提示一（觀察事實）：導引用戶去注意新聞中的某個關鍵變化。
-       - 提示二（生活連結）：將這件事與用戶在台灣的日常經驗掛鉤。
-       - 提示三（提案）：給予一個具體的方向，讓用戶思考自己能做出的微小改變。
-       
-    3. 英文分級 (enContent)：basic, intermediate, advanced 三個難度，每段約 3-5 句話。
-    
-    4. 英文單字 (vocabulary)：2 個重點單字 + 中文解釋。
-    
-    5. 圖片關鍵字 (imageKeyword)：給一個具體的英文名詞。
+    【核心任務：內容長度與品質】
+    1. 中文長度 (zhContent)：絕對必須超過 550 個中文字。
+    2. 強制寫作結構（請按此順序分成 4 到 5 個 <p> 段落）：
+       - 第一段【現場直擊】：用說故事的方式引人入勝，描述這件事發生的背景與最震撼的改變。
+       - 第二段【為什麼會這樣】：詳細解釋事件背後的科學原理、歷史原因或政治動機。
+       - 第三段【知識放大鏡】：提供一個與這則新聞相關的冷知識（例如：如果是太空新聞，就解釋軌道原理）。
+       - 第四段【對未來的影響】：這件事會如何改變我們 10 年後的生活？或是這件事跟台灣的我們有什麼關聯？
+    3. 禁用 AI 詞彙：嚴禁「深入探討、值得注意、賦能、全方位、一站式」。禁止使用任何破折號或 Em dash。語氣要像真人。
 
-    回傳 JSON 格式（禁止 Markdown）：
+    【其他欄位要求】
+    - scaffold：提供 3 個層次的引導提示，重點是引發孩子好奇，不要給答案。
+    - enContent：basic, intermediate, advanced 三種難度。
+    - vocabulary：2 個重點單字 + 中文解釋。
+    - imageKeyword：1 個具體的英文名詞，如 'telescope', 'glacier', 'stadium'。
+
+    請只回傳 JSON 格式（不要 Markdown 標記）：
     {{
-      "zhTitle": "吸睛標題",
-      "zhSummary": "約50字摘要",
-      "zhContent": "使用HTML段落標籤包裹的500字以上內容",
-      "scaffold": ["提示一", "提示二", "提示三"],
-      "enTitle": "English Title",
+      "zhTitle": "吸睛且有教育意義的標題",
+      "zhSummary": "約 60 字的重點摘錄",
+      "zhContent": "用 <p> 標籤包裹的 550 字以上詳細內容",
+      "scaffold": ["觀察提示", "連結提示", "行動提示"],
+      "enTitle": "English News Title",
       "enContent": {{ "basic": "...", "intermediate": "...", "advanced": "..." }},
       "vocabulary": [ {{ "word": "...", "zh": "..." }}, {{ "word": "...", "zh": "..." }} ],
-      "imageKeyword": "one_word"
+      "imageKeyword": "keyword"
     }}
     """
 
@@ -106,12 +99,12 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            print(f"[{get_now()}] 正在呼叫 API (試行 {attempt+1}/{max_retries})...")
+            print(f"[{get_now()}] 正在呼叫 API (第 {attempt+1} 次嘗試)...")
             response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
             
             if response.status_code == 429:
-                print(f"[{get_now()}] 碰到頻率限制，休息 30 秒...")
-                time.sleep(30)
+                print(f"[{get_now()}] API 頻率限制中，休息 45 秒...")
+                time.sleep(45)
                 continue
                 
             response.raise_for_status()
@@ -119,7 +112,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
             text_content = result['candidates'][0]['content']['parts'][0]['text']
             article_data = json.loads(text_content.strip())
             
-            # 填入後設資料
+            # 填入元數據
             article_data["id"] = channel_info["id"]
             article_data["type"] = channel_info["type"]
             article_data["category"] = channel_info["category"]
@@ -138,8 +131,8 @@ def generate_article_with_ai(channel_info, real_news, today_date):
             return article_data
             
         except Exception as e:
-            print(f"[{get_now()}] 錯誤: {e}")
-            time.sleep(10)
+            print(f"[{get_now()}] AI 生成發生小問題: {e}")
+            time.sleep(15)
             
     return None
 
@@ -148,40 +141,41 @@ def update_daily_news():
     final_news_list = []
     consecutive_fails = 0  
     
-    print(f"[{get_now()}] >>> 開始執行地球日報任務 <<<")
+    print(f"[{get_now()}] >>> 啟動地球日報專屬編輯任務 <<<")
     
     for idx, channel in enumerate(CHANNELS):
-        print(f"\n[{get_now()}] --- 處理進度 {idx+1}/12: [{channel['region']}] ---")
+        print(f"\n[{get_now()}] --- 正在撰寫第 {idx+1}/12 篇: [{channel['region']}] ---")
         
         real_news = fetch_real_news_from_rss(channel["query"])
         if not real_news:
-            print(f"[{get_now()}] RSS 空白，跳過。")
+            print(f"[{get_now()}] 本頻道暫無新聞，跳過。")
             continue
             
         article = generate_article_with_ai(channel, real_news, today_str)
         if article:
             final_news_list.append(article)
             consecutive_fails = 0  
-            print(f"[{get_now()}] 寫作完成！")
+            print(f"[{get_now()}] 撰稿成功！目前已有 {len(final_news_list)} 篇報導。")
         else:
             consecutive_fails += 1
             if consecutive_fails >= 2:
-                print(f"[{get_now()}] 🚨 連續失敗，停止今日任務。")
+                print(f"[{get_now()}] 🚨 連續兩次失敗，可能是 API 額度限制，緊急存檔並退出。")
                 break
             
-        print(f"[{get_now()}] 冷卻 25 秒...")
-        time.sleep(25)
+        print(f"[{get_now()}] 為了維持穩定，休息 30 秒...")
+        time.sleep(30)
         
     if not final_news_list:
-        print(f"[{get_now()}] 失敗。")
+        print(f"[{get_now()}] 很抱歉，今日沒有產出任何報導。")
         return
         
+    # 設定第一篇為精選
     for news in final_news_list:
         if news["type"] == "thematic":
             news["isFeatured"] = True
             break
 
-    # 讀取現有資料
+    # 合併新舊資料
     existing_news = []
     if os.path.exists('news.json'):
         with open('news.json', 'r', encoding='utf-8') as f:
@@ -196,6 +190,7 @@ def update_daily_news():
     filtered_news = []
     seen_ids = set()
     for news in all_news:
+        # 唯一識別碼由日期和頻道 ID 組成
         unique_id = f"{news.get('date')}-{news.get('id')}"
         try:
             news_date = datetime.datetime.strptime(news.get('date', ''), '%Y-%m-%d').date()
@@ -207,7 +202,7 @@ def update_daily_news():
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(filtered_news, f, ensure_ascii=False, indent=2)
         
-    print(f"[{get_now()}] 資料庫更新成功，今日產出 {len(final_news_list)} 篇報導。")
+    print(f"[{get_now()}] 編輯室完成工作！今日產出 {len(final_news_list)} 篇深度報導，存檔成功。")
 
 if __name__ == "__main__":
     update_daily_news()
