@@ -16,21 +16,21 @@ sys.stdout.reconfigure(line_buffering=True)
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
-# 定義 13 個新聞頻道
+# 定義 13 個新聞頻道，加入 OR 邏輯讓搜尋更聰明，擴大命中率
 CHANNELS = [
-    {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 政治 經濟"},
-    {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "國際 自然 環境 生態"},
-    {"id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "query": "國際 文化 藝術 流行"},
-    {"id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "query": "國際 科技 AI 太空"},
-    {"id": "t-5", "type": "thematic", "category": "趣味溫馨", "tagClass": "tag-fun", "region": "全球", "query": "國際 趣味 溫馨 奇聞 感人"},
-    {"id": "r-1", "type": "regional", "region": "北美洲", "category": "政治經濟", "tagClass": "tag-polecon", "query": "美國 加拿大 墨西哥 北美 社會"},
-    {"id": "r-2", "type": "regional", "region": "南美洲", "category": "自然生態", "tagClass": "tag-nature", "query": "南美洲 巴西 阿根廷 智利 秘魯"},
-    {"id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "query": "歐洲 英國 法國 德國 歐盟"},
-    {"id": "r-4", "type": "regional", "region": "非洲", "category": "自然生態", "tagClass": "tag-nature", "query": "非洲 南非 埃及 肯亞 奈及利亞"},
-    {"id": "r-5", "type": "regional", "region": "中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "中亞 哈薩克 烏茲別克 塔吉克"},
-    {"id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "query": "日本 韓國 東北亞 科技"},
-    {"id": "r-7", "type": "regional", "region": "東南亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "東南亞 印尼 泰國 越南 新加坡 馬來西亞 菲律賓"},
-    {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "澳洲 紐西蘭 大洋洲 太平洋島國"}
+    {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 (政治 OR 經濟 OR 政策)"},
+    {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "(氣候 OR 環保 OR 生態 OR 暖化 OR 減碳)"},
+    {"id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "query": "(文化 OR 藝術 OR 流行 OR 社會 OR 教育)"},
+    {"id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "query": "(科技 OR AI OR 太空 OR 科學 OR 晶片)"},
+    {"id": "t-5", "type": "thematic", "category": "趣味溫馨", "tagClass": "tag-fun", "region": "全球", "query": "(奇聞 OR 溫馨 OR 趣味 OR 感人 OR 救援)"},
+    {"id": "r-1", "type": "regional", "region": "北美洲", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(美國 OR 加拿大 OR 墨西哥) (政治 OR 社會 OR 經濟)"},
+    {"id": "r-2", "type": "regional", "region": "南美洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(巴西 OR 阿根廷 OR 智利 OR 秘魯 OR 南美洲)"},
+    {"id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "query": "(英國 OR 法國 OR 德國 OR 歐盟 OR 歐洲)"},
+    {"id": "r-4", "type": "regional", "region": "非洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(南非 OR 埃及 OR 肯亞 OR 奈及利亞 OR 非洲)"},
+    {"id": "r-5", "type": "regional", "region": "中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(哈薩克 OR 烏茲別克 OR 塔吉克 OR 中亞)"},
+    {"id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "query": "(日本 OR 韓國 OR 東北亞) 科技"},
+    {"id": "r-7", "type": "regional", "region": "東南亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(印尼 OR 泰國 OR 越南 OR 新加坡 OR 菲律賓 OR 東南亞)"},
+    {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(澳洲 OR 紐西蘭 OR 太平洋島國 OR 大洋洲)"}
 ]
 
 def get_now():
@@ -40,15 +40,19 @@ def fetch_real_news_from_rss(query):
     # 限制優先搜尋這些關鍵字，加入「少年報導者」提高青少年合適度
     media_query = " (中央社 OR 公視 OR 報導者 OR 少年報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
     
-    # 定義優質媒體白名單與過濾黑名單
-    preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "澳洲廣播公司 (ABC)", "Radio New Zealand", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
+    # 從源頭直接封鎖黑名單媒體
+    blocked_query = " -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易"
+    
+    # 定義優質媒體白名單與過濾黑名單 (作為雙重保險)
+    preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
     blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易"]
     
     # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
     time_windows = ['2d', '5d', '14d']
     
     for window in time_windows:
-        encoded_query = urllib.parse.quote(f"{query}{media_query} when:{window}")
+        # 把過濾條件組合進去 Google News 搜尋字串
+        encoded_query = urllib.parse.quote(f"{query}{media_query}{blocked_query} when:{window}")
         rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
         print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {query}")
         
@@ -63,7 +67,7 @@ def fetch_real_news_from_rss(query):
                 source_elem = item.find('source')
                 source_name = source_elem.text if source_elem is not None else ""
                 
-                # 碰到黑名單直接跳過
+                # 碰到黑名單直接跳過 (雙重保險)
                 if any(blocked in source_name for blocked in blocked_media):
                     continue
                 
@@ -91,14 +95,13 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     2. 想像未來：這件事會如何影響未來的科技、環境、社會或人類生活？
     3. 獨立思考：不要只給單一標準答案，鼓勵孩子從不同角度看事情，培養批判性思維。
     4. 媒體識讀：適時引導孩子思考訊息的來源，學習分辨事實與觀點。
-    5. 連結日常：是把遙遠的國際大事，用比喻的方式連回他們熟悉的校園或家庭生活，這樣他們會更有共鳴
 
     【寫作風格與語氣】
     1. 真實忠誠：請盡量忠實呈現原文的新聞事件，不做過度誇飾，僅在語氣上進行改寫。
     2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在對孩子說話，讓他們感覺像在閱讀優質雜誌。
     3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語（例如：高大上、yyds、絕絕子 等）。
-    4. 封殺 AI 詞彙：絕對禁止使用機器感重詞彙，包含但不限於：深入探討、值得注意的是、賦能、一站式、全方位。
-    5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用 Em dash 以及濫用 Emoji。
+    4. 封殺 AI 詞彙：絕對禁止使用機器感重詞彙，例如：深入探討、值得注意的是、賦能、一站式、全方位 等。
+    5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用全形破折號以及濫用 Emoji。
     6. 最後檢查：請自己問自己：「一個真實的人類作家會這樣寫嗎？」
 
     【重要：字數與單字規定】
@@ -112,7 +115,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     {{
       "zhTitle": "吸引人的大標題",
       "zhSummary": "簡單摘要這則新聞的重點",
-      "zhContent": "<p>第一段描述背景與事件...</p><p>第二段深入解釋原理或影響...</p><p>第三段對未來或台灣的連結...</p><p>第四段引導獨立思考...</p>",
+      "zhContent": "<p>第一段描述背景與事件...</p><p>第二段解釋原理或影響...</p><p>第三段對未來或台灣的連結...</p><p>第四段引導獨立思考...</p>",
       "scaffold": ["觀察與識讀：這則新聞中...？", "生活與未來：如果在台灣...未來會...？", "獨立思考提案：你覺得我們可以用什麼角度...？"],
       "enTitle": "English Title of the Story",
       "enContent": {{ "basic": "...", "intermediate": "...", "advanced": "..." }},
