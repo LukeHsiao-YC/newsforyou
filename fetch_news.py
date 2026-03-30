@@ -28,18 +28,20 @@ CHANNELS = [
     {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "澳洲 紐西蘭 大洋洲 新聞"}
 ]
 
-# 步驟一：先從 Google News 抓取真實的新聞標題與網址，避免 AI 產生假連結
+# 步驟一：先從 Google News 抓取真實的新聞標題與網址，並加入亂碼過濾器
 def fetch_real_news_from_rss(query):
-    # 放寬到 when:7d 確保一定能抓到各大洲的新聞
     encoded_query = urllib.parse.quote(f"{query} when:7d")
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     
     try:
         response = requests.get(rss_url, timeout=10)
-        root = ET.fromstring(response.content)
+        # 過濾掉 XML 不允許的奇怪控制字元，避免解析崩潰
+        xml_content = response.content.decode('utf-8', errors='ignore')
+        xml_content = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', xml_content)
+        
+        root = ET.fromstring(xml_content)
         item = root.find('.//channel/item')
         if item is not None:
-            # 抓出真實的新聞標題、網址與來源媒體
             title = item.find('title').text
             link = item.find('link').text
             source = item.find('source').text if item.find('source') is not None else "國際媒體"
@@ -49,7 +51,7 @@ def fetch_real_news_from_rss(query):
     
     return None
 
-# 步驟二：請 AI 根據真實標題寫作
+# 步驟二：請 AI 根據真實標題寫作 (加入 429 重試機制)
 def generate_article_with_ai(channel_info, real_news, today_date):
     prompt = f"""
     你現在是一位充滿熱情、語氣溫暖的青少年新聞編輯。
@@ -92,42 +94,62 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "responseMimeType": "application/json" # 強制 AI 回傳標準的 JSON 格式
+            "responseMimeType": "application/json"
         }
     }
     headers = {"Content-Type": "application/json"}
     
-    try:
-        # 增加 timeout 到 40 秒，因為寫 500 字需要一點時間
-        response = requests.post(API_URL, headers=headers, json=payload, timeout=40)
-        response.raise_for_status()
-        result = response.json()
-        
-        text_content = result['candidates'][0]['content']['parts'][0]['text']
-        article_data = json.loads(text_content.strip())
-        
-        # 組合完整的資料結構
-        article_data["id"] = channel_info["id"]
-        article_data["type"] = channel_info["type"]
-        article_data["category"] = channel_info["category"]
-        article_data["tagClass"] = channel_info["tagClass"]
-        article_data["region"] = channel_info["region"]
-        article_data["date"] = today_date
-        article_data["sourceName"] = real_news["source"]
-        article_data["sourceLink"] = real_news["link"]
-        article_data["isFeatured"] = False 
-        
-        # 產生不重複的圖片網址
-        keyword = article_data.get("imageKeyword", "news")
-        encoded_keyword = urllib.parse.quote(keyword)
-        random_seed = random.randint(1, 99999)
-        article_data["imageUrl"] = f"https://image.pollinations.ai/prompt/{encoded_keyword}?width=800&height=500&nologo=true&seed={random_seed}"
-        
-        return article_data
-        
-    except Exception as e:
-        print(f"AI 生成失敗 ({channel_info['query']}): {e}")
-        return None
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            # timeout 設長一點，讓 AI 有時間寫 500 字
+            response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+            
+            # 如果遇到 429 限制，馬上進來這裡處理
+            if response.status_code == 429:
+                print(f"被 Google 擋下來了 (429 Error)，休息 60 秒後進行第 {attempt+1} 次重試...")
+                time.sleep(60)
+                continue
+                
+            response.raise_for_status()
+            result = response.json()
+            
+            text_content = result['candidates'][0]['content']['parts'][0]['text']
+            article_data = json.loads(text_content.strip())
+            
+            # 組合資料
+            article_data["id"] = channel_info["id"]
+            article_data["type"] = channel_info["type"]
+            article_data["category"] = channel_info["category"]
+            article_data["tagClass"] = channel_info["tagClass"]
+            article_data["region"] = channel_info["region"]
+            article_data["date"] = today_date
+            article_data["sourceName"] = real_news["source"]
+            article_data["sourceLink"] = real_news["link"]
+            article_data["isFeatured"] = False 
+            
+            # 產生圖片網址
+            keyword = article_data.get("imageKeyword", "news")
+            encoded_keyword = urllib.parse.quote(keyword)
+            random_seed = random.randint(1, 99999)
+            article_data["imageUrl"] = f"https://image.pollinations.ai/prompt/{encoded_keyword}?width=800&height=500&nologo=true&seed={random_seed}"
+            
+            return article_data
+            
+        except requests.exceptions.RequestException as e:
+            if "429" in str(e):
+                print(f"遇到 429 錯誤，休息 60 秒後進行第 {attempt+1} 次重試...")
+                time.sleep(60)
+                continue
+            else:
+                print(f"API 請求失敗 ({channel_info['query']}): {e}")
+                return None
+        except Exception as e:
+            print(f"AI 生成發生非預期錯誤 ({channel_info['query']}): {e}")
+            return None
+            
+    print(f"重試 {max_retries} 次後仍然失敗，放棄此篇新聞。")
+    return None
 
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -135,11 +157,9 @@ def update_daily_news():
     
     print(f"開始執行 {today_str} 的新聞抓取任務...")
     
-    # 依序處理 12 個頻道
     for channel in CHANNELS:
         print(f"正在處理: {channel['region']} - {channel['category']}")
         
-        # 1. 抓取真實連結
         real_news = fetch_real_news_from_rss(channel["query"])
         if not real_news:
             print("找不到適合的 RSS 新聞，跳過此頻道。")
@@ -147,26 +167,23 @@ def update_daily_news():
             
         print(f"找到真實新聞: {real_news['title']}")
         
-        # 2. 請 AI 寫作
         article = generate_article_with_ai(channel, real_news, today_str)
         if article:
             final_news_list.append(article)
             print("AI 撰寫完成！")
             
-        # 加長休息時間到 15 秒，確保絕對不會超過 Google 免費額度的次數限制 (避免 429 Error)
-        time.sleep(15)
+        # 將平時的基準休息時間拉長到 30 秒，減少觸發 429 的機率
+        time.sleep(30)
         
     if not final_news_list:
         print("今天沒有產出任何資料，提早結束程式。")
         return
         
-    # 將第一篇主題新聞設定為每週精選
     for news in final_news_list:
         if news["type"] == "thematic":
             news["isFeatured"] = True
             break
 
-    # 讀取並合併舊資料
     today_date = datetime.datetime.now().date()
     thirty_days_ago = today_date - datetime.timedelta(days=30)
     existing_news = []
@@ -180,7 +197,6 @@ def update_daily_news():
 
     all_news = final_news_list + existing_news
     
-    # 過濾重複與過期的新聞
     filtered_news = []
     seen_ids = set()
     
@@ -199,7 +215,6 @@ def update_daily_news():
         except ValueError:
             pass
 
-    # 存檔
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(filtered_news, f, ensure_ascii=False, indent=2)
         
