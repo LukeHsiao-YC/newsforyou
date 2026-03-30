@@ -309,8 +309,8 @@
         async function initApp() {
             let allNews = [];
             try {
-                // 自動化上線後會抓取這個檔案
-                const response = await fetch('news.json');
+                // 自動化上線後會抓取這個檔案，加上防快取參數確保抓到最新資料
+                const response = await fetch('news.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error('Local file not found');
                 allNews = await response.json();
                 
