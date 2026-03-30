@@ -41,7 +41,7 @@
         /* 新聞卡片 */
         .news-card { background: #fff; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; display: flex; flex-direction: column; }
         .news-card:hover { transform: translateY(-5px); box-shadow: 0 15px 30px rgba(0,0,0,0.1); }
-        .card-image { width: 100%; height: 200px; object-fit: cover; display: block; }
+        .card-image { width: 100%; height: 200px; object-fit: cover; display: block; background-color: #eee; }
         .card-content { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
         
         .tags-wrap { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
@@ -64,7 +64,7 @@
         .modal-overlay.active .modal-content { transform: translateY(0); }
         .close-btn { position: absolute; top: 20px; right: 20px; background: #fff; border: none; width: 40px; height: 40px; border-radius: 50%; font-size: 20px; cursor: pointer; display: flex; align-items: center; justify-content: center; color: #2f3542; z-index: 10; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
         .close-btn:hover { background: #f1f2f6; }
-        .modal-header-img { width: 100%; height: 350px; object-fit: cover; }
+        .modal-header-img { width: 100%; height: 350px; object-fit: cover; background-color: #eee; }
         .modal-body { padding: 40px; }
         .article-section { margin-bottom: 40px; }
         .article-section h3 { font-size: 30px; color: #2c3e50; margin-bottom: 20px; font-weight: 900; line-height: 1.4;}
@@ -120,12 +120,12 @@
         <h2 class="section-title">🌟 每週精選故事</h2>
         <div class="featured-grid" id="featured-container"></div>
 
-        <h2 class="section-title" style="border-left-color: #3498db; margin-top: 50px;">📰 今日環遊世界</h2>
+        <h2 class="section-title" style="border-left-color: #3498db; margin-top: 50px;">📰 今日環球視野 (8大洲)</h2>
         <div class="grid-container" id="today-container"></div>
     </div>
 
     <div id="archive-section" class="content-section">
-        <h2 class="section-title" style="border-left-color: #9b59b6;">📚 過去一個月發生了什麼事？</h2>
+        <h2 class="section-title" style="border-left-color: #9b59b6;">📚 過去發生了什麼事？</h2>
         <div id="archive-container"></div>
     </div>
 
@@ -152,7 +152,7 @@
                 <div class="english-section">
                     <div class="eng-header">
                         <h3 id="modal-en-title"></h3>
-                        <div class="level-selector">
+                        <div class="level-selector" id="level-selector-box">
                             <button class="level-btn active" onclick="setEnglishLevel('basic')">基礎</button>
                             <button class="level-btn" onclick="setEnglishLevel('intermediate')">中階</button>
                             <button class="level-btn" onclick="setEnglishLevel('advanced')">進階</button>
@@ -171,55 +171,138 @@
         // 用來記錄當前打開的新聞資料，方便切換英文難度
         let currentModalNews = null;
 
-        // 為了避免沒讀到 json 壞掉，這是一組符合新格式的備用資料
+        // 當圖片失效時的統一備用圖片網址
+        const FALLBACK_IMAGE = 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800&auto=format&fit=crop';
+
+        // 擴充版備用資料：完整涵蓋 8 個地區，讓你在還沒更新 GitHub 時也能看
         const MOCK_DATA = [
             {
-                "id": "2026-03-30-1",
-                "date": "2026-03-30",
-                "isFeatured": true,
-                "region": "東北亞",
-                "category": "科技探索",
-                "tagClass": "tag-tech",
+                "id": "2026-03-30-1", "date": "2026-03-30", "isFeatured": true,
+                "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech",
                 "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=800&auto=format&fit=crop",
                 "zhTitle": "日本研發超強機器人，未來的居家小幫手",
                 "zhSummary": "日本科學家發明了一款新型機器人，它可以幫忙做家事甚至陪伴老人家，展現了科技如何改善人類生活。",
-                "zhContent": "<p>在日本這個科技非常發達的國家，科學家們最近又有了一個驚人的發明。他們設計出了一款非常特別的機器人，不只外型看起來親切可愛，還擁有非常聰明的大腦。這款機器人被設計來幫忙解決現代家庭的一些困擾。</p><p>很多人平時要上班、上學，回家後還要洗碗、掃地，會覺得非常疲倦。這款機器人配備了靈敏的感測器和柔軟的機械手臂，可以幫忙摺衣服、把杯子收好，甚至還能陪家裡的爺爺奶奶聊天解悶。這不只是一台機器，更像是一個溫暖的家人。</p><p>引導思考：如果你的家裡也能有一台這樣的機器人，你最希望它幫你完成什麼任務呢？</p>",
+                "zhContent": "<p>在日本這個科技發達的國家，科學家們最近又有了一個驚人的發明。他們設計出了一款非常特別的機器人，不只外型看起來親切可愛，還擁有聰明的大腦。這款機器人被設計來幫忙解決現代家庭的一些困擾。</p><p>很多人平時要上班、上學，回家後還要洗碗、掃地，會覺得非常疲倦。這款機器人配備了靈敏的感測器和柔軟的機械手臂，可以幫忙摺衣服、把杯子收好，甚至還能陪家裡的爺爺奶奶聊天解悶。</p><p>引導思考：如果你的家裡也能有一台這樣的機器人，你最希望它幫你完成什麼任務呢？</p>",
                 "enTitle": "A New Robot Friend",
                 "enContent": {
-                    "basic": "Scientists in Japan made a new robot. It is very smart and helpful. It can clean the house and talk to old people. It is like a good friend for the family.",
-                    "intermediate": "Japanese scientists have invented a new kind of robot designed to help at home. It can fold clothes, clean dishes, and even keep elderly people company. This shows how technology can improve our daily lives.",
-                    "advanced": "In a significant technological advancement, Japanese researchers have unveiled a sophisticated domestic robot. Equipped with advanced sensors, it assists with household chores and provides companionship to the elderly, demonstrating the profound impact of robotics on modern living."
+                    "basic": "Scientists in Japan made a new robot. It is very smart. It can clean the house and talk to old people.",
+                    "intermediate": "Japanese scientists have invented a new kind of robot designed to help at home. It can fold clothes and keep elderly people company.",
+                    "advanced": "In a significant technological advancement, Japanese researchers have unveiled a sophisticated domestic robot equipped with advanced sensors."
                 },
-                "vocabulary": [
-                    {"word": "robot", "zh": "機器人"},
-                    {"word": "scientist", "zh": "科學家"}
-                ],
-                "sourceName": "NHK News",
-                "sourceLink": "#"
+                "vocabulary": [ {"word": "robot", "zh": "機器人"}, {"word": "scientist", "zh": "科學家"} ],
+                "sourceName": "NHK News", "sourceLink": "#"
             },
             {
-                "id": "2026-03-30-2",
-                "date": "2026-03-30",
-                "isFeatured": false,
-                "region": "南美洲",
-                "category": "自然生態",
-                "tagClass": "tag-nature",
-                "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "保護亞馬遜雨林，守護地球的肺",
-                "zhSummary": "南美洲各國正在合作推動新計畫，減少亞馬遜雨林的砍伐，希望能保護珍貴的野生動物與減緩氣候變遷。",
-                "zhContent": "<p>亞馬遜雨林是地球上最大的一片森林，大家都叫它「地球的肺」。這裡住著各式各樣奇特的動物和植物。但是，因為人類需要更多的土地來種田和養牛，很多樹木被砍掉，讓小動物失去了家。</p><p>最近，南美洲的幾個國家決定一起合作，推出了一個保護雨林的新計畫。他們派出了巡邏隊，並用衛星從太空中監視，只要有人偷偷砍樹就會被抓到。這個計畫希望讓雨林慢慢恢復健康。</p><p>引導思考：除了種樹之外，我們在日常生活中可以怎麼做，來幫忙保護遙遠的森林呢？</p>",
-                "enTitle": "Saving the Rainforest",
+                "id": "2026-03-30-2", "date": "2026-03-30", "isFeatured": false,
+                "region": "東南亞", "category": "自然生態", "tagClass": "tag-nature",
+                "imageUrl": "https://images.unsplash.com/photo-1544253392-50d4b1a4cb58?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "印尼復育紅樹林，幫海岸線穿上綠色防護衣",
+                "zhSummary": "印尼政府和當地居民合作種植紅樹林，這不僅能提供魚類安全的家，還能阻擋海浪侵蝕陸地。",
+                "zhContent": "<p>印尼是一個由許多島嶼組成的國家。最近，當地的居民和環保團體發起了一個大活動：在海邊種下幾萬棵的紅樹林。紅樹林是一種非常神奇的植物，它們的根會緊緊抓住泥土，甚至可以在鹹鹹的海水中生長。</p><p>過去因為開發，許多紅樹林消失了，導致海浪容易把陸地的泥沙沖走。現在大家把紅樹林種回來，不只幫海岸線穿上了一件堅固的防護衣，還吸引了許多小魚、小蝦回來這裡居住，讓海洋生態變得更豐富。</p><p>引導思考：除了種植紅樹林，我們還可以怎麼做來保護美麗的海洋環境呢？</p>",
+                "enTitle": "Planting Trees by the Sea",
                 "enContent": {
-                    "basic": "The Amazon rainforest is very big. Many animals live there. People are trying to save the trees. They want to keep the animals safe and happy.",
-                    "intermediate": "The Amazon is the largest rainforest on Earth. Countries in South America are working together to stop people from cutting down trees. This helps protect wildlife and the environment.",
-                    "advanced": "Recognized as the 'lungs of the Earth,' the Amazon rainforest is facing severe deforestation. South American nations have implemented collaborative conservation strategies, utilizing satellite monitoring to protect biodiversity and mitigate climate change."
+                    "basic": "People in Indonesia are planting special trees by the sea. The trees help stop the big waves. Fish like to live there too.",
+                    "intermediate": "People in Indonesia are planting mangrove trees along the coast. These trees protect the land from big waves and provide a safe home for fish.",
+                    "advanced": "Indonesian communities are actively engaging in mangrove reforestation. These ecosystems are crucial for preventing coastal erosion and fostering marine biodiversity."
                 },
-                "vocabulary": [
-                    {"word": "rainforest", "zh": "雨林"},
-                    {"word": "protect", "zh": "保護"}
-                ],
-                "sourceName": "BBC News",
-                "sourceLink": "#"
+                "vocabulary": [ {"word": "plant", "zh": "種植"}, {"word": "wave", "zh": "海浪"} ],
+                "sourceName": "The Jakarta Post", "sourceLink": "#"
+            },
+            {
+                "id": "2026-03-30-3", "date": "2026-03-30", "isFeatured": false,
+                "region": "中亞", "category": "科技探索", "tagClass": "tag-tech",
+                "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "哈薩克太空中心發射新衛星，讓網路更順暢",
+                "zhSummary": "從哈薩克的發射場升空了一枚新衛星，目的是為了幫助偏遠地區的人們也能享有快速的網路連線。",
+                "zhContent": "<p>在亞洲的中心地帶，有一個國家叫哈薩克。那裡有一座歷史非常悠久的太空發射場。就在幾天前，一枚巨大的火箭帶著全新的通訊衛星順利升空了。這顆衛星的任務非常重要，它要在太空中幫地球上的人們傳遞訊號。</p><p>在這個世界上，還有很多住在高山或是沙漠邊緣的人，他們沒有辦法像我們一樣輕鬆上網。這顆新衛星就像是在太空中架設了一個超級無線基地台，未來即使在很偏遠的地方，學生也能透過網路學習新知識了。</p><p>引導思考：如果有一天你到了完全沒有網路的地方，你會選擇做些什麼有趣的事情呢？</p>",
+                "enTitle": "A New Satellite in Space",
+                "enContent": {
+                    "basic": "A big rocket went up into space from Kazakhstan. It carries a new satellite. Now, people in far places can use the internet.",
+                    "intermediate": "A rocket launched a new communications satellite from Kazakhstan. This satellite will help people in remote areas connect to the fast internet.",
+                    "advanced": "A telecommunications satellite was successfully launched from Kazakhstan. Its primary mission is to expand broadband internet access to underserved and remote geographic regions."
+                },
+                "vocabulary": [ {"word": "space", "zh": "太空"}, {"word": "internet", "zh": "網路"} ],
+                "sourceName": "Reuters", "sourceLink": "#"
+            },
+            {
+                "id": "2026-03-30-4", "date": "2026-03-30", "isFeatured": false,
+                "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature",
+                "imageUrl": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "澳洲大堡礁的保育行動，搶救白化的珊瑚",
+                "zhSummary": "科學家在澳洲大堡礁展開救援，透過新的培育技術，希望能幫助因為海水變暖而生病的珊瑚礁恢復色彩。",
+                "zhContent": "<p>大洋洲的澳洲有一個非常有名的自然奇觀，叫做「大堡礁」。那裡原本有著五顏六色、充滿活力的珊瑚。可是近年來，因為全球氣候暖化，海水溫度變得太高，許多珊瑚生病了，變成了毫無生氣的白色，這就叫做「珊瑚白化」。</p><p>為了解決這個危機，海洋生物學家們組成了一支救援隊。他們在實驗室裡培育出比較不怕熱的「超級珊瑚」寶寶，然後由潛水員小心翼翼地把牠們種回海底。希望這些健康的珊瑚寶寶長大後，能讓大堡礁重新找回美麗的色彩。</p><p>引導思考：天氣變熱不只會讓人流汗，還會影響海裡的生物。我們可以做什麼來減少碳排放呢？</p>",
+                "enTitle": "Helping the Coral Reef",
+                "enContent": {
+                    "basic": "The ocean is getting too warm. The beautiful coral in Australia is turning white. Scientists are growing strong new coral to help.",
+                    "intermediate": "Warm ocean water is causing coral bleaching in Australia. Scientists are now planting heat-resistant baby corals to save the Great Barrier Reef.",
+                    "advanced": "Rising sea temperatures have caused severe coral bleaching in the Great Barrier Reef. Marine biologists are cultivating heat-resilient coral species to restore the damaged marine ecosystem."
+                },
+                "vocabulary": [ {"word": "ocean", "zh": "海洋"}, {"word": "warm", "zh": "溫暖"} ],
+                "sourceName": "ABC News", "sourceLink": "#"
+            },
+            {
+                "id": "2026-03-30-5", "date": "2026-03-30", "isFeatured": false,
+                "region": "歐洲", "category": "人文流行", "tagClass": "tag-human",
+                "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "法國將奧運場館變成市民的大型遊樂場",
+                "zhSummary": "巴黎奧運結束後，許多比賽場館並沒有被廢棄，而是改裝成一般民眾也能使用的運動中心和公園。",
+                "zhContent": "<p>舉辦過大型運動會的城市，常常會面臨一個問題：那些花了很多錢蓋的巨大體育館，比賽結束後該怎麼辦？法國的巴黎給了一個很棒的答案。他們在規劃場館時，就已經想好未來的用途了。</p><p>現在，有些曾經讓頂尖運動員比賽的游泳池，已經開放給附近的小學生上游泳課；有些大型場館則拆除了部分座位，改建成了充滿綠樹的公園和社區籃球場。這樣不只不會浪費資源，還能鼓勵大家都養成運動的好習慣。</p><p>引導思考：如果你有一塊空地，你會想把它設計成什麼樣的休閒場所讓大家使用呢？</p>",
+                "enTitle": "A Park for Everyone",
+                "enContent": {
+                    "basic": "France had a big sports game. Now the game is over. They change the big stadiums into parks and pools for everyone to play.",
+                    "intermediate": "After hosting the Olympics, Paris transformed its sports venues into public swimming pools and parks, avoiding waste and encouraging citizens to exercise.",
+                    "advanced": "In a display of sustainable urban planning, Paris has successfully repurposed its Olympic venues into accessible community recreational centers, promoting public health."
+                },
+                "vocabulary": [ {"word": "park", "zh": "公園"}, {"word": "sport", "zh": "運動"} ],
+                "sourceName": "Le Monde", "sourceLink": "#"
+            },
+            {
+                "id": "2026-03-30-6", "date": "2026-03-30", "isFeatured": false,
+                "region": "非洲", "category": "政治經濟", "tagClass": "tag-polecon",
+                "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "肯亞手機支付大普及，菜市場買菜不用帶錢包",
+                "zhSummary": "在非洲的肯亞，透過手機號碼來付款的技術非常成熟。即使沒有銀行帳戶，人們也能輕鬆做生意。",
+                "zhContent": "<p>說到用手機付錢，你可能會想到在大賣場用手機刷條碼。但在非洲的肯亞，他們有一套非常特別的系統。當地很多人其實沒有在銀行開戶，但是幾乎每個人都有一支簡單的手機。</p><p>他們發展出了一種技術，只要傳一封簡訊，就能把錢轉給另一個人。所以現在在肯亞的傳統菜市場裡，不管是賣青菜的阿姨還是騎摩托車的司機，大家都是用手機在付錢。這讓做生意變得更安全，也不用每天帶著沉甸甸的銅板出門了。</p><p>引導思考：科技的進步改變了我們買東西的習慣。你覺得不用現金的生活，有什麼優點和缺點呢？</p>",
+                "enTitle": "Paying with a Phone",
+                "enContent": {
+                    "basic": "People in Kenya do not use coins at the market. They use their cell phones to pay for food. It is very fast and safe.",
+                    "intermediate": "Mobile payment has become very popular in Kenya. Even without a bank account, people can buy and sell things easily just by using their phones.",
+                    "advanced": "Kenya has pioneered a revolutionary mobile money system. This infrastructure empowers citizens without traditional banking access to conduct secure daily transactions."
+                },
+                "vocabulary": [ {"word": "phone", "zh": "電話"}, {"word": "money", "zh": "錢"} ],
+                "sourceName": "Financial Times", "sourceLink": "#"
+            },
+            {
+                "id": "2026-03-30-7", "date": "2026-03-30", "isFeatured": false,
+                "region": "北美洲", "category": "科技探索", "tagClass": "tag-tech",
+                "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "美國推出自動駕駛校車，讓上學路更安全",
+                "zhSummary": "美國部分城市開始測試由人工智慧駕駛的無人校車，希望能減少交通事故，並提供更準時的接送服務。",
+                "zhContent": "<p>在美國的某些城市裡，馬路上出現了一種沒有司機方向盤的黃色校車。這不是科幻電影，而是正在測試中的自動駕駛校車。這台車子全身裝滿了雷達和攝影機，能夠清楚看見路上的每一台車和過馬路的行人。</p><p>人工智慧的大腦不會打瞌睡，也不會因為滑手機而分心。它會嚴格遵守交通規則，遇到危險會立刻煞車。雖然目前車上還是會有一位大人陪伴小朋友，但科學家希望未來這種聰明的車子，能讓小朋友每天上學的旅程變得更加安全。</p><p>引導思考：如果你要搭乘一台沒有司機的自動駕駛車，你會覺得很興奮還是會有點緊張呢？</p>",
+                "enTitle": "The Smart School Bus",
+                "enContent": {
+                    "basic": "A new school bus in America has no driver. A smart computer drives the bus. It sees everything on the road and keeps children safe.",
+                    "intermediate": "Some American cities are testing self-driving school buses. These buses use smart technology to watch the road and prevent accidents.",
+                    "advanced": "Autonomous school buses are undergoing trials in North America. Equipped with advanced AI and sensors, these vehicles aim to significantly enhance road safety for students."
+                },
+                "vocabulary": [ {"word": "bus", "zh": "公車"}, {"word": "safe", "zh": "安全的"} ],
+                "sourceName": "The New York Times", "sourceLink": "#"
+            },
+            {
+                "id": "2026-03-30-8", "date": "2026-03-30", "isFeatured": false,
+                "region": "南美洲", "category": "人文流行", "tagClass": "tag-human",
+                "imageUrl": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=800&auto=format&fit=crop",
+                "zhTitle": "巴西街頭彩繪節，用畫筆為城市換上新衣",
+                "zhSummary": "巴西的藝術家們在街頭舉辦了盛大的彩繪節，把原本灰暗的水泥牆變成了充滿當地故事的美麗畫作。",
+                "zhContent": "<p>在南美洲的巴西，有一群充滿創意的藝術家，他們不喜歡在室內的紙上畫畫，而是喜歡把整個城市當成他們的大畫布。最近他們舉辦了一個熱鬧的街頭彩繪節，吸引了很多人來參觀。</p><p>他們帶著五顏六色的油漆，把原本破舊灰暗的建築外牆，畫上了當地傳說中的動物、開心踢足球的孩子，以及色彩鮮豔的幾何圖形。這些美麗的塗鴉不只讓街道變亮了，也讓住在這個社區的人們感到非常驕傲，更吸引了許多外國遊客來拍照打卡。</p><p>引導思考：如果可以讓你在學校的一面牆上自由作畫，你會想畫上什麼主題來代表你們班呢？</p>",
+                "enTitle": "Painting the City Streets",
+                "enContent": {
+                    "basic": "Artists in Brazil paint beautiful pictures on the walls. They use many bright colors. The city looks very happy and pretty now.",
+                    "intermediate": "Artists in Brazil held a street painting festival. They transformed old walls into colorful pictures that tell local stories and attract tourists.",
+                    "advanced": "A vibrant street art festival in Brazil has revitalized urban spaces. Artists utilized public walls as canvases to depict cultural narratives, fostering community pride."
+                },
+                "vocabulary": [ {"word": "paint", "zh": "畫畫/油漆"}, {"word": "city", "zh": "城市"} ],
+                "sourceName": "O Globo", "sourceLink": "#"
             }
         ];
 
@@ -230,8 +313,11 @@
                 const response = await fetch('news.json');
                 if (!response.ok) throw new Error('Local file not found');
                 allNews = await response.json();
+                
+                // 檢查是否為舊版資料 (舊版的 enContent 是字串而不是物件)
+                // 如果是舊版資料，這裡可以偷偷加上相容處理，但我們主要依賴 openModal 的判斷
             } catch (error) {
-                console.log("找不到 news.json，載入備用資料。");
+                console.log("找不到 news.json 或讀取失敗，載入 8 大洲完整備用資料。");
                 allNews = MOCK_DATA;
             }
             renderNews(allNews);
@@ -250,12 +336,13 @@
             featuredNews.forEach(news => {
                 const el = document.createElement('div');
                 el.className = 'featured-card';
+                // 加上 onerror 安全防護，避免圖片失效出現破圖
                 el.innerHTML = `
-                    <img src="${news.imageUrl}" alt="img" class="card-image">
+                    <img src="${news.imageUrl}" alt="img" class="card-image" onerror="this.src='${FALLBACK_IMAGE}'">
                     <div class="card-content">
                         <span class="badge-featured">🌟 每週精選</span>
                         <div class="tags-wrap">
-                            <span class="region-tag">${news.region}</span>
+                            <span class="region-tag">${news.region || '全球'}</span>
                             <span class="category-tag ${news.tagClass}">${news.category}</span>
                         </div>
                         <h2>${news.zhTitle}</h2>
@@ -295,11 +382,12 @@
         function createNormalCard(news) {
             const el = document.createElement('div');
             el.className = 'news-card';
+            // 同樣加上 onerror
             el.innerHTML = `
-                <img src="${news.imageUrl}" alt="img" class="card-image">
+                <img src="${news.imageUrl}" alt="img" class="card-image" onerror="this.src='${FALLBACK_IMAGE}'">
                 <div class="card-content">
                     <div class="tags-wrap">
-                        <span class="region-tag">${news.region}</span>
+                        <span class="region-tag">${news.region || '全球'}</span>
                         <span class="category-tag ${news.tagClass}">${news.category}</span>
                     </div>
                     <h2>${news.zhTitle}</h2>
@@ -321,23 +409,43 @@
         // 處理彈出視窗
         const modal = document.getElementById('news-modal');
         function openModal(news) {
-            currentModalNews = news; // 記錄當下新聞
+            currentModalNews = news; 
             
-            document.getElementById('modal-img').src = news.imageUrl;
-            document.getElementById('modal-region').textContent = news.region;
+            const modalImg = document.getElementById('modal-img');
+            modalImg.src = news.imageUrl;
+            modalImg.onerror = function() { this.src = FALLBACK_IMAGE; };
+
+            document.getElementById('modal-region').textContent = news.region || '全球';
             document.getElementById('modal-tag').className = `category-tag ${news.tagClass}`;
             document.getElementById('modal-tag').textContent = news.category;
             document.getElementById('modal-date').textContent = "📅 發布日期：" + news.date;
             
             document.getElementById('modal-zh-title').textContent = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
-            
             document.getElementById('modal-en-title').textContent = news.enTitle;
             
-            // 處理來源
             const sourceBtn = document.getElementById('modal-source-link');
             document.getElementById('modal-source-name').textContent = news.sourceName;
             sourceBtn.href = news.sourceLink;
+
+            // 相容處理：舊版與新版英文資料的差異
+            const levelBox = document.getElementById('level-selector-box');
+            const enContentEl = document.getElementById('modal-en-content');
+            
+            if (news.enContent) {
+                if (typeof news.enContent === 'string') {
+                    // 如果讀到的是舊版大腦的字串資料
+                    levelBox.style.display = 'none';
+                    enContentEl.textContent = news.enContent;
+                } else {
+                    // 如果是新版大腦的物件資料
+                    levelBox.style.display = 'flex';
+                    setEnglishLevel('basic'); // 預設切換到基礎
+                }
+            } else {
+                enContentEl.textContent = "暫無英文內容";
+                levelBox.style.display = 'none';
+            }
 
             // 處理單字卡
             const vocabContainer = document.getElementById('modal-vocab');
@@ -353,27 +461,22 @@
                 });
             }
 
-            // 預設切換到基礎難度
-            setEnglishLevel('basic');
-
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
         }
 
         // 切換英文難度
         function setEnglishLevel(level) {
-            if (!currentModalNews || !currentModalNews.enContent) return;
+            if (!currentModalNews || typeof currentModalNews.enContent === 'string') return;
             
-            // 更新按鈕狀態
             document.querySelectorAll('.level-btn').forEach(btn => btn.classList.remove('active'));
-            // 尋找被點擊的按鈕並加上 active
             const buttons = document.querySelectorAll('.level-btn');
             if(level === 'basic') buttons[0].classList.add('active');
             if(level === 'intermediate') buttons[1].classList.add('active');
             if(level === 'advanced') buttons[2].classList.add('active');
 
-            // 顯示對應難度的文字
-            document.getElementById('modal-en-content').textContent = currentModalNews.enContent[level];
+            const content = currentModalNews.enContent[level];
+            document.getElementById('modal-en-content').textContent = content || "無資料";
         }
 
         document.getElementById('close-modal').addEventListener('click', () => {
