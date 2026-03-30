@@ -185,64 +185,6 @@ def generate_article_with_ai(channel_info, real_news, today_date):
             print(f"[{get_now()}] 撰寫失敗: {e}"); time.sleep(15)
     return None
 
-def test_single_ai_generation():
-    """單篇 AI 寫作測試模式：只抓一篇新聞讓 AI 寫，印出結果不存檔，用來測試寫作風格"""
-    print(f"[{get_now()}] >>> 啟動單篇 AI 寫作測試模式 <<<")
-    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
-    used_media = set()
-    
-    # 隨機挑一個頻道來測試，這裡我讓它挑全球政治經濟或隨機一個
-    channel = random.choice(CHANNELS)
-    print(f"[{get_now()}] 準備測試的頻道: [{channel['region']}] [{channel['category']}]")
-    
-    real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan=False)
-    if not real_news:
-        print(f"[{get_now()}] 找不到新聞可以測試，請稍後再試。")
-        return
-        
-    print(f"[{get_now()}] 已經鎖定新聞，交給專欄作家 AI 中...")
-    article = generate_article_with_ai(channel, real_news, today_str)
-    
-    if article:
-        print(f"\n{'='*50}")
-        print(f"[{get_now()}] 寫作完成！以下是 AI 產出的排版結果：")
-        print(f"{'='*50}\n")
-        # 把寫出來的 JSON 排版印出來給你看
-        print(json.dumps(article, ensure_ascii=False, indent=2))
-        print(f"\n{'='*50}")
-        print(f"[{get_now()}] 測試結束。請檢查上方內容是否符合你要的風格。")
-    else:
-        print(f"[{get_now()}] AI 寫作過程發生錯誤。")
-
-def test_rss_search():
-    """只抓取 RSS 不呼叫 AI 的測試模式"""
-    print(f"[{get_now()}] >>> 啟動外媒 RSS 抓取測試模式（不呼叫 AI） <<<")
-    success_count = 0
-    used_media = set()
-    has_taiwan_media = False
-    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
-    
-    for idx, channel in enumerate(CHANNELS):
-        print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
-        
-        require_taiwan = not has_taiwan_media
-        real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan)
-        
-        if real_news:
-            success_count += 1
-            used_media.add(real_news['source'])
-            if any(tw_m in real_news['source'] for tw_m in taiwan_media_names):
-                has_taiwan_media = True
-                
-            print(f"  ✅ 成功找到新聞：{real_news['title']}")
-            print(f"  來源：{real_news['source']}")
-            print(f"  連結：{real_news['link']}")
-        else:
-            print(f"  ❌ 找不到符合條件的新聞。")
-        time.sleep(2) 
-    
-    print(f"\n[{get_now()}] 測試結束。共設定 {len(CHANNELS)} 個頻道，成功找到 {success_count} 篇新聞。")
-
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     final_news_list = []
@@ -312,13 +254,4 @@ def update_daily_news():
     print(f"[{get_now()}] 存檔成功！今日新增 {len(final_news_list)} 篇報導。")
 
 if __name__ == "__main__":
-    # 透過指令決定要執行哪一種模式
-    if len(sys.argv) > 1:
-        if sys.argv[1] == 'test':
-            test_rss_search()
-        elif sys.argv[1] == 'test_ai':
-            test_single_ai_generation()
-        else:
-            update_daily_news()
-    else:
-        update_daily_news()
+    update_daily_news()
