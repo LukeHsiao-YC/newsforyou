@@ -16,21 +16,21 @@ sys.stdout.reconfigure(line_buffering=True)
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
-# 定義 13 個新聞頻道，修改 r-5 為中東與中亞
+# 定義 13 個新聞頻道，全面改用「英文關鍵字」，準備跨國撈新聞
 CHANNELS = [
-    {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 (政治 OR 經濟 OR 政策)"},
-    {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "(氣候 OR 環保 OR 生態 OR 暖化 OR 減碳)"},
-    {"id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "query": "(文化 OR 藝術 OR 流行 OR 社會 OR 教育)"},
-    {"id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "query": "(科技 OR AI OR 太空 OR 科學 OR 晶片)"},
-    {"id": "t-5", "type": "thematic", "category": "趣味溫馨", "tagClass": "tag-fun", "region": "全球", "query": "(奇聞 OR 溫馨 OR 趣味 OR 感人 OR 救援)"},
-    {"id": "r-1", "type": "regional", "region": "北美洲", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(美國 OR 加拿大 OR 墨西哥) (政治 OR 社會 OR 經濟)"},
-    {"id": "r-2", "type": "regional", "region": "南美洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(巴西 OR 阿根廷 OR 智利 OR 秘魯 OR 南美洲)"},
-    {"id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "query": "(英國 OR 法國 OR 德國 OR 歐盟 OR 歐洲)"},
-    {"id": "r-4", "type": "regional", "region": "非洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(南非 OR 埃及 OR 肯亞 OR 奈及利亞 OR 非洲)"},
-    {"id": "r-5", "type": "regional", "region": "中東與中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(中東 OR 以色列 OR 伊朗 OR 沙烏地阿拉伯 OR 哈薩克 OR 中亞)"},
-    {"id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "query": "(日本 OR 韓國 OR 東北亞) 科技"},
-    {"id": "r-7", "type": "regional", "region": "東南亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(印尼 OR 泰國 OR 越南 OR 新加坡 OR 菲律賓 OR 東南亞)"},
-    {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(澳洲 OR 紐西蘭 OR 太平洋島國 OR 大洋洲)"}
+    {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "World (Politics OR Economy OR Policy)"},
+    {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "(Climate OR Environment OR Ecology OR Global Warming)"},
+    {"id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "query": "(Culture OR Art OR Society OR Education)"},
+    {"id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "query": "(Technology OR AI OR Space OR Science OR Semiconductor)"},
+    {"id": "t-5", "type": "thematic", "category": "趣味溫馨", "tagClass": "tag-fun", "region": "全球", "query": "(Heartwarming OR Rescue OR Inspiring OR Fun facts)"},
+    {"id": "r-1", "type": "regional", "region": "北美洲", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(US OR Canada OR Mexico) (Politics OR Society OR Economy)"},
+    {"id": "r-2", "type": "regional", "region": "南美洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(Brazil OR Argentina OR Chile OR Peru OR South America)"},
+    {"id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "query": "(UK OR France OR Germany OR EU OR Europe)"},
+    {"id": "r-4", "type": "regional", "region": "非洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(South Africa OR Egypt OR Kenya OR Nigeria OR Africa)"},
+    {"id": "r-5", "type": "regional", "region": "中東與中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(Middle East OR Israel OR Iran OR Saudi Arabia OR Kazakhstan OR Central Asia)"},
+    {"id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "query": "(Japan OR South Korea OR East Asia) Technology"},
+    {"id": "r-7", "type": "regional", "region": "東南亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(Indonesia OR Thailand OR Vietnam OR Singapore OR Philippines OR Southeast Asia)"},
+    {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(Australia OR New Zealand OR Pacific Islands OR Oceania)"}
 ]
 
 def get_now():
@@ -40,26 +40,26 @@ def fetch_real_news_from_rss(channel):
     region = channel.get("region", "")
     query = channel.get("query", "")
     
-    # 根據不同區域，給予專屬的媒體名單，改為在 Python 內部過濾，不塞給 Google 增加負擔
+    # 根據不同區域，給予專屬的國際外媒名單
     if region == "大洋洲":
-        preferred_media = ["ABC", "澳洲廣播公司", "Radio New Zealand", "紐西蘭廣播", "BBC", "路透", "報導者", "中央社"]
+        preferred_media = ["ABC News", "RNZ", "Radio New Zealand", "BBC", "Reuters", "Associated Press", "The Guardian"]
     elif region == "中東與中亞":
-        preferred_media = ["半島電視台", "半島", "Al Jazeera", "BBC", "路透", "德國之聲", "轉角國際", "報導者", "中央社"]
+        preferred_media = ["Al Jazeera", "BBC", "Reuters", "DW", "Associated Press", "NPR", "France 24"]
     else:
-        preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
+        preferred_media = ["BBC", "Reuters", "Associated Press", "AP", "DW", "Al Jazeera", "CNBC", "NHK WORLD", "The Economist", "NPR", "The Guardian", "TIME"]
     
-    # 從源頭直接封鎖黑名單媒體
-    blocked_query = " -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易 -每日頭條"
-    blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易", "每日頭條"]
+    # 過濾掉歐美常見的八卦小報或內容農場
+    blocked_query = " -\"Daily Mail\" -\"The Sun\" -\"New York Post\" -\"Fox News\""
+    blocked_media = ["Daily Mail", "The Sun", "New York Post", "Fox News", "Breitbart"]
     
     # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
     time_windows = ['2d', '5d', '14d']
     
     for window in time_windows:
-        # 注意這裡拿掉了 media_query，讓搜尋字串變乾淨，解決找不到新聞的問題
+        # 注意：這裡把 hl 和 gl 改成 en-US 和 US，強迫 Google 給我們國際英文新聞
         encoded_query = urllib.parse.quote(f"{query}{blocked_query} when:{window}")
-        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-        print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {region}")
+        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
+        print(f"[{get_now()}] 正在出國搜尋外媒 RSS (時間範圍: 最近 {window}) -> {region}")
         
         try:
             response = requests.get(rss_url, timeout=10)
@@ -74,37 +74,33 @@ def fetch_real_news_from_rss(channel):
                 source_elem = item.find('source')
                 source_name = source_elem.text if source_elem is not None else ""
                 
-                # 碰到黑名單直接跳過
+                # 碰到八卦小報直接跳過
                 if any(blocked in source_name for blocked in blocked_media):
                     continue
                 
-                # 把符合白名單的新聞全部先裝進口袋
+                # 收集符合白名單的國際新聞
                 if any(pref in source_name for pref in preferred_media):
                     title = item.find('title').text
                     link = item.find('link').text
                     valid_news.append({"title": title, "link": link, "source": source_name})
             
-            # 反洗版機制：如果口袋裡有新聞，優先拿非中央社的出來用
+            # 從找到的名單中隨機挑選一篇，增加每天新聞的隨機性
             if valid_news:
-                diverse_news = [n for n in valid_news if "中央社" not in n["source"]]
-                if diverse_news:
-                    selected_item = random.choice(diverse_news)
-                else:
-                    selected_item = random.choice(valid_news)
-                    
-                print(f"[{get_now()}] 成功鎖定多元優質新聞: {selected_item['title']} ({selected_item['source']})")
+                selected_item = random.choice(valid_news)
+                print(f"[{get_now()}] 成功鎖定國際外媒新聞: {selected_item['title']} ({selected_item['source']})")
                 return selected_item
                     
         except Exception as e:
             print(f"[{get_now()}] 抓取 RSS 發生錯誤: {e}")
             
-    print(f"[{get_now()}] 擴大搜尋範圍至 14 天後，仍找不到白名單媒體的新聞。")
+    print(f"[{get_now()}] 擴大搜尋範圍至 14 天後，仍找不到外媒白名單的新聞。")
     return None
 
 def generate_article_with_ai(channel_info, real_news, today_date):
     prompt = f"""
     你現在是一位青少年雜誌的真人專欄作家。
-    請根據這則新聞：{real_news['title']}，撰寫一篇適合 10-15 歲青少年的報導。
+    我們從外國媒體找來了這則新聞：{real_news['title']} (來源：{real_news['source']})。
+    請你閱讀標題與來源判斷背後的新聞事件，用「繁體中文」撰寫一篇適合 10-15 歲青少年的報導。
     
     【核心教育目標】
     寫作與設計提問時，請務必緊扣以下四大標準：
@@ -114,10 +110,10 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     4. 媒體識讀：適時引導孩子思考訊息的來源，學習分辨事實與觀點。
 
     【寫作風格與語氣】
-    1. 真實忠誠：請盡量忠實呈現原文的新聞事件，不做過度誇飾，僅在語氣上進行改寫。
+    1. 真實忠誠：請盡量忠實呈現外媒報導的事件，不做過度誇飾，僅在語氣上進行改寫。
     2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在對孩子說話，讓他們感覺像在閱讀優質雜誌。
     3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語（例如：高大上、yyds、絕絕子 等）。
-    4. 封殺機器詞彙：絕對禁止使用機器感重詞彙，包含但不限於：賦能、一站式、全方位 等。
+    4. 封殺機器詞彙：絕對禁止使用機器感重詞彙，包含但不限於：賦能、一站式、全方位、值得注意的是 等。
     5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用全形破折號以及濫用 Emoji。
     6. 最後檢查：請自己問自己：「一個真實的人類作家會這樣寫嗎？」
 
@@ -147,7 +143,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     
     for attempt in range(3):
         try:
-            print(f"[{get_now()}] 正在寫作 (嘗試 {attempt+1}/3)...")
+            print(f"[{get_now()}] 正在跨國翻譯與寫作 (嘗試 {attempt+1}/3)...")
             response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
             if response.status_code == 429:
                 print(f"[{get_now()}] API 頻率限制，休息 45 秒...")
@@ -171,7 +167,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
 
 def test_rss_search():
     """只抓取 RSS 不呼叫 AI 的測試模式"""
-    print(f"[{get_now()}] >>> 啟動 RSS 抓取測試模式（不呼叫 AI） <<<")
+    print(f"[{get_now()}] >>> 啟動外媒 RSS 抓取測試模式（不呼叫 AI） <<<")
     success_count = 0
     for idx, channel in enumerate(CHANNELS):
         print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
