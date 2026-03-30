@@ -5,6 +5,7 @@ import datetime
 import requests
 import re
 import urllib.parse
+import random
 import time
 import xml.etree.ElementTree as ET
 
@@ -15,7 +16,7 @@ sys.stdout.reconfigure(line_buffering=True)
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
-# 定義 13 個新聞頻道，加入 OR 邏輯讓搜尋更聰明，擴大命中率
+# 定義 13 個新聞頻道，修改 r-5 為中東與中亞
 CHANNELS = [
     {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 (政治 OR 經濟 OR 政策)"},
     {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "(氣候 OR 環保 OR 生態 OR 暖化 OR 減碳)"},
@@ -26,7 +27,7 @@ CHANNELS = [
     {"id": "r-2", "type": "regional", "region": "南美洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(巴西 OR 阿根廷 OR 智利 OR 秘魯 OR 南美洲)"},
     {"id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "query": "(英國 OR 法國 OR 德國 OR 歐盟 OR 歐洲)"},
     {"id": "r-4", "type": "regional", "region": "非洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(南非 OR 埃及 OR 肯亞 OR 奈及利亞 OR 非洲)"},
-    {"id": "r-5", "type": "regional", "region": "中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(哈薩克 OR 烏茲別克 OR 塔吉克 OR 中亞)"},
+    {"id": "r-5", "type": "regional", "region": "中東與中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(中東 OR 以色列 OR 伊朗 OR 沙烏地阿拉伯 OR 哈薩克 OR 中亞)"},
     {"id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "query": "(日本 OR 韓國 OR 東北亞) 科技"},
     {"id": "r-7", "type": "regional", "region": "東南亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "(印尼 OR 泰國 OR 越南 OR 新加坡 OR 菲律賓 OR 東南亞)"},
     {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "(澳洲 OR 紐西蘭 OR 太平洋島國 OR 大洋洲)"}
@@ -35,25 +36,33 @@ CHANNELS = [
 def get_now():
     return datetime.datetime.now().strftime('%H:%M:%S')
 
-def fetch_real_news_from_rss(query):
-    # 限制優先搜尋這些關鍵字，加入「少年報導者」提高青少年合適度
-    media_query = " (中央社 OR 公視 OR 報導者 OR 少年報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
+def fetch_real_news_from_rss(channel):
+    region = channel.get("region", "")
+    query = channel.get("query", "")
+    
+    # 根據不同區域，給予專屬的媒體搜尋名單，增加多元性
+    if region == "大洋洲":
+        media_query = " (ABC OR 澳洲廣播公司 OR Radio New Zealand OR 紐西蘭廣播 OR BBC OR 路透 OR 報導者 OR 中央社)"
+        preferred_media = ["ABC", "澳洲廣播公司", "Radio New Zealand", "紐西蘭廣播", "BBC", "路透", "報導者", "中央社"]
+    elif region == "中東與中亞":
+        media_query = " (半島電視台 OR Al Jazeera OR BBC OR 路透 OR 德國之聲 OR 轉角國際 OR 報導者 OR 中央社)"
+        preferred_media = ["半島電視台", "半島", "Al Jazeera", "BBC", "路透", "德國之聲", "轉角國際", "報導者", "中央社"]
+    else:
+        # 其他區域的預設優質名單
+        media_query = " (中央社 OR 公視 OR 報導者 OR 少年報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
+        preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
     
     # 從源頭直接封鎖黑名單媒體
-    blocked_query = " -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易"
-    
-    # 定義優質媒體白名單與過濾黑名單 (作為雙重保險)
-    preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
-    blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易"]
+    blocked_query = " -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易 -每日頭條"
+    blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易", "每日頭條"]
     
     # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
     time_windows = ['2d', '5d', '14d']
     
     for window in time_windows:
-        # 把過濾條件組合進去 Google News 搜尋字串
         encoded_query = urllib.parse.quote(f"{query}{media_query}{blocked_query} when:{window}")
         rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-        print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {query}")
+        print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {region}")
         
         try:
             response = requests.get(rss_url, timeout=10)
@@ -62,20 +71,32 @@ def fetch_real_news_from_rss(query):
             root = ET.fromstring(xml_content)
             items = root.findall('.//channel/item')
             
+            valid_news = []
+            
             for item in items:
                 source_elem = item.find('source')
                 source_name = source_elem.text if source_elem is not None else ""
                 
-                # 碰到黑名單直接跳過 (雙重保險)
+                # 碰到黑名單直接跳過
                 if any(blocked in source_name for blocked in blocked_media):
                     continue
                 
-                # 碰到白名單立刻鎖定回傳
+                # 收集所有符合白名單的新聞
                 if any(pref in source_name for pref in preferred_media):
                     title = item.find('title').text
                     link = item.find('link').text
-                    print(f"[{get_now()}] 成功鎖定優質新聞: {title} ({source_name})")
-                    return {"title": title, "link": link, "source": source_name}
+                    valid_news.append({"title": title, "link": link, "source": source_name})
+            
+            # 反洗版機制：如果有找到新聞，優先從「非中央社」的名單裡隨機挑選
+            if valid_news:
+                diverse_news = [n for n in valid_news if "中央社" not in n["source"]]
+                if diverse_news:
+                    selected_item = random.choice(diverse_news)
+                else:
+                    selected_item = random.choice(valid_news)
+                    
+                print(f"[{get_now()}] 成功鎖定多元優質新聞: {selected_item['title']} ({selected_item['source']})")
+                return selected_item
                     
         except Exception as e:
             print(f"[{get_now()}] 抓取 RSS 發生錯誤: {e}")
@@ -157,7 +178,7 @@ def test_rss_search():
     success_count = 0
     for idx, channel in enumerate(CHANNELS):
         print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
-        real_news = fetch_real_news_from_rss(channel["query"])
+        real_news = fetch_real_news_from_rss(channel)
         if real_news:
             success_count += 1
             print(f"  ✅ 成功找到新聞：{real_news['title']}")
@@ -165,7 +186,7 @@ def test_rss_search():
             print(f"  連結：{real_news['link']}")
         else:
             print(f"  ❌ 找不到符合條件的新聞。")
-        time.sleep(2) # 稍微休息一下，避免對 Google 請求太快
+        time.sleep(2) 
     
     print(f"\n[{get_now()}] 測試結束。共設定 {len(CHANNELS)} 個頻道，成功找到 {success_count} 篇新聞。")
 
@@ -177,7 +198,7 @@ def update_daily_news():
     print(f"[{get_now()}] >>> 自動報社開始上班 <<<")
     for idx, channel in enumerate(CHANNELS):
         print(f"\n[{get_now()}] --- 處理進度 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
-        real_news = fetch_real_news_from_rss(channel["query"])
+        real_news = fetch_real_news_from_rss(channel)
         if not real_news: continue
         article = generate_article_with_ai(channel, real_news, today_str)
         if article:
@@ -224,7 +245,6 @@ def update_daily_news():
     print(f"[{get_now()}] 存檔成功！今日新增 {len(final_news_list)} 篇報導。")
 
 if __name__ == "__main__":
-    # 檢查是否有傳入 'test' 參數
     if len(sys.argv) > 1 and sys.argv[1] == 'test':
         test_rss_search()
     else:
