@@ -36,30 +36,44 @@ CHANNELS = [
 def get_now():
     return datetime.datetime.now().strftime('%H:%M:%S')
 
-def fetch_real_news_from_rss(channel):
+def fetch_real_news_from_rss(channel, used_media, require_taiwan=False):
     region = channel.get("region", "")
     query = channel.get("query", "")
     
+    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
+    
+    # 如果系統要求必須抓取台灣媒體，就切換為繁體中文搜尋模式
+    if require_taiwan:
+        preferred_media = taiwan_media_names
+        hl, gl, ceid = "zh-TW", "TW", "TW:zh-Hant"
+        search_query = f"{region} 國際 新聞" if region != "全球" else "國際 重大 新聞"
     # 根據不同區域，給予專屬的國際外媒名單
-    if region == "大洋洲":
-        preferred_media = ["ABC News", "RNZ", "Radio New Zealand", "BBC", "Reuters", "Associated Press", "The Guardian"]
+    elif region == "大洋洲":
+        preferred_media = ["ABC News", "RNZ", "Radio New Zealand", "BBC", "Reuters", "Associated Press", "The Guardian", "Taipei Times"]
+        hl, gl, ceid = "en-US", "US", "US:en"
+        search_query = query
     elif region == "中東與中亞":
-        preferred_media = ["Al Jazeera", "BBC", "Reuters", "DW", "Associated Press", "NPR", "France 24"]
+        preferred_media = ["Al Jazeera", "BBC", "Reuters", "DW", "Associated Press", "NPR", "France 24", "Taipei Times"]
+        hl, gl, ceid = "en-US", "US", "US:en"
+        search_query = query
     else:
-        preferred_media = ["BBC", "Reuters", "Associated Press", "AP", "DW", "Al Jazeera", "CNBC", "NHK WORLD", "The Economist", "NPR", "The Guardian", "TIME"]
+        preferred_media = ["BBC", "Reuters", "Associated Press", "AP", "DW", "Al Jazeera", "CNBC", "NHK WORLD", "The Economist", "NPR", "The Guardian", "TIME", "Taipei Times"]
+        # 順便把台灣媒體放進白名單，如果有英文版剛好被搜到也能用
+        preferred_media.extend(taiwan_media_names)
+        hl, gl, ceid = "en-US", "US", "US:en"
+        search_query = query
     
     # 過濾掉歐美常見的八卦小報或內容農場
-    blocked_query = " -\"Daily Mail\" -\"The Sun\" -\"New York Post\" -\"Fox News\""
-    blocked_media = ["Daily Mail", "The Sun", "New York Post", "Fox News", "Breitbart"]
+    blocked_query = " -\"Daily Mail\" -\"The Sun\" -\"New York Post\" -\"Fox News\" -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易 -每日頭條"
+    blocked_media = ["Daily Mail", "The Sun", "New York Post", "Fox News", "Breitbart", "大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易", "每日頭條"]
     
     # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
     time_windows = ['2d', '5d', '14d']
     
     for window in time_windows:
-        # 注意：這裡把 hl 和 gl 改成 en-US 和 US，強迫 Google 給我們國際英文新聞
-        encoded_query = urllib.parse.quote(f"{query}{blocked_query} when:{window}")
-        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
-        print(f"[{get_now()}] 正在出國搜尋外媒 RSS (時間範圍: 最近 {window}) -> {region}")
+        encoded_query = urllib.parse.quote(f"{search_query}{blocked_query} when:{window}")
+        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl={hl}&gl={gl}&ceid={ceid}"
+        print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {region} (強制尋找台媒: {require_taiwan})")
         
         try:
             response = requests.get(rss_url, timeout=10)
@@ -74,7 +88,7 @@ def fetch_real_news_from_rss(channel):
                 source_elem = item.find('source')
                 source_name = source_elem.text if source_elem is not None else ""
                 
-                # 碰到八卦小報直接跳過
+                # 碰到黑名單直接跳過
                 if any(blocked in source_name for blocked in blocked_media):
                     continue
                 
@@ -84,10 +98,17 @@ def fetch_real_news_from_rss(channel):
                     link = item.find('link').text
                     valid_news.append({"title": title, "link": link, "source": source_name})
             
-            # 從找到的名單中隨機挑選一篇，增加每天新聞的隨機性
             if valid_news:
-                selected_item = random.choice(valid_news)
-                print(f"[{get_now()}] 成功鎖定國際外媒新聞: {selected_item['title']} ({selected_item['source']})")
+                # 優先挑選今天「還沒出場過」的媒體，確保多樣性
+                unused_news = [n for n in valid_news if n["source"] not in used_media]
+                
+                if unused_news:
+                    selected_item = random.choice(unused_news)
+                    print(f"[{get_now()}] 成功鎖定全新媒體: {selected_item['title']} ({selected_item['source']})")
+                else:
+                    selected_item = random.choice(valid_news)
+                    print(f"[{get_now()}] 所有候選媒體皆已出場，勉強重複鎖定: {selected_item['title']} ({selected_item['source']})")
+                    
                 return selected_item
                     
         except Exception as e:
@@ -169,11 +190,25 @@ def test_rss_search():
     """只抓取 RSS 不呼叫 AI 的測試模式"""
     print(f"[{get_now()}] >>> 啟動外媒 RSS 抓取測試模式（不呼叫 AI） <<<")
     success_count = 0
+    used_media = set()
+    has_taiwan_media = False
+    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
+    
     for idx, channel in enumerate(CHANNELS):
         print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
-        real_news = fetch_real_news_from_rss(channel)
+        
+        # 只要還沒抓到台灣媒體，就強迫去抓
+        require_taiwan = not has_taiwan_media
+        
+        real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan)
         if real_news:
             success_count += 1
+            used_media.add(real_news['source'])
+            
+            # 檢查是否成功抓到台灣媒體
+            if any(tw_m in real_news['source'] for tw_m in taiwan_media_names):
+                has_taiwan_media = True
+                
             print(f"  ✅ 成功找到新聞：{real_news['title']}")
             print(f"  來源：{real_news['source']}")
             print(f"  連結：{real_news['link']}")
@@ -188,15 +223,29 @@ def update_daily_news():
     final_news_list = []
     consecutive_fails = 0  
     
+    used_media = set()
+    has_taiwan_media = False
+    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
+    
     print(f"[{get_now()}] >>> 自動報社開始上班 <<<")
     for idx, channel in enumerate(CHANNELS):
         print(f"\n[{get_now()}] --- 處理進度 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
-        real_news = fetch_real_news_from_rss(channel)
+        
+        # 只要還沒抓到台灣媒體，就強迫去抓
+        require_taiwan = not has_taiwan_media
+        
+        real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan)
         if not real_news: continue
+        
         article = generate_article_with_ai(channel, real_news, today_str)
         if article:
             final_news_list.append(article)
             consecutive_fails = 0
+            
+            # 紀錄出場過的媒體與確認是否抓到台灣視角
+            used_media.add(real_news['source'])
+            if any(tw_m in real_news['source'] for tw_m in taiwan_media_names):
+                has_taiwan_media = True
         else:
             consecutive_fails += 1
             if consecutive_fails >= 2:
