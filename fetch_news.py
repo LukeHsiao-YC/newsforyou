@@ -3,6 +3,8 @@ import json
 import datetime
 import requests
 import re
+import urllib.parse
+import random
 
 # 設定 Gemini API
 API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -13,22 +15,28 @@ def generate_daily_news():
     
     # 給 AI 的指令，要求它扮演專業編輯並輸出 JSON
     prompt = f"""
-    請身為一位專業的兒童新聞編輯，幫我撰寫 {today} 的 4 篇每日新聞。
+    請身為一位專業的新聞編輯，幫我撰寫 {today} 的 8 篇每日新聞。
     目標讀者：國小高年級到國中生（10-15歲）。
     
-    新聞必須包含以下四個分類各一篇：
-    1. 政治經濟 (tagClass: tag-polecon)
-    2. 科技探索 (tagClass: tag-tech)
-    3. 人文流行 (tagClass: tag-human)
-    4. 自然生態 (tagClass: tag-nature)
+    新聞必須涵蓋以下 8 個地區各一篇，主題請從「政治經濟、科技探索、人文流行、自然生態」中自行挑選最適合該地區的重大事件：
+    1. 東北亞
+    2. 東南亞
+    3. 中亞
+    4. 大洋洲
+    5. 歐洲
+    6. 非洲
+    7. 北美洲
+    8. 南美洲
     
     寫作要求：
-    - 每篇中文新聞內容 (zhContent) 必須大於 500 字，分段落，以口語化、說故事的方式撰寫，並帶有啟發性。
-    - 必須根據真實發生的近期國際或台灣重大新聞來改寫，絕不可捏造。
-    - 每篇都要附上真實的來源媒體名稱 (sourceName) 與對應的真實網址 (sourceLink)。
-    - 提供符合劍橋兒童英文 YLE Flyers 程度的英文標題 (enTitle) 和英文短文 (enContent)，約 50-80 字。
-    - 提供一個簡短的英文關鍵字 (例如 space, desert, cat) 放在 imageKeyword 欄位，這會用來自動配圖。
-    - 隨機挑選其中 1 篇設定為「每週精選」 (isFeatured: true)，其他 3 篇為 false。
+    - 中文內容 (zhContent) 必須約 400 到 500 字，分段落。請客觀描述事實，語氣平易近人，不要有尷尬的大人說教感。
+    - 訓練閱讀素養：內容要有清晰的因果關係，並且在文章最後，加上一小段「引導思考」的問題，激發好奇心。
+    - 必須根據真實發生的近期國際重大新聞來改寫，絕不可捏造。
+    - 每篇都要附上真實的具公信力媒體名稱 (sourceName) 與對應的真實網址 (sourceLink)。
+    - 英文內容：請針對該新聞，提供三個不同閱讀難度 (basic, intermediate, advanced) 的短文。
+    - 英文單字：從短文中挑選 2 個重點單字 (vocabulary)，並提供中文解釋。
+    - 提供一個簡短、具體的英文名詞 (例如 space, desert, train) 放在 imageKeyword 欄位，這會用來自動配圖。
+    - 隨機挑選其中 1 篇設定為「每週精選」 (isFeatured: true)，其他 7 篇為 false。
     
     請務必只回傳合法的 JSON 陣列格式，不要包含任何 Markdown 標記或其他文字，格式如下：
     [
@@ -36,16 +44,25 @@ def generate_daily_news():
         "id": "{today}-1",
         "date": "{today}",
         "isFeatured": true,
-        "category": "政治經濟",
-        "tagClass": "tag-polecon",
-        "imageKeyword": "oil",
+        "region": "東北亞",
+        "category": "科技探索",
+        "tagClass": "tag-tech",
+        "imageKeyword": "robot",
         "zhTitle": "標題",
-        "zhSummary": "50字摘要",
-        "zhContent": "<p>段落一...</p><p>段落二...</p>",
+        "zhSummary": "50字客觀摘要",
+        "zhContent": "<p>段落一...</p><p>段落二...</p><p>引導思考：...</p>",
         "enTitle": "English Title",
-        "enContent": "English content...",
-        "sourceName": "中央通訊社",
-        "sourceLink": "https://www.cna.com.tw/..."
+        "enContent": {{
+            "basic": "Simple english...",
+            "intermediate": "Normal english...",
+            "advanced": "Harder english..."
+        }},
+        "vocabulary": [
+            {{"word": "robot", "zh": "機器人"}},
+            {{"word": "future", "zh": "未來"}}
+        ],
+        "sourceName": "BBC News",
+        "sourceLink": "https://www.bbc.com/..."
       }}
     ]
     """
@@ -71,11 +88,13 @@ def generate_daily_news():
         
         news_data = json.loads(text_content)
         
-        # 把 imageKeyword 轉換成免費的 AI 圖片生成網址
+        # 把 imageKeyword 轉換成免費的 AI 圖片生成網址，並加上 URL 編碼避免破圖
         for index, item in enumerate(news_data):
-            # 使用 pollinations.ai 根據關鍵字自動生成不帶浮水印的圖片
             keyword = item.get("imageKeyword", "news")
-            item["imageUrl"] = f"https://image.pollinations.ai/prompt/{keyword}?width=800&height=500&nologo=true"
+            encoded_keyword = urllib.parse.quote(keyword)
+            # 加入隨機亂數避免瀏覽器快取到同一張圖片
+            random_seed = random.randint(1, 10000)
+            item["imageUrl"] = f"https://image.pollinations.ai/prompt/{encoded_keyword}?width=800&height=500&nologo=true&seed={random_seed}"
             item["id"] = f"{today}-{index+1}"
             
         return news_data
