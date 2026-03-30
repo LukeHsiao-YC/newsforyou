@@ -40,16 +40,12 @@ def fetch_real_news_from_rss(channel):
     region = channel.get("region", "")
     query = channel.get("query", "")
     
-    # 根據不同區域，給予專屬的媒體搜尋名單，增加多元性
+    # 根據不同區域，給予專屬的媒體名單，改為在 Python 內部過濾，不塞給 Google 增加負擔
     if region == "大洋洲":
-        media_query = " (ABC OR 澳洲廣播公司 OR Radio New Zealand OR 紐西蘭廣播 OR BBC OR 路透 OR 報導者 OR 中央社)"
         preferred_media = ["ABC", "澳洲廣播公司", "Radio New Zealand", "紐西蘭廣播", "BBC", "路透", "報導者", "中央社"]
     elif region == "中東與中亞":
-        media_query = " (半島電視台 OR Al Jazeera OR BBC OR 路透 OR 德國之聲 OR 轉角國際 OR 報導者 OR 中央社)"
         preferred_media = ["半島電視台", "半島", "Al Jazeera", "BBC", "路透", "德國之聲", "轉角國際", "報導者", "中央社"]
     else:
-        # 其他區域的預設優質名單
-        media_query = " (中央社 OR 公視 OR 報導者 OR 少年報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
         preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
     
     # 從源頭直接封鎖黑名單媒體
@@ -60,7 +56,8 @@ def fetch_real_news_from_rss(channel):
     time_windows = ['2d', '5d', '14d']
     
     for window in time_windows:
-        encoded_query = urllib.parse.quote(f"{query}{media_query}{blocked_query} when:{window}")
+        # 注意這裡拿掉了 media_query，讓搜尋字串變乾淨，解決找不到新聞的問題
+        encoded_query = urllib.parse.quote(f"{query}{blocked_query} when:{window}")
         rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
         print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {region}")
         
@@ -81,13 +78,13 @@ def fetch_real_news_from_rss(channel):
                 if any(blocked in source_name for blocked in blocked_media):
                     continue
                 
-                # 收集所有符合白名單的新聞
+                # 把符合白名單的新聞全部先裝進口袋
                 if any(pref in source_name for pref in preferred_media):
                     title = item.find('title').text
                     link = item.find('link').text
                     valid_news.append({"title": title, "link": link, "source": source_name})
             
-            # 反洗版機制：如果有找到新聞，優先從「非中央社」的名單裡隨機挑選
+            # 反洗版機制：如果口袋裡有新聞，優先拿非中央社的出來用
             if valid_news:
                 diverse_news = [n for n in valid_news if "中央社" not in n["source"]]
                 if diverse_news:
