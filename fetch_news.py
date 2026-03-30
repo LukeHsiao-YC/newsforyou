@@ -6,7 +6,7 @@ import re
 
 # 設定 Gemini API
 API_KEY = os.environ.get("GEMINI_API_KEY")
-API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={AIzaSyAPe-KPHdH-bdICKi7kF6xJGcvcNscESWo}"
+API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
 def generate_daily_news():
     today = datetime.datetime.now().strftime("%Y-%m-%d")
