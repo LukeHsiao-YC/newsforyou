@@ -154,6 +154,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     final_news_list = []
+    consecutive_fails = 0  # 新增：連續失敗次數計數器
     
     print(f"開始執行 {today_str} 的新聞抓取任務...")
     
@@ -170,13 +171,22 @@ def update_daily_news():
         article = generate_article_with_ai(channel, real_news, today_str)
         if article:
             final_news_list.append(article)
+            consecutive_fails = 0  # 成功產出就把失敗次數歸零
             print("AI 撰寫完成！")
+        else:
+            consecutive_fails += 1
+            print(f"此篇生成失敗。目前累積連續失敗次數: {consecutive_fails}")
             
-        # 將平時的基準休息時間拉長到 30 秒，減少觸發 429 的機率
-        time.sleep(30)
+            # 如果連續兩篇都失敗，判斷為 API 額度已經耗盡
+            if consecutive_fails >= 2:
+                print("連續失敗兩次，判斷 API 每日額度可能已耗盡，啟動緊急煞車，提早結束任務！")
+                break
+            
+        # 稍微縮短平時的基準休息時間到 20 秒，讓整個流程順暢一點
+        time.sleep(20)
         
     if not final_news_list:
-        print("今天沒有產出任何資料，提早結束程式。")
+        print("今天完全沒有產出任何資料，結束程式。")
         return
         
     for news in final_news_list:
