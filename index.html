@@ -10,43 +10,37 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { background-color: #f4f7f6; font-family: 'Noto Sans TC', sans-serif; color: #333; line-height: 1.6; }
 
-        header { background-color: #fff; padding: 30px 20px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
-        header h1 { font-size: 36px; font-weight: 900; color: #2c3e50; margin-bottom: 10px; }
+        header { background-color: #fff; padding: 35px 20px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        header h1 { font-size: 38px; font-weight: 900; color: #2c3e50; margin-bottom: 10px; }
         header p.subtitle { color: #7f8c8d; font-size: 18px; }
-        header p.credit { color: #95a5a6; font-size: 14px; margin-top: 8px; font-weight: 700; }
+        header p.credit { color: #95a5a6; font-size: 14px; margin-top: 10px; font-weight: 700; }
 
         /* 頁籤導覽 */
-        .tabs-container { display: flex; justify-content: center; gap: 15px; margin-top: 25px; }
+        .tabs-container { display: flex; justify-content: center; gap: 15px; margin-top: 30px; }
         .tab-btn { background-color: #f1f2f6; border: none; padding: 12px 28px; border-radius: 30px; font-size: 18px; font-weight: 700; color: #576574; cursor: pointer; transition: all 0.3s ease; font-family: 'Noto Sans TC', sans-serif; }
         .tab-btn.active { background-color: #2c3e50; color: #fff; box-shadow: 0 4px 10px rgba(44, 62, 80, 0.3); }
 
         .content-section { display: none; max-width: 1200px; margin: 40px auto; padding: 0 20px; }
         .content-section.active { display: block; }
-        .section-title { font-size: 28px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; border-left: 6px solid #f39c12; padding-left: 15px; }
+        .section-title { font-size: 28px; font-weight: 900; color: #2c3e50; margin-bottom: 30px; border-left: 6px solid #f39c12; padding-left: 15px; }
 
-        /* 網格與卡片 */
-        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-bottom: 60px; }
-        .news-card { background: #fff; border-radius: 24px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; }
-        .news-card:hover { transform: translateY(-8px); box-shadow: 0 15px 35px rgba(0,0,0,0.1); }
+        /* 網格與無圖片卡片設計 */
+        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 60px; }
+        .news-card { background: #fff; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.04); cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: column; height: 100%; border: 1px solid #eaeaea; padding: 35px 30px; }
+        .news-card:hover { transform: translateY(-6px); box-shadow: 0 15px 30px rgba(0,0,0,0.08); border-color: #dcdde1; }
         
-        .card-image-wrap { width: 100%; height: 280px; background: linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%); overflow: hidden; position: relative; }
-        .card-image { width: 100%; height: 100%; object-fit: cover; transition: opacity 0.5s ease; opacity: 0; }
-        .card-image.loaded { opacity: 1; }
-
-        .card-content { padding: 25px; flex-grow: 1; display: flex; flex-direction: column; }
-        
-        .tag-wrap { display: flex; gap: 8px; margin-bottom: 12px; }
-        .category-tag { padding: 4px 12px; border-radius: 12px; color: #fff; font-size: 13px; font-weight: 700; }
-        .region-tag { background-color: #34495e; padding: 4px 12px; border-radius: 12px; color: #fff; font-size: 13px; font-weight: 700; }
+        .tag-wrap { display: flex; gap: 8px; margin-bottom: 18px; flex-wrap: wrap;}
+        .category-tag { padding: 5px 14px; border-radius: 12px; color: #fff; font-size: 14px; font-weight: 700; }
+        .region-tag { background-color: #34495e; padding: 5px 14px; border-radius: 12px; color: #fff; font-size: 14px; font-weight: 700; }
         
         .tag-polecon { background-color: #e74c3c; } 
         .tag-tech { background-color: #3498db; }    
         .tag-human { background-color: #9b59b6; }   
         .tag-nature { background-color: #2ecc71; }  
-        .tag-fun { background-color: #fd79a8; } /* 新增趣味溫馨標籤顏色 */
+        .tag-fun { background-color: #fd79a8; } 
 
-        .news-card h2 { font-size: 20px; font-weight: 800; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
-        .news-card p.summary { font-size: 15px; color: #7f8c8d; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        .news-card h2 { font-size: 22px; font-weight: 900; margin-bottom: 15px; color: #2c3e50; line-height: 1.4; }
+        .news-card p.summary { font-size: 16px; color: #7f8c8d; line-height: 1.7; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
 
         /* 世界地圖互動區 */
         .map-wrapper { background: #fff; border-radius: 28px; padding: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); margin-bottom: 60px; text-align: center; }
@@ -61,20 +55,25 @@
         /* 歷史庫日期標題 */
         .date-header { font-size: 26px; font-weight: 900; color: #2c3e50; margin: 50px 0 25px 0; border-bottom: 3px solid #bdc3c7; padding-bottom: 12px; display: flex; align-items: center; gap: 10px; }
 
-        /* 彈出視窗 (Modal) */
-        .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 2000; padding: 20px; }
+        /* 彈出視窗 (Modal) 優化設計 */
+        .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.75); display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 2000; padding: 20px; }
         .modal-overlay.active { opacity: 1; pointer-events: auto; }
-        .modal-content { background: #fff; width: 100%; max-width: 850px; max-height: 90vh; border-radius: 32px; overflow-y: auto; position: relative; transform: translateY(30px); transition: transform 0.3s ease; }
-        .modal-overlay.active .modal-content { transform: translateY(0); }
-        .close-btn { position: absolute; top: 20px; right: 20px; background: rgba(255,255,255,0.9); border: none; width: 45px; height: 45px; border-radius: 50%; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.1); z-index: 10; display: flex; align-items: center; justify-content: center; }
         
-        .modal-header-img-wrap { width: 100%; max-height: 600px; background-color: #eee; overflow: hidden; display: flex; justify-content: center; }
-        .modal-header-img { width: 100%; height: auto; max-height: 600px; object-fit: contain; }
-        .modal-body { padding: 45px; }
-        .modal-zh-title { font-size: 32px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; line-height: 1.3; }
-        .modal-zh-content p { font-size: 19px; color: #444; margin-bottom: 22px; line-height: 1.8; text-align: justify; }
+        .modal-content { background: #fff; width: 100%; max-width: 850px; max-height: 90vh; border-radius: 32px; position: relative; transform: translateY(30px); transition: transform 0.3s ease; display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.2); }
+        .modal-overlay.active .modal-content { transform: translateY(0); }
+        
+        /* 固定的頂部關閉控制列 */
+        .modal-header-bar { display: flex; justify-content: flex-end; padding: 15px 25px; background: #fff; border-bottom: 1px solid #f1f2f6; position: sticky; top: 0; z-index: 100; }
+        .close-btn { background: #f1f2f6; border: none; width: 40px; height: 40px; border-radius: 50%; font-size: 20px; cursor: pointer; display: flex; align-items: center; justify-content: center; color: #2f3542; transition: background 0.2s; }
+        .close-btn:hover { background: #dfe4ea; }
 
-        .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 24px; padding: 30px; margin: 40px 0; }
+        /* 獨立滾動的內文區 */
+        .modal-body { padding: 40px 50px 50px 50px; overflow-y: auto; flex-grow: 1; }
+        
+        .modal-zh-title { font-size: 34px; font-weight: 900; color: #2c3e50; margin-bottom: 30px; line-height: 1.35; border-bottom: 2px solid #ecf0f1; padding-bottom: 20px; }
+        .modal-zh-content p { font-size: 20px; color: #34495e; margin-bottom: 24px; line-height: 1.85; text-align: justify; }
+
+        .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 24px; padding: 35px; margin: 50px 0; }
         .scaffold-title { font-size: 24px; font-weight: 900; color: #d35400; margin-bottom: 25px; display: flex; align-items: center; gap: 12px;}
         .scaffold-step { margin-bottom: 25px; }
         .scaffold-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
@@ -83,26 +82,31 @@
         .hint-btn { background: #fff; border: 2px solid #e67e22; color: #e67e22; padding: 8px 20px; border-radius: 25px; font-size: 15px; font-weight: 800; cursor: pointer; transition: all 0.2s; margin-top: 8px; }
         .scaffold-hint { display: none; margin-top: 15px; background: #fff; padding: 20px; border-radius: 18px; font-size: 17px; color: #555; line-height: 1.7; border-left: 6px solid #f1c40f; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
 
-        .english-section { background-color: #f0f4f8; padding: 35px; border-radius: 28px; border-left: 8px solid #4a90e2; margin-bottom: 35px;}
-        .eng-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 15px;}
+        .english-section { background-color: #f0f4f8; padding: 40px; border-radius: 28px; border-left: 8px solid #4a90e2; margin-bottom: 40px;}
+        .eng-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px; flex-wrap: wrap; gap: 15px;}
         .english-section h3 { font-family: 'Nunito', sans-serif; font-size: 26px; color: #2980b9; font-weight: 800; }
-        .level-selector { display: flex; gap: 6px; background: #fff; padding: 5px; border-radius: 14px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);}
-        .level-btn { border: none; background: transparent; padding: 8px 16px; border-radius: 10px; font-size: 14px; font-weight: 800; cursor: pointer; color: #7f8c8d; transition: all 0.2s; }
+        .level-selector { display: flex; gap: 6px; background: #fff; padding: 6px; border-radius: 16px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);}
+        .level-btn { border: none; background: transparent; padding: 8px 18px; border-radius: 12px; font-size: 15px; font-weight: 800; cursor: pointer; color: #7f8c8d; transition: all 0.2s; }
         .level-btn.active { background: #4a90e2; color: #fff; }
         .modal-en-content { font-family: 'Nunito', sans-serif; font-size: 20px; color: #34495e; line-height: 1.7; }
 
-        .vocab-section { display: flex; gap: 20px; flex-wrap: wrap; margin-top: 30px; }
-        .vocab-card { background: #fff; border: 2px solid #e2e8f0; padding: 18px; border-radius: 20px; min-width: 200px; flex: 1; }
-        .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 800; color: #2c3e50; font-size: 22px; display: block; border-bottom: 3px solid #f1c40f; margin-bottom: 10px; padding-bottom: 5px; }
-        .vocab-zh { font-size: 16px; color: #576574; font-weight: 700; }
+        .vocab-section { display: flex; gap: 20px; flex-wrap: wrap; margin-top: 35px; }
+        .vocab-card { background: #fff; border: 2px solid #e2e8f0; padding: 20px; border-radius: 20px; min-width: 200px; flex: 1; }
+        .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 900; color: #2c3e50; font-size: 24px; display: block; border-bottom: 3px solid #f1c40f; margin-bottom: 12px; padding-bottom: 6px; }
+        .vocab-zh { font-size: 17px; color: #576574; font-weight: 700; line-height: 1.5; }
 
-        .source-link-btn { display: inline-flex; align-items: center; gap: 10px; background-color: #f1f2f6; color: #2f3542; padding: 16px 28px; border-radius: 18px; text-decoration: none; font-size: 16px; font-weight: 800; transition: all 0.2s; }
+        .source-link-btn { display: inline-flex; align-items: center; gap: 10px; background-color: #f1f2f6; color: #2f3542; padding: 16px 28px; border-radius: 18px; text-decoration: none; font-size: 16px; font-weight: 800; transition: background-color 0.2s; margin-top: 10px;}
+        .source-link-btn:hover { background-color: #e2e8f0; }
+
+        /* 文章底部的超大關閉按鈕 */
+        .bottom-close-btn { display: block; width: 100%; padding: 20px; background-color: #2c3e50; color: #fff; border: none; border-radius: 20px; font-size: 20px; font-weight: 900; margin-top: 40px; cursor: pointer; transition: background-color 0.2s; box-shadow: 0 4px 15px rgba(44, 62, 80, 0.2); }
+        .bottom-close-btn:hover { background-color: #1a252f; }
 
         @media (max-width: 768px) {
             .pin-label { display: none; }
             .modal-body { padding: 30px; }
-            .modal-zh-title { font-size: 26px; }
-            .modal-header-img-wrap { max-height: 350px; }
+            .modal-zh-title { font-size: 28px; }
+            .news-card { padding: 25px 20px; }
         }
     </style>
 </head>
@@ -121,12 +125,12 @@
     <div id="latest-section" class="content-section active">
         <h2 class="section-title">🗞️ 焦點五大面向</h2>
         <div class="grid-container" id="thematic-container">
-            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6; padding: 40px;">全球採訪中...</p>
+            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6; padding: 40px; font-size: 18px;">正在為您整理全球深度報導...</p>
         </div>
 
         <h2 class="section-title" style="border-left-color: #3498db; margin-top: 40px;">🗺️ 環球視野地圖</h2>
         <div class="map-wrapper">
-            <p style="color: #7f8c8d; margin-bottom: 30px; font-weight: 700;">點擊地圖上的📍定位點看新聞！</p>
+            <p style="color: #7f8c8d; margin-bottom: 30px; font-weight: 700; font-size: 18px;">點擊地圖上的📍定位點閱讀駐地新聞！</p>
             <div class="map-container" id="map-container">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg" class="map-svg" alt="World Map">
             </div>
@@ -140,11 +144,16 @@
 
     <div class="modal-overlay" id="news-modal">
         <div class="modal-content">
-            <button class="close-btn" id="close-modal">✖</button>
-            <div class="modal-header-img-wrap">
-                <img src="" alt="News" class="modal-header-img" id="modal-img">
+            <div class="modal-header-bar">
+                <button class="close-btn" id="close-modal">✖</button>
             </div>
+            
             <div class="modal-body">
+                <div class="tag-wrap" style="margin-bottom: 20px;">
+                    <span class="category-tag" id="modal-tag"></span>
+                    <span class="region-tag" id="modal-region"></span>
+                </div>
+                
                 <div class="modal-zh-title" id="modal-zh-title"></div>
                 <div class="modal-zh-content" id="modal-zh-content"></div>
 
@@ -180,7 +189,10 @@
                     <div class="vocab-section" id="modal-vocab"></div>
                 </div>
 
-                <a href="#" target="_blank" class="source-link-btn" id="modal-source-link">📖 閱讀完整真實來源 (<span id="modal-source-name"></span>)</a>
+                <a href="#" target="_blank" class="source-link-btn" id="modal-source-link">📖 點此閱讀真實新聞來源 (<span id="modal-source-name"></span>)</a>
+                
+                <!-- 底部超大關閉按鈕 -->
+                <button class="bottom-close-btn" id="close-modal-bottom">閱讀完畢，關閉視窗</button>
             </div>
         </div>
     </div>
@@ -197,36 +209,9 @@
             "中亞": { top: "28%", left: "65%" },
             "東北亞": { top: "32%", left: "82%" },
             "東南亞": { top: "52%", left: "78%" },
-            "大洋洲": { top: "75%", left: "85%" }
+            "大洋洲": { top: "75%", left: "85%" },
+            "全球": { top: "0", left: "0"} // 全球不放圖釘
         };
-
-        // 幫網址加上「四格漫畫」的神奇咒語
-        function getComicUrl(url, newsId) {
-            if (!url) {
-                const seed = newsId || Math.floor(Math.random() * 1000);
-                return `https://picsum.photos/seed/${seed}/800/800`;
-            }
-            if (!url.includes('pollinations.ai')) return url;
-            
-            try {
-                // 找出原本隱藏在網址裡的英文提示詞
-                const promptStart = url.indexOf('/prompt/') + 8;
-                const promptEnd = url.indexOf('?');
-                if (promptStart < 8 || promptEnd === -1) return url;
-                
-                const originalPrompt = decodeURIComponent(url.substring(promptStart, promptEnd));
-                // 偷偷加上四格漫畫的指令
-                const comicPrompt = "A 4-panel comic strip telling a story about: " + originalPrompt + ", manga style, colorful panels, highly detailed";
-                
-                let searchParams = url.substring(promptEnd);
-                // 把長方形變成正方形，這樣四格漫畫比例才會對
-                searchParams = searchParams.replace('height=500', 'height=800');
-                
-                return `https://image.pollinations.ai/prompt/${encodeURIComponent(comicPrompt)}${searchParams}&t=${Date.now()}`;
-            } catch(e) {
-                return url;
-            }
-        }
 
         async function init() {
             try {
@@ -235,7 +220,7 @@
                 newsData = await response.json();
                 render();
             } catch (e) {
-                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>資料庫連接中...</p>";
+                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center; padding: 40px; font-size: 18px;'>目前尚無資料，請等待系統抓取完畢。</p>";
             }
         }
 
@@ -243,20 +228,17 @@
             if (newsData.length === 0) return;
             const latestDate = newsData[0].date;
 
+            // 1. 渲染今日五大面向
             const thematicContainer = document.getElementById('thematic-container');
             thematicContainer.innerHTML = '';
             newsData.filter(n => n.type === 'thematic' && n.date === latestDate).forEach(n => {
                 const card = document.createElement('div');
                 card.className = 'news-card';
-                // 套用漫畫轉換器
-                const imgUrl = getComicUrl(n.imageUrl, n.id);
-                
                 card.innerHTML = `
-                    <div class="card-image-wrap">
-                        <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='https://picsum.photos/seed/${n.id}/800/800'; this.classList.add('loaded'); this.onerror=null;">
-                    </div>
                     <div class="card-content">
-                        <span class="category-tag ${n.tagClass}">${n.category}</span>
+                        <div class="tag-wrap">
+                            <span class="category-tag ${n.tagClass}">${n.category}</span>
+                        </div>
                         <h2>${n.zhTitle}</h2>
                         <p class="summary">${n.zhSummary}</p>
                     </div>`;
@@ -264,11 +246,12 @@
                 thematicContainer.appendChild(card);
             });
 
+            // 2. 渲染地圖圖釘
             const mapContainer = document.getElementById('map-container');
             mapContainer.querySelectorAll('.map-pin').forEach(p => p.remove());
             newsData.filter(n => n.type === 'regional' && n.date === latestDate).forEach(n => {
                 const pos = regionCoords[n.region];
-                if (pos) {
+                if (pos && n.region !== "全球") {
                     const pin = document.createElement('div');
                     pin.className = 'map-pin';
                     pin.style.top = pos.top; pin.style.left = pos.left;
@@ -278,6 +261,7 @@
                 }
             });
 
+            // 3. 渲染歷史庫
             const archiveContainer = document.getElementById('archive-container');
             archiveContainer.innerHTML = '';
             const archiveData = newsData.filter(n => n.date !== latestDate);
@@ -291,12 +275,7 @@
                 groups[date].forEach(n => {
                     const card = document.createElement('div');
                     card.className = 'news-card';
-                    const imgUrl = getComicUrl(n.imageUrl, n.id);
-
                     card.innerHTML = `
-                        <div class="card-image-wrap">
-                            <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='https://picsum.photos/seed/${n.id}/800/800'; this.classList.add('loaded'); this.onerror=null;">
-                        </div>
                         <div class="card-content">
                             <div class="tag-wrap">
                                 <span class="category-tag ${n.tagClass}">${n.category}</span>
@@ -314,16 +293,13 @@
 
         function openModal(news) {
             currentNews = news;
-            const mImg = document.getElementById('modal-img');
-            mImg.classList.remove('loaded');
             
-            const imgUrl = getComicUrl(news.imageUrl, news.id);
-            mImg.src = imgUrl;
-            mImg.onerror = function() {
-                this.src = `https://picsum.photos/seed/${news.id}/800/800`;
-                this.classList.add('loaded');
-                this.onerror = null;
-            };
+            const tagEl = document.getElementById('modal-tag');
+            tagEl.className = `category-tag ${news.tagClass}`;
+            tagEl.innerText = news.category;
+            
+            const regionEl = document.getElementById('modal-region');
+            regionEl.innerText = news.region;
             
             document.getElementById('modal-zh-title').innerText = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
@@ -345,6 +321,9 @@
 
             document.getElementById('news-modal').classList.add('active');
             document.body.style.overflow = 'hidden';
+            
+            // 將內容區滾動回最頂部
+            document.querySelector('.modal-body').scrollTop = 0;
         }
 
         function toggleHint(i) {
@@ -369,7 +348,14 @@
             document.getElementById(`${id}-section`).classList.add('active');
         }
 
-        document.getElementById('close-modal').onclick = () => { document.getElementById('news-modal').classList.remove('active'); document.body.style.overflow = 'auto'; };
+        function closeModal() {
+            document.getElementById('news-modal').classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        document.getElementById('close-modal').onclick = closeModal;
+        document.getElementById('close-modal-bottom').onclick = closeModal;
+        
         init();
     </script>
 </body>
