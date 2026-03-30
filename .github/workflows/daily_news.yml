@@ -1,8 +1,11 @@
 name: Daily News Auto Updater
 
+# 設定觸發條件
 on:
   schedule:
+    # 每天早上 6 點執行 (UTC 時間 22:00)
     - cron: '0 22 * * *'
+  # 允許你在 GitHub 網頁上手動點擊執行按鈕
   workflow_dispatch: 
 
 permissions:
@@ -23,15 +26,16 @@ jobs:
       - name: 安裝需要的套件
         run: pip install requests
 
-      - name: 執行新聞抓取腳本
+      - name: 執行新聞抓取腳本 (加上 test 啟動測試模式)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python fetch_news.py
+        run: python fetch_news.py test
 
       - name: 將新資料存檔並推送到網頁
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add news.json
-          git commit -m "Update daily news: $(date +'%Y-%m-%d')" || exit 0
+          # 如果沒有新資料就不會報錯
+          git commit -m "Auto-update daily news [skip ci]" || exit 0
           git push
