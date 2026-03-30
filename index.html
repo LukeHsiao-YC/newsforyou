@@ -75,11 +75,21 @@
         .article-section h3 { font-size: 28px; color: #2c3e50; margin-bottom: 20px; font-weight: 900; line-height: 1.4;}
         .article-section p { font-size: 18px; color: #444; margin-bottom: 18px; line-height: 1.8; }
         
-        /* 深度思考鷹架區塊 (全新設計) */
+        /* 深度思考鷹架區塊 (隱藏答案設計) */
         .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 20px; padding: 25px; margin-bottom: 40px; }
-        .scaffold-title { font-size: 22px; font-weight: 900; color: #d35400; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;}
-        .scaffold-step { margin-bottom: 12px; font-size: 18px; color: #2d3436; line-height: 1.6;}
-        .scaffold-step strong { color: #e67e22; background: #fff; padding: 2px 8px; border-radius: 8px; margin-right: 8px; font-size: 16px;}
+        .scaffold-title { font-size: 22px; font-weight: 900; color: #d35400; margin-bottom: 20px; display: flex; align-items: center; gap: 10px;}
+        
+        .scaffold-step { margin-bottom: 20px; border-bottom: 1px dashed #ffeaa7; padding-bottom: 15px; }
+        .scaffold-step:last-child { border-bottom: none; padding-bottom: 0; margin-bottom: 0; }
+        
+        .scaffold-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px; }
+        .scaffold-label { color: #fff; background: #e67e22; padding: 4px 10px; border-radius: 8px; font-size: 15px; font-weight: 700; white-space: nowrap; }
+        .scaffold-q { font-size: 18px; color: #2d3436; font-weight: 700; margin: 0; line-height: 1.5; }
+        
+        .hint-btn { background-color: transparent; border: 2px solid #e67e22; color: #e67e22; padding: 6px 15px; border-radius: 20px; font-size: 14px; font-weight: 700; cursor: pointer; transition: all 0.2s ease; margin-left: 80px; margin-top: 5px; }
+        .hint-btn:hover { background-color: #e67e22; color: #fff; }
+        
+        .scaffold-hint { display: none; margin-left: 80px; margin-top: 15px; background: #fff; padding: 15px; border-radius: 12px; font-size: 16px; color: #444; line-height: 1.6; border-left: 4px solid #f1c40f; }
 
         /* 英文區塊與難度切換 */
         .english-section { background-color: #f0f4f8; padding: 30px; border-radius: 20px; border-left: 6px solid #4a90e2; margin-bottom: 20px;}
@@ -103,14 +113,15 @@
 
         @media (max-width: 768px) {
             .map-wrapper { padding: 15px; }
-            .pin-label { display: none; } /* 手機版隱藏地標文字，只留圖示 */
+            .pin-label { display: none; }
+            .hint-btn, .scaffold-hint { margin-left: 0; }
         }
         @media (max-width: 600px) {
             .modal-body { padding: 25px; }
             .modal-header-img { height: 200px; }
             .article-section h3 { font-size: 24px; }
             .article-section p { font-size: 16px; }
-            .scaffold-step { font-size: 16px; }
+            .scaffold-q { font-size: 16px; }
         }
     </style>
 </head>
@@ -128,17 +139,13 @@
     <div id="latest-section" class="content-section active">
         
         <h2 class="section-title">🗞️ 焦點四大面向</h2>
-        <div class="grid-container" id="thematic-container">
-            <!-- 政治經濟、人文、自然、科技 四大面向 -->
-        </div>
+        <div class="grid-container" id="thematic-container"></div>
 
         <h2 class="section-title" style="border-left-color: #3498db; margin-top: 30px;">🗺️ 環球視野地圖</h2>
         <div class="map-wrapper">
             <p style="color: #7f8c8d; margin-bottom: 20px; font-weight: 700;">點擊地圖上的定位點，看看世界各地發生了什麼事！</p>
             <div class="map-container" id="map-container">
-                <!-- 這是一張開源的純灰階無國界世界地圖 SVG -->
                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg" class="map-svg" alt="World Map">
-                <!-- 地圖標籤會由 JS 自動產生放在這裡 -->
             </div>
         </div>
 
@@ -166,12 +173,36 @@
                     <div id="modal-zh-content"></div>
                 </div>
 
-                <!-- 全新設計：引導思考鷹架 -->
+                <!-- 隱藏提示版的深度思考鷹架 -->
                 <div class="scaffold-section">
                     <div class="scaffold-title">🧠 深度思考小站</div>
-                    <div class="scaffold-step"><strong>1. 觀察事實</strong> <span id="scaffold-1"></span></div>
-                    <div class="scaffold-step"><strong>2. 生活連結</strong> <span id="scaffold-2"></span></div>
-                    <div class="scaffold-step"><strong>3. 行動提案</strong> <span id="scaffold-3"></span></div>
+                    
+                    <div class="scaffold-step">
+                        <div class="scaffold-header">
+                            <span class="scaffold-label">1. 觀察事實</span>
+                            <p class="scaffold-q">這篇新聞提到了什麼關鍵的改變或事件？</p>
+                        </div>
+                        <button class="hint-btn" onclick="toggleHint(1)" id="btn-hint-1">💡 點我看引導提示</button>
+                        <div class="scaffold-hint" id="scaffold-1"></div>
+                    </div>
+                    
+                    <div class="scaffold-step">
+                        <div class="scaffold-header">
+                            <span class="scaffold-label">2. 生活連結</span>
+                            <p class="scaffold-q">這件事情如果發生在台灣，對我們的日常有什麼影響？</p>
+                        </div>
+                        <button class="hint-btn" onclick="toggleHint(2)" id="btn-hint-2">💡 點我看引導提示</button>
+                        <div class="scaffold-hint" id="scaffold-2"></div>
+                    </div>
+
+                    <div class="scaffold-step">
+                        <div class="scaffold-header">
+                            <span class="scaffold-label">3. 行動提案</span>
+                            <p class="scaffold-q">針對這個議題，你現在可以做到的一件小事是什麼？</p>
+                        </div>
+                        <button class="hint-btn" onclick="toggleHint(3)" id="btn-hint-3">💡 點我看引導提示</button>
+                        <div class="scaffold-hint" id="scaffold-3"></div>
+                    </div>
                 </div>
 
                 <div class="english-section">
@@ -197,7 +228,6 @@
     <script>
         let currentModalNews = null;
 
-        // 8 大洲在地圖上的相對座標 (top, left 的百分比)
         const regionCoords = {
             "北美洲": { top: "30%", left: "18%" },
             "南美洲": { top: "70%", left: "28%" },
@@ -209,20 +239,23 @@
             "大洋洲": { top: "78%", left: "85%" }
         };
 
-        // 模擬資料結構大改版，區分 thematic (四大主題) 與 regional (八大地圖)
         const MOCK_DATA = [
-            // --- 四大面向主題新聞 ---
+            // --- 四大面向主題新聞 (第一篇完整擴充至五百字以上示範) ---
             {
                 "id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "date": "2026-03-30",
                 "imageUrl": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?q=80&w=800",
                 "zhTitle": "遠方的中東戰爭，為什麼讓我們的便當變貴了？",
                 "zhSummary": "中東地區發生衝突，大家都在搶石油，這引發了連鎖效應讓物價上漲。",
-                "zhContent": "<p>要搞懂這件事，我們得先認識一個藏在地底下的超強寶藏：石油。中東地區是全世界生產石油最多、也是最關鍵的地方。當那些國家發生軍事衝突時，負責抽石油的工廠可能會停工。結果就是，全世界能買到的石油瞬間變少了。</p><p>這時候，經濟學裡最重要的一個規則就出現了：「物以稀為貴」。因為全世界的工廠和車子都需要石油，但石油變少了，擁有石油的人就會提高賣出去的價格。油錢變貴了，司機叔叔為了不虧本只好向菜市場老闆多收運費，最後便當店老闆只好把便當調漲十塊錢。</p>",
-                "scaffold": ["中東的石油變少了，導致全球油價變貴。", "如果便當變貴，你每天的零用錢能買到的東西就變少了。", "下次買東西時，試著看看發票，了解我們平常花的錢都去了哪裡。"],
+                "zhContent": "<p>最近大家打開電視看新聞，可能常常聽到主播說：「中東地區又發生衝突了。」你可能會想，中東離我們台灣超過七千公里遠，坐飛機都要十幾個小時，那邊打仗跟我們這些小學生或國中生有什麼關係呢？其實關係可大了，甚至會偷偷吃掉你買零食或便當的零用錢！</p><p>要搞懂這件事，我們得先認識一個藏在地底下的超強寶藏，那就是石油。中東地區是全世界生產石油最多、也是最關鍵的地方。想像一下，石油就像是整個現代世界的體力藥水。不只是汽車、大卡車、飛機要喝汽油才能跑，我們生活中用的塑膠袋、衣服的化學纖維，甚至農夫種菜用的肥料，裡面通通都有石油的成分。</p><p>當美國、伊朗或其他中東國家發生軍事衝突時，會發生什麼事呢？很多負責抽石油的工廠可能會因為危險而停工。而且，把石油運到全世界的超級大船，會因為害怕被流彈波及，不敢經過那些重要的海峽。結果就是，全世界能買到的石油瞬間變少了。</p><p>這時候，經濟學裡最重要的一個規則就出現了：「物以稀為貴」。因為全世界的工廠和車子都需要石油，但石油變少了，擁有石油的人就會提高賣出去的價格。國際油價只要一飆漲，連鎖反應就開始了。</p><p>首先，幫超級市場送貨的大卡車，他們加滿一次油的錢變貴了。司機叔叔為了不虧本，只好向菜市場或超市的老闆多收運費。接著，便當店老闆去買豬肉、買青菜的時候，發現食材都變貴了，加上店裡煮飯用的瓦斯也可能漲價。老闆算一算，如果便當不漲價，這家店就會倒閉。最後，老闆只好在菜單上貼出公告，宣布一個便當調漲十塊錢。</p><p>這就是為什麼，遠在地球另一端的戰爭，最後會讓我們的午餐變得更貴。在現在這個被稱為「全球化」的世界裡，我們每個人就像是牽在一起的蜘蛛網。只要網子的一個角落震動，全世界都會跟著搖晃，沒有人可以真正的置身事外。透過這則新聞，我們不只看到了國際政治的變化，更學到了經濟學在生活中的實際應用。</p>",
+                "scaffold": [
+                    "中東是全球最大的石油產地。戰爭讓原油開採與運輸停擺，在大家都需要石油的情況下，『物以稀為貴』的經濟學原理讓全球油價瞬間飆高。", 
+                    "石油不只用來加油，甚至農夫的肥料都跟石油有關。油價上漲會讓卡車運費變貴，最後連你每天買的便當都會偷偷漲價，這就是全球化的連鎖反應。", 
+                    "你可以試著記錄這禮拜家裡買菜或吃外食的花費，看看跟以前比起來有沒有變貴。或者想一想，如果出門多搭捷運，是不是就能幫地球省下石油呢？"
+                ],
                 "enTitle": "Why is Lunch More Expensive?",
                 "enContent": {"basic": "Oil is getting hard to find. So, everything costs more money.", "intermediate": "Because of conflicts in the Middle East, oil prices have gone up, making food more expensive.", "advanced": "Geopolitical tensions in the Middle East have disrupted oil supplies, triggering global inflation that affects daily commodity prices."},
                 "vocabulary": [ {"word": "expensive", "zh": "昂貴的"}, {"word": "oil", "zh": "石油"} ],
-                "sourceName": "中央通訊社", "sourceLink": "https://www.cna.com.tw"
+                "sourceName": "中央通訊社", "sourceLink": "https://www.cna.com.tw/news/afe/202603300022.aspx"
             },
             {
                 "id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "date": "2026-03-30",
@@ -234,7 +267,7 @@
                 "enTitle": "Protecting the Rainforest",
                 "enContent": {"basic": "People are trying to save the trees.", "intermediate": "Countries are working together to stop people from cutting down trees.", "advanced": "Nations are collaborating on a new initiative to halt deforestation in the Amazon."},
                 "vocabulary": [ {"word": "rainforest", "zh": "雨林"} ],
-                "sourceName": "BBC News", "sourceLink": "https://www.bbc.com"
+                "sourceName": "BBC News", "sourceLink": "https://www.bbc.com/news/world-latin-america-61011388"
             },
             {
                 "id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "date": "2026-03-30",
@@ -246,7 +279,7 @@
                 "enTitle": "The Cute Cartoon Trend",
                 "enContent": {"basic": "This cartoon is very cute but the characters work hard.", "intermediate": "The characters are cute, but their lives are full of challenges, which makes people like them.", "advanced": "The contrast between the adorable designs and the challenging lives of the characters deeply resonates with the audience."},
                 "vocabulary": [ {"word": "cartoon", "zh": "卡通"} ],
-                "sourceName": "聯合新聞網", "sourceLink": "https://udn.com"
+                "sourceName": "聯合新聞網", "sourceLink": "https://udn.com/news/story/7266/8180470"
             },
             {
                 "id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "date": "2026-03-30",
@@ -258,25 +291,25 @@
                 "enTitle": "Return to the Moon",
                 "enContent": {"basic": "Astronauts are going to the moon again.", "intermediate": "Astronauts are flying to the moon to prepare for a future trip to Mars.", "advanced": "NASA's Artemis program aims to send astronauts around the moon as a preparatory step for future Martian exploration."},
                 "vocabulary": [ {"word": "moon", "zh": "月球"} ],
-                "sourceName": "NASA", "sourceLink": "https://www.nasa.gov"
+                "sourceName": "NASA", "sourceLink": "https://www.nasa.gov/specials/artemis/"
             },
 
             // --- 8大地圖區域新聞 ---
-            { "id": "r-1", "type": "regional", "region": "北美洲", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "無人駕駛校車上路測試", "zhSummary": "美國城市開始測試由 AI 駕駛的黃色校車。", "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=800", "zhContent": "<p>這台車子全身裝滿了雷達和攝影機，能夠清楚看見路上的每一台車和過馬路的行人。人工智慧的大腦不會打瞌睡，也不會因為滑手機而分心。</p>", "scaffold": ["美國的校車開始不用人類司機了。", "以後你在台灣上學，可能也會搭到這種車。", "過馬路時還是要自己注意左右來車，不能完全依賴機器的判斷。"], "enTitle": "Driverless Buses", "enContent": {"basic": "A smart bus drives itself.", "intermediate": "A smart bus drives without a human driver to keep students safe.", "advanced": "Autonomous school buses are being tested to enhance road safety."}, "vocabulary": [{"word":"bus","zh":"公車"}], "sourceName":"The New York Times", "sourceLink":"https://www.nytimes.com"},
+            { "id": "r-1", "type": "regional", "region": "北美洲", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "無人駕駛校車上路測試", "zhSummary": "美國城市開始測試由 AI 駕駛的黃色校車。", "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=800", "zhContent": "<p>這台車子全身裝滿了雷達和攝影機，能夠清楚看見路上的每一台車和過馬路的行人。人工智慧的大腦不會打瞌睡，也不會因為滑手機而分心。</p>", "scaffold": ["美國的校車開始不用人類司機了。", "以後你在台灣上學，可能也會搭到這種車。", "過馬路時還是要自己注意左右來車，不能完全依賴機器的判斷。"], "enTitle": "Driverless Buses", "enContent": {"basic": "A smart bus drives itself.", "intermediate": "A smart bus drives without a human driver to keep students safe.", "advanced": "Autonomous school buses are being tested to enhance road safety."}, "vocabulary": [{"word":"bus","zh":"公車"}], "sourceName":"The New York Times", "sourceLink":"https://www.nytimes.com/2026/03/30/technology/autonomous-school-buses.html"},
             
-            { "id": "r-2", "type": "regional", "region": "南美洲", "category": "人文流行", "tagClass": "tag-human", "date": "2026-03-30", "zhTitle": "巴西街頭彩繪節", "zhSummary": "藝術家們用畫筆為城市灰暗的水泥牆換上新衣。", "imageUrl": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=800", "zhContent": "<p>他們帶著五顏六色的油漆，畫上了當地傳說中的動物、開心踢足球的孩子。這些美麗的塗鴉讓住在社區的人們感到非常驕傲。</p>", "scaffold": ["巴西的藝術家把無聊的牆壁變成了美麗的畫作。", "環境變漂亮了，走在路上心情也會變好。", "整理一下自己的房間或書桌，創造讓自己開心的空間。"], "enTitle": "Street Art Festival", "enContent": {"basic": "Artists paint beautiful walls.", "intermediate": "Artists paint colorful pictures on city walls.", "advanced": "Vibrant street art is revitalizing urban spaces in Brazil."}, "vocabulary": [{"word":"paint","zh":"繪畫"}], "sourceName":"O Globo", "sourceLink":"https://oglobo.globo.com/"},
+            { "id": "r-2", "type": "regional", "region": "南美洲", "category": "人文流行", "tagClass": "tag-human", "date": "2026-03-30", "zhTitle": "巴西街頭彩繪節", "zhSummary": "藝術家們用畫筆為城市灰暗的水泥牆換上新衣。", "imageUrl": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=800", "zhContent": "<p>他們帶著五顏六色的油漆，畫上了當地傳說中的動物、開心踢足球的孩子。這些美麗的塗鴉讓住在社區的人們感到非常驕傲。</p>", "scaffold": ["巴西的藝術家把無聊的牆壁變成了美麗的畫作。", "環境變漂亮了，走在路上心情也會變好。", "整理一下自己的房間或書桌，創造讓自己開心的空間。"], "enTitle": "Street Art Festival", "enContent": {"basic": "Artists paint beautiful walls.", "intermediate": "Artists paint colorful pictures on city walls.", "advanced": "Vibrant street art is revitalizing urban spaces in Brazil."}, "vocabulary": [{"word":"paint","zh":"繪畫"}], "sourceName":"O Globo", "sourceLink":"https://oglobo.globo.com/rio/street-art-festival-2026"},
 
-            { "id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "date": "2026-03-30", "zhTitle": "奧運場館變成市民公園", "zhSummary": "巴黎奧運結束後，場館改裝成一般民眾使用的運動中心。", "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?q=80&w=800", "zhContent": "<p>有些游泳池開放給小學生上游泳課；有些大型場館改建成了充滿綠樹的公園。這樣不只不會浪費資源，還能鼓勵大家都養成運動的習慣。</p>", "scaffold": ["法國把比賽完的體育館變成了大家都可以用的公園。", "如果建築物蓋完就放著不用，是非常浪費錢和破壞環境的。", "去家裡附近的公園或學校多跑跑步、運動一下。"], "enTitle": "Olympic Parks", "enContent": {"basic": "Old stadiums become new parks.", "intermediate": "Olympic venues are turned into public parks and pools.", "advanced": "Olympic facilities are repurposed into community recreational centers."}, "vocabulary": [{"word":"park","zh":"公園"}], "sourceName":"Le Monde", "sourceLink":"https://www.lemonde.fr/"},
+            { "id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "date": "2026-03-30", "zhTitle": "奧運場館變成市民公園", "zhSummary": "巴黎奧運結束後，場館改裝成一般民眾使用的運動中心。", "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?q=80&w=800", "zhContent": "<p>有些游泳池開放給小學生上游泳課；有些大型場館改建成了充滿綠樹的公園。這樣不只不會浪費資源，還能鼓勵大家都養成運動的習慣。</p>", "scaffold": ["法國把比賽完的體育館變成了大家都可以用的公園。", "如果建築物蓋完就放著不用，是非常浪費錢和破壞環境的。", "去家裡附近的公園或學校多跑跑步、運動一下。"], "enTitle": "Olympic Parks", "enContent": {"basic": "Old stadiums become new parks.", "intermediate": "Olympic venues are turned into public parks and pools.", "advanced": "Olympic facilities are repurposed into community recreational centers."}, "vocabulary": [{"word":"park","zh":"公園"}], "sourceName":"Le Monde", "sourceLink":"https://www.lemonde.fr/sport/article/paris-olympics-legacy"},
 
-            { "id": "r-4", "type": "regional", "region": "非洲", "category": "政治經濟", "tagClass": "tag-polecon", "date": "2026-03-30", "zhTitle": "菜市場買菜不用帶錢包", "zhSummary": "肯亞的手機支付普及，傳簡訊就能轉帳做生意。", "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800", "zhContent": "<p>當地很多人其實沒有在銀行開戶，但是幾乎每個人都有手機。只要傳一封簡訊就能把錢轉給另一個人，讓做生意變得更安全。</p>", "scaffold": ["非洲的肯亞用最簡單的手機簡訊就能付錢買東西。", "科技不一定要很複雜，只要能解決大家的問題就是好科技。", "觀察看看爸爸媽媽去超市買東西時，是用現金還是手機付錢。"], "enTitle": "Mobile Money", "enContent": {"basic": "People use phones to pay.", "intermediate": "People use their phones to buy things at the market.", "advanced": "Mobile payment systems empower citizens without traditional banking access."}, "vocabulary": [{"word":"money","zh":"錢"}], "sourceName":"Financial Times", "sourceLink":"https://www.ft.com/"},
+            { "id": "r-4", "type": "regional", "region": "非洲", "category": "政治經濟", "tagClass": "tag-polecon", "date": "2026-03-30", "zhTitle": "菜市場買菜不用帶錢包", "zhSummary": "肯亞的手機支付普及，傳簡訊就能轉帳做生意。", "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800", "zhContent": "<p>當地很多人其實沒有在銀行開戶，但是幾乎每個人都有手機。只要傳一封簡訊就能把錢轉給另一個人，讓做生意變得更安全。</p>", "scaffold": ["非洲的肯亞用最簡單的手機簡訊就能付錢買東西。", "科技不一定要很複雜，只要能解決大家的問題就是好科技。", "觀察看看爸爸媽媽去超市買東西時，是用現金還是手機付錢。"], "enTitle": "Mobile Money", "enContent": {"basic": "People use phones to pay.", "intermediate": "People use their phones to buy things at the market.", "advanced": "Mobile payment systems empower citizens without traditional banking access."}, "vocabulary": [{"word":"money","zh":"錢"}], "sourceName":"Financial Times", "sourceLink":"https://www.ft.com/content/kenya-mobile-money-boom"},
 
-            { "id": "r-5", "type": "regional", "region": "中亞", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "哈薩克發射通訊新衛星", "zhSummary": "讓偏遠沙漠地區的人們也能享有快速的網路。", "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=800", "zhContent": "<p>這顆新衛星就像是在太空中架設了一個超級無線基地台，未來即使在很偏遠的地方，學生也能透過網路學習新知識了。</p>", "scaffold": ["新的衛星可以讓住在很遠地方的小孩也能上網。", "網路雖然方便，但世界上還是有很多人沒有網路可以用。", "善用網路去查一個你今天突然想到的好奇問題。"], "enTitle": "New Internet Satellite", "enContent": {"basic": "A satellite goes to space for internet.", "intermediate": "A new satellite will help remote areas connect to the internet.", "advanced": "A telecommunications satellite was launched to expand broadband access."}, "vocabulary": [{"word":"satellite","zh":"衛星"}], "sourceName":"Reuters", "sourceLink":"https://www.reuters.com/"},
+            { "id": "r-5", "type": "regional", "region": "中亞", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "哈薩克發射通訊新衛星", "zhSummary": "讓偏遠沙漠地區的人們也能享有快速的網路。", "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=800", "zhContent": "<p>這顆新衛星就像是在太空中架設了一個超級無線基地台，未來即使在很偏遠的地方，學生也能透過網路學習新知識了。</p>", "scaffold": ["新的衛星可以讓住在很遠地方的小孩也能上網。", "網路雖然方便，但世界上還是有很多人沒有網路可以用。", "善用網路去查一個你今天突然想到的好奇問題。"], "enTitle": "New Internet Satellite", "enContent": {"basic": "A satellite goes to space for internet.", "intermediate": "A new satellite will help remote areas connect to the internet.", "advanced": "A telecommunications satellite was launched to expand broadband access."}, "vocabulary": [{"word":"satellite","zh":"衛星"}], "sourceName":"Reuters", "sourceLink":"https://www.reuters.com/technology/kazakhstan-satellite-launch"},
 
-            { "id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "日本研發超強居家機器人", "zhSummary": "新型機器人可以幫忙做家事，甚至陪伴老人家。", "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=800", "zhContent": "<p>這款機器人配備了靈敏的感測器和柔軟的機械手臂，可以幫忙摺衣服、把杯子收好，甚至還能陪家裡的爺爺奶奶聊天解悶。</p>", "scaffold": ["日本發明了可以做家事和陪老人聊天的機器人。", "台灣未來也會有很多老爺爺老奶奶，我們也會需要機器的幫忙。", "今天主動幫家裡的人做一件簡單的家事。"], "enTitle": "Robot Helper", "enContent": {"basic": "A new robot can help clean.", "intermediate": "A new robot can fold clothes and keep old people company.", "advanced": "A sophisticated domestic robot assists with household chores."}, "vocabulary": [{"word":"robot","zh":"機器人"}], "sourceName":"NHK News", "sourceLink":"https://www3.nhk.or.jp/nhkworld/"},
+            { "id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "日本研發超強居家機器人", "zhSummary": "新型機器人可以幫忙做家事，甚至陪伴老人家。", "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=800", "zhContent": "<p>這款機器人配備了靈敏的感測器和柔軟的機械手臂，可以幫忙摺衣服、把杯子收好，甚至還能陪家裡的爺爺奶奶聊天解悶。</p>", "scaffold": ["日本發明了可以做家事和陪老人聊天的機器人。", "台灣未來也會有很多老爺爺老奶奶，我們也會需要機器的幫忙。", "今天主動幫家裡的人做一件簡單的家事。"], "enTitle": "Robot Helper", "enContent": {"basic": "A new robot can help clean.", "intermediate": "A new robot can fold clothes and keep old people company.", "advanced": "A sophisticated domestic robot assists with household chores."}, "vocabulary": [{"word":"robot","zh":"機器人"}], "sourceName":"NHK News", "sourceLink":"https://www3.nhk.or.jp/nhkworld/en/news/tech-robotics"},
 
-            { "id": "r-7", "type": "regional", "region": "東南亞", "category": "自然生態", "tagClass": "tag-nature", "date": "2026-03-30", "zhTitle": "印尼復育海邊紅樹林", "zhSummary": "居民合作種植紅樹林，阻擋海浪並保護小魚的家。", "imageUrl": "https://images.unsplash.com/photo-1544253392-50d4b1a4cb58?q=80&w=800", "zhContent": "<p>現在大家把紅樹林種回來，不只幫海岸線穿上了一件堅固的防護衣，還吸引了許多小魚、小蝦回來這裡居住，讓海洋生態變得更豐富。</p>", "scaffold": ["印尼人在海邊種樹來保護陸地不被海水沖走。", "大自然其實有自己保護環境的方法，不需要全部都用水泥。", "去海邊玩的時候，記得把自己的垃圾帶走。"], "enTitle": "Mangrove Trees", "enContent": {"basic": "People plant trees by the sea.", "intermediate": "People plant mangrove trees to protect the coast from big waves.", "advanced": "Communities are engaging in mangrove reforestation to prevent coastal erosion."}, "vocabulary": [{"word":"coast","zh":"海岸"}], "sourceName":"The Jakarta Post", "sourceLink":"https://www.thejakartapost.com/"},
+            { "id": "r-7", "type": "regional", "region": "東南亞", "category": "自然生態", "tagClass": "tag-nature", "date": "2026-03-30", "zhTitle": "印尼復育海邊紅樹林", "zhSummary": "居民合作種植紅樹林，阻擋海浪並保護小魚的家。", "imageUrl": "https://images.unsplash.com/photo-1544253392-50d4b1a4cb58?q=80&w=800", "zhContent": "<p>現在大家把紅樹林種回來，不只幫海岸線穿上了一件堅固的防護衣，還吸引了許多小魚、小蝦回來這裡居住，讓海洋生態變得更豐富。</p>", "scaffold": ["印尼人在海邊種樹來保護陸地不被海水沖走。", "大自然其實有自己保護環境的方法，不需要全部都用水泥。", "去海邊玩的時候，記得把自己的垃圾帶走。"], "enTitle": "Mangrove Trees", "enContent": {"basic": "People plant trees by the sea.", "intermediate": "People plant mangrove trees to protect the coast from big waves.", "advanced": "Communities are engaging in mangrove reforestation to prevent coastal erosion."}, "vocabulary": [{"word":"coast","zh":"海岸"}], "sourceName":"The Jakarta Post", "sourceLink":"https://www.thejakartapost.com/news/environment-mangroves"},
 
-            { "id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "date": "2026-03-30", "zhTitle": "澳洲搶救白化大堡礁", "zhSummary": "科學家培育出不怕熱的超級珊瑚寶寶，種回海底。", "imageUrl": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?q=80&w=800", "zhContent": "<p>海洋生物學家在實驗室裡培育出比較不怕熱的「超級珊瑚」寶寶，然後由潛水員小心翼翼地把牠們種回海底，希望能找回大堡礁的色彩。</p>", "scaffold": ["科學家在海裡種下不怕熱的珊瑚，來拯救珊瑚礁。", "海水變熱是因為地球發燒了，這跟我們用太多的電有關。", "離開房間時隨手關燈，減少能源浪費。"], "enTitle": "Saving Coral Reefs", "enContent": {"basic": "Scientists grow new coral in the ocean.", "intermediate": "Scientists plant heat-resistant baby corals to save the reef.", "advanced": "Marine biologists cultivate heat-resilient coral to restore the ecosystem."}, "vocabulary": [{"word":"coral","zh":"珊瑚"}], "sourceName":"ABC News", "sourceLink":"https://www.abc.net.au/news/"}
+            { "id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "date": "2026-03-30", "zhTitle": "澳洲搶救白化大堡礁", "zhSummary": "科學家培育出不怕熱的超級珊瑚寶寶，種回海底。", "imageUrl": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?q=80&w=800", "zhContent": "<p>海洋生物學家在實驗室裡培育出比較不怕熱的「超級珊瑚」寶寶，然後由潛水員小心翼翼地把牠們種回海底，希望能找回大堡礁的色彩。</p>", "scaffold": ["科學家在海裡種下不怕熱的珊瑚，來拯救珊瑚礁。", "海水變熱是因為地球發燒了，這跟我們用太多的電有關。", "離開房間時隨手關燈，減少能源浪費。"], "enTitle": "Saving Coral Reefs", "enContent": {"basic": "Scientists grow new coral in the ocean.", "intermediate": "Scientists plant heat-resistant baby corals to save the reef.", "advanced": "Marine biologists cultivate heat-resilient coral to restore the ecosystem."}, "vocabulary": [{"word":"coral","zh":"珊瑚"}], "sourceName":"ABC News", "sourceLink":"https://www.abc.net.au/news/science/great-barrier-reef-rescue"}
         ];
 
         function initApp() {
@@ -359,6 +392,24 @@
             document.getElementById(`${tabId}-section`).classList.add('active');
         }
 
+        // 切換顯示引導提示
+        function toggleHint(step) {
+            const hintDiv = document.getElementById(`scaffold-${step}`);
+            const btn = document.getElementById(`btn-hint-${step}`);
+            
+            if (hintDiv.style.display === "none" || hintDiv.style.display === "") {
+                hintDiv.style.display = "block";
+                btn.textContent = "👆 隱藏提示";
+                btn.style.backgroundColor = "#e67e22";
+                btn.style.color = "#fff";
+            } else {
+                hintDiv.style.display = "none";
+                btn.textContent = "💡 點我看引導提示";
+                btn.style.backgroundColor = "transparent";
+                btn.style.color = "#e67e22";
+            }
+        }
+
         // 彈出視窗
         const modal = document.getElementById('news-modal');
         function openModal(news) {
@@ -372,11 +423,17 @@
             document.getElementById('modal-zh-title').textContent = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
             
-            // 填入鷹架內容
+            // 填入鷹架內容，並確保視窗打開時提示都是隱藏狀態
             if(news.scaffold && news.scaffold.length === 3) {
-                document.getElementById('scaffold-1').textContent = news.scaffold[0];
-                document.getElementById('scaffold-2').textContent = news.scaffold[1];
-                document.getElementById('scaffold-3').textContent = news.scaffold[2];
+                for(let i=1; i<=3; i++) {
+                    const hintDiv = document.getElementById(`scaffold-${i}`);
+                    const btn = document.getElementById(`btn-hint-${i}`);
+                    hintDiv.textContent = news.scaffold[i-1];
+                    hintDiv.style.display = "none";
+                    btn.textContent = "💡 點我看引導提示";
+                    btn.style.backgroundColor = "transparent";
+                    btn.style.color = "#e67e22";
+                }
             }
 
             document.getElementById('modal-en-title').textContent = news.enTitle;
