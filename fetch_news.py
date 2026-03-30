@@ -58,30 +58,30 @@ def fetch_real_news_from_rss(query):
 def generate_article_with_ai(channel_info, real_news, today_date):
     prompt = f"""
     你現在是一位青少年報紙總編輯。
-    請根據這則新聞：{real_news['title']}，為 10-15 歲的孩子撰寫深度報導。
+    請根據這則新聞：{real_news['title']}，撰寫深度專題報導。
     
-    【核心任務：內容長度與單字正確性】
-    1. 中文內容 (zhContent)：字數絕對必須超過 550 個中文字。分成 4 個 <p> 段落，語氣要自然溫暖。
-    2. 重點單字 (vocabulary)：請挑選 2 個最重要的單字。
-       - "word" 欄位：**必須填寫該單字的英文名稱** (例如: Semiconductor)。禁止填寫中文。
-       - "zh" 欄位：填寫該單字的中文翻譯與詳細解釋。
-    3. 引導提示 (scaffold)：提供 3 個層次的引導提示（觀察、連結、提案），旨在引發孩子好奇，不要給答案。
+    【核心任務】
+    1. 中文內容 (zhContent)：字數絕對必須超過 550 個中文字。分成 4 個 <p> 段落，語氣要自然、親切。
+    2. 重點單字 (vocabulary)：請挑選 2 個單字。
+       - "word" 欄位：必須填寫『英文單字』，例如 "Sustainable"。絕對禁止填寫中文。
+       - "zh" 欄位：填寫該單字的中文翻譯與解釋。
+    3. 引導提示 (scaffold)：提供 3 個層次的引導提示，不要給答案。
     4. 英文摘要 (enContent)：basic, intermediate, advanced 三種難度。
-    5. 圖片關鍵字 (imageKeyword)：一個具體的英文名詞，如 'telescope', 'glacier'。
+    5. 圖片視覺描述 (imagePrompt)：請提供一段詳細的英文視覺描述（例如：'A high-tech lab with glowing blue screens and a robot arm'），這將用於生成圖片，請務必根據新聞內容提供具體且獨特的描述。
 
-    請只回傳 JSON 格式（不要 Markdown 標記）：
+    回傳 JSON 格式：
     {{
-      "zhTitle": "吸引人的標題",
+      "zhTitle": "標題",
       "zhSummary": "重點摘錄",
-      "zhContent": "<p>...</p><p>...</p>",
-      "scaffold": ["提示一", "提示二", "提示三"],
+      "zhContent": "<p>...</p>",
+      "scaffold": ["觀察", "連結", "提案"],
       "enTitle": "English Title",
       "enContent": {{ "basic": "...", "intermediate": "...", "advanced": "..." }},
       "vocabulary": [ 
           {{ "word": "EnglishWord", "zh": "中文解釋" }}, 
           {{ "word": "EnglishWord", "zh": "中文解釋" }} 
       ],
-      "imageKeyword": "keyword"
+      "imagePrompt": "A detailed descriptive English sentence for image generation"
     }}
     """
     payload = { "contents": [{"parts": [{"text": prompt}]}], "generationConfig": { "responseMimeType": "application/json" } }
@@ -89,26 +89,31 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     
     for attempt in range(3):
         try:
-            print(f"[{get_now()}] 正在呼叫 API (嘗試 {attempt+1}/3)...")
+            print(f"[{get_now()}] 正在撰寫新聞 (第 {attempt+1}/3 次嘗試)...")
             response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
             if response.status_code == 429:
-                print(f"[{get_now()}] 頻率限制中，休息 45 秒...")
+                print(f"[{get_now()}] API 繁忙，休息 45 秒...")
                 time.sleep(45); continue
             response.raise_for_status()
             article_data = json.loads(response.json()['candidates'][0]['content']['parts'][0]['text'].strip())
             
             zh_length = len(article_data.get("zhContent", ""))
-            print(f"[{get_now()}] AI 撰稿完成！[內容長度：{zh_length} 字]")
+            print(f"[{get_now()}] 撰稿完成！內容長度：{zh_length} 字")
 
+            # 補齊元數據
             article_data.update({
                 "id": channel_info["id"], "type": channel_info["type"], "category": channel_info["category"],
                 "tagClass": channel_info["tagClass"], "region": channel_info["region"], "date": today_date,
                 "sourceName": real_news["source"], "sourceLink": real_news["link"], "isFeatured": False 
             })
             
-            keyword = article_data.get("imageKeyword", "news")
-            random_seed = random.randint(1, 99999)
-            article_data["imageUrl"] = f"https://image.pollinations.ai/prompt/{urllib.parse.quote(keyword)}?width=800&height=500&nologo=true&seed={random_seed}"
+            # 產生唯一的圖片網址：結合 AI 描述與英文標題
+            img_desc = article_data.get("imagePrompt", "global news scenery")
+            en_title_clean = re.sub(r'[^\w\s]', '', article_data.get("enTitle", ""))
+            final_img_prompt = f"{img_desc} {en_title_clean}"
+            random_seed = random.randint(1, 1000000)
+            article_data["imageUrl"] = f"https://image.pollinations.ai/prompt/{urllib.parse.quote(final_img_prompt)}?width=800&height=500&nologo=true&seed={random_seed}"
+            
             return article_data
         except Exception as e:
             print(f"[{get_now()}] 生成失敗: {e}"); time.sleep(15)
@@ -119,9 +124,9 @@ def update_daily_news():
     final_news_list = []
     consecutive_fails = 0  
     
-    print(f"[{get_now()}] >>> 編輯室啟動任務 <<<")
+    print(f"[{get_now()}] >>> 啟動自動化報社編輯系統 <<<")
     for idx, channel in enumerate(CHANNELS):
-        print(f"\n[{get_now()}] --- 處理進度 {idx+1}/12: [{channel['region']}] ---")
+        print(f"\n[{get_now()}] --- 進度 {idx+1}/12: [{channel['region']}] ---")
         real_news = fetch_real_news_from_rss(channel["query"])
         if not real_news: continue
         article = generate_article_with_ai(channel, real_news, today_str)
@@ -131,9 +136,9 @@ def update_daily_news():
         else:
             consecutive_fails += 1
             if consecutive_fails >= 2:
-                print(f"[{get_now()}] 🚨 連續兩次失敗，停止今日任務以節省額度。")
+                print(f"[{get_now()}] 🚨 連續兩次失敗，停止今日任務。")
                 break
-        print(f"[{get_now()}] 冷卻 25 秒確保 API 穩定...")
+        print(f"[{get_now()}] 休息 25 秒以保護 API 額度...")
         time.sleep(25)
         
     if not final_news_list: return
@@ -143,10 +148,10 @@ def update_daily_news():
         with open('news.json', 'r', encoding='utf-8') as f:
             try: 
                 existing_news = json.load(f)
-                print(f"[{get_now()}] 讀取到 {len(existing_news)} 筆歷史資料")
+                print(f"[{get_now()}] 已載入 {len(existing_news)} 筆歷史資料")
             except: pass
 
-    # 合併並保留 30 天內資料，並挑選今日第一篇為精選
+    # 挑選今日第一篇主題新聞作為精選
     for news in final_news_list:
         if news["type"] == "thematic": news["isFeatured"] = True; break
 
@@ -159,14 +164,15 @@ def update_daily_news():
     for news in all_news:
         unique_id = f"{news.get('date')}-{news.get('id')}"
         try:
-            news_date = datetime.datetime.strptime(news.get('date', ''), '%Y-%m-%d').date()
+            news_date_str = news.get('date', '')
+            news_date = datetime.datetime.strptime(news_date_str, '%Y-%m-%d').date()
             if unique_id not in seen_ids and news_date >= thirty_days_ago:
                 filtered_news.append(news); seen_ids.add(unique_id)
         except: pass
 
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(filtered_news, f, ensure_ascii=False, indent=2)
-    print(f"[{get_now()}] 任務大功告成！共存檔 {len(final_news_list)} 篇今日新報導。")
+    print(f"[{get_now()}] 資料寫入完成！今日存檔 {len(final_news_list)} 篇新專題。")
 
 if __name__ == "__main__":
     update_daily_news()
