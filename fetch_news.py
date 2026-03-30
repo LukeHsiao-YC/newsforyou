@@ -5,115 +5,167 @@ import requests
 import re
 import urllib.parse
 import random
+import time
+import xml.etree.ElementTree as ET
 
 # 設定 Gemini API
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
-def generate_daily_news():
-    today = datetime.datetime.now().strftime("%Y-%m-%d")
+# 定義 12 個新聞頻道 (4大主題 + 8大區域)
+CHANNELS = [
+    {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 政治 經濟"},
+    {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "國際 自然 環境 生態"},
+    {"id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "query": "國際 文化 藝術 流行"},
+    {"id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "query": "國際 科技 AI 太空"},
+    {"id": "r-1", "type": "regional", "region": "北美洲", "category": "政治經濟", "tagClass": "tag-polecon", "query": "美國 加拿大 社會 新聞"},
+    {"id": "r-2", "type": "regional", "region": "南美洲", "category": "自然生態", "tagClass": "tag-nature", "query": "南美洲 巴西 阿根廷 新聞"},
+    {"id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "query": "歐洲 英國 法國 德國 新聞"},
+    {"id": "r-4", "type": "regional", "region": "非洲", "category": "自然生態", "tagClass": "tag-nature", "query": "非洲 新聞"},
+    {"id": "r-5", "type": "regional", "region": "中亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "中亞 哈薩克 烏茲別克 新聞"},
+    {"id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "query": "日本 韓國 科技 新聞"},
+    {"id": "r-7", "type": "regional", "region": "東南亞", "category": "政治經濟", "tagClass": "tag-polecon", "query": "東南亞 印尼 泰國 越南 新聞"},
+    {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "澳洲 紐西蘭 大洋洲 新聞"}
+]
+
+# 步驟一：先從 Google News 抓取真實的新聞標題與網址，避免 AI 產生假連結
+def fetch_real_news_from_rss(query):
+    # 加上 when:2d 確保抓到最近兩天的新聞
+    encoded_query = urllib.parse.quote(f"{query} when:2d")
+    rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     
-    # 給 AI 的指令，要求它扮演專業編輯並輸出 JSON
+    try:
+        response = requests.get(rss_url, timeout=10)
+        root = ET.fromstring(response.content)
+        item = root.find('.//channel/item')
+        if item is not None:
+            # 抓出真實的新聞標題、網址與來源媒體
+            title = item.find('title').text
+            link = item.find('link').text
+            source = item.find('source').text if item.find('source') is not None else "國際新聞"
+            return {"title": title, "link": link, "source": source}
+    except Exception as e:
+        print(f"抓取 RSS 失敗 ({query}): {e}")
+    
+    return None
+
+# 步驟二：請 AI 根據真實標題寫作
+def generate_article_with_ai(channel_info, real_news, today_date):
     prompt = f"""
-    請身為一位專業的新聞編輯，幫我撰寫 {today} 的 8 篇每日新聞。
-    目標讀者：國小高年級到國中生（10-15歲）。
+    你現在是一位充滿熱情、語氣溫暖的青少年新聞編輯。
+    今天我們要介紹一則真實新聞給國小高年級到國中生（10-15歲）閱讀。
     
-    新聞必須涵蓋以下 8 個地區各一篇，主題請從「政治經濟、科技探索、人文流行、自然生態」中自行挑選最適合該地區的重大事件：
-    1. 東北亞
-    2. 東南亞
-    3. 中亞
-    4. 大洋洲
-    5. 歐洲
-    6. 非洲
-    7. 北美洲
-    8. 南美洲
+    真實新聞標題：{real_news['title']}
+    新聞分類：{channel_info['region']}的{channel_info['category']}
     
-    寫作要求：
-    - 中文內容 (zhContent) 必須約 400 到 500 字，分段落。請客觀描述事實，語氣平易近人，不要有尷尬的大人說教感。
-    - 訓練閱讀素養：內容要有清晰的因果關係，並且在文章最後，加上一小段「引導思考」的問題，激發好奇心。
-    - 必須根據真實發生的近期國際重大新聞來改寫，絕不可捏造。
-    - 每篇都要附上真實的具公信力媒體名稱 (sourceName) 與對應的真實網址 (sourceLink)。
-    - 英文內容：請針對該新聞，提供三個不同閱讀難度 (basic, intermediate, advanced) 的短文。
-    - 英文單字：從短文中挑選 2 個重點單字 (vocabulary)，並提供中文解釋。
-    - 提供一個簡短、具體的英文名詞 (例如 space, desert, train) 放在 imageKeyword 欄位，這會用來自動配圖。
-    - 隨機挑選其中 1 篇設定為「每週精選」 (isFeatured: true)，其他 7 篇為 false。
+    請你根據這個新聞標題，撰寫一篇完整的教育新聞，並嚴格遵守以下要求：
+    1. 中文內容 (zhContent)：必須大於 500 字，分成數個段落。語氣要像一個真實的大哥哥大姊姊在說故事，絕對不能出現「深入探討、值得注意的是、賦能」這類生硬的 AI 機器人用語。內容要客觀描述發生了什麼事，並解釋背後的原因。
+    2. 深度思考小站 (scaffold)：請不要直接給答案，而是提供 3 個層次的「引導提示」。這 3 個提示分別是：
+       - 提示一（觀察事實）：這件事發生了什麼關鍵改變？（約30字）
+       - 提示二（生活連結）：這件事跟台灣的學生或家庭有什麼關聯？（約40字）
+       - 提示三（行動提案）：為了這個議題，學生現在在生活中可以做到的一件具體小事？（約40字）
+    3. 英文內容 (enContent)：請提供 basic, intermediate, advanced 三種難度的簡短英文摘要，並符合劍橋兒童英文 YLE Flyers 程度。
+    4. 重點單字 (vocabulary)：挑選 2 個符合該新聞主題的英文單字並附上中文。
+    5. 圖片關鍵字 (imageKeyword)：給一個具體的英文名詞，例如 rocket, forest, city, computer，用來自動配圖。
     
-    請務必只回傳合法的 JSON 陣列格式，不要包含任何 Markdown 標記或其他文字，格式如下：
-    [
-      {{
-        "id": "{today}-1",
-        "date": "{today}",
-        "isFeatured": true,
-        "region": "東北亞",
-        "category": "科技探索",
-        "tagClass": "tag-tech",
-        "imageKeyword": "robot",
-        "zhTitle": "標題",
-        "zhSummary": "50字客觀摘要",
-        "zhContent": "<p>段落一...</p><p>段落二...</p><p>引導思考：...</p>",
-        "enTitle": "English Title",
-        "enContent": {{
-            "basic": "Simple english...",
-            "intermediate": "Normal english...",
-            "advanced": "Harder english..."
-        }},
-        "vocabulary": [
-            {{"word": "robot", "zh": "機器人"}},
-            {{"word": "future", "zh": "未來"}}
-        ],
-        "sourceName": "BBC News",
-        "sourceLink": "https://www.bbc.com/..."
-      }}
-    ]
+    請只回傳合法的 JSON 格式物件，格式如下：
+    {{
+      "zhTitle": "你幫這篇新聞下的一個吸引人的標題",
+      "zhSummary": "50字的客觀摘要",
+      "zhContent": "<p>第一段...</p><p>第二段...</p><p>第三段...</p><p>第四段...</p>",
+      "scaffold": ["提示一的內容", "提示二的內容", "提示三的內容"],
+      "enTitle": "English Title",
+      "enContent": {{
+          "basic": "...",
+          "intermediate": "...",
+          "advanced": "..."
+      }},
+      "vocabulary": [
+          {{"word": "apple", "zh": "蘋果"}},
+          {{"word": "world", "zh": "世界"}}
+      ],
+      "imageKeyword": "word"
+    }}
     """
 
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}]
-    }
-    
+    payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {"Content-Type": "application/json"}
     
     try:
-        response = requests.post(API_URL, headers=headers, json=payload)
+        response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
         response.raise_for_status()
         result = response.json()
         
-        # 抓取 AI 回傳的文字內容
         text_content = result['candidates'][0]['content']['parts'][0]['text']
-        
-        # 清理多餘的 Markdown 標籤以確保 JSON 格式正確
         text_content = re.sub(r'^```json', '', text_content, flags=re.MULTILINE)
         text_content = re.sub(r'^```', '', text_content, flags=re.MULTILINE)
-        text_content = text_content.strip()
+        article_data = json.loads(text_content.strip())
         
-        news_data = json.loads(text_content)
+        # 組合完整的資料結構
+        article_data["id"] = channel_info["id"]
+        article_data["type"] = channel_info["type"]
+        article_data["category"] = channel_info["category"]
+        article_data["tagClass"] = channel_info["tagClass"]
+        article_data["region"] = channel_info["region"]
+        article_data["date"] = today_date
+        article_data["sourceName"] = real_news["source"]
+        article_data["sourceLink"] = real_news["link"]
+        article_data["isFeatured"] = False # 預設為否，稍後隨機挑選
         
-        # 把 imageKeyword 轉換成免費的 AI 圖片生成網址，並加上 URL 編碼避免破圖
-        for index, item in enumerate(news_data):
-            keyword = item.get("imageKeyword", "news")
-            encoded_keyword = urllib.parse.quote(keyword)
-            # 加入隨機亂數避免瀏覽器快取到同一張圖片
-            random_seed = random.randint(1, 10000)
-            item["imageUrl"] = f"https://image.pollinations.ai/prompt/{encoded_keyword}?width=800&height=500&nologo=true&seed={random_seed}"
-            item["id"] = f"{today}-{index+1}"
-            
-        return news_data
+        # 產生不重複的圖片網址
+        keyword = article_data.get("imageKeyword", "news")
+        encoded_keyword = urllib.parse.quote(keyword)
+        random_seed = random.randint(1, 99999)
+        article_data["imageUrl"] = f"https://image.pollinations.ai/prompt/{encoded_keyword}?width=800&height=500&nologo=true&seed={random_seed}"
+        
+        return article_data
         
     except Exception as e:
-        print(f"生成新聞時發生錯誤: {e}")
-        return []
+        print(f"AI 生成失敗 ({channel_info['query']}): {e}")
+        return None
 
-def update_news_database():
-    new_daily_news = generate_daily_news()
-    if not new_daily_news:
-        print("今天沒有產出新資料，提早結束程式。")
+def update_daily_news():
+    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
+    final_news_list = []
+    
+    print(f"開始執行 {today_str} 的新聞抓取任務...")
+    
+    # 依序處理 12 個頻道
+    for channel in CHANNELS:
+        print(f"正在處理: {channel['region']} - {channel['category']}")
+        
+        # 1. 抓取真實連結
+        real_news = fetch_real_news_from_rss(channel["query"])
+        if not real_news:
+            print("找不到適合的 RSS 新聞，跳過此頻道。")
+            continue
+            
+        print(f"找到真實新聞: {real_news['title']}")
+        
+        # 2. 請 AI 寫作
+        article = generate_article_with_ai(channel, real_news, today_str)
+        if article:
+            final_news_list.append(article)
+            print("AI 撰寫完成！")
+            
+        # 休息 2 秒，避免被 Google API 阻擋
+        time.sleep(2)
+        
+    if not final_news_list:
+        print("今天沒有產出任何資料，提早結束程式。")
         return
+        
+    # 將第一篇主題新聞設定為每週精選
+    for news in final_news_list:
+        if news["type"] == "thematic":
+            news["isFeatured"] = True
+            break
 
+    # 讀取並合併舊資料
     today_date = datetime.datetime.now().date()
     thirty_days_ago = today_date - datetime.timedelta(days=30)
-    
-    # 讀取現有的 news.json
     existing_news = []
+    
     if os.path.exists('news.json'):
         with open('news.json', 'r', encoding='utf-8') as f:
             try:
@@ -121,34 +173,33 @@ def update_news_database():
             except json.JSONDecodeError:
                 pass
 
-    # 將新新聞加到最前面
-    all_news = new_daily_news + existing_news
+    all_news = final_news_list + existing_news
     
-    # 過濾機制：保留最近 30 天的資料，並剔除可能重複的今日資料
+    # 過濾重複與過期的新聞
     filtered_news = []
     seen_ids = set()
     
     for news in all_news:
-        news_id = news.get('id')
+        # 用日期加上頻道ID當作唯一識別碼，確保每天的資料不會被覆蓋錯
+        unique_id = f"{news.get('date')}-{news.get('id')}"
         news_date_str = news.get('date', '')
         
-        # 避免重複 ID
-        if news_id in seen_ids:
+        if unique_id in seen_ids:
             continue
             
         try:
             news_date = datetime.datetime.strptime(news_date_str, '%Y-%m-%d').date()
             if news_date >= thirty_days_ago:
                 filtered_news.append(news)
-                seen_ids.add(news_id)
+                seen_ids.add(unique_id)
         except ValueError:
             pass
 
-    # 將更新後的資料寫回 news.json
+    # 存檔
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(filtered_news, f, ensure_ascii=False, indent=2)
         
-    print(f"成功更新資料庫！共保留 {len(filtered_news)} 筆新聞。")
+    print(f"成功更新資料庫！今日新增 {len(final_news_list)} 篇，共保留 {len(filtered_news)} 筆新聞。")
 
 if __name__ == "__main__":
-    update_news_database()
+    update_daily_news()
