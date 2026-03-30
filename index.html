@@ -185,7 +185,6 @@
     <script>
         let newsData = [];
         let currentNews = null;
-        const FALLBACK_IMG = 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800';
 
         const regionCoords = {
             "北美洲": { top: "28%", left: "18%" },
@@ -198,12 +197,11 @@
             "大洋洲": { top: "75%", left: "85%" }
         };
 
-        // 幫網址加上「不重複指紋」的小工具
-        function getUniqueUrl(url) {
-            if (!url) return FALLBACK_IMG;
-            // 如果是 AI 圖片服務，補上動態時間參數破除快取
-            const connector = url.includes('?') ? '&' : '?';
-            return `${url}${connector}t=${Date.now()}`;
+        // 為每篇失敗的新聞產生「獨一無二」的隨機備用圖
+        function getFallbackImg(newsId) {
+            // 使用 Picsum 提供高畫質且穩定的隨機圖片，依照新聞ID確保同一篇新聞的圖固定
+            const seed = newsId || Math.floor(Math.random() * 1000);
+            return `https://picsum.photos/seed/${seed}/800/500`;
         }
 
         async function init() {
@@ -226,10 +224,13 @@
             newsData.filter(n => n.type === 'thematic' && n.date === latestDate).forEach(n => {
                 const card = document.createElement('div');
                 card.className = 'news-card';
-                const imgUrl = getUniqueUrl(n.imageUrl);
+                // 設定圖片與備用機制
+                const fallbackUrl = getFallbackImg(n.id);
+                const imgUrl = n.imageUrl || fallbackUrl;
+                
                 card.innerHTML = `
                     <div class="card-image-wrap">
-                        <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='${FALLBACK_IMG}'; this.classList.add('loaded')">
+                        <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='${fallbackUrl}'; this.classList.add('loaded'); this.onerror=null;">
                     </div>
                     <div class="card-content">
                         <span class="category-tag ${n.tagClass}">${n.category}</span>
@@ -267,10 +268,12 @@
                 groups[date].forEach(n => {
                     const card = document.createElement('div');
                     card.className = 'news-card';
-                    const imgUrl = getUniqueUrl(n.imageUrl);
+                    const fallbackUrl = getFallbackImg(n.id);
+                    const imgUrl = n.imageUrl || fallbackUrl;
+
                     card.innerHTML = `
                         <div class="card-image-wrap">
-                            <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='${FALLBACK_IMG}'; this.classList.add('loaded')">
+                            <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='${fallbackUrl}'; this.classList.add('loaded'); this.onerror=null;">
                         </div>
                         <div class="card-content">
                             <div class="tag-wrap">
@@ -291,7 +294,14 @@
             currentNews = news;
             const mImg = document.getElementById('modal-img');
             mImg.classList.remove('loaded');
-            mImg.src = getUniqueUrl(news.imageUrl);
+            
+            const fallbackUrl = getFallbackImg(news.id);
+            mImg.src = news.imageUrl || fallbackUrl;
+            mImg.onerror = function() {
+                this.src = fallbackUrl;
+                this.classList.add('loaded');
+                this.onerror = null;
+            };
             
             document.getElementById('modal-zh-title').innerText = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
