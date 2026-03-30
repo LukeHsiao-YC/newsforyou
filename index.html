@@ -15,33 +15,38 @@
         header h1 { font-size: 36px; font-weight: 900; color: #2c3e50; margin-bottom: 10px; }
         header p { color: #7f8c8d; font-size: 18px; }
 
-        /* 頁籤切換導覽 */
         .tabs-container { display: flex; justify-content: center; gap: 15px; margin-top: 25px; flex-wrap: wrap;}
         .tab-btn { background-color: #f1f2f6; border: none; padding: 12px 25px; border-radius: 30px; font-size: 18px; font-weight: 700; color: #576574; cursor: pointer; transition: all 0.3s ease; font-family: 'Noto Sans TC', sans-serif; }
         .tab-btn:hover { background-color: #dfe4ea; }
         .tab-btn.active { background-color: #2c3e50; color: #fff; box-shadow: 0 4px 10px rgba(44, 62, 80, 0.3); }
 
-        /* 內容區塊管理 */
         .content-section { display: none; max-width: 1200px; margin: 40px auto; padding: 0 20px; }
         .content-section.active { display: block; }
         .section-title { font-size: 28px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; border-left: 6px solid #f39c12; padding-left: 15px; }
 
-        /* 每週精選特別版面 */
-        .featured-grid { display: grid; grid-template-columns: 1fr; gap: 30px; margin-bottom: 50px; }
-        .featured-card { display: flex; background: #fff; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.08); cursor: pointer; transition: transform 0.3s ease; border: 2px solid transparent; }
-        .featured-card:hover { transform: translateY(-5px); border-color: #f39c12; }
-        .featured-card .card-image { width: 45%; height: auto; min-height: 300px; object-fit: cover;}
-        .featured-card .card-content { width: 55%; padding: 40px; display: flex; flex-direction: column; justify-content: center; }
-        .badge-featured { display: inline-block; background: #f39c12; color: #fff; padding: 5px 12px; border-radius: 8px; font-size: 14px; font-weight: 900; margin-bottom: 10px; align-self: flex-start; }
+        /* 四大主題新聞網格 */
+        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; margin-bottom: 60px;}
 
-        /* 一般新聞網格 */
-        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; }
-        .date-header { font-size: 24px; font-weight: 700; color: #34495e; margin: 40px 0 20px 0; border-bottom: 2px solid #bdc3c7; padding-bottom: 10px; }
+        /* 世界地圖區塊 */
+        .map-wrapper { background: #fff; border-radius: 20px; padding: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); margin-bottom: 60px; text-align: center;}
+        .map-container { position: relative; width: 100%; max-width: 900px; margin: 0 auto; }
+        .map-svg { width: 100%; height: auto; opacity: 0.8; }
+        
+        .map-pin { position: absolute; transform: translate(-50%, -100%); cursor: pointer; text-align: center; transition: all 0.3s ease; z-index: 2;}
+        .map-pin:hover { transform: translate(-50%, -120%) scale(1.1); z-index: 10;}
+        .pin-icon { font-size: 28px; color: #e74c3c; filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.3)); animation: bounce 2s infinite; }
+        .pin-label { background: #fff; padding: 4px 10px; border-radius: 12px; font-size: 14px; font-weight: 900; box-shadow: 0 2px 8px rgba(0,0,0,0.15); white-space: nowrap; margin-top: -5px; color: #2c3e50; border: 2px solid #e74c3c;}
 
-        /* 新聞卡片 */
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-10px); }
+            60% { transform: translateY(-5px); }
+        }
+
+        /* 新聞卡片共用 */
         .news-card { background: #fff; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease; display: flex; flex-direction: column; }
         .news-card:hover { transform: translateY(-5px); box-shadow: 0 15px 30px rgba(0,0,0,0.1); }
-        .card-image { width: 100%; height: 200px; object-fit: cover; display: block; background-color: #eee; }
+        .card-image { width: 100%; height: 180px; object-fit: cover; display: block; background-color: #eee; }
         .card-content { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
         
         .tags-wrap { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
@@ -53,9 +58,9 @@
         .tag-human { background-color: #9b59b6; }   
         .tag-nature { background-color: #2ecc71; }  
 
-        .news-card h2 { font-size: 20px; font-weight: 700; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
-        .news-card p.summary { font-size: 15px; color: #7f8c8d; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 15px; }
-        .card-date { margin-top: auto; font-size: 13px; color: #95a5a6; font-weight: 700; }
+        .news-card h2 { font-size: 18px; font-weight: 700; margin-bottom: 10px; color: #2c3e50; line-height: 1.4; }
+        .news-card p.summary { font-size: 14px; color: #7f8c8d; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 15px; }
+        .card-date { margin-top: auto; font-size: 12px; color: #95a5a6; font-weight: 700; }
 
         /* 彈出視窗 (Modal) */
         .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.6); display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; z-index: 1000; padding: 20px; }
@@ -66,10 +71,16 @@
         .close-btn:hover { background: #f1f2f6; }
         .modal-header-img { width: 100%; height: 350px; object-fit: cover; background-color: #eee; }
         .modal-body { padding: 40px; }
-        .article-section { margin-bottom: 40px; }
-        .article-section h3 { font-size: 30px; color: #2c3e50; margin-bottom: 20px; font-weight: 900; line-height: 1.4;}
+        .article-section { margin-bottom: 30px; }
+        .article-section h3 { font-size: 28px; color: #2c3e50; margin-bottom: 20px; font-weight: 900; line-height: 1.4;}
         .article-section p { font-size: 18px; color: #444; margin-bottom: 18px; line-height: 1.8; }
         
+        /* 深度思考鷹架區塊 (全新設計) */
+        .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 20px; padding: 25px; margin-bottom: 40px; }
+        .scaffold-title { font-size: 22px; font-weight: 900; color: #d35400; margin-bottom: 15px; display: flex; align-items: center; gap: 10px;}
+        .scaffold-step { margin-bottom: 12px; font-size: 18px; color: #2d3436; line-height: 1.6;}
+        .scaffold-step strong { color: #e67e22; background: #fff; padding: 2px 8px; border-radius: 8px; margin-right: 8px; font-size: 16px;}
+
         /* 英文區塊與難度切換 */
         .english-section { background-color: #f0f4f8; padding: 30px; border-radius: 20px; border-left: 6px solid #4a90e2; margin-bottom: 20px;}
         .eng-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; gap: 10px;}
@@ -87,21 +98,19 @@
         .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 800; color: #2c3e50; font-size: 18px;}
         .vocab-zh { font-size: 14px; color: #7f8c8d; font-weight: 700; margin-top: 4px;}
 
-        .source-link-btn { display: inline-flex; align-items: center; gap: 8px; background-color: #f1f2f6; color: #2f3542; padding: 12px 20px; border-radius: 12px; text-decoration: none; font-size: 16px; font-weight: 700; margin-top: 20px; transition: background-color 0.2s ease; }
+        .source-link-btn { display: inline-flex; align-items: center; gap: 8px; background-color: #f1f2f6; color: #2f3542; padding: 12px 20px; border-radius: 12px; text-decoration: none; font-size: 16px; font-weight: 700; margin-top: 10px; transition: background-color 0.2s ease; }
         .source-link-btn:hover { background-color: #dfe4ea; }
 
-        /* RWD */
         @media (max-width: 768px) {
-            .featured-card { flex-direction: column; }
-            .featured-card .card-image { width: 100%; min-height: 250px; height: 250px; }
-            .featured-card .card-content { width: 100%; padding: 25px;}
+            .map-wrapper { padding: 15px; }
+            .pin-label { display: none; } /* 手機版隱藏地標文字，只留圖示 */
         }
         @media (max-width: 600px) {
             .modal-body { padding: 25px; }
             .modal-header-img { height: 200px; }
             .article-section h3 { font-size: 24px; }
             .article-section p { font-size: 16px; }
-            .eng-header { flex-direction: column; align-items: flex-start;}
+            .scaffold-step { font-size: 16px; }
         }
     </style>
 </head>
@@ -111,17 +120,28 @@
         <h1>🌍 地球日報：每日大探險</h1>
         <p>跟著地圖看世界，每天認識一件新鮮事！</p>
         <div class="tabs-container">
-            <button class="tab-btn active" onclick="switchTab('latest')">首頁：最新與精選</button>
+            <button class="tab-btn active" onclick="switchTab('latest')">今日新聞與世界地圖</button>
             <button class="tab-btn" onclick="switchTab('archive')">時光機：歷史新聞庫</button>
         </div>
     </header>
 
     <div id="latest-section" class="content-section active">
-        <h2 class="section-title">🌟 每週精選故事</h2>
-        <div class="featured-grid" id="featured-container"></div>
+        
+        <h2 class="section-title">🗞️ 焦點四大面向</h2>
+        <div class="grid-container" id="thematic-container">
+            <!-- 政治經濟、人文、自然、科技 四大面向 -->
+        </div>
 
-        <h2 class="section-title" style="border-left-color: #3498db; margin-top: 50px;">📰 今日環球視野 (8大洲)</h2>
-        <div class="grid-container" id="today-container"></div>
+        <h2 class="section-title" style="border-left-color: #3498db; margin-top: 30px;">🗺️ 環球視野地圖</h2>
+        <div class="map-wrapper">
+            <p style="color: #7f8c8d; margin-bottom: 20px; font-weight: 700;">點擊地圖上的定位點，看看世界各地發生了什麼事！</p>
+            <div class="map-container" id="map-container">
+                <!-- 這是一張開源的純灰階無國界世界地圖 SVG -->
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg" class="map-svg" alt="World Map">
+                <!-- 地圖標籤會由 JS 自動產生放在這裡 -->
+            </div>
+        </div>
+
     </div>
 
     <div id="archive-section" class="content-section">
@@ -144,9 +164,14 @@
                 <div class="article-section">
                     <h3 id="modal-zh-title"></h3>
                     <div id="modal-zh-content"></div>
-                    <a href="#" target="_blank" class="source-link-btn" id="modal-source-link">
-                        📖 閱讀原始真實新聞 (<span id="modal-source-name"></span>)
-                    </a>
+                </div>
+
+                <!-- 全新設計：引導思考鷹架 -->
+                <div class="scaffold-section">
+                    <div class="scaffold-title">🧠 深度思考小站</div>
+                    <div class="scaffold-step"><strong>1. 觀察事實</strong> <span id="scaffold-1"></span></div>
+                    <div class="scaffold-step"><strong>2. 生活連結</strong> <span id="scaffold-2"></span></div>
+                    <div class="scaffold-step"><strong>3. 行動提案</strong> <span id="scaffold-3"></span></div>
                 </div>
 
                 <div class="english-section">
@@ -159,240 +184,168 @@
                         </div>
                     </div>
                     <p id="modal-en-content"></p>
-                    
-                    <!-- 單字卡區塊 -->
                     <div class="vocab-section" id="modal-vocab"></div>
                 </div>
+
+                <a href="#" target="_blank" class="source-link-btn" id="modal-source-link" style="display: inline-flex;">
+                    📖 閱讀原始真實新聞 (<span id="modal-source-name"></span>)
+                </a>
             </div>
         </div>
     </div>
 
     <script>
-        // 用來記錄當前打開的新聞資料，方便切換英文難度
         let currentModalNews = null;
 
-        // 當圖片失效時的統一備用圖片網址
-        const FALLBACK_IMAGE = 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800&auto=format&fit=crop';
+        // 8 大洲在地圖上的相對座標 (top, left 的百分比)
+        const regionCoords = {
+            "北美洲": { top: "30%", left: "18%" },
+            "南美洲": { top: "70%", left: "28%" },
+            "歐洲": { top: "28%", left: "50%" },
+            "非洲": { top: "55%", left: "52%" },
+            "中亞": { top: "30%", left: "68%" },
+            "東北亞": { top: "35%", left: "82%" },
+            "東南亞": { top: "55%", left: "78%" },
+            "大洋洲": { top: "78%", left: "85%" }
+        };
 
-        // 擴充版備用資料：完整涵蓋 8 個地區，讓你在還沒更新 GitHub 時也能看
+        // 模擬資料結構大改版，區分 thematic (四大主題) 與 regional (八大地圖)
         const MOCK_DATA = [
+            // --- 四大面向主題新聞 ---
             {
-                "id": "2026-03-30-1", "date": "2026-03-30", "isFeatured": true,
-                "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech",
-                "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "日本研發超強機器人，未來的居家小幫手",
-                "zhSummary": "日本科學家發明了一款新型機器人，它可以幫忙做家事甚至陪伴老人家，展現了科技如何改善人類生活。",
-                "zhContent": "<p>在日本這個科技發達的國家，科學家們最近又有了一個驚人的發明。他們設計出了一款非常特別的機器人，不只外型看起來親切可愛，還擁有聰明的大腦。這款機器人被設計來幫忙解決現代家庭的一些困擾。</p><p>很多人平時要上班、上學，回家後還要洗碗、掃地，會覺得非常疲倦。這款機器人配備了靈敏的感測器和柔軟的機械手臂，可以幫忙摺衣服、把杯子收好，甚至還能陪家裡的爺爺奶奶聊天解悶。</p><p>引導思考：如果你的家裡也能有一台這樣的機器人，你最希望它幫你完成什麼任務呢？</p>",
-                "enTitle": "A New Robot Friend",
-                "enContent": {
-                    "basic": "Scientists in Japan made a new robot. It is very smart. It can clean the house and talk to old people.",
-                    "intermediate": "Japanese scientists have invented a new kind of robot designed to help at home. It can fold clothes and keep elderly people company.",
-                    "advanced": "In a significant technological advancement, Japanese researchers have unveiled a sophisticated domestic robot equipped with advanced sensors."
-                },
-                "vocabulary": [ {"word": "robot", "zh": "機器人"}, {"word": "scientist", "zh": "科學家"} ],
-                "sourceName": "NHK News", "sourceLink": "#"
+                "id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "date": "2026-03-30",
+                "imageUrl": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?q=80&w=800",
+                "zhTitle": "遠方的中東戰爭，為什麼讓我們的便當變貴了？",
+                "zhSummary": "中東地區發生衝突，大家都在搶石油，這引發了連鎖效應讓物價上漲。",
+                "zhContent": "<p>要搞懂這件事，我們得先認識一個藏在地底下的超強寶藏：石油。中東地區是全世界生產石油最多、也是最關鍵的地方。當那些國家發生軍事衝突時，負責抽石油的工廠可能會停工。結果就是，全世界能買到的石油瞬間變少了。</p><p>這時候，經濟學裡最重要的一個規則就出現了：「物以稀為貴」。因為全世界的工廠和車子都需要石油，但石油變少了，擁有石油的人就會提高賣出去的價格。油錢變貴了，司機叔叔為了不虧本只好向菜市場老闆多收運費，最後便當店老闆只好把便當調漲十塊錢。</p>",
+                "scaffold": ["中東的石油變少了，導致全球油價變貴。", "如果便當變貴，你每天的零用錢能買到的東西就變少了。", "下次買東西時，試著看看發票，了解我們平常花的錢都去了哪裡。"],
+                "enTitle": "Why is Lunch More Expensive?",
+                "enContent": {"basic": "Oil is getting hard to find. So, everything costs more money.", "intermediate": "Because of conflicts in the Middle East, oil prices have gone up, making food more expensive.", "advanced": "Geopolitical tensions in the Middle East have disrupted oil supplies, triggering global inflation that affects daily commodity prices."},
+                "vocabulary": [ {"word": "expensive", "zh": "昂貴的"}, {"word": "oil", "zh": "石油"} ],
+                "sourceName": "中央通訊社", "sourceLink": "https://www.cna.com.tw"
             },
             {
-                "id": "2026-03-30-2", "date": "2026-03-30", "isFeatured": false,
-                "region": "東南亞", "category": "自然生態", "tagClass": "tag-nature",
-                "imageUrl": "https://images.unsplash.com/photo-1544253392-50d4b1a4cb58?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "印尼復育紅樹林，幫海岸線穿上綠色防護衣",
-                "zhSummary": "印尼政府和當地居民合作種植紅樹林，這不僅能提供魚類安全的家，還能阻擋海浪侵蝕陸地。",
-                "zhContent": "<p>印尼是一個由許多島嶼組成的國家。最近，當地的居民和環保團體發起了一個大活動：在海邊種下幾萬棵的紅樹林。紅樹林是一種非常神奇的植物，它們的根會緊緊抓住泥土，甚至可以在鹹鹹的海水中生長。</p><p>過去因為開發，許多紅樹林消失了，導致海浪容易把陸地的泥沙沖走。現在大家把紅樹林種回來，不只幫海岸線穿上了一件堅固的防護衣，還吸引了許多小魚、小蝦回來這裡居住，讓海洋生態變得更豐富。</p><p>引導思考：除了種植紅樹林，我們還可以怎麼做來保護美麗的海洋環境呢？</p>",
-                "enTitle": "Planting Trees by the Sea",
-                "enContent": {
-                    "basic": "People in Indonesia are planting special trees by the sea. The trees help stop the big waves. Fish like to live there too.",
-                    "intermediate": "People in Indonesia are planting mangrove trees along the coast. These trees protect the land from big waves and provide a safe home for fish.",
-                    "advanced": "Indonesian communities are actively engaging in mangrove reforestation. These ecosystems are crucial for preventing coastal erosion and fostering marine biodiversity."
-                },
-                "vocabulary": [ {"word": "plant", "zh": "種植"}, {"word": "wave", "zh": "海浪"} ],
-                "sourceName": "The Jakarta Post", "sourceLink": "#"
+                "id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "date": "2026-03-30",
+                "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=800",
+                "zhTitle": "亞馬遜雨林的新守護計畫",
+                "zhSummary": "南美洲各國正在合作推動新計畫，減少雨林的砍伐。",
+                "zhContent": "<p>亞馬遜雨林是地球上最大的一片森林。最近，南美洲的幾個國家決定一起合作，推出了一個保護雨林的新計畫。他們派出了巡邏隊，並用衛星從太空中監視，只要有人偷偷砍樹就會被發現。</p>",
+                "scaffold": ["南美洲國家開始用科技和巡邏隊保護雨林。", "地球上的樹木減少，會讓天氣變得越來越熱，我們在台灣也會感覺到。", "節約用紙，就是在幫忙保護遠方的森林。"],
+                "enTitle": "Protecting the Rainforest",
+                "enContent": {"basic": "People are trying to save the trees.", "intermediate": "Countries are working together to stop people from cutting down trees.", "advanced": "Nations are collaborating on a new initiative to halt deforestation in the Amazon."},
+                "vocabulary": [ {"word": "rainforest", "zh": "雨林"} ],
+                "sourceName": "BBC News", "sourceLink": "https://www.bbc.com"
             },
             {
-                "id": "2026-03-30-3", "date": "2026-03-30", "isFeatured": false,
-                "region": "中亞", "category": "科技探索", "tagClass": "tag-tech",
-                "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "哈薩克太空中心發射新衛星，讓網路更順暢",
-                "zhSummary": "從哈薩克的發射場升空了一枚新衛星，目的是為了幫助偏遠地區的人們也能享有快速的網路連線。",
-                "zhContent": "<p>在亞洲的中心地帶，有一個國家叫哈薩克。那裡有一座歷史非常悠久的太空發射場。就在幾天前，一枚巨大的火箭帶著全新的通訊衛星順利升空了。這顆衛星的任務非常重要，它要在太空中幫地球上的人們傳遞訊號。</p><p>在這個世界上，還有很多住在高山或是沙漠邊緣的人，他們沒有辦法像我們一樣輕鬆上網。這顆新衛星就像是在太空中架設了一個超級無線基地台，未來即使在很偏遠的地方，學生也能透過網路學習新知識了。</p><p>引導思考：如果有一天你到了完全沒有網路的地方，你會選擇做些什麼有趣的事情呢？</p>",
-                "enTitle": "A New Satellite in Space",
-                "enContent": {
-                    "basic": "A big rocket went up into space from Kazakhstan. It carries a new satellite. Now, people in far places can use the internet.",
-                    "intermediate": "A rocket launched a new communications satellite from Kazakhstan. This satellite will help people in remote areas connect to the fast internet.",
-                    "advanced": "A telecommunications satellite was successfully launched from Kazakhstan. Its primary mission is to expand broadband internet access to underserved and remote geographic regions."
-                },
-                "vocabulary": [ {"word": "space", "zh": "太空"}, {"word": "internet", "zh": "網路"} ],
-                "sourceName": "Reuters", "sourceLink": "#"
+                "id": "t-3", "type": "thematic", "category": "人文流行", "tagClass": "tag-human", "region": "全球", "date": "2026-03-30",
+                "imageUrl": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=800",
+                "zhTitle": "吉伊卡哇旋風席捲台灣，背後的可愛秘密",
+                "zhSummary": "日本超人氣動畫《吉伊卡哇》最新電影即將上映，為什麼大家這麼喜歡？",
+                "zhContent": "<p>最近走在路上，你一定看過這幾隻有著水汪汪大眼睛的小動物。《吉伊卡哇》之所以能引起這麼大的共鳴，不只是因為可愛。在故事裡，他們必須非常努力打工賺錢，甚至討伐怪物。這種『生活充滿挑戰』的反差感，讓很多大人和小朋友在看的時候覺得被深深療癒了。</p>",
+                "scaffold": ["吉伊卡哇雖然可愛，但他們也需要努力工作克服困難。", "我們有時候也會遇到考試考不好或心情沮喪的時候。", "遇到困難時，學學吉伊卡哇，找好朋友一起吃頓飯、互相幫忙。"],
+                "enTitle": "The Cute Cartoon Trend",
+                "enContent": {"basic": "This cartoon is very cute but the characters work hard.", "intermediate": "The characters are cute, but their lives are full of challenges, which makes people like them.", "advanced": "The contrast between the adorable designs and the challenging lives of the characters deeply resonates with the audience."},
+                "vocabulary": [ {"word": "cartoon", "zh": "卡通"} ],
+                "sourceName": "聯合新聞網", "sourceLink": "https://udn.com"
             },
             {
-                "id": "2026-03-30-4", "date": "2026-03-30", "isFeatured": false,
-                "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature",
-                "imageUrl": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "澳洲大堡礁的保育行動，搶救白化的珊瑚",
-                "zhSummary": "科學家在澳洲大堡礁展開救援，透過新的培育技術，希望能幫助因為海水變暖而生病的珊瑚礁恢復色彩。",
-                "zhContent": "<p>大洋洲的澳洲有一個非常有名的自然奇觀，叫做「大堡礁」。那裡原本有著五顏六色、充滿活力的珊瑚。可是近年來，因為全球氣候暖化，海水溫度變得太高，許多珊瑚生病了，變成了毫無生氣的白色，這就叫做「珊瑚白化」。</p><p>為了解決這個危機，海洋生物學家們組成了一支救援隊。他們在實驗室裡培育出比較不怕熱的「超級珊瑚」寶寶，然後由潛水員小心翼翼地把牠們種回海底。希望這些健康的珊瑚寶寶長大後，能讓大堡礁重新找回美麗的色彩。</p><p>引導思考：天氣變熱不只會讓人流汗，還會影響海裡的生物。我們可以做什麼來減少碳排放呢？</p>",
-                "enTitle": "Helping the Coral Reef",
-                "enContent": {
-                    "basic": "The ocean is getting too warm. The beautiful coral in Australia is turning white. Scientists are growing strong new coral to help.",
-                    "intermediate": "Warm ocean water is causing coral bleaching in Australia. Scientists are now planting heat-resistant baby corals to save the Great Barrier Reef.",
-                    "advanced": "Rising sea temperatures have caused severe coral bleaching in the Great Barrier Reef. Marine biologists are cultivating heat-resilient coral species to restore the damaged marine ecosystem."
-                },
-                "vocabulary": [ {"word": "ocean", "zh": "海洋"}, {"word": "warm", "zh": "溫暖"} ],
-                "sourceName": "ABC News", "sourceLink": "#"
+                "id": "t-4", "type": "thematic", "category": "科技探索", "tagClass": "tag-tech", "region": "全球", "date": "2026-03-30",
+                "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=800",
+                "zhTitle": "重返月球！阿提米絲計畫的星際大露營",
+                "zhSummary": "美國 NASA 準備讓太空人飛向月球，這是人類前往火星的暖身賽。",
+                "zhContent": "<p>NASA 準備讓四位勇敢的太空人，搭乘最新型太空船出發。他們會飛得非常遠，進入月球的軌道繞行。科學家希望透過這次任務，測試新的太空裝備，為以後人類去更遠的火星做好準備。</p>",
+                "scaffold": ["人類準備再次回到月球，為了以後去火星做準備。", "太空科技的進步，以後可能會變成我們日常的交通工具。", "多看看跟宇宙有關的書籍，保持對未知世界的好奇心。"],
+                "enTitle": "Return to the Moon",
+                "enContent": {"basic": "Astronauts are going to the moon again.", "intermediate": "Astronauts are flying to the moon to prepare for a future trip to Mars.", "advanced": "NASA's Artemis program aims to send astronauts around the moon as a preparatory step for future Martian exploration."},
+                "vocabulary": [ {"word": "moon", "zh": "月球"} ],
+                "sourceName": "NASA", "sourceLink": "https://www.nasa.gov"
             },
-            {
-                "id": "2026-03-30-5", "date": "2026-03-30", "isFeatured": false,
-                "region": "歐洲", "category": "人文流行", "tagClass": "tag-human",
-                "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "法國將奧運場館變成市民的大型遊樂場",
-                "zhSummary": "巴黎奧運結束後，許多比賽場館並沒有被廢棄，而是改裝成一般民眾也能使用的運動中心和公園。",
-                "zhContent": "<p>舉辦過大型運動會的城市，常常會面臨一個問題：那些花了很多錢蓋的巨大體育館，比賽結束後該怎麼辦？法國的巴黎給了一個很棒的答案。他們在規劃場館時，就已經想好未來的用途了。</p><p>現在，有些曾經讓頂尖運動員比賽的游泳池，已經開放給附近的小學生上游泳課；有些大型場館則拆除了部分座位，改建成了充滿綠樹的公園和社區籃球場。這樣不只不會浪費資源，還能鼓勵大家都養成運動的好習慣。</p><p>引導思考：如果你有一塊空地，你會想把它設計成什麼樣的休閒場所讓大家使用呢？</p>",
-                "enTitle": "A Park for Everyone",
-                "enContent": {
-                    "basic": "France had a big sports game. Now the game is over. They change the big stadiums into parks and pools for everyone to play.",
-                    "intermediate": "After hosting the Olympics, Paris transformed its sports venues into public swimming pools and parks, avoiding waste and encouraging citizens to exercise.",
-                    "advanced": "In a display of sustainable urban planning, Paris has successfully repurposed its Olympic venues into accessible community recreational centers, promoting public health."
-                },
-                "vocabulary": [ {"word": "park", "zh": "公園"}, {"word": "sport", "zh": "運動"} ],
-                "sourceName": "Le Monde", "sourceLink": "#"
-            },
-            {
-                "id": "2026-03-30-6", "date": "2026-03-30", "isFeatured": false,
-                "region": "非洲", "category": "政治經濟", "tagClass": "tag-polecon",
-                "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "肯亞手機支付大普及，菜市場買菜不用帶錢包",
-                "zhSummary": "在非洲的肯亞，透過手機號碼來付款的技術非常成熟。即使沒有銀行帳戶，人們也能輕鬆做生意。",
-                "zhContent": "<p>說到用手機付錢，你可能會想到在大賣場用手機刷條碼。但在非洲的肯亞，他們有一套非常特別的系統。當地很多人其實沒有在銀行開戶，但是幾乎每個人都有一支簡單的手機。</p><p>他們發展出了一種技術，只要傳一封簡訊，就能把錢轉給另一個人。所以現在在肯亞的傳統菜市場裡，不管是賣青菜的阿姨還是騎摩托車的司機，大家都是用手機在付錢。這讓做生意變得更安全，也不用每天帶著沉甸甸的銅板出門了。</p><p>引導思考：科技的進步改變了我們買東西的習慣。你覺得不用現金的生活，有什麼優點和缺點呢？</p>",
-                "enTitle": "Paying with a Phone",
-                "enContent": {
-                    "basic": "People in Kenya do not use coins at the market. They use their cell phones to pay for food. It is very fast and safe.",
-                    "intermediate": "Mobile payment has become very popular in Kenya. Even without a bank account, people can buy and sell things easily just by using their phones.",
-                    "advanced": "Kenya has pioneered a revolutionary mobile money system. This infrastructure empowers citizens without traditional banking access to conduct secure daily transactions."
-                },
-                "vocabulary": [ {"word": "phone", "zh": "電話"}, {"word": "money", "zh": "錢"} ],
-                "sourceName": "Financial Times", "sourceLink": "#"
-            },
-            {
-                "id": "2026-03-30-7", "date": "2026-03-30", "isFeatured": false,
-                "region": "北美洲", "category": "科技探索", "tagClass": "tag-tech",
-                "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "美國推出自動駕駛校車，讓上學路更安全",
-                "zhSummary": "美國部分城市開始測試由人工智慧駕駛的無人校車，希望能減少交通事故，並提供更準時的接送服務。",
-                "zhContent": "<p>在美國的某些城市裡，馬路上出現了一種沒有司機方向盤的黃色校車。這不是科幻電影，而是正在測試中的自動駕駛校車。這台車子全身裝滿了雷達和攝影機，能夠清楚看見路上的每一台車和過馬路的行人。</p><p>人工智慧的大腦不會打瞌睡，也不會因為滑手機而分心。它會嚴格遵守交通規則，遇到危險會立刻煞車。雖然目前車上還是會有一位大人陪伴小朋友，但科學家希望未來這種聰明的車子，能讓小朋友每天上學的旅程變得更加安全。</p><p>引導思考：如果你要搭乘一台沒有司機的自動駕駛車，你會覺得很興奮還是會有點緊張呢？</p>",
-                "enTitle": "The Smart School Bus",
-                "enContent": {
-                    "basic": "A new school bus in America has no driver. A smart computer drives the bus. It sees everything on the road and keeps children safe.",
-                    "intermediate": "Some American cities are testing self-driving school buses. These buses use smart technology to watch the road and prevent accidents.",
-                    "advanced": "Autonomous school buses are undergoing trials in North America. Equipped with advanced AI and sensors, these vehicles aim to significantly enhance road safety for students."
-                },
-                "vocabulary": [ {"word": "bus", "zh": "公車"}, {"word": "safe", "zh": "安全的"} ],
-                "sourceName": "The New York Times", "sourceLink": "#"
-            },
-            {
-                "id": "2026-03-30-8", "date": "2026-03-30", "isFeatured": false,
-                "region": "南美洲", "category": "人文流行", "tagClass": "tag-human",
-                "imageUrl": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=800&auto=format&fit=crop",
-                "zhTitle": "巴西街頭彩繪節，用畫筆為城市換上新衣",
-                "zhSummary": "巴西的藝術家們在街頭舉辦了盛大的彩繪節，把原本灰暗的水泥牆變成了充滿當地故事的美麗畫作。",
-                "zhContent": "<p>在南美洲的巴西，有一群充滿創意的藝術家，他們不喜歡在室內的紙上畫畫，而是喜歡把整個城市當成他們的大畫布。最近他們舉辦了一個熱鬧的街頭彩繪節，吸引了很多人來參觀。</p><p>他們帶著五顏六色的油漆，把原本破舊灰暗的建築外牆，畫上了當地傳說中的動物、開心踢足球的孩子，以及色彩鮮豔的幾何圖形。這些美麗的塗鴉不只讓街道變亮了，也讓住在這個社區的人們感到非常驕傲，更吸引了許多外國遊客來拍照打卡。</p><p>引導思考：如果可以讓你在學校的一面牆上自由作畫，你會想畫上什麼主題來代表你們班呢？</p>",
-                "enTitle": "Painting the City Streets",
-                "enContent": {
-                    "basic": "Artists in Brazil paint beautiful pictures on the walls. They use many bright colors. The city looks very happy and pretty now.",
-                    "intermediate": "Artists in Brazil held a street painting festival. They transformed old walls into colorful pictures that tell local stories and attract tourists.",
-                    "advanced": "A vibrant street art festival in Brazil has revitalized urban spaces. Artists utilized public walls as canvases to depict cultural narratives, fostering community pride."
-                },
-                "vocabulary": [ {"word": "paint", "zh": "畫畫/油漆"}, {"word": "city", "zh": "城市"} ],
-                "sourceName": "O Globo", "sourceLink": "#"
-            }
+
+            // --- 8大地圖區域新聞 ---
+            { "id": "r-1", "type": "regional", "region": "北美洲", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "無人駕駛校車上路測試", "zhSummary": "美國城市開始測試由 AI 駕駛的黃色校車。", "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=800", "zhContent": "<p>這台車子全身裝滿了雷達和攝影機，能夠清楚看見路上的每一台車和過馬路的行人。人工智慧的大腦不會打瞌睡，也不會因為滑手機而分心。</p>", "scaffold": ["美國的校車開始不用人類司機了。", "以後你在台灣上學，可能也會搭到這種車。", "過馬路時還是要自己注意左右來車，不能完全依賴機器的判斷。"], "enTitle": "Driverless Buses", "enContent": {"basic": "A smart bus drives itself.", "intermediate": "A smart bus drives without a human driver to keep students safe.", "advanced": "Autonomous school buses are being tested to enhance road safety."}, "vocabulary": [{"word":"bus","zh":"公車"}], "sourceName":"The New York Times", "sourceLink":"https://www.nytimes.com"},
+            
+            { "id": "r-2", "type": "regional", "region": "南美洲", "category": "人文流行", "tagClass": "tag-human", "date": "2026-03-30", "zhTitle": "巴西街頭彩繪節", "zhSummary": "藝術家們用畫筆為城市灰暗的水泥牆換上新衣。", "imageUrl": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=800", "zhContent": "<p>他們帶著五顏六色的油漆，畫上了當地傳說中的動物、開心踢足球的孩子。這些美麗的塗鴉讓住在社區的人們感到非常驕傲。</p>", "scaffold": ["巴西的藝術家把無聊的牆壁變成了美麗的畫作。", "環境變漂亮了，走在路上心情也會變好。", "整理一下自己的房間或書桌，創造讓自己開心的空間。"], "enTitle": "Street Art Festival", "enContent": {"basic": "Artists paint beautiful walls.", "intermediate": "Artists paint colorful pictures on city walls.", "advanced": "Vibrant street art is revitalizing urban spaces in Brazil."}, "vocabulary": [{"word":"paint","zh":"繪畫"}], "sourceName":"O Globo", "sourceLink":"https://oglobo.globo.com/"},
+
+            { "id": "r-3", "type": "regional", "region": "歐洲", "category": "人文流行", "tagClass": "tag-human", "date": "2026-03-30", "zhTitle": "奧運場館變成市民公園", "zhSummary": "巴黎奧運結束後，場館改裝成一般民眾使用的運動中心。", "imageUrl": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?q=80&w=800", "zhContent": "<p>有些游泳池開放給小學生上游泳課；有些大型場館改建成了充滿綠樹的公園。這樣不只不會浪費資源，還能鼓勵大家都養成運動的習慣。</p>", "scaffold": ["法國把比賽完的體育館變成了大家都可以用的公園。", "如果建築物蓋完就放著不用，是非常浪費錢和破壞環境的。", "去家裡附近的公園或學校多跑跑步、運動一下。"], "enTitle": "Olympic Parks", "enContent": {"basic": "Old stadiums become new parks.", "intermediate": "Olympic venues are turned into public parks and pools.", "advanced": "Olympic facilities are repurposed into community recreational centers."}, "vocabulary": [{"word":"park","zh":"公園"}], "sourceName":"Le Monde", "sourceLink":"https://www.lemonde.fr/"},
+
+            { "id": "r-4", "type": "regional", "region": "非洲", "category": "政治經濟", "tagClass": "tag-polecon", "date": "2026-03-30", "zhTitle": "菜市場買菜不用帶錢包", "zhSummary": "肯亞的手機支付普及，傳簡訊就能轉帳做生意。", "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800", "zhContent": "<p>當地很多人其實沒有在銀行開戶，但是幾乎每個人都有手機。只要傳一封簡訊就能把錢轉給另一個人，讓做生意變得更安全。</p>", "scaffold": ["非洲的肯亞用最簡單的手機簡訊就能付錢買東西。", "科技不一定要很複雜，只要能解決大家的問題就是好科技。", "觀察看看爸爸媽媽去超市買東西時，是用現金還是手機付錢。"], "enTitle": "Mobile Money", "enContent": {"basic": "People use phones to pay.", "intermediate": "People use their phones to buy things at the market.", "advanced": "Mobile payment systems empower citizens without traditional banking access."}, "vocabulary": [{"word":"money","zh":"錢"}], "sourceName":"Financial Times", "sourceLink":"https://www.ft.com/"},
+
+            { "id": "r-5", "type": "regional", "region": "中亞", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "哈薩克發射通訊新衛星", "zhSummary": "讓偏遠沙漠地區的人們也能享有快速的網路。", "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=800", "zhContent": "<p>這顆新衛星就像是在太空中架設了一個超級無線基地台，未來即使在很偏遠的地方，學生也能透過網路學習新知識了。</p>", "scaffold": ["新的衛星可以讓住在很遠地方的小孩也能上網。", "網路雖然方便，但世界上還是有很多人沒有網路可以用。", "善用網路去查一個你今天突然想到的好奇問題。"], "enTitle": "New Internet Satellite", "enContent": {"basic": "A satellite goes to space for internet.", "intermediate": "A new satellite will help remote areas connect to the internet.", "advanced": "A telecommunications satellite was launched to expand broadband access."}, "vocabulary": [{"word":"satellite","zh":"衛星"}], "sourceName":"Reuters", "sourceLink":"https://www.reuters.com/"},
+
+            { "id": "r-6", "type": "regional", "region": "東北亞", "category": "科技探索", "tagClass": "tag-tech", "date": "2026-03-30", "zhTitle": "日本研發超強居家機器人", "zhSummary": "新型機器人可以幫忙做家事，甚至陪伴老人家。", "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=800", "zhContent": "<p>這款機器人配備了靈敏的感測器和柔軟的機械手臂，可以幫忙摺衣服、把杯子收好，甚至還能陪家裡的爺爺奶奶聊天解悶。</p>", "scaffold": ["日本發明了可以做家事和陪老人聊天的機器人。", "台灣未來也會有很多老爺爺老奶奶，我們也會需要機器的幫忙。", "今天主動幫家裡的人做一件簡單的家事。"], "enTitle": "Robot Helper", "enContent": {"basic": "A new robot can help clean.", "intermediate": "A new robot can fold clothes and keep old people company.", "advanced": "A sophisticated domestic robot assists with household chores."}, "vocabulary": [{"word":"robot","zh":"機器人"}], "sourceName":"NHK News", "sourceLink":"https://www3.nhk.or.jp/nhkworld/"},
+
+            { "id": "r-7", "type": "regional", "region": "東南亞", "category": "自然生態", "tagClass": "tag-nature", "date": "2026-03-30", "zhTitle": "印尼復育海邊紅樹林", "zhSummary": "居民合作種植紅樹林，阻擋海浪並保護小魚的家。", "imageUrl": "https://images.unsplash.com/photo-1544253392-50d4b1a4cb58?q=80&w=800", "zhContent": "<p>現在大家把紅樹林種回來，不只幫海岸線穿上了一件堅固的防護衣，還吸引了許多小魚、小蝦回來這裡居住，讓海洋生態變得更豐富。</p>", "scaffold": ["印尼人在海邊種樹來保護陸地不被海水沖走。", "大自然其實有自己保護環境的方法，不需要全部都用水泥。", "去海邊玩的時候，記得把自己的垃圾帶走。"], "enTitle": "Mangrove Trees", "enContent": {"basic": "People plant trees by the sea.", "intermediate": "People plant mangrove trees to protect the coast from big waves.", "advanced": "Communities are engaging in mangrove reforestation to prevent coastal erosion."}, "vocabulary": [{"word":"coast","zh":"海岸"}], "sourceName":"The Jakarta Post", "sourceLink":"https://www.thejakartapost.com/"},
+
+            { "id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "date": "2026-03-30", "zhTitle": "澳洲搶救白化大堡礁", "zhSummary": "科學家培育出不怕熱的超級珊瑚寶寶，種回海底。", "imageUrl": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?q=80&w=800", "zhContent": "<p>海洋生物學家在實驗室裡培育出比較不怕熱的「超級珊瑚」寶寶，然後由潛水員小心翼翼地把牠們種回海底，希望能找回大堡礁的色彩。</p>", "scaffold": ["科學家在海裡種下不怕熱的珊瑚，來拯救珊瑚礁。", "海水變熱是因為地球發燒了，這跟我們用太多的電有關。", "離開房間時隨手關燈，減少能源浪費。"], "enTitle": "Saving Coral Reefs", "enContent": {"basic": "Scientists grow new coral in the ocean.", "intermediate": "Scientists plant heat-resistant baby corals to save the reef.", "advanced": "Marine biologists cultivate heat-resilient coral to restore the ecosystem."}, "vocabulary": [{"word":"coral","zh":"珊瑚"}], "sourceName":"ABC News", "sourceLink":"https://www.abc.net.au/news/"}
         ];
 
-        async function initApp() {
-            let allNews = [];
-            try {
-                // 自動化上線後會抓取這個檔案，加上防快取參數確保抓到最新資料
-                const response = await fetch('news.json?v=' + new Date().getTime());
-                if (!response.ok) throw new Error('Local file not found');
-                allNews = await response.json();
-                
-                // 檢查是否為舊版資料 (舊版的 enContent 是字串而不是物件)
-                // 如果是舊版資料，這裡可以偷偷加上相容處理，但我們主要依賴 openModal 的判斷
-            } catch (error) {
-                console.log("找不到 news.json 或讀取失敗，載入 8 大洲完整備用資料。");
-                allNews = MOCK_DATA;
-            }
-            renderNews(allNews);
+        function initApp() {
+            renderNews(MOCK_DATA);
         }
 
         function renderNews(data) {
-            if(data.length === 0) return;
-            const todayStr = data[0].date;
-            
-            const featuredNews = data.filter(n => n.isFeatured);
-            const todayNews = data.filter(n => n.date === todayStr && !n.isFeatured);
-            const archiveNews = data.filter(n => n.date !== todayStr);
+            const thematicData = data.filter(n => n.type === 'thematic');
+            const regionalData = data.filter(n => n.type === 'regional');
 
-            // 每週精選
-            const featuredContainer = document.getElementById('featured-container');
-            featuredNews.forEach(news => {
+            // 渲染四大主題區塊
+            const thematicContainer = document.getElementById('thematic-container');
+            thematicContainer.innerHTML = '';
+            thematicData.forEach(news => {
                 const el = document.createElement('div');
-                el.className = 'featured-card';
-                // 加上 onerror 安全防護，避免圖片失效出現破圖
+                el.className = 'news-card';
                 el.innerHTML = `
-                    <img src="${news.imageUrl}" alt="img" class="card-image" onerror="this.src='${FALLBACK_IMAGE}'">
+                    <img src="${news.imageUrl}" alt="img" class="card-image">
                     <div class="card-content">
-                        <span class="badge-featured">🌟 每週精選</span>
                         <div class="tags-wrap">
-                            <span class="region-tag">${news.region || '全球'}</span>
                             <span class="category-tag ${news.tagClass}">${news.category}</span>
                         </div>
                         <h2>${news.zhTitle}</h2>
-                        <p class="summary" style="-webkit-line-clamp: 3;">${news.zhSummary}</p>
-                        <span class="card-date">發布日期: ${news.date}</span>
+                        <p class="summary">${news.zhSummary}</p>
                     </div>
                 `;
                 el.addEventListener('click', () => openModal(news));
-                featuredContainer.appendChild(el);
+                thematicContainer.appendChild(el);
             });
 
-            // 今日新聞
-            const todayContainer = document.getElementById('today-container');
-            todayNews.forEach(news => todayContainer.appendChild(createNormalCard(news)));
-
-            // 歷史新聞
+            // 渲染世界地圖的 8 個地標
+            const mapContainer = document.getElementById('map-container');
+            // 清除舊的地標 (保留 img)
+            mapContainer.querySelectorAll('.map-pin').forEach(pin => pin.remove());
+            
+            regionalData.forEach(news => {
+                const coords = regionCoords[news.region];
+                if(coords) {
+                    const pin = document.createElement('div');
+                    pin.className = 'map-pin';
+                    pin.style.top = coords.top;
+                    pin.style.left = coords.left;
+                    pin.innerHTML = `
+                        <div class="pin-icon"><i class="fa-solid fa-location-dot">📍</i></div>
+                        <div class="pin-label">${news.region}</div>
+                    `;
+                    pin.addEventListener('click', () => openModal(news));
+                    mapContainer.appendChild(pin);
+                }
+            });
+            
+            // 歷史庫部分先用區域新聞填滿展示
             const archiveContainer = document.getElementById('archive-container');
-            const groupedByDate = {};
-            archiveNews.forEach(n => {
-                if(!groupedByDate[n.date]) groupedByDate[n.date] = [];
-                groupedByDate[n.date].push(n);
-            });
-
-            Object.keys(groupedByDate).sort((a,b) => b.localeCompare(a)).forEach(date => {
-                const dateHeader = document.createElement('div');
-                dateHeader.className = 'date-header';
-                dateHeader.textContent = `📅 ${date}`;
-                archiveContainer.appendChild(dateHeader);
-
-                const grid = document.createElement('div');
-                grid.className = 'grid-container';
-                groupedByDate[date].forEach(news => grid.appendChild(createNormalCard(news)));
-                archiveContainer.appendChild(grid);
-            });
+            archiveContainer.innerHTML = '<div class="grid-container" id="archive-grid"></div>';
+            regionalData.forEach(news => document.getElementById('archive-grid').appendChild(createNormalCard(news)));
         }
 
         function createNormalCard(news) {
             const el = document.createElement('div');
             el.className = 'news-card';
-            // 同樣加上 onerror
             el.innerHTML = `
-                <img src="${news.imageUrl}" alt="img" class="card-image" onerror="this.src='${FALLBACK_IMAGE}'">
+                <img src="${news.imageUrl}" alt="img" class="card-image">
                 <div class="card-content">
                     <div class="tags-wrap">
-                        <span class="region-tag">${news.region || '全球'}</span>
+                        <span class="region-tag">${news.region}</span>
                         <span class="category-tag ${news.tagClass}">${news.category}</span>
                     </div>
                     <h2>${news.zhTitle}</h2>
                     <p class="summary">${news.zhSummary}</p>
-                    <span class="card-date">${news.date}</span>
                 </div>
             `;
             el.addEventListener('click', () => openModal(news));
@@ -406,58 +359,39 @@
             document.getElementById(`${tabId}-section`).classList.add('active');
         }
 
-        // 處理彈出視窗
+        // 彈出視窗
         const modal = document.getElementById('news-modal');
         function openModal(news) {
             currentModalNews = news; 
             
-            const modalImg = document.getElementById('modal-img');
-            modalImg.src = news.imageUrl;
-            modalImg.onerror = function() { this.src = FALLBACK_IMAGE; };
-
-            document.getElementById('modal-region').textContent = news.region || '全球';
+            document.getElementById('modal-img').src = news.imageUrl;
+            document.getElementById('modal-region').textContent = news.region;
             document.getElementById('modal-tag').className = `category-tag ${news.tagClass}`;
             document.getElementById('modal-tag').textContent = news.category;
-            document.getElementById('modal-date').textContent = "📅 發布日期：" + news.date;
             
             document.getElementById('modal-zh-title').textContent = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
+            
+            // 填入鷹架內容
+            if(news.scaffold && news.scaffold.length === 3) {
+                document.getElementById('scaffold-1').textContent = news.scaffold[0];
+                document.getElementById('scaffold-2').textContent = news.scaffold[1];
+                document.getElementById('scaffold-3').textContent = news.scaffold[2];
+            }
+
             document.getElementById('modal-en-title').textContent = news.enTitle;
             
             const sourceBtn = document.getElementById('modal-source-link');
             document.getElementById('modal-source-name').textContent = news.sourceName;
             sourceBtn.href = news.sourceLink;
 
-            // 相容處理：舊版與新版英文資料的差異
-            const levelBox = document.getElementById('level-selector-box');
-            const enContentEl = document.getElementById('modal-en-content');
-            
-            if (news.enContent) {
-                if (typeof news.enContent === 'string') {
-                    // 如果讀到的是舊版大腦的字串資料
-                    levelBox.style.display = 'none';
-                    enContentEl.textContent = news.enContent;
-                } else {
-                    // 如果是新版大腦的物件資料
-                    levelBox.style.display = 'flex';
-                    setEnglishLevel('basic'); // 預設切換到基礎
-                }
-            } else {
-                enContentEl.textContent = "暫無英文內容";
-                levelBox.style.display = 'none';
-            }
+            setEnglishLevel('basic');
 
-            // 處理單字卡
             const vocabContainer = document.getElementById('modal-vocab');
             vocabContainer.innerHTML = '';
-            if (news.vocabulary && news.vocabulary.length > 0) {
+            if (news.vocabulary) {
                 news.vocabulary.forEach(v => {
-                    vocabContainer.innerHTML += `
-                        <div class="vocab-card">
-                            <span class="vocab-en">${v.word}</span>
-                            <span class="vocab-zh">${v.zh}</span>
-                        </div>
-                    `;
+                    vocabContainer.innerHTML += `<div class="vocab-card"><span class="vocab-en">${v.word}</span><span class="vocab-zh">${v.zh}</span></div>`;
                 });
             }
 
@@ -465,31 +399,18 @@
             document.body.style.overflow = 'hidden';
         }
 
-        // 切換英文難度
         function setEnglishLevel(level) {
-            if (!currentModalNews || typeof currentModalNews.enContent === 'string') return;
-            
+            if (!currentModalNews || !currentModalNews.enContent) return;
             document.querySelectorAll('.level-btn').forEach(btn => btn.classList.remove('active'));
             const buttons = document.querySelectorAll('.level-btn');
             if(level === 'basic') buttons[0].classList.add('active');
             if(level === 'intermediate') buttons[1].classList.add('active');
             if(level === 'advanced') buttons[2].classList.add('active');
-
-            const content = currentModalNews.enContent[level];
-            document.getElementById('modal-en-content').textContent = content || "無資料";
+            document.getElementById('modal-en-content').textContent = currentModalNews.enContent[level];
         }
 
-        document.getElementById('close-modal').addEventListener('click', () => {
-            modal.classList.remove('active');
-            document.body.style.overflow = 'auto';
-        });
-
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) {
-                modal.classList.remove('active');
-                document.body.style.overflow = 'auto';
-            }
-        });
+        document.getElementById('close-modal').addEventListener('click', () => { modal.classList.remove('active'); document.body.style.overflow = 'auto'; });
+        modal.addEventListener('click', (e) => { if (e.target === modal) { modal.classList.remove('active'); document.body.style.overflow = 'auto'; } });
 
         initApp();
     </script>
