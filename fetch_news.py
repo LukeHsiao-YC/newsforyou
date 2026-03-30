@@ -153,8 +153,8 @@ def update_daily_news():
             final_news_list.append(article)
             print("AI 撰寫完成！")
             
-        # 休息 5 秒鐘，避免被 Google API 判斷為惡意攻擊而阻擋 (429 Error)
-        time.sleep(5)
+        # 加長休息時間到 15 秒，確保絕對不會超過 Google 免費額度的次數限制 (避免 429 Error)
+        time.sleep(15)
         
     if not final_news_list:
         print("今天沒有產出任何資料，提早結束程式。")
