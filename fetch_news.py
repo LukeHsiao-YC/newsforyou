@@ -186,38 +186,6 @@ def generate_article_with_ai(channel_info, real_news, today_date):
             print(f"[{get_now()}] 撰寫失敗: {e}"); time.sleep(15)
     return None
 
-def test_rss_search():
-    """只抓取 RSS 不呼叫 AI 的測試模式"""
-    print(f"[{get_now()}] >>> 啟動外媒 RSS 抓取測試模式（不呼叫 AI） <<<")
-    success_count = 0
-    used_media = set()
-    has_taiwan_media = False
-    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
-    
-    for idx, channel in enumerate(CHANNELS):
-        print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
-        
-        # 只要還沒抓到台灣媒體，就強迫去抓
-        require_taiwan = not has_taiwan_media
-        
-        real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan)
-        if real_news:
-            success_count += 1
-            used_media.add(real_news['source'])
-            
-            # 檢查是否成功抓到台灣媒體
-            if any(tw_m in real_news['source'] for tw_m in taiwan_media_names):
-                has_taiwan_media = True
-                
-            print(f"  ✅ 成功找到新聞：{real_news['title']}")
-            print(f"  來源：{real_news['source']}")
-            print(f"  連結：{real_news['link']}")
-        else:
-            print(f"  ❌ 找不到符合條件的新聞。")
-        time.sleep(2) 
-    
-    print(f"\n[{get_now()}] 測試結束。共設定 {len(CHANNELS)} 個頻道，成功找到 {success_count} 篇新聞。")
-
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     final_news_list = []
@@ -225,7 +193,7 @@ def update_daily_news():
     
     used_media = set()
     has_taiwan_media = False
-    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
+    taiwan_media_names = ["報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "中央社", "公視", "Taipei Times"]
     
     print(f"[{get_now()}] >>> 自動報社開始上班 <<<")
     for idx, channel in enumerate(CHANNELS):
@@ -287,7 +255,4 @@ def update_daily_news():
     print(f"[{get_now()}] 存檔成功！今日新增 {len(final_news_list)} 篇報導。")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == 'test':
-        test_rss_search()
-    else:
-        update_daily_news()
+    update_daily_news()
