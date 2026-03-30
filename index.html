@@ -12,7 +12,8 @@
 
         header { background-color: #fff; padding: 30px 20px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
         header h1 { font-size: 36px; font-weight: 900; color: #2c3e50; margin-bottom: 10px; }
-        header p { color: #7f8c8d; font-size: 18px; }
+        header p.subtitle { color: #7f8c8d; font-size: 18px; }
+        header p.credit { color: #95a5a6; font-size: 14px; margin-top: 8px; font-weight: 700; }
 
         /* 頁籤導覽 */
         .tabs-container { display: flex; justify-content: center; gap: 15px; margin-top: 25px; }
@@ -108,7 +109,8 @@
 
     <header>
         <h1>🌍 地球日報：每日大探險</h1>
-        <p>跟著地圖看世界，每天認識一件新鮮事！</p>
+        <p class="subtitle">跟著地圖看世界，每天認識一件新鮮事！</p>
+        <p class="credit">蕭宇超製作 ｜ 新聞內容由 AI 整理撰文</p>
         <div class="tabs-container">
             <button class="tab-btn active" onclick="switchTab('latest')">今日地圖探險</button>
             <button class="tab-btn" onclick="switchTab('archive')">時光機歷史庫</button>
