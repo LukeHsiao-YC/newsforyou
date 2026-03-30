@@ -5,17 +5,18 @@ import datetime
 import requests
 import re
 import urllib.parse
+import random
 import time
 import xml.etree.ElementTree as ET
 
-# 強制 Python 立刻印出文字，解決 GitHub Actions 畫面憋著不跳動的問題
+# 強制 Python 立刻印出文字，讓 GitHub Actions 即時顯示進度
 sys.stdout.reconfigure(line_buffering=True)
 
 # 設定 Gemini API
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 
-# 定義 13 個新聞頻道 (包含趣味溫馨)
+# 定義 13 個新聞頻道
 CHANNELS = [
     {"id": "t-1", "type": "thematic", "category": "政治經濟", "tagClass": "tag-polecon", "region": "全球", "query": "國際 政治 經濟"},
     {"id": "t-2", "type": "thematic", "category": "自然生態", "tagClass": "tag-nature", "region": "全球", "query": "國際 自然 環境 生態"},
@@ -36,61 +37,67 @@ def get_now():
     return datetime.datetime.now().strftime('%H:%M:%S')
 
 def fetch_real_news_from_rss(query):
-    # 強制將信賴媒體加入搜尋條件
-    media_query = " (中央社 OR 公視 OR 報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
-    encoded_query = urllib.parse.quote(f"{query}{media_query} when:7d")
-    rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-    print(f"[{get_now()}] 準備抓取 RSS: {query}")
-    try:
-        response = requests.get(rss_url, timeout=10)
-        xml_content = response.content.decode('utf-8', errors='ignore')
-        xml_content = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', xml_content)
-        root = ET.fromstring(xml_content)
-        items = root.findall('.//channel/item')
+    # 限制優先搜尋這些關鍵字，加入「少年報導者」提高青少年合適度
+    media_query = " (中央社 OR 公視 OR 報導者 OR 少年報導者 OR 天下雜誌 OR 轉角國際 OR 敏迪 OR BBC OR 路透 OR 德國之聲 OR NHK)"
+    
+    # 定義優質媒體白名單與過濾黑名單
+    preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "澳洲廣播公司 (ABC)", "Radio New Zealand", "報導者", "少年報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
+    blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易"]
+    
+    # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
+    time_windows = ['2d', '5d', '14d']
+    
+    for window in time_windows:
+        encoded_query = urllib.parse.quote(f"{query}{media_query} when:{window}")
+        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+        print(f"[{get_now()}] 正在搜尋 RSS (時間範圍: 最近 {window}) -> {query}")
         
-        preferred_media = ["BBC", "路透", "美聯社", "德國之聲", "半島", "CNBC", "NHK", "經濟學人", "日經", "NPR", "Taipei Times", "報導者", "中央社", "公視", "轉角國際", "敏迪", "天下雜誌"]
-        blocked_media = ["大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易"]
-        
-        selected_item = None
-        
-        for item in items:
-            source_elem = item.find('source')
-            source_name = source_elem.text if source_elem is not None else ""
-            if any(blocked in source_name for blocked in blocked_media):
-                continue
-            if any(pref in source_name for pref in preferred_media):
-                selected_item = item
-                break
-                
-        if not selected_item:
+        try:
+            response = requests.get(rss_url, timeout=10)
+            xml_content = response.content.decode('utf-8', errors='ignore')
+            xml_content = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', xml_content)
+            root = ET.fromstring(xml_content)
+            items = root.findall('.//channel/item')
+            
             for item in items:
                 source_elem = item.find('source')
                 source_name = source_elem.text if source_elem is not None else ""
-                if not any(blocked in source_name for blocked in blocked_media):
-                    selected_item = item
-                    break
-
-        if selected_item is not None:
-            title = selected_item.find('title').text
-            link = selected_item.find('link').text
-            source = selected_item.find('source').text if selected_item.find('source') is not None else "國際媒體"
-            print(f"[{get_now()}] 成功鎖定真實新聞: {title} ({source})")
-            return {"title": title, "link": link, "source": source}
+                
+                # 碰到黑名單直接跳過
+                if any(blocked in source_name for blocked in blocked_media):
+                    continue
+                
+                # 碰到白名單立刻鎖定回傳
+                if any(pref in source_name for pref in preferred_media):
+                    title = item.find('title').text
+                    link = item.find('link').text
+                    print(f"[{get_now()}] 成功鎖定優質新聞: {title} ({source_name})")
+                    return {"title": title, "link": link, "source": source_name}
+                    
+        except Exception as e:
+            print(f"[{get_now()}] 抓取 RSS 發生錯誤: {e}")
             
-    except Exception as e:
-        print(f"[{get_now()}] 抓取 RSS 失敗: {e}")
+    print(f"[{get_now()}] 擴大搜尋範圍至 14 天後，仍找不到白名單媒體的新聞。")
     return None
 
 def generate_article_with_ai(channel_info, real_news, today_date):
     prompt = f"""
     你現在是一位青少年雜誌的真人專欄作家。
-    請根據這則新聞：{real_news['title']}，撰寫一篇字數充實且具有教育意義的報導。
+    請根據這則新聞：{real_news['title']}，撰寫一篇適合 10-15 歲青少年的報導。
     
+    【核心教育目標】
+    寫作與設計提問時，請務必緊扣以下四大標準：
+    1. 理解世界：用生活化的比喻，清晰解釋這件國際大事為何發生、有何重要性。
+    2. 想像未來：這件事會如何影響未來的科技、環境、社會或人類生活？
+    3. 獨立思考：不要只給單一標準答案，鼓勵孩子從不同角度看事情，培養批判性思維。
+    4. 媒體識讀：適時引導孩子思考訊息的來源，學習分辨事實與觀點。
+    5. 連結日常：是把遙遠的國際大事，用比喻的方式連回他們熟悉的校園或家庭生活，這樣他們會更有共鳴
+
     【寫作風格與語氣】
     1. 真實忠誠：請盡量忠實呈現原文的新聞事件，不做過度誇飾，僅在語氣上進行改寫。
-    2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的真人專欄作家在對 10-15 歲的孩子說話，讓他們感覺像在閱讀優質雜誌。
+    2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在對孩子說話，讓他們感覺像在閱讀優質雜誌。
     3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語（例如：高大上、yyds、絕絕子 等）。
-    4. 封殺 AI 詞彙：絕對禁止使用 AI 慣用語，包含但不限於：「深入探討」、「值得注意的是」、「賦能」、「一站式」、「全方位」。
+    4. 封殺 AI 詞彙：絕對禁止使用機器感重詞彙，包含但不限於：深入探討、值得注意的是、賦能、一站式、全方位。
     5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用 Em dash 以及濫用 Emoji。
     6. 最後檢查：請自己問自己：「一個真實的人類作家會這樣寫嗎？」
 
@@ -105,8 +112,8 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     {{
       "zhTitle": "吸引人的大標題",
       "zhSummary": "簡單摘要這則新聞的重點",
-      "zhContent": "<p>第一段描述背景...</p><p>第二段深入解釋原理...</p><p>第三段對生活的影響...</p><p>第四段引導思考...</p>",
-      "scaffold": ["觀察提示：這則新聞中...？", "生活提示：如果在台灣...？", "提案提示：我們可以用什麼小動作...？"],
+      "zhContent": "<p>第一段描述背景與事件...</p><p>第二段深入解釋原理或影響...</p><p>第三段對未來或台灣的連結...</p><p>第四段引導獨立思考...</p>",
+      "scaffold": ["觀察與識讀：這則新聞中...？", "生活與未來：如果在台灣...未來會...？", "獨立思考提案：你覺得我們可以用什麼角度...？"],
       "enTitle": "English Title of the Story",
       "enContent": {{ "basic": "...", "intermediate": "...", "advanced": "..." }},
       "vocabulary": [ 
@@ -159,7 +166,7 @@ def update_daily_news():
         else:
             consecutive_fails += 1
             if consecutive_fails >= 2:
-                print(f"[{get_now()}] 🚨 連續兩篇失敗，可能額度用光，緊急煞車！")
+                print(f"[{get_now()}] 連續兩篇失敗，可能額度用光，緊急煞車！")
                 break
         print(f"[{get_now()}] 強制休息 25 秒維護 API 穩定...")
         time.sleep(25)
