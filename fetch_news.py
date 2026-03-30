@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import datetime
 import requests
@@ -7,6 +8,9 @@ import urllib.parse
 import random
 import time
 import xml.etree.ElementTree as ET
+
+# 強制 Python 立刻印出文字，解決 GitHub Actions 畫面沒有即時更新的問題
+sys.stdout.reconfigure(line_buffering=True)
 
 # 設定 Gemini API
 API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -28,11 +32,14 @@ CHANNELS = [
     {"id": "r-8", "type": "regional", "region": "大洋洲", "category": "自然生態", "tagClass": "tag-nature", "query": "澳洲 紐西蘭 大洋洲 新聞"}
 ]
 
-# 步驟一：先從 Google News 抓取真實的新聞標題與網址，並加入亂碼過濾器
+def get_now():
+    return datetime.datetime.now().strftime('%H:%M:%S')
+
+# 步驟一：先從 Google News 抓取真實的新聞標題與網址
 def fetch_real_news_from_rss(query):
     encoded_query = urllib.parse.quote(f"{query} when:7d")
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
-    
+    print(f"[{get_now()}] 準備抓取 RSS: {query}")
     try:
         response = requests.get(rss_url, timeout=10)
         # 過濾掉 XML 不允許的奇怪控制字元，避免解析崩潰
@@ -45,13 +52,14 @@ def fetch_real_news_from_rss(query):
             title = item.find('title').text
             link = item.find('link').text
             source = item.find('source').text if item.find('source') is not None else "國際媒體"
+            print(f"[{get_now()}] 成功找到真實新聞: {title}")
             return {"title": title, "link": link, "source": source}
     except Exception as e:
-        print(f"抓取 RSS 失敗 ({query}): {e}")
+        print(f"[{get_now()}] 抓取 RSS 失敗 ({query}): {e}")
     
     return None
 
-# 步驟二：請 AI 根據真實標題寫作 (加入 429 重試機制)
+# 步驟二：請 AI 根據真實標題寫作
 def generate_article_with_ai(channel_info, real_news, today_date):
     prompt = f"""
     你現在是一位充滿熱情、語氣溫暖的青少年新聞編輯。
@@ -102,16 +110,17 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            # timeout 設長一點，讓 AI 有時間寫 500 字
-            response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+            print(f"[{get_now()}] 正在向 Gemini API 發送請求 (嘗試 {attempt+1}/{max_retries})...")
+            # timeout 設為 45 秒，避免無限期卡死
+            response = requests.post(API_URL, headers=headers, json=payload, timeout=45)
             
-            # 如果遇到 429 限制，馬上進來這裡處理
             if response.status_code == 429:
-                print(f"被 Google 擋下來了 (429 Error)，休息 60 秒後進行第 {attempt+1} 次重試...")
-                time.sleep(60)
+                print(f"[{get_now()}] 被 Google 擋下來了 (429 Error)，休息 30 秒後重試...")
+                time.sleep(30)
                 continue
                 
             response.raise_for_status()
+            print(f"[{get_now()}] API 回應成功！正在解析內容...")
             result = response.json()
             
             text_content = result['candidates'][0]['content']['parts'][0]['text']
@@ -138,55 +147,55 @@ def generate_article_with_ai(channel_info, real_news, today_date):
             
         except requests.exceptions.RequestException as e:
             if "429" in str(e):
-                print(f"遇到 429 錯誤，休息 60 秒後進行第 {attempt+1} 次重試...")
-                time.sleep(60)
+                print(f"[{get_now()}] 遇到 429 錯誤，休息 30 秒後重試...")
+                time.sleep(30)
                 continue
             else:
-                print(f"API 請求失敗 ({channel_info['query']}): {e}")
+                print(f"[{get_now()}] API 網路請求失敗: {e}")
                 return None
         except Exception as e:
-            print(f"AI 生成發生非預期錯誤 ({channel_info['query']}): {e}")
+            print(f"[{get_now()}] AI 生成發生非預期錯誤: {e}")
             return None
             
-    print(f"重試 {max_retries} 次後仍然失敗，放棄此篇新聞。")
+    print(f"[{get_now()}] 重試 {max_retries} 次後仍然失敗，放棄此篇新聞。")
     return None
 
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     final_news_list = []
-    consecutive_fails = 0  # 新增：連續失敗次數計數器
+    consecutive_fails = 0  
     
-    print(f"開始執行 {today_str} 的新聞抓取任務...")
+    print(f"[{get_now()}] ==========================================")
+    print(f"[{get_now()}] 開始執行 {today_str} 的地球日報抓取任務")
+    print(f"[{get_now()}] ==========================================")
     
-    for channel in CHANNELS:
-        print(f"正在處理: {channel['region']} - {channel['category']}")
+    for idx, channel in enumerate(CHANNELS):
+        print(f"\n[{get_now()}] ---> 開始處理第 {idx+1}/12 篇: [{channel['region']}] {channel['category']}")
         
         real_news = fetch_real_news_from_rss(channel["query"])
         if not real_news:
-            print("找不到適合的 RSS 新聞，跳過此頻道。")
+            print(f"[{get_now()}] 找不到適合的 RSS 新聞，跳過此頻道。")
             continue
             
-        print(f"找到真實新聞: {real_news['title']}")
-        
         article = generate_article_with_ai(channel, real_news, today_str)
         if article:
             final_news_list.append(article)
-            consecutive_fails = 0  # 成功產出就把失敗次數歸零
-            print("AI 撰寫完成！")
+            consecutive_fails = 0  
+            print(f"[{get_now()}] 此篇 AI 撰寫完成！目前已累積 {len(final_news_list)} 篇成功文章。")
         else:
             consecutive_fails += 1
-            print(f"此篇生成失敗。目前累積連續失敗次數: {consecutive_fails}")
+            print(f"[{get_now()}] 此篇生成失敗。目前累積連續失敗次數: {consecutive_fails}")
             
-            # 如果連續兩篇都失敗，判斷為 API 額度已經耗盡
             if consecutive_fails >= 2:
-                print("連續失敗兩次，判斷 API 每日額度可能已耗盡，啟動緊急煞車，提早結束任務！")
+                print(f"[{get_now()}] 🚨 連續失敗兩次，判斷 API 每日額度可能已耗盡，啟動緊急煞車，提早結束任務！")
                 break
             
-        # 稍微縮短平時的基準休息時間到 20 秒，讓整個流程順暢一點
+        print(f"[{get_now()}] 為了避免 API 限制，強制休息 20 秒...")
         time.sleep(20)
         
+    print(f"\n[{get_now()}] ==========================================")
     if not final_news_list:
-        print("今天完全沒有產出任何資料，結束程式。")
+        print(f"[{get_now()}] 今天完全沒有產出任何資料，結束程式。")
         return
         
     for news in final_news_list:
@@ -202,7 +211,9 @@ def update_daily_news():
         with open('news.json', 'r', encoding='utf-8') as f:
             try:
                 existing_news = json.load(f)
+                print(f"[{get_now()}] 成功讀取現有的 news.json，共 {len(existing_news)} 筆舊資料。")
             except json.JSONDecodeError:
+                print(f"[{get_now()}] 現有的 news.json 格式錯誤，將重新建立。")
                 pass
 
     all_news = final_news_list + existing_news
@@ -228,7 +239,8 @@ def update_daily_news():
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(filtered_news, f, ensure_ascii=False, indent=2)
         
-    print(f"成功更新資料庫！今日新增 {len(final_news_list)} 篇，共保留 {len(filtered_news)} 筆新聞。")
+    print(f"[{get_now()}] 成功寫入資料庫！今日新增 {len(final_news_list)} 篇，共保留 {len(filtered_news)} 筆新聞。")
+    print(f"[{get_now()}] 任務圓滿結束！")
 
 if __name__ == "__main__":
     update_daily_news()
