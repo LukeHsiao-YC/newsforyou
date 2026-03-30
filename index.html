@@ -33,7 +33,7 @@
         /* 卡片設計 */
         .news-card { background: #fff; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: column; }
         .news-card:hover { transform: translateY(-8px); box-shadow: 0 15px 35px rgba(0,0,0,0.1); }
-        .card-image { width: 100%; height: 180px; object-fit: cover; background-color: #eee; }
+        .card-image { width: 100%; height: 180px; object-fit: cover; background-color: #ddd; display: block; }
         .card-content { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
         
         .category-tag { padding: 4px 10px; border-radius: 10px; color: #fff; font-size: 13px; font-weight: 700; align-self: flex-start; margin-bottom: 12px; }
@@ -52,7 +52,7 @@
         .modal-overlay.active .modal-content { transform: translateY(0); }
         .close-btn { position: absolute; top: 20px; right: 20px; background: #fff; border: none; width: 45px; height: 45px; border-radius: 50%; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.1); z-index: 10; }
         
-        .modal-header-img { width: 100%; height: 380px; object-fit: cover; }
+        .modal-header-img { width: 100%; height: 380px; object-fit: cover; background-color: #ddd; }
         .modal-body { padding: 40px; }
         .modal-zh-title { font-size: 32px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; line-height: 1.3; }
         .modal-zh-content p { font-size: 19px; color: #444; margin-bottom: 20px; line-height: 1.8; text-align: justify; }
@@ -79,8 +79,8 @@
         .modal-en-content { font-family: 'Nunito', sans-serif; font-size: 20px; color: #34495e; line-height: 1.7; }
 
         .vocab-section { display: flex; gap: 15px; flex-wrap: wrap; margin-top: 25px; }
-        .vocab-card { background: #fff; border: 2px solid #e2e8f0; padding: 12px 18px; border-radius: 15px; }
-        .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 800; color: #2c3e50; font-size: 19px; display: block; }
+        .vocab-card { background: #fff; border: 2px solid #e2e8f0; padding: 12px 18px; border-radius: 15px; min-width: 150px; }
+        .vocab-en { font-family: 'Nunito', sans-serif; font-weight: 800; color: #2c3e50; font-size: 19px; display: block; border-bottom: 2px solid #f1c40f; margin-bottom: 5px; padding-bottom: 2px; }
         .vocab-zh { font-size: 15px; color: #7f8c8d; font-weight: 700; margin-top: 4px; }
 
         .source-link-btn { display: inline-flex; align-items: center; gap: 8px; background-color: #f1f2f6; color: #2f3542; padding: 14px 24px; border-radius: 15px; text-decoration: none; font-size: 16px; font-weight: 700; margin-top: 10px; }
@@ -103,8 +103,7 @@
     <div class="content-section">
         <h2 class="section-title">🗞️ 焦點四大面向</h2>
         <div class="grid-container" id="thematic-container">
-            <!-- 載入中動畫或文字 -->
-            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6;">正在派特派記者收集資料中...</p>
+            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6;">正在派特派記者從世界各地趕回資料中...</p>
         </div>
 
         <h2 class="section-title" style="border-left-color: #3498db; margin-top: 40px;">🗺️ 環球視野地圖</h2>
@@ -120,7 +119,7 @@
     <div class="modal-overlay" id="news-modal">
         <div class="modal-content">
             <button class="close-btn" id="close-modal">✖</button>
-            <img src="" alt="News" class="modal-header-img" id="modal-img">
+            <img src="" alt="News" class="modal-header-img" id="modal-img" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800'">
             <div class="modal-body">
                 <div class="modal-zh-title" id="modal-zh-title"></div>
                 <div class="modal-zh-content" id="modal-zh-content"></div>
@@ -169,6 +168,7 @@
     <script>
         let newsData = [];
         let currentNews = null;
+        const FALLBACK_IMG = 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800';
 
         const regionCoords = {
             "北美洲": { top: "28%", left: "18%" },
@@ -183,18 +183,17 @@
 
         async function init() {
             try {
-                // 強制加上時間戳記，破除瀏覽器讀取舊資料的快取
+                // 強制加上時間戳記破除快取
                 const response = await fetch('news.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error();
                 newsData = await response.json();
                 render();
             } catch (e) {
-                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>目前還沒有新聞資料，請確認大腦程式是否已跑完並上傳 news.json 喔！</p>";
+                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>目前還沒有最新資料，請確認 GitHub Actions 是否已跑完。如果是第一次跑，請稍微等待 1 分鐘。</p>";
             }
         }
 
         function render() {
-            // 四大面向
             const thematic = newsData.filter(n => n.type === 'thematic');
             const container = document.getElementById('thematic-container');
             container.innerHTML = '';
@@ -202,7 +201,7 @@
                 const card = document.createElement('div');
                 card.className = 'news-card';
                 card.innerHTML = `
-                    <img src="${n.imageUrl}" class="card-image">
+                    <img src="${n.imageUrl}" class="card-image" onerror="this.src='${FALLBACK_IMG}'">
                     <div class="card-content">
                         <span class="category-tag ${n.tagClass}">${n.category}</span>
                         <h2>${n.zhTitle}</h2>
@@ -213,7 +212,6 @@
                 container.appendChild(card);
             });
 
-            // 地圖定位點
             const regional = newsData.filter(n => n.type === 'regional');
             const mapContainer = document.getElementById('map-container');
             regional.forEach(n => {
@@ -236,30 +234,36 @@
         function open(news) {
             currentNews = news;
             const modal = document.getElementById('news-modal');
-            document.getElementById('modal-img').src = news.imageUrl;
+            const mImg = document.getElementById('modal-img');
+            mImg.src = news.imageUrl;
+            
             document.getElementById('modal-zh-title').innerText = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
             document.getElementById('modal-en-title').innerText = news.enTitle;
             document.getElementById('modal-source-name').innerText = news.sourceName;
             document.getElementById('modal-source-link').href = news.sourceLink;
 
-            // 初始化引導提示
             const hints = document.querySelectorAll('.scaffold-hint');
             const hintBtns = document.querySelectorAll('.hint-btn');
             hints.forEach((h, i) => {
-                h.innerText = news.scaffold[i];
+                h.innerText = news.scaffold[i] || "請點擊下方按鈕獲取提示。";
                 h.style.display = 'none';
                 hintBtns[i].innerText = "💡 點我看引導提示";
             });
 
             setEng('basic');
 
-            // 單字
             const vocab = document.getElementById('modal-vocab');
             vocab.innerHTML = '';
-            news.vocabulary.forEach(v => {
-                vocab.innerHTML += `<div class="vocab-card"><span class="vocab-en">${v.word}</span><span class="vocab-zh">${v.zh}</span></div>`;
-            });
+            if(news.vocabulary) {
+                news.vocabulary.forEach(v => {
+                    vocab.innerHTML += `
+                        <div class="vocab-card">
+                            <span class="vocab-en">${v.word}</span>
+                            <span class="vocab-zh">${v.zh}</span>
+                        </div>`;
+                });
+            }
 
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
@@ -283,7 +287,7 @@
             document.querySelectorAll('.level-btn')[btnIdx].classList.add('active');
             
             const content = currentNews.enContent;
-            document.getElementById('modal-en-content').innerText = typeof content === 'string' ? content : content[lv];
+            document.getElementById('modal-en-content').innerText = (typeof content === 'string' || !content) ? (content || "暫無內容") : (content[lv] || "暫無此級別內容");
         }
 
         document.getElementById('close-modal').onclick = () => {
