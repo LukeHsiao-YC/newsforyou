@@ -27,7 +27,11 @@
         .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-bottom: 60px; }
         .news-card { background: #fff; border-radius: 24px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: column; height: 100%; border: 1px solid #eee; }
         .news-card:hover { transform: translateY(-8px); box-shadow: 0 15px 35px rgba(0,0,0,0.1); }
-        .card-image { width: 100%; height: 200px; object-fit: cover; background-color: #dfe6e9; display: block; }
+        
+        .card-image-wrap { width: 100%; height: 200px; background: linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%); overflow: hidden; position: relative; }
+        .card-image { width: 100%; height: 100%; object-fit: cover; transition: opacity 0.5s ease; opacity: 0; }
+        .card-image.loaded { opacity: 1; }
+
         .card-content { padding: 25px; flex-grow: 1; display: flex; flex-direction: column; }
         
         .tag-wrap { display: flex; gap: 8px; margin-bottom: 12px; }
@@ -62,12 +66,12 @@
         .modal-overlay.active .modal-content { transform: translateY(0); }
         .close-btn { position: absolute; top: 20px; right: 20px; background: rgba(255,255,255,0.9); border: none; width: 45px; height: 45px; border-radius: 50%; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.1); z-index: 10; display: flex; align-items: center; justify-content: center; }
         
-        .modal-header-img { width: 100%; height: 400px; object-fit: cover; background-color: #eee; }
+        .modal-header-img-wrap { width: 100%; height: 400px; background-color: #eee; overflow: hidden; }
+        .modal-header-img { width: 100%; height: 100%; object-fit: cover; }
         .modal-body { padding: 45px; }
         .modal-zh-title { font-size: 32px; font-weight: 900; color: #2c3e50; margin-bottom: 25px; line-height: 1.3; }
         .modal-zh-content p { font-size: 19px; color: #444; margin-bottom: 22px; line-height: 1.8; text-align: justify; }
 
-        /* 思考小站 */
         .scaffold-section { background-color: #fff9e6; border: 2px solid #ffeaa7; border-radius: 24px; padding: 30px; margin: 40px 0; }
         .scaffold-title { font-size: 24px; font-weight: 900; color: #d35400; margin-bottom: 25px; display: flex; align-items: center; gap: 12px;}
         .scaffold-step { margin-bottom: 25px; }
@@ -77,7 +81,6 @@
         .hint-btn { background: #fff; border: 2px solid #e67e22; color: #e67e22; padding: 8px 20px; border-radius: 25px; font-size: 15px; font-weight: 800; cursor: pointer; transition: all 0.2s; margin-top: 8px; }
         .scaffold-hint { display: none; margin-top: 15px; background: #fff; padding: 20px; border-radius: 18px; font-size: 17px; color: #555; line-height: 1.7; border-left: 6px solid #f1c40f; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
 
-        /* 英文與單字 */
         .english-section { background-color: #f0f4f8; padding: 35px; border-radius: 28px; border-left: 8px solid #4a90e2; margin-bottom: 35px;}
         .eng-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 15px;}
         .english-section h3 { font-family: 'Nunito', sans-serif; font-size: 26px; color: #2980b9; font-weight: 800; }
@@ -97,7 +100,7 @@
             .pin-label { display: none; }
             .modal-body { padding: 30px; }
             .modal-zh-title { font-size: 26px; }
-            .modal-header-img { height: 250px; }
+            .modal-header-img-wrap { height: 250px; }
         }
     </style>
 </head>
@@ -112,33 +115,32 @@
         </div>
     </header>
 
-    <!-- 區塊：今日內容 -->
     <div id="latest-section" class="content-section active">
         <h2 class="section-title">🗞️ 焦點四大面向</h2>
         <div class="grid-container" id="thematic-container">
-            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6; padding: 40px;">正在呼叫全球記者趕往現場中...</p>
+            <p style="grid-column: 1/-1; text-align: center; color: #95a5a6; padding: 40px;">全球採訪中...</p>
         </div>
 
         <h2 class="section-title" style="border-left-color: #3498db; margin-top: 40px;">🗺️ 環球視野地圖</h2>
         <div class="map-wrapper">
-            <p style="color: #7f8c8d; margin-bottom: 30px; font-weight: 700;">點擊地圖上的📍定位點，看看那邊發生了什麼事！</p>
+            <p style="color: #7f8c8d; margin-bottom: 30px; font-weight: 700;">點擊地圖上的📍定位點看新聞！</p>
             <div class="map-container" id="map-container">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg" class="map-svg" alt="World Map">
             </div>
         </div>
     </div>
 
-    <!-- 區塊：歷史紀錄 -->
     <div id="archive-section" class="content-section">
         <h2 class="section-title" style="border-left-color: #9b59b6;">📚 看看過去發生了什麼？</h2>
         <div id="archive-container"></div>
     </div>
 
-    <!-- 彈出視窗 -->
     <div class="modal-overlay" id="news-modal">
         <div class="modal-content">
             <button class="close-btn" id="close-modal">✖</button>
-            <img src="" alt="News" class="modal-header-img" id="modal-img" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800'">
+            <div class="modal-header-img-wrap">
+                <img src="" alt="News" class="modal-header-img" id="modal-img">
+            </div>
             <div class="modal-body">
                 <div class="modal-zh-title" id="modal-zh-title"></div>
                 <div class="modal-zh-content" id="modal-zh-content"></div>
@@ -196,15 +198,22 @@
             "大洋洲": { top: "75%", left: "85%" }
         };
 
+        // 幫網址加上「不重複指紋」的小工具
+        function getUniqueUrl(url) {
+            if (!url) return FALLBACK_IMG;
+            // 如果是 AI 圖片服務，補上動態時間參數破除快取
+            const connector = url.includes('?') ? '&' : '?';
+            return `${url}${connector}t=${Date.now()}`;
+        }
+
         async function init() {
             try {
-                // 加隨機參數破除緩存
                 const response = await fetch('news.json?v=' + Date.now());
                 if (!response.ok) throw new Error();
                 newsData = await response.json();
                 render();
             } catch (e) {
-                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center; padding: 40px;'>資料庫更新中，請等候 GitHub Action 執行完畢後重新整理網頁。</p>";
+                document.getElementById('thematic-container').innerHTML = "<p style='grid-column: 1/-1; text-align: center;'>資料庫連接中...</p>";
             }
         }
 
@@ -212,18 +221,25 @@
             if (newsData.length === 0) return;
             const latestDate = newsData[0].date;
 
-            // 1. 今日內容
             const thematicContainer = document.getElementById('thematic-container');
             thematicContainer.innerHTML = '';
             newsData.filter(n => n.type === 'thematic' && n.date === latestDate).forEach(n => {
                 const card = document.createElement('div');
                 card.className = 'news-card';
-                card.innerHTML = `<img src="${n.imageUrl}" class="card-image" onerror="this.src='${FALLBACK_IMG}'"><div class="card-content"><span class="category-tag ${n.tagClass}">${n.category}</span><h2>${n.zhTitle}</h2><p class="summary">${n.zhSummary}</p></div>`;
+                const imgUrl = getUniqueUrl(n.imageUrl);
+                card.innerHTML = `
+                    <div class="card-image-wrap">
+                        <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='${FALLBACK_IMG}'; this.classList.add('loaded')">
+                    </div>
+                    <div class="card-content">
+                        <span class="category-tag ${n.tagClass}">${n.category}</span>
+                        <h2>${n.zhTitle}</h2>
+                        <p class="summary">${n.zhSummary}</p>
+                    </div>`;
                 card.onclick = () => openModal(n);
                 thematicContainer.appendChild(card);
             });
 
-            // 2. 地圖點位
             const mapContainer = document.getElementById('map-container');
             mapContainer.querySelectorAll('.map-pin').forEach(p => p.remove());
             newsData.filter(n => n.type === 'regional' && n.date === latestDate).forEach(n => {
@@ -238,7 +254,6 @@
                 }
             });
 
-            // 3. 歷史分組
             const archiveContainer = document.getElementById('archive-container');
             archiveContainer.innerHTML = '';
             const archiveData = newsData.filter(n => n.date !== latestDate);
@@ -252,7 +267,19 @@
                 groups[date].forEach(n => {
                     const card = document.createElement('div');
                     card.className = 'news-card';
-                    card.innerHTML = `<img src="${n.imageUrl}" class="card-image" onerror="this.src='${FALLBACK_IMG}'"><div class="card-content"><div class="tag-wrap"><span class="category-tag ${n.tagClass}">${n.category}</span><span class="region-tag">${n.region}</span></div><h2>${n.zhTitle}</h2><p class="summary">${n.zhSummary}</p></div>`;
+                    const imgUrl = getUniqueUrl(n.imageUrl);
+                    card.innerHTML = `
+                        <div class="card-image-wrap">
+                            <img src="${imgUrl}" class="card-image" onload="this.classList.add('loaded')" onerror="this.src='${FALLBACK_IMG}'; this.classList.add('loaded')">
+                        </div>
+                        <div class="card-content">
+                            <div class="tag-wrap">
+                                <span class="category-tag ${n.tagClass}">${n.category}</span>
+                                <span class="region-tag">${n.region}</span>
+                            </div>
+                            <h2>${n.zhTitle}</h2>
+                            <p class="summary">${n.zhSummary}</p>
+                        </div>`;
                     card.onclick = () => openModal(n);
                     grid.appendChild(card);
                 });
@@ -262,8 +289,10 @@
 
         function openModal(news) {
             currentNews = news;
-            const modal = document.getElementById('news-modal');
-            document.getElementById('modal-img').src = news.imageUrl;
+            const mImg = document.getElementById('modal-img');
+            mImg.classList.remove('loaded');
+            mImg.src = getUniqueUrl(news.imageUrl);
+            
             document.getElementById('modal-zh-title').innerText = news.zhTitle;
             document.getElementById('modal-zh-content').innerHTML = news.zhContent;
             document.getElementById('modal-en-title').innerText = news.enTitle;
@@ -282,7 +311,7 @@
                 vocab.innerHTML += `<div class="vocab-card"><span class="vocab-en">${v.word}</span><span class="vocab-zh">${v.zh}</span></div>`;
             });
 
-            modal.classList.add('active');
+            document.getElementById('news-modal').classList.add('active');
             document.body.style.overflow = 'hidden';
         }
 
