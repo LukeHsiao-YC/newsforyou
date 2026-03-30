@@ -123,18 +123,17 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     我們從外國媒體找來了這則新聞：{real_news['title']} (來源：{real_news['source']})。
     請你閱讀標題與來源判斷背後的新聞事件，用「繁體中文」撰寫一篇適合 10-15 歲青少年的報導。
     
-    【核心教育目標】
-    寫作與設計提問時，請務必緊扣以下四大標準：
-    1. 理解世界：用生活化的比喻，清晰解釋這件國際大事為何發生、有何重要性。
-    2. 想像未來：這件事會如何影響未來的科技、環境、社會或人類生活？
-    3. 獨立思考：不要只給單一標準答案，鼓勵孩子從不同角度看事情，培養批判性思維。
-    4. 媒體識讀：適時引導孩子思考訊息的來源，學習分辨事實與觀點。
+    【文章內容與架構重點】
+    1. 聚焦新聞本體：文章請將 80% 以上的篇幅放在「這則新聞到底發生了什麼事」，詳細把事件的起因、經過、結果說清楚，讓孩子能完整吸收客觀資訊。
+    2. 刪除說教結語：絕對不要在文章最後寫出「我們應該要怎麼做」、「這告訴我們什麼道理」等呼籲或反思結語。請保持客觀，把思考的空間留給額外的提問即可。
+    3. 理解世界：在敘述新聞時，遇到艱澀概念可以用生活化的比喻，清晰解釋這件國際大事為何發生。
+    4. 連結與影響：平鋪直敘地客觀說明這件事對未來社會可能造成的影響，或是與台灣的關聯。
 
     【寫作風格與語氣】
     1. 真實忠誠：請盡量忠實呈現外媒報導的事件，不做過度誇飾，僅在語氣上進行改寫。
-    2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在對孩子說話，讓他們感覺像在閱讀優質雜誌。
+    2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在分享故事，讓他們感覺像在閱讀優質雜誌。
     3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語（例如：高大上、yyds、絕絕子 等）。
-    4. 封殺機器詞彙：絕對禁止使用機器感重詞彙，包含但不限於：賦能、一站式、全方位、值得注意的是 等。
+    4. 封殺機器詞彙：絕對禁止使用機器感重詞彙，包含但不限於：深入探討、值得注意的是、賦能、一站式、全方位 等。
     5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用全形破折號以及濫用 Emoji。
     6. 最後檢查：請自己問自己：「一個真實的人類作家會這樣寫嗎？」
 
@@ -149,7 +148,7 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     {{
       "zhTitle": "吸引人的大標題",
       "zhSummary": "簡單摘要這則新聞的重點",
-      "zhContent": "<p>第一段描述背景與事件...</p><p>第二段解釋原理或影響...</p><p>第三段對未來或台灣的連結...</p><p>第四段引導獨立思考...</p>",
+      "zhContent": "<p>第一段：用吸引人的方式帶出新聞事件的主題...</p><p>第二段：詳細描述新聞事件的經過與細節...</p><p>第三段：補充事件背後的原因或相關背景知識...</p><p>第四段：客觀說明這個事件目前的結果或對未來的實際影響（切勿說教）...</p>",
       "scaffold": ["觀察與識讀：這則新聞中...？", "生活與未來：如果在台灣...未來會...？", "獨立思考提案：你覺得我們可以用什麼角度...？"],
       "enTitle": "English Title of the Story",
       "enContent": {{ "basic": "...", "intermediate": "...", "advanced": "..." }},
@@ -186,6 +185,64 @@ def generate_article_with_ai(channel_info, real_news, today_date):
             print(f"[{get_now()}] 撰寫失敗: {e}"); time.sleep(15)
     return None
 
+def test_single_ai_generation():
+    """單篇 AI 寫作測試模式：只抓一篇新聞讓 AI 寫，印出結果不存檔，用來測試寫作風格"""
+    print(f"[{get_now()}] >>> 啟動單篇 AI 寫作測試模式 <<<")
+    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
+    used_media = set()
+    
+    # 隨機挑一個頻道來測試，這裡我讓它挑全球政治經濟或隨機一個
+    channel = random.choice(CHANNELS)
+    print(f"[{get_now()}] 準備測試的頻道: [{channel['region']}] [{channel['category']}]")
+    
+    real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan=False)
+    if not real_news:
+        print(f"[{get_now()}] 找不到新聞可以測試，請稍後再試。")
+        return
+        
+    print(f"[{get_now()}] 已經鎖定新聞，交給專欄作家 AI 中...")
+    article = generate_article_with_ai(channel, real_news, today_str)
+    
+    if article:
+        print(f"\n{'='*50}")
+        print(f"[{get_now()}] 寫作完成！以下是 AI 產出的排版結果：")
+        print(f"{'='*50}\n")
+        # 把寫出來的 JSON 排版印出來給你看
+        print(json.dumps(article, ensure_ascii=False, indent=2))
+        print(f"\n{'='*50}")
+        print(f"[{get_now()}] 測試結束。請檢查上方內容是否符合你要的風格。")
+    else:
+        print(f"[{get_now()}] AI 寫作過程發生錯誤。")
+
+def test_rss_search():
+    """只抓取 RSS 不呼叫 AI 的測試模式"""
+    print(f"[{get_now()}] >>> 啟動外媒 RSS 抓取測試模式（不呼叫 AI） <<<")
+    success_count = 0
+    used_media = set()
+    has_taiwan_media = False
+    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
+    
+    for idx, channel in enumerate(CHANNELS):
+        print(f"\n[{get_now()}] --- 測試頻道 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
+        
+        require_taiwan = not has_taiwan_media
+        real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan)
+        
+        if real_news:
+            success_count += 1
+            used_media.add(real_news['source'])
+            if any(tw_m in real_news['source'] for tw_m in taiwan_media_names):
+                has_taiwan_media = True
+                
+            print(f"  ✅ 成功找到新聞：{real_news['title']}")
+            print(f"  來源：{real_news['source']}")
+            print(f"  連結：{real_news['link']}")
+        else:
+            print(f"  ❌ 找不到符合條件的新聞。")
+        time.sleep(2) 
+    
+    print(f"\n[{get_now()}] 測試結束。共設定 {len(CHANNELS)} 個頻道，成功找到 {success_count} 篇新聞。")
+
 def update_daily_news():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     final_news_list = []
@@ -193,7 +250,7 @@ def update_daily_news():
     
     used_media = set()
     has_taiwan_media = False
-    taiwan_media_names = ["報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "中央社", "公視", "Taipei Times"]
+    taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
     
     print(f"[{get_now()}] >>> 自動報社開始上班 <<<")
     for idx, channel in enumerate(CHANNELS):
@@ -255,4 +312,13 @@ def update_daily_news():
     print(f"[{get_now()}] 存檔成功！今日新增 {len(final_news_list)} 篇報導。")
 
 if __name__ == "__main__":
-    update_daily_news()
+    # 透過指令決定要執行哪一種模式
+    if len(sys.argv) > 1:
+        if sys.argv[1] == 'test':
+            test_rss_search()
+        elif sys.argv[1] == 'test_ai':
+            test_single_ai_generation()
+        else:
+            update_daily_news()
+    else:
+        update_daily_news()
