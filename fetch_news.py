@@ -42,12 +42,10 @@ def fetch_real_news_from_rss(channel, used_media, require_taiwan=False):
     
     taiwan_media_names = ["中央社", "公視", "報導者", "少年報導者", "天下雜誌", "轉角國際", "敏迪", "Taipei Times"]
     
-    # 如果系統要求必須抓取台灣媒體，就切換為繁體中文搜尋模式
     if require_taiwan:
         preferred_media = taiwan_media_names
         hl, gl, ceid = "zh-TW", "TW", "TW:zh-Hant"
         search_query = f"{region} 國際 新聞" if region != "全球" else "國際 重大 新聞"
-    # 根據不同區域，給予專屬的國際外媒名單
     elif region == "大洋洲":
         preferred_media = ["ABC News", "RNZ", "Radio New Zealand", "BBC", "Reuters", "Associated Press", "The Guardian", "Taipei Times"]
         hl, gl, ceid = "en-US", "US", "US:en"
@@ -58,16 +56,13 @@ def fetch_real_news_from_rss(channel, used_media, require_taiwan=False):
         search_query = query
     else:
         preferred_media = ["BBC", "Reuters", "Associated Press", "AP", "DW", "Al Jazeera", "CNBC", "NHK WORLD", "The Economist", "NPR", "The Guardian", "TIME", "Taipei Times"]
-        # 順便把台灣媒體放進白名單，如果有英文版剛好被搜到也能用
         preferred_media.extend(taiwan_media_names)
         hl, gl, ceid = "en-US", "US", "US:en"
         search_query = query
     
-    # 過濾掉歐美常見的八卦小報或內容農場
     blocked_query = " -\"Daily Mail\" -\"The Sun\" -\"New York Post\" -\"Fox News\" -大紀元 -新唐人 -香港 -星島 -文匯 -中評 -搜狐 -網易 -每日頭條"
     blocked_media = ["Daily Mail", "The Sun", "New York Post", "Fox News", "Breitbart", "大紀元", "新唐人", "香港", "星島", "文匯", "中評", "搜狐", "網易", "每日頭條"]
     
-    # 漸進式撒網：先找最近 2 天，沒有再找 5 天，最後找 14 天
     time_windows = ['2d', '5d', '14d']
     
     for window in time_windows:
@@ -88,18 +83,15 @@ def fetch_real_news_from_rss(channel, used_media, require_taiwan=False):
                 source_elem = item.find('source')
                 source_name = source_elem.text if source_elem is not None else ""
                 
-                # 碰到黑名單直接跳過
                 if any(blocked in source_name for blocked in blocked_media):
                     continue
                 
-                # 收集符合白名單的國際新聞
                 if any(pref in source_name for pref in preferred_media):
                     title = item.find('title').text
                     link = item.find('link').text
                     valid_news.append({"title": title, "link": link, "source": source_name})
             
             if valid_news:
-                # 優先挑選今天「還沒出場過」的媒體，確保多樣性
                 unused_news = [n for n in valid_news if n["source"] not in used_media]
                 
                 if unused_news:
@@ -124,21 +116,21 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     請你閱讀標題與來源判斷背後的新聞事件，用「繁體中文」撰寫一篇適合 10-15 歲青少年的報導。
     
     【文章內容與架構重點】
-    1. 聚焦新聞本體：文章請將 80% 以上的篇幅放在「這則新聞到底發生了什麼事」，詳細把事件的起因、經過、結果說清楚，讓孩子能完整吸收客觀資訊。
-    2. 刪除說教結語：絕對不要在文章最後寫出「我們應該要怎麼做」、「這告訴我們什麼道理」等呼籲或反思結語。請保持客觀，把思考的空間留給額外的提問即可。
-    3. 理解世界：在敘述新聞時，遇到艱澀概念可以用生活化的比喻，清晰解釋這件國際大事為何發生。
-    4. 連結與影響：平鋪直敘地客觀說明這件事對未來社會可能造成的影響，或是與台灣的關聯。
+    1. 100% 聚焦新聞本體：文章必須百分之百根據原文報導的客觀事實進行改寫。詳細交代事件的起因、經過、細節與官方結果。
+    2. 絕對禁止說教與反思：這點非常重要！新聞講到哪裡就停在哪裡。絕對不准在文章最後加上「這提醒了我們社會...」、「讓我們有機會去思考...」、「我們應該要...」等任何形式的反思或呼籲結語。
+    3. 不硬扯台灣或未來：除非原始新聞本身就有提到台灣或未來影響，否則絕對不准自行腦補或硬把話題拉回台灣。
+    4. 留白思考：請保持絕對的客觀陳述，把思考的空間完全留給文章底下的提問區就好。
 
     【寫作風格與語氣】
-    1. 真實忠誠：請盡量忠實呈現外媒報導的事件，不做過度誇飾，僅在語氣上進行改寫。
-    2. 自然溫暖：溝通風格要自然、有個性，像個有智慧的大哥哥大姊姊在分享故事，讓他們感覺像在閱讀優質雜誌。
-    3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語（例如：高大上、yyds、絕絕子 等）。
-    4. 封殺機器詞彙：絕對禁止使用機器感重詞彙，包含但不限於：深入探討、值得注意的是、賦能、一站式、全方位 等。
+    1. 真實忠誠：請忠實呈現外媒報導的事件，不做過度誇飾，僅把艱澀的用詞改寫成青少年能懂的白話文。
+    2. 自然流暢：溝通風格要自然、有個性，像個真正的人類記者在陳述客觀事實。
+    3. 拒絕流行語：絕對不要使用令人感到尷尬的時下流行用語。
+    4. 封殺機器詞彙：絕對禁止使用機器感重的詞彙，包含但不限於：賦能、一站式、全方位、值得注意的是、深入探討 等。
     5. 格式限制：寫作前請先在腦中掃描，絕對禁止使用全形破折號以及濫用 Emoji。
-    6. 最後檢查：請自己問自己：「一個真實的人類作家會這樣寫嗎？」
+    6. 最後檢查：請自己問自己：「一個客觀的真實人類作家會加上這些多餘的結語嗎？」
 
     【重要：字數與單字規定】
-    1. 中文報導 (zhContent)：字數請嚴格控制在 500 到 800 個中文字之間。分成 4 到 5 個 <p> 段落。
+    1. 中文報導 (zhContent)：字數請嚴格控制在 500 到 800 個中文字之間。分成 4 個 <p> 段落。
     2. 英文單字 (vocabulary)：請挑選 2 個。
        - "word" 欄位：必須、絕對、只能填寫『英文單字』。
        - "zh" 欄位：填寫該單字的中文翻譯與適合孩子理解的解釋。
@@ -148,8 +140,8 @@ def generate_article_with_ai(channel_info, real_news, today_date):
     {{
       "zhTitle": "吸引人的大標題",
       "zhSummary": "簡單摘要這則新聞的重點",
-      "zhContent": "<p>第一段：用吸引人的方式帶出新聞事件的主題...</p><p>第二段：詳細描述新聞事件的經過與細節...</p><p>第三段：補充事件背後的原因或相關背景知識...</p><p>第四段：客觀說明這個事件目前的結果或對未來的實際影響（切勿說教）...</p>",
-      "scaffold": ["觀察與識讀：這則新聞中...？", "生活與未來：如果在台灣...未來會...？", "獨立思考提案：你覺得我們可以用什麼角度...？"],
+      "zhContent": "<p>第一段：破題，清楚點出這個新聞事件的核心焦點...</p><p>第二段：詳細描述新聞事件的經過、具體規定或發生細節...</p><p>第三段：補充事件背後的客觀原因或各方實際說法...</p><p>第四段：直接說明這個事件目前的最終結果或後續進度（直接俐落收尾，絕對不准寫任何反思或心得）...</p>",
+      "scaffold": ["觀察與識讀：這則新聞中...？", "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？", "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"],
       "enTitle": "English Title of the Story",
       "enContent": {{ "basic": "...", "intermediate": "...", "advanced": "..." }},
       "vocabulary": [ 
@@ -198,7 +190,6 @@ def update_daily_news():
     for idx, channel in enumerate(CHANNELS):
         print(f"\n[{get_now()}] --- 處理進度 {idx+1}/13: [{channel['region']}] [{channel['category']}] ---")
         
-        # 只要還沒抓到台灣媒體，就強迫去抓
         require_taiwan = not has_taiwan_media
         
         real_news = fetch_real_news_from_rss(channel, used_media, require_taiwan)
@@ -209,7 +200,6 @@ def update_daily_news():
             final_news_list.append(article)
             consecutive_fails = 0
             
-            # 紀錄出場過的媒體與確認是否抓到台灣視角
             used_media.add(real_news['source'])
             if any(tw_m in real_news['source'] for tw_m in taiwan_media_names):
                 has_taiwan_media = True
