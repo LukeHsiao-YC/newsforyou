@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "FBI網路警報：美國系統遭中國駭客入侵，被認定為重大國安威脅！",
+    "zhSummary": "美國聯邦調查局（FBI）正式認定，有來自中國的駭客入侵美國的電腦系統，並且將這類網路攻擊視為對國家安全的一大威脅。這項消息由美國媒體披露，強調了網路戰在全球日益複雜的重要性。",
+    "zhContent": "<p>最近美國的媒體報導了一則跟網路安全有關的大新聞。簡單來說，就是美國的聯邦調查局（FBI）認為，有來自中國的網路駭客入侵他們的電腦系統，而且FBI覺得這對美國來說是一個非常嚴重的國家安全威脅。這項消息是美國的媒體先傳出，隨後被其他國際新聞機構廣泛報導，引起了各界的關注。</p><p>這項認定代表著，美國的情報單位發現了某些網路活動，他們追查後發現這些攻擊行動可能來自中國。這些駭客的目標是悄悄地進入別人的電腦系統，獲取裡面的資訊，或者是試圖破壞系統的正常運作。FBI認為，這種行為不只是小小的網路犯罪，而是可能影響整個國家安全的大問題，所以才會做出這麼嚴肅的判斷。</p><p>當我們說到「國家安全威脅」，通常是指可能危及國家重要運作、機密資訊或公民安全的狀況。所以，FBI會這樣判斷，表示他們擔心這些入侵事件可能會讓一些非常重要的政府資料或基礎設施面臨風險。這項聲明是美國官方對於這類網路攻擊所做出的嚴肅評估，顯示他們對此非常重視，並且認為必須嚴正看待。</p><p>所以目前的情況就是，美國的聯邦調查局已經公開表示，他們認定有中國背景的駭客，透過網路入侵的手段，對美國的系統造成了重大的安全威脅。這則消息是由美國媒體率先報導出來，並被世界各地的媒體轉載，讓大家知道這項來自官方的最新評估。這也提醒了大家網路世界存在的潛在危險。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，FBI認定中國駭客入侵系統會構成「重大國安威脅」，你認為「國家安全威脅」可能包含哪些具體的影響或危險？",
+      "生活與未來：你覺得這個事件會對美國與中國之間的關係造成什麼樣的實際影響？對我們一般人的網路使用會不會有什麼間接的影響？",
+      "獨立思考提案：針對這類跨國的網路攻擊事件，你覺得國際社會還可以怎麼做，來更好地預防和處理這類問題？"
+    ],
+    "enTitle": "FBI Cyber Alert: Chinese Hackers Accused of Invading U.S. Systems, Posing National Security Crisis!",
+    "enContent": {
+      "basic": "The FBI has announced that hackers from China are reportedly breaking into U.S. computer systems. The FBI says these cyber attacks are a serious danger to America's national security, a claim first reported by U.S. media.",
+      "intermediate": "According to U.S. media reports, the FBI has formally identified that Chinese hackers have been infiltrating American computer networks. This activity is considered a significant national security threat, meaning it could harm critical government operations, sensitive information, or public safety.",
+      "advanced": "U.S. intelligence officials, as widely reported by American media outlets, have seen the FBI officially classify cyber intrusions by Chinese-backed hackers into U.S. systems as a major national security threat. This assessment underscores the ongoing challenges of state-sponsored cyber espionage and its implications for global digital security and international relations."
+    },
+    "vocabulary": [
+      {
+        "word": "Hacker",
+        "zh": "駭客：專指那些在未經允許的情況下，設法進入他人或組織電腦系統的人。他們可能會嘗試竊取資料、破壞系統，或是找出系統的弱點。"
+      },
+      {
+        "word": "National Security",
+        "zh": "國家安全：指的是一個國家保護自身的重要利益、領土、政府運作和人民安全的狀態。當有事情威脅到這些方面時，就會被認為是國家安全威脅。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-04-06",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55R3Z5TzVfdENycTVXdkdTUUNuYUpOdVdlUG1fdERPZXotVFlTZFFBYkI5X21QNFRhNmNQZzFkNG1wMnNkLXowdEhjSklfTWxUQ1NvTzZ3a0taT0NvVEdv?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "讀懂新聞：美國加州「史詩級大洪水」隨時可能爆發？",
+    "zhSummary": "科學家發出警告，美國，特別是加州，正處於一場規模可能達到「聖經級」的超級大洪水威脅之下。這並非科幻情節，而是歷史事件結合氣候變遷，讓專家們嚴陣以待的嚴肅預警。",
+    "zhContent": "<p>你或許看過電影裡洪水滔天的可怕場面，但如果現實世界中，美國的加州隨時都可能面臨一場「聖經級」的超級大洪水，聽起來是不是有點太誇張了？BBC科學焦點雜誌指出，科學家們正對這樣一個潛在的巨大威脅發出嚴肅警告。這不是什麼遙不可及的未來預測，而是隨時可能發生的狀況，一旦真的發生，規模將會非常驚人，讓許多地區都可能淹沒在水中。</p><p>科學家們口中的「超級大洪水」，其實是指一種叫做「大氣河流」（Atmospheric River）的極端氣候現象。想像一下，天空中有條巨大的「水龍」，將太平洋上的大量濕氣像輸送帶一樣帶到加州。當這些濕氣遇到山脈時，就會形成連續數週甚至數月的超級豪雨。歷史上，加州在1861-1862年就曾發生過這樣的大洪水，當時淹沒了廣大的土地，甚至讓州政府一度搬遷。專家們研究的「ARkStorm」情境模擬，就是基於那次事件，預測一旦重演，將造成巨大的破壞。</p><p>為什麼現在科學家會特別擔心呢？主要原因是全球暖化讓地球的氣候模式變得更加極端。溫暖的空氣可以容納更多的水氣，這意味著當「大氣河流」形成時，它們攜帶的水量會比以前更多，導致降雨強度大幅增加。許多研究都顯示，未來這類極端洪水的發生頻率和強度，都會因為氣候變遷而升高。這讓科學家們不斷更新預測模型，試圖更精準地掌握可能的風險和影響範圍。</p><p>目前，這場「聖經級」大洪水並非已經發生，而是一個迫在眉睫的潛在威脅。美國的氣象與災害應變機構都在密切關注，並呼籲民眾提高警覺，做好應對準備。科學家們的工作，就是不斷研究這些極端天氣模式，提供最客觀的數據與警示，幫助當地政府和居民理解風險，並為可能發生的災害預作規劃，以期在危機來臨時能將損害降到最低。報導到此為止，沒有任何反思或延伸。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The US faces a \"biblical megaflood\" threat.",
+    "enContent": {
+      "basic": "Scientists are warning that the US, especially California, could experience a massive flood, so big it's called a \"biblical megaflood.\" This is due to powerful weather systems called \"Atmospheric Rivers\" carrying huge amounts of moisture from the Pacific Ocean. Climate change is making these events more likely and stronger. Authorities are telling people to be ready for this potential disaster.",
+      "intermediate": "A serious warning from scientists suggests that a \"biblical megaflood\" could strike the US at any moment, particularly in California. This isn't science fiction but a real risk linked to extreme weather patterns known as \"Atmospheric Rivers.\" These systems transport vast quantities of moisture, leading to prolonged, intense rainfall. Historical events, combined with climate change amplifying such phenomena, are prompting experts to urge preparedness for potentially devastating impacts.",
+      "advanced": "Experts cited by BBC Science Focus Magazine are raising alarms about the imminent potential for a \"biblical megaflood\" in the US, with California being a primary concern. This catastrophic event is predicated on intensified \"Atmospheric River\" phenomena, which are corridors of concentrated moisture in the atmosphere, capable of delivering immense precipitation over extended periods. Drawing parallels to historical events like California's Great Storm of 1861-62, current climate models suggest a heightened probability and severity of such floods due to global warming, necessitating robust preparedness and risk mitigation strategies."
+    },
+    "vocabulary": [
+      {
+        "word": "Megaflood",
+        "zh": "超級大洪水：意思是規模非常大、範圍很廣的嚴重洪水。比一般的洪水破壞力更大，可能淹沒城市和鄉村。"
+      },
+      {
+        "word": "Atmospheric River",
+        "zh": "大氣河流：想像天空中有條看不見的「水做的河流」。它會把海洋上的大量水氣，像輸送帶一樣運送到陸地，遇到山脈時就會變成超強的降雨，導致洪水。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-04-06",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YWnlEakZ5WlFiWVpRZ29DX280UERfay1uLTVSdW50ZkVERGJEbm9UNjBFQVVRM0FKaEhTMWVnWVFzUTJCbklHcWtCNDgxVnM5VWpSb3c3a2xYYTNVbkdGQ09YRFJiT3FDaElCNTNiM3h6VlpIdExTNjY5aw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "視障生上課卡關？大學教育無障礙新規定來救援！",
+    "zhSummary": "一群美國的視障大學生表示，他們就讀的學校沒有提供足夠的無障礙教材或輔助，導致他們學習受阻。現在，一項新的規定即將出爐，有望解決這些學生所面臨的教育困境。",
+    "zhContent": "<p>你曾想過，如果上學時課本、講義，甚至是考試考卷都看不見，該怎麼辦嗎？最近，在美國就有一群視障大學生，勇敢地站出來說出他們在學校遇到的困難。他們向媒體表示，自己就讀的大學，在提供無障礙學習資源方面做得不夠好，讓他們在學習過程中處處碰壁，感覺自己的受教權因此被阻礙了。</p><p>想像一下，同學們都能輕易地閱讀老師發的數位教材、瀏覽線上課程網站，但視障學生卻可能因為這些資料沒有轉換成語音、點字，或是不支援特定的螢幕閱讀軟體，而無法取得任何資訊。課堂討論、研究報告、甚至是期末考，都可能因為這種資訊落差，成為他們難以克服的巨大挑戰。這讓他們在學業上，往往必須付出比別人更多的努力，卻還是可能跟不上進度。</p><p>這些學生認為，大學身為提供高等教育的機構，應該有責任確保所有學生都能公平地取得學習資源，不該讓視障生因為學校準備不足而處於劣勢。他們的控訴反映了，當代大學在推動數位化學習的同時，可能沒有充分考量到特殊需求學生的使用情境，導致了許多無形的障礙。</p><p>不過，好消息是，為了改善這種對視障學生不公平的現象，相關主管機關正積極研擬並推動一項新的規定。這項新規定將明確要求各大專院校，必須提供足夠且符合標準的無障礙教育資源和科技輔助，確保所有視障學生都能享有平等的學習機會，順利完成大學學業。這項變革預計將為未來的視障學生帶來更友善的學習環境。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，視障學生主要面臨了什麼樣的具體困難？",
+      "生活與未來：你覺得這個新的規定會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對大學應該提供無障礙資源這件事，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "These blind students say their college blocked their education. A new rule could help - NPR",
+    "enContent": {
+      "basic": "Blind college students in the U.S. say their universities are not giving them accessible learning materials. This means they cannot easily read textbooks or notes, making it hard to study. They feel their education is being blocked. Now, a new rule is coming that aims to fix this problem and help blind students get a fair chance to learn.",
+      "intermediate": "A group of blind students in American colleges has voiced concerns that their educational institutions are failing to provide adequate accessible resources. They report significant challenges in accessing essential learning materials, such as digital textbooks and online platforms, which are often incompatible with assistive technologies like screen readers. This situation has led them to feel that their educational progress is being hindered. In response, a new federal regulation is being developed to mandate that colleges provide necessary accommodations, ensuring equal access to education for students with disabilities.",
+      "advanced": "Blind university students across the United States are speaking out, asserting that their colleges have created barriers to their education by not providing sufficiently accessible learning resources. They highlight systemic issues where digital course materials, online learning platforms, and even examination formats are often not compatible with assistive technologies, effectively excluding them from full participation. This perceived lack of institutional support for students with visual impairments underscores a broader challenge within higher education regarding equitable access. In anticipation of addressing these grievances, a significant new federal rule is on the horizon, expected to compel educational institutions to implement comprehensive accessibility standards, thereby safeguarding the educational rights of visually impaired students."
+    },
+    "vocabulary": [
+      {
+        "word": "Accessible",
+        "zh": "無障礙的：意思是設計成讓所有人都方便使用或進入的，特別是方便行動不便或有特殊需求的人。例如，無障礙坡道就是為了讓坐輪椅的人也能輕鬆上去。"
+      },
+      {
+        "word": "Regulation",
+        "zh": "規定／法規：這通常是由政府、學校或某個組織制定出來，要求大家必須遵守的規則或法律。違反規定可能會受到處罰。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-04-06",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVNiQ1VIaWNSajFHa3FEZS1ZWDVRYmNncGlvOGlSZTI1NVl4clNmalM5OGZOOGZEMWxXZ1BZRXhrRkZYSWw4RlNqYVpsQlVsZ0NqRmdYYzJXcFptSHVSYnh6U0lKeUlqSm4wSkNPemZ6aHhTZUZOOFhYR0RLMlFFRnFjTFVreXA4YzFXdHJ2Tml5Q3llOWVkeDkzTQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "企業狂推AI，專家卻說員工可能「燒腦」又更忙？",
+    "zhSummary": "許多公司正積極導入人工智慧（AI），希望它能提升效率。然而，有專家提出警告，AI並非萬靈丹，反而可能增加員工的工作量，甚至讓他們感到心力交瘁。",
+    "zhContent": "<p>最近，許多大公司都在大張旗鼓地推廣一種新技術，叫做「人工智慧」（AI）。他們覺得AI很厲害，可以幫忙處理很多事情，讓工作變快、變簡單，甚至解決各種複雜的問題。大家都看好AI能帶來巨大的改變，讓公司運作得更順暢、效率更高，聽起來是不是很棒？就像是找到了什麼神奇的秘密武器一樣。</p><p>但是，有些研究人工智慧的專家卻有不同的看法。他們提醒大家，AI並沒有想像中那麼神，它不是什麼「萬靈丹」，不能一用就解決所有問題。專家們擔心，公司在導入AI之後，員工不只不會變輕鬆，反而可能要處理更多新的工作。比如說，他們可能需要花時間檢查AI做出來的成果對不對，或是把資料輸入給AI，這些額外的工作都可能讓他們的工作量不減反增。</p><p>這些專家特別指出，員工們可能會因此感到「燒腦」，也就是說，大腦會非常疲憊，覺得精神不濟、筋疲力盡。他們解釋，雖然AI可以做很多重複性高的事情，但它常常還是需要人類去引導、監督和修正。這意味著，員工除了原本的工作外，還要多了一層與AI協調、處理AI「後續」事務的責任。如果AI出錯，或需要微調，這都會耗費員工大量的時間和精力，造成無形的壓力。</p><p>目前，許多企業依然看好AI的潛力，積極地將它應用在各種業務上。然而，隨著這些專家的聲音越來越多，針對AI對員工可能造成的影響，這個話題在職場上引起了廣泛討論。大家開始重新評估，新技術的引入是否總是帶來全面性的好處，以及如何在推動科技進步的同時，平衡好對實際工作人員可能帶來的壓力與負擔。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，專家們主要對AI的哪些方面提出了擔憂？他們認為AI可能會給員工帶來什麼具體的影響？",
+      "生活與未來：你覺得如果AI真的增加了人們的工作量和心理負擔，這會對我們未來的生活和學習產生什麼樣的影響？",
+      "獨立思考提案：針對這則新聞提到的問題，你覺得公司或科技設計者可以怎麼做，才能讓AI的導入對員工更友善，而不是增加他們的壓力？"
+    ],
+    "enTitle": "Companies Push AI, But Experts Warn of Extra Labor and 'Brain Fry' for Workers",
+    "enContent": {
+      "basic": "Many companies are excited about using AI to make work faster. But experts say AI is not a magic solution. They warn that it might give workers more tasks and make them feel very tired, or 'brain fried'. So, AI might not make work easier after all.",
+      "intermediate": "Companies are widely adopting Artificial Intelligence, hoping it will boost efficiency. However, experts are cautioning that AI is not a 'magic bullet' that solves all problems instantly. They suggest that integrating AI could actually increase the workload for employees and lead to 'brain fry' – a state of mental exhaustion due to overwork and stress.",
+      "advanced": "Across various industries, corporations are aggressively implementing Artificial Intelligence, envisioning it as a transformative tool for enhanced productivity. Yet, a growing number of experts from the field are sounding an alarm, asserting that AI is far from a 'magic bullet.' They contend that rather than alleviating burdens, AI integration often necessitates additional labor from employees for oversight, correction, and data input, thereby causing 'brain fry' and elevating overall stress levels in the workforce."
+    },
+    "vocabulary": [
+      {
+        "word": "magic bullet",
+        "zh": "萬靈丹 (wan2 ling2 dan1)：指的是一種可以快速又徹底解決所有問題的方法或藥方，通常暗示著不切實際的期望。"
+      },
+      {
+        "word": "brain fry",
+        "zh": "燒腦 (shao1 nao3)：指大腦因為過度思考、工作或處理太多資訊而感到非常疲憊、精疲力竭的狀態。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-04-06",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWVQaWpQU3RNY2FsM1BSaDZwdzRIbTZiT29DMVQ3QzJGZERSSjNaTEJBVmJNdF9MVENJRHhWck1vampCMmtBTzJHYnh5SWRxYWlwbU14LUNobHdtTjU3TTF5anZjUFVBdzhjdWpyTHJoMWduSnJFNml0WjdaRWRENmNkOVR0bExqUnA3T3ZUdG1meWhyM0JwREpCQkpubVE4V1FsNnFiWkxvdExZVDBNblNDanIxaE3SAbwBQVVfeXFMTXlRSDhROTEzQVNvWF80S3NYZWlNaVRnWC1aR19QQzhZN2RjYnV6OEVzekRTQzZxVWRkTWEzbUx2TVhSUnFCR0gyODNEclFqQVgwdFdmblM5Q2l4MXo2cjI2Y0JNOUVkdGtQMmtDNS01MzVCcDZrNkp1Ql9QVVI5WjV3LTdkWDBKQ0hpb1NrLXRIbVE5bkpXVEl2bVNtREpEY0FqVm5DbFl0d2dORjdXWnlWakJTY3BzbU9MMS0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "復活節大解析：春天裡充滿希望與彩蛋的節日！",
+    "zhSummary": "這篇報導將帶你認識復活節，這個在西方世界極為重要的春季節日。我們將探索它深刻的宗教起源，了解耶穌基督復活的意義，同時也會介紹那些充滿樂趣的民間傳統，像是孩子們最愛的復活節彩蛋和可愛的復活節兔子，讓大家了解這個節日的多元面貌。",
+    "zhContent": "<p>每年春天，許多國家都會慶祝一個非常特別的節日，那就是「復活節」。這個節日不僅帶來溫暖的氣息，也充滿了各種有趣的活動和古老的傳統。對於西方世界來說，復活節是一個相當重要的日子，它結合了深刻的宗教意義與歡樂的家庭聚會，讓大家一起迎接新生命的到來。</p><p>從宗教的角度來看，復活節是基督教最重要的節日之一。它紀念耶穌基督被釘上十字架後的第三天從死裡復活。這個事件象徵著希望、勝利和永恆的生命，對於基督徒而言，是信仰的核心。因此，在復活節這天，世界各地的教堂會舉行特別的禮拜和儀式，信徒們會齊聚一堂，共同慶祝耶穌的復活。</p><p>除了宗教層面，復活節也演變出許多受歡迎的民間傳統。最經典的莫過於「復活節彩蛋」和「復活節兔子」。彩蛋通常會被漆上鮮豔的顏色或圖案，象徵著新生命和春天。許多家庭會舉辦「找彩蛋」的遊戲，孩子們在戶外尋找藏起來的彩蛋，氣氛非常熱鬧。而復活節兔子，則被認為是帶來彩蛋的使者，牠們可愛的形象深受孩子們喜愛，成為這個節日不可或缺的一部分。這些習俗雖然不完全來自宗教，卻讓復活節變得更加豐富多元。</p><p>總的來說，復活節是一個充滿活力與喜悅的節日。它讓大家有機會聚在一起，不論是參與宗教儀式，還是享受彩蛋和兔子的樂趣，都充滿了特別的意義。無論是在家中享用豐盛的餐點，或與親友一同參與戶外活動，復活節都提供了一個機會，讓人們慶祝生命、家庭與團聚。這個春天重要的日子，以其獨特的意義與多樣的慶祝方式，傳遞著希望與更新的訊息。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，復活節除了宗教意義，還發展出哪些有趣的民間傳統？",
+      "生活與未來：你覺得為什麼像復活節這樣結合宗教與民間習俗的節日，在現代社會依然受到重視？",
+      "獨立思考提案：如果讓你為一個現有的節日設計一個全新的「趣味活動」，你會怎麼設計？目的是什麼？"
+    ],
+    "enTitle": "Easter Decoded: A Spring Festival of Hope and Eggs!",
+    "enContent": {
+      "basic": "Easter is a very special spring holiday celebrated in many countries. It's important for Christians because it celebrates Jesus Christ rising from the dead, which means hope and new life. Besides church services, people also have fun traditions like painting Easter eggs and hunting for them. The Easter Bunny is a cute symbol that brings eggs to kids. It's a joyful time for families to gather and celebrate spring and new beginnings.",
+      "intermediate": "Easter Sunday marks a significant celebration for many cultures, particularly in the Western world. Originating from Christian beliefs, it commemorates the resurrection of Jesus Christ, symbolizing hope, victory, and eternal life. Beyond its profound religious importance, Easter has evolved to incorporate popular secular traditions. These include decorating and hunting for Easter eggs, which represent new life and spring, and the beloved Easter Bunny, often seen as the bringer of these colorful treats. The holiday blends spiritual reflection with festive family gatherings.",
+      "advanced": "Easter Sunday stands as a pivotal spring festival, intertwining profound religious significance with widespread secular traditions. At its core, it commemorates the resurrection of Jesus Christ, a foundational event in Christian theology that symbolizes renewal, hope, and triumph over death. Consequently, churches worldwide host special services to honor this event. Concurrently, the holiday has fostered popular customs such as the vibrant decorating and subsequent hunting of Easter eggs, which symbolize new life and fertility. The iconic Easter Bunny further enriches the festive atmosphere, serving as a whimsical emblem that enhances the holiday's appeal, especially among children. This rich tapestry of practices ensures Easter remains a vital occasion for both spiritual observance and communal celebration."
+    },
+    "vocabulary": [
+      {
+        "word": "Resurrection",
+        "zh": "復活：從死亡中再次活過來的意思，特別指耶穌基督從死亡中再次活過來。"
+      },
+      {
+        "word": "Tradition",
+        "zh": "傳統：一個社會或團體長期以來習慣做的事情、慶祝方式或信仰，一代傳一代。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-04-06",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN1hYM2h0b2kwOW1jZjlad3lOMEIzSTdWNmhwR0tzZktzYXBpYXhSSlZjTGZIS19TeGtTS255NnNfUGxNdHNrc1NndTdsdzlZdU5fb3JKbkRjMVU4M2ZyaFQxNGYtREJxcUFfdXJVQzJzeVlFMVN3cU9JeUZKaWRYd0dVUGFsb1hXS2xtNlE4SjhqVmxlLWVQV1lnNnlxSk1Bbk9WU183dTIzWDlPZnlXV3FqZlh1dk5qY0VSbFZGUUVSRXQ5NmUycmEwaDNkRi10Q3Nqbkt3T1ptcFBnQkZpQnVBMmdfQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國提出停火，伊朗直接說不！國際談判卡關了？",
+    "zhSummary": "這則新聞報導了美國向伊朗提出停火建議，但伊朗果斷拒絕，讓本來就很緊張的地區情勢變得更複雜。",
+    "zhContent": "<p>最近，一則來自DW.com的新聞引起了國際社會的關注。報導指出，美國曾經向伊朗提出一份「停火」的提議，希望能在某個充滿衝突的地區，讓戰火暫時停歇。然而，伊朗政府很快就對這個提議作出了明確的回應，表示他們不會接受這項建議。這個決定讓原本就已經複雜多變的國際局勢，又增添了更多不確定的因素，也顯示出美伊兩國關係依舊緊張。</p><p>所謂的「停火提議」，通常是指在有軍事衝突發生的地區，交戰各方同意在一段時間內停止所有戰鬥行為。美國提出這樣的建議，其目的往往是為了緩和區域內的緊張情勢，為雙方創造一個機會，能夠坐下來透過外交途徑來解決紛爭，避免更多的人員傷亡和財產損失。這也反映了美國可能希望透過對話，來尋求解決中東地區某些長期存在的安全挑戰。</p><p>然而，伊朗方面對於美國的這項提議，態度卻非常堅決。他們透過官方管道向外界傳達，明確拒絕了美國的停火建議。雖然新聞標題與來源並未提供伊朗拒絕的詳細理由，但從歷史背景來看，美國和伊朗在政治、軍事以及區域影響力等許多方面，一直存在著深刻的矛盾和對立。兩國之間長期的不信任感，可能是導致這項提議難以被接受的重要原因之一。</p><p>因此，隨著伊朗明確表示拒絕，這份由美國提出的停火建議目前未能成功推動。這也意味著，原本希望藉由暫時停火來開啟和平對話的機會，暫時沒有實現。國際社會和相關國家將會持續密切關注美伊兩國之間的互動，以及這個決定會如何影響中東地區的穩定與和平前景。未來的發展，可能還會面臨許多考驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Proposes Ceasefire, Iran Says No: International Talks Stuck?",
+    "enContent": {
+      "basic": "Recent news from DW.com reports that the US proposed a ceasefire to Iran, hoping to pause fighting in a conflict-ridden region. However, Iran quickly rejected this offer. This decision adds more uncertainty to the already tense international situation, highlighting the ongoing strain in US-Iran relations.",
+      "intermediate": "A recent DW.com report highlighted a significant international development: the United States extended a ceasefire proposal to Iran, aiming to halt hostilities in a conflict-affected area. Iran, however, promptly and decisively rejected this suggestion. This refusal further complicates an already volatile international landscape and underscores the persistent tensions between the two nations.",
+      "advanced": "Drawing from a recent DW.com dispatch, a notable international event has unfolded: the United States presented a ceasefire proposal to Iran, with the intention of bringing a temporary cessation to ongoing hostilities within a contested region. Iran, however, issued an unequivocal rejection of this overture. This decision not only injects heightened uncertainty into an already complex global environment but also starkly underscores the deep-seated friction characterizing the bilateral relationship between the U.S. and Iran."
+    },
+    "vocabulary": [
+      {
+        "word": "ceasefire",
+        "zh": "停火 – 就是戰爭中的兩方說好，暫時停止打仗，讓大家有機會喘口氣、談談看怎麼解決問題，就像遊戲中暫停一下。"
+      },
+      {
+        "word": "proposal",
+        "zh": "提議 – 指的是提出一個建議或計畫，讓大家討論或考慮看看，就像你跟朋友提議要去哪裡玩一樣。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-04-06",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXFOWHFpTTBHNC1JR2VpenpPNmRBbGJueTJKcFE0UENNTU9Hb0ZKc3ZILWxMam1tSEM2UGZKVmNOa3NTYnJxZTlFSXAxbWd4TGV0VW1hSHlDLWM2ZER2alBYeE8zYnJkVG5pQkZSSEJPQzVoeFhrcl9odU05eEJIeTdZMGh3ZGV2VzA3MFhoU3NEZGpIVUVod3hTOA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美味牛排爭霸戰：誰才是真正的「牛排之王」？",
+    "zhSummary": "全球數十億人熱愛的牛排，究竟源自哪個國家？這場關於牛排「歸屬權」的趣味辯論，從歷史、文化和烹飪風格，探討究竟哪個國家能真正「擁有」牛排的代表權。",
+    "zhContent": "<p>說到香噴噴的牛排，你腦海中會浮現什麼畫面？是滋滋作響的烤肉架，還是搭配精緻醬汁的餐廳料理？牛排在全球都超受歡迎，但你知道嗎，最近有一場關於「牛排到底屬於哪個國家」的討論悄悄展開！這可不是在吵誰家的牛排比較好吃，而是要探究從歷史起源、飼養文化到烹飪手法，究竟哪個國家才能最有資格大聲說：「牛排，是我們家的代表！」</p><p>這場牛排「歸屬權」的辯論，其實沒有想像中那麼單純。許多國家都對牛排文化有著深刻的影響。像是南美洲的阿根廷，以廣闊的潘帕斯草原和豐富的牧牛文化聞名，他們的「阿薩多」（Asado）烤肉是國寶級的慶典，牛排在他們的飲食文化中佔據核心地位。另一方面，美國也毫不遜色，從狂野的西部牛仔文化到各式各樣的牛排館，像是厚切的丁骨牛排（T-bone）和紐約客（New York Strip），都是美國飲食的經典標誌。</p><p>除了肉品本身和烹調方式，歐洲國家也在這場爭奪戰中擁有一席之地。法國以其精緻的烹飪藝術和對食材的講究，將牛排料理提升到另一個層次，他們的「法式牛排」強調火候控制與醬汁搭配，展現出高雅的餐桌文化。而義大利的佛羅倫斯牛排（Bistecca alla Fiorentina）則以其特有的帶骨厚切和炭烤方式，吸引了無數老饕。每個國家都從不同的角度，為牛排這個簡單的食材，增添了獨特的風味與歷史背景。</p><p>總結來說，這場關於「誰能代表牛排」的爭論，最終並沒能指出一個絕對的贏家。畢竟，「牛排」這個概念本身，在全球化的浪潮中，已經吸納了許多不同文化的元素，演變成各地餐桌上的美味。與其說牛排屬於某個特定國家，不如說它是人類共同享受的料理。所以下次當你品嚐牛排時，可以想想它背後豐富的文化故事，但別忘了，它更是無數人共同努力的成果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到了哪些國家，以及他們與牛排的關聯是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The Steak Claim Debate: Which Country Truly Owns Steak?",
+    "enContent": {
+      "basic": "Steak is super popular worldwide, but did you know there's a debate about which country truly 'owns' it? Argentina, with its big ranches and 'asado' BBQ, thinks it's them. The USA, with its cowboy culture and famous cuts like T-bone, also makes a strong claim. France and Italy also have their special ways of cooking steak, showing their unique food culture. This article explores these different claims, looking at history, culture, and cooking styles. In the end, it's hard to pick just one winner. Steak has grown and changed all over the world, becoming a dish that everyone enjoys, with many different tastes and traditions.",
+      "intermediate": "The global culinary staple, steak, has sparked a lively debate: which country holds the strongest claim to its origins and cultural representation? Argentina, renowned for its vast Pampas and 'asado' grilling tradition, firmly asserts its historical connection. Meanwhile, the United States, with its iconic cowboy heritage and diverse array of steakhouse cuts such as the T-bone and New York Strip, presents a compelling counter-argument. European nations like France, through its refined culinary techniques and emphasis on sauces, and Italy, with its distinctive Bistecca alla Fiorentina, also contribute significant cultural weight. This article delves into these various national claims, examining their historical roots, cultural significance, and unique cooking methodologies. Ultimately, the discussion concludes without a definitive victor, acknowledging that steak has evolved through global influences, becoming a universally cherished dish with diverse interpretations.",
+      "advanced": "The ubiquitous culinary phenomenon of steak has ignited a discourse regarding its rightful cultural patrimony. Nations worldwide, each possessing a profound historical and gastronomic relationship with the dish, vie for the distinction. Argentina, intrinsically linked to its expansive Pampas and the time-honored 'asado' tradition, presents a compelling narrative of bovine husbandry and culinary heritage. Concurrently, the United States, emblematic of its frontier ethos and responsible for popularizing myriad cuts like the T-bone and Porterhouse, posits its own claim rooted in a rich steakhouse culture. Furthermore, European contributions are salient; France elevates steak preparation through its sophisticated culinary artistry and emphasis on precision and accompanying sauces, while Italy champions regional variations such as the iconic Bistecca alla Fiorentina. This article meticulously explores these multifaceted assertions, scrutinizing the historical evolution, cultural embedding, and distinctive preparatory techniques. Ultimately, the inquiry culminates not in a singular proprietary claim, but rather in the recognition that 'steak' as a concept has been enriched by a confluence of global influences, transcending national boundaries to become a universally celebrated culinary experience."
+    },
+    "vocabulary": [
+      {
+        "word": "Patrimony",
+        "zh": "傳承；遺產。它指的是從祖先那裡繼承下來的東西，可以是物質的財產，也可以是文化、歷史或傳統的無形遺產，就像一個國家的特色料理或古老習俗。"
+      },
+      {
+        "word": "Ubiquitous",
+        "zh": "無處不在的；普遍存在的。這個字形容某樣東西非常常見，好像到處都能看到或找到，就像手機在現代生活中幾乎是無處不在的。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-04-06",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fU3N6bnJyNVB4OU9Tb1dIT2NBVC1yUlFYU2pObTROZW9uRXEtQ0RXTHROeWRYZFMtd3I4UHR1cGhJU1RQN1c3WWtxOHNwdUZYSC1Za1FpV2NOTDVFMTRjVHdkYTFEUkwtOUhSaG1PQUgwR1JkYkdEd3c5UklKUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "風電業急喊卡！西班牙警告歐盟「暴利稅」恐阻礙綠能發展",
+    "zhSummary": "歐盟為因應能源危機，打算對能源公司徵收意外獲得的「暴利稅」。然而，西班牙的風力發電業者卻跳出來警告，這項稅金可能會讓大家不想再投資像風力發電這樣的綠色能源，進而阻礙乾淨能源的發展。",
+    "zhContent": "<p>最近，歐洲聯盟（簡稱歐盟）為了應對能源價格高漲的問題，正在考慮一項特別的稅收，他們稱之為「暴利稅」，意思是向那些因為能源危機而意外賺到大錢的公司，徵收一部分的錢。歐盟希望藉此幫助受高能源價格影響的消費者，或是將這筆錢用於其他相關的支援計畫。不過，這個主意一出來，馬上引發了討論。</p><p>具體來說，這項「暴利稅」的目標是針對化石燃料公司，因為它們在能源價格飆升時獲得了巨大的利潤。然而，歐盟也提到，這項稅收可能會延伸到其他能源生產商。這讓西班牙的風力發電產業非常緊張，因為風力發電屬於再生能源，是大家努力推動的環保發電方式。他們擔心，一旦這個稅收真的實施，即使是像他們這樣對環境有益的公司，也會受到影響。</p><p>西班牙風力產業協會的代表們表示，如果政府對風力發電公司也徵收這類「暴利稅」，將會讓投資者卻步。想像一下，如果你想投入資金蓋新的風力發電廠，或是升級現有的設備，但政府卻要從你賺到的錢中抽走一大塊，你還會那麼有動力去做嗎？他們認為，這會讓大家覺得投資再生能源的風險變高、獲利變少，反而會減緩西班牙甚至整個歐洲在綠色能源方面的進展。</p><p>這項稅收的討論，其實反映了在面對能源危機時，各方如何平衡短期需求與長期發展的難題。目前，西班牙風力產業已經明確表達了他們的憂慮，希望能讓歐盟在做出最終決定前，仔細考慮這項「暴利稅」可能對再生能源產業帶來的負面衝擊。歐盟是否會調整政策，以避免阻礙綠色投資，還需要進一步觀察。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「暴利稅」是為了什麼目的？西班牙風力發電業者為什麼會對這項稅收感到擔心？",
+      "生活與未來：你覺得如果政府對綠色能源徵收這種稅，會對我們未來使用的能源種類或價格造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Spanish Wind Industry Warns EU Windfall Tax Could Harm Investment",
+    "enContent": {
+      "basic": "The European Union is thinking about a special tax for energy companies that made a lot of unexpected money when energy prices went up. This is called a \"windfall tax.\" The EU wants to use this money to help people with high energy bills. But the wind energy companies in Spain are worried. They say this tax could stop people from putting money into building new wind farms or making existing ones better. They believe it would slow down the development of clean energy, which is important for the environment.",
+      "intermediate": "The European Union is considering a \"windfall tax\" on energy companies that have seen unexpectedly high profits during the recent energy crisis. The goal is to redistribute some of these earnings to support consumers or fund related initiatives. However, the Spanish wind industry has voiced concerns, arguing that such a tax could deter investment in renewable energy projects. They fear that penalizing an industry crucial for combating climate change and achieving energy independence sends the wrong signal to potential investors, potentially hindering the expansion of green energy infrastructure.",
+      "advanced": "Amidst the ongoing energy crisis, the European Union is deliberating a \"windfall tax,\" proposed as a solidarity contribution on companies that have realized extraordinary profits due to the unprecedented surge in energy prices. While primarily targeting fossil fuel entities, the potential extension or influence of this mechanism has prompted significant apprehension within the Spanish wind industry. Industry representatives contend that imposing such a levy on renewable energy producers could disincentivize crucial capital expenditure in new wind farm developments and upgrades, thereby impeding progress towards climate goals and energy independence by creating an unfavorable investment climate for green technologies."
+    },
+    "vocabulary": [
+      {
+        "word": "Windfall",
+        "zh": "暴利 / 意外之財：指的是公司或個人因為某些特殊情況，突然得到一筆超乎預期的大筆錢財，就像是天上掉下來的禮物一樣。"
+      },
+      {
+        "word": "Investment",
+        "zh": "投資：指把錢投入到某個事業、計畫或資產中，希望未來可以賺到更多錢，或是讓這筆錢更有價值。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-04-06",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEQ0MGtSSkVrV1BNMHIzSERPVUEyODNtM05XUk9Va2RsOW4zZzJwbHRxVG9HN2Fmekp1ZGlfTGJURWtzbjYwU3kyak95NW5lREVIdHk0U2xET1lSV3FyemRrZTB6VW03YUduM29PUjR1WWg3Q0c1Wk01dVBQRE1hekVPaC0zcERsNGszRjFtdU5zNVF5YnE2SXAwTThZamc5WVJhUjJVZHBFR0ZDQVp2X3FwTkRselZ1UnJhNlM0dFM3SFJLeVdBaU1VenRZOG1YRlJPSE9xLUM?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非「不沾鍋教父」引爆動亂！入獄後，街頭烽火四起",
+    "zhSummary": "南非前總統雅各布·祖馬因藐視法庭被判入獄後，引發了國內大規模的抗議、搶劫與暴力事件，讓這個國家陷入一片混亂。",
+    "zhContent": "<p>你聽過「不沾鍋教父」嗎？在南非，前總統雅各布·祖馬（Jacob Zuma）就有這個特別稱號。他過去屢次捲入貪腐指控，卻總能全身而退，就像不沾鍋一樣。但這次不同了，2021年7月，祖馬因為拒絕配合一項反貪腐調查，被法庭判決「藐視法庭」，必須入獄服刑15個月。他隨即在當月7日晚間向警方投案，正式入獄。</p><p>祖馬的入獄像點燃了引線，在南非夸祖魯-納塔爾省（KwaZulu-Natal）和豪登省（Gauteng）引發大規模動亂。一開始是支持祖馬的群眾抗議，但很快演變成嚴重的搶劫、縱火和暴力。許多商店被洗劫，建築被燒毀，道路被封鎖，社會秩序受到嚴重破壞。這些動亂讓南非許多城市，尤其是經濟中心，陷入混亂和危險。</p><p>面對突如其來的混亂，南非政府的反應被批評太慢。儘管總統西里爾·拉馬福薩（Cyril Ramaphosa）公開呼籲冷靜，暴力事件並未立刻停止。許多人認為，政府和情報部門早該預料到這種情況，因為祖馬的爭議不少，且其支持者對他入獄的反應早有緊張跡象。所以，對南非首都普利托利亞（Pretoria）來說，這場「戰爭」的爆發似乎並不讓人太意外，更像是長期累積的政治分歧和社會問題總爆發。</p><p>這場由前總統入獄引發的動亂，不僅造成數十億南非蘭特的經濟損失，許多無辜民眾的生命也因此逝去。為控制不斷升級的暴力，南非政府最終不得不派出軍隊維持秩序。雖然街頭混亂逐漸平息，但這場「不沾鍋教父」入獄引發的風波，已對南非社會留下深刻影響，也揭示了國家內部存在的巨大挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa's 'Teflon Don' Triggers Unrest: Chaos Erupts After Imprisonment",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Teflon Don",
+        "zh": "不沾鍋教父。這是一個綽號，用來形容一個人，就像不沾鍋一樣，不管遇到多大的麻煩或指控，都不容易被追究責任，總能全身而退。在這個新聞中，是指南非前總統雅各布·祖馬。"
+      },
+      {
+        "word": "Contempt of court",
+        "zh": "藐視法庭。這是指一個人故意不服從法庭的命令、規則，或者對法庭或法官表現出不尊敬的行為。這是一種很嚴重的違法行為，可能會被判處罰款或坐牢。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-04-06",
+    "sourceName": "SAPeople",
+    "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CU2xFZnNGSUdHWTZqVVNGR2hsWV8wZ3BpdnRWQlVmZE40cGd6TkhmQTBmUUNRRE8ybE5MWmViN1AxOEZmSUhWcTdBTVlyWDhqaThxZXNOX19nZXhnbTdoQXpDamMyU2o3SmQ2SkNaWjRUM2M?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "亞洲石油要變貴了？沙烏地阿拉伯石油價格創下歷史新高！",
+    "zhSummary": "中東石油大國沙烏地阿拉伯最近決定，調高賣給亞洲各國的石油價格，而且這次的漲幅是歷史上最高的紀錄，這將直接影響亞洲國家進口石油的成本。",
+    "zhContent": "<p>最近，來自中東的石油大國沙烏地阿拉伯，做了一個讓整個亞洲都盯著看的決定：他們把賣給亞洲地區的石油價格，調高到了一個前所未有的「天價」。這不只是一個普通的漲價，而是創下了歷史紀錄，表示亞洲國家未來要買沙烏地阿拉伯的石油，得付出比以前任何時候都還要多的錢。這個消息是由《台北時報》報導出來的，點出了國際能源市場的一項重要變化。</p><p>具體來說，沙烏地阿拉伯國家石油公司（Saudi Aramco）宣布，他們針對明年一月要供應給亞洲客戶的「阿拉伯輕原油」（Arab Light crude）價格，每桶將調漲 0.90 美元。這項調整，讓「阿拉伯輕原油」的價格與地區基準價相比，每桶高出 5.85 美元，成為有史以來最高的溢價。除了輕原油之外，其他種類的原油，例如中質原油和重質原油，也都有不同程度的價格上調，反映出他們對亞洲市場的整體定價策略。</p><p>這次價格之所以會衝上新高，主要原因與全球對石油的需求增加有關。隨著許多國家經濟活動逐漸復甦，工廠需要運轉、交通需要燃油，全球對能源的胃口越來越大。市場分析師指出，儘管石油生產國的供給量有在增加，但面對如此強勁的需求，供給仍然顯得有些吃緊。沙烏地阿拉伯身為全球最大的石油出口國之一，自然會根據市場的供需狀況，來調整他們的定價策略。</p><p>因此，沙烏地阿拉伯這次把石油價格推向歷史新高，直接影響了所有依賴從中東進口石油的亞洲買家。這些國家包括中國、印度、日本、南韓等，他們未來將需要為每桶原油支付更高的費用。這個決定也可能對這些國家的國內能源成本產生影響，例如煉油廠購入原油的成本會提高，進而可能影響到汽油、柴油或電力等終端產品的價格。這就是這則新聞所呈現的客觀事實與其當下的直接結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，沙烏地阿拉伯將「阿拉伯輕原油」的價格調高了多少錢？這個新價格相對於地區基準價的溢價是多少？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Saudi Arabia Sells Oil to Asia at Record-High Prices",
+    "enContent": {
+      "basic": "Saudi Arabia has increased the price of oil it sells to countries in Asia. This new price is the highest it has ever been. It means Asian countries will pay more for Saudi oil.",
+      "intermediate": "Saudi Arabia, a major oil producer, announced a significant price hike for its crude oil exports to Asian buyers. The price for its flagship Arab Light crude for January delivery has hit a record high. This move reflects strong global demand for oil and is expected to increase energy costs for Asian nations.",
+      "advanced": "Saudi Aramco, the state oil company of Saudi Arabia, has set the official selling price (OSP) for its Arab Light crude to Asia at a record premium for January delivery, raising it by $0.90 per barrel. This adjustment reflects robust market fundamentals, driven by surging demand from refiners and tight global supply. The unprecedented hike in oil prices is poised to impact the import costs for key Asian economies."
+    },
+    "vocabulary": [
+      {
+        "word": "crude oil",
+        "zh": "原油：它不是直接從地底下挖出來就能用的油，而是經過提煉前，最原始、最粗糙的石油。就像挖出來的礦石，還要加工才能變成有用的金屬。"
+      },
+      {
+        "word": "record",
+        "zh": "紀錄：這裡指的是最高的紀錄，表示以前從來沒有達到過這麼高的數字或程度。想像一下你的考試成績創下班上最高分，那就是一個紀錄。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-04-06",
+    "sourceName": "Taipei Times",
+    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04dFQ2SXhUWm9KM3RZTjRuNGd2NE5JTm0zU3dmRjZCZ1I1bmR2OXpWcElTQjBVNlFSbjQ3U1ZmOHYtRWFVbkxTUlluSU9RRlc2M3FEWTNfU0xDUnZqMjFFekRneDRhUkJsZDZweW90Y2xoYk5oTVE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "日本中東策略大變身？全球情勢變化促使日本重新思考未來方向！",
+    "zhSummary": "最新消息指出，日本正在考慮全面調整它長期以來在中東地區的策略。這項轉變反映了全球能源市場、國際關係以及中東地區本身正在經歷的巨大變化，對日本的未來佈局至關重要。",
+    "zhContent": "<p>嘿！最近國際上有個值得關注的消息，JAPAN Forward 報導說，亞洲經濟強國日本，現在可能要徹底檢討它長久以來對中東地區的策略了。大家知道，中東對日本來說一直很重要，主要是因為石油和天然氣，這些是推動日本經濟的關鍵能源。不過，隨著世界變得越來越不一樣，日本也開始意識到，過去的做法可能不夠用了。</p><p>那為什麼日本會突然需要「重新思考」呢？其實，這背後有很多原因。以前，日本對中東的策略主要圍繞著確保能源供應穩定。但現在，全球能源種類越來越多樣，除了傳統石油，像再生能源也越來越受重視。另外，中東地區自己的情況也一直在變，有新的挑戰和機會出現。這些都讓日本不得不重新評估，要怎麼跟這個重要的地區打交道。</p><p>一個國家處理國際事務的方式，我們稱作它的「策略」，這包含了外交、經濟、甚至有時是安全方面的考量。對日本來說，在中東的策略不僅僅是買賣石油，還包括保護在那邊工作和生活的日本人，以及維持地區的和平與穩定，因為這對全球經濟都有影響。外媒的報導指出，現在討論的重點就是，日本要怎麼在這些變化的環境中，繼續確保自己的國家利益，同時也為地區的穩定做出貢獻。</p><p>目前，這項「重新思考」的過程仍在進行中，沒有一個明確的最終結果。不過，JAPAN Forward 的報導很清楚地傳達了一個訊息：日本正在面對一個關鍵的選擇時刻。它必須決定未來的中東策略要怎麼走，才能夠適應當前的國際局勢。這不是一個小調整，而是一次可能影響深遠的重大方向改變，值得我們繼續關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到日本正在「重新思考」對中東的策略，你覺得這表示日本過去的策略遇到了什麼樣的困難或挑戰？",
+      "生活與未來：你覺得日本如果真的調整了它的中東策略，可能會對哪些產業或人們的生活帶來實際的影響？",
+      "獨立思考提案：針對一個國家需要調整國際策略的情況，你覺得在做出重大決定前，政府應該要考量哪些不同的面向？"
+    ],
+    "enTitle": "Japan Must Rethink Its Middle East Strategy: Global Changes Drive a Crucial Re-evaluation",
+    "enContent": {
+      "basic": "Japan, a major Asian country, is reportedly re-evaluating its long-standing approach to the Middle East. This comes as global energy markets are changing, and new situations are emerging in the Middle East itself. Historically, Japan relied heavily on the region for oil and gas. However, new energy sources and shifts in international relations mean Japan needs to find new ways to secure its interests and support regional stability. This discussion is ongoing, signaling a potentially big change in Japan's global strategy.",
+      "intermediate": "According to JAPAN Forward, Japan is facing a critical juncture, prompting a re-evaluation of its Middle East strategy. For decades, Japan's engagement with the region has been primarily driven by the need for stable energy supplies, particularly oil and natural gas. However, evolving global energy landscapes, including the rise of renewables, coupled with dynamic geopolitical shifts and internal regional challenges in the Middle East, necessitate a comprehensive overhaul of its traditional approach. The ongoing debate centers on how Japan can best safeguard its national interests—from economic security to citizen protection and diplomatic ties—in this transformed environment. This is not merely an adjustment but a potentially profound recalibration of its foreign policy.",
+      "advanced": "JAPAN Forward highlights a pivotal moment for Japan as it confronts the imperative to fundamentally rethink its Middle East strategy. Historically anchored in energy security, specifically the procurement of hydrocarbon resources, Japan's strategic calculus in the region is now challenged by multifaceted global and regional transformations. The proliferation of diversified energy sources, including a burgeoning emphasis on renewables, alongside complex geopolitical realignments and intrinsic socio-political developments within the Middle East, render previous policy paradigms increasingly inadequate. The discourse surrounding this re-evaluation underscores a comprehensive reassessment of Japan's diplomatic, economic, and security engagements, aiming to forge a resilient and adaptive framework that concurrently secures its national interests and contributes to regional stability amidst an ever-evolving international order. This constitutes a significant strategic pivot, demanding rigorous consideration of its long-term ramifications."
+    },
+    "vocabulary": [
+      {
+        "word": "Strategy",
+        "zh": "策略：一個國家或組織為了達成特定目標，所規劃的一整套計畫、方法和行動。像是日本為了確保能源安全，就會有一套跟中東國家合作的「策略」。"
+      },
+      {
+        "word": "Re-evaluate",
+        "zh": "重新評估：意思是再次仔細地檢查、判斷或衡量某件事情，看看它是否仍然適用、有效，或者是否需要改變。就像日本現在要「重新評估」它跟中東的關係一樣。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-04-06",
+    "sourceName": "JAPAN Forward",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TeVEzbGRObnk4dzJsNzd6dTZiRnZzeHNvbWRfbnRKS1B5R1lnSFBZdTNnWWx3dTI3RnQtVlN0MXhlX2FnRDIxZjdTY1NaSVpzU21nbDlHYUszRGc3NDZNRmI1MFhoakhUby1zOTRzWGp6aXMzSkhTSjRB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國原油大搶手：亞洲歐洲瘋狂搶購，價格飆到新高點！",
+    "zhSummary": "由於亞洲和歐洲國家對美國原油的強勁需求與激烈競爭，導致美國原油的「額外費用」（溢價）攀升至歷史新高，反映國際能源市場的緊張情勢。",
+    "zhContent": "<p>嘿，同學們！最近國際新聞有個熱門話題，那就是美國的原油突然變得超級搶手！它現在的「額外費用」——也就是買家為了搶到油，願意多付的價錢——已經創下了歷史新高，就像演唱會的黃牛票一樣貴。</p><p>這個情況是怎麼發生的呢？原來是因為亞洲和歐洲的國家都在瘋狂搶購美國的原油。想像一下，就像兩大陣營為了搶奪有限的寶物，不斷喊價競爭。這個「額外費用」在石油交易裡叫做「溢價」（premium），指的是買家在市場基本價格之上，為了立刻獲得特定品質或地點的原油，而自願多付的一筆錢。現在，這個溢價已經攀升到前所未有的高點，顯示出大家對美國原油有多麼渴望。</p><p>那麼，為什麼亞洲和歐洲會如此積極地搶購美國原油呢？這背後的原因其實不難理解。可能是因為他們自己地區的原油供應出現了狀況，或是其他地方的油源在運送上遇到了困難或成本更高，導致他們不得不轉向美國這個相對穩定且可靠的供應來源。當這麼多買家同時湧向一個地方時，自然就會讓價格水漲船高，形成激烈的競爭局面。</p><p>所以，這場全球性的「搶油大戰」直接導致了美國原油的價格，特別是那個額外的「溢價」，不斷飆升。這清楚地反映出當前國際能源市場供應鏈的緊張狀況，以及美國作為重要石油出口國所扮演的角色。目前來看，這就是國際原油市場上正在發生的最新狀況。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Crude Premiums Hit Record High Amid Asia, Europe Competition",
+    "enContent": {
+      "basic": "The extra cost buyers pay for US crude oil has reached record levels because countries in Asia and Europe are competing fiercely to buy it.",
+      "intermediate": "US crude oil premiums, the additional costs paid above benchmark prices, have soared to unprecedented levels as nations in Asia and Europe intensely compete for available supplies, indicating high global demand.",
+      "advanced": "Amid robust demand from both Asian and European markets, US crude oil premiums have escalated to record highs, reflecting intense international competition for supply and tightening global energy market conditions."
+    },
+    "vocabulary": [
+      {
+        "word": "Crude",
+        "zh": "原油：指從地下或海底直接抽出來、還沒有經過加工的原始石油。它必須經過提煉才能變成我們常用的汽油、柴油或塑膠原料。"
+      },
+      {
+        "word": "Premium",
+        "zh": "溢價：在市場上，當大家搶著要買某樣東西，或是某個東西特別稀有時，買家除了原本的價格，還願意多付一筆錢，這多付的錢就叫做溢價，就像是為了搶到熱門商品多付的「加價購」。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-04-06",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUlRa2dnOE9MeWFPSmI1Y3FRSzFSR01neUhSelVwZFlWanY3ZEJvX3BrRERiMURtS3RpTXo4U1JXa2JmVXdoU01vaG95MFY2ZFdaYVhTak9abDVIaTJIODZLQWg2b245Z1BFTE9ySmtWQmU1ZGNRdXA4YW1iLTAtd3l2OEM2Smxoa2kyNndONmU1OHpzcVRjNV9PREVHWXJCY29pdzk4V3hUNFpoOFZDYlJ6VE82ZVU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "熱帶氣旋「麥菈」增強！威力升級二級警戒",
+    "zhSummary": "太平洋區域的「熱帶氣旋麥菈」已由RNZ（紐西蘭廣播電台）報導，正式升級為第二級，代表風力顯著增強，可能帶來破壞性影響。氣象單位正密切監測並發出警報。",
+    "zhContent": "<p>「熱帶氣旋麥菈」最近傳來了新消息，它在太平洋區域的強度又增強了！根據來自RNZ（紐西蘭廣播電台）的報導，這個原本就已經很受關注的氣旋，現在已經正式升級為「第二級熱帶氣旋」。對我們來說，這代表著它不是一般的風雨，而是一個威力更強大的氣象現象，需要大家提高警覺。</p><p>什麼是「第二級熱帶氣旋」呢？簡單來說，就是它的中心附近持續風速已經達到每小時154到177公里，陣風會更強。這種等級的風力已經足以對周圍環境造成明顯破壞，例如吹倒電線桿、讓大樹連根拔起，甚至會損害一些屋頂或是不夠堅固的建築結構。同時，伴隨而來的大雨也可能引發淹水或山泥傾瀉等災害。這表示在麥菈經過的地區，人們必須嚴加戒備，保護自身安全。</p><p>相關氣象單位正密切追蹤麥菈的移動路徑和強度變化，並向可能受影響的地區發布了最新的警告和應對指南。這些預警通常包括建議居民加固房屋、儲備糧食飲水，並準備好緊急避難的準備。RNZ的報導也特別強調，官方正在持續更新資訊，提醒居民務必注意當地氣象部門發布的最新消息，遵循指示，才能將潛在的風險降到最低。</p><p>目前，「熱帶氣旋麥菈」已經正式成為第二級的強大氣旋，它的威力不容小覷。在接下來的幾天裡，氣象專家將會持續觀察它的動向，並隨時更新預報。受影響區域的居民，正按照官方指示，為這場可能帶來巨大影響的風暴做好準備。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "TC Maila upgraded to a Category 2 Tropical Cyclone",
+    "enContent": {
+      "basic": "Tropical Cyclone Maila has become stronger. News from RNZ (Radio New Zealand) says it has been upgraded to a Category 2 Tropical Cyclone. This means it is now a powerful storm. Category 2 cyclones bring very strong winds that can blow down trees and damage buildings. They can also cause heavy rain and floods. Weather experts are watching Maila closely and telling people in its path to be ready. They want everyone to stay safe and follow official advice.",
+      "intermediate": "Tropical Cyclone Maila has intensified, with RNZ (Radio New Zealand) reporting its upgrade to a Category 2 system. This signifies a significant increase in its power. A Category 2 tropical cyclone features sustained winds of 154 to 177 kilometers per hour, with even stronger gusts. Such wind speeds are capable of causing substantial damage, including felling trees, toppling power poles, and damaging roofs and less sturdy structures. Accompanying heavy rainfall can also lead to severe flooding and landslides. Meteorological agencies are actively monitoring Maila's trajectory and issuing warnings to potentially affected areas, urging residents to prepare for its impact.",
+      "advanced": "Tropical Cyclone Maila has undergone a notable intensification, with its classification officially upgraded to a Category 2 system, as reported by RNZ (Radio New Zealand). This re-categorization indicates a substantial escalation in its destructive potential. Category 2 tropical cyclones are characterized by sustained wind speeds ranging from 154 to 177 kilometers per hour, with even higher gusts, capable of inflicting considerable environmental and structural damage. This includes the uprooting of large trees, widespread power outages due to downed poles, and significant damage to roofing and less resilient infrastructure. Furthermore, the associated torrential rainfall poses a severe risk of flash floods and landslides. Meteorological authorities are maintaining vigilant surveillance over Maila's trajectory and intensity, proactively disseminating advisories and preparedness guidelines to regions within its projected path, emphasizing adherence to official safety protocols."
+    },
+    "vocabulary": [
+      {
+        "word": "Cyclone",
+        "zh": "「氣旋」是一種像巨大螺旋一樣旋轉的強大風暴，通常會帶來大風和豪雨。熱帶氣旋就是其中一種，發生在熱帶海域，威力可能非常驚人。"
+      },
+      {
+        "word": "Upgrade",
+        "zh": "「升級」就像是你玩遊戲時，角色的能力變得更強、等級變高一樣。在這裡，是指氣旋的強度變大了，達到更高的級別，威力也因此變得更強。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-04-06",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSS1ERU9lT0VpWDUyazVJeFdweUNMRnpxSnJ6d1R6X0VXckRxcHpxQll0MnJfYjgxVlNYcUpUYW00ZGVMclQ2a3dkcWY4dVk5dzhQcW1RUnRuRlZKVk5YeXBQUVVNRmxGVzVsMjFzb2s4cDFSUGJQX3ZiMEt2SGRzUWtxZmVRc1FON0J6bzZaSTU2bXVjQUN3c05taFVDRkZBS1UybHVac2o5QQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "川普將宣布美伊戰爭重大更新！終戰露出曙光？",
     "zhSummary": "根據中央社2026年4月1日的報導，前美國總統川普預計在4月2日發表全國演說，宣布美國與伊朗戰爭的「重大更新」。外界期待這可能代表戰爭即將結束。此外，參議員盧比歐也表示戰後將重新評估與北約的關係。",
     "zhContent": "<p>嗨！我是你們的阿信。今天我們要來聊一個全球都在關注的國際大事。根據中央社在2026年4月1日的最新消息，前美國總統川普先生將在隔天，也就是4月2日，發表一場全國演說。這場演說的重點，是要公布美國與伊朗之間戰爭的「重大更新」。全球都在期待，因為有消息指出，這場打了好一陣子的戰爭，可能終於要看見結束的希望了！</p><p>這次的「重大更新」，預計會包含許多關於美伊戰爭的最新進展和重要細節。雖然確切內容還沒公開，但「終戰在望」這句話，已經讓世界各國的民眾都屏息以待。如果戰火真能平息，對許多人來說，那會是一個多麼令人振奮的好消息。大家都在期待川普先生的演說，希望能從中聽到更多關於戰爭如何畫下句點的具體規劃。</p><p>除了川普先生的演說，美國參議員盧比歐也提到了戰後的國際情勢。他表示，一旦美伊戰爭結束，美國將會「重新評估」與北約的關係。北約，全名是北大西洋公約組織，是一個由多國組成的防衛聯盟。盧比歐參議員這番話，暗示著這場戰爭的結束，不僅影響美國和伊朗，甚至可能改變美國與其盟友之間的合作模式，這也是一個值得留意的發展。</p><p>總之，在2026年4月1日的此刻，全球的目光都集中在即將到來的4月2日。大家都在等待川普先生的全國演說，希望能聽到關於美伊戰爭的確切「重大更新」。這場備受期待的演說，可能會為漫長的戰爭帶來終結，並為國際關係開啟新的篇章。所有人都希望，和平的曙光能夠真正降臨。</p>",
