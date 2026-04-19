@@ -1,5 +1,461 @@
 [
   {
+    "zhTitle": "FBI警告：美國境內出現「假公安」詐騙，小心別上當！",
+    "zhSummary": "美國聯邦調查局（FBI）最近發出嚴正警告，指出在美國境內，假冒中國公安的詐騙案件數量日益增加。這些騙子會利用電話或訊息，謊稱受害者涉嫌犯罪，並要求轉帳或提供個人敏感資料，專門鎖定與中國有聯繫的民眾進行詐騙。",
+    "zhContent": "<p>美國聯邦調查局（FBI）最近發出一個很重要的警告，告訴大家美國境內有一種新的詐騙手法正在變多。這些騙子很狡猾，他們會假裝自己是「中國公安」（也就是中國的警察），來詐騙美國境內的民眾。FBI提醒大家要特別小心，不要輕易相信這些陌生來電或訊息。</p><p>這種詐騙通常是怎麼發生的呢？騙子會打電話或傳訊息給受害者，聲稱受害者在中國涉嫌了嚴重的犯罪，比如洗錢或販毒。他們會用很嚴肅的語氣，甚至威脅要逮捕受害者，讓受害者感到非常害怕和驚慌。為了「解決」這個問題，騙子會要求受害者把大筆的金錢轉到指定的「安全帳戶」，或是要求提供個人資料和銀行帳號密碼。</p><p>為什麼這種騙局會特別針對美國的民眾，又為什麼要假冒中國公安呢？主要是因為有些在美國生活的人，可能本身與中國有連結，例如留學生、移民，或是他們的家人在中國。這些人可能對中國的法律系統不太了解，或者對中國的執法單位有所畏懼，讓騙子有機可趁，利用這種恐懼來進行詐騙。騙子會製造一種緊迫感，讓受害者來不及查證就照著他們的話去做。</p><p>對於這樣日益嚴重的詐騙問題，美國FBI提醒大家，真正的執法單位絕對不會透過電話或網路要求民眾轉帳、提供銀行帳號或個人敏感資訊。如果接到類似的電話或訊息，應該立刻掛斷或刪除，並且向當地的執法單位舉報。FBI正在積極調查這些詐騙案件，希望能阻止更多人受害。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "FBI Warns of Rising 'Fake Chinese Police' Scams in the U.S.",
+    "enContent": {
+      "basic": "The FBI in the U.S. has issued a warning. There are many scams where people pretend to be Chinese police. These scammers call or text people and say they have committed crimes in China. They then ask for money or private information. The FBI wants everyone to be careful and not fall for these tricks.",
+      "intermediate": "The U.S. Federal Bureau of Investigation (FBI) recently released an important warning about a growing number of scams. In these scams, criminals impersonate Chinese police officers. They contact victims, often by phone, claiming the individual is involved in serious crimes in China, such as money laundering. To 'resolve' these fake issues, the scammers demand large sums of money or personal financial details. The FBI advises the public to be cautious and report such incidents.",
+      "advanced": "The Federal Bureau of Investigation (FBI) in the United States has issued a significant warning regarding a proliferating scam within its borders. This particular scheme involves perpetrators impersonating Chinese public security officials, targeting individuals with fabricated accusations of involvement in serious criminal activities, such as money laundering or drug trafficking, purportedly occurring in China. These imposters leverage the perceived authority and fear of international law enforcement to coerce victims into transferring substantial funds to 'safe' accounts or divulging sensitive personal and financial information. The FBI emphasizes that legitimate law enforcement agencies will never solicit funds or confidential data via unsolicited calls or messages and urges immediate reporting of such fraudulent attempts."
+    },
+    "vocabulary": [
+      {
+        "word": "scam",
+        "zh": "詐騙 (zhàpiàn) – 指的是用不誠實或欺騙的方式，騙取別人的錢財或個人資料，就像魔術師用手法讓你相信不存在的事一樣。"
+      },
+      {
+        "word": "impersonate",
+        "zh": "假冒 (jiǎmào) – 意思是假裝成另一個人，或者扮演不是自己的角色，讓別人誤以為你是真的那個人或角色。就像玩角色扮演遊戲一樣，但這裡是用來騙人的。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-04-19",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyUmZrSTd0TGtxMVA1NHpDZUFqdVR4YTczSS1pdUh1QzhTTWI0NjliMUxPSWo3LU9DMndXTTBETmhrTk9yaDVaalhBaWpic1ZYOUFjVUxvVm5TRHJ1Nk5Z?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "海底寶石拉警報！傑森·摩莫亞疾呼：2026是珊瑚礁生死關鍵年",
+    "zhSummary": "好萊塢影星傑森·摩莫亞與《衛報》共同發聲，警告全球珊瑚礁正瀕臨滅絕，呼籲各界必須在2026年前採取關鍵行動，否則這些美麗的海洋生態將面臨無法挽回的危機。",
+    "zhContent": "<p>大家有看過五彩繽紛的海底世界嗎？那裡面住著好多美麗的珊瑚礁，它們就像是海洋裡的寶石，閃耀著生命的光芒。但最近有個很重要的消息，提醒我們這些海底寶藏正快速消失中！好萊塢明星傑森·摩莫亞（Jason Momoa）就特別站出來說，根據《衛報》的報導，到了2026年，我們必須讓這個趨勢有個大轉變，不然珊瑚礁可能就要從地球上消失了。</p><p>為什麼會這麼緊急呢？其實，珊瑚礁的消失跟地球暖化有很大的關係。當海水溫度不斷升高，珊瑚會失去牠們身上共生的微藻，這些微藻不只提供珊瑚顏色，也是牠們主要的食物來源。失去微藻的珊瑚會變成一片慘白，這就是我們常聽到的「珊瑚白化」。如果白化現象持續太久，珊瑚就會死亡。珊瑚礁不只是美麗的海底風景，更是許多魚類、甲殼類動物的家園和覓食地，甚至能減緩海浪衝擊，保護海岸線。一旦珊瑚礁大量消失，不只海洋生態系統會崩潰，也可能影響靠海維生的人類。</p><p>傑森·摩莫亞這次和《衛報》的合作報導，就是在呼籲大家正視這個問題。他強調，2026年是一個非常關鍵的轉捩點，因為科學家們預估，如果我們不趕快採取行動，減緩全球暖化和海洋污染的速度，珊瑚礁就會面臨無法挽回的危機。這不是他第一次為海洋發聲，他長期以來都非常關心水資源和海洋生態的保育，過去也曾積極參與各種環保倡議，為保護地球盡一份心力。</p><p>目前全球各地的珊瑚礁狀況都非常危險，很多地方都已經出現大規模的白化和死亡。雖然有許多研究人員和環保團體正努力研究和復育珊瑚，但大自然變化和人類活動對海洋的影響仍然非常巨大。傑森·摩莫亞與科學界提出2026年這個目標，是希望能趕在科學預測的關鍵時間點前，促使全球各國政府、企業和民眾都能意識到這個迫切的危機，並共同採取更積極、實質的保護措施，避免我們失去這些珍貴的海洋生物。這項呼籲強調了時間的緊迫性，以及全球合作的重要性。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，傑森·摩莫亞強調2026年是一個「關鍵的轉捩點」，你覺得這個詞代表了什麼意義？",
+      "生活與未來：珊瑚礁如果真的大範圍消失，你覺得對依賴海洋生活的生物和人類會有什麼實際影響？",
+      "獨立思考提案：新聞提到珊瑚礁面臨滅絕危機，你覺得除了明星的呼籲，政府、企業和我們個人還可以怎麼做，才能更好地保護它們？"
+    ],
+    "enTitle": "Jason Momoa Warns: 2026 Is a Critical Turning Point for Coral Reefs",
+    "enContent": {
+      "basic": "Coral reefs are in danger. They might disappear soon. Actor Jason Momoa says 2026 is an important year. We need to save the reefs by then. Ocean water is getting too warm. This makes corals lose their color and food. It's called coral bleaching. If it lasts too long, corals die. Many sea animals live in coral reefs. Without reefs, they lose their homes. Jason Momoa wants everyone to help stop warming oceans and pollution. Many reefs are already dying. We need to act fast by 2026 to protect them.",
+      "intermediate": "Coral reefs globally are facing a severe threat of extinction. Jason Momoa, a well-known actor, has highlighted 2026 as a crucial turning point, urging global action to prevent their disappearance. The main reason for this crisis is rising ocean temperatures, a direct result of global warming. Warmer waters cause corals to expel the algae living within them, leading to a phenomenon known as coral bleaching. Prolonged bleaching can kill corals. Coral reefs are vital ecosystems, providing homes and food for countless marine species and even protecting coastlines. Momoa's message, shared through The Guardian, emphasizes the urgent need for governments and individuals worldwide to take significant steps to reduce warming and pollution before 2026. Current reports indicate widespread coral death globally, making collective and prompt action essential to safeguard these precious underwater environments.",
+      "advanced": "Global coral reefs are on the brink of extinction, a critical environmental crisis underscored by actor and activist Jason Momoa, who has designated 2026 as an imperative turning point for intervention. The primary catalyst for this alarming decline is escalating ocean temperatures, a direct consequence of anthropogenic climate change. This thermal stress induces coral bleaching, a process where corals expel their symbiotic algae, crucial for their color and nutrition. Sustained bleaching leads to coral mortality, devastating the intricate marine biodiversity that relies on these ecosystems for shelter, sustenance, and even coastal protection. Momoa's advocacy, amplified by platforms like The Guardian, serves as a stark call to action. He stresses that without substantial, coordinated efforts from governments, industries, and the public to mitigate global warming and marine pollution, coral reefs face irreversible damage. Current scientific assessments reveal pervasive coral degradation and extensive bleaching events worldwide, reinforcing the urgency for decisive, collaborative conservation strategies to be implemented before the 2026 deadline.",
+      "simplified_chinese": ""
+    },
+    "vocabulary": [
+      {
+        "word": "extinction",
+        "zh": "滅絕（mièjué）：指一個物種或生物族群完全消失，不再存在於地球上。"
+      },
+      {
+        "word": "turning point",
+        "zh": "轉捩點（zhuǎnlièdiǎn）：形容一個事件或情況發展到關鍵時刻，接下來的走向將會產生重大改變。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-04-19",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREpMZGNFajJhN3B1amtBbjRZYlNKTG5PNjB2QW1PWTB0UXZjOThJMmtuTE9oR2FENjFJekgzX0lteUh4cWZfbGtienlRYkk5T2ZheEU2dlltUHdMaWtzdVNxZUZ1RzRpM0FXM3R1eEVTUFlLOG94eWJJa0pGWkNOWmpIMWlPYk1FX1p1ZmdiaVdqTk82aEVjbFEycWRtY0pIckw5ekl3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "搶先看！《Hoppers藝術設定集》揭開創作秘辛",
+    "zhSummary": "迪士尼媒體搶先公開了《Hoppers藝術設定集》的精華內容，讓粉絲們得以一窺這部作品背後的角色草圖、場景設計等珍貴創作過程，預告新書即將發行。",
+    "zhContent": "<p>各位粉絲，好消息！最近從「WDW News Today」這個專門報導迪士尼消息的媒體，我們收到了一則非常吸引人的情報：他們獨家公開了《Hoppers藝術設定集》的部分內容，讓大家可以搶先一睹為快。這本書的「搶先看」曝光，立刻引起了許多對幕後創作過程好奇的讀者關注。通常這類「藝術設定集」都會收錄電影、動畫或主題樂園設計從零到有的珍貴過程，像是角色草圖、場景設計和故事板等等，簡直就是創意寶庫。</p><p>這次的「搶先看」內容，就像是打開了一扇通往魔法世界的小窗，展示了《Hoppers》這個項目最初的模樣。WDW News Today在報導中透露了一些書中精華頁面，讓讀者能看到設計師們是如何從一個點子開始，一步步將角色、道具和整個奇幻世界具體化的。從最初的幾筆塗鴉，到色彩豐富的完整插畫，這些圖片都清晰地展現了團隊在創造《Hoppers》時所付出的心思與想像力。</p><p>這些幕後資料對於喜愛設計、動畫或者對故事創作有興趣的青少年來說，簡直是學習的最佳素材。它不只讓我們看到最終的成品有多麼精美，更重要的是，它揭露了整個創作過程中的嘗試、修改與演變。每一張概念圖、每一個角色表情的變化，都代表著無數次的腦力激盪和細節琢磨。透過這本藝術設定集，我們能更深入地理解一個虛構世界是如何被建造出來的。</p><p>這波搶先看無疑為即將發行的《Hoppers藝術設定集》做足了宣傳，也讓期待已久的粉絲們先過過癮。雖然目前只是部分內容公開，但已經足以讓人對這本書充滿期待，渴望能將它帶回家，細細品味所有未公開的藝術創作與設計故事。這次的預覽，就是為了讓大家更了解這個創意作品背後的大工程，並且引導大家在書本正式推出後，能夠更全面的去探索其中的奧秘。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Sneak Peek Inside ‘The Art of Hoppers’ Book",
+    "enContent": {
+      "basic": "WDW News Today showed an early look inside 'The Art of Hoppers' book. This book shares pictures of how 'Hoppers' was made, like drawings of characters and places. It lets fans see the creative process. People are excited for the book to come out.",
+      "intermediate": "WDW News Today has offered an exclusive sneak peek into 'The Art of Hoppers' book, revealing a fascinating glimpse into the creative development of the 'Hoppers' project. This highly anticipated publication is set to feature a comprehensive collection of concept art, character designs, and behind-the-scenes insights, illustrating the journey from initial ideas to finished visuals. The preview builds excitement among fans eager to explore the artistic origins of the project.",
+      "advanced": "In an exclusive reveal from WDW News Today, enthusiasts have been granted a compelling sneak peek into 'The Art of Hoppers' book, a forthcoming publication dedicated to dissecting the intricate creative process behind the 'Hoppers' project. The preview showcases a curated selection of early concept art, iterative character designs, and foundational world-building illustrations, offering an unprecedented look at the artistic evolution and ideation phases. This strategic disclosure aims to heighten anticipation for the book's full release, promising a definitive collection for connoisseurs of animation and conceptual design."
+    },
+    "vocabulary": [
+      {
+        "word": "Sneak Peek",
+        "zh": "搶先看：指在正式公開前，偷偷或提早讓人看到一部分內容，通常是為了增加期待感。"
+      },
+      {
+        "word": "Concept Art",
+        "zh": "概念藝術：在電影、動畫或遊戲製作初期，設計師畫出來的初步圖畫，用來呈現角色、場景或物品的點子和風格。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-04-19",
+    "sourceName": "WDW News Today",
+    "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YaTlnUmhyRHFtRW1WTDNyMHpqWkdOSHBhTjFRVzBUd0xPdGhXWVl6ZVRQQWxpbW95U0VOay16YUdveHdRaENZMGx0ZjVNT2dSWHJLRThEckNFUlBkV0t0RDVWSlpLeGdwN0E4dE9NbkdzSlpIZl80?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "Google要和夥伴一起打造「AI大腦」？科技巨頭正為未來佈局！",
+    "zhSummary": "科技巨頭Google正在與晶片設計公司Marvell討論，希望能一起研發專為人工智慧（AI）設計的新晶片。這項合作如果成功，將有助於Google的AI產品跑得更快、更聰明。",
+    "zhContent": "<p>嘿，同學們！你們知道現在最夯的「人工智慧」嗎？Google這間科技巨頭最近有個大動作，根據新聞報導，他們正在跟一家叫做Marvell的公司秘密討論，想一起打造全新的AI晶片喔！這聽起來是不是很酷，就像Google要為自己的聰明AI們設計專屬大腦一樣！</p><p>想像一下，我們手機或電腦裡所有運作，都需要一顆顆小小的「晶片」來執行指令。特別是AI，它需要處理超大量的資料才能變得越來越聰明。這次Google之所以找上Marvell，就是希望Marvell能利用他們在晶片設計方面的超強技術，來幫Google做出更有效率、更適合AI使用的晶片。這項合作如果真的成功，未來我們用的Google搜尋、Google翻譯，甚至是各種智慧助理，可能都會因為這些新晶片而跑得更快、更厲害！</p><p>為什麼Google要自己做AI晶片呢？其實，很多科技公司都想擁有自己的專屬晶片，這樣就不必完全依賴其他晶片製造商，可以更好地控制成本，也能讓晶片更完美地配合自己的軟體。對Google來說，AI是他們未來發展的核心，所以擁有自己的AI晶片，就能讓他們在AI領域更有競爭力。而Marvell則是一家在網路基礎設施晶片領域很有名的公司，他們在這種複雜晶片的設計上經驗豐富，所以才會成為Google考慮的合作對象。</p><p>目前這項消息是由一家叫做《The Information》的媒體首先報導出來，而路透社也引用了這則新聞。報導中說的是「正在討論中」，所以這只是一個潛在的合作計畫，還沒有正式定案或宣布。但如果這個合作真的成真，那將會是AI晶片界的一件大事，也代表Google對AI發展的投入又更上一層樓了。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Google in Talks with Marvell to Develop New AI Chips, Reports Say",
+    "enContent": {
+      "basic": "Google, a big tech company, is talking with another company called Marvell. They want to work together to make special computer chips for AI, which stands for Artificial Intelligence. These chips are like brains for computers, helping AI do smart things faster. If they make these new chips, Google's AI products like search and translation could become even better. This news was first reported by The Information.",
+      "intermediate": "Tech giant Google is reportedly in discussions with chip design firm Marvell Technology to collaborate on developing new artificial intelligence (AI) chips. These specialized chips are crucial for enhancing the performance and efficiency of Google's AI-driven services and products. By creating its own AI-focused hardware, Google aims to strengthen its competitive position in the rapidly evolving AI market and potentially reduce its reliance on external chip suppliers. The report originated from The Information and was subsequently picked up by Reuters.",
+      "advanced": "Google, a dominant force in the technology sector, is reportedly engaged in strategic discussions with Marvell Technology concerning the co-development of next-generation artificial intelligence (AI) chips. This initiative underscores Google's commitment to strengthening its proprietary hardware capabilities, particularly in the burgeoning AI domain. By designing custom AI silicon, Google aims to optimize performance, enhance energy efficiency for its vast AI operations, and potentially achieve greater cost control and supply chain resilience. Marvell's expertise in specialized semiconductor design positions it as a key potential partner in this endeavor, as the competitive landscape in AI hardware intensifies. This development was initially brought to light by The Information, subsequently covered by Reuters."
+    },
+    "vocabulary": [
+      {
+        "word": "AI chips",
+        "zh": "人工智慧晶片。想像成是專門為機器人或電腦設計的「大腦」，讓它們能更快、更有效率地學習和思考。"
+      },
+      {
+        "word": "Marvell",
+        "zh": "美滿電子科技。這是一間專門設計很厲害、很複雜晶片的科技公司，就像是幫各種電子產品打造專屬「心臟」的專家。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-04-19",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWxnVXdLUWNJdk5fa1hpOVJUM2Rya25tcGYyUjE1NWN3T3VCcWU2M09jdmpqOUl1OUkyaXdna0ZIRnFSZm1NazdpQkkxSXVvN2ExSXVoQ3ZMenREUzRxMkNuWXRpR3hTek01Q3FYTFY2MUI1OWJpTi1YeDZIUHh1Xy1jZzZ0RW9xMzZudzZNS2EtSFEydWVoaVhzelVWc3hYNXRXRUdzNnhGWFpUMHVNZ1JJRm04MXpPNldj?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "油價飆高、戰火陰影籠罩：美國民眾的消費熱情降溫了！",
+    "zhSummary": "CNBC新聞曾報導，在過去某段時期，美國民眾因為擔心伊朗可能發生的衝突，加上汽油價格飆升到每加侖4美元，導致大家不再像以前一樣樂於花錢，整體消費經濟的活力因此大受影響。",
+    "zhContent": "<p>想像一下，如果有一天，你爸媽每次開車去加油都要花好多錢，電視上又常常播報遙遠國家有戰爭的緊張氣氛，你覺得大家還會開開心心出門購物、吃大餐嗎？美國財經新聞頻道CNBC曾經報導過，就是這種情況讓美國民眾的消費樂趣都沒了。這指的是在某個時期，因為兩種主要因素的影響，讓美國人對花錢變得非常保守。</p><p>當時，汽油價格一度漲到每加侖4美元，這對許多需要開車通勤或出遊的美國家庭來說，是一筆不小的開銷。因為汽車是他們日常生活中不可或缺的交通工具，油錢變貴了，就代表每個家庭能用在其他娛樂、購物或旅行上的錢自然就變少了，大家的錢包都感覺緊繃了不少。</p><p>不只如此，新聞中也提到「伊朗戰事」的陰影，這並不是說美國真的跟伊朗開戰了，而是指當時中東地區的政治局勢非常不穩定，讓許多人很擔心未來會不會有衝突發生。這種對未來的「不確定性」，讓許多民眾開始擔憂經濟前景，覺得還是把錢存起來比較保險，而不是把辛苦賺來的錢拿去花費。</p><p>在這種油價高漲和未來充滿不確定性的雙重壓力下，美國民眾的消費熱情明顯降溫。他們變得更保守，只會購買生活必需品，減少了非必要的開銷，例如減少外出用餐、延後購買新車或大型家電等。這也直接導致了整個美國經濟的活力減退，因為消費是推動經濟成長的重要動力之一。整個社會的「消費樂趣」就這樣消失了。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致美國民眾「消費的樂趣」消失了？",
+      "生活與未來：你覺得這種情況下，哪些行業會最先感受到衝擊？為什麼？",
+      "獨立思考提案：如果類似的情況發生在我們周遭，身為消費者，你可以採取哪些應對方式？"
+    ],
+    "enTitle": "High Gas Prices and War Fears: The US Consumer Economy Lost Its Spark",
+    "enContent": {
+      "basic": "Imagine if going to the gas station cost a lot, and news showed worries about war far away. People in the U.S. felt this way when gas prices hit $4 a gallon, and there were fears about a war with Iran. This made people stop spending money on fun things, making the economy less lively.",
+      "intermediate": "CNBC reported that a combination of factors made U.S. consumers less willing to spend. Gas prices soaring to $4 per gallon meant less money for other goods and services. Adding to this, the 'shadow of an Iran war' – meaning tensions and uncertainty in the Middle East – made people worry about the future. This caused them to save money instead of spending, reducing overall economic activity.",
+      "advanced": "The CNBC headline highlighted a period where two significant external shocks severely dampened the U.S. consumer economy. The steep rise in gasoline prices to $4 a gallon directly reduced discretionary income for many households, impacting their ability to spend on non-essentials. Concurrently, the looming threat of conflict with Iran generated considerable geopolitical uncertainty, prompting consumers to adopt a more cautious financial stance, prioritizing savings over spending. This collective shift in consumer behavior led to a noticeable slowdown in economic vitality, reflecting a broader loss of 'fun' in the consumer market."
+    },
+    "vocabulary": [
+      {
+        "word": "Consumer",
+        "zh": "消費者：就是像你我一樣，會去買東西、使用服務的人。例如買零食、衣服，或是去餐廳吃飯，我們都是消費者。"
+      },
+      {
+        "word": "Uncertainty",
+        "zh": "不確定性：當你對未來會發生什麼事情感到很模糊、不確定時，就是這種感覺。你不知道明天考試會考什麼，或是天氣會變怎樣，就是不確定性。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-04-19",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGFTaGtBNTloY2F3UGhUMmtpWnZucGVCZldIVFFsQW1qeEN5VS1wMXg3aFdxUWphZmpHRGcxM0lsUmx6LWRibDR1YVRPeEE4VGZsSnBtMUlhb0EyUnlpdzR3TEtCUXpENzRndEVhOXNHYzdYLXU3UzVwa3lVbU5NSzZVc1dueTJwR0h1ZElCc9IBjwFBVV95cUxOUGFTaGtBNTloY2F3UGhUMmtpWnZucGVCZldIVFFsQW1qeEN5VS1wMXg3aFdxUWphZmpHRGcxM0lsUmx6LWRibDR1YVRPeEE4VGZsSnBtMUlhb0EyUnlpdzR3TEtCUXpENzRndEVhOXNHYzdYLXU3UzVwa3lVbU5NSzZVc1dueTJwR0h1ZElCcw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "川普談論伊朗、石油與經濟：德國之聲進行「事實查核」",
+    "zhSummary": "前美國總統川普就伊朗、國際石油供應及美國經濟發表看法後，德國之聲（DW.com）對其言論展開了事實查核，比對官方數據與專家分析，以釐清這些說法的真實性。",
+    "zhContent": "<p>近期，前美國總統唐納德·川普針對伊朗的國際關係、全球石油供應以及美國經濟狀況發表了一系列看法。他的這些公開言論很快就引起了國際媒體的關注。其中，德國之聲（DW.com）特別針對他提出的幾個主要說法，進行了仔細的「事實查核」，目的就是要確認這些說法是否與實際情況相符，並且拿出證據來證明。</p><p>這不是川普先生第一次針對這些敏感議題發表意見。過去他的發言內容經常會觸及到美國與其他國家的關係，例如關於伊朗核協議的去留、中東地區的石油產量對全球的影響，以及美國國內的通貨膨脹率和就業市場表現等等。德國之聲的記者們在這次查核中，會將川普公開說過的話一一記錄下來，然後仔細去尋找政府官方報告、國際組織的數據，以及獨立專家的分析報告，來比對這些說法是否正確。</p><p>事實查核的背後目的，是希望提供讀者一個更客觀、更接近真相的資訊，避免誤導。例如，在針對川普關於伊朗的言論時，查核團隊可能會回顧過去美國與伊朗的協議內容，以及目前雙方實際的政治和經濟互動狀況。而談到石油供應議題，他們則會查閱國際能源署（IEA）等權威機構的報告，看看全球石油的生產量、消費量以及價格波動的真正原因，而不是單聽單方面的說法。</p><p>經過德國之聲團隊的嚴謹比對與分析，他們將整理出的查核結果公開發布，指出哪些是基於事實的陳述，哪些則與現有數據有所出入。這份查核報告的目的就是把這些資訊整理清楚，讓大眾能更清楚地了解這些話題的真實情況。這份報告本身並沒有做出任何延伸的結論或建議，只單純呈現了事實比對的客觀結果，將判斷的空間留給讀者。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，德國之聲在查核川普言論時，主要參考了哪些類型的資訊來源？",
+      "生活與未來：你覺得媒體進行「事實查核」的工作，對生活在現代社會的我們有什麼實際的幫助？",
+      "獨立思考提案：針對這類政治人物的公開言論，除了媒體的事實查核外，我們自己還可以透過哪些方式來判斷資訊的真假？"
+    ],
+    "enTitle": "Fact Check: DW Examines Trump's Statements on Iran, Oil, and Economy",
+    "enContent": {
+      "basic": "Former US President Donald Trump recently spoke about Iran, oil, and the US economy. German news outlet DW.com then checked his statements to see if they were true. They looked at facts from official reports and experts to compare with what he said.",
+      "intermediate": "Following recent remarks by former US President Donald Trump concerning Iran's international relations, global oil supplies, and the American economy, DW.com conducted a comprehensive fact-check. The aim was to verify the accuracy of his claims by comparing them against official government reports, data from international organizations, and analyses from independent experts.",
+      "advanced": "In response to former US President Donald Trump's recent pronouncements regarding Iranian geopolitical dynamics, global petroleum supply chains, and the performance of the United States economy, Deutsche Welle (DW.com) initiated a rigorous fact-checking process. This journalistic endeavor meticulously scrutinized Trump's public statements by cross-referencing them with corroborated data derived from governmental agencies, international bodies, and independent expert assessments, thereby aiming to ascertain the verity and evidentiary basis of his assertions."
+    },
+    "vocabulary": [
+      {
+        "word": "Fact-check",
+        "zh": "事實查核：指媒體或機構為了確認某個資訊、言論是否真實、正確，而進行的仔細查證過程。就像偵探一樣，會去找證據來證明說法是不是真的。"
+      },
+      {
+        "word": "Economy",
+        "zh": "經濟：指的是一個國家或地區，關於生產、分配和消費各種商品和服務的整個系統。它影響著大家的收入、物價、工作機會等等，跟我們生活中的大小事都息息相關。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-04-19",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEthcDJWQ21yWFN4a3JvWnNFZGctcjlsLVl0TGtZQkg0THhiZ0daaUxfbDNITUlxVUptUTVOVWdkVFpTS05nQVB6bkJzbmV0SnpnTEZOQWc2UTlOX3pKNDFzRzF4WE95cTZkdzB5dDBKR25EY2tqTXVqd3hDZjh4b09sZE5mcVJ6bVlYSG4wcW_SAZABQVVfeXFMT05yNlgweHo4WDYySi1vM3h4bDFzNWxkNnRYTUswSzVZejZEYmozSFl4ZFdyUU0xMnRRS1lqMzhzSWd3SERWbEhFWWRSWERXcjZVYi1uM3BjVkZJMXFJbTVwT2xZMGc0dXFjSnh4c3VXZmlkVWRDR2pENEp4VWN2cXZLTFdicGdteC10Q3dvUjQ3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "墨西哥、西班牙、巴西聯手，力挺古巴主權不受干涉！",
+    "zhSummary": "墨西哥、西班牙和巴西這三個國家，近日共同呼籲國際社會要保護古巴的國家主權，不讓它受到其他外力的干涉，這項聲明是來自《半島電視台》的報導。",
+    "zhContent": "<p>最近，地球的另一端有個國際新聞引起了關注，這跟位在加勒比海的島國古巴有關。根據國際媒體《半島電視台》的報導，有三個國家，分別是墨西哥、西班牙和巴西，他們公開表示，希望國際社會能好好保護古巴的國家主權。簡單來說，就是希望古巴這個國家，能有權利自己決定自己的事情，不要被外面的人或國家干涉。</p><p>這次的呼籲，是這三個國家在國際場合上表達的立場。這意味著他們認為古巴目前可能面臨一些外部壓力，或是某些國家對古巴的內政有意見。而墨西哥、西班牙和巴西這三個國家，特別出面強調「主權」的重要性，就是在提醒大家，每個國家都有它獨立的地位和權力，不應該隨意被其他國家指手畫腳。</p><p>那麼，為什麼是這三個國家會出來力挺古巴呢？其實，墨西哥和巴西都屬於拉丁美洲國家，跟古巴的地理位置和歷史文化上都有比較緊密的連結。而西班牙呢，則是古巴的宗主國，也就是說，古巴以前曾經是西班牙的殖民地，兩國之間有深厚的歷史淵源。因此，當古巴的國家自主權可能受到挑戰時，這些有著特殊關係的國家就比較容易站出來替它說話。</p><p>這項呼籲本身，就是一種外交上的表態，它向國際社會傳達了一個明確的訊息：這些國家支持古巴作為一個獨立的國家，擁有自己決定未來的權利。目前看來，這個表態的目的，主要是為了維護國際關係的穩定，以及確保各國在國際法框架下，都能尊重彼此的國家主權。至於後續會不會有其他國家加入，或是產生什麼新的發展，則有待進一步的觀察。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Mexico, Spain, and Brazil Call for Protection of Cuba's Sovereignty",
+    "enContent": {
+      "basic": "Mexico, Spain, and Brazil are asking for Cuba's right to govern itself to be protected. This means they want other countries to respect Cuba's independence and not interfere with its internal affairs.",
+      "intermediate": "According to Al Jazeera, Mexico, Spain, and Brazil have publicly called for the safeguarding of Cuba's national sovereignty. This diplomatic move suggests that these three nations believe Cuba's self-governance might be under threat from external pressures and they are advocating for non-interference in its internal matters.",
+      "advanced": "In a significant diplomatic statement reported by Al Jazeera, Mexico, Spain, and Brazil have united to call for the protection of Cuba's sovereignty. This collective appeal underscores the importance of national autonomy and implicitly challenges any perceived external interference in Cuba's affairs, reflecting a shared stance among these nations to uphold international principles of non-intervention."
+    },
+    "vocabulary": [
+      {
+        "word": "Sovereignty",
+        "zh": "主權：一個國家擁有自己管理自己的權力，不用聽從其他國家的指揮。就像你家是你爸媽做主，別人不能隨便來管一樣。"
+      },
+      {
+        "word": "Diplomacy",
+        "zh": "外交：指各國政府之間處理關係、進行溝通的方式。就像你和同學之間如果遇到問題，會透過說話、協商來解決一樣，國家之間也需要「外交」來處理事情。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-04-19",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVp5NEtVRmhsX2g0cWdBY3d0NWdUSkMxc3FkbkNaeFMyM0kxTkdyV25mYlB5Tl93VXlFdnpiTllsN1NTVHlBMW92UTFTdmU2cnRkdWR5WEtoQ29pMDhyczZYLWZBVFMtOVpUUml4RDdKS0lQakdqZEtFNjlSemVtdXl4RGtTbjZNODF5NV9Fc2t0TFlmQkwyc1UwYzlBVW83VGJsT0xGQWFqTTTSAbABQVVfeXFMTjhCQlRGM1YwTDRMbm1ZS1dnTGVad2xMbnotRjU1czZXemlRR0t4UW44ZFd2OGxwTXh6blBfRVpRakNnLUFFWWEtS0lZaC1Qa3h6LXM3dzRtTzhKSmIyUHNFNVFTZFBSTW4tVG5pZVdNMXFzVEMxODloOV9CdmNqSkZ3bmlZTEgxc2ZFdlF1ZGhhM0xmTVo3R1dlYTJUNVFycDFRTm41SFhSQXNjQ1hPVTg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國懷舊餐飲新風潮：傳統Bouillon餐廳熱烈回歸！",
+    "zhSummary": "法國近年掀起一股餐飲復古熱潮，曾經盛極一時的傳統「Bouillon餐廳」再度受到大眾喜愛，提供平價、道地的法式佳餚，吸引了許多當地人和觀光客重新回味這份經典美味。",
+    "zhContent": "<p>你曾聽過法國的「Bouillon餐廳」嗎？這幾年，法國吹起了一股懷舊的餐飲新風潮，曾經紅遍大街小巷的傳統Bouillon餐廳，正以全新的姿態，在巴黎及法國各地重新崛起，成為許多人用餐的新選擇。這些餐廳不只提供美味的法國菜，更因為它們獨特的歷史和親民的價格，再次擄獲了大小朋友的心。</p><p>Bouillon餐廳的歷史可以追溯到19世紀的法國，當時它們是為了滿足當地工人階級的需求而誕生，提供價格實惠、份量十足的湯品（Bouillon），以及各式各樣的經典法國菜。像是「牛肉清湯」、「香煎牛排配薯條」和「美乃滋雞蛋沙拉」等，都是當時非常受歡迎的菜色。它們的特色就是以樸實的風格，讓每個人都能輕鬆品嚐到道地的法式滋味，用餐氣氛也總是熱鬧又充滿活力。</p><p>經過了一段時間的沉寂，這些充滿歷史感的Bouillon餐廳最近又重新受到了年輕族群和國際觀光客的熱烈歡迎。大家開始喜歡上這種不拘小節、真實道地的用餐體驗。儘管許多Bouillon餐廳的裝潢華麗、充滿古典風情，菜單選擇也相當豐富，但它們最吸引人的地方，就是依舊保持著親民的價格，讓想品嚐法國傳統美食的人不再需要擔心荷包。這種平衡了美味、歷史與價格的獨特模式，讓它再次成為熱門話題。</p><p>根據法國當地媒體的觀察，這股Bouillon餐廳的復興浪潮正持續發酵，越來越多的新分店陸續開幕，也有許多老字號的Bouillon餐廳經過重新裝修後，再次營業，並且常常座無虛席。這顯示了這種獨特的餐廳模式，不僅成功找回了往日風采，更向現代社會證明了，傳統的簡單美味加上實惠的價格，依然能吸引眾多食客，讓更多人有機會體驗法國餐飲文化中平易近人又充滿魅力的那一面。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Bouillon餐廳重新受歡迎的原因有哪些？你覺得其中哪個原因對青少年來說最有吸引力？",
+      "生活與未來：你覺得這種「懷舊」的飲食風潮，會不會也出現在我們身邊呢？如果台灣也開始流行以前的某種傳統餐廳，你覺得會是什麼樣的餐廳？",
+      "獨立思考提案：Bouillon餐廳以「平價、道地」為特色，如果請你為台灣的一種傳統小吃設計一個重新推廣的方案，讓更多年輕人喜歡，你會怎麼做？"
+    ],
+    "enTitle": "France's Bouillon Restaurants Make a Grand Comeback",
+    "enContent": {
+      "basic": "Traditional French 'Bouillon restaurants' are making a big comeback in France. These restaurants, known for offering simple, affordable, and authentic French dishes, are becoming popular again. They attract many locals and tourists who want to experience classic French food without spending too much money. It's a return to a historic and beloved way of dining in France.",
+      "intermediate": "France is experiencing a renewed interest in its culinary heritage, with 'Bouillon restaurants' leading the charge. Dating back to the 19th century, these establishments were originally created to provide working-class people with hearty, budget-friendly meals like beef bouillon, steak frites, and oeuf mayonnaise. After a period of decline, these historic eateries are now thriving again, appealing to a new generation and tourists who appreciate their authentic flavors, vibrant atmosphere, and accessible pricing, all within often grand and ornate settings.",
+      "advanced": "The revival of 'Bouillon restaurants' signifies a broader cultural trend in France towards nostalgia and accessible authenticity in dining. Once a cornerstone of Parisian working-class gastronomy in the 19th century, these establishments, characterized by their generous portions, classic French fare, and remarkably low prices amidst often opulent décor, are experiencing a significant resurgence. This comeback is driven by a desire for unpretentious, traditional experiences, appealing to both locals seeking a taste of their heritage and tourists eager for an affordable, genuine slice of French culinary life. The current boom, marked by new openings and renovated historical sites, reflects a successful blending of historical charm with contemporary appeal, proving that quality and affordability can co-exist in the modern restaurant landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "Bouillon",
+        "zh": "法文，指的是一種清湯或高湯，通常是肉類或蔬菜熬煮而成。在這裡是指一種專門賣傳統平價法國菜的餐廳，以這類湯品命名。"
+      },
+      {
+        "word": "Embrace",
+        "zh": "擁抱，在這裡不是真的抱抱，而是「接受」、「重新喜歡上」或「歡迎」某樣東西的意思，表示對某事物的態度轉變為正向。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-04-19",
+    "sourceName": "Taipei Times",
+    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5feVNvYmhaNktwUDVaWU5xdlgxUnVHR2tuNkFfdTctZWtuSGhNWElZU3pNZkoxVlRaY3h0QjFyZldxckpCNmdjUFNlX2k4bFlfSTh3QTdLYXktTTY4VzRkb1A5VlBxUmFNbWRXR0lNa1dnOWVpYVB1RA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "穆加貝之子在南非認罪：一場與槍械相關的法律風波",
+    "zhSummary": "辛巴威前總統穆加貝的兒子在南非的法庭上，承認了一項非法持有或使用槍械的指控，為這起法律事件畫下句點。",
+    "zhContent": "<p>南非最近發生了一件引起關注的法律事件，主角是辛巴威前總統穆加貝的兒子。根據非洲通訊社（APAnews）的報導，穆加貝的兒子在南非的法庭上，承認了一項與槍械相關的指控。這代表他已經接受了自己違反當地槍械法規的事實，為這起事件畫下了一個法律上的里程碑。</p><p>這項槍械指控的確切細節，報導中並未完全公開，但通常這類指控可能涉及非法持有槍械、沒有合法的槍械許可證，或是違反了其他關於槍械使用的嚴格規定。在許多國家，私人持有槍械都有非常嚴格的法律限制，需要經過申請、審核，並取得相關的證照。一旦違反，就會面臨法律的制裁。</p><p>雖然新聞來源沒有深入說明穆加貝的兒子為何會面臨這項指控，但作為一位前國家元首的後代，他的任何公開行為都容易受到媒體和公眾的檢視。他選擇「認罪」，表示他承認了檢方對他的指控，並同意承擔相應的法律責任。在法律程序中，認罪有時是為了更快地解決案件，或是可能與檢方達成某種形式的協議。</p><p>目前，這起事件的最終結果就是穆加貝的兒子已經正式認罪。這代表了南非司法程序的一個階段性完成。報導並未提供他將面臨的具體刑罰或其他後續處置，但「認罪」本身就確立了他違反槍械法規的事實。新聞到這裡就打住，沒有再多談未來會如何或對其他人有什麼影響。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Mugabe's Son Pleads Guilty in South Africa: A Firearm Legal Case",
+    "enContent": {
+      "basic": "South Africa recently saw a legal case involving the son of former Zimbabwe President Mugabe. Reports say he admitted to a charge linked to a gun in a South African court. This means he accepted that he broke local gun laws.",
+      "intermediate": "In South Africa, the son of former Zimbabwean President Robert Mugabe has pleaded guilty to a firearm charge. This legal development indicates his admission to violating gun regulations within the country. While the exact details of the charge haven't been fully disclosed, it typically involves unauthorized possession or misuse of a weapon.",
+      "advanced": "The legal proceedings in South Africa have concluded with a guilty plea from the son of former Zimbabwean President Robert Mugabe, concerning a firearm charge. This admission signifies his acknowledgement of infringing upon the nation's stringent firearm legislation. Although the specifics of the offense remain undisclosed, a guilty plea in such cases often implies unlawful possession or a breach of licensing requirements."
+    },
+    "vocabulary": [
+      {
+        "word": "guilty",
+        "zh": "有罪的 (yǒu zuì de) - 意思是指某個人做了一件不對的事，而且被證明確實是他做的，所以要承擔責任。"
+      },
+      {
+        "word": "firearm",
+        "zh": "槍械 (qiāng xiè) - 意思就是槍枝或任何用來發射子彈的武器，像是手槍、步槍等。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-04-19",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVOMmtOZjVPam9Pem5BQms4WUxrbENIZ2NkT2thay1wVlhWejJLd1FEYThvdXYtNGhvdzh5NWVyNVRsVWJ5c0REUzcwLTM1R2dYNzJjVVFSUVNKYVhvcEZMc1I0WDZPRVJqTHFoNHp0N3dJUVVTVVU0RVBZbU5TVnlfaw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東衝突震撼經濟：IMF警告區內損失「前所未有」",
+    "zhSummary": "國際貨幣基金組織（IMF）表示，中東地區的衝突對當地經濟造成了「前所未有」的巨大打擊，不僅影響旅遊業和貿易，也讓各國財政壓力倍增。",
+    "zhContent": "<p>國際貨幣基金組織（IMF）最近透過法新社（AFP）發出嚴正警告，指出中東地區目前的戰事，對當地的經濟造成了「前所未有」的巨大衝擊。這個消息來自法國24電視台的報導，清楚點出了衝突不僅帶來人道危機，更讓整個區域的經濟發展面臨嚴重考驗。</p><p>根據IMF的說法，這場持續的衝突正在多方面影響中東各國。首先，旅遊業是許多國家重要的收入來源，但戰火讓遊客卻步，飯店、航空公司和相關產業都受到重創。其次，貿易路線也受到波及，貨物運輸變得困難且昂貴，阻礙了商品流通。許多原本計畫在當地進行的投資也因此暫停或取消。</p><p>IMF提到，這些負面影響導致該地區的經濟成長預期大幅下調。一些國家可能面臨財政赤字增加，因為政府需要投入更多資源來應對危機，同時稅收收入卻減少。該組織的專家解釋，雖然部分石油出口國因油價波動可能獲得短暫好處，但整體而言，衝突帶來的長期不穩定和不確定性，對整個區域的經濟前景都是巨大的威脅。</p><p>目前看來，IMF的這份報告並沒有提出具體的經濟復甦方案，而是著重於揭示當前嚴峻的經濟狀況。他們強調，除非戰事能夠獲得有效控制並趨於緩和，否則中東地區的經濟將會持續面臨沉重壓力，短期內很難看到明顯好轉。這項評估顯示，衝突造成的經濟創傷是廣泛而深刻的。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，IMF為什麼會說中東地區的經濟受到「前所未有」的打擊？新聞裡提到了哪些具體的影響？",
+      "生活與未來：你覺得這個事件對中東地區青少年的日常生活可能造成什麼實際影響？（例如升學、工作、未來規劃等）",
+      "獨立思考提案：如果有一個國際組織想要幫助中東地區的經濟恢復，你認為他們應該優先從哪些方面著手？為什麼？"
+    ],
+    "enTitle": "Mideast War: An 'Unprecedented' Economic Blow, Warns IMF",
+    "enContent": {
+      "basic": "The International Monetary Fund (IMF) has warned that the ongoing conflict in the Middle East is having a huge, 'unprecedented' negative impact on the region's economy. This news comes from France 24, reporting what the IMF told Agence France-Presse (AFP). The war is hurting many parts of the economy, making it hard for countries to grow and prosper.",
+      "intermediate": "The IMF stated that the current war in the Middle East represents an 'unprecedented' economic blow for the entire region. This assessment, relayed by AFP and reported by France 24, highlights how the conflict is severely damaging various sectors. Tourism, a key revenue source for many nations, has plummeted, and trade routes are disrupted, making the transport of goods difficult and costly. Foreign investment projects have also been put on hold or cancelled due to the instability.",
+      "advanced": "The International Monetary Fund (IMF) has issued a stark warning through Agence France-Presse (AFP), as reported by France 24, stating that the protracted conflict in the Middle East is inflicting an 'unprecedented' economic setback on the region. The IMF's analysis indicates a significant downward revision of economic growth forecasts, attributing the downturn to widespread disruptions across critical sectors. The plummeting tourism industry, fragmented trade routes, increased logistical costs, and a chilling effect on foreign direct investment are collectively exacerbating fiscal pressures on regional governments, despite potential short-term benefits for some oil exporters from fluctuating energy prices. The institution underscores that the pervasive instability and uncertainty pose an enduring threat to the region's long-term economic viability."
+    },
+    "vocabulary": [
+      {
+        "word": "Unprecedented",
+        "zh": "前所未有 (以前從來沒發生過、沒有過先例的意思。想像你第一次看到一種從沒見過的動物，那種經驗就是「前所未有」的。)"
+      },
+      {
+        "word": "Fiscal",
+        "zh": "財政 (跟一個國家或政府的錢財、收支有關。像是政府怎麼收稅、怎麼花錢、有沒有欠債，都屬於「財政」的範圍。)"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-04-19",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaWZNMFBzZ2pLRlE1Nkpub3RVOUVERjdDMndHSE1aYmY2LUNBYWhNOXpmSkEwYTcwUnRzUWZJR01wYlJ5QWRaaDVpUnBfSC1xdlk5TnAwNnpoY0dEai1BRTFGSVRhcHBQaldWWXhmRGdYcTVjeURUX3RfZmVjSGtmZWlXM3lvci03NU9heUhUcW13NHZnOW0tOFVnRjVqN3hJaDRRcA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "電動車大戰開打！誰是目前賽道上的領跑者？",
+    "zhSummary": "這篇報導揭露了全球電動車產業的最新戰況，各家車廠都在努力搶攻市場。從銷售量到創新技術，不同地區的品牌正展開一場激烈的競爭，力拚成為電動車時代的真正贏家。",
+    "zhContent": "<p>近年來，全球掀起了一股電動車（EV）的熱潮，越來越多的人選擇開電動車，不只為了環保，也因為科技越來越進步。但你知道嗎？在這些看似平靜的銷售數字背後，其實是一場非常激烈的「電動車大賽」正在上演！全球的汽車製造商，不管是老牌大廠還是新創公司，都在拚命研發、生產電動車，目標就是要搶下最多的市場，成為這場新世代競賽的領跑者。</p><p>目前在這場賽道上，有幾位選手特別搶眼。一開始，美國的特斯拉（Tesla）可以說是大家最熟悉的明星，它的電動車設計很酷，自動駕駛技術也吸引了許多粉絲。不過，現在情況有點不一樣了。來自中國的電動車品牌，像是比亞迪（BYD），突然之間加速超車，他們的電動車款式多樣，價格也比較親民，在中國這個巨大的市場上賣得非常好，銷售量直線上升。</p><p>這場競爭之所以如此精彩，原因有很多。有些國家政府大力支持電動車產業，提供了各種補助和優惠政策，鼓勵民眾購買電動車，也讓車廠更有動力去研發。另外，各家車廠的策略也不同，有的專注在高階市場，打造豪華又性能強大的電動車；有的則是希望把電動車普及化，推出價格實惠、功能實用的車款，讓更多人都能輕鬆擁有電動車。</p><p>所以，這場電動車的「冠軍」之爭，其實沒有一個固定的答案，情況不斷在變化。雖然特斯拉過去一直被視為龍頭，但現在中國的電動車品牌在銷售數量上展現出強大的實力，而傳統的汽車大廠也正加快轉型，推出各自的電動車款來追趕。現在看起來，某些區域的品牌可能在某些方面暫時領先，但未來的發展仍然充滿變數，每一刻都可能會有新的黑馬出現，讓戰況更加撲朔。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到哪些品牌或國家在電動車市場上表現突出？它們各有什麼特色或優勢？",
+      "生活與未來：你覺得電動車的普及對我們的生活會造成什麼實際影響？例如在交通、環境或能源方面？",
+      "獨立思考提案：針對電動車的發展，你覺得還可以怎麼做會更好？例如在充電站的建設、電池回收技術或價格方面，你會有什麼建議？"
+    ],
+    "enTitle": "The EV Race: Who's Leading the Pack?",
+    "enContent": {
+      "basic": "The world is buzzing about electric cars. Many companies are making new electric vehicles (EVs) for people to buy. This story talks about who is winning this big competition. Some companies like Tesla were popular first. But now, other brands, especially from China like BYD, are selling many cars too. They are trying to make cars that everyone can afford. Different countries also help their car makers. It's like a big race, and the leader keeps changing!",
+      "intermediate": "The global electric vehicle (EV) market is a fierce battleground, with numerous manufacturers vying for dominance. Initially, American companies like Tesla captured significant attention with their innovative designs and technology. However, the landscape is evolving rapidly. Chinese brands, such as BYD, have made impressive strides, particularly in their home market, offering a wider range of affordable models that have led to high sales volumes. This intense competition is fueled by various factors, including government incentives in different regions and diverse business strategies—some focusing on luxury EVs, while others prioritize mass-market appeal. The 'winner' of this race is not fixed; the leadership position is constantly shifting as new players emerge and established ones adapt.",
+      "advanced": "The burgeoning electric vehicle (EV) sector represents a critical front in global industrial competition, with nations and corporations aggressively vying for market leadership. Historically, innovators like Tesla established an early lead, defining the premium segment with advanced technology and brand appeal. However, the competitive dynamic has significantly intensified, particularly with the ascendance of Chinese manufacturers such as BYD, which have leveraged strong domestic market support and efficient production capabilities to achieve substantial sales volumes and market penetration, especially in the affordable EV segment. This global contest is shaped by heterogeneous policy environments, varying consumer preferences, and distinct corporate strategies, ranging from high-performance luxury vehicles to accessible mass-market solutions. Consequently, the notion of a singular 'winner' is fluid, with regional and brand-specific advantages constantly fluctuating as the industry matures and new technological paradigms emerge."
+    },
+    "vocabulary": [
+      {
+        "word": "Electric Vehicle (EV)",
+        "zh": "電動車：一種用電池和電動馬達來驅動的汽車，不需要燃燒汽油或柴油，比較環保。"
+      },
+      {
+        "word": "Market Share",
+        "zh": "市場佔有率：指某個品牌或公司在某個產品的總銷售量中，佔了多少百分比。數字越高，代表它賣得越多，越受歡迎。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-04-19",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zM085MjdQVERMdVFWM18tYTVDRlpsMTZfaWtJYU5kZHpNbUxTdEtZdnFSWDdrU0FMRENaUng3cGtpZUtvaVktNzdwb3ZNMEZ0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "青少年週報：東南亞海洋警訊！「過度捕撈」如何讓魚兒消失，漁夫沒飯吃？",
+    "zhSummary": "NPR報導指出，東南亞地區的過度捕撈正嚴重影響海洋生態，導致魚群銳減，同時也讓當地數百萬漁民的生計陷入危機，成為一場生態與人類的雙重困境。",
+    "zhContent": "<p>最近，來自NPR的報導指出，東南亞海域正悄悄地面臨一個大麻煩，這個麻煩叫做「過度捕撈」。簡單來說，就是漁夫們抓的魚太多、太快了，讓大海裡的魚兒們來不及生長和繁殖。這不只讓海洋生態亮起紅燈，也讓當地許多靠海吃飯的人們日子越來越難過，變成了一場生態與人類的雙重危機。</p><p>過去幾十年來，隨著捕魚技術越來越進步，加上市場對海鮮的需求不斷增加，許多漁船都出海捕撈。有些漁船甚至使用了拖網等會破壞海底環境的捕魚方式。結果就是，以前隨處可見的魚群現在變得稀少，漁獲量也大幅減少。漁夫們常常空手而回，或者抓到的魚又小又少，根本不夠養家活口，讓他們的生活陷入困境。</p><p>報導中提到，這個問題之所以嚴重，一部分是因為東南亞地區的海洋生物種類非常豐富，吸引了大量的捕撈活動。然而，許多國家在漁業管理方面卻沒有足夠嚴格的規定，導致漁船數量太多，捕撈量也超出海洋能承受的極限。此外，一些貧困的漁民為了生計，即便知道過度捕撈會破壞環境，也別無選擇，只能繼續出海捕魚。</p><p>目前，科學家們正密切觀察這片海域的變化，並不斷發出警訊。有些當地社區和環保團體也開始嘗試推廣更友善海洋的捕魚方式，例如限制捕撈量、保護珊瑚礁等。國際社會也逐漸意識到問題的嚴重性，思考如何協助這些國家找到平衡點，既能維持漁民生計，又能保護珍貴的海洋資源。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Photos: How overfishing in Southeast Asia is an ecological and human crisis",
+    "enContent": {
+      "basic": "Overfishing in Southeast Asia is causing fish populations to drop and affecting local fishermen.",
+      "intermediate": "A report highlights how excessive fishing in Southeast Asia is creating an ecological imbalance and economic hardship for coastal communities.",
+      "advanced": "NPR details the escalating ecological and human crisis in Southeast Asia, where unsustainable fishing practices are decimating marine biodiversity and jeopardizing the livelihoods of millions dependent on the sea."
+    },
+    "vocabulary": [
+      {
+        "word": "overfishing",
+        "zh": "過度捕撈 (guo4 du4 bu3 lao1) - 指的是漁夫們在某個水域捕獲的魚類數量太多，超過了魚群能夠自然繁殖和成長的速度，導致魚類數量越來越少。"
+      },
+      {
+        "word": "ecological",
+        "zh": "生態 (sheng1 tai4) - 指的是一個地方的生物（像是魚、植物、動物）和牠們所居住的自然環境（像是海水、土壤、空氣）之間，互相影響、互相依存的關係。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-04-19",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2djZzIxNnFFRkZpQmprRGxOQXNqWDR1Um0wQS1aWTVremltQzhwdWtKeTFZTU1FQWZTYW5sOWlEZHFUXzUyYW9JbndCeWhPY2RvU0ZWQ3pkanRoQTlRQWlHQzFPQkgyeTBEbmQyTkZPMTdtVW5RZWgyWUZOUGtrbWNtdWZmTF9ENTM5eG96VGd2bk5UU0JrODAxQ29meG1QTkE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "Fijiana女子橄欖球隊旗開得勝，Moana Pasifika奮戰雖敗猶榮",
+    "zhSummary": "斐濟的Fijiana女子橄欖球隊在一場激烈的對決中，成功擊敗了Moana Pasifika隊，贏得了一場重要的勝利。Moana Pasifika雖然落敗，但在比賽中展現了頑強的拼搏精神。",
+    "zhContent": "<p>一場備受矚目的女子橄欖球賽事近日落幕，來自斐濟的Fijiana女子隊，以出色的表現，擊敗了強勁的對手Moana Pasifika隊，為自己贏得了一場意義非凡的勝利。這場比賽吸引了眾多目光，兩支隊伍在場上你來我往，展現了高水準的競技狀態，讓觀眾們為之振奮。</p><p>根據外媒報導，整場比賽過程非常激烈，Moana Pasifika的隊員們從頭到尾都展現了永不放棄的精神，即使面對Fijiana隊強大的攻勢，她們依然奮力抵抗，努力尋找突破的機會。然而，Fijiana隊憑藉著更為精準的戰術執行和隊員之間的默契配合，最終還是掌握了場上的主導權，一步步鞏固了她們的領先優勢。</p><p>這場「大勝」對Fijiana隊來說，無疑是極大的鼓舞，證明了她們在訓練中的努力沒有白費，也讓她們在賽季中的表現更加亮眼。這不僅僅是一場比賽的勝利，更是對她們團隊精神和實力的一次肯定。儘管Moana Pasifika最終未能獲勝，但她們在比賽中展現的「奮戰到底」的精神，同樣贏得了所有人的尊重。</p><p>比賽結果已定，Fijiana隊帶著勝利的喜悅收穫了成功，而Moana Pasifika隊雖然失利，但也從這場高強度的對抗中累積了寶貴的經驗。這兩支隊伍都將繼續前進，從這場激烈的交鋒中學習，為未來的比賽做好準備。勝負乃兵家常事，重要的是在每一次挑戰中都能有所成長。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Fijiana Women's Rugby Secures Big Win as Moana Pasifika Fights Valiantly",
+    "enContent": {
+      "basic": "Fijiana women's rugby team won a big game against Moana Pasifika. Moana Pasifika played hard but lost. Fijiana's victory was important for them.",
+      "intermediate": "The Fijiana women's rugby team achieved a significant victory over Moana Pasifika in a highly contested match. Despite Moana Pasifika's valiant effort and relentless fighting spirit, Fijiana demonstrated superior play to secure the win.",
+      "advanced": "The Fijiana women's rugby squad celebrated a substantial triumph after a fiercely contested encounter against Moana Pasifika. While Moana Pasifika showcased remarkable resilience and fought with unwavering determination throughout the game, Fijiana's strategic execution and cohesive teamwork ultimately prevailed, solidifying a pivotal win for their season."
+    },
+    "vocabulary": [
+      {
+        "word": "victory",
+        "zh": "勝利：在比賽或競爭中贏得成功，打敗對手。"
+      },
+      {
+        "word": "resilience",
+        "zh": "韌性：指一個人或一個團隊在面對困難或挫折時，能夠快速恢復並繼續努力的能力。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-04-19",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXVFV3JzbzdYVi0xWUdlaFVYV1R2VjRlNHo2NWx4TUgxS0NmbGJVZWVFNWRlOW8xUkJxVmI3cDFrVEZKUGJVa1hRUnFXYW5PRnJUZWQ0WTRaMk9OaU9ieW50aUtWUkctdUI5ZlZJZkF5cnlacTQ3d18yYmVwLVhXRTI0cUlIbjNZakRYQUc2Yzduek05SG5wdkRZNHI?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "教宗踏上非洲行 首站阿爾及利亞 呼籲反戰、反對不公平影響",
     "zhSummary": "教宗方濟各開啟了非洲之旅，首站來到阿爾及利亞。他在當地發表重要談話，強調反對戰爭，並譴責現今世界仍存在著強國對弱國不公平的影響力，也就是所謂的「新殖民主義」。",
     "zhContent": "<p>梵蒂岡的教宗方濟各展開了他備受全球關注的非洲之旅，首站於2026年4月14日抵達北非國家阿爾及利亞。這次拜訪引起了許多人的注意，因為教宗一踏上非洲大陸，就立刻對當前世界面臨的重要問題發出呼籲。他明確表達了對戰爭的譴責，並要求各國努力追求和平，同時也特別指出，現在世界上依然存在著一種「新殖民主義」的現象。</p><p>教宗所說的「新殖民主義」，指的是過去一些強大國家直接佔領並統治其他國家的方式雖然已經結束，但現在卻換成了另一種形式的影響。這可能是指經濟上或政治上的不公平關係，讓一些較為弱勢的國家，就算表面上獨立，卻仍舊被強權國家間接控制或剝削。教宗在阿爾及利亞的談話中，嚴肅地提醒大家注意這些不公平的影響，希望所有國家都能真正獨立自主，並確保彼此之間的尊重與公平。</p><p>教宗選擇阿爾及利亞作為他非洲行的第一站，這是一個有著豐富歷史背景的國家。阿爾及利亞曾被法國殖民，直到1962年才獨立，經歷過漫長的獨立戰爭。因此，教宗在這裡提及「新殖民主義」的議題，對於當地人民來說，可能別具意義，也更能夠引起共鳴。他的到訪，不僅是為了傳達和平訊息，也顯示他對非洲大陸過去的歷史和現在面臨的挑戰，都有深入的理解與關懷。</p><p>教宗方濟各這次的阿爾及利亞之行，藉由他的公開發言，再次向全世界傳達了他對於全球和平與公平正義的堅定立場。這次訪問為他接下來在非洲的行程定下了基調，預計他將繼續在其他國家推動類似的對話，並鼓勵國際社會關注這些重要的全球議題。目前為止，教宗的非洲行持續進行中，而他的呼籲也已引起廣泛的關注。</p>",
