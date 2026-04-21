@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "國際動態：日本政策轉變、戰車意外與台灣出訪調整",
+    "zhSummary": "2026年4月21日的國際新聞聚焦日本戰後首次解禁殺傷性武器出口，以及自衛隊戰車膛炸事件。同時，台灣總統賴清德的出訪計畫因外部經濟壓力而暫緩。",
+    "zhContent": "<p>2026年4月21日，國際間發生了幾件重要事件，引起了廣泛關注。其中最引人注目的是日本政府宣布了一項重大政策調整，決定解除長期以來對「殺傷性武器」出口的限制。這項決定代表了日本自第二次世界大戰結束以來，在國防政策上的一個歷史性轉變，打破了過去對於武器出口的嚴格規範。</p><p>根據報導，日本這次的政策放寬意味著該國製造的、具有攻擊或防禦性質的武器，未來將能夠出口到其他國家。這與過去日本和平憲法所倡導的精神形成對比，被外界視為一個重要的里程碑。然而，就在同一天，日本自衛隊卻傳出一則不幸的消息：一輛戰車在訓練中，發生了嚴重的「砲管膛炸」意外，這起事故造成了三名人員不幸身亡，另有一人受傷。</p><p>與此同時，台灣方面也有一項重要的外交動態。原訂由總統賴清德前往邦交國史瓦帝尼的訪問行程，已確定暫緩。這項出訪計畫的調整，據稱與中國對包括史瓦帝尼在內的三個國家所施加的經濟壓力有關。報導指出，這種來自外部的經濟壓力，是促使總統暫時調整行程安排的主要原因，凸顯了區域內複雜的政治和外交關係。</p><p>綜合來看，當天的國際新聞呈現出多個面向的發展。日本在武器出口政策上邁出了關鍵一步，同時其自衛隊也遭遇了意外事件；而台灣總統的出訪計畫則受到外部因素影響。這些事件共同描繪出2026年4月21日國際舞台上的一些重要變化與挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "International Developments: Japan's Policy Shift, Tank Accident, and Taiwan's Trip Postponement",
+    "enContent": {
+      "basic": "On April 21, 2026, several big international news stories happened. Japan made a huge change, deciding to allow the export of 'lethal weapons' for the first time since World War II. This is a big deal because Japan usually doesn't send weapons to other countries. Also, a sad accident happened: a tank in Japan's army had its cannon explode during training, killing three people and hurting one more. Meanwhile, Taiwan's President Lai Ching-te had to put off his trip to a friendly country called Eswatini. This was because another country, China, was putting economic pressure on Eswatini and two other nations. So, on this day, we saw big policy changes, a tragic accident, and adjustments in international travel plans.",
+      "intermediate": "Global news on April 21, 2026, highlighted significant shifts and events. Japan announced a major post-World War II policy change, lifting its ban on the export of 'lethal weapons.' This decision marks a historic turning point in Japan's defense policy, moving away from its long-standing strict controls on arms sales. Concurrently, an unfortunate incident occurred within Japan's Self-Defense Forces: a tank's cannon barrel burst during training, resulting in three fatalities and one injury. Separately, Taiwan's President Lai Ching-te postponed his scheduled visit to Eswatini. This deferment was reportedly due to economic pressure exerted by China on three countries, including Eswatini, signaling complex regional diplomatic dynamics.",
+      "advanced": "The international landscape on April 21, 2026, was marked by several pivotal developments. Foremost among them was Japan's declaration of a significant post-World War II policy reversal, authorizing the export of 'lethal weapons.' This move represents a profound strategic shift from Japan's hitherto stringent self-imposed restrictions on armaments trade, largely informed by its pacifist constitution. Simultaneously, the Japan Self-Defense Forces experienced a tragic incident where a tank's cannon suffered a catastrophic barrel burst during a training exercise, leading to three fatalities and one injury. Concurrently, Taiwan's President Lai Ching-te's planned diplomatic visit to Eswatini was indefinitely postponed. This alteration in itinerary was reportedly instigated by economic coercion exerted by China upon Eswatini and two other nations, underscoring the intricate geopolitical pressures at play in the region."
+    },
+    "vocabulary": [
+      {
+        "word": "Lethal",
+        "zh": "殺傷性的：指的是有能力造成死亡或嚴重傷害的武器或物質。就像玩具槍不會傷人，但真正的槍就有殺傷力。"
+      },
+      {
+        "word": "Postpone",
+        "zh": "暫緩、延期：意思是把原本計畫要做的事情往後推遲，不在原定的時間進行。就像如果你生病了，學校的校外教學可能就會被延期。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-04-21",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhMWN3cU9GWVdLTHJzM3JIaWlScnBROEswZUdYcjhRYVNFc1BBeVQyLTJZa2NtZnAxX2F3Y1MzREk2NE14OVE3QW1Vdm1OMzBrM3lGUWowb0ZKZ00?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "英國攝影大師馬丁·帕爾新作：「全球警報」攝影展引關注",
+    "zhSummary": "知名攝影師馬丁·帕爾的「全球警報」攝影展，透過他獨特的視角，捕捉現代社會的消費行為與對環境的影響，並受到《衛報》的高度評價，被譽為展現其「狂熱、眼花撩亂的榮光」。",
+    "zhContent": "<p>最近，英國知名報紙《衛報》為一位非常特別的攝影師馬丁·帕爾（Martin Parr）的最新作品《全球警報》（Global Warning）寫了一篇評論。這位攝影大師以他獨樹一幟的風格，捕捉了現代社會中各種有趣又有點諷刺的日常景象。這次的「全球警報」系列，正如其名，探討了我們現在居住的這個世界，尤其是人類活動對環境和生活的影響，但他的方式並不是嚴肅說教，而是透過鏡頭呈現出充滿人性的觀察與紀錄。</p><p>馬丁·帕爾的作品一直以來都很有識別度。他常常用鮮豔的色彩和近距離的視角，拍攝人們在度假、購物或參加各種活動時的場景。這次在《全球警報》中，他延續了這種風格，透過一張張照片，記錄下消費主義的浮華、人們對物質的追求，以及在享受生活時，不知不覺間對地球造成的影響。評論形容他的作品充滿了「狂熱、眼花撩亂的榮光」，意思是他將這些有點「過度」的社會現象，以一種既真實又帶點幽默感的方式呈現出來，讓人看了會心一笑，卻也能思考背後的問題。</p><p>為什麼馬丁·帕爾的作品會受到這麼高的評價呢？《衛報》的評論指出，他厲害的地方在於，他能從看似普通的生活片段中，發現那些被我們忽略的細節和矛盾。他鏡頭下的世界雖然有時候看起來有點滑稽，甚至有點誇張，但正是這些「不完美」和「過剩」，才真實反映出我們現代社會的某些面貌。他的照片不是直接給答案，而是透過視覺的衝擊，邀請觀眾自己去感受、去解讀。他巧妙地避開了說教，卻達到了引人深思的效果。</p><p>總結來說，《衛報》對馬丁·帕爾的《全球警報》系列給予了非常正面的肯定。評論認為，他再次展現了他作為一位「偉大攝影師」的實力，用他獨有的觀察力，為當代社會留下了一系列既有趣又值得深思的影像紀錄。這場展覽或這系列作品，成功地以一種非傳統的方式，讓更多人開始注意到那些看似日常，實則意義深遠的「全球警報」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Martin Parr's 'Global Warning' Exhibition Draws Attention",
+    "enContent": {
+      "basic": "Photographer Martin Parr has a new exhibition called 'Global Warning'. It shows how people consume things and how it affects the planet. The Guardian newspaper wrote a good review about it. Parr uses bright colors and close-up shots to show everyday life and consumption. His photos make people think without telling them what to do.",
+      "intermediate": "British photographer Martin Parr's latest exhibition, 'Global Warning', is getting a lot of attention, including a positive review from The Guardian. Known for his unique style, Parr captures scenes of modern society, often with a hint of irony. This series explores human activity's impact on the environment and our lives, but through observational photography rather than direct lecturing. The review praises his ability to highlight consumerism and excess in a way that is both visually striking and thought-provoking.",
+      "advanced": "Renowned British photographer Martin Parr's new exhibition, 'Global Warning', has garnered significant acclaim, notably a detailed review in The Guardian. Parr, celebrated for his distinctive use of vibrant colors and intimate perspectives, documents the nuances of contemporary life. This latest body of work, as its title suggests, delves into the human footprint on the planet and our societal habits, particularly consumerism. The Guardian's review highlights Parr's genius in portraying the 'gluttonous, giddy glory' of modern existence, presenting the complexities of overconsumption and environmental impact through compelling, often humorous, imagery that prompts reflection without dictating a message."
+    },
+    "vocabulary": [
+      {
+        "word": "gluttonous",
+        "zh": "貪婪的、過度的：形容一個人或一件事物「很愛吃、很貪心」，或者「過度、不停地追求某樣東西」。在這裡，用來形容現代社會消費太多、浪費資源的現象。"
+      },
+      {
+        "word": "giddy",
+        "zh": "眼花繚亂的、輕浮的：形容因為太興奮、太快樂，或是被太多東西圍繞而感到有點「頭暈、不真實」的感覺。在這裡，是說馬丁·帕爾用特別的手法，把現代社會中各種多到讓人眼花撩亂的景象拍下來。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-04-21",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2xsSXNWQkc5T21KMXdodzJTTUhwdWUxalB3bWpCNlk3QUQxZ3d3eEdGcTR2dnRFZkl3TXZaSDZSemwxYkh1SE9rdzQtb1FFMFpiZlRKc25KNWRUN25iNWtRNDl5WFI4QjNUMXY5NjVEd3VBZXJkdXpaX3RyWnNoRU9ILXBacHp0SUVKSFFMb2FyV2d2WUI0UVpTY0ttSzVJUHFJSi00eG8?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "喜劇演員喬・萊塞特「大型藝術展」預告：搞怪大師將帶來什麼新奇體驗？",
+    "zhSummary": "英國知名喜劇演員喬・萊塞特即將舉辦一場「大型藝術展覽」，這項由BBC發布的消息，讓許多人對他將如何結合幽默與藝術充滿期待。",
+    "zhContent": "<p>嗨，各位潮流小編的讀者們！最近有一個超級酷、有點讓人意想不到的新聞，要跟大家分享。大家可能都認識那位總是充滿古怪想法、擅長用幽默挑戰社會規範的英國喜劇演員喬・萊塞特（Joe Lycett）吧？現在，他要舉辦一個「大型藝術展覽」了！而且這個展覽即將在一個城市登場，消息一出，立刻就引起了許多粉絲和藝術界的關注。</p><p>喬・萊塞特其實不只是一位口才一流的喜劇演員，他對於藝術創作也有著自己獨特的見解與風格。他過去就曾以非常特別的方式，將藝術和社會議題結合，有時候甚至會用一些惡作劇般的行為來表達自己的看法。所以，這次他要舉辦個人的大型藝術展覽，大家都在猜測，他會不會把那些充滿他個人標誌性的諷刺幽默感，也帶到這次的展覽作品中。</p><p>像他這樣一個創意十足、不喜歡墨守成規的公眾人物，所籌辦的藝術展覽，肯定不會是那種平平無奇的傳統展出。媒體預期，他將會透過他的作品，再次展現他獨到的視角和批判精神，讓觀眾不只欣賞藝術，也能從中獲得一些啟發或反思。這樣的消息，是由英國廣播公司（BBC）正式發布的，所以真實性是無庸置疑的。</p><p>目前這個備受期待的大型藝術展覽，雖然還沒有公佈具體的展出日期、地點以及詳細的展覽內容，但這項預告本身就已經讓許多人充滿好奇與期待。可以預見的是，這會是一個非常「喬・萊塞特」風格的展覽，喜歡他的人，或是對這種非傳統藝術形式有興趣的讀者們，都絕對不能錯過這個即將到來的獨特體驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，喬・萊塞特為什麼舉辦藝術展覽會引起這麼大的關注？",
+      "生活與未來：你覺得像喬・萊塞特這樣，用不同於本行的領域（例如從喜劇到藝術）來表達想法，會對他的觀眾或粉絲造成什麼影響？",
+      "獨立思考提案：如果台灣也有一位像喬・萊塞特這樣跨界發展的公眾人物，你希望他/她可以挑戰哪種藝術形式，並想透過作品傳達什麼訊息？"
+    ],
+    "enTitle": "Major Art Exhibition by British Comedian Joe Lycett Announced",
+    "enContent": {
+      "basic": "British comedian Joe Lycett is going to have a big art show. It will be in a city soon. Joe Lycett is funny and creative. People are excited to see what art he will show. The news came from BBC.",
+      "intermediate": "Famous British comedian Joe Lycett has announced that he will be holding a major art exhibition in an upcoming city. Known for his unique humor and often satirical takes on everyday life and social issues, Lycett sometimes incorporates artistic elements into his work. This exhibition is expected to showcase his distinctive style, blending comedy with thought-provoking art. The announcement, confirmed by the BBC, has generated considerable anticipation among his fans and the art community.",
+      "advanced": "Acclaimed British comedian Joe Lycett is set to launch a significant art exhibition, a development that has been confirmed by the BBC and is generating considerable buzz. Lycett, who is widely recognized for his distinct brand of humor, often intertwines elements of satire and social commentary within his comedic performances, occasionally extending into artistic endeavors. This forthcoming exhibition is anticipated to present a unique collection that encapsulates his characteristic wit and critical perspective, offering attendees an opportunity to engage with art that is both entertaining and intellectually stimulating. Specific details regarding dates and venue are yet to be revealed, but the announcement alone has sparked widespread interest."
+    },
+    "vocabulary": [
+      {
+        "word": "exhibition",
+        "zh": "展覽 (zhǎnlǎn) – 就是把藝術品、作品或收藏品排出來，讓大家可以去參觀、欣賞的活動。"
+      },
+      {
+        "word": "comedian",
+        "zh": "喜劇演員 (xǐjù yǎnyuán) – 指的是在舞台上表演，用說笑話、演戲或肢體動作來逗人發笑、帶來歡樂的人。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-04-21",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTaDItdW5NVkFpVXk4R2pKM0JuSEJ2MVFwLXR5ODZacjdzUnUtYTRfOUNIWlpJajVwZXo4ZkVtSlJVZ0dub2pseXJwRkRWb3BKeGlzZGM5Ri1RQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "蘋果未來CEO的頭號難題：AI策略大調整！",
+    "zhSummary": "CNBC報導指出，蘋果硬體工程資深副總裁John Ternus被視為未來執行長人選，他正面臨一項核心挑戰：如何徹底修正蘋果公司的人工智慧（AI）發展策略，這將決定蘋果未來的競爭力與走向。",
+    "zhContent": "<p>最近，CNBC外電報導揭露一個科技界熱門話題：被稱為「蘋果未來執行長」的John Ternus，將面臨一項關鍵任務。這項任務就是要修正蘋果公司在人工智慧（AI）領域的發展策略。這意味著，蘋果現有的AI方向可能需要重大調整，而此舉對公司未來發展至關重要。John Ternus目前是蘋果硬體工程資深副總裁，他將肩負起這項重大責任。</p><p>為何蘋果的AI策略需要「修正」？報導分析指出，在科技快速演進的時代，AI已是各科技巨頭競爭的核心。從手機語音助理到生成式AI工具，應用層面廣泛。然而，一些市場觀察家認為，相較於其他對手，蘋果在某些關鍵AI技術應用上，例如深度學習整合或個人化智慧體驗方面，仍有進步空間。這使得改善AI策略成為當務之急。</p><p>對蘋果而言，這項AI挑戰的重要性不言而喻。若公司無法在人工智慧領域保持領先，可能在未來產品創新和市場競爭中處於劣勢。成功修正AI策略，能確保蘋果持續開發出更聰明、受歡迎的產品，並鞏固其全球科技領先地位。因此，這不只是技術調整，更是決定蘋果未來競爭力走向的重大戰役。</p><p>目前，CNBC的報導主要聚焦於此挑戰本身，並未透露蘋果已採取哪些具體修正措施或最終結果。蘋果官方也尚未對此報導發表公開聲明。然而，隨著AI技術不斷演進，蘋果公司在AI領域的任何策略調整與發展，都將是業界與用戶密切關注的焦點。這場關於AI策略的「戰役」，才剛全面展開。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，蘋果的「AI策略」被認為需要「修正」，請問報導中提到了哪些原因導致這個說法？",
+      "生活與未來：你覺得如果蘋果真的成功修正了AI策略，會對我們使用蘋果產品（例如iPhone、Siri）帶來什麼樣的實際改變？",
+      "獨立思考提案：如果由你來為蘋果規劃新的AI策略，你會希望他們從哪些方面著手改進，才能讓產品更具吸引力？"
+    ],
+    "enTitle": "Apple's Incoming CEO John Ternus Faces Defining AI Strategy Challenge",
+    "enContent": {
+      "basic": "Apple has a big problem. A report from CNBC says that John Ternus, who might be the next CEO of Apple, needs to fix the company's AI plans. AI means Artificial Intelligence, like Siri on your iPhone. Some people think Apple's AI is not as good as other companies'. This is a very important job because AI is used in many new products. If Apple doesn't make its AI better, it might fall behind. John Ternus has to find new ways for Apple to use AI so their products stay great. The report says this is a big challenge for Apple's future. Apple has not said anything about this report yet.",
+      "intermediate": "A recent CNBC report highlights a significant challenge for Apple. John Ternus, identified as a potential future CEO, is tasked with overhauling the company's Artificial Intelligence (AI) strategy. The report suggests that Apple's current AI approach may require substantial adjustments. Many tech observers believe that Apple's AI capabilities, such as its voice assistant Siri, are not as advanced or personalized as those of its competitors. Succeeding in this endeavor is crucial for Apple to maintain its leadership in product innovation and market competitiveness. The report emphasizes this is a defining moment for the company's future direction. Apple has not yet issued an official statement regarding the report.",
+      "advanced": "According to a CNBC report, Apple's presumed incoming CEO, John Ternus, confronts a pivotal challenge: rectifying the company's Artificial Intelligence (AI) strategy. This suggests that Apple's current trajectory in AI development necessitates a fundamental re-evaluation and recalibration. Industry analysts posit that, relative to its principal competitors, Apple has somewhat lagged in key AI functionalities, particularly in the integration of sophisticated machine learning and the delivery of highly personalized intelligent experiences. The successful revitalization of its AI strategy is deemed indispensable for Apple to sustain its competitive edge and innovate effectively in future product cycles. The report underscores the profound implications of this endeavor for the company's long-term strategic positioning. Apple has yet to comment officially on the findings presented in the report."
+    },
+    "vocabulary": [
+      {
+        "word": "Challenge",
+        "zh": "挑戰 (tiǎo zhàn) - 一個困難的任務或情況，需要你很努力才能完成。"
+      },
+      {
+        "word": "Strategy",
+        "zh": "策略 (cè lüè) - 為了達成某個目標，所規劃的一系列行動和計畫。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-04-21",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWZwaWxlNGMwcDJkTXZMd2RaQk5LUWs4bmJPSzI2ZC1kR1czelQ1enZYNldVUk9vXzBTZDdzazlCNDJRVVNFd2RvekRqblczOEJ6dFZ2VW95M01sa3pLWkgzdFZuNzMxWkIzalVCWVA2Y0RsaFM2ZVhtcXItRHJfSWwwNy1zNmxCNEVSUTZPSmhzOUtrSEJ5c25lRWVJTE9kSExSd01WZTFmZ9IBrwFBVV95cUxNcjh5NHd4cUoyV2FqTWl5RUlnUW8xMkhuMGxaTWZZQnZMWW15X2t4NGJYNElaaGxRLVZSZkZ3MXVKZXZVcTNCcmpfbEp6NUk3OVBmbGRkQkw2NDRaTENENm8wOGRTNEVhQWxZLXZDM1ZrYkUtRGNSVENSVlBEQmJFcWVNeU1nOFZxNWF4djAwU1lBNW1IZDJfRmp0VEdkZFk5UVVIRVB4S0pteWM2WEdr?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「史上最狂竊案」大公開！連沙子、化石蛋都能偷？",
+    "zhSummary": "這則新聞將帶你進入一場令人匪夷所思的竊盜事件盤點。英國《BBC科學焦點雜誌》揭露了史上六件最意想不到的竊盜案，從海灘的沙子到稀有的恐龍化石蛋，小偷的目標超乎想像，有些案件甚至至今仍是謎團。",
+    "zhContent": "<p>你覺得小偷通常會偷什麼東西？錢、珠寶、手機，還是名牌包？最近，英國的《BBC科學焦點雜誌》整理了一份超有趣清單，標題叫做「史上六件最瘋狂的竊盜案」。這份報導揭露了一些你壓根想不到會被偷走的東西，而且這些竊盜案的過程和結果也常常令人大開眼界，簡直就像是電影裡才會出現的橋段。</p><p>舉例來說，你相信有人會偷走「沙子」嗎？在義大利的薩丁尼亞島，有一些美麗的海灘以其獨特的白色細沙聞名。但有些觀光客實在太喜歡這些沙子了，竟然偷偷把好幾公斤的沙子裝進瓶子和塑膠袋裡，當成紀念品帶回家。雖然聽起來只是幾把沙，但長年累積下來，導致這些海灘的面積不斷縮小，對當地生態造成了嚴重破壞。後來，當地政府只好立法禁止這種行為，一旦被抓到，最高會被罰款三千歐元！</p><p>還有更離奇的，某些博物館也曾遇到超乎想像的竊案。例如，一間位於美國的博物館曾有一件相當特別的「恐龍化石蛋」被盜。這枚化石蛋雖然不大，但它代表著珍貴的科學研究價值，是了解古生物的重要線索。小偷顯然是看中它的獨特性與市場潛力，巧妙地避開保全系統，將這件稀有展品偷走。這起竊案讓博物館人員非常頭痛，因為這種特殊物品幾乎不可能在一般市場上流通。</p><p>這些事件都讓人驚訝於竊盜案可以有多麼光怪陸離。從義大利海灘的沙子，到博物館裡稀有的恐龍化石蛋，這些被偷走的物品證明了小偷的目標有時遠超出我們的想像。雖然有些被竊物品最終透過警方努力尋回，但仍有部分案件成為懸案，這些稀奇古怪的物品至今下落不明，持續考驗著執法單位的應變能力。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The World's Craziest Thefts: Things You Won't Believe Were Stolen",
+    "enContent": {
+      "basic": "Have you ever thought about what thieves usually steal? Money, jewelry, phones? A magazine called BBC Science Focus recently made a list of the \"6 Craziest Things Ever Stolen.\" This report shows some really strange things that got stolen. The stories behind these thefts are often surprising, just like in movies!\n\nFor example, can you believe someone would steal \"sand\"? In Sardinia, Italy, some beaches have special white sand. Tourists liked it so much they secretly took bags and bottles of it. Over time, too much sand was taken, making the beaches smaller and hurting nature. Now, it's against the law, and if you're caught, you can pay a big fine, up to 3,000 Euros!\n\nEven stranger, museums have had weird thefts too. In a museum in the US, a rare \"dinosaur fossil egg\" was stolen. This egg was small but very important for science. The thief knew it was special and valuable. They got past security and took the rare item. This made the museum staff very worried because such a special item is hard to sell openly.\n\nThese stories show how strange thefts can be. From beach sand in Italy to a rare dinosaur fossil egg, the stolen items prove that thieves sometimes aim for things we wouldn't expect. While some items were found by the police, others are still missing, making these strange cases a challenge for law enforcement.",
+      "intermediate": "What do you imagine thieves typically target? Cash, jewels, or perhaps high-tech gadgets? BBC Science Focus Magazine recently compiled an intriguing list titled \"The 6 Craziest Things That Have Ever Been Stolen.\" This feature unveils some truly unexpected objects that became the focus of elaborate heists, with the narratives surrounding these thefts often proving as astonishing as a blockbuster film.\n\nConsider, for instance, the theft of \"sand.\" On the beautiful island of Sardinia, Italy, certain beaches are renowned for their distinctive white grains. Unfortunately, some tourists, enamored with this unique sand, clandestinely collected kilograms of it in bottles and bags as souvenirs. While seemingly minor, the cumulative effect of these removals significantly reduced beach sizes and caused severe ecological damage. Consequently, local authorities implemented strict laws, imposing fines of up to 3,000 Euros on those apprehended for this environmental transgression.\n\nEven more bizarre incidents have occurred in museums. For example, a US museum once reported the theft of a remarkably unique \"dinosaur fossil egg.\" Though not physically large, this fossilized egg held immense scientific value, offering crucial insights into ancient life forms. The perpetrator, recognizing its distinctiveness and potential market value, skillfully bypassed security systems to abscond with this rare exhibit. This particular heist caused considerable distress among museum staff, as such specialized artifacts are virtually impossible to circulate through legitimate channels.\n\nThese various episodes highlight the incredible range and peculiarity of theft. From the fine sand of Sardinian beaches to a rare dinosaur fossil egg from a museum, the items targeted by thieves often defy conventional expectations. While some stolen articles have been successfully recovered through diligent police work, a number of these unusual cases remain unsolved, with the unique objects still unaccounted for, posing ongoing challenges for law enforcement agencies.",
+      "advanced": "When contemplating the typical targets of larceny, one might envision currency, precious gemstones, or high-value electronics. However, BBC Science Focus Magazine recently presented a compelling compilation, \"The 6 Craziest Things That Have Ever Been Stolen,\" which dramatically broadens the scope of what constitutes a 'stolen' item. This exposé delves into a series of truly improbable thefts, with their intricate methodologies and often perplexing outcomes rivaling the most imaginative cinematic narratives.\n\nAs an illustrative example, consider the audacious 'theft' of sand. Sardinia, a picturesque Italian island, boasts pristine beaches characterized by their signature white granular composition. Regrettably, some tourists, captivated by this geological rarity, have illicitly extracted significant quantities of sand, bagging and bottling it as personal mementos. The aggregate impact of these seemingly minor removals has led to a perceptible diminishment of beach topography and considerable ecological detriment. In response, local ordinances have been enacted, stipulating severe penalties—up to 3,000 Euros—for individuals caught engaging in this environmental pilfering.\n\nFurther compounding the bizarre nature of criminal enterprise, several museums have fallen victim to extraordinary heists. In one notable instance from a US institution, a singular 'dinosaur fossil egg' was purloined. Despite its modest physical dimensions, this fossilized specimen possessed profound palaeontological significance, serving as a vital conduit to understanding prehistoric ecosystems. The perpetrator, undoubtedly cognizant of its unique scientific and potential illicit market value, deftly circumvented established security protocols to abscond with this irreplaceable exhibit. The ramifications of this specific larceny were particularly vexing for curatorial staff, given the inherent difficulty in authenticating and liquidating such a specialized artifact within conventional markets.\n\nCollectively, these incidents underscore the astonishing breadth and eccentricities inherent in criminal appropriation. From the granular composition of Sardinian coastlines to the invaluable palaeontological specimen from a museum, the objects coveted by thieves frequently transcend conventional expectations. While diligent law enforcement efforts have facilitated the recovery of some pilfered articles, numerous enigmatic cases persist as cold files, with these peculiar objects remaining unaccounted for, thereby posing enduring logistical and investigative challenges for authorities."
+    },
+    "vocabulary": [
+      {
+        "word": "heist",
+        "zh": "搶劫；盜竊。這個詞通常指規模比較大、有計畫的盜竊行動，就像電影裡那種精心策劃的搶案一樣。"
+      },
+      {
+        "word": "specimen",
+        "zh": "標本；樣本。它指的是用來研究、展示或收藏的單一物體或部分，像是科學實驗用的樣本，或是博物館裡的動物或植物標本。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-04-21",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSE9RTWhVSXRsSWZQSE13U29HaEF2UEFxc01xUkhBbUNsblh5b0dxOWYzWFR3aTdfNGlqSnNFNWxWYjF5MDNOZzF1ZlFmai1hZF94anMwbnFXYV9SMzFEcXNXUUg2ZjNfUFozWW1VdnpZZWFwQjRIQlk4bGNJempPWDJIdDFnQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "伊朗局勢持續緊張，全球糧食供應拉警報！",
+    "zhSummary": "中東國家伊朗的政治情勢不穩定，引發全球對於石油運輸與貿易路線的擔憂，進而可能影響到全球糧食的生產與運送成本，讓國際間越來越擔心糧食危機可能爆發。",
+    "zhContent": "<p>最近，中東的伊朗地區情勢有點緊張，這個緊張不只讓當地的人擔心，連全球的糧食供應都拉響了警報，很多人開始擔心會不會有糧食大災難。根據外國媒體《半島電視台》的報導，伊朗的局勢持續不穩定，這讓國際社會越來越關注，深怕會對全球的糧食安全造成嚴重衝擊。</p><p>伊朗的局勢之所以會讓大家這麼緊張，主要是因為這個國家長期以來跟一些西方國家關係不太好，常常有政治上的摩擦，有時候甚至會互相制裁。這些制裁或衝突可能會影響到全球的石油供應和貿易路線，尤其是波斯灣這個重要的航運通道，許多運送石油和貨物的船隻都必須經過這裡。如果這個區域不穩定，船隻通行就會變得困難且危險。</p><p>那麼，伊朗的局勢跟我們吃的食物有什麼關係呢？其實關係很大！當石油價格上漲，運輸農產品的成本就跟著變高，因為從農場到餐桌，食物都需要油料運輸。此外，船隻要經過重要的海上通道時，如果當地情勢不穩，船運的保險費也會增加，這讓食物從生產地運到世界各地的花費越來越高。這些成本最終都會反映在食物的價格上，讓大家買食物變得更貴。</p><p>目前，雖然還沒有發生真正的糧食大災難，但許多國際組織和專家都對這種持續緊張的局勢感到非常憂心。他們擔心，如果伊朗的危機繼續拖下去，全球的糧食市場可能會面臨更大的挑戰，讓原本就已經很高漲的食物價格變得更貴，影響到世界上更多人的溫飽問題。這是一個需要大家持續關注的國際大事。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "As Iran Crisis Drags On, Fears of Global Food Catastrophe Grow",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Catastrophe",
+        "zh": "災難：指非常糟糕、破壞力很大的事件，會造成很大的損害或不幸，就像一場大災禍一樣。"
+      },
+      {
+        "word": "Sanctions",
+        "zh": "制裁：一種懲罰或限制，當國家之間有糾紛時，一方可能停止與對方貿易、往來或採取其他手段，作為施壓或反制對方的做法。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-04-21",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmlMOUdZVVRhclM1d3ZZUEZIZEI2d24zOXJZc2d5YkhZVVBjMExsdTBET0kzQUY2Y2xmRDZ0WDlYQXFieENpNVI4T0F5U0tPOExyaS1SQlZPWHQzZUlYRHZuekRfb1U2eUZNbEphV1ZfQ3k1dVctRWNibmt1R2N3bmFfQ1Y0emFxOXJZeGJmUVlkR1RoNThvM1g2NGlHSG5DY1HSAacBQVVfeXFMTU5ueHRtUXQ5Q2FqSm9uM3RJQ1F0cmRwQnA4cFZPdDdOdEpjcHV6X2NSb2NNTXpCaGRaa3NiZ19MLVZDdjJnMHZIWE9aWmlXQkVZU19MVVU4bWF2QlFmQ3VFYWJJLTg0LUZEazE3WGt2RlhOY0J5LUlRYXZEbjVlUzM2bGtKblEyOXljLTY3V1Rqb00tZVVlRm56QjBRd0lIcWg2RTVHeFU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美驅逐巴西官員引外交風波，巴西總統：我們也可能比照辦理！",
+    "zhSummary": "美國驅逐了一位巴西聯邦警察專員，引發巴西總統盧拉不滿，他表示巴西也可能採取對等措施，驅逐美國官員以示回應。",
+    "zhContent": "<p>最近，巴西和美國之間發生了一件有點敏感的外交事件。美國政府最近決定「驅逐」一位在美國華盛頓特區工作的巴西「聯邦警察專員」。這個行動很快引發了巴西總統盧拉的關注，他公開表示，巴西政府可能會考慮採取「對等措施」，也就是用同樣的方式，把在巴西的美國官員也請回美國。</p><p>到底什麼是「聯邦警察專員」呢？簡單來說，他們就像是國家警察系統派駐到外國的大使館或領事館的代表，負責和當地政府溝通、協調與警察相關的合作事務，比如打擊犯罪、情報交流等等。這次美國為什麼會驅逐這位巴西官員，新聞報導中並沒有詳細說明具體的原因。不過，像這種驅逐外國官員的行為，在國際關係中通常不是小事，它常常暗示著兩國之間在某些方面出現了嚴重的問題，或者那位官員的行為不符合外交規範。</p><p>巴西總統盧拉針對這起事件表達了強烈的立場。他表示，如果美國無緣無故地驅逐了巴西的聯邦警察專員，那麼巴西政府就沒有理由不以同樣的方式「回報」。他的意思很清楚，就是如果美國採取了這種措施，巴西也很有可能會用一樣的方式對待在巴西的美國官員。這種在外交上採取相同行動來回應的原則，我們稱為「對等原則」，它是一種維護國家尊嚴和平衡關係的常見手段。</p><p>截至目前，巴西政府尚未正式宣布是否會真的驅逐美國的任何官員。總統盧拉的發言雖然清楚表明了巴西可能採取的立場，但這項決定還在內部評估中。這起事件讓巴西和美國這兩個重要的國家之間的外交關係，面臨了一些不確定性，未來會如何發展，還需要我們持續關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Brazil Could Reciprocate After US Expels Federal Police Attache, Says Lula",
+    "enContent": {
+      "basic": "Something big happened between Brazil and the U.S. The United States recently told a Brazilian police officer, who was working in the U.S. as an 'attache,' to leave the country. Brazil's President, Lula, heard about this and said that Brazil might do the same thing back to a U.S. official. This means if the U.S. sends their officer home, Brazil might send a U.S. officer home too.",
+      "intermediate": "A diplomatic incident has occurred between Brazil and the United States. The U.S. recently expelled a Brazilian federal police attache from its territory. Following this action, Brazilian President Lula stated that Brazil might consider taking a 'reciprocal' measure. This implies that if the U.S. has decided to remove a Brazilian official, Brazil could potentially respond by expelling a U.S. official from Brazil, mirroring the U.S.'s action.",
+      "advanced": "A significant diplomatic friction has emerged between Brazil and the United States. Reuters reports that the U.S. has expelled a Brazilian federal police attache, prompting a stern reaction from Brazilian President Luiz Inácio Lula da Silva. President Lula indicated that Brazil might 'reciprocate' this move, suggesting that if the U.S. proceeds with such an expulsion, Brazil could take equivalent action against a U.S. official stationed in Brazil. This development points to a potential escalation in diplomatic tensions between the two nations."
+    },
+    "vocabulary": [
+      {
+        "word": "expel",
+        "zh": "驅逐 (qūzhú) - 意思是將某人強迫離開某個地方或職位。就像學校可能因為嚴重違規而「驅逐」一名學生，讓他不能再來上學。"
+      },
+      {
+        "word": "reciprocate",
+        "zh": "回報／對等措施 (huíbào/duìděng cuòshī) - 意思是當別人對你做了一件事，你也用同樣的方式對待對方。例如，別人送你禮物，你回送禮物就是一種「回報」。在外交上，如果一國驅逐另一國的官員，另一國也可能「對等措施」驅逐對方的官員。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-04-21",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmp6SS1NcVByWHJQdEJKbHk2Slk2UmNpZy1VS2k4dmlWcUpOS1RfUTdtOTNoLWVOUHFxdml6TkNxTHZoUjF6VkZidU1FbnlnNkFwT2wxcGw5Qm0zN3NqUTRPdWVnZk1IQ0Q2b0RGUVVMclp4bU9oeF83Skh3QVFDUE5rSDBNRHFXZnhacTBRQ2s1WllnRTNNc0RfZ1RFRTBlbUxzZEQtMXdZSTRrcHJOUUNUdnp5dXlLYVVIYmxKNWRLUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "土耳其伊斯坦堡恐攻案開審：德國遊客殞命，法庭追究責任",
+    "zhSummary": "2016年伊斯坦堡一場針對遊客的自殺炸彈攻擊，造成多名德國遊客死亡。多年後，相關涉案人士的審判終於在土耳其展開，檢方試圖釐清真相，追究幕後策劃者的責任。",
+    "zhContent": "<p>在土耳其的伊斯坦堡，一場備受國際關注的法庭審判正悄悄展開。這起案件牽涉到多年前在當地發生的一場悲劇性恐怖攻擊，受害者中有多名來自德國的無辜遊客不幸喪生。這場審判的焦點，正是要追究當年造成這些遊客死亡的幕後主使者和協助犯的法律責任。對於那些失去親人的家庭來說，這是一段漫長等待正義的過程，而如今，法庭將試圖揭露事件的全貌。</p><p>時間回到2016年1月12日，伊斯坦堡著名的觀光景點「藍色清真寺」附近，歷史悠久的蘇丹艾哈邁德廣場上突然發生了一場駭人的自殺炸彈攻擊。當時正值旅遊旺季，廣場上擠滿了來自世界各地的觀光客。一名敘利亞籍的炸彈客引爆了身上的爆裂物，造成至少12名德國遊客當場死亡，另有十多人受傷，其中多為外國人士。這起事件震驚國際社會，土耳其政府隨後將其歸咎於極端組織「伊斯蘭國」。</p><p>根據外媒報導，這次審判的被告共有26人，他們被指控與這起炸彈攻擊有關，罪名包括謀殺、企圖顛覆國家秩序以及加入恐怖組織。雖然發動攻擊的自殺炸彈客已當場死亡，但土耳其檢方認為，還有許多人在背後策劃、提供協助，甚至招募犯案者。這些被告中，有些被認為是提供爆炸裝置的專家，有些則負責後勤支援或協助組織。法庭希望透過審理，找出這場血腥攻擊的全部參與者。</p><p>這場審判的進度預計會很漫長，因為涉及的嫌疑人眾多，且證據龐雜。目前的重點是傳喚證人、呈列證據，並聽取被告的陳述。儘管許多人期待能盡快看到公正的裁決，但司法程序通常需要時間。對於德國政府和受害者家屬來說，他們都希望透過這場審判，不僅能為逝者討回公道，也能讓類似的悲劇不再發生。目前審判仍在進行中，最終結果尚未出爐。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Istanbul Trial Begins Over German Tourist Deaths",
+    "enContent": {
+      "basic": "A trial has started in Istanbul, Turkey. It's about a bombing that happened years ago, where many German tourists died. The court wants to find out who planned and helped with the attack. This is a big step for the families who lost loved ones.",
+      "intermediate": "In Istanbul, a significant trial has begun concerning a 2016 suicide bombing that claimed the lives of several German tourists. The incident took place in Sultanahmet Square, a popular tourist destination. Prosecutors are bringing charges against 26 individuals accused of involvement in the attack, including planning, aiding, and being members of a terrorist organization. The trial aims to bring justice to the victims and hold the perpetrators accountable.",
+      "advanced": "The judicial process has commenced in Istanbul, Turkey, for 26 individuals implicated in the devastating 2016 Sultanahmet Square suicide bombing. This terror attack, attributed to the Islamic State, resulted in the deaths of 12 German tourists and numerous injuries. Defendants face charges ranging from murder to membership in a terrorist organization and attempts to undermine state order. The lengthy trial seeks to unearth the full extent of complicity in the attack, offering a pursuit of justice for the victims' families and a commitment to counter-terrorism."
+    },
+    "vocabulary": [
+      {
+        "word": "Trial",
+        "zh": "審判 (shěnpàn): 想像一下，當有人做了犯法的事，法院會召開會議，聽取各方說法、檢視證據，然後決定那個人有沒有罪、該怎麼處罰，這個過程就叫做「審判」。"
+      },
+      {
+        "word": "Tourist",
+        "zh": "遊客 (yóukè): 就是指那些為了觀光、旅行、放鬆心情而到外地或外國玩的人。他們通常會去參觀名勝古蹟、體驗當地文化。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-04-21",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1I5ZU5ZQXBSbXJhb0VVUTUyRjVTMm1NdXB0RnNDNXFvTDZTc1ZsVUtrREl4SDlrOExUY0tnZFN1cWpTVVg3SUM3SmNwek1VTHRWUF9SaDhCaW5ha19DRTZtWGYtWllZWlR5WjBjb0Q4NklYOHFMN3FBTzJ1eDZaLUVudkhwNkp6T1ZFT2lCUHlSVDJkQ09fWg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非物價要起飛了？央行示警：大家錢包可能要變瘦！",
+    "zhSummary": "南非的中央銀行發現國內物價上漲的速度可能比預期的還要快，也就是「通膨」風險增加了。同時，市場上的銀行和投資人都已經在預期，中央銀行可能很快會升息來穩定物價。",
+    "zhContent": "<p>嘿，各位少年偵探！今天我們要來關心一下地球另一邊──南非發生的經濟大事。你有沒有覺得，家裡買菜、買零食的錢好像越來越不夠用？這就是我們說的「物價上漲」，經濟學上稱作「通貨膨脹」，簡稱「通膨」。最近，南非的「中央銀行」（你可以想像成這個國家管理所有錢的總管）發出了一個警告：他們發現，南非的物價上漲速度，可能會比大家想像的還要快喔！</p><p>這個警告叫做「通膨風險升高」。意思是，東西變貴的可能性增加了，你的錢可能因此會變得比較不值錢。當中央銀行看到這種情況，通常會考慮一個辦法來降溫，那就是「升息」。升息的意思是，如果你向銀行借錢，需要付的利息會變高。這樣一來，大家借錢會比較謹慎，花錢也會比較省，希望可以讓整個市場的物價不要一直往上衝。而現在南非的金融市場，也就是那些銀行和投資人，已經都在「為升息做準備」了，代表他們猜到中央銀行很快就會這麼做。</p><p>那麼，為什麼南非中央銀行會這麼擔心呢？根據他們觀察，有幾個跡象顯示物價壓力確實很大。他們可能看到一些日常用品的價格持續上漲，或是國際上一些重要商品（像是石油、食物原料）的價格也一直在飆升，這些都會影響到南非國內的物價。所以，中央銀行才會特別提出這個警示，提醒大家要注意，接下來的物價壓力可能會比想像中更大、更難應付。</p><p>不過，目前南非中央銀行只是發出了這個風險警示，他們並沒有說已經確定馬上就要「升息」。但是，市場上的金融機構和投資人，已經很聰明地把「未來可能會升息」這個因素，考慮進他們現在的各種財務規劃中了。這表示大家都正在密切關注南非中央銀行接下來的任何動作，看他們會怎麼處理這個日益升高的物價問題，來穩定國家的經濟狀況。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa's Central Bank Sees Inflation Risks, Market Prepares for Rate Hikes",
+    "enContent": {
+      "basic": "South Africa's central bank is worried that prices of goods might go up faster than expected, which is called inflation. Banks and people who invest money think the central bank might raise interest rates soon to stop prices from rising too much. This means borrowing money could become more expensive, encouraging people to spend less to cool down the economy.",
+      "intermediate": "The South African central bank has identified \"upside inflation risks,\" meaning there's a higher chance that consumer prices will increase more significantly than previously forecasted. Financial markets are already \"pricing for hikes,\" indicating that investors and institutions anticipate the central bank will raise interest rates in the near future to combat this accelerating inflation and maintain economic stability.",
+      "advanced": "The South African Reserve Bank (SARB) has communicated its assessment of \"upside inflation risks,\" suggesting a higher probability of price growth exceeding current projections. This perspective is being reinforced by market participants, who are reportedly \"pricing for hikes,\" implying an expectation of forthcoming interest rate increases to mitigate inflationary pressures and maintain price stability within the economy. This proactive market positioning reflects a forward-looking response to the central bank's signals regarding potential policy adjustments."
+    },
+    "vocabulary": [
+      {
+        "word": "Inflation",
+        "zh": "通貨膨脹 (通膨)：簡單來說，就是東西越來越貴，以前100元可以買到的東西，現在可能要花120元才買得到。錢的價值變低了。"
+      },
+      {
+        "word": "Interest Rates",
+        "zh": "利率：就是你向銀行借錢時，需要支付給銀行的費用。如果「升息」，代表借錢的利息變高，借錢會變得比較貴。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-04-21",
+    "sourceName": "CNBC Africa",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0o3S0R1VHhfS3JtZ21tc0NkRE5pRXFQYVBMcVQwZElmNHc0OVJBenVuQXgxQ2FWYlNxbEU5cjktdEtHVXI1MHk4cFRtSlNDQ20wS2NHMVgyNWd6ZEktQ2lEZ3BhOHk0aWJaQnBWdzFLempNb3RDVmh2MHppOEpJRUNHdG9rV0NMYXlITF8wSmdsYXpvd0hJRkpTVlJDR2xiRUNaX0ZEd2lHd29YakhTSGNIV1BsZ3JTQ0E?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "石油新出路：中東能源航線的「B計畫」",
+    "zhSummary": "中東地區有一條非常重要的石油運輸航線「荷姆茲海峽」，因為可能面臨各種挑戰或中斷，許多國家正在積極尋找其他陸路或海路，確保石油和天然氣能夠安全送達全世界。",
+    "zhContent": "<p>你聽過「荷姆茲海峽」嗎？這可不是什麼普通的海洋公園，它對全世界的能源供應來說，是個超級、超級重要的「海上高速公路」！想像一下，中東這個地區有非常多石油和天然氣，而大部分的這些寶貴資源，都必須通過荷姆茲海峽，才能被運送到世界各地。最近，因為這個海峽可能會遇到一些狀況，例如天氣不好、船隻太多，或是其他比較複雜的問題，各國開始擔心萬一這條路被堵住了怎麼辦？所以大家都在想辦法，要替中東的石油和天然氣尋找其他的運輸路線。</p><p>那麼，為什麼荷姆茲海峽這麼重要呢？簡單來說，它是連接波斯灣和阿拉伯海的唯一出海口，全球大約有五分之一的石油都要從這裡經過。如果這裡出了什麼狀況，像是船隻無法順利通行，那對全球的石油和天然氣供應都會造成很大的影響，就像是城市的交通主幹道突然封閉了一樣。為了避免這樣的情況發生，中東的一些國家和能源公司，就開始研究有沒有其他的替代方案。這些替代方案包括建造新的長途油氣管道，直接從陸地穿過，把石油和天然氣送到別的港口上船，避開荷姆茲海峽。</p><p>這些替代路線就像是為荷姆茲海峽準備的「備用道路」。舉例來說，有些國家已經建好了穿越沙漠的石油管道，可以直接把石油運到波斯灣以外的港口，然後再裝上油輪出海。這樣一來，即使荷姆茲海峽真的發生了什麼事，這些國家也能確保他們的石油和天然氣可以繼續運送出去，不會影響到全球的能源市場。這也是一種未雨綢繆的做法，讓大家的心裡比較踏實，不會因為一條航線出問題就手足無措。</p><p>總而言之，尋找這些「石油新出路」是全球能源市場上的一個重要發展。它顯示了各國都在努力確保能源供應的穩定和安全，減少對單一運輸路線的依賴。雖然荷姆茲海峽依然是不可或缺的交通要道，但這些新的替代方案，為未來的能源運輸提供了更多的彈性與保障。目前，這些計畫都持續進行中，希望能在必要時發揮作用。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「荷姆茲海峽」為什麼對全球能源這麼重要？而「尋找替代路線」的目的又是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "New Routes for Oil: Middle East Energy's 'Plan B'",
+    "enContent": {
+      "basic": "The Strait of Hormuz is a very important waterway for oil and gas from the Middle East. Because there might be problems like bad weather or too many ships, countries are looking for other ways to move oil and gas. They want to make sure energy can still reach the world safely, even if the main route has problems. Some countries are building new pipelines across land to other ports. This helps them send oil and gas without using the Strait of Hormuz. This is like having a backup plan to keep the energy flowing.",
+      "intermediate": "The Strait of Hormuz acts as a crucial maritime chokepoint for global energy supply, with approximately one-fifth of the world's oil passing through it. Due to potential disruptions, such as geopolitical tensions or navigational challenges, Middle Eastern nations and energy companies are actively seeking alternative routes. These alternatives often involve constructing new overland pipelines that bypass the Strait, allowing oil and gas to be transported to other coastal ports for export. This strategic move aims to enhance energy security and reduce reliance on a single, vulnerable shipping lane, ensuring a more stable global energy market.",
+      "advanced": "The Strait of Hormuz represents a critical chokepoint for the global flow of crude oil and liquefied natural gas, facilitating the transit of approximately 20% of the world's petroleum supply. Amidst inherent geopolitical volatilities and potential operational disruptions, nations in the Middle East are proactively developing alternative energy export routes. These initiatives primarily entail the construction and expansion of terrestrial pipelines designed to circumvent the Strait, diverting hydrocarbon resources to alternative port facilities situated on the Arabian Sea or the Red Sea. Such strategic diversification efforts aim to bolster regional energy security, mitigate transit risks, and ensure uninterrupted access to international energy markets, thereby enhancing the resilience of the global energy supply chain against potential exigencies within this vital maritime corridor."
+    },
+    "vocabulary": [
+      {
+        "word": "Strait",
+        "zh": "海峽。指的是連接兩大片水域（通常是兩片海或海洋）的狹窄水路，而且兩旁都是陸地。"
+      },
+      {
+        "word": "Disruption",
+        "zh": "中斷、擾亂。意思是指某個正常的活動或情況被干擾了，或者暫時停止了。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-04-21",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1ZQUmNGQl9qYmNhajk5MUQtUEZvYmItekFfOXUyQkRYUG4tcjBJZmFaaU1MamIxTHJ2YUp3eVVZT0F1ak8yZE1kSG1ReTctRU9NM1VVUHVWSFBNMmFJQjlZaVQ4M2J3ZDlVaG43T3BERlZ5dk1FMnppbTVwV1NmUjRtWExmX1ZmV3c5ZmZZVzJia0o0dGgzem00dFlPX2lJREFRQXJQQ1hJZ3FELXhlUnFR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "印度和南韓想當好朋友？路途上可能有些小石頭！",
+    "zhSummary": "在目前國際情勢不太穩定的情況下，印度和南韓都希望彼此的合作能更緊密。不過，他們在努力達成目標的過程中，似乎遇到了一些困難和挑戰，讓關係沒辦法像預期中那麼快地發展。",
+    "zhContent": "<p>你可能想不到，位在南亞的印度和東亞的南韓，其實一直都在尋找機會，希望可以讓兩國之間的關係變得更要好。特別是現在全球的政治和經濟局勢有點複雜又不太確定，兩個國家都覺得，如果彼此能多合作一些，對雙方都會有好處。他們想要在貿易、科技，甚至國際安全等很多方面都攜手前進，變成更重要的夥伴。</p><p>不過，想當好朋友的路上，總會遇到一些小石頭。根據外國媒體的報導，印度和南韓在深化關係時，也碰到了幾個挑戰。例如，兩國之間在經濟政策上可能有些不同步的地方，這會讓彼此的企業在對方國家投資或做生意時，遇到一些法規或市場習慣上的困難。此外，在一些國際大事的看法上，兩國偶爾也會有各自的考量，需要時間慢慢溝通和磨合。</p><p>這些困難並不是沒有原因的。舉例來說，印度有自己一套鼓勵國內製造業發展的政策，希望更多產品能在印度本地生產。這對南韓那些習慣將產品外銷到全球的企業來說，可能就需要調整他們的投資策略，才能符合印度的要求。而南韓在考慮國際合作時，也會有自己優先考量的戰略夥伴和地區，這可能需要和印度多花些時間溝通，才能找到彼此都舒服的合作模式。</p><p>儘管面臨這些挑戰，印度和南韓並沒有放棄他們想成為更緊密夥伴的目標。兩國的政府和企業都還在努力尋找解決辦法，透過各種會議和對話，希望可以一步步克服這些障礙。他們都相信，只要願意持續溝通和調整，未來一定能找到更多可以互惠合作的機會，讓這段關係可以更上一層樓。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，印度和南韓想要深化關係，但遇到了哪些困難？新聞裡有沒有提到他們打算怎麼解決這些困難？",
+      "生活與未來：你覺得如果這兩個國家真的成為更緊密的合作夥伴，對他們的人民、經濟或科技發展會造成什麼實際影響？",
+      "獨立思考提案：如果由你來幫印度和南韓想辦法，你覺得他們還可以怎麼做，才能更快地克服這些合作上的障礙呢？"
+    ],
+    "enTitle": "India and South Korea: A Rocky Road to Deeper Ties Amid Global Uncertainty",
+    "enContent": {
+      "basic": "India and South Korea want to work together more, especially because the world situation is a bit tricky right now. But they face some challenges like different business rules or ideas about international issues. They are trying to talk and find ways to fix these problems so they can become better friends and partners.",
+      "intermediate": "Amidst the current global geopolitical uncertainty, India and South Korea are actively seeking to strengthen their bilateral ties. However, this ambition is encountering hurdles, primarily stemming from differing economic policies and varying strategic priorities. Both nations are committed to overcoming these obstacles through ongoing dialogue and cooperation, aiming for deeper engagement in trade, technology, and regional security.",
+      "advanced": "India and South Korea are strategically aligning to deepen their bilateral relationship, a move underscored by the prevailing geopolitical uncertainties. While both nations perceive significant mutual benefits in enhanced cooperation across economic, technological, and security domains, their path is complicated by divergent domestic economic policies, such as India's 'Make in India' initiative, and distinct foreign policy priorities. Despite these challenges, ongoing diplomatic efforts and dialogues signify a sustained commitment to fostering a more robust and mutually beneficial partnership."
+    },
+    "vocabulary": [
+      {
+        "word": "Geopolitical",
+        "zh": "地緣政治：這個字結合了「地理」和「政治」的意思。它指的是一個國家的地理位置、自然資源等因素，如何影響它在國際上的政治關係、決策和軍事策略。簡單來說，就是地理位置怎麼影響國家之間的互動和權力鬥爭。"
+      },
+      {
+        "word": "Uncertainty",
+        "zh": "不確定性：當一件事情的結果還不清楚、未來會怎麼發展也說不準，我們就可以說它有「不確定性」。就像我們不知道明天會不會下雨，那明天天氣就有不確定性。在國際關係上，就是指未來情勢可能有很多變數，不穩定、難以預料。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-04-21",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzRlQ24zMWhaTkptd2h0aFI2TURSLVVrd21DME1pQU15UmpsSHk4dUt1Tl9lQnJ2X0pPUW1lQ1hKc1JuckJ4eDdRek55X2dCVGwwQmhTcm16U3dPWlA3WE14UTdjbVYwemU1cXNEQ3g0azg5NUluNURuV1IyaDFlVDNDZ1gyRjJsWXE4ZHFudXJ5Vk5LYzhKZjd2VUluLWJtOS11a21sb2UwTVJjUDRDQ0lfNjROSjM5aGFYSEVQSFVPV2RPa2hkTVNxa3YyY1Zr0gHWAUFVX3lxTE0xNlVROTQtM2lFSGFQTVpKUkRrbXdab3pkWDFQSXdEdHRLcnpNV2lKRTljdTVOcF9xeDdaOV9wUW1qVXU1TF9wMG1WazNiekVBUGlzdWlHSXMyZG40TzJld2RHb0dRV1djczNJYnhUTUFZUEY4TEpFb0xobXhaSlB6TzFUUnJoV2J5MEVyYWpXdWdVd1R3UDBGVkV6alBHTGQ4OGxuaFB5TlBBQlNSZXVOdFhNdS12d2kybUhWYkxwQ2F5VjVtMmV4Zm5pdk8wWEs4MW9KbVE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞海域響警報：捕魚過度，海洋與漁民都陷困境",
+    "zhSummary": "東南亞海域正因為過度捕撈，導致魚群數量銳減，不僅破壞了珍貴的海洋生態，也讓當地數百萬以捕魚為生的家庭面臨生計挑戰，形成一場複雜的生態與人類危機。",
+    "zhContent": "<p>東南亞的海洋，過去一直被視為地球上最豐富的漁場之一。不過，近來有一項報導指出，這片碧藍的海洋正悄悄地響起警報。原來，當地漁民面臨嚴重的「過度捕撈」問題，意思是大家捕魚捕得太快、太多，已經遠遠超過了海洋自我恢復的速度。這不只讓魚越來越少，更讓仰賴海洋為生的數百萬人生活變得艱難，形成了一場牽動生態與人類社會的雙重危機。</p><p>究竟「過度捕撈」是怎麼發生的呢？報導提到，隨著人口增加，市場對海鮮的需求也跟著水漲船高。為了捕到更多魚，許多漁船裝備了更現代化的捕魚工具，有些甚至使用大型拖網，不分大小魚通通一網打盡，連還沒長大的小魚也逃不過。有些地區則出現了太多艘漁船在同一片海域作業的狀況，導致原本就有限的魚類資源在短時間內被大量捕撈，根本來不及繁殖。</p><p>這種捕撈方式帶來的直接後果，就是海洋生態受到了嚴重衝擊。魚群數量明顯減少，過去隨處可見的大魚現在變得稀有，漁民們常常空手而歸，或者只能捕到體型越來越小的魚。這對靠海吃飯的家庭來說，無疑是個巨大的打擊。他們的收入大幅減少，許多家庭連基本的溫飽都成了問題。有些漁民為了生計，不得不冒險到更遠的海域捕魚，或是尋找其他工作機會，但選擇並不多。</p><p>目前，這場過度捕撈引發的危機仍在持續。雖然有些國家和國際組織已經開始嘗試推動永續漁業的做法，例如限制捕撈量、設定禁漁期，或是輔導漁民轉型，但因為問題牽涉範圍廣大，影響人數眾多，要讓海洋生態恢復到過去的樣貌，並且同時保障漁民的生計，顯然仍是一項艱鉅的挑戰。這次的新聞也特別透過照片，記錄了這場危機在當地造成的真實景象。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Photos: How overfishing in Southeast Asia is an ecological and human crisis",
+    "enContent": {
+      "basic": "Overfishing in Southeast Asia is causing big problems. People are catching too many fish, too fast. This means there are fewer fish in the ocean, which hurts sea life and also the people who fish to live. Fishermen are struggling to find enough fish to feed their families and make money. This makes life tough for many people in countries like Thailand and the Philippines. The problem is still happening, and it's a big challenge to fix.",
+      "intermediate": "Southeast Asian waters, once rich in marine life, are now facing a severe crisis due to overfishing. This phenomenon occurs when fishing activities deplete fish stocks faster than they can replenish naturally. The high demand for seafood and the use of advanced, often destructive, fishing gear have contributed to a rapid decline in fish populations. This not only damages the delicate marine ecosystem, reducing biodiversity, but also creates a significant human crisis. Millions of local fishermen, who depend on the sea for their income and food, are struggling to make ends meet as their catches dwindle. Efforts are being made to promote sustainable fishing, but reversing the damage and supporting these communities remains a complex challenge.",
+      "advanced": "The once-abundant fisheries of Southeast Asia are confronting a profound ecological and human crisis, primarily driven by pervasive overfishing practices. This unsustainable exploitation, fueled by escalating global demand for seafood and enabled by increasingly efficient, sometimes destructive, fishing technologies, has led to a dramatic depletion of fish stocks. The ecological ramifications are severe, encompassing widespread habitat degradation, significant reductions in marine biodiversity, and a disruption of the region's delicate ocean ecosystems. Concurrently, a humanitarian crisis unfolds as millions of coastal inhabitants, whose livelihoods are intrinsically tied to artisanal and small-scale fishing, face unprecedented economic hardship and food insecurity. The dwindling catches directly translate into reduced incomes, forcing many to seek alternative, often scarce, opportunities. While various stakeholders, including governments and NGOs, are initiating interventions focused on sustainable resource management and community resilience, the scale and complexity of the problem present formidable challenges for long-term recovery and equitable solutions."
+    },
+    "vocabulary": [
+      {
+        "word": "Overfishing",
+        "zh": "過度捕撈：指的是人類捕魚的速度，超過了魚類在自然界繁殖和成長的速度，導致魚的數量越來越少，甚至來不及恢復。"
+      },
+      {
+        "word": "Ecological",
+        "zh": "生態的：指與環境和生物之間的關係有關的事物。例如「海洋生態」就是指海洋裡的生物和它們生活的環境，以及彼此的互動關係。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-04-21",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2djZzIxNnFFRkZpQmprRGxOQXNqWDR1Um0wQS1aWTVremltQzhwdWtKeTFZTU1FQWZTYW5sOWlEZHFUXzUyYW9JbndCeWhPY2RvU0ZWQ3pkanRoQTlRQWlHQzFPQkgyeTBEbmQyTkZPMTdtVW5RZWgyWUZOUGtrbWNtdWZmTF9ENTM5eG96VGd2bk5UU0JrODAxQ29meG1QTkE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "庫克群島總理：「紐西蘭是我們的家人！」",
+    "zhSummary": "庫克群島的總理公開表示，他們將紐西蘭視為「家人」。這不僅是禮貌用語，更反映了兩國之間長久且深厚的歷史淵源、特殊政治地位，以及在經濟、文化和人民生活上的緊密連結與互助關係。",
+    "zhContent": "<p>「家人」這個詞，通常是用來形容我們身邊最親近的人，對吧？不過，最近庫克群島的總理，卻用這個溫暖的詞來形容遠方的紐西蘭。根據紐西蘭廣播電台（RNZ）的報導，庫克群島的領導人公開表示，他們把紐西蘭視為「家人」。這句話，不只是單純的客套話，更是點出了這兩個國家之間，有著一段非常特別且深厚的關係。這段關係究竟有多「家人」？背後又有哪些故事呢？</p><p>要理解這份「家人」情誼，得先從庫克群島與紐西蘭的歷史說起。庫克群島位於廣闊的太平洋上，是一個風景如畫的島嶼國家。過去，他們曾是紐西蘭的託管地。雖然庫克群島在1965年就已經獲得了「自由聯合」（free association）的政治地位，成為一個可以自己管理內政事務的獨立國家，但它跟紐西蘭的連結卻從未斷過。最特別的是，所有的庫克群島居民，同時也擁有紐西蘭的公民身份。這意味著他們可以自由地在兩地之間移動、居住、工作和學習，就好像在同一個國家裡一樣方便。</p><p>這種「自由聯合」的關係，讓兩國的交流非常頻繁，幾乎滲透到生活的方方面面。紐西蘭不僅是庫克群島最大的貿易夥伴之一，也長期在教育、醫療、基礎建設等方面提供實質的援助。許多庫克群島的年輕人會選擇到紐西蘭接受教育或尋求工作機會，反之，也有不少紐西蘭人到庫克群島度假或居住。這種你來我往、互相扶持的模式，讓兩國人民之間產生了強烈的歸屬感和親切感，也難怪庫克群島的總理會毫不猶豫地用「家人」來稱呼紐西蘭。</p><p>總的來說，庫克群島總理將紐西蘭比喻為「家人」，其實精準地描繪了兩國之間超越一般外交關係的深厚情誼。這不僅是基於歷史的淵源，更是建立在現實生活中緊密的經濟、文化和人口流動之上。這份獨特的「家人」關係，確保了兩國未來會繼續在各種層面上相互支持與合作，共同面對挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cook Islands PM Affirms New Zealand as 'Family'",
+    "enContent": {
+      "basic": "The Prime Minister of the Cook Islands has said that New Zealand is like 'family'. This means the two countries have a very close and special relationship. The Cook Islands is a group of islands in the Pacific Ocean. Long ago, New Zealand helped look after them. Even though the Cook Islands is now its own country, people from there can also be New Zealand citizens. This makes it easy for them to travel and live in both places, just like going to a relative's house. New Zealand also helps the Cook Islands with things like schools and hospitals. This strong friendship is why the PM called New Zealand 'family'.",
+      "intermediate": "The Cook Islands' Prime Minister has declared New Zealand to be 'family', highlighting a uniquely deep and long-standing relationship between the two nations. This sentiment, reported by RNZ, goes beyond typical diplomatic ties. Historically, the Cook Islands were once administered by New Zealand. Today, despite being a self-governing nation in 'free association' with New Zealand, all Cook Islanders hold New Zealand citizenship. This special status allows for unrestricted movement and access to services between the two countries, fostering strong cultural, economic, and personal connections. New Zealand also provides significant support in areas like education, healthcare, and infrastructure, reinforcing this close bond.",
+      "advanced": "The Cook Islands' Prime Minister has characterized New Zealand as 'family', a descriptor that underscores the profound and enduring relationship between the two sovereign nations, as reported by RNZ. This appellation transcends conventional diplomatic parlance, signifying a deeply interwoven partnership forged over history. While the Cook Islands gained self-governing status in 'free association' with New Zealand in 1965, the unique provision granting Cook Islanders full New Zealand citizenship fundamentally shapes their bilateral dynamic. This shared citizenship facilitates seamless trans-Tasman mobility, enabling robust cultural exchange, economic integration, and demographic flow. Furthermore, New Zealand consistently provides substantial aid and expertise across critical sectors such as education, public health, and infrastructural development, thereby solidifying this familial bond and mutual interdependence."
+    },
+    "vocabulary": [
+      {
+        "word": "Prime Minister",
+        "zh": "總理 / 首相。一個國家的最高行政首長，有點像班長一樣，負責管理整個國家的大大小小的事情。"
+      },
+      {
+        "word": "association",
+        "zh": "自由聯合 / 聯繫。指兩個國家或地區之間，雖然各自獨立，但在某些重要事情上（比如國防或外交）保持著很緊密的合作或關係。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-04-21",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQWV2TjlOejl4MWxtLVJGNXI1Z0d3NkdwckczOE0tVGlTbW9UaFRBN2RPX0NxQkNOLUdfVldseUVLU3RnSGhpNXF2Sld1NmNHaHE4SGZsZS1zVFp4YnY5Mk1vdlJXMHhZcHNnYW9IaVR0cnpNcDc0Y0ZGVURTWmFxRDJERUdteTY2SWsxQzZZUXJNcjBTTk4wd3RxRmNzV0lYWG1yN3BhNEFlQUVr?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "土耳其校園槍擊慘案：9師生罹難13人受傷",
     "zhSummary": "在土耳其的一所校園，發生了一起嚴重的槍擊事件，導致9名師生不幸喪命，另有13人受傷。當地警方已介入調查。",
     "zhContent": "<p>2026年4月16日，土耳其傳出了一起震驚全國的校園槍擊事件。這起不幸的慘劇發生在當地一所學校內，現場瞬間陷入一片混亂與恐慌。根據公視早安新聞報導，這起槍擊事件造成了多名師生傷亡，讓原本充滿歡聲笑語的校園蒙上了一層沉重的陰影。</p><p>事件發生當時，校園突然響起了槍聲，使得學生與教職員工措手不及。目擊者描述，現場氣氛極度緊張，人們四處奔逃，試圖尋找掩蔽。緊急救援人員接獲通報後迅速趕抵現場，為傷者提供緊急救護，並協助疏散受困人員。然而，嚴重的傷亡情況仍難以避免。</p><p>目前，這起校園槍擊案已證實造成9名師生不幸罹難。他們可能是教師或是在校園學習的孩子，這數字讓人心痛。此外，還有13人在這場混亂中受傷，部分傷者情況危急，已被緊急送往醫院接受治療。當地政府與警方已立即封鎖現場，展開全面調查，試圖釐清槍擊事件的確切原因以及兇手的身份和動機。</p><p>土耳其當局強調，將會全力追查這起事件的真相，並確保類似的悲劇不再重演。目前，調查工作仍在持續進行中，相關單位正努力收集證據，希望能夠盡快給社會一個交代。這起事件不僅對受害者家庭造成了巨大的傷痛，也讓整個社會對於校園安全問題再次高度關注。</p>",
