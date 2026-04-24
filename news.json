@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "美軍彈藥庫告急？中東戰事牽動全球戰略",
+    "zhSummary": "美國軍方在中東地區與伊朗支持的武裝團體交火時，大量消耗了他們認為很重要的特殊彈藥。有分析指出，這可能會讓美軍在準備應對俄羅斯和中國等主要國家的潛在衝突時，面臨資源不足的挑戰。",
+    "zhContent": "<p>最近，美國的軍事行動成為大家討論的熱點。美國軍隊在中東地區，因為要應對那些受到伊朗支持的武裝團體發動的攻擊，進行了不少次的空襲和反擊。這些軍事行動，雖然成功打擊了目標，但也讓一些重要的問題浮上檯面，特別是關於美軍彈藥庫存量的問題。</p><p>根據相關分析指出，美軍在這些中東衝突中，並非只是一般的交火，而是動用了許多原本被視為「重要」的彈藥種類。這些彈藥通常不只是一般的子彈或砲彈，而是指那些需要精密技術、生產成本高昂，或者數量相對稀有、難以快速補充的精準導向武器。例如，用來精準打擊火箭發射器、無人機或軍事設施的飛彈和炸彈，它們的消耗速度比一般預期要快。</p><p>專家們因此提出擔憂，認為這種彈藥的快速消耗，可能會削弱美軍在其他地方的備戰能力。因為這些「重要彈種」不只是為了應付中東的局部衝突，更是為了應對像俄羅斯和中國這樣，擁有先進軍事力量的國家，可能在未來發生的大規模或高科技戰爭所儲備的關鍵武器。如果在一個戰區過度使用，就會影響到其他戰區的應對準備。</p><p>目前的狀況是，美國軍方必須在處理中東地區即時的威脅，以及維持全球戰略儲備之間找到一個平衡點。這項分析顯示，美軍正努力評估彈藥的庫存狀況，並思考如何更有效地分配資源。這項考量將直接影響他們未來的軍備採購計畫和部署策略，以確保他們能同時應對來自不同地區的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美軍在中東的行動和彈藥消耗，對其全球戰略準備產生了什麼影響？",
+      "生活與未來：你覺得軍事資源的分配和消耗，可能對一個國家的國際地位和政策產生什麼實際影響？",
+      "獨立思考提案：針對這種在局部衝突中消耗重要軍備的情況，你覺得一個國家還可以怎麼做，才能更好地平衡當前的需求和未來的戰略準備？"
+    ],
+    "enTitle": "US Munition Depletion in Middle East Conflicts Affects Readiness for Russia, China",
+    "enContent": {
+      "basic": "The U.S. military has been using up important types of ammunition in conflicts with Iran-backed groups in the Middle East. Analysts suggest this could make it harder for the U.S. to prepare for potential future conflicts with major powers like Russia and China.",
+      "intermediate": "Recent analyses highlight a concern that the U.S. military's significant use of specific, crucial munitions in responding to attacks by Iran-backed forces in the Middle East is depleting its stockpiles. Experts warn this could compromise the U.S.'s readiness and strategic posture for potential larger-scale confrontations with advanced military powers such as Russia and China, necessitating a careful balance of immediate responses and long-term defense planning.",
+      "advanced": "Amidst heightened engagements with Iran-backed militias in the Middle East, the U.S. military has reportedly expended a considerable volume of critical, specialized munitions. Strategic assessments indicate this accelerated depletion could significantly impair the Pentagon's 'great power competition' preparedness, potentially weakening its capacity to deter or respond to advanced military threats from adversaries like Russia and China. This presents a complex strategic dilemma, compelling a reevaluation of procurement, inventory management, and force projection strategies to reconcile immediate operational demands with overarching global defense objectives."
+    },
+    "vocabulary": [
+      {
+        "word": "Munition",
+        "zh": "彈藥：軍隊在戰鬥中使用的子彈、砲彈、飛彈等武器材料。就像你玩射擊遊戲時的子彈和手榴彈。"
+      },
+      {
+        "word": "Readiness",
+        "zh": "備戰狀態：指一個國家或軍隊已經做好充分準備，隨時可以應對戰鬥或任何緊急情況的狀態。想像運動員為比賽做好了全面的準備。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-04-24",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWXdqeUVJbU96V0hIMjVsNWp4bW1xSU93RWhEZl84c2dhZU9vUGxXekVkMDlxWldMUndaWG9ocl9rV19GUFJJSXFYQVdDa0J2MllaZlJmSzNtZmJSRWx3?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "尤金作曲家新作《水世界》：用音樂帶你思考氣候變遷與大自然",
+    "zhSummary": "美國奧勒岡州尤金市的一位作曲家，最近發表了一部名為《水世界》的全新音樂劇。這部作品透過音樂和故事，深入探討氣候變遷對地球的影響，以及人類與大自然之間的關係，希望能讓更多人關注這些重要的環境議題。",
+    "zhContent": "<p>最近，在美國奧勒岡州的一個城市尤金，一位當地的作曲家創作了一部全新的音樂劇，名叫《水世界》（WaterWorks）。這部作品可不是一般的歌舞劇，它特別之處在於，它希望用音樂和故事來跟觀眾聊聊一個超級重要的議題：氣候變遷。作曲家透過這部劇，帶領大家一起思考人類跟大自然之間，究竟是一種什麼樣的關係。</p><p>《水世界》這部音樂劇的核心，就是把環境保護的概念融入藝術創作。它不只是用歌詞來表達，而是利用音樂本身的旋律、節奏和情感，來描繪氣候變遷帶來的種種挑戰，例如水資源的變化、生態環境的衝擊等等。透過演員的歌聲和表演，這部劇試圖呈現大自然的美麗與脆弱，以及人類活動對地球造成的各種影響。</p><p>這名尤金作曲家之所以會投入《水世界》的創作，是出於對環境議題的深切關懷。他觀察到氣候變遷的問題日益嚴重，許多人卻還不夠了解或重視。他相信藝術有一種特別的力量，可以觸動人心，讓大家用不同的角度去感受和理解這些科學數據或新聞報導中，常常顯得冰冷的資訊。他希望透過音樂劇這種生動的形式，引導觀眾思考如何與大自然和平共處。</p><p>目前，《水世界》這部音樂劇已經在當地（奧勒岡州）被介紹出來，並準備與觀眾見面。它的目標很明確，就是希望能夠激發更多人對氣候變遷議題的興趣和討論，並思考我們每個人在保護地球上，可以扮演什麼樣的角色。這齣劇的出現，也讓大家看到，藝術創作也能成為推動環保意識的一個強大平台。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Eugene composer explores climate change, humanity’s relationship to nature in a new musical ‘WaterWorks’ - NPR for Oregonians",
+    "enContent": {
+      "basic": "An Oregonian composer from Eugene has created a new musical called 'WaterWorks'. This musical focuses on important topics like climate change.",
+      "intermediate": "A composer based in Eugene, Oregon, has premiered a fresh musical production titled 'WaterWorks'. This new work delves into the critical subject of climate change and also examines humanity's complex connection with the natural world. It aims to use art to discuss these environmental issues.",
+      "advanced": "Originating from Eugene, Oregon, a local composer has introduced a compelling new musical production, 'WaterWorks'. This ambitious piece not only intricately explores the multifaceted challenges of climate change but also thoughtfully probes the profound and often delicate relationship between humanity and the broader natural environment. Utilizing the emotive power of music and storytelling, 'WaterWorks' seeks to engage audiences in a deeper contemplation of our ecological responsibilities."
+    },
+    "vocabulary": [
+      {
+        "word": "Composer",
+        "zh": "作曲家 (zhuò qǔ jiā)。這個詞指的是專門創作音樂的人，就像寫故事的人是作家一樣，作曲家就是寫歌、寫曲子的人。"
+      },
+      {
+        "word": "Musical",
+        "zh": "音樂劇 (yīn yuè jù)。這是一種表演藝術，把戲劇、歌唱和舞蹈結合在一起。演員們在舞台上會唱歌、跳舞，同時演戲，來呈現一個完整的故事。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-04-24",
+    "sourceName": "NPR for Oregonians",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUTlGLWZWdGhmbUFDUnNBMDB3LTlreGR5TU41c2l0emEtS2hxbjMwUGRJSUJXaHVucDBBcTYyQVFjV25LWmp4OU9TN1B6a1p1ZXZKSXA2cXdSeUZaTFRpUHNIbjVyOHNvWUYtdWJNSlNrQVBBZlVrQWhSbm5XOE5yVmZMS3g2M3BET3JDNWNyQzNFRVQ4Q1EzYzNJVlZFQmpPM01hMnZCcHptdTJaLVVQelNNYlE2b19iYy1BZndlS0pRa2JTTU9pUjZiRU1KWUpYT0RhODEzcVJDbmJ5cUE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "洛杉磯美術館新展廳耗時20年完工，巨大水泥迷宮將挑戰你的方向感！",
+    "zhSummary": "洛杉磯一間知名美術館，在經過長達二十年的建造後，終於公開了一個巨大、由混凝土打造的全新藝廊。這個特別的空間設計，就是要讓參觀者體驗一種「迷失方向」的獨特感受。",
+    "zhContent": "<p>洛杉磯的藝術界最近有個大新聞！一間在當地很有名的美術館，經過整整二十年的漫長籌備與建造，終於把他們全新的藝術展覽空間揭開神秘面紗。這個超級巨大的展廳，不僅全部用混凝土打造，設計師還特別說明，它的目標就是要讓進來的每個人都稍微「迷失方向」一下，創造一個很不一樣的參觀體驗。</p><p>這個新展廳的特色，藏在它「巨大」又「迷宮般」的結構中。想像一下，你走進一個由灰色混凝土構成的寬廣空間，裡面沒有平常清楚的指示牌，也沒有一眼就能看透的明確路線。它的牆壁、通道和空間配置，都經過精心安排，目的就是挑戰你的方向感，讓你不是那麼容易找到出口。這種特別的「迷失感」，其實是設計的一部分，希望能讓訪客更專注於當下與藝術作品本身。</p><p>為什麼要花這麼長時間，建造一個這麼特別的展廳？根據報導，這樣的設計理念是為了打破傳統美術館的參觀模式。一般看展覽可能循著規劃路線，但這個新空間想帶給大家更沉浸、更出乎意料的感受。設計團隊花了許多心思規劃混凝土結構，確保它們既能承載藝術品，又能創造「讓你感覺有點暈頭轉向」的氛圍。這二十年，不僅是為了建築的複雜性，也反映了藝術家和建築師對創新想法的堅持與投入。</p><p>這個耗費二十年心血打造的巨大混凝土藝廊，現在已經正式對外公開。參觀者終於可以親身體驗這個「故意讓你迷路」的設計。大家對這個打破常規的新展廳一定充滿好奇，想知道走進去之後，會不會真的像設計師說的那樣，感受到前所未有的空間體驗。美術館期望透過這樣的空間，讓藝術與人之間的互動變得更加多元與有趣。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，這個新展廳的「迷失方向」設計，你覺得會帶來什麼優點和缺點？",
+      "生活與未來：你覺得這個設計理念，除了在美術館，還可能應用在哪裡？會對哪些人的生活造成實際影響？",
+      "獨立思考提案：針對這個強調「迷失方向」的設計，如果讓你給一個建議，你會怎麼做來讓訪客體驗更好？"
+    ],
+    "enTitle": "LA Art Museum Unveils 'Disorienting' Concrete Gallery After 20 Years",
+    "enContent": {
+      "basic": "An art museum in Los Angeles has opened a huge new gallery made of concrete. It took 20 years to build! The special design is meant to make you feel a little lost inside. This helps you focus on the art in a new way.",
+      "intermediate": "After two decades of planning and construction, a prominent art museum in Los Angeles has finally unveiled its massive new concrete gallery. The unique architectural design aims to 'disorient' visitors, encouraging a deeper and more immersive engagement with the exhibited artworks by challenging their spatial perception.",
+      "advanced": "The Los Angeles art scene is abuzz with the unveiling of a monumental concrete gallery at a leading museum, a project meticulously developed over two decades. This colossal structure is deliberately engineered to evoke a sense of disorientation in its visitors, fostering an unconventional and highly immersive interaction with the curated art by subverting traditional spatial navigation cues and enhancing focused contemplation."
+    },
+    "vocabulary": [
+      {
+        "word": "disorient",
+        "zh": "迷失方向 / 讓你覺得搞不清楚自己在什麼地方，或是找不到方向的感覺。"
+      },
+      {
+        "word": "unveil",
+        "zh": "揭開 / 第一次公開展示或公布一個之前藏起來或大家不知道的東西。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-04-24",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkpzMG9tRlZRMm5BdW4xdGd4WE5EYTI2ZGxOcXA1cVd5a1RhYndXSkZKQ1lTVFByM0pmT2dmeWRNZXZpcThjMTk1YmJjaXNwam9wM3pzMVhmbDNSU1hWM0wyemlwMjB5V2h5UmZHYWI4c1I3NENqdk5xWHZsNDcyckY0Zm5GcE5KQ3FPazBWaw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "挑戰科技自主：中國DeepSeek AI模型專為華為晶片量身打造",
+    "zhSummary": "中國AI公司DeepSeek推出專為華為晶片設計的AI模型，展現中國追求科技自主和減少對外技術依賴的決心。",
+    "zhContent": "<p>最近，人工智慧領域傳來一則新消息，中國的AI公司「DeepSeek」正式公開了一個全新的人工智慧模型。這個模型非常特別，它是專門為中國科技巨頭華為所生產的晶片量身打造的。這項技術的發表，被視為中國在科技領域追求「自主研發」與「減少對外依賴」策略中，一個相當關鍵的進展。</p><p>DeepSeek團隊在開發這個AI模型時，特別強調了它與華為晶片的深度整合。這表示他們不僅僅是讓軟體能在硬體上跑，而是深入研究了華為晶片的架構和特性，確保這個AI模型在運作時能達到最佳效能。舉例來說，當AI模型需要處理大量的數據或執行複雜的計算任務時，它能更有效率地利用華為晶片的運算能力，提供更快速、更穩定的表現。這種軟硬體密切配合的模式，對於AI技術的發展非常重要。</p><p>為什麼DeepSeek會選擇與華為合作，並專門為其晶片開發模型呢？這背後的主要原因，是中國近年來積極推動「科技自主」的國家策略。在全球科技競爭日益激烈，某些關鍵技術面臨國際限制的背景下，中國期望能在人工智慧、晶片等核心技術領域，減少對國外供應鏈的依賴。因此，像DeepSeek這樣的本土AI公司，選擇與華為這類國內領先的硬體製造商合作，目標是共同建立一個從晶片到AI模型都由中國自己掌握的科技生態系統。</p><p>總結來說，DeepSeek這次推出專為華為晶片優化的AI模型，不僅展示了中國本土企業在人工智慧技術上的創新能力，更象徵著中國在實現科技自主的道路上又邁出了堅實的一步。這類型的合作，有助於中國在面對外部挑戰時，能依靠自身的技術力量，持續發展和進步。這次發布會，就直接呈現了這種策略的實際成果，為外界觀察中國科技發展提供了新的視角。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "DeepSeek Unveils AI Model for Huawei Chips Amid China's Tech Autonomy Push",
+    "enContent": {
+      "basic": "DeepSeek, a Chinese AI company, has launched a new AI model. This model is specially made to work with Huawei chips. This is part of China's plan to develop its own technology and not rely on other countries.",
+      "intermediate": "Chinese artificial intelligence firm DeepSeek recently revealed a new AI model specifically optimized for use with Huawei's semiconductors. This strategic move highlights China's ongoing efforts to achieve greater technological independence and reduce its reliance on foreign technology in key sectors like AI and chip manufacturing.",
+      "advanced": "In a significant stride towards technological self-sufficiency, Chinese artificial intelligence innovator DeepSeek has formally introduced a novel AI model engineered with bespoke optimizations for Huawei's proprietary chip architecture. This development underscores Beijing's concerted initiative to cultivate indigenous technological capabilities and mitigate external dependencies amidst an evolving global geopolitical and economic landscape, particularly within critical domains such as advanced computing and artificial intelligence."
+    },
+    "vocabulary": [
+      {
+        "word": "AI Model",
+        "zh": "人工智慧模型：想像一下，它就像一個超級聰明的大腦，但不是真的大腦。這個『模型』是被教導了很多很多資料之後，學會了怎麼辨認東西、預測事情或完成任務的一套程式。就像你學會騎腳踏車一樣，AI模型就是學會了某種技能的電腦程式。"
+      },
+      {
+        "word": "Autonomy",
+        "zh": "自主（權）：『自主』的意思就是自己能做決定、自己能控制，不用依賴別人。新聞裡說的『科技自主』，就是指一個國家在發展科技的時候，希望能自己研發、自己生產，不再需要看其他國家的臉色或受限制。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-04-24",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "史上最狂偷竊案：連科學家腦袋和整座橋都能被偷走？",
+    "zhSummary": "英國《BBC科學焦點雜誌》整理了史上六件最奇特的竊盜案，從著名科學家的腦袋到整座金屬橋樑，這些被偷走的物品和背後的故事都讓人大開眼界，顛覆你對竊盜的想像。",
+    "zhContent": "<p>嘿！大家有沒有想過，除了錢包、手機，還有什麼東西會被偷走？一般我們聽到竊盜案，都是偷比較「值錢」或「方便帶走」的東西。但其實世界上有些小偷，他們的目標超級特別，甚至會讓人下巴掉下來！英國的《BBC科學焦點雜誌》最近就整理了一份清單，列出了史上六件最讓人驚訝的偷竊案，真的會讓人忍不住想：「這怎麼偷的啊？」</p><p>這些被偷的東西可不是普通貨色。舉個例子，你聽過有人偷「腦袋」嗎？1955年，著名科學家愛因斯坦過世後，他的大腦就被一位名叫湯瑪斯．哈維的醫生取走，並保存了數十年，目的是為了研究他的天才秘密。這在當時引起了很大的爭議，雖然不是傳統意義上的「偷錢財」，但絕對是偷走了極具意義的「身體器官」。還有更扯的，你知道有人偷過一整座「橋」嗎？在2004年的俄羅斯，一條長達200公尺的金屬橋樑竟然在短短幾週內不翼而飛！後來發現是當地的居民為了賣廢鐵，偷偷把它分解搬走了，真的是化整為零的超級大工程。</p><p>這些奇特的竊盜案，犯案動機也五花八門。像愛因斯坦的大腦，哈維醫生是出於對科學研究的執著，希望透過分析大腦結構來解開天才的奧秘，而不是為了金錢。而俄羅斯那座橋樑的消失，則是當地居民受經濟所迫，想從中賺取廢鐵的收益。這些事件都挑戰了我們對「竊盜」的傳統想像，因為小偷們不僅要克服物品本身的龐大或特殊性，還要面對運送和藏匿的巨大困難，真是超乎常理。</p><p>不過，這些奇特的「戰利品」通常命運也各不相同。愛因斯坦的大腦在經過多年的科學研究後，部分切片目前保存在美國的穆特博物館，供人展示與研究。而俄羅斯那座被偷走的橋樑，雖然警方努力調查，但由於橋身早已被拆解並當成廢鐵出售，幾乎不可能再恢復原狀，這起案件最終也沒能將所有涉案人員繩之以法。這些故事都展示了人類在偷竊行為上的無限創意，以及最終不同的結局。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，被偷走的物品與一般竊盜案有什麼不同？這些特別的竊盜事件是怎麼發生的？",
+      "生活與未來：你覺得這些被偷的「怪東西」對當時的社會或相關的人造成了什麼影響？為什麼它們會被選為偷竊目標？",
+      "獨立思考提案：如果類似的奇特竊盜案發生在你居住的城市，你覺得政府或民眾應該怎麼做來避免？"
+    ],
+    "enTitle": "The World's Wackiest Heists: Unbelievable Stolen Treasures",
+    "enContent": {
+      "basic": "The BBC Science Focus Magazine shared a list of the 6 weirdest things ever stolen. Imagine, someone stole Albert Einstein's brain! After he died in 1955, a doctor took his brain to study it for decades. Another crazy theft happened in Russia in 2004. A 200-meter metal bridge disappeared in just a few weeks! People living nearby stole it piece by piece to sell for scrap metal. It's wild to think about what some people try to steal and why.",
+      "intermediate": "The BBC Science Focus Magazine recently published an intriguing list detailing the 6 most outlandish thefts in history. Among these incredible incidents was the post-mortem removal of Albert Einstein's brain in 1955 by Dr. Thomas Harvey, who kept it for scientific research into his genius. Another remarkable case involved the complete disappearance of a 200-meter metal bridge in Russia in 2004. Local residents dismantled it over several weeks to sell its components as scrap metal, a testament to the extreme lengths some go for profit. These events challenge our conventional understanding of larceny.",
+      "advanced": "In an extraordinary exposé, BBC Science Focus Magazine illuminated \"The 6 Craziest Things That Have Ever Been Stolen,\" chronicling thefts that defy conventional imagination. One such incident involved the unauthorized acquisition of Albert Einstein's brain by pathologist Dr. Thomas Harvey in 1955, who meticulously preserved and studied it for decades, driven by a profound scientific curiosity rather than pecuniary gain. Concurrently, a staggering infrastructural larceny occurred in rural Russia in 2004, where a 200-meter metal bridge was systematically dismantled and purloined by local inhabitants over a mere few weeks, its valuable metallic components then illicitly sold for scrap. These cases underscore the diverse motivations and audacious methodologies employed in thefts of truly unprecedented scale and nature."
+    },
+    "vocabulary": [
+      {
+        "word": "bizarre",
+        "zh": "奇特的，古怪的。形容某件事情或某個東西非常不尋常、很難想像，跟平常看到的不一樣。"
+      },
+      {
+        "word": "preserve",
+        "zh": "保存，保藏。意思是把某個東西小心地照顧好，讓它維持原來的樣子，不會壞掉或變質。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-04-24",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSE9RTWhVSXRsSWZQSE13U29HaEF2UEFxc01xUkhBbUNsblh5b0dxOWYzWFR3aTdfNGlqSnNFNWxWYjF5MDNOZzF1ZlFmai1hZF94anMwbnFXYV9SMzFEcXNXUUg2ZjNfUFozWW1VdnpZZWFwQjRIQlk4bGNJempPWDJIdDFnQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "聯準會主席被調查？美國司法部說「到此為止」！",
+    "zhSummary": "美國司法部宣布停止對聯邦準備理事會主席傑羅姆·鮑爾的刑事調查。此前，他和其他高層官員在新冠疫情初期進行的個人金融交易，曾引發外界對於利益衝突的質疑。",
+    "zhContent": "<p>嗨，大家好！最近有個關於美國「錢」的事情在媒體上引起討論。美國司法部（簡單來說，就是負責調查犯罪並起訴的政府部門）最近做了一個決定，他們說要停止對一位非常重要的人物進行刑事調查。這個人就是「美國聯邦準備理事會」的主席，叫做傑羅姆·鮑爾。聯準會是什麼呢？它就像美國的中央銀行，負責制定經濟政策、控制貨幣流通，對全球經濟都有很大的影響力，所以主席的職位是非常關鍵的。</p><p>那這場調查是怎麼開始的呢？時間要回到全球剛爆發新冠疫情、經濟大受衝擊的時候。那時，為了穩定市場和幫助經濟復甦，聯準會推出了許多大規模的政策。但就在這個敏感時期，有一些聯準會的高層官員，包括鮑爾主席在內，被發現有進行個人的股票和債券交易。這些交易的時機點，讓外界出現了質疑的聲音，大家想知道他們是不是利用職務之便，提前知道了什麼重要的經濟政策訊息，或者有沒有違反內部的道德規範。</p><p>為了釐清這些疑慮，聯準會內部的「監察長辦公室」率先啟動了一項獨立的調查。他們詳細檢查了相關官員的個人金融交易紀錄，並審視了當時的倫理規定。這項內部調查結束後，他們的發現和所有相關的資料，都被轉交給了美國司法部。司法部作為最終的裁定者，需要評估這些行為是否真的觸犯了聯邦法律，構成刑事犯罪。</p><p>經過一段時間的謹慎評估和證據分析，美國司法部最終做出決定：他們將終止對鮑爾主席的刑事調查。這意味著，司法部認為目前並沒有足夠的證據來證明鮑爾主席有犯罪行為，因此不會對他提出任何形式的刑事指控。這樣一來，這場針對聯準會主席的刑事調查，就此正式告一段落了。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Justice Department Drops Criminal Probe of Fed Chair Jerome Powell",
+    "enContent": {
+      "basic": "The US Justice Department has decided to end its criminal investigation into Federal Reserve Chair Jerome Powell. The probe was launched after questions arose about personal financial trades made by Powell and other senior Fed officials during the early stages of the COVID-19 pandemic. These trades prompted concerns about potential conflicts of interest as the Fed was making critical economic decisions. After reviewing the evidence, the Justice Department concluded there wasn't sufficient information to pursue criminal charges, bringing the investigation to a close.",
+      "intermediate": "The US Justice Department has officially concluded its criminal investigation into Federal Reserve Chair Jerome Powell, choosing not to pursue charges. The investigation stemmed from a prior internal review by the Fed's Inspector General regarding financial transactions conducted by high-ranking officials, including Powell, during the initial phase of the COVID-19 crisis. Concerns were raised about whether these transactions constituted conflicts of interest or potentially violated ethical guidelines, given the Fed's pivotal role in economic stabilization during that period. The Justice Department's decision indicates that, following their assessment, there was insufficient evidence to establish criminal wrongdoing against Powell.",
+      "advanced": "The Department of Justice has formally terminated its criminal inquiry into Federal Reserve Chair Jerome Powell, opting against indictment. This decision follows an internal review initiated by the Fed's Inspector General into the trading activities of senior officials, including Powell, amidst the unprecedented economic interventions of the early COVID-19 pandemic. The scrutiny focused on potential conflicts of interest and adherence to ethical standards, as these officials engaged in personal securities transactions while the central bank was implementing substantial monetary policy measures. The Justice Department's determination reflects a conclusion that the evidentiary basis was inadequate to support criminal charges, thereby closing the high-profile investigation."
+    },
+    "vocabulary": [
+      {
+        "word": "probe",
+        "zh": "調查：想像警察或偵探為了找線索，會非常仔細地盤問、收集證據和分析資料的過程，就是一種「調查」。"
+      },
+      {
+        "word": "Fed chair",
+        "zh": "聯準會主席：聯準會是美國負責管理國家經濟和「錢」的機構，就像一個國家的中央銀行。主席就是這個機構的最高領導人，他的決定會影響整個美國，甚至全球的經濟。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-04-24",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamFjWkRFMURGYnpTM0tGdmZzMXFfci13djlvbFRnMHkzRTlpRWpwUTFWeEx5QURPcUlDZGt5eFpNR2lrdzVXYUl0QkVjc0Jyd200RXdyYkMzNmpEWEV0Si1ZaS1rZ0RmREdqeXplUHVsdnlMQVZ3NGpWWnl2aFVYMnpXU3l1VnBkNXo4VXhqMURMNV9ZOFB3ZFpkbTVram4wYjlyTjBnYjRqVm1PU0N3UVEyVdIBuAFBVV95cUxOaV80TnlXS1gxUlRCQkVObG1nSWNESFlWaXVidUhqQThJaHU3TmM3X0NOUUhYR1Y5cnVxUmJnQ0VTa09ScUxVcmp1U1JVTjNSNXR1SUM5RmFuRU5tM2VDZEFram1pSjlKNjhtbU96a0wybDU3WXNlbkp1SHVZTG9BMzNhc3hTRUwxdFBweklEMWdSTmxPMTdhVGJ0dmwyWUV1b1lJWk1Obl9TYl9zMGlab2NPcURjMHps?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "福克蘭群島所有權再掀波瀾：英國政府重申主權立場",
+    "zhSummary": "英國政府近日堅定重申福克蘭群島（阿根廷稱馬爾維納斯群島）的主權屬於英國，此舉是為了回應有報導指出美國可能正在重新檢視其對該群島的政策立場。",
+    "zhContent": "<p>你或許聽過在世界地圖上有一個遙遠的地方叫做福克蘭群島，那裡有好多可愛的企鵝和廣闊的海洋。這個美麗的群島，長期以來卻是英國和阿根廷兩國之間，一個關於「誰才是真正主人」的爭議點。最近，因為有新聞報導指出，美國政府可能正在重新審視他們對這個群島的政策，英國政府的發言人馬上出面，非常堅定地表示：「福克蘭群島的主權，毫無疑問地屬於英國。」</p><p>「主權」這個詞，簡單來說就是一個國家對某塊土地擁有最終的統治權。英國政府的立場一直很清楚：他們認為福克蘭群島是英國的海外領土，並且強調島上居民的意見才是最重要的。早在1982年，英國和阿根廷就曾為了爭奪這個群島爆發過一場戰爭，這讓「主權」問題變得更加敏感。英國一直堅持，福克蘭群島的未來，應該由住在那裡的居民透過民主方式自己決定。</p><p>這次事件的起因，是媒體報導說美國政府似乎正在考慮要調整他們對福克蘭群島的立場。美國過去的態度，通常是承認英國實際控制這個群島，但沒有明確表態支持任何一方的主權聲明。然而，當有傳聞說美國可能想重新檢視時，英國首相的發言人立刻跳出來，強調英國對福克蘭群島的承諾是「不可動搖」的，並且清楚說明，這個群島的居民在2013年透過公投，以壓倒性的結果選擇繼續留在英國的管轄之下。</p><p>因此，英國政府這次的回應，目的就是為了向全世界、特別是向美國，再次清楚傳達他們的訊息：福克蘭群島的未來，已經由島上的居民自己決定了。他們非常重視島民的意願，並且會繼續尊重和維護島民的選擇。這也意味著，儘管國際間可能會有不同的討論或聲浪，英國對於福克蘭群島主權的立場，目前仍然是堅定不變的。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，英國政府為什麼要特別出面重申福克蘭群島的主權？你認為「主權」對一個國家來說，為什麼這麼重要？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "UK Reasserts Falklands Sovereignty After US 'Review' Reports",
+    "enContent": {
+      "basic": "The UK government has firmly stated that the Falkland Islands belong to them, after news reports said the US might be looking at its policy on the islands. The UK says the people living there want to stay with the UK.",
+      "intermediate": "The British government, often referred to as 'No 10', has reasserted its sovereignty over the Falkland Islands. This strong statement comes after reports circulated that the United States might be reviewing its long-standing policy regarding the archipelago. The UK emphasizes that the islanders' right to self-determination is paramount, and they have clearly voted to remain a British Overseas Territory.",
+      "advanced": "In a definitive declaration, Downing Street has unequivocally affirmed the United Kingdom's sovereignty over the Falkland Islands, strategically responding to speculative reports of a potential US policy 'review' concerning the contested South Atlantic archipelago. Emphasizing the principles of self-determination, the British government underscored the decisive 2013 referendum where island residents overwhelmingly voted to retain their status as a UK Overseas Territory, thereby dismissing any ambiguity regarding the islands' constitutional future."
+    },
+    "vocabulary": [
+      {
+        "word": "sovereignty",
+        "zh": "主權 (zhǔ quán) - 指一個國家擁有統治自己領土、管理自己事務的最高權力，別的國家不能干涉。就像你家是你爸媽做主，別人不能隨意決定你家的事一樣。"
+      },
+      {
+        "word": "referendum",
+        "zh": "公投 (gōng tóu) - 指由全體公民直接投票，對某個重要的公共政策或法律草案表達意見的過程。就像班級要選代表，大家一人一票決定一樣。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-04-24",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyZGlfbG5NMmsyZ0hmdkRSbnVBVndPalpiUlJqVUU3RjliLUtNT2N4WjlaS19ZVHNWNmtsSWwzakhHM05yMXlTNUhoYkQwSTRXX0VSaHBsNFdJUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "川普警告英國：不撤數位服務稅，就課高額關稅！",
+    "zhSummary": "這則新聞報導了美國前總統川普曾向英國發出警告，若英國堅持向美國科技公司徵收「數位服務稅」，美國將可能對英國商品課徵「高額關稅」，引發了兩國間的貿易緊張。",
+    "zhContent": "<p>最近，美國前總統川普向英國發出了一個嚴重的警告，說如果英國不取消對美國科技公司徵收的「數位服務稅」，美國可能會對英國的商品課徵高額關稅。這讓兩國之間原本友好的貿易關係出現了緊張。</p><p>英國考慮徵收的「數位服務稅」，簡單來說，就是針對一些大型科技公司，例如搜尋引擎、社群媒體平台和線上市場等，在英國地區透過數位服務賺取的收入，課徵一定比例的稅。英國政府認為，這些公司在英國賺了很多錢，卻沒有繳納足夠的稅金。但川普表示，這種稅收其實是衝著美國的科技巨頭而來，對美國企業不公平。</p><p>美國政府認為，這種稅收政策不僅不公平，而且有歧視美國企業的嫌疑。他們覺得，全球數位經濟的稅收問題應該透過國際合作來解決，而不是由單一國家自行其是。美國貿易代表辦公室也曾表示，英國的數位服務稅是不合理的貿易障礙，會傷害美國公司的利益。</p><p>因此，川普才會威脅，如果英國堅持徵收這項稅，美國將會採取報復措施，對英國出口到美國的商品加徵關稅。這意味著，未來英國的商品賣到美國時，價格可能會變貴，對英國的出口商會造成衝擊。目前，英國仍對此稅有不同的看法，兩國的貿易談判還在持續當中，這個問題也成為雙方關係中一個重要的爭議點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國和英國因為什麼事情產生了貿易上的爭執？",
+      "生活與未來：你覺得這個稅收與關稅的爭議，會對一般人購買或使用的科技產品造成什麼實際影響？",
+      "獨立思考提案：針對這類跨國企業的稅收問題，你覺得除了單一國家徵稅或威脅關稅之外，國際上還可以怎麼做會更好？"
+    ],
+    "enTitle": "Trump's Tariff Threat to UK Over Digital Tax",
+    "enContent": {
+      "basic": "Former U.S. President Trump threatened the UK with high tariffs. This was because the UK planned to put a new tax on big American internet companies. He said this tax was unfair to U.S. businesses.",
+      "intermediate": "Former U.S. President Donald Trump warned the United Kingdom that the U.S. could impose significant tariffs on British goods. This threat came in response to the UK's proposed digital services tax, which would target the revenues of large American technology companies operating within its borders. Trump argued that this tax unfairly singled out U.S. firms.",
+      "advanced": "In a contentious move, then-U.S. President Donald Trump issued a stern warning to the United Kingdom, indicating potential \"big tariffs\" on British imports. The threat was a direct response to the UK's planned implementation of a digital services tax, designed to levy a percentage on the revenues generated by global tech giants from their users in the UK. Trump's administration viewed this as a discriminatory measure specifically targeting dominant U.S. technology firms, arguing it constituted an unfair trade barrier rather than a legitimate tax reform."
+    },
+    "vocabulary": [
+      {
+        "word": "Tariff",
+        "zh": "關稅：一個國家對進口或出口的商品所徵收的稅金。通常會讓商品的價格變高，可能會影響貿易量。"
+      },
+      {
+        "word": "Digital Services Tax",
+        "zh": "數位服務稅：一種針對網路公司（例如社群媒體、搜尋引擎或線上購物平台）在某個國家提供的數位服務所賺取的收入，課徵的特別稅金。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-04-24",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYlV3UFBFX3p3U0pGdlVvOXhLenRWLVluVTV4WUpTLXh4UUdONWpLSUpjMkNSSnhxNEc5dTY5b1dzaGFqd1h5Uk5wSnlVbjkzMlIzZl85Mk5vcWlSbDI0VV9iWmNRTUZqX19uZzZVRTA2NWVzeGl5WWg4Ti1jRk5ETnRB0gGHAUFVX3lxTE5uZWZTYlpUUFd3bDZNMU1UNlF5VVNCV3ltemFMZk5tZWJQRWpFLXFya1Q3NXRmcUVBOVBwUk5udUZ5X210VU5ua0hVRWhNR3ZKNGxfTGdVM0VORmFOTmwxRHNoWkxzc0R1RVpHazZHUjgzWk5vbUNMTUhia2lwZzRQdW5EdUZNZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "奈及利亞與南非 聯手深化能源合作",
+    "zhSummary": "奈及利亞和南非這兩個非洲大國，最近決定要加強在能源方面的合作，像是電力和石油天然氣等，希望一起解決能源挑戰，為兩國帶來好處。",
+    "zhContent": "<p>兩個非洲的重要國家，奈及利亞和南非，最近決定要手牽手，讓彼此在能源領域的合作關係變得更緊密。這兩國都是非洲大陸上舉足輕重的力量，他們希望透過這次的合作，一起克服能源面臨的各種挑戰，並且為兩邊的國家都帶來更好的發展機會。這個消息是由非洲通訊社（APAnews）報導出來的，讓大家知道這兩個國家接下來將會一起努力。</p><p>這次的合作加深，主要會聚焦在幾個關鍵的能源方面。報導中指出，雙方會針對電力供應、石油和天然氣的生產與分配等議題進行更深入的討論與合作。這不只代表他們會交流彼此的經驗，更可能意味著未來會有更多共同的專案計畫，例如一起投資新的發電廠，或是改善能源的輸送管線，讓能源能夠更穩定地送到需要的地方。</p><p>為什麼奈及利亞和南非選擇在這個時候加強能源合作呢？其實，這背後有著很實際的原因。奈及利亞是非洲最大的石油生產國之一，而南非則是非洲工業最發達的國家之一，但兩國都面臨著各自的能源挑戰，像是南非偶爾會有電力短缺的問題，而奈及利亞則需要將豐富的能源資源轉化為穩定的經濟成長。所以，透過合作，他們可以互相支援，補足彼此的不足，共同提升能源安全和效率。</p><p>這次「深化能源關係」的決定，意味著兩國在政府層級上已經達成了重要的共識。它為奈及利亞和南非未來的能源政策與經濟發展，設定了一個共同努力的方向。雖然具體的合作項目還需要時間去規劃與執行，但這個宣布已經為兩國在能源領域開啟了新的篇章，預示著未來將會看到更多共同推動的計畫，一起面對並解決非洲大陸上的能源議題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Nigeria and South Africa Strengthen Energy Ties",
+    "enContent": {
+      "basic": "Nigeria and South Africa, two important African countries, have decided to work closer together on energy. They want to share power and oil to help each other. This news came from APAnews. They hope to solve energy problems and make both countries better. They will talk about electricity and how to get oil and gas to people. Both countries face energy issues; Nigeria has oil, and South Africa needs stable power. By working together, they can make energy safer and work better. This decision means they will keep planning more projects together in the future.",
+      "intermediate": "Nigeria and South Africa, two prominent nations in Africa, have decided to strengthen their energy collaboration. This partnership aims to address common energy challenges and foster mutual development, as reported by APAnews. The cooperation will focus on areas like electricity supply, as well as oil and gas production and distribution. Both countries have unique energy needs and resources; Nigeria is a major oil producer, while South Africa seeks stable power for its industries. By working together, they can improve energy security and efficiency across the continent. This agreement sets a new direction for their future energy policies and projects, signaling more joint initiatives to come.",
+      "advanced": "Nigeria and South Africa are poised to significantly deepen their bilateral energy ties, a strategic move reported by APAnews. This enhanced collaboration between Africa's two largest economies is intended to jointly tackle prevalent energy challenges and stimulate sustainable economic growth for both nations. Key areas of focus include optimizing electricity generation and transmission, alongside refining oil and gas production and distribution mechanisms. The rationale behind this intensified partnership stems from their complementary energy profiles: Nigeria possesses substantial hydrocarbon reserves, while South Africa, a highly industrialized nation, consistently seeks reliable and sufficient power supply. By pooling resources and expertise, they aim to bolster energy security, streamline operational efficiencies, and pave the way for joint infrastructural investments, thereby establishing a robust framework for future energy cooperation and regional stability."
+    },
+    "vocabulary": [
+      {
+        "word": "deepen",
+        "zh": "加深：讓關係、合作或情感等變得更緊密、更深入。"
+      },
+      {
+        "word": "ties",
+        "zh": "關係：指兩個或多個國家、人或事物之間的連結或聯繫。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-04-24",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByZXpidExzZVFtNFFZLWdNdHJuVDFUdHVJSHMxUUs3UnlMVGJ2YnNrS29iTXE2N19EOGNPdGJadVdtLWRxbElKUVZINXl5c3dIdTFlblJ6d3hCeWFvZlFYa3U1bElWM0JRU3NUZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中亞國家大翻新：蘇聯老建築悄悄消失，打造自己的新面貌",
+    "zhSummary": "中亞地區的國家正積極拆除或改造蘇聯時期的舊建築，以此象徵他們正逐漸脫離俄羅斯的影響，並建立屬於自己的國家認同。",
+    "zhContent": "<p>最近，在中亞地區，一些國家正在悄悄地改變城市的樣貌。過去數十年來，許多高大、堅固的蘇聯時期建築物，像是一種時代的印記，如今卻開始慢慢消失了。這不是因為地震或意外，而是這些國家想要擺脫過去的影子，走向更獨立的未來，法國媒體的報導就點出了這個正在發生的變化。</p><p>這些消失的建築，往往有著蘇聯時代特有的風格，像是巨大的政府機關大樓、工人住宅區，或是紀念碑。它們的設計理念大多強調宏偉、實用，有時也帶點灰暗的感覺。有些被直接拆除，改建成現代化的購物中心或公寓；有些則是被重新裝修，改頭換面，讓人幾乎認不出來；甚至有些就這樣被遺忘在角落，慢慢地荒廢。</p><p>為什麼會發生這種事呢？這其實跟中亞這些國家想要「脫離莫斯科」的心情有關。在蘇聯解體之後，這些國家紛紛獨立，他們希望建立屬於自己的國家認同，不再被過去的統治者影響。移除這些蘇聯時期的建築，就像是把過去的符號擦掉，象徵著他們要走自己的路，跟俄羅斯之間的關係也逐漸變得更加疏遠。</p><p>因此，在中亞的哈薩克、烏茲別克等國家，這樣的景象正在持續發生。無論是宏偉的紀念碑，還是普通的蘇聯式公寓，都在一點一滴地改變，或是徹底消失。這場建築的轉變，反映出這些國家在歷史與文化上的重大調整，目前看來，這個趨勢還會持續下去，直到他們完全塑造出屬於自己的新面貌。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，中亞國家為何要讓蘇聯時期的建築「消失」？他們是透過哪些方式來達成這個目標？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對於住在這些建築附近的人，或是國家認同感來說？",
+      "獨立思考提案：針對這個現象，如果讓你來規劃一個城市，你會選擇保留部分歷史建築，還是全部更新？為什麼？"
+    ],
+    "enTitle": "Central Asia's Architectural Transformation: Soviet Buildings Fade as Nations Drift from Moscow",
+    "enContent": {
+      "basic": "In Central Asian countries, old Soviet-era buildings are disappearing. These countries, once part of the Soviet Union, are removing old structures like government buildings and monuments. This is happening because they want to show their independence from Russia and create their own national identity. Some buildings are torn down for new ones, while others are renovated or simply left to decay. This change shows that these nations are moving away from their past ties with Moscow and building a new future for themselves.",
+      "intermediate": "Central Asian nations are undergoing a significant architectural transformation, with Soviet-era structures gradually vanishing from their cityscapes. This phenomenon, highlighted by sources like France 24, signifies a broader effort by these countries to assert their independence and cultivate distinct national identities, distancing themselves from Moscow's historical influence. Buildings embodying Soviet design principles—such as grand government complexes, communal housing, and commemorative monuments—are either being demolished to make way for modern developments, extensively renovated beyond recognition, or left to deteriorate, becoming relics of a bygone era.",
+      "advanced": "Across Central Asia, a profound architectural metamorphosis is underway, as former Soviet republics systematically dismantle or repurpose structures emblematic of their Soviet past. This strategic removal of Soviet-era architecture—ranging from utilitarian housing blocks to imposing state edifices and monumental sculptures—serves as a tangible manifestation of these nations' accelerating drift from Moscow and their concerted efforts to forge independent national identities. The disappearance is not merely cosmetic; it symbolizes a deeper geopolitical reorientation where countries like Kazakhstan and Uzbekistan are actively reshaping their urban environments to reflect their sovereignty, effectively erasing visual reminders of a shared, yet often contested, history under Russian domination. This ongoing trend underscores a deliberate cultural and political pivot away from their post-Soviet legacy towards self-determined national narratives."
+    },
+    "vocabulary": [
+      {
+        "word": "Architecture",
+        "zh": "建築：指的是房屋、大樓等各式建築物的設計和建造方式。就像積木一樣，建築師就是設計這些積木要怎麼疊，長什麼樣子的人。"
+      },
+      {
+        "word": "Sovereignty",
+        "zh": "主權：一個國家自己決定事情，不受其他國家控制的權力。就像你自己可以決定要穿什麼衣服，別人不能強迫你一樣，一個國家有主權，就可以決定自己的法律和政策。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-04-24",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmZDYlpMU0dWQTFvQnI5MldzMmpZcVdnakw3NXA1eTZVQS1ta01TdEVGcGNRazNXS3lxYzhnb25RZndvWnh2T0U5TWtIVWIwdHprMEZIaGVCbTlYVFVQdDVleXFGTnl4TGNETG0xSUZwU1M2MjNFdWNMd3RXaHdtMTEySUlkd1JubzQ4aW0wYjQ3Q05lbnZNWnpGUFZWRU5WZy1lWVZIdi1iQ1hRSi1V?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美韓情報合作遇冷？部長一句話引發國際關注",
+    "zhSummary": "南韓一位部長公開談論了疑似核設施，導致美國決定限制與南韓分享敏感情報。這讓原本緊密的美韓情報交流面臨新的挑戰。",
+    "zhContent": "<p>「哇，美國和南韓的關係最近有點緊張喔！」你可能會在社群媒體上看到這樣的消息。最近，有一則來自《衛報》的報導指出，美國決定『限制』和南韓之間的情報分享。這聽起來有點嚴肅對吧？而這一切的起因，據說是南韓的一位部長，在公開場合提到了關於一個疑似核設施的地點。這個舉動，似乎讓美國感到不悅，進而影響了兩國之間原本緊密的情報合作。</p><p>到底發生了什麼事，會讓美國做出這樣的決定呢？報導中提到，南韓的這位部長，在一個公開場合談論了一個「疑似核設施」的資訊。核設施的情報通常是非常敏感的，因為它關係到國家安全和區域穩定。分享這類情報時，通常需要非常謹慎，確保不會洩漏情報來源或讓敵人有機可乘。美國方面，可能認為這位南韓部長的公開發言，沒有經過適當的協調，或者可能意外地洩漏了一些敏感的細節，導致美國不得不重新評估和南韓分享情報的方式。</p><p>所謂的「限制情報分享」，意味著美國可能不會再把某些高度機密、需要特別保護的情報，像以前那樣直接提供給南韓。對於像美韓這樣重要的盟友來說，情報共享是維護區域和平與安全的重要基石，特別是在東北亞這個地區，面對各種複雜的國際情勢。如果情報交流出現阻礙，可能會讓兩國在合作應對潛在威脅時，產生一些困難或挑戰。</p><p>目前，美國已經明確表示將會採取情報限制措施。這個決定也向外界傳達了一個訊息，那就是美國對南韓這位部長的言行，確實表達了不滿。這件事情的結果就是，美韓兩國的情報合作模式暫時發生了改變。至於未來會如何發展，或是這些限制會持續多久，目前報導並沒有進一步說明，但兩國的情報交流顯然因此面臨新的局面。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國限制情報分享的「主要原因」是什麼？你覺得為什麼這件事會這麼敏感？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，南韓在獲取某些資訊上，可能會遇到什麼困難？",
+      "獨立思考提案：如果類似的狀況發生在你的人際關係中（例如朋友間分享秘密，但有人不小心說出去），你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US 'Restricts Intelligence Sharing' with South Korea After Minister Identifies Suspected Nuclear Site",
+    "enContent": {
+      "basic": "The United States is limiting how much secret information it shares with South Korea. This happened after a South Korean minister publicly talked about a place that might be a nuclear site. Sharing these kinds of secrets is very important for countries to stay safe, especially for friends like the US and South Korea. When a minister spoke about this sensitive information, the US seemed unhappy. Now, they are not sharing as much information as they used to.",
+      "intermediate": "Following a public statement by a South Korean minister identifying a suspected nuclear site, the United States has reportedly 'restricted' its intelligence sharing with South Korea. Intelligence cooperation is a critical component of the alliance between the two nations, particularly given regional complexities. The US action suggests a disapproval of the minister's disclosure, possibly due to concerns about protecting sensitive sources and methods, or potential diplomatic ramifications. This move could impact the effectiveness of their joint efforts in addressing security challenges.",
+      "advanced": "A diplomatic rift has emerged between the United States and South Korea, with Washington reportedly implementing 'restrictions' on intelligence sharing with its key East Asian ally. This decision was prompted by a South Korean minister's public identification of a suspected nuclear site, an action that seemingly displeased US officials. Intelligence sharing is foundational to the US-South Korea alliance, crucial for regional stability and counteracting potential threats. The US's curtailment of information exchange signals a clear message of disapproval regarding the premature or unauthorized disclosure of sensitive intelligence, raising questions about future cooperative security endeavors and the management of classified information within the alliance framework."
+    },
+    "vocabulary": [
+      {
+        "word": "Restrict",
+        "zh": "限制：意思是減少或禁止某件事的範圍或數量，讓它不能自由進行。想像一下，你的手機使用時間被「限制」了，就不能一直玩。"
+      },
+      {
+        "word": "Intelligence",
+        "zh": "情報：指關於重要事件、國家安全或敵人動態的機密資訊。就像偵探要蒐集「情報」才能破案一樣，國家也需要情報來保護自己。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-04-24",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWm5kMmpqS0ZCUWZTcHBlcWcwQlRpVWtMWU1KVTk5d0NaWm1QY3NkRUdXRXhmWWlPeGNjbEFyRWdRbXhqTEpPSDNTQWFYQmRsRFVYa04yWEx0X0JKUVB1NlNrZy1JdDBWeGZCdG5wQ2dZLXZBaS03bmU1Xzc4eFRVVzhpYmpPaGc4SWpEZjJUTDBCWHg1dTBUTGg5ZXdxQUE3bVQ4dWVyUXhnVDJxczBRWHdIU2RrT2FSNmM0cl9mRF9sdmducW5FekRRaU53R1N1SVdOeXJGNHNhUUliQTBaWTVhNUlwUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "企業跟上AI潮流！亞洲大公司搶用智慧科技，連賣香料的也加入？",
+    "zhSummary": "科技巨頭SAP宣布，亞洲太平洋地區多家不同領域的大公司，包括航空公司、能源業、時尚品牌和香料公司，都選擇採用他們的商業AI和雲端科技，讓公司營運更聰明、更有效率。",
+    "zhContent": "<p>科技圈最近有個大消息！專門幫世界各地大公司設計電腦系統的「思愛普」（SAP）公司，最近公布了一份超級亮眼的成績單。他們說，在亞洲太平洋地區，有好多家公司都決定要用他們最新、最厲害的「商業AI」和「雲端科技」來管理自己的生意。這些新加入的客戶來自各行各業，包括了每天飛來飛去的航空公司、提供電力的能源公司、引領時尚潮流的服裝品牌，甚至還有販售各式香料的公司呢！</p><p>你可能會好奇，什麼是「商業AI」和「雲端科技」？簡單來說，商業AI就像是幫公司裝上一個超聰明的大腦，可以快速分析很多很多的資料，讓公司的決策更準確、工作效率更高。而雲端科技呢，就像是把所有重要的資料和程式都存在網路上的超級大倉庫，不管在哪裡，只要能上網，就能隨時存取和使用，超級方便。這些科技現在已經成為許多公司想要跟上時代、保持競爭力的必備工具。</p><p>這次選擇與思愛普合作的公司，不僅產業類別非常多元，從大家熟悉的航空、能源到比較特別的時尚和香料，都看到了智慧科技在經營上的潛力。這表示無論公司大小或性質，大家都在尋找更有效率、更現代化的方式來運作。思愛普作為企業軟體的龍頭之一，能吸引到這麼多不同領域的客戶，也證明了他們的技術確實能幫助各種生意變得更好。</p><p>這項消息對思愛普來說，無疑是個好消息，代表他們的商業AI和雲端服務在亞洲市場越來越受歡迎。同時，這也顯示了整個亞太地區的企業都正在積極擁抱數位轉型，希望透過最新的科技來提升自己的營運能力，為未來的發展做好準備。這項趨勢也預示著未來會有更多公司加入這個智慧化的行列。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Asia-Pacific Businesses Adopt SAP's AI and Cloud: Airlines, Fashion, Spices Leading the Way",
+    "enContent": {
+      "basic": "Big tech company SAP announced that many businesses in Asia Pacific are now using their special computer programs called Business AI and cloud technology. Companies like airlines, energy providers, fashion brands, and even spice sellers are joining in to make their work smarter and faster.",
+      "intermediate": "SAP, a leading enterprise software company, has revealed its latest wave of Business AI and cloud customer adoptions across the Asia Pacific region. A diverse group of industries, including major airlines, energy sector players, fashion companies, and spice distributors, are leveraging SAP's advanced technology to enhance their operational efficiency and decision-making processes.",
+      "advanced": "Headlining a strategic expansion within the Asia Pacific market, SAP has reported a significant uptake of its Business AI and cloud solutions by a broad spectrum of enterprises. This roster of new clients spans critical sectors such as aviation, energy, high fashion, and even the specialized spice trade, underscoring the universal applicability and transformative potential of SAP's intelligent technologies in driving digital modernization and competitive advantage across varied commercial landscapes."
+    },
+    "vocabulary": [
+      {
+        "word": "SAP",
+        "zh": "思愛普：一家德國的軟體公司，專門開發幫助大企業管理營運的電腦程式。"
+      },
+      {
+        "word": "Cloud",
+        "zh": "雲端：指把資料和程式存在網路上的伺服器，而不是存在自己的電腦裡，這樣隨時隨地都可以使用。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-04-24",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRE93V1hibDhnUUpzelpNUUtLVFozdHFJQUlOdHZDcWFRWWFIVENGQmN1T3NjQWx2SzhLZmEycUVSX0NteUtIRFBLcGpQYkNCRTFmd05FMkowUmZqc2tBX2J4dDhoSVZwS1lhc1BzS3UzaUEwNUVWVjlrVFJFUWlIWWhUUU1JVkNHSHJjc25YdVF1OVh2aXAxa3R1WGlOZG5ORlVnYTE1SThsM2x6Zl95U28yZXJwbFl0WUpoT0hvdGg0X01Ob001MXVoZHBrY3Q1dUhUdERhalhFdjQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋小島國的燃料警報：馬紹爾群島面臨能源大挑戰",
+    "zhSummary": "太平洋島國馬紹爾群島的能源部長發出嚴重警告，指出國家在燃料供應上完全受制於國際市場，可能面臨價格飆漲和供應不穩定的問題，這對當地民眾的生活造成巨大影響。",
+    "zhContent": "<p>你曾想過，如果有一天，你家裡沒電、車子加不到油，甚至連船都動不了，生活會變成什麼樣子嗎？這聽起來像是科幻電影的情節，但在太平洋上的馬紹爾群島，他們正嚴肅面對這個可能性。馬紹爾群島的能源部長最近發出警告，表示他們國家的燃料供應，完全「任由市場擺布」。</p><p>這個說法是什麼意思呢？簡單來說，馬紹爾群島是一個由許多小島組成的國家，他們沒有自己的石油或天然氣，所有燃料都必須從國外進口。這讓他們非常依賴國際市場上的石油價格和運輸船隻。一旦全球石油價格上漲，或者運送燃料的船隻因為各種原因無法準時抵達，馬紹爾群島的居民就得承受高昂的費用，甚至可能面臨燃料短缺的危機。</p><p>燃料對於馬紹爾群島來說，就像是我們日常生活中不可或缺的血液。它不僅用來發電、點亮家家戶戶的燈，也用於船隻運輸，把物資從一個島送到另一個島，更是汽車、巴士等交通工具的動力來源。一旦燃料供應不穩定或價格過高，所有這些基本服務都會受到嚴重衝擊，讓當地居民的生活品質大幅下降，連帶影響他們的經濟發展。</p><p>馬紹爾群島能源部長的這番話，其實是希望讓大家更清楚地認識到這個問題的嚴重性。目前，他們正努力尋找更穩定的燃料供應方式，並思考如何減少對傳統燃料的依賴。這是一個持續進行的挑戰，他們希望能找到方法，讓這個美麗的太平洋島國，不再因為燃料問題而提心吊膽，未來能有更充足且可靠的能源支持。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，馬紹爾群島面臨的燃料問題，有哪些具體的表現？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Marshall Islands Minister Warns on Fuel Supply Vulnerability to Market",
+    "enContent": {
+      "basic": "The Marshall Islands, a small island nation in the Pacific, is facing a big challenge. Its minister has warned that the country's fuel supply is 'at the mercy of the market'. This means they rely a lot on fuel from other countries. If global fuel prices go up or if ships can't deliver fuel on time, it causes problems for everyone on the islands. Fuel is important for electricity, boats, and cars. The government is looking for ways to have a more stable fuel supply.",
+      "intermediate": "The Marshall Islands is an island nation heavily dependent on imported fuel. A recent warning from its minister highlighted the country's vulnerability to global market fluctuations. Being 'at the mercy of the market' implies that the cost and availability of fuel are dictated by international prices and supply chain reliability. This situation poses significant risks, as fuel is critical for essential services like electricity generation, inter-island transportation, and daily commuting. Price hikes or supply disruptions could severely impact the economy and the quality of life for residents. The government is actively seeking solutions to enhance energy security.",
+      "advanced": "The Marshall Islands' energy minister has issued a stark warning regarding the nation's profound vulnerability to global fuel market dynamics, stating the country is 'at the mercy of the market'. This pronouncement underscores a critical energy security challenge for the remote archipelago, which is entirely reliant on imported fossil fuels. Fluctuations in international oil prices or disruptions in global supply chains directly translate to volatile costs and potential shortages for the islanders. Given fuel's indispensable role in power generation, maritime transport, and ground logistics, such instability threatens socio-economic stability and daily living standards. The minister's statement is a call to action, prompting efforts to explore alternative energy sources and secure more resilient supply mechanisms to mitigate these external pressures."
+    },
+    "vocabulary": [
+      {
+        "word": "Mercy",
+        "zh": "任由擺布／聽憑處置：想像你玩遊戲時，如果完全沒有控制權，只能看著命運怎麼安排，這時候你就是『任由擺布』。在新聞中，代表馬紹爾群島在燃料供應上，只能被動接受國際市場的狀況，沒有太多選擇或控制的能力。"
+      },
+      {
+        "word": "Supply",
+        "zh": "供應／供給：指提供需要的物品或服務。就像家裡冰箱有食物的『供應』，商店有商品的『供應』一樣。新聞中指的是燃料的提供是否充足且穩定。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-04-24",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1dKNjFud0E1Z3pzMzNkeUZrUzZDQVd6bTQyVHhQcENTbUVaTWh4Y2xPZ2R5QUlkNzM4NWlQdGg5NHlraS1DV1dvOWNPUmp1TndkTFFSOWJPZmpBazNwQzViRWJ5bFlpZ3ZadV9mTXhrYnZJRzFVSzdJQ1czMHlIUTdGUkxXREt6dG1ySmNDcHJnOTk4UW1RTWdzNzQ4dmxLbWdWVVlSZnB3WjNqeTE1cGVoLTBwbmhHd3lyZWxhdnBtRVkyY250MDFKWHV4c1hsakxCWE9R?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "臺灣電影超給力！在義大利烏迪內影展大放異彩",
     "zhSummary": "台灣的文化內容策進院（文策院）帶著六部優秀的國片，到義大利的烏迪內遠東電影節參展，這次被形容為歷年來表現最強勁的一次，台灣電影獨特的魅力感動了許多外國觀眾。",
     "zhContent": "<p>最近，台灣的電影在國際舞台上大大地出風頭！我們文化內容策進院（簡稱文策院）特別精選了六部台灣製作的超好看電影，遠從台灣帶到義大利烏迪內參加「遠東電影節」。這個電影節是歐洲很重要的一個亞洲電影盛會。而根據報導，這一次台灣電影的表現，可以說是「歷年來最強」的一次，讓整個義大利烏迪內都感受到了台灣電影獨特的「感性魅力」。</p><p>這六部代表台灣參展的電影，涵蓋了各種不同的題材，不只有緊張刺激的劇情片，也有溫暖人心的故事。它們共同展現了台灣多元的文化風貌和創意。這些電影不只讓國際觀眾看到台灣電影的製作水準，更重要的是，它們用台灣特有的細膩情感和說故事的方式，深深打動了當地觀眾的心。這次的參與，讓台灣的電影在歐洲獲得了很高的關注度。</p><p>文策院會大力推動這次參展，目的就是希望台灣的好作品能被更多國家看到。他們認為，透過像烏迪內遠東電影節這樣的國際平台，不只能夠讓台灣的電影人有機會和國際交流，也能夠讓更多外國朋友認識台灣的故事和文化。這不僅是電影界的盛事，也是台灣文化走向世界的很重要一步。讓大家知道，台灣電影的實力不容小覷。</p><p>目前，這六部台灣電影在烏迪內遠東電影節的展出，已經獲得了非常好的反應。許多觀眾和影評人都對台灣電影的內容和製作給予高度評價，認為這些作品充滿了真情實感，非常具有感染力。這次成功的參展，讓台灣電影在國際上的名氣更響亮了，也為未來的國際合作打下了很好的基礎，再次證明台灣電影的魅力席捲了海外。</p>",
