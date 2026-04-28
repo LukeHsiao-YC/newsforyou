@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "美國大麻管制大轉彎：從「超級危險」到「有醫藥潛力」？",
+    "zhSummary": "美國司法部最近提出一項重大建議，希望能將大麻的法律管制等級從最嚴格的第一級降到第三級。這項改變可能影響大麻的醫療用途、科學研究和相關產業，也代表政府對大麻看法的轉變。",
+    "zhContent": "<p>美國政府即將對大麻的法律規定做出重大調整！最近，美國司法部正式提出一項建議，希望能將大麻這種植物的法律管制等級，從目前非常嚴格的第一級，降低到第三級。這項提議在美國引起了廣泛討論，因為它可能對大麻的醫療應用、科學研究，甚至是相關產業都產生深遠影響。對美國的藥物管制政策來說，這無疑是一個重要的轉變時刻。</p><p>具體來說，司法部建議將大麻從「第一級管制藥物」（Schedule I）重新分類為「第三級管制藥物」（Schedule III）。第一級管制藥物是指那些政府認定沒有醫療用途，且具極高濫用潛力的物質，像是海洛因。而第三級管制藥物，則包含一些有醫療用途，但仍有中低度濫用風險的藥物，例如含有可待因的止痛藥。這個降級提議，是經過美國衛生與公眾服務部（HHS）長時間的科學與醫學評估後，向司法部提出的。</p><p>那麼，為什麼會考慮這樣的改變呢？主要是因為美國衛生與公眾服務部在研究大量科學證據後，發現大麻在醫學上具有潛在用途，可用於某些病症治療。同時，他們也認為，大麻被濫用的風險，可能沒有過去認定為第一級管制藥物時那麼高。如果大麻真的降級成功，這將意味著聯邦政府對大麻的看法將有所轉變。這也可能讓更多關於大麻的醫學研究更容易進行，並降低合法大麻企業的聯邦稅務負擔。</p><p>儘管這是一個引人注目的提議，但它還不是最終決定。目前，美國司法部的這項建議將進入公開評論階段，民眾、醫學專家、相關企業和各種團體都有機會對此發表意見。在聽取並審核完所有意見後，最終的決定權將落在美國藥物管制局（DEA）手上。他們將根據所有資訊，做出大麻是否真的要從嚴格的第一級管制藥物，正式降級為第三級管制藥物的最終決定。這個過程可能需要數個月的時間才能完成。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Department of Justice Proposes Rescheduling Cannabis",
+    "enContent": {
+      "basic": "The US government is considering a major change to how marijuana is controlled. The Department of Justice has suggested moving cannabis from a very strict category (Schedule I) to a less strict one (Schedule III). This could make it easier to research marijuana for medical uses and affect businesses that sell it legally.",
+      "intermediate": "The US Department of Justice has officially proposed reclassifying cannabis from a Schedule I controlled substance to Schedule III. This move comes after a comprehensive scientific review by the Department of Health and Human Services, which found that cannabis has potential medical uses and a lower risk of abuse than previously understood. The proposal will now undergo a public comment period before the Drug Enforcement Administration (DEA) makes a final decision.",
+      "advanced": "Following a comprehensive scientific and medical review by the Department of Health and Human Services, the US Department of Justice has formally recommended rescheduling cannabis from Schedule I to Schedule III under the Controlled Substances Act. This reclassification acknowledges the plant's potential therapeutic benefits and a lower abuse potential than substances like heroin. Should this proposal be finalized after public comment and DEA review, it would significantly impact cannabis research, medical access, and federal taxation for state-legal cannabis businesses."
+    },
+    "vocabulary": [
+      {
+        "word": "reclassify",
+        "zh": "重新分類：意思是把原本屬於某一類的物品，經過評估後，把它歸到另一個類別。就像學校把同學的分組從「自然組」移到「社會組」一樣。"
+      },
+      {
+        "word": "schedule",
+        "zh": "管制等級：這裡是指政府用來管理藥物或物質危險程度的分類系統。等級越高代表管制越嚴格，通常是因為政府認為它沒有醫療用途且濫用風險高。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-04-28",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NHB4RE95QWN5OFJWbVVfYURVcFpiMHB1U0NRa3RQanRiQ0FSa0ZSWmhiYmZZY0lrbERUUXJ2VXpnNUdGTlQyTXJ2Y3ZSVlRPbFRsMW53cGM1QTFzNWdB?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "太平洋島國的警報：氣候變遷正悄悄吞噬他們的生計",
+    "zhSummary": "太平洋島國，這些以海洋為經濟命脈的地方，正遭受氣候變遷的嚴重衝擊。海水上升、極端天氣和海洋生態破壞，讓漁業、觀光業和農業面臨生存危機，直接威脅到他們的經濟根本。",
+    "zhContent": "<p>「太平洋島國」這幾個字聽起來是不是很浪漫，腦中立刻浮現陽光、沙灘和湛藍海水？這些美麗的島嶼，像是斐濟、吐瓦魯和索羅門群島等，它們不只是風景如畫，其實有著非常獨特的經濟模式。它們的收入大部分都來自大海，比如捕魚、海洋觀光業，還有種植一些當地特有的作物。但最近，有報導指出，一種看不見的巨大威脅正在悄悄地侵蝕這些國家最重要的經濟命脈，那就是全球暖化帶來的氣候變遷。</p><p>氣候變遷對太平洋島國的影響是多方面的。首先，海水位持續上升，讓許多低窪的島嶼面臨被淹沒的危機，房屋、道路這些基礎設施受到嚴重損害。其次，極端天氣事件越來越頻繁，像是威力強大的熱帶氣旋，它們會直接摧毀觀光飯店、漁船和農田，讓當地居民瞬間失去生計。此外，海洋溫度升高和酸化，正在嚴重破壞珊瑚礁，這些珊瑚礁不但是海底生物的家，也是吸引遊客的熱門景點。</p><p>這些環境變化直接衝擊了太平洋島國的經濟。漁業是許多當地人的主要收入來源，但隨著海水溫度改變，魚群的遷徙路徑和數量也跟著變化，捕魚變得越來越困難。觀光業也因為珊瑚礁白化、海岸線退縮和極端天氣，讓遊客卻步，飯店和度假村的訂單大減。農業同樣受害，鹽水入侵土壤使得作物難以生長，糧食安全也亮起了紅燈。這讓這些國家在發展經濟的路上，面臨前所未有的挑戰。</p><p>總的來說，氣候變遷對太平洋島國來說，不只是一個環境議題，更是一個攸關生存的經濟危機。這些國家本身對全球暖化的貢獻微乎其微，卻要承受最大的後果。他們正在努力尋找應對方法，但這條路充滿了艱辛，因為威脅是全面性的，而且影響持續不斷。這項挑戰迫使他們必須正視如何保護賴以維生的海洋與土地，以免經濟根基徹底被動搖。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，氣候變遷對太平洋島國的『經濟命脈』造成了哪些具體影響？",
+      "生活與未來：你覺得這種情況會對太平洋島國人民的日常生活造成什麼實際影響？他們可能會面臨哪些選擇？",
+      "獨立思考提案：如果我們想幫助這些受氣候變遷影響的島國，你覺得國際社會或個人可以從哪些方面著手？"
+    ],
+    "enTitle": "The Pacific Islands' Alarm: Climate Change is Silently Eroding Their Livelihoods",
+    "enContent": {
+      "basic": "Climate change is severely impacting Pacific island nations, whose economies heavily rely on the ocean. Rising sea levels, extreme weather events, and marine ecosystem destruction are threatening their primary industries like fishing, tourism, and agriculture, directly endangering their economic foundation. These nations, contributing little to global warming, face immense challenges in protecting their livelihoods.",
+      "intermediate": "Pacific island nations, including Fiji, Tuvalu, and the Solomon Islands, depend on marine resources and agriculture for their economic well-being. However, climate change poses a significant threat. Rising sea levels imperil low-lying islands and coastal infrastructure. Frequent and intense tropical cyclones devastate tourist resorts, fishing fleets, and farmlands. Ocean warming and acidification further damage coral reefs, crucial for both marine life and tourism. This multifaceted assault on their environment is causing fish stock reductions, declines in tourism, and agricultural setbacks, pushing these nations to a critical economic juncture.",
+      "advanced": "The economic vulnerability of Pacific island nations to climate change is a critical issue. These states, characterized by economies rooted in sustainable exploitation of marine resources and tourism, are experiencing profound disruptions. Sea-level rise threatens coastal erosion and the inundation of critical infrastructure, while intensifying extreme weather events cause widespread physical and economic damage. The degradation of coral reef ecosystems due to ocean warming and acidification directly undermines the tourism sector and artisanal fisheries. This confluence of environmental stressors results in altered fish migration patterns, reduced agricultural yields due to saltwater intrusion, and a decline in international tourist arrivals, collectively imperiling the economic backbone of these nations who are disproportionately affected despite their minimal contribution to anthropogenic climate change."
+    },
+    "vocabulary": [
+      {
+        "word": "backbone",
+        "zh": "支柱、中堅力量 – 指一個事物最重要、最核心的部分，就像身體的脊椎骨一樣，沒有它就會垮掉。在這裡指一個國家的主要經濟來源。"
+      },
+      {
+        "word": "vulnerable",
+        "zh": "脆弱的、易受攻擊的 – 形容一個東西很容易受到傷害或影響，沒什麼抵抗力，特別是在面對困難或危險時。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-04-28",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50UHVTWGJVcUFEbXcxQXo0QWFJcFdFTDBDX0l6MDVIeGhHYm5kbk0wSTVIZ3hmdHNVMHlkaU5Wd2JTNi1iOVhRNnp3dUJ5cS1oODdjdC1yeDhNdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "硬起來！教育預算削減引發質疑，琳達·麥馬漢正面迎戰參議員",
+    "zhSummary": "美國政府對教育部門的預算削減引發參議員的強烈質疑，前官員琳達·麥馬漢（Linda McMahon）面對質詢，展現強硬立場，堅決為這些調整進行辯護。",
+    "zhContent": "<p>最近，美國教育部門的預算削減計畫引發了一場激烈的爭論。過去曾擔任美國小企業管理局局長的琳達·麥馬漢（Linda McMahon），面對參議員們對這些削減的質疑時，展現出毫不退讓的強硬立場。她直接回應，為教育部門的預算調整進行辯護，這場言辭交鋒立刻成為各界關注的焦點。</p><p>這場爭議的起因是政府為了重新分配資源或控制開支，而提出了對教育部門的預算削減方案。許多參議員對此表達了深切憂慮，他們擔心這些削減可能會對學生的學習機會、學校資源，以及一些重要的教育計畫造成負面影響，特別是對於弱勢學生群體來說。參議員們在公開聽證會上不斷追問，希望能釐清削減的具體內容和可能後果。</p><p>面對參議員們的嚴厲質詢，琳達·麥馬漢選擇了「正面迎擊」。她認為這些預算調整並非單純的「削減」，而是在確保資金有效利用的同時，重新規劃和優化教育資源。她堅稱，這些改變是為了讓教育部門能夠更有效率地運作，專注於核心任務，並且這些調整並不會損害學生們的根本利益，反而能讓資源分配更為合理。她可能強調，政府有責任確保每一分錢都花得值得，並將重點放在最需要的地方。</p><p>目前，這場關於教育預算削減的辯論仍在持續進行中。琳達·麥馬漢已經明確表達了她的立場和背後的考量，而參議員們也持續提出他們的擔憂與疑問。這顯示了政府內部對於如何平衡財政支出與教育發展之間的不同看法，以及政策制定過程中的挑戰。這個事件讓大家清楚看見，在決定國家資源分配時，各方立場的角力是如何展開的。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，琳達·麥馬漢為什麼會「正面迎戰」參議員？她和參議員各自的立場是什麼？",
+      "生活與未來：你覺得政府削減教育預算，可能對學生、學校或整個社會造成什麼實際影響？（例如，是否會影響到某些課程、圖書館或獎學金等等？）",
+      "獨立思考提案：如果由你來決定教育預算的分配，你會優先考量哪些方面？為什麼？"
+    ],
+    "enTitle": "Linda McMahon Defends Education Budget Cuts Against Senate Questions",
+    "enContent": {
+      "basic": "Linda McMahon strongly defended proposed budget cuts for the Education Department. Senators were asking tough questions about these cuts, worried they might hurt students and schools. McMahon stood firm, explaining why the changes were needed, saying they would make the department run better. The debate about how to spend money on education is still going on.",
+      "intermediate": "Former Small Business Administrator Linda McMahon recently confronted senators over planned budget reductions for the Education Department. Senators expressed significant concerns, questioning how these cuts would impact students, school programs, and overall educational quality. McMahon \"punched back,\" asserting that these adjustments are not harmful but rather a strategic reallocation of funds to enhance efficiency and focus on core educational priorities. The intense debate highlights differing views on financial priorities and educational investment.",
+      "advanced": "Linda McMahon, a prominent figure previously heading the Small Business Administration, found herself in a contentious exchange with senators critically scrutinizing proposed cuts to the Education Department's budget. Senators articulated deep apprehension regarding the potential adverse effects on student opportunities, institutional resources, and specialized educational programs, particularly for vulnerable populations. McMahon mounted a robust defense, framing the adjustments not as arbitrary reductions but as a deliberate effort to optimize resource allocation and improve operational efficiency within the department. She maintained that these fiscal recalibrations are essential for ensuring judicious use of taxpayer money and prioritizing core educational mandates without compromising fundamental student welfare. This ongoing policy dispute underscores the complexities of balancing fiscal responsibility with educational imperatives within governmental decision-making."
+    },
+    "vocabulary": [
+      {
+        "word": "Scrutiny",
+        "zh": "仔細審查、嚴密盤問。當人們對某件事或某個決定提出很多問題，並且非常仔細地檢查它是否正確、是否有問題時，就可以用這個字。"
+      },
+      {
+        "word": "Allocation",
+        "zh": "分配、撥款。指將資源（例如錢、時間或空間）分給不同的人、團體或用途。在新聞中，政府將錢分配給教育部門或其他單位，就是一種分配。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-04-28",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclh2M0ptMGV5S09kdEZ3a3dhMGF6X1BtbXBQMHBEWWxPbXA0N2V5QnNieUI3NERTdGdpTGFmYUdCQXZONVZxRThnZzRmTngxWUt3Umk4Y092QWttMjRPR1EwSHpDSk13Wi14T3Bwa2ZHZUhPaVhsMDlPcWphNVhLYVRjOWw0ZkMzUThhdVVaeFN0NDJ2VXIzTQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中美科技戰線新篇章：嚴格新規定劃定AI競賽界線",
+    "zhSummary": "一項涉及科技巨頭Meta與Manus的合作案，由於出現了被形容為「嚴苛」的發展，讓中美兩國在人工智慧（AI）領域的競爭態勢，又有了新的、更明確的界線。這顯示美國正在收緊對關鍵技術的管制。",
+    "zhContent": "<p>最近，國際科技界傳出一個引人注目的消息。全球知名的社群媒體公司Meta（臉書的母公司）與一家名為Manus的公司之間的一項合作，遭遇了被形容為「極端嚴苛」的新情況。這件事不僅是兩家公司之間的商業變動，更被外界視為美國與中國在人工智慧（AI）技術競賽中，劃下了一條新的界線。簡單來說，就是關於誰可以擁有、誰可以發展最先進AI科技的全球競爭，變得更緊張、更具體了。</p><p>這個「嚴苛發展」的重點，其實是來自美國政府對關鍵技術出口及合作的更嚴格審查。為了避免美國的頂尖科技被潛在競爭者利用，美國正一步步收緊對敏感技術，特別是人工智慧相關領域的管制。這意味著，像Meta這樣的大公司，未來在與其他夥伴合作時，會面臨更多限制和審核。CNBC的報導指出，這項規定正是為了確保美國在AI領域的領先地位，阻止技術流向可能對美國國家安全構成威脅的國家。</p><p>美國之所以如此謹慎，主要是擔心中國在人工智慧領域的快速崛起。AI技術不僅能應用在生活便利上，更在國防、資安等關鍵領域扮演重要角色。美國政府認為，如果中國能輕易取得最尖端的AI技術，可能會影響全球的科技平衡與地緣政治穩定。因此，透過制定這些嚴格的規範，美國旨在為自己的科技創新築起一道保護網，確保其在未來的科技競爭中仍能保持優勢。</p><p>這項發展對所有參與高科技研發的企業來說，都是一個明確的訊號：未來的科技合作將不再像過去那樣自由。中美兩國在AI領域的「科技戰線」已經越來越清晰，這不僅會影響到科技公司的策略佈局，也將重新定義全球科技產業的版圖。換句話說，這場AI技術的頂尖競爭，現在有了更嚴格的遊戲規則，而每一個參與者都必須仔細應對。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US-China Tech Showdown: Stricter Rules Define AI Race Boundaries",
+    "enContent": {
+      "basic": "Big tech companies like Meta (the company behind Facebook) are facing new, very strict rules when they try to work with other tech companies. This is happening because the United States and China are in a big competition over who can develop the best Artificial Intelligence (AI) technology. The US government wants to make sure that its advanced technology doesn't get shared in ways that could help other countries too much, especially China. This new situation means it's getting harder for companies to share tech across different countries, clearly drawing a line in the global race for AI leadership.",
+      "intermediate": "A recent 'draconian development' affecting a deal between tech giant Meta and Manus highlights the escalating AI competition between the U.S. and China. This term refers to extremely strict new regulations primarily from the U.S. government. These rules aim to control the transfer of advanced technologies, particularly in artificial intelligence, to prevent them from reaching potential rivals. The U.S. is concerned about China's rapid progress in AI and views these technologies as critical for national security and economic leadership. Consequently, tech companies now face much tighter scrutiny and limitations on international collaborations, effectively drawing clearer boundaries in the high-stakes global AI race.",
+      "advanced": "The reported 'draconian development' impacting the Meta-Manus deal signals a significant tightening of U.S. policy regarding technology transfer, directly escalating the geopolitical contest for AI supremacy between Washington and Beijing. This development, likely a new or intensified regulatory framework, reflects the U.S.'s proactive measures to safeguard its technological lead and national security interests against perceived threats from China's rapidly advancing AI sector. By imposing stringent controls on collaborations and the export of dual-use technologies, the U.S. government is effectively establishing a clearer demarcation line, compelling tech companies to navigate an increasingly complex and regulated global landscape. This strategic maneuver is poised to reshape international tech partnerships and accelerate the balkanization of the global AI ecosystem, profoundly influencing future innovation and economic power dynamics."
+    },
+    "vocabulary": [
+      {
+        "word": "Draconian",
+        "zh": "「嚴苛的」或「殘酷的」。你可以想像，如果學校規定遲到要罰寫一萬字，這就是一個「draconian」的規定，非常嚴格，幾乎讓人無法承受。"
+      },
+      {
+        "word": "Artificial Intelligence (AI)",
+        "zh": "「人工智慧」。簡單來說，就是讓電腦或機器可以像人類一樣思考、學習、解決問題的技術。像是手機裡的語音助理、自動駕駛汽車，都是人工智慧的應用。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-04-28",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzBTeG96RXdnSXZXV0dOMXpaSFd3UERrZ25WUW05LXQ4QWpfcFAwOW1VcEE0WW9UMDZrWHJkMnBxNFNIOGJQa2FDcGZfV3Ywdm8xZUNoNlBXN2R1dTlSNER6ZktINVdscGNFbjhmeTlVQ1ROVVp1UThIUUJ4Y1FaTy1VVi1ESHpl0gGOAUFVX3lxTE1rMlhrOGZwaG5BQklkdHVTVk5vU2gwOFhqZmpCMmI1UkJwQTYzV2RxUGR4ck8tN3Z3WHJZNE5QVlRLd0RUdWIzSzVPQU8zRmVIUWhzcENaYktWc1RfalcwOGx3bHFSd0VNNTB5dEtBeUZYSWl1T3VvangtNVY3WktZZWNyMXA0UXZFcWJIdmc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "你的「壞人」口味，偷偷洩漏大腦小秘密？",
+    "zhSummary": "一則來自英國《BBC科學焦點雜誌》的報導指出，你最喜歡的電影反派角色，其實可能反映出你大腦裡的一些心理特質和思考模式。這項研究探索了我們為什麼會被某些「壞人」吸引的深層原因。",
+    "zhContent": "<p>你知道嗎？你最喜歡的電影反派角色，其實可能偷偷洩漏了你大腦裡的一些小秘密！最近，英國的《BBC科學焦點雜誌》就深入探討了這個超有趣的話題。這不是要說你壞壞，而是想了解我們為什麼會被某些「壞人」吸引，以及這背後藏著什麼樣的心理機制。是不是覺得有點酷？</p><p>這項研究指出，我們對反派的偏好並非隨機，背後有著複雜的心理學原因。舉例來說，有些人可能會被那些聰明絕頂、有著宏大計畫的「邪惡天才」所吸引，像是在電影裡佈下天羅地網、智商爆表的壞蛋。研究人員認為，這可能反映了我們對複雜思維和挑戰既定規則的好奇心。我們喜歡看他們如何運用智慧去達成目標，即使那個目標是「壞的」。</p><p>另外，也有人特別喜歡那些「有故事」的反派，他們可能是因為經歷過悲慘的過去，才一步步走向黑暗。例如，有些反派一開始是受害者，後來才變成加害者。喜歡這類角色的觀眾，可能表示他們具有較高的同理心，願意去理解角色行為背後的動機，而不僅僅是停留在表面上的好壞判斷。這也顯示了我們大腦處理道德灰色地帶的能力。</p><p>總體而言，這份報導強調，選擇你最愛的反派角色，其實是提供了一個鏡子，讓我們能一窺自己內心的某些特質。它可能揭示你對權力、智慧、同情心或是秩序的看法，甚至是你在現實生活中面對衝突或道德兩難時，潛意識裡會怎麼思考。這些發現並不是要給你貼標籤，而是提供一個有趣的視角，去理解人腦與複雜角色的奇妙連結。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "What Your Favorite Movie Villain Says About Your Brain",
+    "enContent": {
+      "basic": "A report from BBC Science Focus Magazine explored how your favorite movie villain might reveal something about your brain. It suggests that our preference for certain antagonists isn't random and can reflect various psychological traits. For example, liking a 'mastermind' villain might show curiosity about complex thinking, while preferring a 'tragic' villain could indicate empathy. The article concludes that understanding your villain preference offers a unique insight into your own thoughts and personality.",
+      "intermediate": "According to a study featured in BBC Science Focus Magazine, our attraction to particular movie villains is not merely a matter of taste but may offer fascinating insights into our cognitive processes and personality traits. The research delves into the psychological underpinnings of why certain antagonists resonate with us. For instance, an affinity for highly intelligent, strategic villains might suggest a curiosity about complex problem-solving and an appreciation for challenging established norms. Conversely, a preference for villains with nuanced backstories—those shaped by past traumas—could point to a higher degree of empathy and an ability to engage with moral ambiguities. The report emphasizes that such preferences serve as a mirror, reflecting our deeper views on power, intellect, compassion, or order, and potentially our subconscious approaches to real-world dilemmas, providing a fresh perspective on the intricate connection between the human brain and complex character engagement.",
+      "advanced": "The BBC Science Focus Magazine has recently published an intriguing analysis exploring the neurocognitive correlates of our predilection for specific cinematic antagonists. This research posits that an individual's favored movie villain is not arbitrary but rather a revealing indicator of underlying psychological constructs and cognitive biases. The investigation elucidates the sophisticated psychological mechanisms driving such preferences. For example, an inclination towards Machiavellian or intellectually formidable villains may signify an intrinsic curiosity regarding complex strategic thinking and a latent appreciation for the subversion of conventional frameworks. Conversely, a strong preference for antagonists imbued with profound, often tragic, backstories could denote elevated levels of empathy and a sophisticated capacity for processing moral ambiguities. The article ultimately frames these preferences as a projective test, offering a unique epistemological window into an individual's subconscious values concerning authority, intellect, compassion, or societal order, thereby illuminating the intricate interplay between human cognition and the appeal of multifaceted characterizations."
+    },
+    "vocabulary": [
+      {
+        "word": "villain",
+        "zh": "反派角色：在故事、電影或遊戲裡，做壞事、阻礙主角實現目標的角色，通常是大家口中的「壞人」。"
+      },
+      {
+        "word": "psychology",
+        "zh": "心理學：一門研究人類思想、情感和行為的科學。它會幫我們了解為什麼我們會這樣想、這樣感覺、這樣做。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-04-28",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zdEpWUkw1T1REamVxd1NaWFVaSk1zYkhUMDJqZkhFcmViWjJvbGxMUkkzWm5oUjNlRVY3RV9ZRTdtZUh2d2VFb2VYaWtmOTZRNVBxajVvQVc5ZEhUQURPZEt2ZWk2dVhjX05QV0JR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "查爾斯國王首場國會演說大成功！「任務圓滿達成」獲熱烈迴響",
+    "zhSummary": "英國查爾斯三世國王首次在國會發表「國王演說」，這項莊重的傳統儀式不僅順利完成，更獲得各界高度讚賞與熱烈迴響，被媒體形容為一場「圓滿成功」的任務。",
+    "zhContent": "<p>最近，英國傳來一則重要消息：查爾斯三世國王在國會發表了他登基以來的首次「國王演說」，而且這場演說不僅順利完成，更獲得了空前的成功與熱烈迴響。新聞標題直接用「任務圓滿達成，國王國會演說大獲好評」來形容，清楚點出了這次活動的非凡意義和它所帶來的巨大影響。這不僅是查爾斯國王作為君主身份的一個重要里程碑，也為英國政壇在新的國會會期開啟之際，帶來了一次引人注目的焦點。</p><p>這場被稱為「國王演說」的活動，實際上是英國國會「國家開幕典禮」的核心環節之一。按照百年來的傳統，君主會搭乘馬車，在盛大遊行下抵達西敏宮，並親自前往國會上議院。在那裡，國王會向聚集在一起的議員們宣讀一份由政府內閣草擬的演說稿。這份稿件的內容極為重要，它詳細列出了政府在接下來一年裡預計推動的所有重要法案和政策方向。對於查爾斯國王而言，這是他第一次以國王身份主持並進行這項莊嚴且歷史悠久的儀式，現場氣氛莊重而隆重。</p><p>這次演說之所以被形容為「大獲好評」，部分原因在於查爾斯國王在重重期待下的穩健表現。他首次以國王身份承擔這項歷史重任，不僅在莊嚴的儀式中展現了作為國家元首應有的風範與沉穩，也清晰而流暢地傳達了政府未來一年的施政重點。許多媒體和觀察家都特別指出，國王在演說中表現得相當自信和從容，成功地履行了這一重要職責。這也讓外界對他作為君主的領導能力有了更具體的認識，認為他很好地延續了王室的傳統，並維護了其穩定象徵。</p><p>總體而言，查爾斯國王這次在國會的演說被外界普遍視為一次巨大的成功，完全達成了預期的「任務」。他不僅首次以君主身份，向全國清楚闡述了政府未來一年的施政藍圖和施政優先順序，也成功地在莊重的國家典禮中確立了自己的地位。在演說正式落幕後，各方反應都顯得相當熱烈，廣泛肯定了國王的表現，認為他圓滿完成了這項繼位以來的關鍵性任務，為英國新一屆的國會會期寫下了精彩且充滿信心的開篇。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，英國國王的「國會演說」主要是在傳達什麼樣的訊息？它對英國來說有什麼特殊意義？",
+      "生活與未來：你覺得這個重大的「國王演說」儀式，對英國人民的生活會造成什麼樣的實際影響？",
+      "獨立思考提案：針對國王在國會演說這項傳統，你覺得它有哪些優點和可以改進的地方？"
+    ],
+    "enTitle": "King Charles's First Parliament Speech Hailed as Great Success",
+    "enContent": {
+      "basic": "King Charles III gave his first big speech to the UK Parliament. Everyone said it went really well, like a \"mission accomplished.\" He read out the government's plans for the next year. It was a very important and fancy event, and people were happy with how the King did.",
+      "intermediate": "King Charles III delivered his inaugural King's Speech to the British Parliament, an event widely described as a resounding success. This traditional ceremony, where the monarch outlines the government's legislative agenda for the upcoming year, marked a significant milestone for the King since his accession. Reports from The Guardian indicated that the speech was received \"down a storm,\" signifying an exceptionally positive and enthusiastic reception from all parties involved.",
+      "advanced": "King Charles III fulfilled a crucial constitutional duty by delivering his first King's Speech to Parliament, an occasion that has been universally praised for its successful execution and enthusiastic reception. The Guardian prominently reported on the event, highlighting it as a \"mission accomplished\" as the King's address \"went down a storm.\" This ceremonial opening of Parliament serves to formally present the government's legislative program, and the King's confident performance was seen as a vital continuation of royal tradition, reinforcing stability and generating positive sentiment for his reign."
+    },
+    "vocabulary": [
+      {
+        "word": "accomplished",
+        "zh": "達成、完成：指成功地做完一件事，達到預定的目標。就像完成一項任務或一個計畫。"
+      },
+      {
+        "word": "enthusiastically",
+        "zh": "熱烈地、熱情地：指對某件事表現出非常積極、有精神、充滿興趣的樣子。例如，觀眾對表演者熱烈鼓掌。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-04-28",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTV2MlpwX2JiekFGLU1MQ2QyUVdkaHk3N0lILTFnWUVGSEdxdHpJRGpGcURYU1dlYndqUEQzVnFGNFI1cFZzZU9XUnV4WDBmdnZNelhwbWt5OU1OZW9UMmZqZDBKYjVlUnRienUxMDE2cDBLUkl3dEE0WXJuenJjVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國議員喊話：中國車不准進來！",
+    "zhSummary": "美國國會的民主黨議員們最近聯合呼籲，希望前總統川普如果再次上任，能繼續維持現有的政策，禁止中國製造的汽車進入美國市場，因為他們擔心這些車輛可能會帶來安全風險。",
+    "zhContent": "<p>美國政治圈最近有個熱門話題，跟我們日常生活中會用到的「車子」有關。一群來自美國眾議院的民主黨議員們，最近聯合發出了一份公開信，對象是目前正在競選總統的前總統川普。他們的主要訴求很明確：希望川普先生如果未來再次當選總統，務必要繼續維持美國目前對中國製造汽車的進口禁令。這件事聽起來是不是有點複雜？簡單來說，就是美國的政治人物們，正在想辦法不讓中國生產的汽車進到美國賣。</p><p>這份由多位民主黨議員聯名的信中，特別提到了他們對「國家安全」的擔憂。他們認為，現在這些中國製造的車輛，因為配備了許多先進的科技，比如能夠連上網路、收集資料的感測器和鏡頭，一旦這些車大量進入美國市場，很可能會被用來收集美國公民的個人資訊。想像一下，你的車子可能不小心就把你的行蹤、甚至車內談話都記錄下來，這聽起來是不是有點令人不安？議員們擔心，這些資料最終可能落入中國政府手中，對美國的國家安全構成威脅。目前，拜登政府其實已經有類似的政策，正在審查關於中國汽車可能帶來的國家安全風險，而且也考慮採取行動來限制這些車輛。</p><p>這些民主黨議員之所以這麼緊張，一方面是因為他們認為中國車輛的製造商可能會受到中國政府的控制，有義務配合情報工作。他們特別強調，美國的對手（指中國）不應該有能力透過車輛來監視美國人民。另一方面，這個議題也涉及到美國的經濟和汽車產業。美國的汽車產業是個大產業，提供了很多工作機會。如果大量中國汽車湧入美國市場，可能會對美國本土的汽車製造商造成巨大的競爭壓力，甚至可能導致一些工廠關閉、員工失業。所以，除了國家安全考量，保護國內產業也是一個重要的原因。</p><p>這份呼籲信件清楚表達了民主黨議員們的立場，他們希望無論是現在的政府還是未來的政府，都能對中國汽車保持警惕，並繼續實施相關的禁令。目前，前總統川普的競選團隊還沒有對這份呼籲做出公開回應。不過，可以預見的是，如果川普再次當選，他將會面臨來自國會內部關於如何處理中國汽車問題的持續壓力。這場關於國家安全和經濟競爭的討論，在美國的政治舞台上還會繼續下去。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "House Democrats Urge Trump to Maintain Ban on Chinese Cars",
+    "enContent": {
+      "basic": "House Democrats in the U.S. asked former President Trump to keep Chinese cars out of the country if he becomes president again. They are worried that cars made in China might collect information about Americans and send it back to China. This could be a problem for national security. The current U.S. government is also looking into these concerns.",
+      "intermediate": "A group of Democratic lawmakers in the U.S. House of Representatives sent a letter to former President Donald Trump, urging him to continue the ban on Chinese-made automobiles should he return to the White House. Their primary concern revolves around national security, as modern Chinese vehicles are equipped with advanced internet-connected sensors and cameras that could potentially gather sensitive data on American citizens. The lawmakers fear this data could be accessed by the Chinese government, posing a significant risk. The current Biden administration is already reviewing these potential threats from Chinese cars.",
+      "advanced": "A group of House Democrats has formally petitioned former President Donald Trump, advocating for the continuation of existing prohibitions on Chinese-manufactured vehicles should he secure a second presidential term. The core of their apprehension centers on national security implications, positing that contemporary Chinese automobiles, equipped with sophisticated, internet-enabled sensor arrays and imaging capabilities, could serve as conduits for the collection of sensitive biometric and locational data on U.S. citizens. This data, they contend, could be exploited by the Chinese government, thereby constituting a profound threat to national security. Concurrently, the incumbent Biden administration is actively undertaking a comprehensive review of the national security risks posed by Chinese automotive technology, signaling a broader governmental consensus on the gravity of this issue."
+    },
+    "vocabulary": [
+      {
+        "word": "Ban",
+        "zh": "禁令 (jìn lìng) - 就是政府或某個機構下達的命令，規定某件事不能做、不能有，有點像學校老師說「下課時間不准玩手機」的這種規定。"
+      },
+      {
+        "word": "National Security",
+        "zh": "國家安全 (guó jiā ān quán) - 指的是一個國家保護自己人民、土地、重要資訊不被外部敵人攻擊或威脅。就像我們保護自己家的安全一樣，國家也要保護它自己的安全。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-04-28",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzY0bDJvTEFBOXFmRWRRS1pGd21DT0JxWllVV3NibjQwa0JtMWlDT0EwY3pCOEpyNnJRbnFYb0JtTV9McWh4M001by14T3lkYzAwTG9kemFPWW1oU25SblZZUUNzOTF2T1J2S183U3JOVEVmMno3R1ppbk4zYmR1MmljMmd4Sm1YeGRxY2ltUkN6dFRuVVlqbEplVkQ0NmNf?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "科技巨頭變身機器狗？！Beeple柏林展覽超吸睛！",
+    "zhSummary": "知名數位藝術家Beeple在德國柏林的博物館展出了一系列特別的機器狗，牠們頭上裝飾著特斯拉老闆馬斯克和臉書創辦人祖克柏的臉龐，在展場中自由漫遊，成為討論科技與權力的新焦點。",
+    "zhContent": "<p>「天啊！這是什麼？」如果你最近到德國柏林參觀博物館，可能會看到讓你忍不住發出驚呼的景象。最近，一位超有名的數位藝術家Beeple，就在柏林的König Galerie美術館裡，帶來了一個超級特別的展覽。這個展覽的主角不是普通的雕像或畫作，而是一群頭上頂著科技界名人，像是特斯拉老闆伊隆．馬斯克（Elon Musk）和臉書創辦人馬克．祖克柏（Mark Zuckerberg）臉龐的機器狗！牠們在美術館裡到處走動，吸引了所有人的目光。</p><p>這些「名人機器狗」可不是安靜地待在原地。牠們的身體是那種大家在網路影片上看過的，有點像真實狗狗一樣能動的四足機器人。而最吸睛的，就是牠們頭上那顆真人大小、維妙維肖的科技巨頭頭像。這些機器狗會在展場中緩慢地巡邏、跳舞，甚至還會做出一些像狗狗一樣的動作。想像一下，一個頂著馬斯克頭的機器狗朝你走來，是不是既有點酷又有點怪？藝術家Beeple希望透過這種方式，讓觀眾們思考科技、權力，以及我們未來的生活會是什麼樣子。</p><p>Beeple本名叫麥克．溫克曼（Mike Winkelmann），他可不是一般的新人藝術家。他因為製作和拍賣NFT數位藝術品而全球聞名，曾經用天價賣出過他的作品。他的作品常常充滿對現代科技和社會現象的獨特看法。這次他把伊隆．馬斯克和馬克．祖克柏這兩位舉足輕重的人物，變成機器狗的頭像，顯然是在探討這些科技巨頭對世界造成的巨大影響，以及人工智慧和機器人在未來扮演的角色。這個展覽，是他最新嘗試結合實體藝術和數位概念的創作。</p><p>這個名為「S.2 P.0」的展覽目前正在柏林的König Galerie美術館展出，吸引了許多當地民眾和國際遊客前來觀看。這些機器狗每天都在展場中活躍地移動，成為了美術館裡最熱門的打卡焦點。參觀者們可以看到這些特別的藝術品，親身體驗Beeple想要傳達的訊息。這個展覽預計將會持續一段時間，讓更多人有機會一睹這些特別的科技藝術品。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，藝術家Beeple是如何結合機器人與名人元素來呈現他的藝術創作？",
+      "生活與未來：你覺得這個展覽中，把科技巨頭的頭像放在機器狗身上，想傳達什麼樣的訊息？這樣的呈現方式會對你對科技的想像產生什麼影響？",
+      "獨立思考提案：如果由你來設計一個關於未來科技的藝術展覽，你會選擇什麼樣的元素來表達你的想法？"
+    ],
+    "enTitle": "Robot Dogs with Musk and Zuckerberg Heads Roam Berlin Museum in Beeple's New Exhibit",
+    "enContent": {
+      "basic": "Famous digital artist Beeple's new exhibit in Berlin features robot dogs with the heads of tech giants Elon Musk and Mark Zuckerberg. These unique art pieces are roaming around the König Galerie museum, drawing attention and discussion about technology and power. It's an unusual sight that makes visitors think about the future.",
+      "intermediate": "Digital art sensation Beeple, known for his record-breaking NFT sales, has unveiled a thought-provoking new exhibit, 'S.2 P.0', at Berlin's König Galerie. The display showcases robotic dogs adorned with lifelike heads of Elon Musk and Mark Zuckerberg, dynamically navigating the gallery space. This installation prompts viewers to consider the profound impact of tech leaders and artificial intelligence on our world, blending physical art with digital concepts.",
+      "advanced": "In a compelling fusion of digital artistry and kinetic sculpture, Mike Winkelmann, professionally known as Beeple, has launched his latest exhibition, 'S.2 P.0', at the König Galerie in Berlin. The installation's centerpiece involves Boston Dynamics-style robotic canines, each topped with hyper-realistic effigies of Elon Musk and Mark Zuckerberg. These automated figures perambulate the gallery, engaging spectators in a visceral contemplation of power, technological advancement, and the escalating influence of digital titans in shaping future societies. Beeple's work continues to challenge contemporary perceptions through its potent socio-technological commentary."
+    },
+    "vocabulary": [
+      {
+        "word": "Exhibit",
+        "zh": "展覽 (一種把藝術品、收藏品或特別物品公開展示給大家看，讓大家欣賞或學習的活動。)"
+      },
+      {
+        "word": "Futuristic",
+        "zh": "未來感 (形容某個東西或設計看起來很像來自未來世界，充滿科技感或想像力的感覺。)"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-04-28",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmVBbHl6Zm00aDhWcS1lX0FVUW5ORUY1dzlJSWdRcmh4ZUxjM0ZCTWV6aWNaLVdYY0w1RDA2cE8teFhienRGaU5yOTJ5TEtRZmtvcTBHaVhtcXRYLWdSMmlQLUdreVg1ejh3RERib2EwY3VDV0NxLXpFWDIzWG5uNlFlOUNhMzhnVnRpT2s0U3NNdlg3S0VYS1JWVl9vYWFRT0FqSmlLYnl3d3F0STdn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國電視巨頭 Canal+ 準備登陸南非股市！",
+    "zhSummary": "法國知名的付費電視集團 Canal+ 宣布，他們將在今年 6 月 3 日正式於南非的股票市場上市，這代表他們將在非洲市場有更進一步的佈局與發展。",
+    "zhContent": "<p>嘿，同學們，你們知道法國有個超級大的付費電視公司叫做 Canal+ 嗎？它就像是歐洲的頻道大哥大，提供各種精彩節目，從電影、體育賽事到紀錄片，應有盡有。最近，這個法國媒體巨頭有個重磅消息，他們計畫在今年 6 月 3 日，正式登上南非的股票市場，也就是我們一般說的「上市」喔！這可是一個全球性的商業大事件呢。</p><p>所謂的「上市」，簡單來說，就是一家公司的股票會在證券交易所公開讓大眾買賣。從 6 月 3 日開始，Canal+ 的股票將會正式在南非約翰尼斯堡證券交易所（JSE）掛牌交易。這代表南非當地以及其他非洲地區的投資者，無論是個人還是金融機構，都可以透過這個管道買到 Canal+ 的股份，成為這家國際企業的股東之一。透過上市，公司通常希望可以籌集到更多的資金，用來擴大經營、投資新計畫，或是提升公司的市場地位。</p><p>Canal+ 之所以選擇在南非這個非洲經濟重鎮上市，其實背後有個很重要的策略考量。這家法國公司早就透過收購等方式，積極地擴展它在非洲的事業版圖，比如他們是非洲最大的付費電視服務商 MultiChoice 的最大股東。在南非上市，可以讓他們更直接地接觸到當地的資金和投資者，強化其在非洲大陸的品牌形象和市場根基，同時也展現了他們對非洲市場長期發展的信心和承諾。</p><p>總結來說，這個來自法國的付費電視巨頭 Canal+，將在今年的 6 月 3 日這一天，正式在南非的股票市場展開交易。這對 Canal+ 在非洲的業務發展來說，無疑是一個具有里程碑意義的時刻，標誌著他們在全球化策略上邁出了重要的一步。這項計畫將讓他們更深根於非洲市場，並為未來的成長鋪路。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Canal+ 選擇在南非上市，這個動作對一家公司來說通常代表著什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對南非的觀眾、對 Canal+ 的員工或股東，甚至是對其他媒體公司？",
+      "獨立思考提案：如果 Canal+ 希望在非洲市場更受歡迎，除了上市，你覺得他們還可以怎麼做會更好？"
+    ],
+    "enTitle": "French pay-TV group Canal+ to list in South Africa on June 3 - CNBC Africa",
+    "enContent": {
+      "basic": "French company Canal+ will put its shares on sale in South Africa on June 3. It's like they are opening a new shop for their company in South Africa's money market. This is a big move for the company in Africa.",
+      "intermediate": "French pay-TV group Canal+ is set to list its shares on the South African stock exchange on June 3. This move will allow investors in South Africa to buy parts of the company, potentially helping Canal+ to grow its business on the African continent, where it already has a strong presence.",
+      "advanced": "French pay-TV group Canal+ is scheduled to list on the Johannesburg Stock Exchange (JSE) in South Africa on June 3, according to CNBC Africa. This strategic listing aims to deepen Canal+'s presence and investment opportunities within the robust African market, where it already holds significant interests, including its substantial stake in MultiChoice, Africa's largest pay-TV operator. The move is expected to bolster its growth strategy on the continent."
+    },
+    "vocabulary": [
+      {
+        "word": "list",
+        "zh": "上市 – 指一家公司的股票開始在股票市場上公開買賣。就像商品上架到商店一樣，讓大家都可以買得到這家公司的股份。"
+      },
+      {
+        "word": "shares",
+        "zh": "股份 – 代表你擁有公司的一部分所有權。如果你買了某公司的股份，你就成了那個公司的小老闆之一，可以分享公司的獲利或損失。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-04-28",
+    "sourceName": "CNBC Africa",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzFKTHE5bjFSODJ6ekhUQXlJbWxka2pFSXVSZEZIdWZEdXZ1Rkt1OVRKWVdOTmxMNlhpTUVKNzVxZUVhMHlTbngxbGxLN0FqQU40WFpKM3d2bks2dENhRXY1eWV5QWpJaTdubHM5czFwMG5FYzdHMEVyR0EtUnJEay1rMzBVaFJKeWx5cEUxc2xmMTVtOXhN?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "當蘇聯建築悄悄消失：中亞國家尋找自己的新面貌",
+    "zhSummary": "中亞地區的國家曾經是蘇聯的一部分，現在他們正在拆除或改造許多蘇聯時期的舊建築物，以擺脫過去的影響，展現獨特的國家身份。",
+    "zhContent": "<p>想像一下，一座城市裡的建築物，不只是鋼筋水泥，更承載著歷史與記憶。但在中亞的一些國家，過去蘇聯時期留下的建築正在悄悄消失，或是被改頭換面。這背後的原因，是這些國家正努力擺脫過去的影子，展現自己的新面貌。</p><p>這些消失或改變的建築，大多是當年蘇聯統治時期建造的。它們通常風格宏偉、線條簡潔，使用大量混凝土，例如大型公共建築、紀念碑或工人住宅區。在哈薩克、烏茲別克、塔吉克等國家，這些建築一度是城市裡最醒目的風景。不過，現在許多這樣的建築物被拆除，有些紀念碑被移到較不顯眼的地方，還有一些則透過翻修，換上現代化的外觀，讓它們不再那麼有蘇聯的氣息。</p><p>為什麼會有這樣的改變呢？其實，中亞各國在蘇聯解體後，都各自獨立，努力建立屬於自己的國家認同。對他們來說，這些蘇聯建築就像是一個個提醒，提醒著過去曾被莫斯科統治的歲月。為了證明自己已經是一個獨立自主的國家，他們希望透過改變城市裡的建築景觀，來宣告他們已經走出過去，並且擁有獨特的文化與未來。這不只是一場建築改造，更是一種國家精神的轉變。</p><p>因此，你會看到中亞地區的城市裡，這種清除蘇聯建築的行動持續進行中。一些象徵舊時代的地標被移除，取而代之的是更能代表當地文化，或是更具現代感的全新建築。這場建築的轉變，不只是單純的城市更新，也反映了這些國家努力創造屬於自己歷史，並向世界展現新定位的決心。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，中亞國家為什麼要拆除或改造蘇聯時期的建築？這背後的主要原因是什麼？",
+      "生活與未來：你覺得這種改變建築外觀的作法，會對當地居民的生活和國家未來的發展造成什麼實際影響？",
+      "獨立思考提案：如果台灣也有些過去歷史留下的建築，你會建議如何處理它們？是完全拆除，還是有其他更好的方式來呈現歷史與文化？"
+    ],
+    "enTitle": "Soviet Architecture Fades as Central Asia Seeks New Identity",
+    "enContent": {
+      "basic": "In Central Asian countries, old Soviet-era buildings are disappearing. These countries used to be part of the Soviet Union. Now, they are removing or changing these buildings. They want to show their own unique identity. Many big, gray concrete buildings are being torn down. Some monuments are moved. Others get new, modern looks. This is because these countries want to be seen as independent. They want to show their own culture, not just the past influence of Moscow. This change in buildings helps them build a new national image. It's still happening today.",
+      "intermediate": "Countries in Central Asia are actively reshaping their urban landscapes by removing or renovating Soviet-era architecture. These nations, once part of the Soviet Union, are striving to assert their distinct national identities and move away from Moscow's historical dominance. Many monumental, often stark, concrete structures built during Soviet rule are being demolished or modernized. For example, old government buildings and public squares are getting new designs or being replaced entirely. This effort aims to visibly demonstrate their independence and cultural uniqueness, signifying a clear break from their past and a push towards self-defined futures. This trend of architectural transformation continues across the region.",
+      "advanced": "Across Central Asian nations, a profound architectural transformation is underway as Soviet-era structures are systematically being removed or redeveloped. This phenomenon reflects these countries' concerted efforts to distance themselves from Moscow's historical influence and forge unique national identities in the post-Soviet era. Buildings characterized by their brutalist style, immense scale, and stark concrete forms, which once symbolized Soviet authority, are now either being demolished, relocated, or extensively renovated with contemporary facades. This strategic dismantling of a shared Soviet architectural legacy serves as a powerful visual declaration of their sovereignty and a deliberate move to cultivate a distinct cultural narrative, emphasizing their future orientation over past affiliations. This ongoing architectural re-imagining is a tangible manifestation of a broader political and cultural reorientation."
+    },
+    "vocabulary": [
+      {
+        "word": "Architecture",
+        "zh": "建築 (jiàn zhú)：指的是設計和建造房屋、紀念碑等各種建築物的藝術和科學。簡單來說，就是蓋房子、蓋大樓的學問和技術。"
+      },
+      {
+        "word": "Legacy",
+        "zh": "遺產 (yí chǎn)：指從過去傳承下來的東西，可以是物質的（像建築物），也可以是文化的（像習俗）或歷史的。它提醒著人們過去發生過什麼事。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-04-28",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmZDYlpMU0dWQTFvQnI5MldzMmpZcVdnakw3NXA1eTZVQS1ta01TdEVGcGNRazNXS3lxYzhnb25RZndvWnh2T0U5TWtIVWIwdHprMEZIaGVCbTlYVFVQdDVleXFGTnl4TGNETG0xSUZwU1M2MjNFdWNMd3RXaHdtMTEySUlkd1JubzQ4aW0wYjQ3Q05lbnZNWnpGUFZWRU5WZy1lWVZIdi1iQ1hRSi1V?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東亞阿公阿嬤不退休？揭開高齡勞動力的新面貌！",
+    "zhSummary": "《經濟學人》報導指出，由於人口老化與少子化，東亞地區的年長勞工已成為維持經濟運轉不可或缺的重要支柱，而且未來還需要更多高齡勞動力來填補空缺。",
+    "zhContent": "<p>東亞地區，像日本、韓國這些地方，大家可能會以為長輩們退休後都在享清福，過著輕鬆悠閒的日子。不過，《經濟學人》最近報導指出，其實情況很不一樣。在這些東亞國家，年紀比較大的勞工們，也就是我們的阿公阿嬤輩，他們不只是社會上重要的一份子，甚至可以說，他們是國家經濟運轉中不可或缺的關鍵人物！這則報導特別強調，現在需要的不是讓他們退休，而是需要「更多」這樣的高齡勞動力。</p><p>為什麼會有這樣的現象呢？原因其實不難理解。現在很多東亞國家面臨著一個共同的挑戰，那就是年輕人生的越來越少，但大家卻活得越來越久。這導致整個社會的平均年齡不斷升高，也就是我們常說的「人口老化」。當年輕的工作人口不足時，過去被認為應該要退休的老年人，反而成為了填補勞動力空缺的重要來源。許多政府和企業都意識到，這些有經驗的長輩們，對於維持社會和經濟的正常運作，有著舉足輕重的作用。</p><p>這些高齡勞工們，不僅僅是彌補人數上的不足，他們還帶來了許多寶貴的優點。他們通常擁有幾十年累積下來的豐富工作經驗和專業知識，這些是年輕人需要時間去學習的。而且，長輩們在工作上往往表現出更高的穩定性、忠誠度，以及對細節的耐心。因此，許多公司開始調整工作環境和制度，例如提供更彈性的工時、安排適合長輩的工作內容，甚至提供再培訓課程，讓這些熟練的勞工能夠繼續貢獻他們的才華。</p><p>總而言之，《經濟學人》這份報導清楚地說明，在東亞地區，讓高齡勞工繼續工作，甚至招募更多長輩投入職場，已經從一個選項變成了一個現實且必要的趨勢。這不僅僅是為了應對人口結構變化的挑戰，更是為了充分利用社會上所有的人力資源，確保經濟能夠持續健康地發展。因此，如何更好地支持和整合這些高齡勞工，讓他們在職場上發光發熱，成為了目前許多東亞國家都在思考和努力的方向。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "East Asia's Aging Workforce: Essential and in High Demand",
+    "enContent": {
+      "basic": "In East Asia, like Japan and South Korea, older people are not just relaxing after retirement. A report from The Economist says they are now very important for the economy. Because fewer young people are being born and everyone lives longer, these countries need older workers more than ever. Companies are starting to value their experience and are finding ways for them to keep working. This is a new way for these countries to keep their economies strong.",
+      "intermediate": "East Asian nations such as Japan and South Korea are experiencing a significant demographic shift, with declining birth rates and increasing life expectancies. Contrary to traditional retirement patterns, The Economist reports that the region's aging workers are becoming an indispensable part of their respective economies. With a smaller influx of young workers, these experienced older individuals are filling crucial labor gaps. Both governments and businesses are recognizing the immense value of their accumulated knowledge and stable work ethic, leading to initiatives that support their continued employment.",
+      "advanced": "A profound demographic transformation is underway across East Asia, characterized by persistently low birth rates and a notable increase in life expectancy. This phenomenon has compelled nations like Japan and South Korea to increasingly rely on their aging workforce. The Economist highlights that far from transitioning into traditional retirement, these senior workers are now deemed essential to sustaining the region's economic vitality, with a pressing demand for even greater participation. This pivot is driven by the imperative to address labor shortages resulting from a shrinking younger demographic, leveraging the invaluable experience, loyalty, and stability that older employees bring to the professional landscape. Consequently, adaptative policies and flexible work arrangements are being implemented to integrate and maximize the contributions of this critical segment of the labor force."
+    },
+    "vocabulary": [
+      {
+        "word": "Demographic",
+        "zh": "人口結構 / 人口變化<br>解釋：一個國家或地區的人口組成狀況，例如年輕人有多少、老年人有多少、出生率是高是低等等。了解人口結構可以幫助我們預測社會未來的發展。"
+      },
+      {
+        "word": "Essential",
+        "zh": "不可或缺的 / 很重要的<br>解釋：某個東西或某個人是「必須的」，沒有它或沒有他，事情就沒辦法好好進行，甚至會停擺。就像是手機對你來說可能是很 essential 的東西一樣！"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-04-28",
+    "sourceName": "The Economist",
+    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGM4NjllM1h3bXhnT2FpVkJjZnpGVDlWQWgtSGFYNzVwXzNtU0MzcWlXVnphQTRZbDVhbng5cE54NVVaS0xzU3gtbG1uLWRZNDZvc1drQ1liUzlpN2dGSkwzaTd3ZXV2RFVtc3lrbFlZTVN5M19Vb0E1cmduTVN1Z1l1UWZ2aGRXREZrTTdKWUtRckNXZmpZc0x5Q2UxNDJj?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "泰國大牌Osotspa大變身！攜手SAP、AWS加速商品送到你家",
+    "zhSummary": "泰國知名飲料零食公司Osotspa為了讓產品更快、更有效率地送到消費者手中，決定和科技公司SAP以及雲端服務巨頭AWS合作，用最新的技術升級他們的營運系統，目標是成為快速消費品市場的超級巨人。",
+    "zhContent": "<p>泰國一家很有名的公司Osotspa，你可能沒聽過名字，但他們做的飲料和保健品在當地可是家喻戶曉。最近，這家老牌公司決定要來一次大改造！他們宣布要跟兩家科技巨頭——德國的SAP和美國的Amazon Web Services（簡稱AWS）合作，目標是讓他們的公司運作變得更快、更有效率。這就像是把一台舊款跑車的引擎，換成最新最強大的電動馬達，準備在市場上跑出新速度。</p><p>Osotspa這次的「變身計畫」主要聚焦在他們如何生產、銷售和管理那些每天都會被大家快速用掉的商品，也就是所謂的「快速消費品」。他們使用了SAP提供的一個叫做「RISE with SAP」的解決方案，而且這個解決方案是跑在AWS的雲端服務上。簡單來說，他們把公司的核心營運系統，從原本可能比較舊、比較分散的模式，搬到了一個在網路上、非常先進又強大的「智慧中心」。這樣一來，從生產線、庫存管理到貨物配送，每一個環節都能更緊密地連接，反應速度也會大幅提升。</p><p>為什麼Osotspa要做這麼大的改變呢？主要是因為現在的市場競爭越來越激烈，消費者的需求也變化得很快。Osotspa希望透過這次升級，讓他們能更敏捷地應對這些變化，例如更快地推出新產品、更精準地掌握市場趨勢，甚至能更好地管理他們的供應鏈，確保商品能準時、有效率地送達每一個銷售點。他們相信，有了SAP的智慧系統和AWS穩定又強大的雲端支援，他們就能像有了超能力一樣，在快速消費品這個廣大市場中保持領先地位。</p><p>這項大規模的科技升級完成後，Osotspa將能更輕鬆地處理大量的營運數據，並且把這些數據轉化成有用的資訊，幫助他們做出更好的商業決策。這不只代表他們的內部運作會更流暢，也意味著他們生產的商品能以更有效率的方式抵達消費者手中。簡單來說，Osotspa正透過這次與科技公司的合作，為自己在未來市場的競爭中，打下一個更堅實的基礎，成為一個反應更快速、效率更高的現代化公司。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Thai Giant Osotspa Transforms with SAP and AWS to Accelerate Product Delivery",
+    "enContent": {
+      "basic": "Osotspa, a famous Thai company, is making big changes! They are working with SAP and Amazon Web Services (AWS) to make their business faster and better. They are using new technology to improve how they make and sell everyday products like drinks and snacks. This will help them get products to you more quickly and efficiently. It's like upgrading an old car to a super-fast new one.",
+      "intermediate": "Osotspa, a well-known Thai company for beverages and healthcare products, is undergoing a major transformation. They announced a partnership with tech giants SAP and Amazon Web Services (AWS) to enhance their operational efficiency. This initiative involves adopting SAP's 'RISE with SAP' solution, powered by AWS cloud services. By moving their core business systems to a advanced online platform, they aim to streamline everything from production and inventory to distribution, allowing for faster responses to market demands in the fast-moving consumer goods (FMCG) sector.",
+      "advanced": "Osotspa, a prominent Thai conglomerate in the beverage and healthcare sectors, has embarked on a significant digital transformation initiative. The company announced its strategic collaboration with SAP and Amazon Web Services (AWS) to accelerate its operational agility and efficiency within the highly competitive Fast-Moving Consumer Goods (FMCG) market. By deploying the 'RISE with SAP' solution on AWS's robust cloud infrastructure, Osotspa aims to modernize its core business processes. This comprehensive upgrade is designed to integrate and optimize its supply chain, production, and distribution networks, enabling quicker product launches, more precise market trend analysis, and enhanced overall responsiveness to evolving consumer demands. The move positions Osotspa to leverage data-driven insights for strategic decision-making, ensuring its sustained leadership and competitive edge."
+    },
+    "vocabulary": [
+      {
+        "word": "FMCG",
+        "zh": "快速消費品：像飲料、零食、洗髮精這類日常用品，消耗快、需要頻繁購買的商品。"
+      },
+      {
+        "word": "Cloud Computing",
+        "zh": "雲端運算：想像你的資料和應用程式不是裝在自己電腦裡，而是存放在網路上的「超級電腦」裡，你可以隨時隨地透過網路去使用它們，像是把作業放上Google雲端硬碟一樣方便。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-04-28",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPalhnTzBkenFDY1VBV3FGWmQtNjNRc3VwaUprTXNBTkViczVBc3FkdGtBTTYxMU1WMGtFVFRLUmtsTlE3NVpzdWpvUjhpdEtQblhZSkJXeWxZcEdnN09QYmdPZFJKRmMtRDk1bHV1di1QRjYwYzZpcVpUUXA5VmxQcWRNYWNUVWowajhTRHJnbGF1a3NLX0ozbi1hTXVCbXd5?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋小島拉警報！庫克群島因「全球燃料危機」呼籲全民節約能源",
+    "zhSummary": "由於全球燃料價格飆漲，太平洋島國庫克群島正經歷能源供應緊張的局面，政府呼籲全國居民和企業一同節省能源，以減輕國家經濟壓力並確保穩定運作。",
+    "zhContent": "<p>「庫克群島」這個名字聽起來很夢幻，它是一個位在太平洋上的美麗島國，有著熱帶風光。但最近，這個小島國家正面臨一個不小的挑戰。由於全球燃料價格持續飆漲，讓他們的能源供應變得非常緊張，當地政府為此向全國居民發出呼籲，希望大家一起動起來，共同節省能源，度過這次難關。</p><p>庫克群島政府並非訂下嚴格規定，而是懇切地請求每個人都從生活小細節做起。他們建議民眾，在家裡不使用電器時記得拔掉插頭、隨手關燈、減少使用耗電量大的冷氣，也鼓勵商業店家和公共場所能更精打細算地用電。這些聽起來簡單的舉動，目的都是希望大家能合力降低整體的能源消耗。</p><p>會出現這樣的狀況，主要原因是目前全球正籠罩在「燃料危機」的陰影下。燃料是發電、運輸等很多方面不可或缺的動力來源。當國際上的石油、天然氣等燃料價格大幅上漲時，像庫克群島這樣幾乎所有燃料都仰賴進口的國家，成本壓力就會特別沉重。這導致發電和交通費用直線飆升，讓政府和民眾都吃不消。</p><p>庫克群島政府的目標很明確，就是希望透過全國上下共同努力節約能源，能減少對昂貴進口燃料的依賴，減輕國家經濟的負擔，確保日常生活和基本服務能夠穩定運行。目前，這項節能呼籲正在當地持續進行中，政府正觀察民眾響應的狀況，期待能集合大家的力量，一起面對並度過這波全球性的能源挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cook Islands Urges Energy Conservation Amid Global Fuel Crisis",
+    "enContent": {
+      "basic": "The Cook Islands government is asking everyone to save energy. There is a big problem with fuel prices all over the world. This makes electricity and travel very expensive for the islands. People are asked to turn off lights and use less air conditioning to help. The government wants to use less expensive fuel from other countries.",
+      "intermediate": "The Cook Islands, a small island nation, is facing an energy challenge. Due to a global fuel crisis, the cost of imported fuel has increased significantly. This impacts electricity generation and transportation costs. The government is urging residents and businesses to practice energy conservation, such as turning off unnecessary lights and reducing air conditioning use, to mitigate the economic strain and ensure stable services.",
+      "advanced": "The government of the Cook Islands has issued an urgent appeal for nationwide energy conservation in response to the escalating global fuel crisis. As a remote island nation heavily reliant on imported fossil fuels for power generation and transportation, the recent surge in international fuel prices has placed immense economic pressure on the country. Officials are encouraging all citizens, households, and commercial entities to adopt stringent energy-saving measures to alleviate the burden of increased operational costs and maintain essential infrastructure stability. The initiative aims to reduce dependence on costly foreign fuel imports and foster collective resilience during this period of heightened global commodity volatility."
+    },
+    "vocabulary": [
+      {
+        "word": "Conservation",
+        "zh": "節約 (jiéyuē)。它的意思是在用東西的時候小心、不要浪費，特別是指保護自然資源，像是節省能源或水。"
+      },
+      {
+        "word": "Crisis",
+        "zh": "危機 (wéijī)。指一個非常困難、危險或不穩定的時期，通常需要立刻採取行動來解決。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-04-28",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa09PS0RGTUc1RGotZEZoRzMyZmFITjg1aDBDWEJwS1pKaDFyeEltMDQ1elowZzZBcGVhMkJaV2RUTWU1aTJBalprSXJMX3k0dDhlSUVUbEJIUWpDRUJuc2o5aHdZNmZQUWRrMmxBOXVUMDEwX3dsQk04Qmc5a05RbWxSSllScUFnUmlRcFpLZnVQbW14eDl3Yi0yaGFBNEZYdUkxaG92dmpRNTBRa1J1REFZbFhwZw?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "土耳其校園槍擊事件：9位師生喪命，13人受傷",
     "zhSummary": "土耳其一所學校日前發生一起嚴重的槍擊事件，造成校園內共9名師生不幸死亡，另有13人受傷送醫。",
     "zhContent": "<p>最近從土耳其傳來一則令人震驚的消息，一所校園突然發生了一起重大槍擊案。這起突如其來的暴力事件，讓許多人感到非常不安。根據公視新聞網的報導，這場在校園內發生的攻擊，造成了師生們非常嚴重的傷亡，震驚了當地社會，也讓許多家庭陷入悲痛。</p><p>這起校園槍擊事件發生在當地一所學校。詳細的發生時間點是新聞中提及的2026年4月16日。當時校園裡正是學生和老師們日常活動的時間，突如其來的槍響打破了校園的寧靜。許多人因此受到波及，現場一片混亂，情況緊急，急需外部救援。</p><p>根據目前公開的資訊，這起槍擊事件造成了極為慘痛的後果。總共有9名師生在事件中不幸喪生，他們原本都在校園中學習或工作，卻在這次意外中失去了寶貴的生命。此外，還有13名師生在這場攻擊中受傷，他們隨後被緊急送往醫院接受治療。</p><p>這起在土耳其校園發生的槍擊案，以9人死亡、13人受傷的沉重數字暫告一段落。目前新聞報導主要聚焦在這些確切的傷亡人數上。這場事件對受害者家庭及整個校園社區都帶來了巨大的打擊。事件的最終結果與造成的嚴重後果，就是這份新聞報導的核心內容。</p>",
