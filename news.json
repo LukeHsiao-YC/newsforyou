@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "英王查爾斯三世赴美演說：強調英美盟友情誼 力挺烏克蘭",
+    "zhSummary": "英國國王查爾斯三世在美國國會發表重要演說，內容聚焦於深化英美兩國的盟友關係，並呼籲國際社會持續支持烏克蘭，展現英國在國際事務上的立場與關切。",
+    "zhContent": "<p>最近，有個國際大新聞，英國國王查爾斯三世特別前往美國國會，在那裡發表了一場很重要的演說。這場演說受到全世界的關注，因為這是他成為國王後，首次在美國這麼重要的場合露面。他主要想傳達兩個關鍵訊息：一是強調英國和美國之間深厚的盟友關係，二是為烏克蘭挺身而出，呼籲國際社會繼續支持烏克蘭。</p><p>在演說中，查爾斯三世首先點出了英國和美國長久以來的特殊情誼。他說，這兩個國家不只是歷史上的好夥伴，更在很多重要時刻都一起努力，共同面對挑戰。他強調，英美兩國在民主、自由等共同價值上緊密連結，這種堅實的「聯盟」對於全球的和平與穩定來說非常重要。國王希望透過這次訪問，讓兩國的關係能夠更加緊密，繼續在國際事務上攜手合作。</p><p>接著，國王把話題轉向了烏克蘭。他明確表示，對於烏克蘭正在經歷的戰爭感到非常關切，也對烏克蘭人民展現的勇氣和堅韌表示高度讚揚。查爾斯三世在演說中呼籲全世界，不能對烏克蘭的困境視而不見，大家應該團結起來，繼續提供烏克蘭必要的幫助，讓他們能夠捍衛自己的主權和國家。他的這番話，可以說是為烏克蘭人民帶來了有力的支持。</p><p>這場國王在美國國會的演說，不只是一次簡單的外交訪問，更是一次展現英國在國際舞台上立場的重要機會。他成功地傳達了英國希望與美國繼續保持密切合作、共同應對全球挑戰的決心，同時也讓國際社會再次意識到支持烏克蘭的重要性。整場演說在熱烈的氣氛中結束，外界普遍認為，這次訪問對鞏固英美關係和提升烏克蘭國際聲量都起到了積極作用。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "King Charles III's Address to US Congress: Strengthening Alliance, Voicing Support for Ukraine",
+    "enContent": {
+      "basic": "King Charles III visited the US Congress and gave an important speech. He talked about how important the friendship between the UK and the US is. He also asked for everyone to keep helping Ukraine in their tough times. This was his first big speech in the US since becoming King.",
+      "intermediate": "King Charles III delivered a significant speech to the US Congress, emphasizing the enduring strength and shared values of the UK-US alliance. He highlighted the critical role of this partnership in global stability. Additionally, the King voiced strong support for Ukraine, urging continued international assistance and solidarity amidst the ongoing conflict.",
+      "advanced": "In a landmark address to a joint session of the U.S. Congress, King Charles III underscored the indispensable nature of the Anglo-American special relationship, a partnership founded on shared democratic principles and historical bonds. He passionately advocated for sustained international solidarity with Ukraine, condemning aggression and commending the Ukrainian people's resilience. The speech aimed to reaffirm the UK's commitment to multilateral cooperation and its stance on pressing global challenges."
+    },
+    "vocabulary": [
+      {
+        "word": "Alliance",
+        "zh": "聯盟 (lián méng): 兩個或多個國家、團體或個人，因為有共同的目標或利益而結合在一起，互相支持、幫助。"
+      },
+      {
+        "word": "Congress",
+        "zh": "國會 (guó huì): 一個國家的立法機構，由民選的代表組成，負責制定法律和監督政府。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-04-29",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ObDhUVVFRbDRRaTd3RUNZYmg0N2Q0dHp3RzZTRFg0SnlSdU5rdmF2Wk5NemJnanVjUXhPLUhmeWhHZERNeUtZNm1GOEZSYnJZRjZYblpPblZuQVNNLWJz?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "歐洲暖化速度驚人？最新報告揭示驚人事實！",
+    "zhSummary": "根據最新氣候變遷報告，歐洲被點名為全球暖化速度最快的大洲。這份由聯合國與歐盟哥白尼氣候變遷服務中心共同發布的報告，揭露了歐洲氣溫上升的顯著趨勢及相關影響。",
+    "zhContent": "<p>最近，一則由半島電視台（Al Jazeera）報導的國際新聞引起了大家的注意。最新的氣候變遷報告指出，歐洲被點名為全球暖化速度最快的大洲。這份報告是由世界氣象組織（WMO）和歐盟的哥白尼氣候變遷服務中心（Copernicus Climate Change Service）共同發布的，內容呈現了歐洲地區氣候變化的最新數據和分析，特別強調了其暖化速度的顯著性。</p><p>報告中提到，在過去數十年裡，歐洲地區的平均氣溫上升速度比其他大洲都要來得快。這導致了許多具體的變化，例如夏季出現的熱浪次數更多、強度也更高；冰川和冰蓋的融化速度加快；以及海平面持續上升。這些現象不僅影響了自然環境，也對當地的生態系統和人類活動產生了連帶影響。</p><p>科學家們在報告中解釋，全球暖化是造成這些現象的主要原因，因為人類活動排放的溫室氣體增加，使得地球整體的溫度正在上升。而歐洲地區因為其地理位置和特殊的氣候模式，使得暖化效應在這裡顯得特別劇烈和快速。這份報告綜合了多年的氣溫數據、衛星觀測結果和其他科學指標，用來描繪出歐洲氣候變遷的完整樣貌。</p><p>總的來說，這份最新的氣候變遷報告清楚呈現了歐洲目前正經歷的快速暖化趨勢，並指出這是一個需要全球持續關注的重要事實。報告的結論為世界各地的科學家和政策制定者提供了關鍵的數據參考，以理解並應對氣候變遷帶來的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，歐洲的暖化速度比其他大洲都快，報告還提到了哪些具體的變化？",
+      "生活與未來：你覺得這個氣候暖化的改變，可能會對居住在歐洲的人們，或是依賴歐洲生態的動植物造成什麼實際影響？",
+      "獨立思考提案：如果類似的氣候變化發生在我們身邊，你覺得可以怎麼做來適應或減緩它的影響？"
+    ],
+    "enTitle": "Europe Named 'Fastest-Warming Continent' in Latest Climate Report",
+    "enContent": {
+      "basic": "A new climate change report says Europe is heating up faster than any other continent. This report, from the World Meteorological Organization and Copernicus Climate Change Service, shows how much warmer Europe is getting. It talks about more heatwaves, melting ice, and rising sea levels. Scientists say this is due to global warming, and Europe's location makes it warm even faster. This report is important for understanding climate change.",
+      "intermediate": "According to a recent climate change report, Europe has been identified as the continent warming at the fastest rate globally. This significant finding, published by the World Meteorological Organization (WMO) and the Copernicus Climate Change Service, highlights substantial temperature increases across the European continent. The report details observed changes such as more frequent and intense heatwaves, accelerated melting of glaciers and ice sheets, and continuous sea-level rise. Scientists attribute these trends to global warming, noting that Europe's geographical and climatic characteristics contribute to its rapid warming pace. The report provides critical data for policymakers and researchers worldwide.",
+      "advanced": "The latest comprehensive climate change report, a joint publication by the World Meteorological Organization (WMO) and the Copernicus Climate Change Service, designates Europe as the continent experiencing the most rapid warming trends globally. This pivotal assessment meticulously documents the escalating temperatures across Europe, detailing a range of consequential impacts including an increased frequency and intensity of heatwaves, accelerated glacial retreat, and a discernible rise in sea levels. Researchers largely attribute these pronounced climatic shifts to anthropogenic global warming, with specific regional factors in Europe contributing to its amplified warming rate. The report serves as an indispensable data repository for international scientific discourse and informs global climate policy frameworks."
+    },
+    "vocabulary": [
+      {
+        "word": "continent",
+        "zh": "大洲 (dàzhōu) - 指的是地球上非常大的陸地塊，像是亞洲、歐洲、非洲等等，上面通常住著很多國家和不同的人們。"
+      },
+      {
+        "word": "climate change",
+        "zh": "氣候變遷 (qìhòu biànqiān) - 指的是地球長期以來天氣模式的改變。簡單來說，就是我們地球的氣候不再像以前那樣穩定，可能變得越來越熱，或是極端的下雨、乾旱、颱風等天氣事件越來越多。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-04-29",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0pUMFREM1VqZkNGMlYxM0pFUkV1WFo4enpxMTl0QWIwZEF0ajdCYkZhRDZmSUx4Vmd2SHV5dDNsQWFseUFYVmo2NXVJUS13X3ppUHZlVlRFdEs1a3pNR19wby1rYU91NGNlc3RtVUlLZWVNRDFiWWoxd2QwdVQtTVRaUG5rOWlOSDM3RDJ2d25tR2trdTFCU2R2RTlkMzQwRVhnTUZZSHZsVlpNWEM1UtIBtgFBVV95cUxPM3A4dHlsNGhaYjYteHBPdWtCTTZUQU4xNkRDcURnQmVkS0pTdVZCdFpsSnVvYUtJX1R3ODRYeWZRakQzN1hRUENvWXhJZUhKejJZZnhHeVUxTHZEYzZiX3hydkdRLTVzZUhaOW5ab1B3WVJ4MjNPQ09vaFVGcmd6Mll6cThpRGJ4d3QtMURheWFGRUFWZW8wYzlxNGZyUVR1SXVRVG9KRVZfMU5lRnA3QklabVJCUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "爸爸女兒聯手出擊！紐約藝術界被假畫騙得團團轉？",
+    "zhSummary": "一對父女在紐約藝術圈裡，用假冒的知名藝術家作品，像是安迪·沃荷和班克斯的畫，成功騙過不少人，最終面臨法律制裁。",
+    "zhContent": "<p>紐約的藝術圈最近爆出一個驚人的消息！一對父女檔，爸爸是小格爾斯（Geralds Jr.），女兒是克里斯汀（Kristine），他們竟然聯手用假畫騙倒了許多經驗豐富的藝術收藏家和畫廊。這些假畫冒充的都是世界級大師的作品，包括普普藝術大師安迪·沃荷（Andy Warhol）的經典畫作，以及神秘街頭藝術家班克斯（Banksy）那些充滿話題性的塗鴉和版畫。這個事件讓整個藝術界都感到不可思議，也引發了許多關於真偽辨識的討論。</p><p>據報導，這對父女的詐騙手法相當巧妙，而且持續了一段不短的時間。他們會把一些自己製作的、或是來源可疑的贗品，當作是貨真價實的真品來販售。為了讓這些假畫看起來更像真品，他們可能會捏造一套看似合理的「作品來歷」（也就是這幅畫曾經被哪些人收藏過），甚至搭配一些偽造的鑑定證書或收藏證明。許多收藏家和畫廊，即使平時對藝術品真偽有著嚴格的把關，也因為一時不察，或是太信任這對父女所編造的故事，而買下了這些價值不菲的假藝術品。</p><p>這些被假冒的藝術家，例如沃荷和班克斯，他們的作品在藝術市場上一直都非常搶手，價格更是高得驚人，動輒數百萬甚至上千萬美元。正是這種巨大的市場需求和潛在的暴利，讓一些不法分子看到了機會。格爾斯父女就是利用了人們對這些大師作品的渴望，加上有時現代藝術品的真偽辨識確實存在挑戰（特別是像班克斯這樣神出鬼沒的藝術家，他的作品來源有時就很難追溯），成功進行了他們的詐騙計畫。他們賣出的假畫數量不少，獲利也累積了相當可觀的金額。</p><p>不過，假的東西終究經不起考驗。最終，這對父女的詐騙行為還是被揭穿了。根據AP News的報導，美國的執法單位介入調查後，他們被正式指控犯下了多項嚴重的詐欺罪名。這起事件不只讓紐約藝術圈大為震驚，也讓許多曾經被騙的買家感到錯愕。這也再次提醒了所有藝術品買家和收藏家，在面對任何看似「划算」的藝術品交易時，務必更加謹慎小心，徹底確認作品的真實性和所有相關文件的可靠性。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，父女檔是用什麼樣的手法來欺騙藝術收藏家？",
+      "生活與未來：你覺得這個事件對未來的藝術品買賣市場會造成什麼樣的實際影響？",
+      "獨立思考提案：針對藝術品市場中真偽難辨的問題，你覺得除了買家自己小心之外，還有哪些方法可以讓市場變得更安全、更透明？"
+    ],
+    "enTitle": "How a Father and Daughter Duped NYC’s Art World",
+    "enContent": {
+      "basic": "A father and daughter teamed up to trick art buyers in New York City. They sold fake paintings by famous artists like Andy Warhol and Banksy. Many art collectors and galleries bought these fake artworks because the father and daughter made them seem real, sometimes even with fake papers. The real works of these artists are very expensive, which made some people want to buy them quickly. But in the end, the police found out what they were doing, and they were charged with fraud. This story shows how important it is to be careful when buying art and to check if it's real.",
+      "intermediate": "In New York's art scene, a shocking story unfolded involving a father, Geralds Jr., and his daughter, Kristine. They successfully defrauded numerous experienced art collectors and galleries by selling counterfeit artworks attributed to world-renowned artists such as Pop Art master Andy Warhol and the elusive street artist Banksy. Their method involved presenting these forgeries as authentic pieces, often supported by fabricated provenance—a history of ownership—and forged authentication certificates. The high demand and value of original works by artists like Warhol and Banksy created an environment ripe for such deception. Despite the art world's vigilance, many buyers were duped. Eventually, law enforcement intervened, and the duo was formally charged with multiple counts of fraud, sending a clear message about the need for rigorous authentication in art transactions.",
+      "advanced": "The New York art market was recently shaken by the exposure of an elaborate scheme involving a father-daughter duo, Geralds Jr. and Kristine, who masterminded the sale of numerous counterfeit artworks. These forgeries, deceptively attributed to iconic figures like Andy Warhol and Banksy, successfully bypassed the scrutiny of seasoned art collectors and established galleries. Their modus operandi reportedly included fabricating detailed provenances and producing falsified authentication documents to lend an air of legitimacy to their illicit trade. The immense market value and scarcity of genuine pieces by these artists created a fertile ground for the fraud, exploiting both the fervent demand and the inherent challenges in authenticating certain modern and street art. The extensive nature of their operation yielded substantial illicit profits before law enforcement agencies, as reported by AP News, intervened. The pair now faces significant fraud charges, underscoring the critical importance of due diligence and robust authentication processes within the high-stakes art industry to safeguard against such sophisticated deceptions."
+    },
+    "vocabulary": [
+      {
+        "word": "Duped",
+        "zh": "欺騙、蒙騙。意思是用不誠實的手段，讓別人相信某件事是真的，結果把別人給騙了。"
+      },
+      {
+        "word": "Authentic",
+        "zh": "真實的、貨真價實的。用來形容藝術品時，就是指這件作品真的是原作者創作的，而不是假的複製品或仿冒品。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-04-29",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemtNVUhWNE9ZdnpQMnp4MkFmZnp4V003YUQ1RlNQaTFlZnFwN2t5OV9NT2IycnNIZkptaUhxaW0wNkFjYVp6dzlGZDNfZGxTRmc5aVZWYkFHSTYtT3ljLW9qYWhWQTAwQjFsX1c5bHNYNHQtTHB2XzR1V19TT2xwcWEtZzMwMTM4WG53X3F6RldIcjdsTGJpa2pXSUd6WEhzUWM1cVo3OA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "科技巨頭的AI投資大考驗：股票價格坐上雲霄飛車？",
+    "zhSummary": "最近，美國的大型科技公司股票市場出現劇烈波動，原因是投資者們正在嚴格審視這些公司在人工智慧（AI）領域的巨額花費，評估其是否值得以及未來能否帶來回報。",
+    "zhContent": "<p>最近，美國那些超大的科技公司，像是你們每天可能都會用到的軟體或手機背後的巨頭們，他們的股票價格就像坐雲霄飛車一樣，上上下下起伏很大。為什麼會這樣呢？原來是投資這些公司的「大人們」，也就是所謂的投資者，他們正在很仔細地研究這些科技公司到底在人工智慧（AI）上面花了多少錢，以及錢花得值不值得。</p><p>人工智慧在最近真是熱門話題，大家都在說AI未來會改變世界。這些大科技公司當然也知道，所以他們都投入了超多的錢去研發AI技術，像是買超級電腦晶片、請最頂尖的工程師等等。但是，投資者們開始有點擔心了。他們想知道，這些公司投入這麼大的成本，未來真的能賺錢回來嗎？還是說，只是跟風，把錢花在看不到回報的地方？</p><p>畢竟，AI雖然聽起來很厲害，但研發過程非常燒錢，而且也不是所有AI計畫都會成功。有些投資者覺得，AI會是下一個金礦，所以他們很樂意支持這些公司大膽投資；但也有另一派投資者比較謹慎，他們擔心公司會因為急著投入AI而忽略了原本的業務，或是花了太多錢卻沒看到實際效益。這種不同的看法，讓市場對這些公司的價值判斷很不一樣。</p><p>所以說，現在的情況就是，這些科技巨頭的股票表現很不穩定。投資者們都睜大眼睛，等著看這些公司未來會怎麼說明他們的AI策略，以及實際的成果。只要有新的消息出來，他們的股票價格可能又會再波動一次。這場關於AI投資的「大考驗」，還在持續進行中呢。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼投資人會擔心科技公司在AI上的花費？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Tech Giants' AI Spending Under Scrutiny, Causing Stock Swings",
+    "enContent": {
+      "basic": "Big US tech companies' stocks are going up and down a lot. This is because people who invest in these companies are looking very closely at how much money they are spending on Artificial Intelligence (AI). Investors want to know if these big AI investments will really help the companies make more money in the future or if it's just too much spending.",
+      "intermediate": "The stock prices of major US technology firms have been volatile recently. This fluctuation is driven by investors' intense scrutiny of the substantial capital expenditures these companies are allocating towards Artificial Intelligence. There's a debate among investors regarding whether these significant AI investments will yield profitable returns or simply lead to excessive spending without clear benefits.",
+      "advanced": "Significant US technology stocks are experiencing considerable volatility as investors meticulously probe the extensive expenditures by these corporations in Artificial Intelligence. This heightened examination stems from concerns regarding the long-term profitability and strategic efficacy of such substantial AI investments, with market participants divided on whether these outlays represent a prudent future-proofing strategy or a potentially unsustainable overcommitment to emerging technologies."
+    },
+    "vocabulary": [
+      {
+        "word": "stock",
+        "zh": "股票：一種證明你擁有某家公司一部分的憑證。如果你買了股票，就等於是這家公司的小股東，公司的表現好壞會影響你手上股票的價值。"
+      },
+      {
+        "word": "investor",
+        "zh": "投資者：把錢投入到公司、房地產或其他項目，希望能從中賺取更多錢的人。他們會仔細研究，判斷什麼值得花錢，什麼可能有風險。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-04-29",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80S2pwaUZHNFhLVzRtZDcwM3ZiT00yUFQ2cUF1NHdGTjE0S05aNW1OYllfdC1PNy1HQUxfbFhXMEFYeGN1eEM0WUFQbkdGZm1jSjJUbDNXbndHQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "你喜歡的電影壞蛋，竟然能洩漏你的「大腦秘密」？",
+    "zhSummary": "一項來自《BBC科學焦點雜誌》的報導指出，你最喜歡的電影反派角色，其實可能揭示了你大腦的一些獨特運作模式和個人特質。這項研究觀察了人們為何會被特定類型的反派吸引，並從中找出了一些有趣的大腦連結。",
+    "zhContent": "<p>嘿，電影迷們注意了！大家看電影時，除了帥氣的主角，是不是也常常對那些超有魅力的反派角色印象深刻呢？最近《BBC科學焦點雜誌》上的一篇文章就超級酷，它告訴我們，你心中那個最喜歡的電影壞蛋，竟然能透露一些關於你大腦的秘密！沒錯，聽起來是不是有點像電影情節？但這可不是編的，這是科學家們觀察到的現象。</p><p>根據這篇報導的探討，研究人員發現，人們對不同類型反派的偏好，其實與大腦處理資訊的方式，以及一些隱藏的個性特質有關。舉例來說，如果你特別喜歡那種聰明、有策略的反派，這可能表示你的大腦對於複雜的思考模式和解謎很有興趣。而如果你的偶像反派是那種比較瘋狂、無法預測的類型，則可能代表你的大腦喜歡刺激、對新奇的事物充滿好奇。這項觀察試圖從我們對虛構角色的喜好中，反推我們潛意識裡的一些傾向。</p><p>研究進一步指出，這並不是說喜歡反派就代表你也是個壞人，而是我們的腦袋在面對這些角色時，會去解讀和欣賞他們身上展現的某些特質。例如，一些反派的堅韌、智慧、或是為了目標不惜一切的決心，這些特質本身在某些情境下也能被視為一種能力或魅力。大腦會去分析這些複雜的行為動機，而不是單純地貼上「好」或「壞」的標籤。這就像是一種心理遊戲，看看我們被哪些層面的「壞」所吸引。</p><p>總之，這項來自國外媒體的報導揭示了一個非常有趣的現象：你對電影反派的選擇，或許無形中反映了你大腦對特定訊息的偏好，以及你潛意識裡的一些個性傾向。這就像是從你挑選的遊戲角色中，看見了一點點自己的影子，超級有意思的！下次看電影時，不妨想想看你最喜歡哪個反派，說不定就能更了解自己一點點囉。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，「喜歡聰明、有策略的反派」可能表示什麼？「喜歡瘋狂、無法預測的反派」又可能表示什麼？",
+      "生活與未來：你覺得這個研究結果會對電影製作人或遊戲設計師造成什麼實際影響？他們會不會因此改變角色的設定？",
+      "獨立思考提案：如果研究單位要繼續深入探討，你覺得他們還可以觀察哪些「對虛構角色的偏好」，來進一步了解人們的大腦或個性？"
+    ],
+    "enTitle": "What Your Favorite Movie Villain Reveals About Your Brain",
+    "enContent": {
+      "basic": "Did you know that who your favorite movie villain is might say something about your brain? A story from BBC Science Focus Magazine looked into this cool idea. Scientists found that liking certain bad guys could show how your brain works and what you like. For example, if you like smart villains, your brain might enjoy solving puzzles. If you like wild villains, your brain might like new things. This doesn't mean you're bad, but your brain finds certain qualities interesting. It's like your favorite character showing a little bit about you!",
+      "intermediate": "According to a fascinating report from BBC Science Focus Magazine, your preference for a particular movie villain might actually offer insights into the unique workings of your brain and certain personal traits. The research explored why individuals are drawn to specific types of antagonists, identifying interesting connections between these preferences and brain activity. For instance, a fondness for cunning, strategic villains could suggest a brain that enjoys complex problem-solving. Conversely, an attraction to unpredictable, chaotic villains might indicate a brain that thrives on excitement and novelty. The study emphasizes that this isn't about judging character, but rather understanding which specific traits—like resilience or determination—even in a villainous context, our brains find compelling or intriguing.",
+      "advanced": "The BBC Science Focus Magazine has published a compelling article exploring the unexpected correlation between an individual's preferred cinematic antagonist and underlying neurological or psychological predispositions. This research posits that an affinity for specific archetypes of movie villains can reveal nuances in cognitive processing and latent personality traits. For example, a predilection for Machiavellian or strategically adept villains may indicate a brain highly attuned to complex problem-solving and analytical thinking. In contrast, an attraction to chaotic or unpredictably malicious characters might suggest a neural preference for novelty and high-stimulation environments. The study clarifies that these preferences are not indicative of malevolent intent, but rather reflect the brain's engagement with and appreciation for specific attributes—such as cunning, resilience, or unwavering resolve—even when manifested in morally ambiguous contexts. This fascinating inquiry provides a unique lens through which to examine subconscious inclinations via fictional character engagement."
+    },
+    "vocabulary": [
+      {
+        "word": "Villain",
+        "zh": "反派角色：在電影、故事或遊戲裡，做壞事、跟主角對立的人。他們通常很有魅力，但目的不太好。"
+      },
+      {
+        "word": "Trait",
+        "zh": "特質：一個人的特別個性或行為模式，像是「聰明」、「勇敢」或是「喜歡冒險」等等。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-04-29",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zdEpWUkw1T1REamVxd1NaWFVaSk1zYkhUMDJqZkhFcmViWjJvbGxMUkkzWm5oUjNlRVY3RV9ZRTdtZUh2d2VFb2VYaWtmOTZRNVBxajVvQVc5ZEhUQURPZEt2ZWk2dVhjX05QV0JR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國選區劃分之戰：最高法院裁決如何影響非裔政治力量？",
+    "zhSummary": "美國最高法院最近關於選區劃分的裁決，正讓外界關注這如何影響某些族群的政治影響力。新聞指出，這些決定可能使某些政黨更容易「邊緣化」非裔美國人的政治發言權。這篇文章將解釋選區劃分的重要性與最高法院的角色。",
+    "zhContent": "<p>你或許覺得投票很簡單，想選誰就投誰。但其實，在美國，最高法院的某些裁決，卻能大大影響你手上這張選票的力量。最近一則新聞指出，美國最高法院關於「選區劃分」的決定，可能讓某些政黨，像是共和黨，更容易「邊緣化」非裔美國人的政治影響力。這是怎麼一回事呢？</p><p>首先，什麼是「選區劃分」？想像一下，每個地方的民意代表，都是由特定區域的選民選出來的，這個區域就是「選區」。每隔幾年，國家會依據人口變化重新劃分這些選區。問題就出在這裡：政黨在規劃選區時，有時會運用一些「心機」，這就是「不公平劃分選區」（gerrymandering）。例如，他們可能把某族群的選票刻意分散到好幾個選區，讓他們難以選出代表；或者反之，將他們全部集中到一個選區，削弱他們在其他選區的影響力。這些做法都會稀釋特定族群的投票力量。</p><p>那麼，最高法院扮演什麼角色？當各州畫出新選區地圖後，如果有人覺得地圖不公平或帶有歧視，違反了保護少數族群投票權的規定，他們就能將案件告上法院，最終打到最高法院。法官們會審查這些地圖是否合法。支持者會說劃分公平，但批評者則認為這些是精心設計，旨在削弱特定族群政治力量的。因此，最高法院的每個決定，都直接影響非裔美國人等少數族群，在選舉中能否真正選出代表心聲的民意代表。</p><p>綜合來看，最高法院對於選區劃分的裁決，對美國非裔政治力量有著深遠影響。儘管有時法院會要求修正不公平的地圖，但整體而言，這些裁決以及其他相關規定，仍讓特定政黨可能透過選區調整或其他投票規則，來限制或「邊緣化」非裔族群的政治發言權。這場關於投票公平的法律戰，持續影響著美國民主的進程。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國最高法院的裁決主要影響了什麼？「選區劃分」和「不公平劃分選區」又是什麼意思？",
+      "生活與未來：你覺得選區劃分的方式，會對一個群體（例如學校社團、班級組織）選出代表或隊長產生什麼實際影響？",
+      "獨立思考提案：針對新聞中提到的問題，如果你是負責劃分選區的人，你會怎麼做才能確保選區劃分盡可能地公平？"
+    ],
+    "enTitle": "US Supreme Court Rulings and the Marginalization of Black Political Power",
+    "enContent": {
+      "basic": "In the U.S., a big court called the Supreme Court makes decisions that can change how much power people have when they vote. Recently, some rulings about how voting areas (called districts) are drawn have caused worry. People are concerned that these decisions might make it easier for some political groups, like Republicans, to make Black voters' political power smaller. This means it could be harder for Black communities to choose their own leaders. When districts are drawn unfairly, it's called 'gerrymandering'. It can spread out a group's votes so they don't count as much, or pack them into one small area. The Supreme Court's job is to check if these voting maps are fair. Its decisions really affect how fair elections are for everyone.",
+      "intermediate": "In the United States, Supreme Court rulings on electoral maps significantly impact the political influence of various communities. A recent news report highlights concerns that certain Supreme Court decisions regarding 'redistricting' – the process of redrawing voting district boundaries – could enable political parties, such as Republicans, to 'marginalize' the political power of Black Americans. This involves a practice called 'gerrymandering,' where district lines are manipulated. For example, a party might draw lines to dilute the votes of a specific demographic group by spreading them across many districts, making it harder for them to elect their preferred candidates. Alternatively, they might concentrate these voters into a single district, limiting their overall representation. The Supreme Court is the final arbiter when these maps are challenged, often under the Voting Rights Act. Its judgments are crucial in determining the fairness of elections and the effectiveness of minority voting power.",
+      "advanced": "The landscape of political power in the United States is deeply shaped by Supreme Court decisions, particularly those concerning electoral redistricting. A Guardian report, citing recent Supreme Court rulings, suggests that these decisions could empower Republican efforts to 'marginalize' Black political influence. At the heart of this issue is 'gerrymandering,' the strategic manipulation of electoral district boundaries to favor one party or group over another. This can manifest as 'cracking,' where a group's voters are dispersed across multiple districts to dilute their collective power, or 'packing,' where they are concentrated into a few districts to minimize their impact elsewhere. Such practices weaken the ability of specific communities, like Black Americans, to elect representatives reflective of their interests. The Supreme Court plays a pivotal role in reviewing these challenges, often adjudicating cases under Section 2 of the Voting Rights Act, which prohibits racial discrimination in voting. While the Court has sometimes intervened to mandate fairer maps, as seen in the *Allen v. Milligan* case concerning Alabama, broader concerns persist that the overall judicial trend and other electoral mechanisms continue to pose a risk to the political enfranchisement of Black communities. The outcomes of these legal battles are thus central to the ongoing discourse on democratic fairness and equitable representation in the U.S."
+    },
+    "vocabulary": [
+      {
+        "word": "marginalize",
+        "zh": "邊緣化：讓某些人或群體覺得不重要，或讓他們沒有什麼影響力，常常會導致他們的聲音不被聽見。"
+      },
+      {
+        "word": "redistricting",
+        "zh": "選區劃分：國家或地方為了選舉，重新規劃選民居住的地理範圍。這個過程會決定哪些選民屬於哪個選區，進而影響選舉結果。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-04-29",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVJNVUtKdU1XVGdReGo5Z3ZORF9kQjNRYWZ5c3Y2b09DNzFSTGViYnVueFFhVnAzU1RBbkxmenczckxJbHpwa19yUklmOWk1V2VQM2hHUkp6U2MwMklsYzFkeWczbFZ5T0pQdkJfS29ZNVNYZXZ0T1JMaXAyLUU3V3FkUDBoRFRxa1hBb2Rn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "蝙蝠會是下一隻「禽流感黑馬」嗎？科學家正在密切觀察！",
+    "zhSummary": "一則外媒報導指出，科學家們正在密切關注蝙蝠，因為牠們可能成為像禽流感病毒一樣的「病毒黑馬」。目前研究團隊正加緊腳步，希望能了解蝙蝠在病毒傳播中潛在的角色，以便及早預防未來可能的疫情。",
+    "zhContent": "<p>嘿，各位青少年讀者們，大家對禽流感這個詞應該不陌生吧？我們通常會想到鳥類是主要的傳播者。不過，最近國外媒體報導了一項科學家們正在密切關注的現象：蝙蝠，這種會在空中飛行的哺乳動物，可能成為未來病毒傳播中意想不到的「黑馬」，就像禽流感一樣，帶給我們新的挑戰。</p><p>一直以來，許多科學研究都集中在鳥類身上，特別是那些會長途遷徙的候鳥，牠們被認為可能把病毒從一個地方帶到另一個地方。然而，科學家們現在開始把更多注意力轉向蝙蝠。你知道嗎？蝙蝠不但會飛，而且許多種類喜歡群體生活在洞穴或樹林裡，牠們的這些特性，讓研究人員不禁思考，牠們會不會也可能成為某些病毒擴散的潛在管道呢？</p><p>研究人員會這樣想，其實是有原因的。蝙蝠本身就是許多病毒的「宿主」，意思是牠們身體裡可能攜帶著各種病毒，但奇怪的是，牠們自己通常並不會因此而生病。這種獨特的生理機制，讓蝙蝠成為研究病毒如何演變、如何與宿主共存的重要對象。雖然目前還沒有直接的證據指出蝙蝠已經大規模地將「類禽流感」病毒傳播給人類，但牠們的生物特性讓科學家們不得不提高警覺。</p><p>因此，世界各地的研究團隊目前正加緊腳步，積極地監測蝙蝠體內攜帶的病毒種類及其變化。他們的目標是透過更深入的研究，更好地了解這些小動物在生態系統中的角色，以及牠們對人類健康的潛在影響。這項工作還在持續進行中，希望能在未來幫助我們提早預防，面對可能來自大自然的任何新挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼科學家們會特別關注蝙蝠在病毒傳播中可能扮演的角色？牠們有什麼特別的習性或生理構造？",
+      "生活與未來：你覺得如果蝙蝠真的成為重要的病毒傳播者，會對我們的生活造成哪些實際的影響？例如，對農牧業、環境保護或旅遊業會有哪些改變？",
+      "獨立思考提案：針對這類科學家正在觀察的潛在風險，你覺得政府或相關單位還可以怎麼做，才能更好地保護大眾健康，同時又不影響動物生態？"
+    ],
+    "enTitle": "Bats Could Be the Next Bird Flu Wild Card, Scientists Are Watching Closely",
+    "enContent": {
+      "basic": "Scientists are looking at bats as a possible new source for flu-like viruses, similar to how birds carry bird flu. Bats can carry many viruses without getting sick themselves. This makes them interesting for scientists who want to understand how viruses spread. Teams around the world are watching bats closely to learn more and prepare for future health challenges.",
+      "intermediate": "The headline 'Bats might be the next bird flu wild card' suggests that scientists are now considering bats as a potential key player in future virus transmission, akin to the role birds play with avian influenza. Bats, being flying mammals that often live in large colonies, possess characteristics that could facilitate the spread of pathogens. Researchers are particularly interested because bats can host a variety of viruses without showing symptoms, making them a unique subject for studying viral evolution. While there's no widespread human transmission from bats currently, their biological traits warrant close monitoring by scientific teams globally.",
+      "advanced": "Drawing from the headline, 'Bats might be the next bird flu wild card - TAPinto,' the focus is on the emerging scientific concern regarding bats as potential reservoirs for novel viruses with pandemic potential, mirroring the epidemiology of avian influenza. Scientists are shifting their surveillance efforts to chiropteran species due to their unique biological attributes, including flight capability and colonial roosting behaviors, which could serve as efficient vectors for viral dissemination. A critical aspect under investigation is bats' remarkable capacity to harbor diverse viral pathogens asymptomatically, offering insights into host-pathogen interactions and viral spillover events. Global research initiatives are intensifying to monitor bat populations and their viromes, aiming to proactively understand and mitigate future zoonotic threats. The 'wild card' designation underscores the unpredictable and significant role bats could play in future public health scenarios."
+    },
+    "vocabulary": [
+      {
+        "word": "Wild card",
+        "zh": "黑馬；變數。意指像撲克牌裡的「鬼牌」一樣，是一個難以預測、可能帶來重大影響的變數或角色。在這裡指的是蝙蝠未來在傳播病毒上可能扮演的意外角色。"
+      },
+      {
+        "word": "Monitor",
+        "zh": "監測、密切觀察。就像醫生會監測病人的心跳、體溫，科學家們也會仔細觀察動物或環境的變化，以確保及時發現任何潛在的問題。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-04-29",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTZlLWQwemduUzZISVItWGZOSXh6eng2X2ZoVUlKbUpOcGd4U2wyQXJBQm9aQjJycy1KUmd3WTBNVHRnN3pIQm52dUZUV3dkUXlUbkNHLUJ2dzhjS0tYNE1RcVdPdVRpOVFDMFB0Z2kwYkdaNlZFOE9QQjVUUzQtN1FNdTdqSzdXd25xVG94bDVIQzJRZWVQaFItc1U0UlRhZk5zcFVTUG1PVF9BZmxZenBtWVVhcGZGWTlmTG9TZnd4WFVUMmpiR3B3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "德國國防部長透露：支援烏克蘭，德國也從中學到不少！",
+    "zhSummary": "德國國防部長波瑞斯·皮斯托瑞斯最近表示，德國在支援烏克蘭的過程中，其實也從中獲得了寶貴的學習經驗和好處。這項合作讓德國軍隊有機會檢視自家裝備的實戰表現，並學習新的戰術。",
+    "zhContent": "<p>最近，德國國防部長波瑞斯·皮斯托瑞斯向媒體透露了一個有趣的觀點。他指出，德國在過去一段時間支援烏克蘭的行動中，不僅僅是單方面提供幫助，德國自己也從這段合作關係中獲得了許多好處。這番話讓大家更深入了解，原來國際間的援助與合作，往往是雙向學習的過程。</p><p>皮斯托瑞斯部長進一步解釋說，對德國來說，支援烏克蘭提供軍事裝備和訓練，就像一個大型的「實戰教室」。德國製造的坦克、防空系統等武器，在烏克蘭戰場上實際運用時，他們可以觀察這些裝備在真正衝突中的表現如何。同時，烏克蘭軍隊在實戰中發展出的許多新戰術和應變能力，也成為德國軍方寶貴的學習機會，讓他們能夠從第一線的經驗中改進自身的訓練和策略。</p><p>這名部長強調，這種合作對於德國軍隊的現代化和未來發展來說非常重要。他說：「我們的士兵每天都在學習新的東西，這包括我們的武器系統在激烈戰鬥中如何運作，以及烏克蘭軍隊展現出的驚人創新能力。」他認為，這些實戰經驗遠比任何軍事演習都來得真實且深刻，有助於德國軍隊更快地適應現代戰爭的挑戰。</p><p>總體而言，德國對烏克蘭的軍事援助將持續進行。德國國防部長的這番言論，不僅凸顯了兩國之間合作的重要性，也讓我們看見，即使是在嚴峻的國際情勢下，國家之間的互助與學習仍然持續不斷。這次經驗將成為德國軍事發展的重要參考，讓他們能夠為未來做好更充分的準備。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，德國國防部長認為德國從支援烏克蘭中獲得了哪些具體的好處？",
+      "生活與未來：你覺得這種「在幫助別人的同時自己也能學到東西」的經驗，在你的日常生活中有沒有出現過？會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對國家間的軍事合作，你覺得除了交換經驗，還有哪些是重要且可以互相學習的方面？"
+    ],
+    "enTitle": "German Defense Minister: Germany Benefits from Working with Ukraine",
+    "enContent": {
+      "basic": "Germany's Defense Minister, Boris Pistorius, recently shared that Germany has gained a lot from helping Ukraine. He explained that by sending military gear and training, Germany gets to see how its weapons perform in real fights. German soldiers also learn new war tactics from Ukraine. This helps Germany improve its army and learn from actual combat situations, which is better than just practice. Germany will keep supporting Ukraine, and this teamwork is important for both countries.",
+      "intermediate": "German Defense Minister Boris Pistorius stated that Germany is significantly benefiting from its cooperation with Ukraine. He highlighted that providing military equipment and training to Ukraine offers Germany a unique 'real-world classroom.' This allows German forces to observe how their weapons, such as tanks and air defense systems, perform under actual combat conditions. Additionally, the innovative tactics developed by Ukrainian forces in the field provide invaluable learning opportunities for the German military, helping them refine their own strategies and training programs. This ongoing collaboration is seen as crucial for Germany's military modernization and readiness, ensuring they are better prepared for future challenges.",
+      "advanced": "German Defense Minister Boris Pistorius recently articulated that Germany derives substantial benefits from its collaborative efforts with Ukraine. He elaborated that the provision of military equipment and comprehensive training to Ukrainian forces serves as an unparalleled 'real-world laboratory' for the Bundeswehr. This direct engagement enables critical assessment of German-manufactured defense systems, including tanks and advanced air defense, under genuine combat scenarios. Furthermore, the innovative tactical adaptations and operational resilience demonstrated by Ukrainian military personnel on the front lines offer invaluable insights and practical learning experiences for German strategists and troops. Pistorius underscored the importance of these practical insights for Germany's ongoing military modernization and future operational readiness, asserting that such combat-derived knowledge surpasses the utility of conventional exercises. This mutually beneficial cooperation underscores Germany's commitment to continued support for Ukraine, simultaneously enhancing its own defense capabilities."
+    },
+    "vocabulary": [
+      {
+        "word": "Defense Minister",
+        "zh": "國防部長：這是一個國家負責軍事事務、管理軍隊的最高級官員。他或她負責國家安全和軍事政策的制定與執行，確保國家的防禦能力。"
+      },
+      {
+        "word": "Cooperation",
+        "zh": "合作：指的是兩個人、兩個團體或兩個國家為了達成共同的目標，一起努力、互相幫助的行為。就像同學分組報告，大家一起分工完成任務一樣。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-04-29",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHFEd1hyaldvNDBSbDdwUWQ3d2VHR3hLWGtub2ljRnZIQU5meC1GUWl6R0tTWU5ROG1vWERCbDJ5ZHU4S0Qyb1NEckRqd21qR1FfbTU2Tjhla0htNmNmME81ajVqNDVmYzR3aEZNZk9HQU1ObWphVjVqSURuS252UGZjQUFHSHdUd2pGeEFWRVrSAZABQVVfeXFMTk5IWHI5anlZMkFjNzNINjdsZE1NdGtqX3BqbEU2TjRQbVZOSndCWUJGbXJCWTVwZlp0cWxPNnVTU3pVbE5GdXpYR0lkZEF6T3VpMWhuRGFlZFZpaTlJRVIzNzRwWk83QnY2Wjl1QW5DR0FSWlpnWlFuNDg4ZU4xMGdvQzRoSDFqaHM4aVl5UjdZ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "比劃玩具槍惹麻煩？穆加貝之子在南非遭罰款並驅逐出境",
+    "zhSummary": "辛巴威前總統穆加貝的兒子小羅伯特·穆加貝，在南非因為把玩玩具槍的行為，被當地政府處以罰款，並被下令驅逐出境。",
+    "zhContent": "<p>羅伯特·穆加貝的兒子，小羅伯特·穆加貝，最近在南非遇到麻煩了。他因為「比劃」了一把玩具槍，結果不僅被罰款，還被要求離開南非，也就是要被「驅逐出境」。這消息一傳出來，就引起不少人的關注。</p><p>這件事發生在南非的約翰尼斯堡。據報導，小羅伯特·穆加貝當時手上拿著一把玩具槍。在某些情況下，他做出了指向他人的動作。雖然只是一把玩具槍，但這樣的行為在公共場所可能引起恐慌或誤會，因為從外觀上，玩具槍有時很難與真槍區分。南非對於槍械相關的法律規定相當嚴格，即使是看起來像武器的物品，也可能被視為一種威脅。</p><p>根據南非當局的說法，小羅伯特·穆加貝的行為違反了當地的法律。由於他並非南非公民，這樣的違規行為，加上可能涉及的公共安全疑慮，讓他的居留權受到了質疑。因此，除了支付罰款外，南非政府也決定將他驅逐出境。這項決定顯示了南非對於任何可能擾亂公共秩序或構成潛在威脅行為的零容忍態度，無論當事人背景如何。</p><p>最終，小羅伯特·穆加貝必須支付一筆罰款，並被要求在指定時間內離開南非。這表示他在一段時間內將不能再進入南非。整個事件的處理結果，清楚地表明了南非執法部門對此類事件的嚴肅態度。對於這次的判決，他並沒有提出上訴的相關報導，所以這項驅逐出境的裁決已經正式生效。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Mugabe's Son Fined and Deported from South Africa for Toy Gun Incident",
+    "enContent": {
+      "basic": "Robert Mugabe Jr., son of the former Zimbabwean president, got into trouble in South Africa. He was fined and ordered to leave the country because he pointed a toy gun. Even a toy gun can cause problems if people think it's real and feel threatened.",
+      "intermediate": "Robert Mugabe Jr. was recently fined and is set to be deported from South Africa after an incident where he pointed a toy gun. Authorities considered his action a public safety concern. As he is not a South African citizen, this violation led to his removal from the country, highlighting strict local laws regarding simulated weapons and public order.",
+      "advanced": "Robert Mugabe Jr., son of Zimbabwe's late former president, has faced legal repercussions in South Africa, receiving a fine and a deportation order for pointing a toy gun. This incident underscores South Africa's stringent enforcement of public safety regulations, where even a toy, if perceived as a real threat, can lead to serious legal and immigration consequences for non-citizens."
+    },
+    "vocabulary": [
+      {
+        "word": "deportation",
+        "zh": "驅逐出境 - 指的是一個國家將不是本國公民的人，強制送回他自己國家的行為。"
+      },
+      {
+        "word": "fine",
+        "zh": "罰款 - 指的是因為違反法律或規定，被要求支付給政府的一筆錢。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-04-29",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmZRM0R4ZG9fa3JWa3Q1Y3VXN1JMV004TkpJZ2MzMzlwNldua3llak4tRmxOdnU0WVFYWEUtR2JZb1FmWl9GOTgyc2o2ZGxsMWhfd0Y3VWVNR2FRQkpyTGJEc1U0Vk1nazJpYmFyTFAyX1FwbXB2NkZnbzV4WEhSdHlITUIzS1Z1Sjc4WDduM2s0bGNIZDNScjJGRkY1b2ctVVFRcm9yRVk5ZUg3THZRWnJRRQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "巴基斯坦的兩難：當美國和伊朗中間人，是利是弊？",
+    "zhSummary": "巴基斯坦正在試圖調解美國與伊朗之間長期的緊張關係。這項艱鉅的任務對巴基斯坦來說，可能帶來國際地位提升等好處，但也潛藏著得罪兩邊或牽連國內事務的風險。",
+    "zhContent": "<p>最近國際上有一件值得關注的事情：巴基斯坦這個國家，正在試圖扮演一個「中間人」的角色，希望可以幫忙調解美國和伊朗之間的緊張關係。這兩個國家長期以來都不太合，而巴基斯坦的介入，讓它自己也站在一個非常特別的位置上。</p><p>美國和伊朗之間的關係一直都很複雜，涉及核子協議、經濟制裁和地區影響力等許多問題。巴基斯坦的總理曾經訪問美國和伊朗，會見了兩國的領導人，希望能替雙方建立起溝通的橋樑，鼓勵他們重新對話。巴基斯坦認為，如果美國和伊朗之間的衝突能緩和下來，對整個區域的和平與穩定都會有很大的幫助。</p><p>當中間人對巴基斯坦來說，當然有利也有弊。好處是，它有可能提升自己在國際上的地位，展現它願意為區域和平努力的決心。這也可能幫助巴基斯坦在美國和伊朗之間維持平衡的關係，對其經濟發展和國家安全都有潛在的好處。然而，風險也顯而易見。如果調解不成功，巴基斯坦可能會讓其中一方感到不滿，甚至同時得罪兩邊，讓自己陷入困難的局面。此外，國際上的複雜問題也可能因此牽連到巴基斯坦國內。</p><p>目前為止，巴基斯坦的這項調解工作仍在進行中。美國和伊朗的關係雖然依舊緊繃，但巴基斯坦的努力至少讓國際社會看到了緩和緊張的希望。這場外交斡旋需要非常多的時間和耐心，才能知道最終的結果會是如何。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，巴基斯坦為什麼要當美國和伊朗的調解者？它可能獲得什麼好處，又會面臨哪些風險？",
+      "生活與未來：你覺得一個國家在國際上扮演「中間人」的角色，對它自己的人民和國家發展會有什麼實際影響？",
+      "獨立思考提案：如果巴基斯坦在調解過程中遇到困難，你認為它還可以怎麼做來嘗試達成目標？"
+    ],
+    "enTitle": "Pakistan's Balancing Act: Mediator Between US and Iran",
+    "enContent": {
+      "basic": "Pakistan is trying to help the United States and Iran talk to each other. These two countries have many problems. Pakistan's leader visited both countries to try and make peace. Being a helper has good parts and bad parts for Pakistan. It might make Pakistan more important, but it could also make one side unhappy. This peace effort is still happening, and it's a difficult job.",
+      "intermediate": "Pakistan has taken on the role of a mediator between the United States and Iran, two nations with a history of strained relations. Pakistan's Prime Minister has engaged with leaders from both countries, aiming to bridge communication gaps and encourage dialogue on issues like nuclear agreements and economic sanctions. While this initiative could enhance Pakistan's international standing and foster stronger ties, it also carries risks, such as alienating either party or entangling Pakistan in complex regional disputes. The mediation efforts are ongoing, with no immediate resolution yet, highlighting the challenge of this diplomatic task.",
+      "advanced": "In a significant diplomatic maneuver, Pakistan has positioned itself as a key mediator in the protracted tensions between the United States and Iran. This initiative, spearheaded by Pakistan's leadership through high-level visits to both Washington and Tehran, aims to facilitate renewed dialogue and de-escalate regional frictions stemming from disputes over nuclear programs, sanctions, and geopolitical influence. For Pakistan, assuming this intermediary role presents a double-edged sword. Potential benefits include bolstering its international prestige and securing balanced relationships with two global powers, offering strategic and economic advantages. Conversely, the inherent risks involve the possibility of alienating either the U.S. or Iran, thus compromising its own strategic interests, or inadvertently drawing Pakistan into the complexities of the broader regional power struggles. As of now, the intricate process of mediation continues, with the enduring strained relations between the U.S. and Iran underscoring the formidable challenge inherent in achieving a definitive breakthrough."
+    },
+    "vocabulary": [
+      {
+        "word": "Mediator",
+        "zh": "中間人、調解者。當兩個人或兩個國家有爭執時，有個人跳出來幫忙溝通、解決問題，這個人就是調解者。"
+      },
+      {
+        "word": "Tension",
+        "zh": "緊張關係。當兩個國家或兩個人之間氣氛很差，隨時可能吵架或發生衝突，我們就說他們之間有緊張關係。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-04-29",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2tlRzc2ZDVhMHN3R05NdHhOVjlIQ2Z1VWw5djBSaGVHT0pFemxEXzBWOW5aTDBiUFQwdWQ2VTJjMWw1NWcyMnRfU2RTWUtXZHZaUExJZm5udi1HTVBmZGlYaWJSTXlSRmFFRWh5MV9vQ1BYWE5Gc1NlNkFOSmVhOUhEVEJ1eHhkbnhUNGlVNW9tSmpRUElpd2RtMUdRYV8yYkk3eEZBM1pMblY2T3VnOTJuUV92X3phQjJNQ0JLTzR3YU0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI發威！台灣、南韓在全球股市排行榜上大躍進",
+    "zhSummary": "外媒報導指出，台灣和南韓因搭上人工智慧（AI）熱潮，在全球股票市場的排名中表現突出，吸引了大量投資，顯示其科技實力對經濟的正面影響。",
+    "zhContent": "<p>想像一下，全世界的股票市場就像一場全球的排行榜競賽。最近，台灣和南韓這兩個地方的表現超級亮眼，他們在排行榜上的名次突然衝高了好多！是什麼讓他們這麼厲害呢？答案是「人工智慧」，也就是我們常說的AI技術，它讓投資者對這些地方的公司充滿了信心。</p><p>當新聞說「爬升全球股權排名」，其實意思就是說，越來越多國際上的大公司或投資人，都看好台灣和南韓的企業。他們覺得這些公司的未來會很賺錢，所以願意投入更多的資金。特別是那些跟AI技術發展有關的公司，像是製造AI晶片、開發AI軟體，或是運用AI來改進產品的公司，他們的股價表現都特別突出，讓整個國家的股市都跟著旺起來。</p><p>為什麼台灣和南韓能在AI浪潮中脫穎而出呢？這可不是偶然。台灣在全球科技供應鏈中扮演著很重要的角色，尤其在製造高端晶片方面，幾乎沒有其他國家能比得上。這些晶片正是AI技術運作時最核心的「大腦」。而南韓則擁有很多世界級的大型科技集團，他們在智慧手機、家電、記憶體晶片以及各種創新科技上都有深厚基礎，也積極投入AI研發與應用。所以，當AI變成全球最熱門的話題時，這兩個地方的科技實力就成了他們最好的優勢。</p><p>因此，根據外國媒體的觀察，台灣和南韓的股市不僅僅是短期表現好，而是因為搭上了AI這班高速列車，讓他們在全球金融市場中的地位更加穩固。這表示他們在科技領域的領先，直接反映在了經濟成績上，讓他們在全球的股權「隊伍」裡，成功地往前躍進了好幾個名次。這就是AI時代帶給全球市場的一個重要新變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Taiwan, South Korea Climb Global Equity Ranks on AI Boom",
+    "enContent": {
+      "basic": "Taiwan and South Korea have seen their stock markets improve significantly on a global scale. This boost is mainly thanks to Artificial Intelligence (AI). Investors are putting more money into companies in these countries, especially those involved in making AI chips or developing AI technology. These two nations are strong in technology, with Taiwan leading in chip manufacturing and South Korea having major tech companies. This shows how important AI is becoming in the world's economy.",
+      "intermediate": "Taiwan and South Korea have significantly advanced in global equity rankings, primarily driven by the escalating interest and investment in Artificial Intelligence (AI). This means international investors are increasingly confident in their corporate sectors, particularly those specializing in AI-related hardware, software, and applications. Taiwan's dominance in high-end semiconductor manufacturing—critical for AI's computational needs—and South Korea's robust tech conglomerates and innovation in areas like smart devices, memory, and AI research, position them as key beneficiaries. This trend reflects how technological leadership directly translates into economic performance and shifts in global financial markets.",
+      "advanced": "The Taipei Times reports that Taiwan and South Korea have experienced a substantial ascent in global equity rankings, a phenomenon largely attributed to the burgeoning Artificial Intelligence sector. This upward trajectory signifies heightened investor confidence and capital inflow into their respective markets, particularly targeting enterprises integral to the AI value chain, such as semiconductor fabrication in Taiwan and advanced tech development in South Korea. The strategic positioning of these nations, with Taiwan's near-monopoly in cutting-edge chip production and South Korea's formidable tech industry, has enabled them to capitalize on the AI revolution. This market movement underscores the profound impact of technological innovation on national economic standing and global financial dynamics."
+    },
+    "vocabulary": [
+      {
+        "word": "Equity",
+        "zh": "股權：可以想像成你買了一家公司一小部分的「股份」或「所有權」。如果公司表現得好，你買的這些股份價值就會跟著上漲。"
+      },
+      {
+        "word": "Artificial Intelligence",
+        "zh": "人工智慧：就是讓電腦或機器變得像人類一樣聰明，可以自己學習、思考和解決問題的技術。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-04-29",
+    "sourceName": "Taipei Times",
+    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ycGdlcnlkOW1MTE1rSjB5RFJENzF1SkZuelFYaGZyOFJONVU0VnRhUG9MY2kwbTd4bkRmZ0FvZFluOE52OEdzNDJMdl9OMkhqdWFJSFV5UGg0OU5tN0MzcnhkbndlbzI4NTZBVzNKX2JrNkx6Rmc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞的國際關係新局面：中國積極示好，美國影響力減弱中",
+    "zhSummary": "報導指出，隨著美國在東南亞地區的影響力似乎減弱，中國正積極與該區國家建立更緊密的關係，尋求拓展合作與發展機會，使得東南亞的國際關係出現新的動態。",
+    "zhContent": "<p>最近國際上有一件大家都在注意的事情，那就是中國在東南亞地區好像變得越來越活躍了。根據外國媒體的觀察，在美國對這個區域的影響力似乎沒有以前那麼強的時候，中國正努力地跟東南亞的國家們建立更緊密的關係。簡單來說，就是中國想要在這一區扮演更重要的角色，而這也讓整個東南亞的國際關係出現了一些新的變化。</p><p>中國為了達到這個目標，通常會透過好幾種方式。比方說，他們會提出要投資興建新的港口、公路或鐵路等大型基礎建設，這些都是幫助當地國家發展經濟的重要項目。同時，中國也積極地和這些國家進行貿易往來，購買他們生產的商品，也賣給他們需要的東西。這樣一來，中國就希望這些東南亞國家能看到他們是個很好的合作夥伴，讓彼此的連結越來越深。</p><p>為什麼會出現這樣的狀況呢？有些分析認為，可能是因為美國近年來在全球有其他更需要處理的事情，所以在東南亞地區投入的精力相對變少了，這就給了中國一個機會。對東南亞的國家來說，他們最關心的當然是自己國家的發展和人民的生活。所以當中國提出各種經濟合作的機會時，很多國家都會很樂意地接受，因為這對他們來說，是很實際的好處。</p><p>目前看來，中國在東南亞地區的這些努力正在持續進行中，而東南亞的國家們也都在觀察和衡量，如何在這些大國之間取得平衡，來為自己爭取最大的利益。這個情況讓整個區域的未來發展充滿了可能性，國際關係也變得更加複雜有趣。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，中國是如何「積極示好」東南亞國家的？又有哪些跡象顯示美國的「影響力減弱」？",
+      "生活與未來：你覺得這個國際關係的改變，可能會對東南亞國家的年輕人或一般民眾帶來什麼實際的影響？",
+      "獨立思考提案：如果台灣是東南亞的一個國家，面對這樣的大國關係變化，你會建議我們的政府可以怎麼做來維護國家利益？"
+    ],
+    "enTitle": "China Seeks Southeast Asia Gains as US Influence Falters",
+    "enContent": {
+      "basic": "This news talks about how China is trying to become more important in Southeast Asian countries. It's happening because the United States seems to have less influence there now. China wants to be a big friend and helper for these countries, perhaps by offering to build roads or giving them money for projects. This is changing how countries in Southeast Asia relate to bigger world powers.",
+      "intermediate": "The headline suggests a significant shift in geopolitical dynamics in Southeast Asia. As the United States' presence and influence in the region reportedly wanes, China is actively pursuing opportunities to strengthen its ties. This includes increasing economic engagement, offering infrastructure development projects, and fostering diplomatic relationships, aiming to position itself as a key partner for regional growth and stability.",
+      "advanced": "The DW.com headline indicates a strategic realignment in Southeast Asia's international relations. China is capitalizing on a perceived decrease in U.S. influence to expand its own geopolitical and economic footprint. This involves robust initiatives like infrastructure investment, trade agreements, and diplomatic outreach. Such moves challenge the existing regional power balance, potentially compelling Southeast Asian nations to carefully navigate their relationships with both global powers to maximize national interests and maintain regional autonomy amidst evolving dynamics."
+    },
+    "vocabulary": [
+      {
+        "word": "influence",
+        "zh": "影響力 (當一個國家、人物或事物有能力去改變或引導其他國家、人物或事物的想法、行為或發展方向時，就說它擁有影響力。)"
+      },
+      {
+        "word": "falter",
+        "zh": "減弱/動搖 (指原本穩固、強大的力量、決心或支持，開始變得不那麼堅定、可靠或有效了。)"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-04-29",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckdCTFhrNnFKNERZZEtmbU5OeVdPeFI2eThzTERIZUZlRUFPT2VtR3VIc2hpSUhKVlBGYVZzekIxTnJIaC1aWklETllzd0ctS1A3MjBHZEZvazB6UkhoaGNpM0J1R05zaEltaTVWbEhNa0p1cnVfbmtVWWs4YXROZnJiNXhpSVNDZWd4T3ZzcHBfWlnSAZMBQVVfeXFMTWlLZVhmT21mXzJ6T0dyekJiQ1dqNzd5SFlTS1U5ekh6SlJVVHI3UVdxVzNhTlFDZGVCWC0tVS1xcmVuczIwZUNray1sQk9jRmphUzUxYU52dmFBbzNUQUE2YlhQeTBocGJWSFdyWFhZRmdoa1FWdUh3YW1YOG5sd2FoVXBOcDBCSVBhczlqZHZvQ2NZ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋毒品走私：孩子們面臨的隱藏危險",
+    "zhSummary": "一個非營利組織警告，太平洋地區日益嚴重的毒品走私活動，正讓當地孩子們面臨意想不到的健康風險，呼籲提高警覺。",
+    "zhContent": "<p>最近，一個名為「太平洋之聲」的非營利組織發出嚴重警告，指出太平洋島嶼地區的毒品走私問題越來越嚴重。這不只影響社會安全，甚至直接威脅到當地孩子們的健康與生命。這個警訊讓人們開始關注，當跨國毒品犯罪在這些美麗的島嶼間蔓延時，最無辜的下一代可能成為最大的受害者。</p><p>「太平洋之聲」特別提到，毒販利用太平洋作為毒品從南美洲運往澳洲、紐西蘭等地的中轉站。有時候，為了躲避追捕，毒販會直接將裝有毒品的包裹丟棄在海上。這些包裹可能漂流到偏遠海灘，孩子們在玩耍時，可能因為好奇而撿到這些外觀奇特的「東西」。由於不知道裡面是危險的毒品，他們可能會誤觸、誤食，甚至誤以為是糖果而分享給其他小朋友，導致中毒，嚴重時甚至會危及生命。</p><p>該組織的發言人說明，這種情況在過去幾年逐漸增多，許多當地社區對此缺乏足夠的認知。他們觀察到，有些地區的家長和老師，甚至不知道這些海灘上可能出現的包裹是毒品。該組織表示，他們已經開始向當地政府和社區提供相關資訊，並推廣教育計畫，希望大家能辨識這些危險物品，並教導孩子們不要隨意觸碰不明物體。</p><p>目前，這項警告已經引起了一些太平洋國家政府的關注，他們正加強海上巡邏，並與國際反毒組織合作，試圖截斷這條毒品走私鏈。同時，「太平洋之聲」也持續呼籲，除了政府的努力，當地居民，特別是沿海社區的家庭，都應該提高警覺，確保孩子們的安全，避免他們因毒品走私的間接影響而受到傷害。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pacific Drug Smuggling Puts Children at Risk, Warns Non-Profit",
+    "enContent": {
+      "basic": "A non-profit group has warned that drug smuggling in the Pacific islands is putting children in danger. Drug packages are sometimes thrown into the ocean and wash up on beaches. Kids might find these packages and get sick if they touch or eat what's inside. The group wants everyone to be careful and teach children not to pick up strange things.",
+      "intermediate": "The non-profit organization 'Voice of the Pacific' has issued a strong warning that increasing drug smuggling in the Pacific region is posing a serious risk to children. Drug traffickers often discard illegal packages at sea to avoid capture. These packages can then drift ashore onto remote beaches, where curious children might discover them. Unaware of the dangerous contents, children could accidentally touch or ingest these substances, leading to severe poisoning and potentially life-threatening situations. The organization is actively working to educate local communities and governments about this hidden danger.",
+      "advanced": "The 'Voice of the Pacific,' a non-profit entity, has sounded a critical alarm regarding the escalating problem of drug smuggling across the Pacific island nations. The organization underscores how this illicit trade, frequently utilizing the region as a transit corridor for narcotics en route from South America to larger markets, directly jeopardizes the safety and health of local children. Traffickers, under pressure, often jettison drug parcels into the ocean, which subsequently wash up on remote coastlines. Unknowing children, discovering these clandestine packages while playing, risk accidental exposure, ingestion, and subsequent severe poisoning, sometimes with fatal consequences. The 'Voice of the Pacific' is committed to raising awareness, implementing educational programs for communities, and advocating for enhanced vigilance among residents and increased cooperation from governmental bodies to mitigate these profound risks."
+    },
+    "vocabulary": [
+      {
+        "word": "smuggling",
+        "zh": "走私：偷偷摸摸地把不該運送的東西運到別的地方，通常是違法或沒有繳稅的行為。"
+      },
+      {
+        "word": "non-profit",
+        "zh": "非營利組織：一種不以賺錢為主要目的，而是為社會服務、幫助別人或推動特定理念的團體。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-04-29",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEhTOUhuTmxNUkl6bVdqbGNydTR6Y0tUZFRGdmwxV2RaRV9UQzA4Ti1fSGRIQXY1b0VxWU96Z19tODQzMmNmbnBCTE9CMWQ2dmNySWQ0NkFYa0RfUlRlSWdiVjY1ZGlRdGpkMjAxYjVFOUxCZ0QzN2xGVmxEcS0wanlsRmVMQzE4Z3V1N1dIc2xkcWxWeTJxWkVub29zSFJoRjlvdTZ3?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "美國大麻管制大轉彎：從「超級危險」到「有醫藥潛力」？",
     "zhSummary": "美國司法部最近提出一項重大建議，希望能將大麻的法律管制等級從最嚴格的第一級降到第三級。這項改變可能影響大麻的醫療用途、科學研究和相關產業，也代表政府對大麻看法的轉變。",
     "zhContent": "<p>美國政府即將對大麻的法律規定做出重大調整！最近，美國司法部正式提出一項建議，希望能將大麻這種植物的法律管制等級，從目前非常嚴格的第一級，降低到第三級。這項提議在美國引起了廣泛討論，因為它可能對大麻的醫療應用、科學研究，甚至是相關產業都產生深遠影響。對美國的藥物管制政策來說，這無疑是一個重要的轉變時刻。</p><p>具體來說，司法部建議將大麻從「第一級管制藥物」（Schedule I）重新分類為「第三級管制藥物」（Schedule III）。第一級管制藥物是指那些政府認定沒有醫療用途，且具極高濫用潛力的物質，像是海洛因。而第三級管制藥物，則包含一些有醫療用途，但仍有中低度濫用風險的藥物，例如含有可待因的止痛藥。這個降級提議，是經過美國衛生與公眾服務部（HHS）長時間的科學與醫學評估後，向司法部提出的。</p><p>那麼，為什麼會考慮這樣的改變呢？主要是因為美國衛生與公眾服務部在研究大量科學證據後，發現大麻在醫學上具有潛在用途，可用於某些病症治療。同時，他們也認為，大麻被濫用的風險，可能沒有過去認定為第一級管制藥物時那麼高。如果大麻真的降級成功，這將意味著聯邦政府對大麻的看法將有所轉變。這也可能讓更多關於大麻的醫學研究更容易進行，並降低合法大麻企業的聯邦稅務負擔。</p><p>儘管這是一個引人注目的提議，但它還不是最終決定。目前，美國司法部的這項建議將進入公開評論階段，民眾、醫學專家、相關企業和各種團體都有機會對此發表意見。在聽取並審核完所有意見後，最終的決定權將落在美國藥物管制局（DEA）手上。他們將根據所有資訊，做出大麻是否真的要從嚴格的第一級管制藥物，正式降級為第三級管制藥物的最終決定。這個過程可能需要數個月的時間才能完成。</p>",
