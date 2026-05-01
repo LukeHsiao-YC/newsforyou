@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "全球目光聚焦！第七屆唐獎六月揭曉，看誰為世界帶來改變！",
+    "zhSummary": "全球矚目的「唐獎」即將在六月公布第七屆得主。這項由臺灣創立的國際大獎，旨在表揚在永續發展、生技醫藥、漢學及法治領域有傑出貢獻的人，尤其在全球變局下，得主名單更受各界期待。",
+    "zhContent": "<p>嘿，同學們，六月有個國際大事即將揭曉，那就是「唐獎」會公布第七屆得主！這是一項很重要的全球性獎項，許多人都密切注意著，想知道在目前快速變化的世界裡，哪些人將會因為他們對社會和環境的貢獻而獲得肯定。每年獎項揭曉前，各界都會對可能得獎的人選有許多討論，大家都在等待最終的結果。</p><p>「唐獎」是由臺灣的企業家尹衍樑博士在2012年創立的，它每兩年頒發一次，希望表揚在「永續發展」、「生技醫藥」、「漢學」和「法治」這四個領域做出傑出貢獻的人。這個獎的設立，就是想鼓勵全球的科學家和學者們，能持續投入研究，為人類社會和地球的未來找出更好的解決方案，解決那些複雜又困難的問題。</p><p>這次的第七屆唐獎，特別是在「全球變局」這樣的大背景下，更受到各界關注。我們都知道，現在世界各地面臨很多挑戰，像是氣候變遷、疾病威脅、環境保護，還有社會制度的平衡等等。唐獎的目的，就是希望透過表彰這些優秀的得主，讓大家看到，有許多人在默默地努力，用他們的智慧和創新來應對這些複雜的全球性問題，尋找解決之道。</p><p>所以，今年六月唐獎得主的揭曉，不只是一個頒獎典禮，更是一個全球性的焦點。它會讓我們看見，有哪些在這些領域裡有突破性發現或深遠影響的個人或團體，將會獲得肯定。大家都在等待最終的名單出爐，準備向這些為世界帶來希望和改變的智者們致敬。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Global Spotlight: Tang Prize Laureates to be Announced in June",
+    "enContent": {
+      "basic": "The Tang Prize, an important international award, will announce its seventh laureates in June. This biennial prize, founded in Taiwan, recognizes individuals for their outstanding contributions in sustainable development, biopharmaceutical science, Sinology, and the rule of law. With the world facing many challenges, the announcement is highly anticipated as it highlights those working towards global solutions.",
+      "intermediate": "The Tang Prize, often dubbed the 'Asian Nobel Prize,' is set to reveal its seventh set of winners this June. Established in 2012 by Taiwanese entrepreneur Dr. Samuel Yin, the award aims to honor visionaries across four key fields: Sustainable Development, Biopharmaceutical Science, Sinology, and Rule of Law. This year's announcement is particularly significant, given the backdrop of 'global changes' and pressing challenges like climate change and public health crises. The prize serves to encourage cutting-edge research and practical solutions that benefit humanity and the planet.",
+      "advanced": "The impending announcement of the seventh Tang Prize laureates in June has garnered considerable international attention, set against the complex tapestry of 'global changes.' Initiated in 2012 by Taiwanese philanthropist Dr. Samuel Yin, this biennial award system recognizes exemplary contributions across four distinct categories: Sustainable Development, Biopharmaceutical Science, Sinology, and Rule of Law. The prize's enduring mission is to foster innovation and impactful research addressing humanity's most pressing issues. Observers keenly await the laureates' disclosure, anticipating the recognition of individuals or organizations whose work offers profound solutions to contemporary global challenges, ranging from environmental resilience to advancements in medicine and the upholding of justice."
+    },
+    "vocabulary": [
+      {
+        "word": "Laureate",
+        "zh": "得主（獲獎人）：指因為表現非常出色而得到很高榮譽或獎項的人。就像比賽的冠軍或獲得特別成就獎的人。"
+      },
+      {
+        "word": "Sustainable Development",
+        "zh": "永續發展：一種發展模式，它在滿足我們現在生活需求的時候，不會破壞未來子孫滿足自己需求的能力。簡單來說，就是好好利用地球資源，讓現在和未來的人都能過上好日子。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-05-01",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zWmN5ZXNLZGkyUnVfV1F1T1llYVMwUFZpZFZaVTBBUDN1UnBMWDBrR20wZS1LbjViRVNGX0JwTnJ6ZHlINXVMdmxxMG5DbjlyaC1DbmQweFVVUFJZYjF3Z0ZUbWM?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "北海變暖，大白鯊會「搬家」來作客嗎？",
+    "zhSummary": "科學家們正在觀察，隨著全球暖化導致北海海水溫度逐漸上升，原本棲息在溫暖海域的大白鯊，未來是否有機會向北遷徙，甚至在北海安家落戶，這成了海洋生物學界密切討論的話題。",
+    "zhContent": "<p>最近，海洋科學界流傳著一個讓人有點好奇又帶點小緊張的討論：隨著氣候變遷，歐洲北部的「北海」海水溫度逐漸升高，這會不會讓原本比較喜歡溫暖水域的大白鯊，有一天也「搬家」到這裡來住呢？這個話題，可是讓不少專家都非常關注，因為這不僅關係到海洋生態，也可能影響到沿海居民的生活。</p><p>大家會這麼想，當然不是沒有道理的。一般來說，大白鯊偏愛水溫大約在攝氏12到24度之間的海洋。過去，北海的水溫對牠們來說偏冷，所以幾乎不會看到牠們的蹤影。但近年來，因為全球暖化，北海的海水溫度確實有持續上升的趨勢。如果溫度繼續升高，達到大白鯊舒適的範圍，加上北海本來就有豐富的魚類和海豹等食物，對大白鯊來說，這裡說不定就變成了一個有吃有住的「新家」。</p><p>不過，這並不代表大家馬上就會在北海看到大白鯊了。科學家們表示，這是一個需要長期觀察的潛在變化。有些研究人員認為，雖然北海的溫度確實上升，但大白鯊的遷徙還受到許多其他因素影響，像是牠們的繁殖地、獵物分佈，以及特定的海水鹽度等等。所以，牠們會不會真的大規模北遷，以及何時會發生，都還是個未知數，需要更多時間和數據來證明。</p><p>目前為止，科學家們還沒有在北海發現大白鯊建立永久族群的確切證據。這個討論更像是一個對未來可能情境的預警，提醒大家氣候變遷對地球環境和生物棲息地造成的影響，比我們想像的還要廣泛。這是一個持續進行中的議題，海洋生物學家們會繼續監測海水溫度和海洋生物的動向，以了解大白鯊是否真的會成為北海的「新房客」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，大白鯊會不會「搬家」到北海，主要跟哪些因素有關？",
+      "生活與未來：你覺得這個潛在的改變，會對住在北海附近的人們和當地的漁業造成什麼實際影響？",
+      "獨立思考提案：針對這種因為氣候變遷導致的海洋生物遷徙現象，除了監測，你覺得我們還可以怎麼做，來降低可能的負面影響？"
+    ],
+    "enTitle": "Could the warming North Sea attract great white sharks?",
+    "enContent": {
+      "basic": "The North Sea is getting warmer. Scientists are asking if this means great white sharks might come to live there. Sharks like warmer water. If the North Sea gets warm enough and has enough food, sharks could move in. This is because of climate change.",
+      "intermediate": "Due to global warming, the North Sea's water temperature is rising. This has led scientists to discuss whether great white sharks, which prefer warmer waters, could eventually migrate north and establish populations there. The area also offers plenty of seals and fish, which are typical prey for these sharks.",
+      "advanced": "The Guardian reports on scientific discussions regarding the potential for great white sharks to establish themselves in the North Sea. As climate change drives up ocean temperatures, the traditionally cooler North Sea may become more amenable to these apex predators, which favour waters between 12 and 24 degrees Celsius. While the region boasts abundant prey, researchers emphasize that shark migration is influenced by a complex array of factors beyond just temperature, including breeding grounds and specific environmental conditions. This remains a speculative but closely monitored consequence of ongoing climate change."
+    },
+    "vocabulary": [
+      {
+        "word": "attract",
+        "zh": "吸引 - (動詞) 指的是有某種魅力或特質，能讓其他人或事物靠近、喜歡或感興趣。"
+      },
+      {
+        "word": "predator",
+        "zh": "掠食者 - (名詞) 指的是在食物鏈中，會主動捕捉並吃掉其他動物來獲取食物的動物。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-05-01",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjMwVnBIWFZpYXNxdkRldHNqNXprRkpfTGNsNk8tT3RVSDJ1eWs0ZlZhbXFZZnNBTkhhRGpKczFSTzdSWGpDM0poYzNObXZZd01fb05sUmtidVd0SENoOE05ajlGLTU4cGJlUS0zVm5OZHI0VmdHaFhmZ3BrUzR3Z3QtWGZyNnplVXBxemlOLW1ZYmlxTGtyd2ppWWZUUWdwc240M0J5czVYdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "喬治亞野火侵襲！動保團體緊急救援動物大作戰",
+    "zhSummary": "美國喬治亞州南部發生嚴重野火，危及當地動物。幸好有動物保護協會迅速行動，建立臨時庇護所，幫助受困或受傷的動物。",
+    "zhContent": "<p>喬治亞州南部最近可不太平靜。一場場野火在當地迅速蔓延，不僅燒毀了大片森林和土地，也對住在這片區域的動物們造成了巨大的威脅。想像一下，當火焰逼近家園時，這些無助的動物們該何去何從？幸好，當地一個叫做「人道協會」（Humane Society）的動物保護組織沒有袖手旁觀。他們捲起袖子，立刻投入了緊急救援行動，要確保這些毛茸茸的、有羽毛的、甚至鱗片的居民，都能在火勢中找到一線生機。</p><p>人道協會的團隊成員非常忙碌，他們不僅要面對火勢帶來的危險，還要想辦法接觸到受困的動物。他們在火災影響的區域內，設立了臨時的動物庇護所，就像一個專為動物們打造的緊急旅館。這些庇護所提供動物們一個安全的避難空間，讓牠們能夠躲開濃煙和火焰。工作人員還為這些被帶來的動物提供食物、飲水，並檢查牠們是否有受傷，給予必要的醫療照顧。無論是從火場中被救出來的流浪貓狗，還是受傷的野生小動物，都在這裡得到妥善的照顧。</p><p>這些野火的起因有時很複雜，可能是乾燥的天氣加上強風，讓一點點火花都可能迅速失控。當大火來襲時，許多家中的寵物來不及跟著主人撤離，或是主人在倉促之中走散了。而那些棲息在森林裡的野生動物，比如鹿、浣熊、鳥類等等，牠們的棲息地被大火摧毀，也面臨著尋找新家園的困境。人道協會的工作不只是救治，他們還會盡力協助尋找寵物的飼主，讓失散的家人有機會團聚。</p><p>隨著救援行動的持續進行，人道協會已經幫助了許多在野火中受苦的動物。雖然火災的影響範圍廣大，救援工作充滿挑戰，但因為這些志工和工作人員的努力，許多動物得以脫離危險，有地方可以休息和康復。這次救援行動的目標很明確，就是確保每隻需要幫助的動物都能得到及時的關懷，直到牠們可以安全地回到自己的家園，或者被新的家庭收養。整個事件展現了人道協會面對災難時的快速反應和對動物的深厚關懷。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Georgia Wildfires Strike! Animal Protection Group's Emergency Animal Rescue Mission",
+    "enContent": {
+      "basic": "Wildfires in southern Georgia caused big trouble for animals. The Humane Society quickly stepped in to help. They set up safe places, like temporary hotels for animals, where pets and wild creatures could go. Workers gave them food, water, and checked if they were hurt. This helped many animals stay safe from the fires and get better.",
+      "intermediate": "Southern Georgia faced severe wildfires, posing a significant threat to local animal populations. The Humane Society promptly launched emergency rescue operations. They established temporary animal shelters in affected areas, providing a safe haven for displaced pets and injured wildlife. Staff members ensured animals received food, water, and necessary medical attention, helping them recover from the fire's impact.",
+      "advanced": "Recent wildfires sweeping across southern Georgia presented a dire challenge to the region's diverse animal inhabitants. In response to this ecological crisis, the Humane Society mobilized its resources to initiate urgent rescue missions. They strategically established provisional animal shelters within the fire-impacted zones, offering sanctuary and critical care for both displaced domestic pets and native wildlife. Dedicated personnel administered essential provisions such as food and hydration, alongside comprehensive veterinary assessments and treatment, facilitating the animals' recovery and ensuring their immediate welfare amidst the environmental devastation."
+    },
+    "vocabulary": [
+      {
+        "word": "wildfire",
+        "zh": "野火 (野火是一種在森林、草原或其他野外地方發生，不受控制的大火，通常會快速蔓延，造成很大破壞。)"
+      },
+      {
+        "word": "shelter",
+        "zh": "庇護所 (庇護所是一個提供安全地方給需要幫助的人或動物暫時居住的地方，讓他們可以躲避危險或得到照顧。)"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-05-01",
+    "sourceName": "WRDW",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3dCalBacG8xbkJZTFlmbV9NWGdpWW5ueVlUdms5dGkzblZyYk5pUXJ1SEN0NHBSejlIRW45OWVLalN2Y00teV9BcXllSk1tVXpNYm8xNTNIak10dXBIY3hfSVJ0VUZnWjBtVG1DRmxiQ0xsVDI5RGd4c3Z0YmxrTDB2S0pWc0tLaEtQbVFPaFNMeGdoNXfSAaoBQVVfeXFMTkZEbG9iTFhGU2t2SG03US1CSmpES3pWX2U4azQ3SUxQdGxDU3JvZGZMOU42cFZIVDhVejVHRjMyUlYyQkdCa1lrVkdVMkk5UTJvUHhOM2tJQVhFNnphUExlcjZ1SW1zQndyeWZfQ1dQREh1cDNuVUZCN0g3TF9RZEV2LVlUcjNHWmQ2NF9vWldYdG1tMGJlTEc3cVk0aHRSMG9SUVh0ZmNTNlE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「AI搶飯碗」是真的？中國科技員工被AI取代引發合法性爭議",
+    "zhSummary": "中國一名科技業員工被公司解僱，而他的工作內容隨後被人工智慧（AI）工具取代，這引發了關於這種解僱方式是否合法的廣泛討論。",
+    "zhContent": "<p>最近在中國科技業，發生了一件讓許多人感到驚訝和不安的事。一位在科技公司擔任內容編輯的員工，突然被公司解僱了。更令人意外的是，他的工作崗位很快就被「人工智慧」（AI）工具接手，這讓大家開始思考，公司這樣用AI來取代人類員工，到底合不合法？</p><p>據外媒報導，這名被解僱的員工原本負責審核與編輯公司平台上的內容。公司告知他，由於業務調整和「組織優化」，他的職位將被取消。但令人玩味的是，沒過多久，該公司便大力推廣了新的AI工具，這些工具宣稱能夠高效地完成許多過去由人類編輯負責的內容生成、審核和修改等任務。這讓被解僱的員工和外界都認為，他離職的原因很可能與AI的導入有直接關係。</p><p>這起事件很快引起了中國社會和法律界的關注。許多人都在討論，單純因為有了更先進的AI技術，公司就能合法地解僱現有員工嗎？在中國的勞動法規中，對於員工的解僱有著明確的規定，公司必須有充分且合法的理由才能終止勞動合約。因此，直接以AI取代人力作為解僱理由，是否符合現行法律，成為了爭議的焦點。</p><p>目前，這起由AI取代人類工作所引發的合法性問題，仍在持續發酵。法律專家正在仔細研究中國現行的勞動法律框架，看它是否已經涵蓋了這種新興的、由科技進步導致的解僱情況。這名員工最終的法律權利如何保障，以及公司的行為是否會面臨法律上的挑戰，都還有待進一步的觀察和討論。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Chinese Tech Worker Replaced by AI Sparks Legality Debate",
+    "enContent": {
+      "basic": "A tech worker in China lost their job, and an AI program took over their duties. This has led to questions about whether it's legal for companies to replace people with artificial intelligence.",
+      "intermediate": "A content editor at a Chinese tech company was laid off, with the company citing 'organizational optimization.' Soon after, AI tools were introduced to handle many tasks the editor used to do. This incident has sparked a debate about the legality of replacing human employees with AI under China's labor laws.",
+      "advanced": "The termination of a Chinese tech worker, whose content editing responsibilities were subsequently assumed by AI tools, has ignited a significant debate regarding the legal permissibility of such workforce restructuring. Labor law experts are scrutinizing whether existing regulations in China adequately address and permit the replacement of human personnel with artificial intelligence as grounds for dismissal, highlighting a new frontier in employment rights and corporate responsibility."
+    },
+    "vocabulary": [
+      {
+        "word": "laid off",
+        "zh": "解僱：公司因為一些原因（例如業務調整、減少成本等），結束與員工的工作關係，讓員工離開職位。"
+      },
+      {
+        "word": "artificial intelligence (AI)",
+        "zh": "人工智慧：一種讓電腦系統可以像人類一樣思考、學習、理解和解決問題的技術，簡稱AI。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-05-01",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiTmoya25pWVM4Um42R2xyRnNXNUVkZTV1Ni14MGtsMUgwWGt6cVVCaEZjLWdKMko2LVBhbnNxblVseVRnMVp4UUdkZlNjQU4tY2dTY1hxMUM3Tld6TjZGc0J5S1J3cldwSFNENVpKS1VJX2c?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "地方媒體報好康！週末哪裡玩？看這份攻略就對了！",
+    "zhSummary": "TAPinto這家地方媒體，在五月初的週末前，為當地居民整理了一份豐富的「週末好去處」清單，提供各式各樣的活動資訊，幫助大家規劃假期，同時也活絡了社區生活。",
+    "zhContent": "<p>今年五月的第一個週末，也就是五月一號到三號，TAPinto這個地方新聞媒體，特別為當地居民整理了一份名為「週末好去處」的活動清單。這份報導的主要目的是希望讓社區居民能輕鬆找到在當地及周邊地區有哪些有趣的事情可以做，方便大家提前規劃週末行程，讓週末生活過得更加充實與豐富。</p><p>這份詳細的指南，通常會包含各式各樣的活動建議，像是戶外市集、公園裡的親子活動、藝術展覽，或是當地店家舉辦的特別工作坊。不論是想找個地方散散步、聽音樂會，還是跟朋友一起參加體育活動，TAPinto的報導都會盡力涵蓋不同年齡層和興趣的選項，確保每個人都能找到自己喜歡的活動。</p><p>推出這類型的報導，對於地方媒體來說，其實有很重要的意義。它不只提供了實用的生活資訊，也間接支持了當地商家和社區活動的推廣。透過媒體的介紹，許多原本不為人知的小活動或特色店家，都能獲得更多關注，進而吸引居民參與，讓社區的活力持續流動。</p><p>因此，當五月的第一個週末如期而至時，當地的居民只要點開TAPinto這份精心整理的文章，就能一目了然地看到所有推薦的精彩活動與時間地點。這份清單成功地達到了它的目的，即時提供了實用資訊，成為當地居民在那個特別週末規劃行程的最佳指南，幫助大家都能充實且愉快地度過假期。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "TAPinto Publishes Weekend Activity Guide for Local Community",
+    "enContent": {
+      "basic": "TAPinto, a local news source, made a list of fun things to do for the weekend of May 1-3. They wanted to help people find activities in their town and nearby. This guide had ideas like outdoor markets and park events. It helped people plan their weekend and enjoy their time.",
+      "intermediate": "Ahead of the May 1-3 weekend, local news outlet TAPinto published a comprehensive guide titled \"Fun Things to Do This Weekend.\" The aim was to provide residents with an easily accessible resource for planning their leisure time, featuring various community events, cultural attractions, and outdoor activities. This initiative not only informed the public but also supported local businesses and community engagement.",
+      "advanced": "In anticipation of the weekend spanning May 1st to May 3rd, TAPinto, a prominent local media organization, compiled and disseminated an extensive list of recreational opportunities within the local vicinity. This editorial endeavor sought to furnish community members with a curated compendium of engaging activities, ranging from outdoor markets and family-oriented park events to local artistic showcases and interactive workshops. The objective was multi-faceted: to facilitate weekend planning for residents, thereby enhancing their quality of life, and to concurrently bolster local commerce and foster vibrant community participation through increased visibility of diverse offerings."
+    },
+    "vocabulary": [
+      {
+        "word": "TAPinto",
+        "zh": "「TAPinto」是一間地方新聞媒體的名稱，它會在美國許多小鎮和社區發布當地的生活資訊，像是新聞、活動預告等等。想像它是你家鄉的專屬小報紙，幫你掌握家附近大小事。"
+      },
+      {
+        "word": "Local Area",
+        "zh": "「Local Area」指的是「當地社區或周邊地區」。這就好像是說你家附近、走路或騎車一下子就能到的地方，跟遙遠的外縣市或國外不同。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-05-01",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQang4U3BTNUZsYW5VT19HUGYzbVhuMGdsUHA4a2JibGt4c0R5LWF0NXJtMnlOeXpVWnVETGUySmxHR21fdWpnX3NqRGRXUnc3dFNqRUpiSzhZRWZWZGxiZFBrWWpZNUl6R0pXMDdjdTZMZWxWbEVvQXl2NGdyRXhGRFVfS2JUSWNWclo1cktjTkU2b1JFX253cVVIbDV5dVotbTdFaFZZMDRyRm5laVQxVmVDWGR1TEs3eEZhZkFZTjZIQ3ZiZHgyd29SU2JJZXpLbnJxT0RhYkwzWG5ITF9iNjRhRnRialdBdDRIMXZ5bWFPVnRaU1p4OElRU1IwcGNzWnlR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI和政府出馬！美國經濟第一季強勁成長",
+    "zhSummary": "今年第一季，美國經濟表現亮眼，主要是因為大家對人工智慧（AI）科技投入了更多錢，以及政府增加了開支，這些都大大推動了經濟的成長。",
+    "zhContent": "<p>各位同學，你們知道嗎？最近美國的經濟有個好消息！根據國際媒體路透社的報導，今年第一季，也就是從一月到三月，美國的經濟表現得比許多專家預期的還要亮眼。這份強勁的成長，主要有兩大推手在背後幫忙，讓整個國家的經濟動起來，成績特別突出。</p><p>第一個主要推手是「人工智慧（AI）相關的投資」。最近AI科技發展得非常快，大家都在談論它。許多公司和投資者都看準了AI的巨大潛力，所以他們投入了大筆資金，去開發新的AI產品、建立更先進的技術，或是把AI應用到各種產業服務上。這些大手筆的投資，不僅催生了許多新的工作機會，也帶動了像是科技業、軟體業等周邊產業的快速成長，讓市場上充滿了新的機會和活力。</p><p>第二個重要的推手則是「政府開支的反彈」。政府開支指的是國家在公共建設、教育、醫療、國防等各種公共服務上所花費的錢。在之前，政府的支出可能因為某些原因有所減少，但現在又重新增加了花費。當政府決定投入更多資金進行建設或提供服務時，這通常會刺激許多行業的發展，例如需要建築工人、工程師，也需要採購大量材料，讓很多相關產業都跟著忙碌起來，整個社會的消費和生產活動也會因此變得更活躍。</p><p>正是因為這些對AI科技的熱烈投資，加上政府在各方面的開支重新增加，兩股力量同時發揮作用，共同推升了美國在今年第一季的經濟表現。這份來自路透社的報導明確指出，由於這兩大因素的共同帶動，美國經濟在年初就開出紅盤，顯示出超出預期的強勁成長態勢，為今年的經濟發展奠定了一個良好的基礎。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國第一季經濟成長的主要原因是什麼？這些原因是如何讓經濟變好的？",
+      "生活與未來：你覺得AI相關的投資和政府的開支增加，會對我們日常生活中的哪些面向產生實際影響？",
+      "獨立思考提案：如果有一個國家想要提升經濟成長，你認為除了新聞提到的方式，還可以怎麼做會更好？"
+    ],
+    "enTitle": "AI Investment and Government Spending Boost US Economy in First Quarter",
+    "enContent": {
+      "basic": "The United States economy grew well in the first three months of the year. This positive performance was mainly due to companies investing a lot in AI technology, and the government also spent more money. These two factors together helped the economy become stronger than expected.",
+      "intermediate": "The U.S. economy showed stronger-than-expected growth in the first quarter of the year. This positive performance was largely driven by increased investments in Artificial Intelligence (AI) technologies by various companies. Additionally, a rebound in government spending across different sectors further boosted economic activities, contributing significantly to the overall economic expansion.",
+      "advanced": "In the first quarter of the current fiscal year, the U.S. economy registered a robust performance, surpassing initial expectations. This resurgence is primarily attributable to a surge in AI-related investments, as businesses vigorously allocate capital towards the development and integration of artificial intelligence technologies. Concurrently, a significant rebound in governmental expenditures across critical sectors provided additional impetus, collectively stimulating economic activity and contributing to a healthier macroeconomic outlook, as reported by Reuters."
+    },
+    "vocabulary": [
+      {
+        "word": "investment",
+        "zh": "投資：大家把錢拿出來，希望未來能賺更多錢的行為。像買股票、開公司、蓋工廠都算投資。"
+      },
+      {
+        "word": "rebound",
+        "zh": "反彈：一個東西掉下去後又回升上來。這裡是指政府本來花比較少的錢，現在又開始花比較多的錢了。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-01",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBtZ01xZG5qYnZzcHFmS04wVVZMZmRjeGRYX2xPMkhlZ3RCVnJvZ2xLaHcyc01OTFhGbWlhX0Z3WDdWSjRjcXIxQkdrXzFobUp5cXAyNU5pbjgtQXBQYjFES3d5SXRaV3MwQjRkcS1hRzZoMTZJNmVYN1NzYUhaTzA2WTJ5VTVnSHExRC1udGNGMkMzbTFHZVhaMEtXZUMzdHRCeUVFQjBQak5JMW1RLXNGZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "阿根廷新總統想爭回群島？英美關係會是關鍵嗎？",
+    "zhSummary": "阿根廷新總統米雷伊上任後，再次提出要透過外交途徑，爭回和英國有主權爭議的「馬爾維納斯群島」。他打算利用與美國前總統川普的關係來推動這項計畫，讓這場歷史悠久的爭議再次浮上檯面。",
+    "zhContent": "<p>你可能沒聽過「馬爾維納斯群島」這個名字，但在南美洲，阿根廷和英國為這幾個小島爭論了很久。最近，阿根廷新總統米雷伊（Javier Milei）上任後，再次提議透過外交手段，讓這些島嶼回歸阿根廷。他似乎打算利用和美國前總統川普的關係來幫助阿根廷，讓這場數十年爭議再度引起關注。</p><p>其實，阿根廷和英國對這些島嶼的主權爭議已超過兩百年。英國在1833年開始管轄，並稱它們為「福克蘭群島」。但阿根廷一直認為這些島嶼地理上靠近，是他們的領土。最激烈的一次衝突發生在1982年，兩國爆發一場短暫戰爭，最終英國獲勝並繼續掌控。島上居民大多是英國後裔，他們也投票表達希望保持英國身份。</p><p>過去，阿根廷政府曾用較強硬方式要求主權但未果。這次米雷伊總統的策略不同，他強調不會用武力，而是要透過「外交途徑」來談判。他認為，和美國前總統川普建立良好關係，可能會對他的外交努力有所幫助。米雷伊或許希望透過美國的影響力，讓英國重新考慮馬爾維納斯群島的歸屬問題，這是一種全新的嘗試。</p><p>不過，英國政府對於馬爾維納斯群島的立場一直非常堅定。他們多次公開表示，群島的未來應由當地居民自己決定。由於島上居民明確表示希望繼續做英國人，所以英國認為主權問題已經解決，沒有重新談判的空間。英國的態度目前沒有改變，這場爭議的發展，還需要持續觀察。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Argentina's New President Seeks Falklands, Eyes Trump Ties",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Sovereignty",
+        "zh": "主權：一個國家對自己領土和人民擁有最高、完全的統治權力，其他國家不能干涉。"
+      },
+      {
+        "word": "Diplomacy",
+        "zh": "外交：國家之間透過溝通、談判來處理彼此關係、解決問題的方式，而不是使用武力。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-01",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVBGMWU4eGhNMHFOeGRzNVpZT3haRFpIZmU3d0VQTm9Vb0lWVnFkUlRDS0pRbHg3ZHllcVhWLUR0ZGhPSzhaQmZhWFJzMlFfTGk4RGdMdTM1RTU1RGFTazdvZ0paQTk5Rk5rejJuTnZPNzRYTUc1VFRVZEpGbmQtUFB5cjRiUUlTNlZWTmZZMW5iaTJ0OFJJYmdwNUVGaEJHVmJWam0zeGFyeDkyd1BySNIBtgFBVV95cUxOMmx0WkhPQlNia003Xy1Bb1VEY1pjbU9LZTQ0MmRvdllHeWFtZllabHpRLUQ4b3JaMlJwbTdZbmNoeUhscVp5azhURXRiMV84YjAxc2FwMlA4RmJKM3J1dThBUGp5YWY1bW1rYnpEb0dLczBtTGs0eEZGc1FpR3lDa0tua2hubDd6bThweEdoSjB4UGF6RUl0TEhWOEliMWdHZ2lVWFlGZGJzTldFUEl6c1lHZ2ZXUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太驚訝！德國經濟竟然在緊張局勢下逆勢成長了！",
+    "zhSummary": "最新消息指出，德國的經濟表現出乎大家意料，竟然在國際情勢不穩定的情況下，逆勢展現了成長，比許多專家預測的還要好。",
+    "zhContent": "<p>嘿，同學們！最近有個新聞讓許多大人都跌破眼鏡，就是德國的經濟，在大家普遍覺得全球氣氛有點緊張、中東地區情勢也沒那麼平靜的時候，竟然交出了一張漂亮的成績單！根據德國之聲（DW.com）的報導，德國的經濟成長數字遠超出了許多經濟學家的預期，讓大家看到了一個充滿韌性的國家。</p><p>原本許多分析師都認為，受到國際貿易放緩，還有與伊朗相關的國際局勢不確定性等因素影響，德國這個歐洲經濟火車頭的表現可能會比較辛苦，甚至可能會面臨一些挑戰。畢竟，德國是個非常依賴出口的國家，一旦全球貿易活動減少，或者原物料供應受到影響，對他們來說都是大考驗。所以，當實際的經濟數據出來時，才會讓這麼多人感到驚訝。</p><p>這份「出乎意料的成長」意味著，儘管面臨外部壓力，德國的國內經濟活動可能比想像中來得活躍，或者某些關鍵產業展現了強勁的適應力。例如，或許是德國的企業在創新方面做得很好，或是國內消費市場依然強勁，支撐了整體經濟。總之，這個結果讓大家看到了德國在面對挑戰時的堅韌與潛力。</p><p>最新的官方數據顯示，德國的經濟確實比預期更加穩健，成功抵擋住了國際間的各種不利因素。這不僅是對德國政府和企業的一個肯定，也向全世界證明，即使大環境充滿變數，只要能找到對的策略並堅持下去，依然有可能創造出亮眼的成果。這份報告就到這裡，沒有多餘的猜測或建議。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，德國經濟的成長「出乎意料」。你覺得「出乎意料」這個詞想表達什麼？又是什麼原因讓它的成長如此令人驚訝？",
+      "生活與未來：德國經濟的成長或衰退，可能會如何間接影響到我們日常生活中會買到的進口商品，或是你以後想去的旅遊地點呢？",
+      "獨立思考提案：如果有一天台灣也面臨類似的國際壓力，你認為政府或企業可以怎麼做，來讓台灣經濟也展現出「逆勢成長」的韌性呢？"
+    ],
+    "enTitle": "Germany's Economy Shows Surprising Growth Amidst International Tensions",
+    "enContent": {
+      "basic": "Germany's economy has shown unexpected growth, which is good news! Many thought it would slow down because of global issues and tensions involving Iran. But the latest reports from DW.com say Germany's economy did much better than expected, showing how strong it can be.",
+      "intermediate": "Despite predictions of a slowdown due to global trade challenges and geopolitical tensions linked to Iran, Germany's economy recorded surprising growth, according to DW.com. This unexpected positive performance suggests a strong resilience within the German market, exceeding many economists' forecasts.",
+      "advanced": "Defying widespread expectations for a deceleration amidst global trade headwinds and escalating geopolitical tensions concerning Iran, Germany's economy registered an unanticipated expansion, as reported by DW.com. This robust performance underscores the nation's economic resilience, significantly outperforming pre-existing expert projections."
+    },
+    "vocabulary": [
+      {
+        "word": "Economy",
+        "zh": "經濟：一個國家或地區如何生產、分配和消費商品和服務的系統。簡單來說，就是大家賺錢、花錢、買東西、賣東西的總和狀況。"
+      },
+      {
+        "word": "Despite",
+        "zh": "儘管、不顧：表示雖然有某種困難或情況，但仍然發生了另一件事情。例如：「儘管下雨，我們還是去踢足球了。」"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-01",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWZMbHA2Rm5zLU95MUxmZXIyNTBMNGxTeGl6cnRJYjRjS1EyUVByYU1ZU0lFdzNiS3FiTzFxQ0E0ZWJXLXlvb1l1QTZWTkd4Tms1R0habmhUeEMzb1FBZ0pQT2VtRnR2T09TdzZibHN6QVlTTmFGSzkyWlZwWGRTcFdZd0x6RFU0czNVUUFjWF9FRXBlVHBfMS1haw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "辛巴威前總統之子南非惹「槍」事，遭驅逐出境！",
+    "zhSummary": "辛巴威前總統穆加比的兒子查東加，因在南非涉及槍械違法事件，被南非政府遣返回國。",
+    "zhContent": "<p>最近，一則來自南非的新聞引起了大家的注意。原來，辛巴威前總統羅伯特·穆加比（Robert Mugabe）的兒子——查東加（Bellarmine Chatunga Mugabe），在南非因為與槍械相關的罪行，遭到南非政府的遣返。這表示他不能再繼續待在南非，必須回到自己的國家辛巴威。</p><p>這件事的重點在於「槍械違法」。在許多國家，槍枝是受到嚴格管制的物品，不是每個人都能隨意擁有或使用的。雖然新聞標題沒有說明查東加究竟是做了什麼具體的行為，但「槍械違法」通常指的是非法持有槍枝、沒有執照就使用、或者以不合法的方式處理槍枝等。這些行為在南非都是非常嚴重的。</p><p>南非對於槍械的管理有很明確的法律規定，目的是為了社會的安全。外國人在南非，更是需要嚴格遵守當地所有的法律，尤其是像槍械這種可能涉及公共安全的規定。一旦被發現違法，除了面臨法律上的懲罰，也很有可能會被取消居留資格，就像這次查東加的情況一樣。</p><p>這起事件的最終結果，就是南非當局在查東加涉及槍械違法後，決定將他驅逐出境。他已經被送回辛巴威，無法再以觀光、留學或工作等身份合法留在南非，結束了他在南非的居留。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，查東加被遣返的具體原因是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對外國人在他國犯法後被遣返的規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Robert Mugabe's Son Deported from South Africa for Firearms Offence",
+    "enContent": {
+      "basic": "<p>Recently, news from South Africa caught everyone's attention. Robert Mugabe's son, Bellarmine Chatunga Mugabe, was deported from South Africa because of a firearms offence. This means he broke laws related to guns and had to return to his home country, Zimbabwe.</p><p>The key part of this story is \"firearms offence\". In many countries, guns are strictly controlled, and not everyone can own or use them freely. While the news headline doesn't say exactly what Chatunga did, \"firearms offence\" usually refers to things like illegally owning a gun, using one without a license, or handling it in an unlawful way. These are very serious actions in South Africa.</p><p>South Africa has clear laws about guns to ensure public safety. Foreigners in South Africa must strictly follow all local laws, especially those concerning public safety like firearms regulations. If someone is found to be in violation, they could face legal penalties and might lose their right to stay in the country, just like what happened to Chatunga.</p><p>So, the result of this incident is that after Chatunga was involved in a firearms offence, the South African authorities decided to deport him. He has been sent back to Zimbabwe and can no longer legally stay in South Africa for tourism, study, or work, ending his stay there.</p>",
+      "intermediate": "<p>Zimbabwe's former president, Robert Mugabe's son, Bellarmine Chatunga Mugabe, was recently deported from South Africa due to a firearms offence. This incident means he was expelled from South South African territory and returned to his native country, Zimbabwe, for violating their gun laws.</p><p>A \"firearms offence\" typically refers to actions such as illegal possession, unauthorized use, or improper handling of firearms. Although specific details of Chatunga's actions were not provided in the initial report, it implies a serious breach of South African regulations concerning weapons. Such violations are treated with high gravity within the country's legal framework.</p><p>South Africa maintains stringent legislation regarding firearms to uphold public safety and order. Foreign nationals, in particular, are expected to adhere strictly to all local laws, especially those pertaining to public security. A conviction for a firearms offence often results not only in criminal penalties but also in the revocation of residence permits and subsequent deportation, as observed in Chatunga's case.</p><p>Consequently, following his involvement in the firearms offence, South African authorities initiated deportation proceedings against Chatunga. He has since been repatriated to Zimbabwe, losing his legal right to reside in South Africa under any status, thus concluding his presence in the country.</p>",
+      "advanced": "<p>Bellarmine Chatunga Mugabe, son of the late Zimbabwean President Robert Mugabe, has been subjected to deportation from South Africa following his involvement in a firearms offence. This action by South African authorities mandates his return to Zimbabwe, underscoring the legal consequences of his transgression within the host nation's jurisdiction.</p><p>The designation of \"firearms offence\" denotes a breach of statutory regulations governing the possession, usage, or distribution of weaponry. While precise details regarding Chatunga's specific infraction remain undisclosed in the initial report, the classification itself implies a significant violation of South Africa's rigorous arms control legislation, which is designed to maintain national security and public order.</p><p>South African jurisprudence imposes strict adherence to its legal framework, particularly concerning foreign nationals and matters of public safety. Engaging in illicit activities, especially those involving firearms, invariably leads to severe repercussions, which can include penal sanctions, the nullification of immigration statuses, and the issuance of a deportation order, as has been exemplified by the current case.</p><p>As a direct consequence of his conviction or proven involvement in the firearms offence, Chatunga Mugabe was formally deported. This action effectively rescinds any entitlement he previously held to reside within South Africa, compelling his return to Zimbabwe and marking the conclusive termination of his sojourn in the country.</p>"
+    },
+    "vocabulary": [
+      {
+        "word": "deported",
+        "zh": "被遣返／驅逐出境。意思是一位外國人因為觸犯了當地法律、簽證到期或違反居留規定等原因，被該國政府強制要求離開，回到自己的國家。"
+      },
+      {
+        "word": "offence",
+        "zh": "違法／犯罪行為。意思是做出了一些不符合法律規定、會被懲罰的行為，例如偷竊、超速或非法持有物品等。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-01",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4am5JaDJJZkdsTFFEcXZaWmk3c3ZrQjNYQzFuS0tQZW5OOUVhUV8ydjRvUklhU2JpdEtPWlBDWlJhWHNNbU1LU0N5b1JmTGp3WXZSekxvUXNiZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "國際油價飆升！傳聞川普將討論伊朗新策略，全球市場跟著繃緊神經",
+    "zhSummary": "最近國際原油價格創下2022年以來的新高點，主要原因是有報導指出，美國前總統川普將針對伊朗問題聽取新的政策選項簡報，這讓全球原油市場預期可能會出現新的變化。",
+    "zhContent": "<p>嘿，各位關心時事的年輕人！最近全球有個消息讓很多大人都非常注意，那就是國際原油價格竟然創下自2022年以來的最高點！油價上漲可不是小事，因為它會影響到我們生活中的交通、製造業，甚至很多商品的價格。而這次油價飆漲的原因，竟然是因為一個關於美國前總統川普和伊朗的消息。</p><p>根據英國廣播公司（BBC）的報導指出，市場上傳出消息，美國前總統川普即將聽取有關伊朗問題的最新政策選項簡報。大家可能覺得奇怪，為什麼一個美國前總統的消息，會對全球油價造成這麼大的影響呢？這主要是因為伊朗是全球重要的產油國之一，過去美國對伊朗的政策，尤其是制裁措施，都會直接影響到國際市場的原油供應量。</p><p>回顧川普上一次擔任總統時，他曾採取一些強硬的對伊政策，例如退出國際核協議並重新對伊朗實施嚴厲制裁，這些舉動在當時就曾引起油價波動。因此，當市場聽到他將再次討論與伊朗相關的「新選項」時，許多原油交易商和投資者就開始預期，未來美國對伊朗的策略可能會再次轉變，進而影響到原油的生產與出口，這才導致了油價迅速攀升。</p><p>簡而言之，這次油價大漲，是市場對美國未來潛在政策的一種「預期性反應」。目前，這則報導只是說明川普將會「聽取簡報」，並沒有任何政策定案或具體實施的消息。不過，全球的金融市場和能源產業都已經因為這個消息，開始密切關注接下來的發展。油價的走向，將會是近期國際間一個非常重要的觀察指標。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致了國際油價上漲？這件事告訴我們，政治新聞對全球經濟有什麼樣的影響？",
+      "生活與未來：你覺得這個油價變化會對我們日常生活中，例如搭車、買東西的價格，造成什麼實際影響？",
+      "獨立思考提案：如果未來美國真的對伊朗採取了新的政策，你認為全球社會和國際組織可以怎麼做，來減少負面影響或維持市場穩定？"
+    ],
+    "enTitle": "Global Oil Prices Surge as Trump Reportedly Briefed on New Iran Options",
+    "enContent": {
+      "basic": "Oil prices have gone up a lot recently, hitting the highest point since 2022. This happened after news reports said former US President Trump will be told about new ideas for what to do about Iran. Iran produces a lot of oil, so what the US decides to do about Iran can change how much oil is available in the world, which affects prices. When Trump was president before, his actions towards Iran made oil prices move. So, now people are thinking his ideas might change things again, making oil prices higher. This is just about a report, not a new plan yet, but the market is watching closely.",
+      "intermediate": "International crude oil prices have reached their highest level since 2022, following reports that former U.S. President Trump is to be briefed on new policy options regarding Iran. As a significant oil-producing nation, Iran's relationship with the United States and the impact of potential U.S. sanctions or policies directly influence global oil supply and pricing. The market's reaction reflects anticipation of potential shifts in U.S. foreign policy that could disrupt oil markets, similar to how Trump's previous withdrawal from the Iran nuclear deal affected prices. This surge is a speculative response to the reported briefing, indicating that market participants are closely monitoring future developments.",
+      "advanced": "Global benchmark crude oil prices have escalated to their highest valuation since 2022, driven by intelligence reports indicating that former U.S. President Donald Trump is slated to receive briefings on novel strategic options concerning Iran. Given Iran's pivotal role as a major global oil producer, prospective shifts in U.S. geopolitical calculus, particularly with implications for sanctions or trade, frequently precipitate considerable volatility in international energy markets. The market's preemptive response underscores investor sensitivity to potential policy reorientations, reminiscent of the significant market adjustments observed during Trump's prior administration's disengagement from the Joint Comprehensive Plan of Action (JCPOA) and subsequent re-imposition of sanctions. This current price surge represents a speculative premium, with market participants vigilantly monitoring any forthcoming policy articulations or actions."
+    },
+    "vocabulary": [
+      {
+        "word": "briefed",
+        "zh": "簡報：意思是有人向你說明一件事情的重點、經過，或提供相關資訊，讓你快速了解狀況。"
+      },
+      {
+        "word": "options",
+        "zh": "選項：指在面對一個情況時，可以選擇的不同做法、策略或解決方案。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-01",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbzF3QzZBT2o2cXFBNG5fNGpwYlJwVnhndmg0ZE9DV1hSaTJvXzdsRjVNTEt4cmZqNVJDZjJQamVZYVZFWkc3bE9aS0R6S29VYVFqSy1FU3pUZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "韓國股市「超威」！科技樂觀大勝戰爭擔憂，KOSPI創28年新高！",
+    "zhSummary": "韓國股市主要指數KOSPI，因為投資人對科技產業充滿信心，儘管有中東戰爭擔憂，仍創下近28年來單月最佳表現。",
+    "zhContent": "<p>嘿，同學們！最近在地球的另一邊，韓國的股市發生了一件超酷的事情。你知道嗎？他們最主要的股市指數，叫做KOSPI（韓國綜合股價指數），在最近一個月裡竟然創下了將近28年來最好的表現！這聽起來是不是很厲害？就像班上同學突然考了個滿分一樣令人驚訝。而這背後的原因呢？主要是大家對科技公司的信心爆棚，覺得這些公司未來會越來越好，這種強烈的樂觀情緒，甚至蓋過了當時大家對中東地區可能發生戰爭的擔憂。</p><p>KOSPI，你可以把它想像成是韓國經濟的「溫度計」，它集合了韓國許多大型、知名的企業股票，特別是那些在國際上很有名的科技巨頭。當KOSPI指數大漲，就代表這些公司的股票價格整體來說都表現得非常好，它們的市值也跟著水漲船高。這對那些有買股票、也就是所謂的投資人來說，當然是個大好消息，因為他們手上持有的股票價值增加了，也就是賺到錢了。這個「28年最佳」的紀錄，表示它在這麼長的時間裡，都沒出現過單月漲幅這麼大的情況，真的是非常罕見。</p><p>那麼，為什麼KOSPI能有這麼好的成績呢？新聞裡提到了兩個主要原因。首先是「科技樂觀主義」，這代表投資人普遍認為科技公司，像是那些生產手機、電腦晶片或是開發新技術（例如人工智慧）的公司，未來會持續發展，賺更多錢。這種對科技產業的強烈信心，促使大家積極買入相關股票。另一方面，當時全球其實籠罩著「伊朗戰爭擔憂」的氣氛，因為中東地區的政治情勢有點緊張，通常這種地緣政治的不穩定會讓投資人害怕，進而導致股市下跌。但這次很特別，對科技股的信心竟然強到足以抵銷掉戰爭的負面影響。</p><p>綜合這些正面與負面的因素，當月KOSPI指數最終實現了令人矚目的強勁增長，成功寫下近28年來單月表現最佳的紀錄。這清楚顯示，在面對潛在的國際衝突風險時，市場對於科技產業未來發展的堅定信心，最終成功主導了整個投資氣氛。也因為這種特殊的市場心態轉變，讓韓國股市在那個月畫下了一個非常亮眼的句點，超越了各種負面消息的影響。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼力量讓韓國股市的表現這麼出色？",
+      "生活與未來：你覺得科技產業的發展，可能跟我們哪些日常生活中會用到的東西有關？",
+      "獨立思考提案：如果未來又出現類似的國際事件，你覺得股市的表現還會一樣嗎？為什麼？"
+    ],
+    "enTitle": "South Korea's Kospi Soars: Tech Optimism Overpowers War Worries for Best Month in 28 Years",
+    "enContent": {
+      "basic": "South Korea's main stock market, called Kospi, had a really good month. It was the best month in almost 28 years! People were very excited about technology companies, like those that make phones and computers. This excitement was stronger than worries about a possible war in Iran. So, even with some bad news, the stock market went up a lot because everyone believed in tech.",
+      "intermediate": "The South Korean stock market's benchmark index, Kospi, achieved its strongest monthly performance in nearly 28 years. This significant surge was primarily driven by overwhelming optimism surrounding the technology sector. Investors showed strong confidence in the future growth and innovation of tech companies. This positive sentiment managed to outweigh geopolitical concerns arising from potential conflicts in Iran, which typically would dampen market spirits. Consequently, the Kospi index experienced a substantial rise, marking a remarkable period for the nation's equities.",
+      "advanced": "In a remarkable display of market resilience, South Korea's benchmark Kospi index recorded its most impressive monthly gains in nearly three decades. This exceptional performance can be largely attributed to an pervasive wave of tech optimism that swept through the market. Despite escalating geopolitical tensions and inherent uncertainties stemming from potential armed conflict in Iran – factors traditionally detrimental to investor confidence – the robust belief in the sustained growth trajectory and innovative capacity of the technology sector proved to be the dominant force. The prevailing bullish sentiment effectively counteracted and superseded broader macroeconomic anxieties, culminating in a historic upward trajectory for South Korean equities during the period."
+    },
+    "vocabulary": [
+      {
+        "word": "Optimism",
+        "zh": "「樂觀」或「樂觀主義」。當你對某件事情的結果充滿希望、覺得一切都會變好，而不是只看到壞的一面時，這就是樂觀的心態。"
+      },
+      {
+        "word": "Triumph",
+        "zh": "「勝利」或「大獲全勝」。當你克服了困難，成功地贏得一場比賽、一個挑戰，或是在某件事情上取得了巨大的成就時，就可以用這個詞來形容。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-01",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUNud1Q2SlMzVnJJNHNydDRKTkgzUndsZ0lSSHV0VlVadVZMMG1DemptTy1QVUpYem4ybVh2SkNrbmFqdEdqYmdMbDJESU1kMW4yeFhnN2thYkxJRjhUQjJjRjJlbTJGNFZMVGlhOWxCdXJlaHNYXzRCallMUVFmemNRMXlWWV9HSElDZnJycktnMkxD0gGaAUFVX3lxTE9zYWZkM3pOTmE1dXFlZVVlbHVPTFBuaVRGN1Fhd29RWjZMRnlyelhCM044SlhSbk44TkZMT2JHZm1EbGo3SnZpcF9tNlZvVFlYS01xTTJhSk9zNTNGQlExNmhXX19mVjRZN3dxaFI4NVYwdXk2RkhwLUVtUHZPR0dXNGhqLTI4VUluRXlHTFdIUTc1YkllZHZfZkE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "越南的超級火車夢：蓋高鐵真的划算嗎？",
+    "zhSummary": "越南政府正在考慮興建一條貫穿南北、時速飛快的高速鐵路，預計將大幅縮短兩大城市間的旅程時間。然而，這項耗資巨大的計畫引發了各界熱烈討論，大家都在思考投入如此龐大經費，對國家來說是否真的划算。",
+    "zhContent": "<p>你知道嗎？在東南亞的越南，最近有一個很「狂」的點子，他們想蓋一條超級長的火車線，要從最北邊的首都河內，一路連到最南邊的大城市胡志明市。這可不是一般的火車，而是那種速度非常快的高速鐵路！想像一下，如果這個計畫真的蓋成了，以後從北到南移動，時間會比現在省下超多，就像在台灣從台北坐高鐵到高雄一樣方便快速。</p><p>這條被稱為「南北高速鐵路」的路線，全長差不多有1500公里，幾乎是台灣從北到南距離的四倍長。它的目標是把原本十幾個小時的火車旅程，大大縮短到只要大約五個半小時。聽起來是不是很厲害？不過，要蓋這麼龐大的工程，錢當然是個大問題。目前估計，光是建造的費用，可能就高達600億美元，這對越南來說，可是一筆非常非常驚人的數字，讓政府和民間都必須好好思考。</p><p>正因為需要的資金太龐大了，越南國內對於這項計畫有很多不同的聲音。有人覺得，高鐵雖然方便又氣派，但會不會太貴了點？這麼大筆的錢，除了蓋高鐵，是不是也可以用來改善其他交通設施，或是發展一些相對比較偏遠的地區？有些經濟學家和專家也在擔心，如果投入這麼多錢蓋了高鐵，未來搭乘的人數到底會不會夠多，才能讓這筆投資有好的回收，不會變成國家的沉重負擔。</p><p>目前，越南政府已經把好幾個不同的高鐵建造方案提交給國會討論，希望大家一起想想，怎麼做對國家最有利。所以囉，這條備受矚目的「南北高速鐵路」究竟會怎麼蓋，或是最後會不會蓋，都還在很熱烈的討論中，還沒有一個明確的最終決定。大家都在等著看，越南會不會真的實現這個超級火車的夢想。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，越南的高鐵計畫面臨了哪些主要的挑戰或討論？",
+      "生活與未來：你覺得如果一個國家投入巨資蓋了高速鐵路，對當地居民的日常生活或經濟發展可能會帶來什麼實際影響？",
+      "獨立思考提案：針對高鐵的巨額花費，如果你是越南政府的官員，除了蓋高鐵，你還會考慮用這筆錢做些什麼來改善國家的發展？"
+    ],
+    "enTitle": "Vietnam's High-Speed Rail Ambition: A Worthwhile Investment?",
+    "enContent": {
+      "basic": "Vietnam is considering building a super-long, high-speed rail line to connect its northern capital, Hanoi, with the southern metropolis, Ho Chi Minh City. This ambitious project aims to drastically cut travel time between the two major cities. However, the enormous cost of this plan, estimated at around $60 billion, has sparked widespread debate. People are questioning whether such a huge investment is truly beneficial for the country.",
+      "intermediate": "Vietnam is currently exploring plans for a monumental high-speed railway that would span approximately 1,500 kilometers, linking Hanoi in the north to Ho Chi Minh City in the south. This 'North-South High-Speed Railway' is projected to reduce the current journey time of over ten hours to just about five and a half hours. Despite the potential benefits, the estimated construction cost of around $60 billion has triggered significant discussion regarding its economic viability and the allocation of such substantial funds. Concerns are being raised about whether the anticipated ridership will be sufficient to justify the massive investment and prevent it from becoming a national burden. Various proposals are under review by the Vietnamese National Assembly, with no final decision yet made on the project's future.",
+      "advanced": "Vietnam is contemplating a transformative infrastructure project: a high-speed railway network intended to connect its two primary economic hubs, Hanoi and Ho Chi Minh City. Spanning an estimated 1,500 kilometers, this ambitious undertaking seeks to dramatically reduce travel durations between these key urban centers to approximately five and a half hours, a significant improvement from the current ten-plus hours. However, the project's formidable price tag, estimated to reach $60 billion, has ignited a fervent national discourse. Stakeholders and economists are deliberating the fiscal prudence of such a substantial capital outlay, questioning whether alternative infrastructure investments might yield superior socio-economic returns or if the projected ridership will adequately amortize the construction and operational costs. The Vietnamese government has submitted multiple feasibility studies and proposals to the National Assembly for consideration, indicating that the final decision regarding the project's scope, financing, and ultimate implementation remains pending."
+    },
+    "vocabulary": [
+      {
+        "word": "Ambition",
+        "zh": "雄心：指一個人或一個國家想要實現的遠大目標或強烈願望。像越南想蓋高鐵，就是一個很大的「雄心」計畫。"
+      },
+      {
+        "word": "Worthwhile",
+        "zh": "值得：用來判斷一件事情、一個行動或一筆投資，是不是值得花費時間、金錢或精力去做。大家正在討論越南的高鐵計畫到底「值不值得」投入那麼多錢。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-01",
+    "sourceName": "The Economist",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmpQLXJpNGdfbE5xNkpZSk8wNGRacG1XYkhxWjdpeUhrbTlHaHNEbzhvNWdJY3ZFR0YyNDVWUy1TenhBOEczMlhqUzUtZmhGM0k4WGEzZWNJY1pWeERSc1VxWVlOaHVfZ0RiVXU4bTNTTHpONDV0TGJ4U0lmbHoyVjY3Y3dsMjZRNlNkS3JZMXdDQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "大洋洲足球有新靠山！歐洲足聯聯手助推太平洋足球發展",
+    "zhSummary": "大洋洲足球協會（OFC）與歐洲足球協會（UEFA）簽署合作協議，將在教練、裁判培訓、青少年足球發展及設施改善等多方面提供支持，目標是全面提升大洋洲地區的足球水準。",
+    "zhContent": "<p>最近，足球界有件讓大洋洲（也就是太平洋島國區域）的年輕球迷們興奮的消息！大洋洲足球協會（OFC）與歐洲足球協會（UEFA）正式簽署了一份協議。這份協議簡單來說，就是要攜手合作，一起把大洋洲地區的足球運動推向更高的層次。想像一下，歐洲那些足球強國的經驗和資源，現在要來幫助太平洋地區的年輕球員們，是不是很棒？這表示兩個不同區域的足球巨頭決定聯手，要為大洋洲的足球發展注入新的活力。</p><p>那麼，這份協議到底會帶來什麼呢？它就像一份「合作備忘錄」，雖然沒有立刻改變什麼，但卻為未來的合作定下了方向。具體來說，雙方將會分享專業知識，包含如何訓練教練、裁判，以及如何管理足球比賽。此外，他們也會共同設計青訓計畫，幫助大洋洲的青少年球員從小就能接受更專業的訓練。可能還會討論怎麼改善球場設施，甚至舉辦更多的國際交流賽，讓大洋洲的球隊有機會跟歐洲的隊伍切磋。這些都是為了讓大洋洲的足球基礎打得更穩固。</p><p>這次合作的背後，其實有很重要的原因。大洋洲的許多國家雖然對足球充滿熱情，但在資金和資源方面，相對沒有歐洲那麼充足。所以，歐洲足協的加入，就像是為他們打開了一扇大門。據說，大洋洲足球協會的主席對此感到非常高興，認為這是大洋洲足球發展的一個歷史性時刻。而歐洲足協的主席也表示，他們很樂意分享成功的經驗，並相信透過這樣的國際合作，能讓全球的足球運動都變得更強大、更多元。這展現了足球世界「一家人」的精神。</p><p>這份重要的協議簽署完成後，接下來的重點就是將這些承諾付諸實踐。大洋洲足球協會和歐洲足球協會將會成立專門的團隊，討論並規劃具體的執行細節，比如什麼時候開始舉辦訓練營，或是如何分配資源等等。雖然這是一個長期的合作計畫，但從現在開始，大洋洲的年輕球員和足球愛好者們，已經可以期待未來能看到更多機會，有更好的環境來追求他們的足球夢想。這就是這次簽約最直接也最重要的結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，大洋洲足球協會（OFC）和歐洲足球協會（UEFA）合作的目的是什麼？",
+      "生活與未來：你覺得這個改變會對大洋洲的青少年足球員造成什麼實際影響？",
+      "獨立思考提案：針對這份合作協議，你覺得還可以怎麼做會更好，讓大洋洲的足球發展能更有效率？"
+    ],
+    "enTitle": "Oceania and UEFA Forge Partnership to Boost Football Development",
+    "enContent": {
+      "basic": "Good news for football fans in Oceania! The Oceania Football Confederation (OFC) and the Union of European Football Associations (UEFA) have signed an important deal. This agreement means they will work together to make football better in the Oceania region. UEFA, which is very strong in European football, will help OFC. They want to train better coaches and referees. They also plan to help young players learn football. This partnership will bring more skills and support to the Pacific islands.",
+      "intermediate": "The Oceania Football Confederation (OFC) has officially partnered with the Union of European Football Associations (UEFA) through a newly signed agreement. This collaboration aims to significantly enhance football development across the Oceania region. The deal involves sharing expertise in various areas, including advanced training for coaches and referees, establishing comprehensive youth development programs, and improving football infrastructure. Leaders from both confederations have expressed enthusiasm, viewing this as a pivotal step towards elevating the sport's standards and opportunities for players in the Pacific.",
+      "advanced": "A landmark memorandum of understanding has been formalized between the Oceania Football Confederation (OFC) and the Union of European Football Associations (UEFA), signaling a robust commitment to fostering football development within the Oceania region. This strategic alliance is designed to leverage UEFA's extensive experience and resources to bolster OFC's capabilities across multiple dimensions. Key initiatives include comprehensive capacity-building programs for coaching and officiating personnel, the implementation of structured youth academies, and the enhancement of sporting infrastructure. This collaborative framework underscores a shared vision for global football solidarity, aspiring to cultivate a more competitive and vibrant football landscape in the Pacific while offering unprecedented developmental pathways for aspiring athletes."
+    },
+    "vocabulary": [
+      {
+        "word": "Oceania",
+        "zh": "「大洋洲」：一個地理區域的名稱，主要包含太平洋上的島嶼國家，例如紐西蘭、斐濟等等。在這個新聞裡，它代表的是「大洋洲足球協會」（OFC）所負責的區域。"
+      },
+      {
+        "word": "development",
+        "zh": "「發展」：意思是進步、成長或擴大。新聞中提到「足球發展」，就是指讓足球運動變得更成熟、更普及、水準更高，有更多人參與，並培養出更多優秀人才。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-01",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeU1yMEpVeVFrRHhMYXlVQnY3QVRhQ2lzRkhONXhpMkZqR05uRXVsWDBDWmxGOGZMYjFYZTh5XzAxdVNyaTZaVVktem5CUXNveUF3S3FHSUFkU0FjcFEtcWwyRGhlT1g3eDFFUHVMMWVicEpTLTNmaTlXU0oyZmdLUUVoX0pyby04WnpqdEVQWFZDd0ZjNkZHZ296MEszTUlyZFdkMDdkbkJ3cEVrd0I0ekV3?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "全球大事報你知！唐獎六月揭曉，誰是下一個改變世界的英雄？",
     "zhSummary": "臺灣設立的國際級獎項「唐獎」，預計在六月公布第七屆得主。這個獎表揚在永續發展、生技醫藥、漢學與法治等領域有傑出貢獻的人，希望能鼓勵大家共同面對全球挑戰。",
     "zhContent": "<p>嗨，各位關心世界的酷朋友！最近有個超級重要的消息，跟一個叫做「唐獎」的國際大獎有關。這個獎呢，就像是全球各領域的「榮譽榜」，專門表揚那些對人類社會有特別貢獻的人。現在，第七屆的唐獎得主即將在六月揭曉囉！這可是一件備受全球矚目的大事呢。</p><p>你可能對「唐獎」有點陌生，它其實是臺灣在十年前設立的一個國際級獎項，目的是希望能鼓勵大家為世界做出貢獻。唐獎共有四個非常重要的領域：永續發展、生技醫藥、漢學和法治。這些領域都跟我們現在生活的世界息息相關，像是氣候變遷、疾病治療、文化理解和社會公平等等。這個獎希望在面對現在各種複雜的全球挑戰時，能鼓勵更多人一起努力，讓世界變得更好。</p><p>為什麼這次新聞特別提到「全球變局」呢？因為我們現在的世界真的變化很快，從環境問題到新興疾病，再到國際關係的挑戰，每天都有新的狀況發生。唐獎的評選委員會在決定得主的時候，也會觀察這些全球的趨勢，選出那些真正能夠為這些問題帶來解決方案，或是啟發我們思考未來方向的貢獻者。所以，每一屆的得主都代表了在特定領域中，對人類社會有深遠影響的成就。</p><p>接下來，從六月下旬開始，唐獎會陸續公布各個領域的得獎者名單。通常，這些得主都會是來自世界各地的頂尖學者或研究團隊。我們會看到他們是誰，以及他們具體的傑出貢獻是什麼。這些資訊會透過各種媒體平台公布，讓全世界都能知道這些為人類社會默默努力的英雄們。我們就一起期待六月唐獎的揭曉吧！</p>",
@@ -12563,461 +13018,6 @@
     "date": "2026-04-01",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEpMalNCRmltdWNyRDZoOWxoUjU2NTRKb0JsZ3VxZU51RXZ5eVNKb0JKRGlicDRJSmlNZ1JKZnVXN1Z6OGtqRFI3RElpU3Z1Z2VadlIweXV6X0xscDVVaHIxMWR4ckNyOThpWXYyanN1WTlWcW9lQ1ZJN1QzOGtKMzlMZ09WMmt6OTRZZllXRkJsWkZncnJ2MnotLS1LRFZab2VNZUNCRUl0cDJ0TFdwTFRiWG5YRExjcllEUmhpU0J2SUxDbnRBQUc2SXVnUGFNaFRSbkhWN08?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "奧運大變革：2028洛杉磯奧運起，生理性別為男性的跨性別女性選手將不能參加女子賽事！",
-    "zhSummary": "國際奧會宣布，為了確保女子體育賽事公平，從2028年洛杉磯奧運開始，生理性別為男性的跨性別女性運動員將被禁止參加女子組比賽。",
-    "zhContent": "<p>最近，國際奧會（簡稱IOC）做出了一個重大決定，將影響未來奧運比賽中，跨性別選手如何參與女子組賽事。根據公視新聞網的報導，國際奧會已經確定，從2028年在美國洛杉磯舉辦的夏季奧運開始，生理性別為男性的跨性別女性運動員將被禁止參加女子組的比賽。這個消息一出來，立刻在體育界和社會上引起了廣泛討論，因為它對許多運動員和未來的體育競賽規則都會帶來實際影響。</p><p>這項新規定具體來說是什麼意思呢？簡單來說，未來在奧運會的女子組賽事中，只允許那些從出生時生理性別就是女性的選手參賽。換句話說，如果一位運動員出生時的生理性別是男性，即使他後來認同自己是女性，並且已經進行了性別轉換或荷爾蒙治療，也將無法在女子組賽事中與其他出生為女性的選手競爭。這項改變特別針對的是過去在某些體育項目中，可能被允許參與女子組比賽的跨性別女性選手，現在他們的參賽資格將有明確的限制。</p><p>國際奧會做出這樣重大的政策調整，主要是基於確保體育競技公平性的考量。長期以來，關於跨性別女性選手參與女子賽事是否會造成不公平競爭，一直是各界討論的焦點。很多人認為，生理性別為男性的身體在力量、速度和體能上可能存在先天優勢，即使經過性別轉換，這些優勢可能仍然存在，進而影響到出生為女性的選手們在比賽中的公平性。因此，國際奧會希望透過這個新規定，來保障女子組運動員的比賽環境，確保她們有平等的競爭機會。</p><p>這項決定將從五年後的2028年洛杉磯奧運會正式開始實施。這代表未來幾年，各個單項體育協會和國家奧委會都需要配合這個新規定，並對選手的參賽資格進行調整。雖然這個決定引起了不同的聲音，但國際奧會希望藉由更明確的規範，讓全球最盛大的體育盛事——奧林匹克運動會，能在一個大家都能認同的公平原則下繼續進行。這就是目前這項政策的最新發展，也是它在未來實施的最終結果。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，國際奧會做出這項新規定的主要原因是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "IOC Bans Transgender Women from Women's Events Starting 2028 Los Angeles Olympics",
-    "enContent": {
-      "basic": "The International Olympic Committee (IOC) decided that starting from the 2028 Los Angeles Olympics, transgender women who were assigned male at birth cannot compete in women's sports. This decision aims to ensure fair competition for biological women.",
-      "intermediate": "The International Olympic Committee (IOC) has announced a significant policy change: transgender women, specifically those assigned male at birth, will be prohibited from participating in women's sporting events at the Olympic Games, effective from the 2028 Los Angeles Olympics. This move is primarily driven by concerns over competitive fairness and aims to protect the integrity of women's sports.",
-      "advanced": "In a landmark decision that will reshape future Olympic competitions, the International Olympic Committee (IOC) has declared that transgender women, identified as male at birth, will be barred from competing in women's categories. This policy, set to commence with the 2028 Los Angeles Olympic Games, underscores the IOC's commitment to upholding fairness and competitive equity within women's sports, addressing long-standing debates regarding biological advantages."
-    },
-    "vocabulary": [
-      {
-        "word": "transgender",
-        "zh": "跨性別：指一個人的性別認同與出生時被指定的生理性別不同。例如，出生時是男生，但心裡認同自己是女生。"
-      },
-      {
-        "word": "fairness",
-        "zh": "公平性：指事情或比賽在處理規則上，對所有參與者都是公正的，沒有偏袒，讓大家都有平等的機會。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-03-31",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50bzI3UjdaTERoYUg1NGRkNDhoRmlsUHZMZklfLWlLRzdOcGRZWG1Eb2Z3WGFoNnNkbUxTeERMM3g5S3R6aGFscnlaS0s5WEk?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "三月就熱爆！美國西南部寫下史上高溫新紀錄",
-    "zhSummary": "今年三月，美國西南部地區遭遇了異常高溫，許多地方的氣溫都打破了歷史紀錄，提早感受到夏季的酷熱。",
-    "zhContent": "<p>今年三月，美國西南部地區竟然提早感受到像夏天一樣的超高溫！這波不尋常的熱浪，讓這個季節完全不像春天，反而像炎熱的七、八月。許多地方的氣溫都打破了有紀錄以來的最高溫紀錄，讓當地居民都感到非常驚訝。</p><p>根據報導，包括亞利桑那州、內華達州和加州的部分地區，氣溫都衝破了歷史紀錄。例如，鳳凰城在三月底就飆升到攝氏38度左右，遠遠超過了這個時節平均的攝氏20多度。這不只是一天的異常，而是連續好幾天都維持著這樣的高溫，讓當地民眾直呼像是「從冬天直接跳到夏天」。</p><p>科學家和氣象專家對於這次提早到來的熱浪，都表達了高度關注。他們指出，這樣在三月就出現接近夏季的極端高溫，過去是非常罕見的。有些氣象人員甚至直接點出，這就是「氣候變遷正在發生的樣子」，意味著地球的整體氣溫可能正在上升，導致天氣模式變得越來越極端和難以預測。</p><p>這波三月熱浪不僅讓當地居民感到不適，也對當地農業和水資源造成了一定的壓力。雖然氣溫隨後會稍微下降，但這次的破紀錄高溫已經讓大家警覺，未來的春天和夏天可能會面臨更嚴峻的熱浪挑戰。目前，相關單位正持續監測氣溫變化，並評估這次異常高溫可能帶來的長期影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Records Shattered as Summer Heat Hits US Southwest in March",
-    "enContent": {
-      "basic": "The US Southwest had very hot weather in March, like summer. Many places broke temperature records. People were surprised because it was too hot for March. Experts said this looks like climate change. The heat worried people about water and farms. Authorities are watching the weather.",
-      "intermediate": "The US Southwest experienced an unusual heatwave in March, with summer-like temperatures shattering historical records. Cities like Phoenix reached nearly 38°C, far exceeding typical March averages. Scientists and meteorologists expressed concern, linking the early extreme heat to climate change, suggesting more unpredictable weather patterns globally. The heat impacted residents, agriculture, and water resources, prompting ongoing monitoring by authorities.",
-      "advanced": "An unprecedented heatwave gripped the U.S. Southwest in March, as summer-like conditions led to the shattering of numerous historical temperature records across the region. Parts of Arizona, Nevada, and California experienced prolonged periods of exceptionally high temperatures, with Phoenix, for instance, registering close to 38°C—a significant deviation from its seasonal norms. Climate scientists and meteorologists attributed these climatic anomalies to the broader phenomenon of climate change, indicating a trend toward more extreme and unpredictable weather patterns. The unseasonal heat created discomfort for residents and posed challenges for agricultural sectors and water management, with relevant agencies closely monitoring the long-term implications."
-    },
-    "vocabulary": [
-      {
-        "word": "Shattered",
-        "zh": "破紀錄：形容數字或紀錄被大幅度打破，就像玻璃碎掉一樣。在這裡指氣溫紀錄被打破。"
-      },
-      {
-        "word": "Southwest",
-        "zh": "西南部：指一個國家或地區偏西邊和偏南邊的區域。在新聞中是指美國的西南部地區。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-03-31",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkxxRDNweEQteURIVkRZOWNyOV9XM2hUenlrbDRJLUFNampLcTdHLVJ3WDBOdEQ2T1NNSEZRMHZHXzhHelExeVFUbnNEZEFmWkdBSGpvM0V4QnJSRjdDUUh5aEp0dTMwMnVrVUxIdDZha3dVU2ZQZ0xUYmZhZ3lPQmJySmRkT1JwRHhpTlVJeXVzaE1scEF5MzRqRXpNLXhWc3hwdmo1dFJJNVU3bzdLVjdGNHc4QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "華麗登場！黃金馬桶「空降」華府引熱議",
-    "zhSummary": "一座由18K金打造、可實際使用的藝術品「美國」馬桶，曾被博物館提供給白宮展出，引發外界對藝術力量的廣泛討論。",
-    "zhContent": "<p>最近，一個超級吸睛的藝術品在全球引發了熱烈討論，它不是畫作也不是雕像，而是一個貨真價實、由18K黃金打造的馬桶！這件名為「美國」（America）的黃金馬桶藝術品，一度成為華盛頓特區的焦點，因為提供它的博物館認為「藝術是一個非常強大的工具」，希望透過這件作品帶來一些衝擊與思考。</p><p>這個金光閃閃的「黃金寶座」是由義大利藝術家莫瑞吉奧·卡特蘭（Maurizio Cattelan）創作。它不只外表華麗，最特別的是，它是一個完全可以正常使用的馬桶，就連馬桶蓋和水箱都是黃金製成。這件作品在紐約古根漢美術館展出時，就吸引了無數好奇的民眾排隊體驗。後來，當白宮向古根漢美術館借展一幅梵谷的畫作時，美術館卻反過來建議，不如把這個黃金馬桶送到白宮，讓它在首都露面。</p><p>古根漢美術館提出這個大膽的建議，其實是有其藝術考量的。他們認為，這件名為「美國」的黃金馬桶不僅諷刺了過度的財富與權力，也反映了美國夢的某些面向，希望透過這件作品，在白宮中激發更多關於社會、政治和經濟不平等的對話。藝術家卡特蘭本人也曾表示，這件作品的意義在於提醒人們，即便在最奢華的表象下，人類本質的需求仍是共通的。</p><p>不過，這項特別的提議最終並未被白宮接受。據報導，白宮方面婉謝了古根漢美術館的好意，選擇了其他的替代方案。因此，這個黃金馬桶並未在白宮內部正式展出，而是回到了美術館的收藏之中，繼續作為一件引人深思的藝術品。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The Golden Toilet Throne Appears in DC: Art as a Powerful Tool",
-    "enContent": {
-      "basic": "A unique art piece, a functional toilet made of 18-karat gold, called 'America,' made headlines when it was offered to the White House in Washington D.C. The artist, Maurizio Cattelan, created it to make people think about wealth and society. The museum offering it believed 'Art is a very powerful tool.' However, the White House politely said no to the golden toilet, and it went back to the museum.",
-      "intermediate": "An 18-karat gold, fully functional toilet titled 'America,' created by Italian artist Maurizio Cattelan, garnered international attention when it was proposed for display at the White House in Washington D.C. Previously exhibited at the Guggenheim Museum, this 'golden throne' was offered by the museum in lieu of a requested Van Gogh painting. The museum intended for the artwork to spark dialogue on themes of wealth and inequality, emphasizing art's power as a tool for societal reflection. Ultimately, the White House declined the unusual offer, opting for a different arrangement, and the artwork returned to the museum's collection.",
-      "advanced": "The provocative 18-karat gold, fully functional toilet titled 'America,' a creation by Italian artist Maurizio Cattelan, captured headlines when it was offered to the White House in Washington D.C. by the Guggenheim Museum. This 'throne,' a commentary on excessive wealth, power, and the American dream, was intended by the museum to provoke critical discourse on social and economic disparities within the nation's highest office, underscoring the belief that 'Art is a very powerful tool.' Despite its conceptual depth and the museum's earnest proposal, the White House respectfully declined the unconventional offer, choosing an alternative arrangement, thus ensuring the artwork's return to the Guggenheim's permanent collection rather than a temporary installation in the executive mansion."
-    },
-    "vocabulary": [
-      {
-        "word": "Throne",
-        "zh": "寶座。這是一種國王或女王坐的、通常很華麗的椅子，在這裡用來特別形容那個由黃金打造的馬桶，帶有諷刺和尊貴的雙重意味。"
-      },
-      {
-        "word": "Installation",
-        "zh": "裝置藝術。這是一種藝術形式，藝術家會在一個特定的空間裡，用各種物品、燈光或聲音來創造一種獨特的氛圍和體驗，而不只是一幅畫或雕塑。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-03-31",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tU0NXc3VoVzR3dUxwVDZBcjVPZEtRRS1sZkhGbVlKcHRfNnhVbFNIakNtaGo4UXNvT2Fld1BoLWg2eGtqNXdWQ2lQSGtmQkVtYjJYQVN3NA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI打造川普「巨型玻璃摩天圖書館」想像圖，網路掀熱議！",
-    "zhSummary": "一段由人工智慧（AI）製作的影片在網路上引起廣泛關注，影片中呈現了一座極其宏偉的玻璃摩天大樓，被設想為美國前總統川普的總統圖書館。這段充滿未來感的影片，展示了一個與眾不同的概念性設計，但並非川普團隊的官方計畫。",
-    "zhContent": "<p>最近，網路世界因為一段人工智慧（AI）創作的影片而熱鬧滾滾，內容展示了一座超級壯觀、閃閃發光的玻璃摩天大樓。這棟建築不是普通的辦公室，而是被想像成美國前總統唐納·川普未來的總統圖書館。影片中的設計非常前衛，一下子就吸引了大家的目光，讓許多人開始討論，如果川普的圖書館真的長這樣，會是什麼樣子？</p><p>這段AI影片中描繪的摩天大樓，不僅外觀全由玻璃構成，高聳入雲，還帶有濃厚的未來感。它不只是一棟單純的建築，影片裡甚至還能看到大樓上方設計了代表川普的金色「T」字標誌，周圍則環繞著一整片精心規劃的園區與設施。整個視覺呈現非常華麗且充滿想像力，許多細節都讓人驚嘆。不過，我們要特別強調的是，這一切都是由AI技術生成的視覺概念，並不是川普陣營實際提出的建築計畫。</p><p>大家可能知道，美國前總統在卸任後通常會建立自己的總統圖書館，用來收藏任內的各種文件、紀念品，並作為一個研究和教育的場所。這些圖書館的建築風格大多會反映總統的個人特色或時代背景。而這段AI影片提出的設計，顯然和傳統的總統圖書館很不一樣，它更加大膽、浮誇，也更具科技感。雖然川普本人對於他的總統圖書館計畫尚未有任何官方宣布，但這段AI影片無疑為大家提供了一個前所未見的想像空間。</p><p>由於這座「巨型玻璃摩天圖書館」的設計實在太過吸睛，又搭上了AI技術的熱潮，這段影片在社群媒體上迅速傳開，引起了廣泛的討論和轉發。人們對它的評價褒貶不一，有人覺得充滿創意，有人則認為過於奢華。但不管大家怎麼看，最重要的是，目前這仍然只是一個由人工智慧創造出來的虛擬概念。川普及其團隊並沒有就此影片內容或相關建築計畫發表任何正式的聲明或決定，一切都還只是天馬行空的想像。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，AI影片所呈現的川普總統圖書館有哪些特別的設計？",
-      "生活與未來：你覺得由AI來設計建築物，未來可能會帶來哪些優點和缺點？",
-      "獨立思考提案：如果由你來設計一座總統圖書館，你會希望它擁有什麼樣的功能和特色？為什麼？"
-    ],
-    "enTitle": "AI Video Envisions Grand Glass Skyscraper for Trump Presidential Library",
-    "enContent": {
-      "basic": "An AI-generated video has gone viral, showcasing a huge glass skyscraper as a possible design for Donald Trump's presidential library. This futuristic concept has sparked much online discussion.",
-      "intermediate": "A new AI-generated video has captured significant attention online, depicting an incredibly grand glass skyscraper envisioned as the future presidential library for former U.S. President Donald Trump. The video presents a highly futuristic and elaborate design, notably different from traditional presidential libraries, featuring a golden 'T' and extensive surrounding facilities. However, it's crucial to understand that this is purely an AI-created visual concept, not an official proposal from Trump's team.",
-      "advanced": "Reuters reports on a widely-shared AI-generated video that has captured attention by proposing an immense glass skyscraper to house Donald Trump's presidential library. This conceptual design, distinct from the typical architectural styles of presidential libraries, is depicted with luxurious features including a golden 'T' emblem and extensive grounds, sparking significant online discussion. While former presidents commonly establish libraries, Trump has yet to announce official plans. The video remains an AI-created vision, lacking any official endorsement or concrete plans from Trump's camp, serving as a speculative glimpse into a potential, albeit unconfirmed, future architectural marvel."
-    },
-    "vocabulary": [
-      {
-        "word": "Skyscraper",
-        "zh": "摩天大樓：指那些特別高、可以直插雲霄的建築物。想像一下，如果你抬頭看，它高到幾乎看不到頂，那就是摩天大樓了！"
-      },
-      {
-        "word": "Envision",
-        "zh": "設想／想像：意思是在腦中想像或預見未來可能會發生或存在的景象。就像你在畫圖之前，先在腦海中勾勒出想要的畫面一樣。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-03-31",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFJQVVFacjJBZGRCWUVLcFdYbnU2cXkwMDNIN09XRXkzRzA2TmFEd0tadGtBcW4wb0FXcnlJa3BSNTMyRUdXWjBjcVhZclg1amdmbVRsclFiVjJIQVR0MVp3TldxeTUxT3Q5N1hkNDJBRTZzb2c5c29udUZURWp0QjJYazY3N2tKazF2WjdZcnZUbmw0V2k3QldZbF8yekx5U3JReFBUQ3lvcTNxQS1kV1dpOA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "青少年週末玩什麼？TAPinto 幫你挖寶！",
-    "zhSummary": "美國在地媒體 TAPinto 針對3月27日至3月29日這個週末，為當地居民發布了一篇實用活動指南，列出多樣化的有趣去處，幫助青少年和家庭規劃豐富的週末生活。",
-    "zhContent": "<p>嘿，各位想找樂子的朋友們！是不是每到週末，就開始想『這週末能去哪裡玩？』別擔心，美國的在地媒體 TAPinto 最近就幫當地居民，特別是像我們這樣的青少年和家庭，整理了一份超實用的週末活動清單。這篇報導的標題寫著『本週末在我們當地地區的有趣活動 — 3月27日 — 3月29日』，一看就知道，他們要帶大家挖寶啦！</p><p>TAPinto 這類的在地新聞網站，常扮演著社區好幫手的角色。他們不是報導驚天動地的大事，而是專注於日常生活中最關心的資訊。這份為3月27日至3月29日這個週末準備的活動指南，想必會涵蓋各種可能 — 從戶外踏青、藝文展覽、社區市集到親子活動，甚至可能是青少年感興趣的表演。目的就是讓大家，無論是個人、朋友團體還是全家人，都能輕鬆找到適合自己的行程，把週末排得滿滿、玩得開心。</p><p>在地媒體之所以會定期推出這類型的活動特輯，主要是因為他們深耕社區，了解當地居民需求。他們會主動聯繫學校、圖書館、文化中心或地方社團，蒐集第一手活動資訊，再彙整成一篇條理分明的報導。這樣一來，大家就不用自己花時間上網大海撈針，只要鎖定 TAPinto 這樣的平台，就能掌握週末最夯去處，省下找資料的時間，把更多精力放在享受活動本身。</p><p>所以，這份由 TAPinto 在指定週末（3月27日至3月29日）推出的『有趣活動指南』，就是他們為在地社區盡一份心力的方式。它成功地將當地林林總總的活動資訊集中呈現，讓居民可以更方便地規劃假期。換句話說，這是一份實用的地方生活資訊，幫助人們度過一個充實愉快的週末，報導任務到此為止。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "What to Do This Weekend? TAPinto Helps Teens Find Fun!",
-    "enContent": {
-      "basic": "TAPinto, a local news website in the US, published a guide for fun activities from March 27th to March 29th. It helps local people, especially teens and families, find things to do on the weekend. The article lists different types of events like outdoor activities, art shows, or community markets. This way, everyone can easily plan a fun and busy weekend.",
-      "intermediate": "TAPinto, a local media outlet in the United States, compiled a comprehensive guide for weekend activities from March 27th to March 29th. Titled \"Fun Things to Do in and Around Our Local Area This Weekend,\" the report aims to assist residents, particularly adolescents and families, in discovering diverse recreational opportunities. Such local platforms play a crucial role by curating information on outdoor excursions, cultural events, and community gatherings, enabling individuals and groups to effortlessly plan engaging weekend itineraries.",
-      "advanced": "Serving as a vital community resource, TAPinto, a prominent local news organization in the US, released an exhaustive compendium of weekend activities for March 27th through March 29th. Bearing the title \"Fun Things to Do in and Around Our Local Area This Weekend,\" this publication is meticulously crafted to empower local residents, including adolescents and families, with readily accessible information on a diverse array of recreational and cultural engagements. By consolidating details on outdoor pursuits, artistic exhibitions, local markets, and family-oriented events, TAPinto effectively streamlines the weekend planning process, fostering enhanced community engagement and leisure participation. This initiative exemplifies local journalism's commitment to enriching civic life through practical, curated content."
-    },
-    "vocabulary": [
-      {
-        "word": "local area",
-        "zh": "當地地區，指一個地方的附近範圍，通常是大家住家附近、比較熟悉的區域。"
-      },
-      {
-        "word": "weekend",
-        "zh": "週末，通常是指星期六和星期日的兩天假期。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-03-31",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORDhaTmRDcTFlOEIzcmlZY1N5YnpNdjRsNDBtY2FtYVdMcF9QcmFWd0toU3l3MVJyRDJKaVVDY2tkQ0c2UjllQ2ZQbDd2Z2M0MHNvMmhmWkR1SmhoajRFQjVWTk9PZGxiZ0RieEt4b21iYWRMdGJOX1YwaG5tVnE3Nmc4Z1dteThVTThWWC1aRTlQNGZVLU5yOHRHZF9qOWk5c2JPUFhPZjJiTjdTcTdIc0dGWkVzN3NjVEZBcGo2Z1N2cWwwSExyU0M2QXUxRXhJNmlJRUtORm9tYmhsOGk1dnZ0empqajJhSVNaeWxYUVhLWWJu?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "伊朗遭空襲：癌症藥廠與宗教聖地受波及",
-    "zhSummary": "根據外國媒體報導，伊朗境內近期遭受以色列和美國的聯合空襲，目標據稱包括了一處生產癌症藥物的設施，以及一個宗教場所。這起事件引發了外界對地區情勢的關注。",
-    "zhContent": "<p>最近，根據外國媒體Al Jazeera的報導，中東地區發生了一件引發國際關注的事情。有消息指出，伊朗境內遭到了一波來自以色列和美國的聯合空襲。這次空襲的目標並非一般軍事設施，而是瞄準了兩個特別的地方，讓許多人感到意外。</p><p>據報導指出，其中一個被鎖定的目標，是伊朗當地一個非常重要的場所——一處專門生產癌症藥物的設施。這類設施對於需要長期治療的病患來說，是維持生命的重要關鍵。另一個遭到攻擊的地點，則是一個具有宗教意義的場所，這類地點通常是人們進行信仰活動與心靈寄託的空間。</p><p>這次的攻擊行動，是由以色列和美國共同進行的。對於伊朗來說，這無疑是一個嚴峻的狀況，尤其是一個用來生產癌症藥物的設施受到波及，對於當地民眾的醫療健康和日常生活可能會造成不小的衝擊。而宗教場所的性質，也讓這次事件在國際社會中引發了更多討論。</p><p>目前，外界對於這些設施受損的程度，以及這次空襲會帶來什麼樣的後續影響，都還在密切關注中。各方對此事件的反應，相信也會是接下來的重點，牽動著中東地區未來的局勢發展。這起事件的最新進展，還有待進一步的觀察與報導。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「癌症藥物設施」和「宗教場所」被攻擊，你覺得這和攻擊一般軍事設施有什麼不一樣？",
-      "生活與未來：你覺得這個事件可能會對伊朗當地需要癌症藥物的病患，或是信仰這些宗教的人造成什麼實際影響？",
-      "獨立思考提案：如果類似的衝突發生在其他國家，你會建議國際社會如何應對，才能盡量避免平民相關設施受到波及？"
-    ],
-    "enTitle": "Iran Hit by Israeli-US Strikes: Cancer Drug Facility and Religious Site Affected",
-    "enContent": {
-      "basic": "Al Jazeera reported recently that Iran was hit by Israeli-US airstrikes. These strikes targeted two specific locations. One was a facility that makes cancer drugs, which are very important for patients. The other target was a religious site. This event has caused global concern about the situation in the region.",
-      "intermediate": "According to a report from Al Jazeera, Iran recently experienced joint airstrikes carried out by Israel and the United States. Unlike typical military targets, these strikes reportedly hit a cancer drug manufacturing facility, crucial for patient treatment, and a religious site. This incident has raised significant international concern regarding regional stability and humanitarian implications.",
-      "advanced": "Al Jazeera has recently reported on Israeli-US aerial assaults targeting specific non-military sites within Iran. The strikes reportedly impacted a critical cancer drug manufacturing facility, which is vital for public health, as well as a religious site. This incident has sparked considerable international alarm, drawing attention to the escalating tensions in the Middle East and the potential humanitarian consequences of such actions."
-    },
-    "vocabulary": [
-      {
-        "word": "Facility",
-        "zh": "設施 (shèshī)：指為了特定目的而建造或提供的場所或設備，例如學校、醫院、工廠等，用來進行某些活動。"
-      },
-      {
-        "word": "Strikes",
-        "zh": "空襲 (kōngxí)：指利用飛機從空中對地面或海上目標進行的攻擊行為，通常涉及投擲炸彈或發射導彈。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-03-31",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2hnMUE0N0cwX201ZGJBS2tkUmlnTWhKeEw4LUV0bk1faUN5QjJ1T2NqazNxM1NtUm9adE91dmlMUXJkWFU3bDZ5Mk5zWXQ5VXpoRHhBcWowRWhCNjNxVHB0c2dEMXRTSmtGa2NoWlFiR0dUbEhkLTBmNnFVQWQwZUZ1V2FzejZCbWxpMnMyNFJqRy1jYjFhZ001ZFM2MFZaT0M0eWtlWkdxVEZUdFdr0gG0AUFVX3lxTE9EYnY4d0didjU3U2NvMERGNGZwaWwtUGppSVh4TnJycE1KYW8teGRfTnJpdXZkWjNmUkxHOXpZNnpaWWFrRlV6LXBWc1F5ajNPMEJGODhjNUlQU3JLLXV0WHBfN3ozcjc0Qk50clJrRnN1YjZIelN3YUZtSWZjb3NUQnEzMEQ2SVFuOWI1NFFPWU54bWdXLXlrUlpiN1RzdTVYbEsxdjYyNEE5Zm9BS1VBNUQzVw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美軍艦隊進駐巴拿馬：揭秘南美洲聯合軍事演習！",
-    "zhSummary": "美國海軍近期將軍艦和人員派駐到中美洲的巴拿馬，將與南美洲多國進行一場聯合軍事演習。這次行動由路透社報導，旨在加強區域安全、提升各國軍隊的協調合作能力，並練習共同應對各種挑戰。",
-    "zhContent": "<p>美國海軍最近有個重要消息！他們把一些軍艦和相關人員，大規模派駐到了中美洲的巴拿馬。這趟任務可不是去觀光或度假，而是要和南美洲的一些國家，一起進行一場大型的聯合軍事訓練。這個消息是由國際知名的路透社報導出來的，讓全球都關注到這次美國軍隊在拉丁美洲地區的最新部署行動。</p><p>這些軍事訓練，我們通常稱之為「演習」，它的主要目的是為了讓參與的各國軍隊能夠更好地協調合作。想像一下，就像體育團隊的集訓一樣，大家要一起練習新的戰術、學習如何在不同語言和文化背景下有效溝通，並熟悉彼此的武器裝備和運作模式。巴拿馬因為其重要的地理位置，特別是掌控著全球貿易要道巴拿馬運河，成為這次大型演習的關鍵據點，它能提供理想的訓練環境。</p><p>舉行這類型的國際軍事合作，通常背後有多重考量。美國海軍與南美洲國家合作，一方面是為了加強整個區域的安全防衛能力，提升各國應對潛在威脅的能力；另一方面，這也可能是為了共同打擊某些跨國犯罪，例如毒品走私或非法捕魚活動，或是提升在面對大型自然災害（比如颶風或地震）時的聯合救援應變能力。美軍會與南美洲的盟友們並肩演練，確保大家在必要時能夠快速有效地互相支援與配合，增進彼此的默契。</p><p>這次美軍派駐到巴拿馬的行動，以及與南美洲國家的聯合軍事演習，目前正按照既定計畫持續進行中。這些演習通常會有詳細的時間表和訓練內容，讓參與的軍隊能達到預期的訓練目標。當所有預定的訓練項目都順利完成後，參與的船艦和人員就會依據任務安排，按部就班地撤離該區域。這是一次例行性的國際合作，目的是為了維持區域的穩定與和平，並非暗示有新的重大衝突正在發生。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Navy Deploys to Panama for South America Drills",
-    "enContent": {
-      "basic": "The US Navy has sent ships and people to Panama. They are practicing military exercises with countries in South America. This is to help them work together better and improve security.",
-      "intermediate": "The United States Navy recently deployed vessels and personnel to Panama in Central America. This move is for joint military drills with several South American nations, as reported by Reuters. The exercises aim to enhance regional security and cooperation among the participating forces.",
-      "advanced": "Reuters reports that the United States Navy has deployed significant naval assets and personnel to Panama to conduct a series of multinational military drills with various South American countries. These exercises are aimed at enhancing regional security cooperation, improving interoperability among participating forces, and strengthening collective response capabilities to various threats, including transnational crime and disaster relief operations."
-    },
-    "vocabulary": [
-      {
-        "word": "Deploy",
-        "zh": "部署 (drew-boo-shoo)：中文意思是把軍隊、船艦或裝備等安排到特定地點執行任務。簡單解釋：想像你玩樂高時，把不同的積木放在不同的位置，讓它們各自發揮作用。軍隊把士兵或船艦送到一個地方，就是為了在那裡執行某項工作，比如訓練或保護。"
-      },
-      {
-        "word": "Drills",
-        "zh": "演習 (yen-shee)：中文意思是模擬實戰的訓練活動，通常用於軍隊或緊急應變團隊。簡單解釋：就像學校的消防演練一樣，不是真的失火，而是為了練習如何在真的失火時快速又安全地逃生。軍隊的演習就是讓士兵們在安全的情況下，練習作戰技巧和團隊合作，以應對未來的挑戰。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-03-31",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1cktFV1hTbTNFTk1KaHRGanowZVVYNW94VWdZcUNHVUczTExxU1VXOFA5Qzhva1ZOZjFyT3RNVlhwMWJVX0xoSG05cENkbGl0cVdIMWpOOHBJTkItUFlBa2U0UnZIcU0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國老大哥「發脾氣」？川普向英法盟友放出重話，暗示不再無條件相挺",
-    "zhSummary": "美國前總統川普曾公開批評英國和法國，威脅美國可能不再無條件提供幫助。這番言論主要源於他對盟友國防開支不足的不滿，希望盟友能承擔更多責任，而非總是依賴美國。",
-    "zhContent": "<p>美國前總統川普在任職期間，曾經對英國和法國這兩個重要的盟友發出過嚴厲的警告。根據美國財經新聞頻道CNBC的報導，川普當時直接向這些盟友表示，美國以後可能不會再像過去那樣一直為他們提供幫助了。這番話一出，立刻引起了國際社會的廣泛關注，因為它挑戰了美國與歐洲傳統盟友之間長期以來的關係模式。</p><p>川普之所以會說出這樣的話，主要原因是他對盟友們在國防開支上的投入感到不滿。他認為，包括英國和法國在內的許多歐洲國家，並沒有按照北大西洋公約組織（NATO）的要求，將足夠比例的國家財富投入到自己的防禦上。川普多次公開表示，美國為了保護這些盟友付出了巨大的代價，但盟友們卻沒有承擔起應有的責任。</p><p>當時，川普這種「美國優先」的政策思想貫穿了他的整個外交策略。他堅信，如果盟友們不願意為自己的安全付出更多，美國就沒有理由繼續無條件地提供支持。他希望透過這種強硬的言論，促使盟友們增加國防預算，更加獨立地承擔防衛任務，而不是總是依賴美國這一個「老大哥」。這使得美國與許多傳統盟友的關係一度陷入緊張。</p><p>儘管川普的這番警告聽起來十分強硬，但美國與英國、法國之間的實際合作並沒有因此而立即停止。不過，他的言論確實讓盟友們之間產生了不小的疑慮和緊張氣氛。這起事件反映了當時美國政府希望重新調整與盟友關係的意圖，也讓大家看到，即使是關係再好的盟友，也會因為利益分配和責任承擔的問題而產生摩擦。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump Lashes Out at UK and France, Threatening to Withdraw US Aid",
-    "enContent": {
-      "basic": "Former US President Donald Trump strongly criticized the United Kingdom and France, saying the USA might not help them anymore. This news came from CNBC. He was upset because he thought these allies were not spending enough money on their own defense. Trump wanted them to pay more to protect themselves. This made some allies worried about US support.",
-      "intermediate": "Former US President Donald Trump publicly criticized key allies, the United Kingdom and France, threatening that the United States would no longer provide them with help as it had in the past. Reported by CNBC, these comments stemmed from Trump's long-standing belief that many European NATO members were not meeting their defense spending obligations. He argued that the US bore too much of the financial burden for collective security, urging allies to take greater responsibility for their own protection.",
-      "advanced": "During his presidency, Donald Trump vociferously lambasted traditional NATO allies, including the United Kingdom and France, signaling a potential withdrawal of enduring U.S. support. As reported by CNBC, Trump's pronouncements underscored a foundational tenet of his \"America First\" doctrine: a demand for greater burden-sharing from allied nations, particularly regarding defense expenditures. He consistently contended that European members of the North Atlantic Treaty Organization were remiss in dedicating the requisite percentage of their GDP to defense, thereby unfairly leveraging American military and financial commitments. This rhetoric, while creating considerable transatlantic friction, aimed to compel allies toward increased self-reliance and greater contributions to collective security."
-    },
-    "vocabulary": [
-      {
-        "word": "lash out",
-        "zh": "猛烈抨擊。意思是突然而強烈地批評或攻擊某人或某事，就像突然揮鞭一樣。"
-      },
-      {
-        "word": "allies",
-        "zh": "盟友。指在共同的目標或利益下，互相支持、合作的國家或團體。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-03-31",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXpTMU8tVkYwRnpMWjMzU1AyQ3JKaDZuY2lEekxNNUF3RUEyTlQzYmtrVFVtTkZZMkU2NEVrZUFnMm0xSEFTb0xSUlhxVUdpWWg1U2Noek1XZWIyOXdnQUV1NHotMW9LS04xb0J5M3RPYnNDcFQwYVA5Ukl3TUpiNDNnbDBydmExUlJoT3VDbzNrYklwYnU2alVlaW96WnNlWURiZEx1cW40MGPSAbABQVVfeXFMTnhsQWNCdmN0Ry0yU3QxNHpfQ0djM2tycVFnV2Q2VTBya1c1YjdkYlpmTzRDNWV3MnVaQk90WG9ZTGNsN3N6dTB3WTl6V0JJVVhuQUtYSFA2UDBneTBuZWlEaktZZ3lMTUlrUnR3LVRjNHFPMjRQc1NYUXMtVHhxLU1HR0trT1FDWlFPZWZqTE9ORzFxT0liblF0ZkhBSVRZWEFoNjNBbzhHTXYzOElFbmg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非政府出招：油價飆漲，減稅一個月幫大家省荷包！",
-    "zhSummary": "南非政府為了減輕人民負擔，決定暫時降低燃油稅一個月，來應對國際油價上漲帶來的衝擊，並尋找更多長期解決方案。",
-    "zhContent": "<p>最近全球油價一直漲，開車、騎車的人都很有感。南非政府為了幫大家度過這個難關，做了一個重要的決定：他們宣布將暫時調降國內的燃油稅，而且這個措施會實施整整一個月。這個決定是希望讓南非的民眾和企業在面對燃料價格高漲時，能夠稍微喘口氣，減少一點負擔。</p><p>所謂的「燃油稅」，就是我們每次加油時，政府會另外收的一筆費用，這筆錢會加在油價裡面。當政府決定「調降燃油稅」時，就表示大家在加油時，需要支付的總金額會變少。南非政府這次將這個稅收減少一個月，等於是直接讓油價降低，這對每天需要用車的家庭和物流公司來說，都能省下一筆開銷。</p><p>那麼，南非政府為什麼會做出這個決定呢？主要的原因是，最近全球的石油價格因為一些國際事件而大幅上漲，特別是「伊朗戰爭」的影響，導致原油供應不穩定，價格也跟著往上飆。南非作為一個依賴進口石油的國家，自然也受到了很大的影響，國內的燃料費用因此變得非常昂貴。</p><p>所以，這次的燃油稅調降，就是南非政府提出的一個短期應對方案。雖然只有一個月，但至少能立即減輕民眾的部分壓力。同時，南非政府也表示，他們正在積極研究其他更多的方法，希望能夠找到更長期的解決方案，來穩定國內的燃料價格，並應對國際油價波動帶來的衝擊。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中南非政府採取了什麼具體的措施？這樣做的原因是什麼？",
-      "生活與未來：你覺得這個改變會對南非當地開車的人或貨運公司造成什麼實際影響？",
-      "獨立思考提案：針對這次的短期減稅措施，你覺得南非政府還可以怎麼做，才能更好地長期幫助人民應對油價上漲？"
-    ],
-    "enTitle": "South Africa Temporarily Cuts Fuel Levy Amid Rising Global Oil Prices",
-    "enContent": {
-      "basic": "South Africa decided to cut its fuel tax for one month. This is because oil prices are going up around the world, especially due to the Iran war. The government wants to help people and businesses pay less for gas for a little while. They are also looking for other ways to fix the problem for a longer time.",
-      "intermediate": "The South African government announced a temporary reduction in the fuel levy for a duration of one month. This measure aims to ease the financial burden on citizens and businesses experiencing higher fuel costs. The increase in global oil prices, partly attributed to the impact of the Iran war on supply, has led to a significant rise in domestic fuel expenses. While this is a short-term solution, the government is exploring further strategies to stabilize fuel prices and mitigate future shocks.",
-      "advanced": "In response to the escalating global oil prices, significantly influenced by disruptions stemming from the Iran war, the South African government has implemented a temporary one-month reduction in the domestic fuel levy. This fiscal adjustment is designed to provide immediate relief to consumers and businesses grappling with increased fuel expenses. Concurrently, authorities are actively pursuing comprehensive, long-term strategies to stabilize fuel costs and insulate the economy from the volatility of international oil markets, recognizing the transient nature of the current intervention."
-    },
-    "vocabulary": [
-      {
-        "word": "Levy",
-        "zh": "稅賦。政府向人民或公司收取的一種費用，通常是為了特定的目的，例如這次是加在燃料上的稅金。"
-      },
-      {
-        "word": "Offset",
-        "zh": "抵銷。用一種東西來平衡或減少另一種東西的影響或價值。在這裡，指南非政府想用減稅來抵銷油價上漲帶來的衝擊。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-03-31",
-    "sourceName": "CNBC Africa",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1FlcmJPMl9yZ0lqc2E2R2VnZkpzMmRVbGdsZ1d0dWJhT0ZtZ1EtMFhhTjlJYUZZNnJSVXVMd2xFZXVtVzUyOFdfOVJNZkhWbmtzWkRWOE5Sc2pNSVVGeWdKUFpTc0k0VG5yRDRWUFM1VUhFWDVFSGIzb2RlRllEQ2d6Ni1BcS1ic1lNOVlFLUkyZzZsQ3plb29ZWkl0bkpQeEV1d2p5aTNMWEZZTEpVUGtUZ2VpUWRGWHR4M0RTaw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "全球貨運大動盪！曼德海峽，你聽過嗎？",
-    "zhSummary": "葉門的胡塞組織在曼德海峽襲擊商船，造成全球航運公司更改航線，引發國際貿易成本上升和延誤的擔憂。",
-    "zhContent": "<p>各位同學，最近全球航運界發生了一件大新聞，地點在一個叫做「曼德海峽」（Bab al-Mandab strait）的地方。這個海峽是連接紅海和亞丁灣的關鍵水道，每天都有超多貨船經過，把全世界的商品從亞洲運到歐洲，或從歐洲運到亞洲。但現在，一群來自葉門、叫做「胡塞」（Houthi）的組織，他們是伊朗的盟友，突然開始攻擊這裡的商船，讓整個國際貿易都緊張起來。</p><p>胡塞組織公開表示，他們的目標是那些他們認為與以色列有關的船隻，目的是要對以色列施加壓力。他們確實發射了無人機和反艦飛彈，襲擊了幾艘貨船，有些船隻因此受損，甚至有船員因此受傷。這讓國際社會，特別是那些依賴這條航線的航運公司，感到非常震驚和不安。許多船東為了安全，甚至考慮讓船隻改變航線。</p><p>這些攻擊行動的背後，是胡塞組織聲稱要聲援巴勒斯坦人民，抗議以色列在加薩地區的軍事行動。由於他們跟伊朗關係密切，而且伊朗也在中東地區扮演重要角色，所以這次攻擊不只影響了貿易，也讓大家擔心原本就已經很複雜的中東局勢，會不會因此變得更不穩定，甚至擴大衝突範圍。</p><p>面對不斷升高的威脅，許多全球知名的航運巨頭，像是地中海航運（MSC）、馬士基（Maersk）和赫伯羅德（Hapag-Lloyd）等，都陸續宣布暫停船隻通過曼德海峽，轉而選擇繞道更遙遠的非洲好望角。這條新航線雖然比較安全，但卻會增加數千公里的航程、好幾天的時間，以及更多的燃料費用。這導致貨物運輸成本上升，也讓全球供應鏈面臨新的挑戰，目前情況仍在持續發展中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Global Trade Routes Under Threat: Houthi Attacks in Bab al-Mandab Strait Spark Fears",
-    "enContent": {
-      "basic": "Bad news from a place called the Bab al-Mandab strait! This is a very important sea road where many ships carry goods. A group called the Houthis, who are friends with Iran, started attacking these ships. This made many companies worried, and now some ships are taking a much longer, safer way around Africa. This means things might cost more and take longer to arrive.",
-      "intermediate": "The Bab al-Mandab strait, a vital shipping lane connecting the Red Sea and the Gulf of Aden, is facing disruption. Houthi rebels, an Iran-backed group in Yemen, have launched attacks on commercial vessels in the area. They claim these attacks are in solidarity with Palestinians and target ships linked to Israel. This has prompted several major shipping companies to reroute their vessels around the Cape of Good Hope, a much longer journey, leading to concerns about increased costs and delays in global trade.",
-      "advanced": "Concerns are escalating over the security of the Bab al-Mandab strait, a pivotal maritime chokepoint linking the Red Sea to the Gulf of Aden, following a surge in attacks by Yemen's Houthi rebels. The Iran-aligned group has targeted commercial shipping, asserting solidarity with Palestinians amid ongoing conflict. These actions have compelled leading global shipping firms, including Maersk and MSC, to suspend transits through the strait, opting instead for the significantly longer and costlier route via the Cape of Good Hope. This development threatens to exacerbate disruptions in global supply chains and elevate shipping expenditures, contributing to heightened geopolitical tensions in the region."
-    },
-    "vocabulary": [
-      {
-        "word": "strait",
-        "zh": "海峽：想像兩塊陸地中間，有一條窄窄的水道連接著兩片大海。船隻要從一個海域到另一個海域，常常會選擇走這條比較近的水道，這就是海峽。"
-      },
-      {
-        "word": "ally",
-        "zh": "盟友：指在某件事情上互相支持、合作的朋友或團體。他們因為有共同的目標或利益，所以會互相幫助。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-03-31",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2FaRmZJRG1JVFZUUGtXSUxMalh2WlpJLUdFS3gwemlLRjJqR09YQzZ2WTgtSzdnX0VpNzJ3eFFFMjVYdXVzT2g3QU12bHNBUHZfbERzS0d4bWJkWFIwdXlsTFZvNjVTT1VuWnJoWXVLWExGUmxScV9GZi1aX3l0d3VMbEktdmhRS0JCNkt4dWI4Y2FweEQtbFlVblRvY0t6bzNlR1NXMnd6S3JBZ2VaV25GaGYwczBENk5vZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普一發言，亞洲股市嚇到跌倒？伊朗戰事風波引發油價震盪",
-    "zhSummary": "美前總統川普對伊朗戰事的相關言論，讓國際原油價格出現大幅波動，進而導致亞洲大部分的股票市場都跟著下跌。",
-    "zhContent": "<p>最近，一條來自CNBC的新聞引起了大家的注意。報導指出，因為美國前總統川普對可能與伊朗發生的戰事發表了一些看法，國際原油的價格開始出現劇烈變動。這個變化也嚇到了亞洲地區的股票市場，導致大部分國家的股市都呈現下跌的狀況。簡單來說，一個重要人物的幾句話，竟然能讓全球經濟跟著「抖」了一下。</p><p>為什麼川普提到伊朗戰事會影響到油價呢？主要是因為伊朗是一個重要的石油生產國，而且它位處的波斯灣地區也是全球石油運輸的關鍵航道。一旦戰爭的風險升高，大家就會擔心石油的供應會受到影響，或者運輸變得不安全。這種不確定性會讓石油的價格一下子漲很高，一下子又跌下來，這種忽高忽低的狀態，我們就稱作「波動性」（volatility）。</p><p>當油價開始這樣劇烈變動時，不僅是石油公司會受到影響，全球的經濟活動也會跟著緊張起來。許多企業的營運成本會增加，例如運輸費變貴，消費者可能也要付出更多的錢來加油。投資者們看到這種情況，就會擔心未來經濟可能會變差，所以他們會選擇賣出股票，讓自己的錢比較安全，這就導致了股市的下跌。</p><p>因此，當時亞洲市場上的許多主要股市，像日本、韓國和香港等，都普遍出現了下跌的趨勢。這顯示出國際情勢，尤其是像這樣可能涉及能源供應的重大事件，對全球經濟的影響力有多大。目前最新的進展就是，這些市場確實受到了衝擊，具體後續發展還需要繼續觀察。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Asia Markets Mostly Fall as Trump Comments on Iran War Stoke Oil Volatility",
-    "enContent": {
-      "basic": "Donald Trump's comments about a possible war with Iran caused oil prices to go up and down a lot. This made many stock markets in Asia fall down.",
-      "intermediate": "Former U.S. President Donald Trump's remarks concerning a potential conflict with Iran led to significant volatility in global oil prices. Consequently, most major stock markets across Asia experienced a decline.",
-      "advanced": "CNBC reported that former U.S. President Donald Trump's statements regarding a hypothetical armed conflict with Iran triggered substantial fluctuations in international crude oil benchmarks. This geopolitical uncertainty directly contributed to a widespread downturn observed across various Asian financial markets."
-    },
-    "vocabulary": [
-      {
-        "word": "volatility",
-        "zh": "波動性 (bo dong xing) - 當價格或情況一下子高、一下子低，很不穩定，就像坐雲霄飛車一樣。"
-      },
-      {
-        "word": "markets",
-        "zh": "市場 (shi chang) - 指的是大家買賣商品、服務或股票的地方，像是菜市場是買菜的市場，股市就是買賣股票的市場。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-03-31",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbERZNUVZRTlMUlluZXZLeGplZFB6MGNydGY5ODM5dU90MXJfT2tEaG5XV2gwRnFfS1J5UFcxazNLWjdIaUJUcjZ5RnliX1l6UlcxX1VKNWY4NXFxaHN3ZDl4SWRpa3laNUtzYXZ3QzI5eGJQakFZUnlmYktiaHIxTDd30gGHAUFVX3lxTE43ZURTb3I0QVNDSTEyX1ZneG1fWFlIcHZXMUxHMnJhRm1oWGJxNlRmcElNY0dKdkFiQ3JVR2M0Qk16OG8zeTE3Nlc2T0dUZzRPMkg4VUR6WDREQXBmSU95Z0RtRS1rQ0s0WjVpVmVORzliT0F4WEo1SVYxN2hHU3VzRmQ4aVp4Zw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "歐洲歌唱大賽瘋亞洲！史上首屆「亞洲歌唱大賽」準備開唱囉！",
-    "zhSummary": "歐洲歌唱大賽將首次在亞洲地區推出全新版本「亞洲歌唱大賽」，由澳洲主辦，預計將有二十個國家參賽，旨在促進亞洲音樂交流。",
-    "zhContent": "<p>你聽過歐洲歌唱大賽嗎？這是一個超大型的國際音樂選秀比賽，每年都會吸引數百萬人觀看，各國派出代表歌手，用音樂一較高下。現在有個超級勁爆的消息傳來了：這個紅遍全球的音樂盛事，即將首次踏足亞洲，推出專屬於亞洲地區的版本！根據英國廣播公司（BBC）的報導，這項全新的比賽將被命名為「亞洲歌唱大賽」（Eurovision Asia Song Contest），預計將在澳洲舉辦首屆賽事。這對所有熱愛音樂、關心流行文化的亞洲青少年來說，絕對是個讓人眼睛為之一亮的大事件！</p><p>這個「亞洲歌唱大賽」將會沿襲歐洲版的經典模式。想像一下，來自亞洲不同國家的頂尖歌手，都會代表自己的國家站上舞台，帶來最能代表他們文化的精彩表演。目前主辦單位已經透露，將會有多達二十個亞洲國家參與這場音樂盛宴，其中包括了音樂產業非常發達的南韓、日本、中國，還有印度、新加坡以及主辦國澳洲等。澳洲之所以能成為首屆主辦國，是因為他們多年來都是歐洲歌唱大賽的固定班底，並且與歐洲廣播聯盟（EBU）有著深厚的合作關係。這次亞洲版的推出，是歐洲廣播聯盟與澳洲的SBS電視台，以及製作公司Blink TV共同攜手合作的成果。</p><p>那麼，為什麼會選在這個時候推出亞洲版呢？其實，歐洲歌唱大賽在全球各地都有著龐大的粉絲群，不只是歐洲，在亞洲地區也累積了許多忠實觀眾。主辦單位看到了亞洲音樂市場的巨大潛力，他們認為亞洲是一個充滿活力、文化多元的地區，有著無數才華洋溢的歌手和獨特的音樂風格。透過「亞洲歌唱大賽」這個平台，不僅能讓更多人欣賞到亞洲的音樂創作，也能促進不同國家之間的文化交流與理解。這也是歐洲歌唱大賽這個品牌，首次將其影響力擴展到歐洲大陸以外的廣大區域，意義非凡。</p><p>目前，「亞洲歌唱大賽」的各項籌備工作正在緊鑼密鼓地進行中。雖然確切的舉辦日期和更詳細的比賽規則，還有最終的參賽國家名單，都還在陸續規劃與確認中，將會在未來的時間點正式對外公布。但可以確定的是，這將是亞洲地區音樂界的一場劃時代的盛事。我們都非常期待，當亞洲各國的音樂代表們齊聚一堂，他們會用什麼樣的歌聲和舞台魅力，來征服所有觀眾的心，並共同創造歷史呢？就讓我們拭目以待吧！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Eurovision Song Contest Launches First-Ever Asia Edition",
-    "enContent": {
-      "basic": "The famous Eurovision Song Contest is coming to Asia for the first time! It will be called the \"Eurovision Asia Song Contest\" and will be held in Australia. Many Asian countries, like Korea, Japan, and China, will send singers to compete. This is a big deal for music fans in Asia.",
-      "intermediate": "The globally popular Eurovision Song Contest is expanding its reach by launching its first-ever Asian edition, titled \"Eurovision Asia Song Contest.\" Hosted by Australia, this new competition will follow the established format, allowing up to twenty Asian nations, including major players like South Korea, Japan, China, India, and Singapore, to showcase their musical talents. This initiative aims to foster cultural exchange and highlight the diverse music landscape of Asia, building on Eurovision's global appeal.",
-      "advanced": "Breaking new ground, the European Broadcasting Union (EBU) in collaboration with Australia's SBS television and production company Blink TV, has officially announced the launch of the \"Eurovision Asia Song Contest.\" This landmark expansion marks the first time the iconic song competition will extend its brand beyond Europe, with its inaugural edition slated to take place in Australia. Expected to feature up to twenty Asian nations, including economic and cultural powerhouses, the contest is designed to mirror its European counterpart, emphasizing national representation through music and fostering significant cultural dialogue across the continent. Further details regarding participating countries and event specifics are anticipated."
-    },
-    "vocabulary": [
-      {
-        "word": "contest",
-        "zh": "競賽、比賽。意思是大家一起參加，看誰表現得最好或最快的一種活動。像是歌唱比賽、運動比賽等等。"
-      },
-      {
-        "word": "edition",
-        "zh": "版本、版次。意思是某個產品或活動，在不同時期或不同地點推出的不同樣式。例如：特別版遊戲、亞洲版比賽。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-03-31",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KbzM5cWYwRTh1TDBmU1liMlM0czUxNllPd3dFdlV1dWU1MVhWWkpqQmtkaGZUTXN2dFlnV2JGWElqZ192VVg1dHR5eFBlUmtRZ1ZsZzB4VUs1QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "紐西蘭副總理彼得斯拜訪庫克群島，深化太平洋情誼！",
-    "zhSummary": "紐西蘭副總理兼外交部長溫斯頓·彼得斯預計前往庫克群島進行官方訪問，這趟旅程將重點放在加強兩國之間的緊密關係，並討論影響太平洋地區的重要議題，包括氣候變遷和區域安全等。",
-    "zhContent": "<p>各位讀者們，想像一下如果你的好朋友來你家拜訪，是不是很令人期待呢？對於紐西蘭和庫克群島來說，最近也將有這麼一場重要的「拜訪」喔！根據外媒報導，紐西蘭的副總理兼外交部長溫斯頓·彼得斯先生，即將動身前往美麗的太平洋島國——庫克群島，進行一次正式的官方訪問。這場旅行的目的很明確，就是要進一步加強這兩個長期以來關係友好的國家之間的連結。</p><p>彼得斯先生此行不僅僅是來「走走看看」，他肩負著許多重要的任務。預計他將與庫克群島的領導人進行會談，討論一系列對兩國和整個太平洋地區都至關重要的議題。這些討論的內容很可能包括如何應對全球氣候變遷帶來的挑戰，像是海平面上升對島嶼國家的影響，以及促進區域內的經濟發展和維持安全穩定的環境。畢竟，在太平洋這片廣闊的水域中，許多國家都面臨著類似的困境與機會。</p><p>紐西蘭與庫克群島之間有著非常特殊的關係，庫克群島是與紐西蘭「自由結社」的自治國家，這表示兩個國家雖然各自獨立運作，但在國防和外交方面保持著緊密的合作。因此，紐西蘭高層官員的訪問，一直以來都是兩國交流的重要環節，透過面對面的溝通，能更有效地解決問題、規劃未來。這樣的訪問，不僅是外交上的禮儀，更是深化彼此理解和信任的實際行動。</p><p>彼得斯先生這次前往庫克群島，預計將重申紐西蘭對庫克群島以及更廣闊的太平洋地區的承諾，並探討新的合作機會。這場訪問被視為鞏固地區夥伴關係、共同應對挑戰的關鍵一步。在這次會晤之後，兩國將繼續保持密切聯繫，推動區域內的和平與繁榮。新聞將報導至此，不再多做猜測或延伸。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，溫斯頓·彼得斯先生拜訪庫克群島的主要目的是什麼？他在這次訪問中可能會和庫克群島的領導人討論哪些議題？",
-      "生活與未來：你覺得紐西蘭和庫克群島這種「自由結社」的特殊關係，會對兩個國家的民眾生活帶來哪些好處或影響？",
-      "獨立思考提案：如果兩個關係緊密的國家，在處理某個全球議題（例如氣候變遷）上意見不合，你覺得他們應該如何溝通與協商才能達成共識？"
-    ],
-    "enTitle": "New Zealand Deputy PM Peters to Visit Cook Islands, Deepening Pacific Ties",
-    "enContent": {
-      "basic": "New Zealand's Deputy Prime Minister and Foreign Minister, Winston Peters, is going to visit the Cook Islands. This trip aims to make the relationship between the two countries stronger. They will talk about important issues in the Pacific, like climate change and regional security.",
-      "intermediate": "Winston Peters, New Zealand's Deputy Prime Minister and Foreign Minister, is scheduled for an official visit to the Cook Islands. The primary goal of this trip is to reinforce the already strong relationship between the two nations. Discussions are expected to cover critical regional topics such as climate change resilience, economic development, and maintaining security in the Pacific.",
-      "advanced": "New Zealand's Deputy Prime Minister and Foreign Minister, Winston Peters, is set to embark on an official visit to the Cook Islands. This diplomatic engagement is designed to further consolidate the enduring and unique relationship between the two self-governing nations in free association. Key discussion points on the agenda are anticipated to include collaborative efforts in addressing the pressing challenges of climate change, enhancing regional security, and fostering sustainable economic growth across the Pacific."
-    },
-    "vocabulary": [
-      {
-        "word": "Diplomacy",
-        "zh": "外交：指國家與國家之間，透過代表（例如大使、部長）來進行協商、談判和交流，處理國際事務的方式。就像兩個朋友之間有事要溝通一樣，只是規模更大。"
-      },
-      {
-        "word": "Association",
-        "zh": "結社/關係：在這裡是指一種特殊的夥伴關係或連結。比如庫克群島和紐西蘭雖然是獨立國家，但因為「自由結社」的關係，在某些方面（像國防、外交）會互相協助和合作，就像是特別好的盟友關係。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-03-31",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1BIUl9meThvOVhGNHN0ekc2a1NJdUxmMFBRUHY4bEl6YlZ4SU85LU02bFFMeDZ6RGtUYVlkUlJPblFwbV96eXNSSFlmWjBSUzY3ZkxWaXNYSm4yU3NCQmJwS1Vhb1pkdUNfOXlROU9oMFNkRmJTd3NERGVJMDNxQXpPZFVubFduUEtLU0xpQWVEY3liWEo4?oc=5",
     "isFeatured": false
   }
 ]
