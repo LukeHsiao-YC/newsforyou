@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "全球油路心臟拉警報！中國代表點名：荷莫茲海峽若封鎖，將成美中高峰會燙手議題",
+    "zhSummary": "中國常駐聯合國代表近日表示，如果關鍵的荷莫茲海峽遭到封鎖，將會是美國總統川普與中國國家主席習近平會談時的重要討論內容，顯示國際社會對此區域的穩定高度關注。",
+    "zhContent": "<p>哈囉！同學們，最近國際上有一則新聞，聽起來好像離我們很遠，但其實可能跟全球經濟有點關係喔！那就是中東一個叫做「荷莫茲海峽」的地方。這個名字雖然有點陌生，但它卻是世界上非常重要的石油運輸通道。最近，中國常駐聯合國的代表就公開說了，如果這個海峽真的被封鎖了，那麼在接下來美國總統川普和中國國家主席習近平的高峰會談中，這會是個非常非常重要的討論議題。</p><p>荷莫茲海峽位於波斯灣的出口，它的戰略位置超級關鍵，每天都有大量的油輪從這裡經過，把中東的石油運往世界各地，就像是全球石油供應的「大動脈」。如果這條動脈被堵住了，那麼全世界的石油供應就會受到巨大影響，可能導致油價飆漲，甚至影響到各國的經濟穩定。所以，當有人威脅要封鎖這個海峽時，國際社會都會非常緊張，因為這不只是區域衝突，更可能影響到全球經濟的健康。</p><p>中國的聯合國代表會這樣提出，主要是因為中國本身就是一個對石油需求很大的國家，當然不樂見這條重要的海上生命線出狀況。這份聲明等於是把這項潛在的危機，正式放上了美中兩國最高領導人「川習會」的議程上。這也說明了中國認為，維護荷莫茲海峽的自由航行，不僅關係到地區的和平，也關係到全球的貿易與能源安全。</p><p>簡單來說，中國已經明確表態，荷莫茲海峽的通行權至關重要，不能被輕易阻礙。而如果真的發生了封鎖的狀況，美中兩國的元首在會面時，就必須把這個問題擺在非常優先的位置來討論，尋求解決之道。這就是中國方面對這項國際危機所發出的最新訊息，也是未來國際關係中一個值得我們關注的重點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，中國代表為什麼認為「荷莫茲海峽封鎖」會成為川習會的重要議題？",
+      "生活與未來：你覺得這個海峽的封鎖，除了油價上漲，還會對我們平常生活中的哪些方面造成實際影響？",
+      "獨立思考提案：針對國際上這種可能影響全球經濟的潛在危機，你覺得各國政府除了在高峰會上討論，還可以怎麼做來預防或降低風險？"
+    ],
+    "enTitle": "Hormuz Strait Blockade: A Key Issue for Trump-Xi Summit, Says China's UN Envoy",
+    "enContent": {
+      "basic": "China's envoy to the UN said that if the Strait of Hormuz is blocked, it will be a big topic for the meeting between U.S. President Trump and Chinese President Xi Jinping. This strait is like a major road for oil ships. If it's closed, the world might not get enough oil, and prices could go up. China is worried because it needs a lot of oil, and closing the strait would affect many countries. So, China wants this issue to be discussed at the top leaders' meeting.",
+      "intermediate": "The Chinese Permanent Representative to the United Nations recently stated that a potential blockade of the Strait of Hormuz would become a significant agenda item during the upcoming summit between U.S. President Donald Trump and Chinese President Xi Jinping. The Strait of Hormuz is a crucial waterway for global oil shipments, connecting the Persian Gulf to the open ocean. A closure of this strait could severely disrupt the world's oil supply, leading to sharp price increases and affecting global economic stability. China, being a major energy consumer, views this issue with serious concern and highlights its importance for international dialogue at the highest levels.",
+      "advanced": "The Chinese Permanent Representative to the United Nations recently underscored that any sustained blockade of the Strait of Hormuz would inevitably escalate into a pivotal agenda item for discussion at the high-stakes summit between U.S. President Donald Trump and Chinese President Xi Jinping. This assertion highlights the critical strategic importance of the Hormuz Strait, which serves as the world's preeminent chokepoint for crude oil transit. A disruption to this vital maritime artery could trigger severe global energy market instability, precipitating substantial economic repercussions worldwide. China's vocal stance reflects its profound concern as a major energy consumer and signals its intent to prioritize the issue of maritime security and free navigation in critical international waterways during bilateral engagements with key global powers."
+    },
+    "vocabulary": [
+      {
+        "word": "Strait",
+        "zh": "海峽：指連接兩大片水域的狹窄水道。像是兩塊陸地中間的一條水路。"
+      },
+      {
+        "word": "Blockade",
+        "zh": "封鎖：指用軍隊、船隻或其他方式圍住一個地方，阻止人員或物資進出。就像是把一條路完全堵住不讓人過。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-05-02",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpMElyR05UUXEzN0NoQUJIYzdOLXd3bXJMSHNoTURydktFV25vVHFEeXBURWVEdWZISlJObWNEQk5GMWN0ZGhSTndscEVxVHRwQVJzZ2d5Nk12QkQ5amMw?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "美國海岸線快撐不住了？新研究：海洋災害來得比想像中更快！",
+    "zhSummary": "一項最新研究警告，美國沿海地區正以驚人的速度面臨海平面上升的威脅，未來的海洋災害可能比預期更頻繁、更嚴重。",
+    "zhContent": "<p>最近有個消息讓很多科學家和關心環境的人都繃緊了神經。根據英國廣播公司（BBC）科學焦點雜誌引述的一項最新研究，美國的海岸線正以比我們想像中還要更快的速度，面臨一場「海洋災難」。這份研究的發現很明確，顯示沿海地區的變化速度已經超出了科學家們過去的預估。</p><p>所謂的「海洋災難」指的主要是海平面上升的問題。這份研究詳細指出，由於全球暖化導致冰川和冰蓋融化，加上海水溫度升高導致體積膨脹，使得美國沿岸的海平面正在加速上升。科學家們透過分析數十年的衛星資料、潮汐測量數據以及電腦模型，發現海平面上升的速度正在不斷加快，而且某些地區的上升幅度特別顯著。</p><p>研究結果特別提到，美國東岸與墨西哥灣沿岸地區，是海平面上升最快的區域之一。這不僅會讓原本就容易淹水的地區，未來遇到海水倒灌的頻率更高，威力也更強。這份報告沒有提供具體原因是何者造成地區性差異，但推測可能與洋流變化和地殼沉降等自然因素，疊加全球氣候變遷的影響有關。</p><p>這份研究發出了一個清晰的警訊，表示如果我們不仔細應對，未來會有更多的沿海城市、基礎設施和生態系統，會直接受到海平面上升帶來的衝擊。這意味著，沿海的房屋、道路甚至淡水資源，都可能面臨被海水侵蝕或污染的風險。研究的結論只是客觀呈現了目前觀察到的趨勢，並沒有進一步提出該怎麼辦的建議。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Coastline Faces Faster Ocean Disaster, Study Warns",
+    "enContent": {
+      "basic": "A new study says the US coast is facing big ocean problems, like rising sea levels, faster than we thought. This means more floods and damage for towns near the sea.",
+      "intermediate": "According to a recent study cited by BBC Science Focus Magazine, the US coastline is experiencing an acceleration of ocean-related disasters, primarily sea-level rise. Scientists observed that these changes are occurring at a pace exceeding previous predictions, posing significant challenges to coastal communities and infrastructure.",
+      "advanced": "A comprehensive study, as reported by BBC Science Focus Magazine, indicates that the United States' coastline is confronting an impending 'ocean disaster' at an unexpectedly accelerated rate. Researchers utilized advanced methodologies, including satellite data and sophisticated climate models, to ascertain that rising sea levels and increased coastal erosion are progressing more rapidly than prior scientific models had projected, portending severe environmental and socio-economic ramifications for littoral regions."
+    },
+    "vocabulary": [
+      {
+        "word": "Coastline",
+        "zh": "海岸線：海洋和陸地交會的地方，也就是沿著海邊的那條線。"
+      },
+      {
+        "word": "Disaster",
+        "zh": "災害：指的是突然發生的壞事情，會造成很大的損害或傷害，像是颱風、地震、洪水等。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-05-02",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43MGgyZVdRdUtieEN4OXZNV0l6TlRzM2NoMUREZV9wX3d2VWthQTlHRzc0TXFxVXBrejIzVTZFOGpycWN1UVFWajBrUmFhOURPcHZCR1pzR08wczlGTVVUSG9Dd21WdnR3djktSDJCTTczUHZlaHdSLVNXVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "紐約藝術圈大震盪：父女檔假畫案，騙倒專家與收藏家！",
+    "zhSummary": "一對父女檔在紐約藝術界引爆醜聞，他們偽造了安迪·沃荷和班克斯等名藝術家的作品，並成功將這些贗品賣給了許多收藏家和機構。這起事件不僅揭露了藝術品市場的脆弱點，也讓這對父女最終面臨法律制裁。",
+    "zhContent": "<p>紐約藝術界最近爆出個大新聞！一對父女檔竟然聯手，靠賣假畫騙倒許多人。他們偽造了世界知名的藝術家安迪·沃荷和班克斯的作品，讓收藏家花大錢買下不是真品的高仿畫。這事不僅震驚藝術圈，也讓大家討論，專業藝術鑑識專家怎麼會被贗品矇騙？這起詐騙案揭露了藝術市場一個不為人知的灰色地帶。</p><p>這對父女的詐騙手法聽起來並不複雜。據報導，他們會購買普通印刷品，加上假的簽名或偽造的藝術家印章，讓畫作看起來像真品。有時他們甚至「創作」出像名家風格的作品。他們透過網路或私下交易，賣給渴望收藏名作的人。為了增加說服力，他們可能還會編造真實的「來歷」故事，讓買家卸下心防。</p><p>這事件引人關注，部分原因在於受騙買家。他們大多是經驗豐富的藝術收藏家，甚至來自專業藝術機構。能騙過他們，這對父女的「手藝」和話術肯定不簡單。新聞指出，藝術品市場有時因人們渴望「便宜好貨」，或瘋狂追捧某些藝術家，而產生漏洞。當名畫出現「划算」機會，有時專家也會因判斷失誤或鑑定不嚴謹，讓贗品有機可乘。</p><p>然而，紙終究包不住火。這對父女的騙局最終被揭穿。根據外媒報導，他們目前已面臨法律制裁，並被指控多項罪名。紐約執法機關調查後，發現大量偽造藝術品。這事件不僅讓受害者蒙受金錢損失，也挑戰了整個藝術界的信譽。這場父女檔假畫案，最終以他們遭到逮捕和起訴而收場。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，這對父女是如何偽造畫作並成功銷售的？藝術界的專家和收藏家又為何會受騙？",
+      "生活與未來：你覺得這個事件會對未來的藝術品買賣市場造成什麼實際影響？買家和賣家可能會因此做出哪些改變？",
+      "獨立思考提案：針對藝術品市場的贗品問題，除了加強鑑定技術外，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "How a father and daughter duped NYC's art world with fake Warhols and Banksys",
+    "enContent": {
+      "basic": "A father and daughter tricked New York City's art world by selling fake paintings by famous artists like Andy Warhol and Banksy. They made copies and added fake signatures. Many people bought these fake artworks, thinking they were real. The father and daughter are now facing legal trouble.",
+      "intermediate": "A shocking scheme in the New York art scene saw a father and daughter successfully defraud collectors and institutions with counterfeit artworks. They produced convincing forgeries of celebrated artists such as Andy Warhol and Banksy, often by adding false authentication marks to prints or creating new pieces in the artists' styles. This operation highlights vulnerabilities within the art market.",
+      "advanced": "The New York art world was recently rocked by a sophisticated forgery scheme orchestrated by a father-daughter duo. They meticulously fabricated and distributed counterfeit works by iconic artists like Andy Warhol and Banksy, deceiving experienced collectors and professional art institutions alike. Their methods included applying fake signatures and stamps to prints, or crafting entirely new pieces designed to mimic the artists' distinctive styles. This widespread deception, which has led to their legal indictment, has prompted significant scrutiny into the authentication processes and overall integrity of the high-stakes art market."
+    },
+    "vocabulary": [
+      {
+        "word": "Duped",
+        "zh": "欺騙、蒙蔽。指的是被某人狡猾地哄騙或欺騙，讓人相信不實的事情，通常帶有受害者被耍的意味。"
+      },
+      {
+        "word": "Forgery",
+        "zh": "贗品、假造。指模仿真品，但並非原作者所做，目的是為了欺騙或詐財的假冒物品，常用在藝術品、文件或簽名上。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-05-02",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFQ3di1nOXh0aFFISHpfN3BHQzZuSWpMbG85a2JfQllLM1pFejB0V1c5eFpCaXhhdVNmTXdLYUQxbDVRQkhPUUVRbVcycWdGZkhQbEd5TGNheFljT19LSHNuNEk0bG9GT0hJVFJ4NjZtU0VqVnBQWEdPbWtobmtGMkd5ajRWczkwWk1Hd3BPM3NXSDBvYmR2VkphaDA1Q3lNSFQzTGNXYVp5Rl9BYlh4b01PRU9maTRHbXNn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "當AI遇上藍領：科技巨頭如何在公關戰中找到新幫手？",
+    "zhSummary": "隨著人工智慧快速發展，科技巨頭需要興建大量資料中心，卻常引發當地居民反對。為了贏得這場「公關戰」，科技公司找到了一個意想不到的盟友：藍領工人，透過提供工作機會來爭取地方支持。",
+    "zhContent": "<p>「喂，你知道我們每天用的手機、電腦，背後都需要超多『電力』跟『空間』嗎？」這是真的！隨著人工智慧（AI）越來越發達，像Google、微軟這些大科技公司，都需要蓋很多很多的「資料中心」來處理和儲存龐大的資料。你可以把資料中心想像成一個超大型的數位倉庫，裡面塞滿了電腦跟伺服器。不過，蓋這麼大的東西可不是件容易事，它們會用掉大量電力和水，有時候還會影響周圍的環境，所以常常會遇到當地居民的反對。這讓科技公司在蓋資料中心的過程中，面臨了一場困難的「公關戰」！</p><p>面對這些挑戰，科技巨頭們發現了一個意想不到的好幫手，那就是「藍領」工人！這些工人，像是建築師傅、電工、水電工等等，他們的工作就是動手蓋這些東西。為什麼他們會成為科技公司的盟友呢？很簡單，因為蓋資料中心需要大量的人力，這代表著很多新的工作機會，而且通常薪水還不錯。當科技公司想要在某地蓋資料中心時，他們會特別強調這些工作機會，吸引當地居民的支持。</p><p>對於藍領工人來說，這些工作機會非常重要。尤其在一些經濟發展較慢的地區，一個大型資料中心的興建計畫，可能就意味著成百上千個穩定且有保障的工作崗位，可以讓他們的家庭生活更好。所以，當科技公司在當地宣傳資料中心的好處時，這些因為計畫而獲得工作機會的工人，就會站出來，幫忙科技公司說話。他們會告訴大家，這些資料中心不只是科技設施，更是帶來就業和經濟發展的機會。</p><p>這種來自藍領工人的支持，對科技巨頭來說就像打了一劑強心針。原本可能只聽到居民對環境或資源的擔憂，現在有了真實的當地人站出來支持，反對的聲音就沒那麼容易佔上風了。這讓科技公司在與當地政府和民眾溝通時，有了更有力的籌碼。簡單來說，科技巨頭透過創造就業機會，成功地將一群原本與科技產業看似不相關的人，變成他們在公關戰中的重要盟友，也改變了這些大型基礎建設在各地推動的局面。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，科技巨頭們為什麼需要藍領工人的支持？藍領工人又為什麼願意支持科技巨頭呢？",
+      "生活與未來：你覺得科技公司這種利用創造工作機會來獲得支持的做法，會對地方經濟和環境產生什麼樣的實際影響？",
+      "獨立思考提案：針對這種在公關戰中尋求盟友的策略，你覺得科技公司或當地政府還可以怎麼做，才能在經濟發展和環境保護之間取得更好的平衡？"
+    ],
+    "enTitle": "When AI Meets Blue-Collar: How Tech Giants Find New Allies in the PR Battle",
+    "enContent": {
+      "basic": "Big tech companies like Google and Microsoft need many 'data centers' for AI. But building them uses a lot of power and water, so local people often say no. This makes a big 'PR battle' for tech companies. To help, tech companies found a new friend: 'blue-collar' workers. These workers, like builders, get jobs from building data centers. So, they help tech companies by telling people about the good jobs and money the centers bring. This makes it easier for tech companies to get their projects approved. It's a smart way for tech giants to get support from the local community.",
+      "intermediate": "The rapid growth of Artificial Intelligence demands vast numbers of 'data centers' from tech giants such as Google and Microsoft. However, the construction of these large facilities often faces opposition from local communities due to concerns about electricity, water consumption, and environmental impact. This creates a significant 'public relations battle' for the tech industry. Surprisingly, they've found a key ally in 'blue-collar' workers. These are the construction workers, electricians, and plumbers who actually build these centers. For them, data center projects mean numerous new, well-paying job opportunities, especially in economically struggling areas. In turn, these workers become advocates for the tech companies, highlighting the economic benefits and job creation, which helps shift public opinion and gain local approval for these large infrastructure projects. This strategy helps tech giants overcome local resistance and push their developments forward.",
+      "advanced": "The escalating demands of Artificial Intelligence necessitate the proliferation of 'data centers' by leading tech enterprises like Google and Microsoft. However, the establishment of these substantial infrastructures frequently encounters robust opposition from local communities, primarily due to concerns surrounding resource consumption (electricity, water) and environmental footprint. Consequently, tech companies are embroiled in an intense 'public relations battle'. A strategic pivot has led them to secure an unexpected yet potent ally: 'blue-collar' workers. These individuals, encompassing construction professionals, electricians, and technicians, benefit directly from the extensive employment opportunities generated by data center construction—often offering competitive wages in regions where stable work may be scarce. In return, these workers become vocal proponents for the projects, articulating the tangible economic benefits and job creation to counter local objections. This alliance effectively reshapes the narrative, providing tech giants with a compelling, locally-rooted argument that often mitigates opposition and facilitates the approval and acceptance of their large-scale developments within various communities."
+    },
+    "vocabulary": [
+      {
+        "word": "Data Center",
+        "zh": "資料中心 (data center)：你可以想像它是一個超級大的「數位倉庫」，裡面裝滿了處理和儲存網路資料的電腦和設備。我們每天上網、玩遊戲、看影片，這些資料都需要被這些中心好好管理和保存喔！"
+      },
+      {
+        "word": "Blue-collar",
+        "zh": "藍領 (blue-collar)：指那些主要從事體力勞動、技術操作或生產線工作的工人，例如建築工人、電工、修理技師等等。他們的工資通常是按小時或件數計算的。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-05-02",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRldlUnRRcUR5RWJaTnE5UFBMQlFRZkJoMUx1XzFRZHB3ZERHck8tdW5IQkljRDRubDBubnYxSTkxWnBFQlEyMXNOWXpGVXdXMDlMZGZCMTNZcHY1Ylh6MWVEeExzZ1dYbjNKeTVnNFdoQ2ZsMWhjbkxWZkZyS2VlOVJNV1UwNk9aZHVyVHppeUppdURtek1RNHZjZUpEdjBqMHJjN0p6Zmh5c09uVHJtcUJtYnhlSHRaSTdoTQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "週末玩什麼？地方媒體TAPinto活動指南熱情上線！",
+    "zhSummary": "地方媒體TAPinto為居民推出「這個週末城裡城外的好玩活動」指南，整理了五月一日至五月三日的各種在地娛樂選擇，方便大家規劃充實有趣的週末時光。",
+    "zhContent": "<p>專門報導地方新聞的媒體「TAPinto」，最近為當地居民準備了一份詳細的週末活動指南。這份指南的標題是「這個週末城裡城外的好玩活動」，特別針對從五月一日到五月三日的這三天連假，整理出許多適合大家參與的選項。這篇報導一推出，立刻引起了許多想在週末找樂子的家庭和青少年關注，希望能為他們提供豐富的休閒娛樂資訊。</p><p>這份多元的週末指南，內容涵蓋了各種不同類型的活動，從戶外探險到室內文藝應有盡有。例如，指南裡可能會提到當地公園舉辦的親子健行活動，或是社群中心提供的免費手作工作坊。對於喜歡動態的青少年來說，也許會有社區體育館的臨時開放時段，讓大家可以進行球類運動。甚至，一些地方圖書館也會在週末舉辦說故事時間或青少年讀書會，讓大家有機會接觸不同領域的知識和娛樂。</p><p>TAPinto發布這類週末活動指南的目的，主要是希望能鼓勵居民多走出家門，參與地方活動，並支持當地的小商家和文化團體。他們相信，透過這樣的資訊整合，可以讓社區變得更有活力，居民之間也能有更多互動的機會。同時，這也方便家長們為家中的青少年規劃一個充實又有趣的週末，不必花費太多時間搜尋資訊，就能輕鬆掌握最新情報。</p><p>這份指南已經如期上線，提供了所有需要的活動時間、地點和參與方式等細節。居民們可以透過TAPinto的網站或社群媒體平台，輕鬆查閱這份資訊，並根據自己的興趣和時間來安排週末計畫。像這樣的社區活動指南，是TAPinto服務當地讀者的一種常態性做法，確保大家都能掌握身邊最新、最好玩的活動消息，讓每個週末都充滿期待。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，地方媒體發布了什麼樣的資訊？這些資訊對當地居民來說有什麼幫助？",
+      "生活與未來：你覺得如果你的居住地也有類似的活動指南，會對你的週末生活帶來什麼實際影響？你希望指南裡能有哪些類型的活動？",
+      "獨立思考提案：針對這類社區活動資訊的發布，你覺得媒體還可以怎麼做會更好？例如，除了網站和社群平台，還有哪些方式可以讓更多青少年更容易取得這些資訊？"
+    ],
+    "enTitle": "Fun Things to Do in and Around Town this Weekend - May 1 - May 3 - TAPinto",
+    "enContent": {
+      "basic": "TAPinto, a local news source, has published a weekend guide for May 1-3. Titled 'Fun Things to Do in and Around Town this Weekend,' it lists various local activities and events. The guide helps families and teens find things to do, like park activities or library events. TAPinto creates these guides to help people get involved in their community and support local businesses. The guide is now available online, allowing residents to plan their fun weekend easily.",
+      "intermediate": "TAPinto, a local community news platform, recently released a comprehensive guide titled 'Fun Things to Do in and Around Town this Weekend,' specifically covering May 1st to May 3rd. This publication aims to inform residents, particularly families and teenagers, about various recreational opportunities available locally. The guide typically includes a diverse range of activities, from outdoor events like hiking trails in local parks to indoor workshops at community centers and library story times. The primary objective behind these guides is to foster community engagement, encourage support for local businesses and cultural organizations, and provide easily accessible information for weekend planning. Residents can access this valuable resource through TAPinto's website to schedule their leisure activities.",
+      "advanced": "TAPinto, a prominent local news network, has once again fulfilled its commitment to community engagement by publishing its eagerly anticipated 'Fun Things to Do in and Around Town this Weekend' guide, meticulously curated for the period spanning May 1st to May 3rd. This initiative serves as a vital resource for local residents, especially adolescents and their families, seeking diverse leisure and recreational options within their immediate vicinity. The guide encompasses a broad spectrum of activities, potentially including outdoor excursions like nature walks in municipal parks, educational workshops at cultural centers, or interactive sessions at local libraries. The editorial impetus for such publications stems from a desire to invigorate local economies, bolster community cohesion, and simplify the process of weekend planning for its readership. The comprehensive details, including schedules and locations, are readily available across TAPinto's digital platforms, ensuring maximum accessibility for all stakeholders."
+    },
+    "vocabulary": [
+      {
+        "word": "guide",
+        "zh": "指南 (zhǐnán)：指引方向或提供建議的書或文章，讓你知道怎麼做或去哪裡玩。"
+      },
+      {
+        "word": "community",
+        "zh": "社區 (shèqū)：指住在同一個地方的一群人，他們常常共享一些設施或活動，就像學校附近的那塊區域一樣。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-05-02",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRk52Y0stRnBhWWZldHNRam5WeTVnblZ5aUdINkswYTNBRXdNb3YxU0g1ZzJHVURnQnFVVTF5UGJlRDV0OXEwTHlPM0xVWWdrS0ZiRmJNSHZpYjBPVm9ZUjdBNDJxRjRDbW5iQkVST0RVdjNFWjlFVDVhVnhuV0VhSmVLbDVockpYU2RvOGpFV2N6enFha09uQXJKMmJHUWlEYU9UNmxEQnFqM3VFRkFxUm5zQkFFcms0c1dnU3hFRElPWmRRcUZvcVJGRjYtRnpVeU02eHJqZjJWZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "查爾斯王子「高招」收服川普？英國王室外交手腕大揭秘！",
+    "zhSummary": "在一次關鍵的會面中，當時的查爾斯王子（現在的英國國王）展現了他高超的外交手腕，巧妙地運用策略，讓作風強硬的美國前總統川普，在不失面子的情況下，聽進了關於環境保護等重要議題。",
+    "zhContent": "<p>還記得幾年前，當美國前總統川普訪問英國時，發生了一件很有趣的事情嗎？當時還是王子的查爾斯（現在的英國國王查爾斯三世），和以言行大膽聞名的川普進行了一場會談。這場會談可不一般，英國媒體《衛報》後來形容，查爾斯王子用了一種「高招」，不只讓川普聽進了他的話，還巧妙地避免了直接的衝突，這究竟是怎麼辦到的呢？</p><p>據報導指出，查爾斯王子在這次會面中，沒有直接批評川普的任何政策，反而採取了一種「讓人感覺良好」的策略。他先是禮貌地稱讚了川普，讓他覺得自己受到了尊重和重視。接著，查爾斯王子才慢慢地把話題帶到他最關心的議題，例如氣候變遷和環境保護。他用一種非常巧妙的方式，解釋了為什麼這些問題對全世界都很重要，而不是直接指責誰做得不夠好。</p><p>為什麼查爾斯王子要這麼費心呢？原來，川普總統的執政風格和想法，常常與查爾斯王子所倡導的環境保護理念有很大的不同。在當時，要讓一位作風強硬的國家元首，心平氣和地聽進不同的意見，尤其是在一些敏感議題上，是非常需要技巧的。查爾斯王子似乎是希望透過這種不直接對抗、但充滿智慧的方式，來推動他認為正確的觀點，同時又顧及了雙方的關係。</p><p>最終，雖然我們不知道川普總統聽完後，具體在政策上做了哪些改變，但媒體普遍認為，查爾斯王子的這種做法，的確展現了高明的溝通能力。他成功地在一個敏感的外交場合中，表達了自己的立場，並且讓對方願意傾聽，而不是直接拒絕或產生衝突。這場被形容為「一石二鳥」的會談，被視為一次非常成功的巧妙示範。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke - The Guardian",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "masterstroke",
+        "zh": "妙計，高招：指的是在一個複雜或需要技巧的情況下，做出一個非常聰明、高明而且成功的舉動。就像下棋時走出了關鍵的一步，能讓整個局面都變得對自己有利。"
+      },
+      {
+        "word": "diplomacy",
+        "zh": "外交手腕，交涉技巧：指的是處理國家與國家之間關係的藝術，通常需要非常好的溝通和協商能力，讓大家在不衝突的情況下，達成共識或解決問題。也可以指處理人際關係時的巧妙方法。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-02",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ROE1iY2thZnk4M3dtOFlLRkw0aUhiOXpmWmEyNlRFeTlsUlBRM3ZDTTlWaTZ5dkEyY3NOb3VNZE5aVmJIbkw2aVoxZlJ1QTh5c0JlTm02OUhXS2lCZTBOdUxWX1JaUGJOc2MzSnA2SzNvLXVMV2Z1eE14cWw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "歐洲與南美洲「大手牽小手」！超級貿易協定正式啟動",
+    "zhSummary": "歐洲聯盟和南美洲「南方共同市場」之間，經過多年的協商，一項重大的貿易協定已經暫時生效。這意味著部分貿易條款已開始執行，旨在促進雙方經濟交流。",
+    "zhContent": "<p>嗨，各位青少年讀者們！今天我們要來聊一個國際上超級重要，可能跟你我的生活有點關係的大新聞。最近，歐洲聯盟（EU）和南美洲的一個大型貿易組織「南方共同市場」（Mercosur）之間，一項討論了超級久的貿易協定，終於邁出了關鍵的一步，它已經「暫時生效」了！簡單來說，這就像兩個大集團決定要一起做生意，讓商品流通更順暢。</p><p>這個「暫時生效」的意思是，這份長達數百頁的複雜協議，雖然還沒有完全被所有參與國家正式批准，但其中一部分的規定已經可以開始執行了。這份協議的重點，就是希望能夠減少甚至取消雙方之間的進出口關稅，讓歐洲的產品更容易賣到南美洲，反之亦然。想像一下，以後你在商店看到的某些進口商品，說不定就因為這份協定而變得更便宜或選擇更多了！</p><p>那麼，為什麼這兩個距離遙遠的地區會想要簽下這樣一份大協議呢？主要原因就是為了促進彼此的經濟發展。透過降低貿易障礙，企業可以更容易地將產品銷往更大的市場，這可能為雙方帶來更多的商業機會、創造更多的工作職位。同時，消費者也能因此獲得更豐富的商品選擇，也可能因為競爭而享受到更優惠的價格。</p><p>這份協定從開始談判到現在，已經經歷了很長一段時間，其中牽涉到許多不同的國家和複雜的利益考量。而現在，隨著它暫時生效，意味著歐盟和南方共同市場成員國（包括阿根廷、巴西、巴拉圭和烏拉圭等）之間的貿易關係將會更加緊密。雖然還需要等待所有國家最終的批准，但至少目前，部分貿易活動已經可以依照這份新協議的規定進行了，這是兩大洲經濟合作的重要進展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「暫時生效」是什麼意思？還有哪些重要資訊是你覺得青少年需要理解的？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如：對南美洲或歐洲的農民、企業或消費者，可能會有什麼好處或挑戰？",
+      "獨立思考提案：針對這類跨國的貿易協定，你覺得在協商過程中，各國最應該優先考慮哪些因素，才能讓結果對所有參與者都公平且有益？"
+    ],
+    "enTitle": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
+    "enContent": {
+      "basic": "A big trade deal between the European Union (EU) and a group of South American countries called Mercosur has started to work temporarily. This means some parts of the agreement are now active, aiming to make it easier for countries in these two regions to buy and sell things to each other.",
+      "intermediate": "The trade agreement between the EU and Mercosur bloc has provisionally taken effect. This move, following extensive negotiations, signifies that certain provisions of the deal are now active, even before full ratification by all member states. The goal is to reduce tariffs and boost economic exchange between Europe and South America.",
+      "advanced": "The long-negotiated trade pact between the European Union and the Mercosur bloc (Argentina, Brazil, Paraguay, Uruguay) has entered into provisional effect. This interim implementation allows for the immediate activation of key provisions, aiming to foster deeper economic integration, reduce trade barriers such as tariffs, and stimulate growth across both continents, pending full ratification from all legislative bodies."
+    },
+    "vocabulary": [
+      {
+        "word": "Provisional",
+        "zh": "暫時性的。意思是某件事情在還沒有完全確定或最終批准之前，先暫時開始實施或生效。"
+      },
+      {
+        "word": "Mercosur",
+        "zh": "南方共同市場。這是一個由南美洲國家組成的經濟和貿易聯盟，主要成員包括阿根廷、巴西、巴拉圭和烏拉圭，目的是促進成員國之間的自由貿易。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-02",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObktwX2ZmU3pGeHNjQXdkLTMtd1R1R3hhLVFVQXpLVEMzRGFJYVMwRVRsOVJ0bUdTeXFqOERhRnZndU55T0MxOWFwdG54Y1BVQm11NWdCcHpEdDhsM2FqYzhZSlJBU01tLVFkNzdxcWdKS0w2NVRHekxpLUJBTjF0TkxXNUd4THhMamhVNXRFUXNKY1RaM0RFMUl6d3NDcmtvOExmWTZFMUJtM3ZTN3Z3SmhB0gG3AUFVX3lxTE1QOHVJRGlNMlljbnpJWU9NV2F2enBDWkIwM3QwQ3JGVGpNSHRkYWRfUUhoRVU3RjRnUEdGMUhSb3dmbXVtNHRjc2l2UUs5ZVU4d0ItaU1RTU95YXNPMjBQTFFXZ3E1U2pLV205Wjl0QjY0dllicDdQbTB4WXF2S1JjQ2NjNFdGbmEzYlhtZW9hUzlYdDBiS1JfSzkya3psQ19MR3V6WkNRYkU3R3JXSlVQQml6MmVFZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國傳出撤軍，德國不意外，北約想問「說清楚」！",
+    "zhSummary": "美國可能將撤離駐德國部隊，德國表示這是預料中事，但北約則要求美國對此軍事行動提供更詳細的澄清。",
+    "zhContent": "<p>最近，國際間傳出一個重要消息，美國可能會從德國撤走一些駐紮在那裡的軍隊。這個消息一出來，德國方面表示他們並不感到特別意外，甚至認為這件事「可以預料」。不過，一個叫做「北約」（NATO）的國際組織卻很想知道更多細節，希望美國能把這項決定說得更清楚一點。</p><p>其實，這不是美國第一次提到要減少在德國的駐軍。過去幾年，美國的一些官員就曾透露過類似的想法。所以，當現在正式傳出這樣的消息時，德國的政府官員會說這件事「早有預兆」，也就不難理解了。他們認為，這項撤軍計畫已經被討論了一段時間，現在只是要開始執行。</p><p>北約會要求美國說明清楚，是因為美國是這個組織的重要成員國，而北約本身就是一個軍事聯盟，成員國之間的安全合作非常緊密。當一個主要成員國要採取像撤軍這樣的大動作時，北約自然會想了解更詳細的計畫，包括會撤走多少人、什麼時候撤、以及對整個歐洲地區的防衛會不會有影響等等。他們希望確保盟友們都能掌握狀況，以便共同應對未來的安全挑戰。</p><p>目前，美國的撤軍計畫似乎仍在進行中，北約也還在等待美國提供更具體的細節和說明。德國雖然表示這件事情是「可以預見的」，但顯然，所有相關的國家都在密切關注接下來的發展，尤其是這次撤軍對區域安全和盟友關係可能帶來的實際影響。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，德國和北約對於美國撤軍的態度有什麼不同？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Troop Withdrawal from Germany: Foreseeable for Berlin, Clarification Sought by NATO",
+    "enContent": {
+      "basic": "Recent news indicates the United States might withdraw some of its troops stationed in Germany. Germany says this is 'foreseeable,' meaning they expected it. However, NATO, a big international organization, wants more details and 'clarification' from the US about this decision.",
+      "intermediate": "The potential US troop withdrawal from Germany isn't new; US officials have hinted at it for years. Germany's government therefore finds the news 'foreseeable' because discussions about reducing troops have been ongoing. NATO, being a military alliance, has requested clarification from the US. As a key member, US actions like troop withdrawals impact the whole alliance's security. NATO wants to understand the exact plans and potential effects on European defense.",
+      "advanced": "The United States is reportedly planning to withdraw troops from Germany. Berlin has stated that this move is 'foreseeable,' suggesting a prior awareness or expectation of such a development. In contrast, NATO, a critical military alliance where the US plays a central role, is seeking 'clarification' on the specifics of the withdrawal. This request underscores the alliance's need for comprehensive information regarding the scale, timeline, and strategic implications of the troop reduction for collective security in Europe. While Germany appears prepared, the full impact on regional defense and allied relations remains a focal point of international concern as NATO awaits detailed explanations from the US."
+    },
+    "vocabulary": [
+      {
+        "word": "withdrawal",
+        "zh": "撤軍 (chè jūn)。意思是指把部隊或軍隊從一個地方移走、撤離。想像一下，就像你在玩積木時，把一個已經蓋好的積木拿走一樣。"
+      },
+      {
+        "word": "clarification",
+        "zh": "澄清 (chéng qīng)。意思是把一件事情說得更清楚明白，讓別人沒有疑問，可以理解事情的真實情況。就像老師看到大家有疑問時，會再解釋一次，讓大家聽懂。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-02",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URF9pQUgyVUJLcjRyMUZhRVFFRnJjLXdZVHZZNmd3QV90UDlOYkVWRnVXU1BJWDZNaEQ3UGdBVmhtMlRTdG4xMXRrRFRHSWJuV0tjZC1oRnI2QQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非排外暴力再添悲劇：五名衣索比亞人不幸遇害",
+    "zhSummary": "非洲通訊社報導，南非近期發生一起排外攻擊事件，導致五名衣索比亞人喪生。這起事件再次凸顯了當地針對外國人的暴力問題。",
+    "zhContent": "<p>「五名衣索比亞人在南非遇害。」這是一則來自非洲通訊社（APAnews）的悲痛消息。報導指出，這起不幸事件發生在南非，而且是當地排外攻擊浪潮中的一部分。簡單來說，就是一些人因為受害者來自不同的國家，而對他們發動了暴力行為，導致了五條生命的消逝。</p><p>長期以來，南非一直存在著針對外國移民的排外情緒與暴力事件。這些攻擊通常針對來自其他非洲國家的移民，他們被指控搶走了當地人的工作機會或是佔用了社會資源。這起五名衣索比亞人遇害的事件，就發生在這樣的社會背景下，儘管新聞沒有提供具體的案發細節，但很明顯地，它與這些排外攻擊脫不了關係。這些暴力行為，輕則言語辱罵，重則燒毀房屋、搶劫財物，甚至導致無辜生命的逝去。</p><p>所謂的「排外攻擊」，就是指因為一個人不是本地人、來自外國，就對他產生敵意、歧視，甚至是訴諸暴力。在南非，這樣的排外心理通常與經濟壓力有關。當地一些人認為，外來移民的湧入加劇了失業問題，使得本來就稀缺的資源變得更少。在這種觀念下，外國人往往成為憤怒與不滿的發洩對象。這些攻擊行為，導致許多無辜的外國人生活在恐懼之中，甚至付出生命的代價。</p><p>不幸的是，這五名衣索比亞人因此失去了生命，這是一個沉重的事實。儘管這類排外攻擊事件時常引起國際關注與譴責，南非政府也曾表態會努力制止，但類似的悲劇仍然不時發生。這起事件再次提醒了人們，排外暴力是真實存在的威脅，而且它會帶來嚴重的後果。新聞報導就是到這裡為止，直接陳述了這起令人遺憾的事件。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Five Ethiopians Killed in South Africa Amidst Xenophobic Attacks",
+    "enContent": {
+      "basic": "Five people from Ethiopia died in South Africa. This happened because of attacks against foreigners. These attacks are when people hurt others just because they are from a different country. It's a sad event that shows how serious these problems are.",
+      "intermediate": "News from APAnews reports that five Ethiopian individuals were tragically killed in South Africa. This incident took place during a period of xenophobic attacks in the country. Xenophobia means a strong dislike or fear of people from other countries. Such attacks often involve violence against immigrants, driven by various social tensions, and have unfortunately led to many fatalities.",
+      "advanced": "Agence de Presse Africaine (APAnews) has reported the tragic deaths of five Ethiopian nationals in South Africa. This incident is understood to have occurred amidst a wave of xenophobic violence that has periodically afflicted the nation. Xenophobia, defined as the intense dislike or fear of people from other countries, often manifests in violent attacks targeting immigrants. These regrettable events underscore persistent social and economic tensions in South Africa, which at times result in severe consequences, including loss of life for those perceived as outsiders."
+    },
+    "vocabulary": [
+      {
+        "word": "Xenophobic",
+        "zh": "排外的、恐外的。意思是對來自其他國家或不同文化背景的人感到害怕、厭惡或敵視的態度。"
+      },
+      {
+        "word": "Attacks",
+        "zh": "攻擊。指用暴力或惡意的方式去傷害、損害別人或破壞事物。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-02",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlhXd2prRnlSMG41ei1GbmFDelc0OWNiSFFoSldUcldhaDIwUEo0YXpNTHBIU3BHQnFYX3J5eGtfRDVzZWdiNVJYdkctd1VkSzkxbnJTVUJNWC1fOFE3R250RjEwYW1BRHM0aW80QzlsODVPamNvSUU3VGtFX09HeFRqN0ttemtjbDJF?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "巴基斯坦的「和事佬」大挑戰：化解美伊衝突，是福還是險？",
+    "zhSummary": "巴基斯坦正積極嘗試在美國和伊朗這兩個關係緊張的國家之間擔任調停者。這項外交行動對巴基斯坦來說，既有提升國際地位的潛在好處，也伴隨著可能惹惱任何一方的巨大風險。",
+    "zhContent": "<p>最近，國際社會上出現了一件讓人很關注的事情：巴基斯坦這個國家，正努力想在美國和伊朗這兩個常常意見不合的國家之間，扮演一個「和事佬」的角色。這可不是一件容易的任務，畢竟這兩個國家在全球都有很大的影響力，他們之間的關係緊張，常常讓很多人擔心，如果衝突加劇，會影響到整個區域的和平與穩定。</p><p>根據外媒報導，為了促成這項複雜的調解，巴基斯坦當時的總理伊姆蘭·汗（Imran Khan）特別展開了一系列的訪問。他先後前往了美國和伊朗，與兩國的領導人會面。他的主要目的就是希望能夠勸說雙方，不要讓彼此的衝突繼續升級，而是能坐下來好好談談。美國和伊朗之間，長期以來因為核子計畫和中東地區的影響力等問題，一直存在著很深的矛盾，讓區域局勢一直處於不穩定的狀態。</p><p>那麼，巴基斯坦為什麼要冒險做這件事呢？其實，當「和事佬」對他們來說有好處也有風險。好處是，如果他們成功了，就能在全球提升自己的形象，讓大家覺得巴基斯坦是一個有能力、有擔當的國家。而且，美國和伊朗關係緩和，對巴基斯坦所在的區域穩定也有很大幫助。但風險也不小，如果調停失敗，巴基斯坦可能會被兩邊不討好，甚至惹惱其中一方，讓自己的外交處境變得更尷尬。這就像在外交舞台上走鋼索一樣，需要非常小心。</p><p>目前，巴基斯坦的這項調停努力仍在持續進行中，結果還沒有一個定論。這種複雜的國際關係調解，通常需要很長的時間，而且充滿了變數。世界各國都在密切關注，希望巴基斯坦的努力能夠為美國和伊朗帶來一些正面的改變，讓中東地區的緊張局勢能夠有所緩解，但這一切都還是未知數。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pakistan's 'Peacemaker' Challenge: Benefits and Risks of Mediating US-Iran Conflict",
+    "enContent": {
+      "basic": "Pakistan is trying to help ease tensions between the United States and Iran. Pakistan's leader visited both countries to encourage talks. This effort could make Pakistan look good on the world stage, but it also has risks. If the talks fail, Pakistan might upset one or both countries. This is a tough job, and the outcome is still uncertain.",
+      "intermediate": "Pakistan has taken on the delicate role of a mediator between the United States and Iran, two nations with long-standing disagreements. Its former Prime Minister, Imran Khan, made diplomatic visits to both countries with the aim of de-escalating tensions and fostering dialogue. While successful mediation could boost Pakistan's international standing and promote regional stability, there are significant risks involved, including the possibility of alienating either party or failing to achieve a breakthrough. The outcome of these ongoing diplomatic efforts remains uncertain.",
+      "advanced": "Pakistan has embarked on a high-stakes diplomatic initiative, positioning itself as a mediator in the ongoing geopolitical tensions between the United States and Iran. This endeavor, spearheaded by former Prime Minister Imran Khan's visits to both Washington and Tehran, aims to de-escalate hostilities and encourage dialogue between the two powerful nations, whose relations have been strained by issues such as nuclear programs and regional influence. For Pakistan, the potential benefits include enhanced international prestige and contributions to regional stability. However, the mission carries considerable risks, such as the potential for diplomatic failure, alienating either party, or exacerbating its own complex foreign policy challenges. The multifaceted nature of this mediation means its ultimate success or failure is still pending."
+    },
+    "vocabulary": [
+      {
+        "word": "Mediator",
+        "zh": "調停者、和事佬。想像一下，當你的兩個朋友吵架時，你站在中間，幫他們講開，讓他們和好，你就是『調停者』。在這裡就是國家間的和事佬。"
+      },
+      {
+        "word": "Geopolitical",
+        "zh": "地緣政治。這是一個比較大的概念，簡單來說，就是看一個國家的地理位置（它在哪裡、旁邊是誰）如何影響它和周圍國家的關係，還有它在全球的重要性和影響力。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-02",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2tlRzc2ZDVhMHN3R05NdHhOVjlIQ2Z1VWw5djBSaGVHT0pFemxEXzBWOW5aTDBiUFQwdWQ2VTJjMWw1NWcyMnRfU2RTWUtXZHZaUExJZm5udi1HTVBmZGlYaWJSTXlSRmFFRWh5MV9vQ1BYWE5Gc1NlNkFOSmVhOUhEVEJ1eHhkbnhUNGlVNW9tSmpRUElpd2RtMUdRYV8yYkk3eEZBM1pMblY2T3VnOTJuUV92X3phQjJNQ0JLTzR3YU0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "韓國「晶」彩大爆發！四月出口成績嚇嚇叫",
+    "zhSummary": "韓國四月份的出口額大幅成長，創下驚人紀錄，主要歸功於全球對半導體（也就是晶片）的強勁需求，讓韓國經濟表現亮眼。",
+    "zhContent": "<p>哇！大家注意囉！韓國最近有一個超驚人的好消息，根據路透社的報導，他們國家在今年四月份的時候，把商品賣到國外的金額，也就是我們常說的「出口」，竟然比去年同期增加了快要一半！這個成長幅度，直接就是跳高 48.0%！這對他們的國家來說，絕對是個超級大進展，也顯示他們的經濟正在強勁復甦。而這背後最大的功臣，就跟我們生活密不可分的「晶片」有關。</p><p>你可能會好奇，什麼是「晶片」啊？簡單來說，晶片就是像我們手機、電腦、遊戲機、甚至是智慧家電裡面的「大腦」，負責處理各種資訊，讓這些電子產品可以正常運作。現在全世界對這些電子產品的需求都非常大，所以製造晶片的需求當然也跟著飆升。而韓國剛好就是全球數一數二的晶片生產大國，當全世界都需要大量晶片的時候，韓國的晶片就供不應求，訂單接到手軟，讓他們的出口成績超級亮眼。</p><p>這波「晶片熱潮」其實已經持續一段時間了。想想看，過去這一年多，因為各種原因，大家在家裡的時間變多了，是不是更常使用手機追劇、用電腦上課或玩遊戲、或者買了智慧型家電讓生活更方便呢？這些都讓全球對電子產品的需求不斷升高，進而推動了對晶片的大量採購。韓國作為重要的晶片供應商，自然也搭上了這班順風車，賺進大把鈔票，把他們的商品賣向全世界。</p><p>總結來說，這次韓國四月份出口能有這麼驚人的表現，完全是靠著全球晶片需求的持續暢旺。大量的晶片訂單讓韓國的出口數字一飛衝天，遠遠超過了市場的預期，也為他們的國家經濟注入了一劑強心針。這證明了在現今的科技時代，掌握了關鍵的技術和產品，就能在全球經濟舞台上發光發熱。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Korea's April Exports Surge by 48% Thanks to Chip Boom",
+    "enContent": {
+      "basic": "South Korea's exports in April went up a lot, by 48.0% compared to last year. This big jump happened because many countries want to buy computer chips, and South Korea makes a lot of them. Chips are like the brains for phones and computers. So, because people are buying more electronics, South Korea is selling many chips and making a lot of money.",
+      "intermediate": "South Korea experienced a significant boost in its exports during April, reporting a year-on-year increase of 48.0%. This remarkable growth is primarily attributed to the sustained global demand for semiconductors, commonly known as chips. As a major producer of these essential electronic components, South Korea has capitalized on the extended 'chip boom,' which has been driven by increased reliance on digital devices and technology worldwide. This surge in exports signals robust economic activity for the nation.",
+      "advanced": "South Korea's April export figures demonstrated a formidable year-on-year increase of 48.0%, significantly outperforming market expectations. This substantial surge is directly linked to the burgeoning global demand for semiconductors, a sector where South Korea holds a dominant position. The protracted 'chip boom,' fueled by heightened digital transformation and an accelerating consumer electronics market worldwide, has created an unprecedented demand for these critical components. Consequently, South Korean manufacturers have experienced a robust influx of orders, underpinning the nation's economic resilience and growth trajectory as reported by Reuters."
+    },
+    "vocabulary": [
+      {
+        "word": "Exports",
+        "zh": "出口 (chū kǒu) - 就是把一個國家自己生產的東西，賣到其他國家去。想像你做的很棒的黏土作品，賣給隔壁班的同學，這就是一種小小的出口！"
+      },
+      {
+        "word": "Chips",
+        "zh": "晶片 (jīng piàn) - 其實就是「半導體」的簡稱，它們是很小很小的電子零件，像手機、電腦、遊戲機的大腦一樣，負責處理資訊，讓電子產品可以運作。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-02",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa21VSzI4NHF5cndYNjA3WE5LWFgtYWJVdTJVbmZNYm11dUlyTXJrUTNXU0xFdDJiX2l5X2R1MjdTM2V6WTJKaExYTE5wWk8xTDZSX1M1OUZYNS1jdENYNTJFODNUcDk4U1hZbkZoQVN6eTc2ci1BblFaek1Cb1dKNmJJUHd2MzgtbEdEcnF2LWIzNE1hMTMyZldpMlhoSHZTNkJ6ZWRpa0RtdC1UYzZHQ0NB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "閃耀上海夜空：高科技點亮城市新風貌",
+    "zhSummary": "上海市政府最近啟用了一套與SAP合作的智慧照明管理系統，這項技術不僅讓上海的夜晚景色更璀璨迷人，也大幅提升了城市燈光的管理效率和節能表現。",
+    "zhContent": "<p>上海的夜晚景色是出了名的美麗，那一片璀璨的燈海，總是吸引著無數人的目光。現在，這片迷人的光芒背後，有了一項高科技的幫忙。上海市政府最近啟用了一套全新的智慧照明管理系統，這項技術讓城市的夜空不僅能呈現更迷人的風貌，也讓整座城市的燈光管理變得更有效率。</p><p>這套系統是由國際知名的軟體公司SAP提供技術支援。簡單來說，它就像一個超級聰明的大腦，可以統一控制上海浦東、外灘等區域數千棟建築和公共設施的燈光。過去，要調整這麼多燈光可能需要非常多的人力，而且耗時費力。現在透過這個智慧系統，市府人員只要在電腦前動動手指，就能隨時調整燈光的顏色、亮度，甚至是變換出各種不同的燈光秀。這讓整個城市在節日或特殊活動時，能呈現出更壯觀、更協調一致的夜景。</p><p>這項計畫不只是為了讓夜景好看，更重要的是要提升城市的管理效率和環保表現。透過精準的數據分析，系統能自動偵測哪些路燈或建築燈具出現了問題，並即時回報給維修人員，大大縮短了修復時間。同時，它也能根據時間、季節，甚至天氣狀況，自動調整燈光，避免不必要的能源浪費。據了解，這項智慧管理系統投入使用後，已經在照明的能源消耗上取得了顯著的節省，同時也減少了維修人力成本，讓城市資源的運用更精打細算。</p><p>上海的智慧照明系統目前運作良好，市府表示，未來會繼續擴大這項技術的應用範圍，讓更多城區的燈光納入這套智慧管理中。這不僅讓上海的夜晚持續璀璨奪目，更為這座國際大都市的現代化管理寫下了新的篇章，展現科技如何讓城市生活更美好、更智慧。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到上海政府運用了什麼樣的科技，來管理城市的夜晚燈光？它解決了哪些過去可能遇到的問題？",
+      "生活與未來：你覺得這個智慧照明系統的改變，會對上海的居民或遊客造成什麼實際影響？你家附近如果有類似的系統，你覺得會有什麼不同？",
+      "獨立思考提案：針對這個智慧照明的應用，你覺得除了美觀和節能之外，還可以怎麼結合其他技術或服務，讓它變得更好或更有趣？"
+    ],
+    "enTitle": "Shanghai's Sparkling Nights: High-Tech Illuminates a New Urban Landscape",
+    "enContent": {
+      "basic": "Shanghai has a beautiful night view. Now, a new smart lighting system is making it even better. This system uses technology from a company called SAP. It helps control thousands of lights on buildings and streets across the city. City workers can easily change the lights' colors and brightness from a computer. This makes the city's night scenes more amazing, especially during holidays. The system also helps save energy and makes city management easier by finding broken lights quickly.",
+      "intermediate": "Shanghai's renowned night skyline is now even more captivating, thanks to the recent implementation of a new smart lighting management system. This advanced solution, powered by technology from international software firm SAP, provides centralized control over thousands of lights across iconic districts like Pudong and the Bund. City officials can now effortlessly adjust light colors, brightness, and even create dynamic light shows from a central interface. Beyond aesthetics, the system significantly enhances operational efficiency by optimizing energy consumption through data analytics and promptly identifying maintenance needs. This initiative aims to make the city's illumination both visually stunning and environmentally sustainable.",
+      "advanced": "Shanghai has unveiled an innovative smart lighting management system, a technological collaboration with enterprise software giant SAP, designed to enhance the city's iconic nocturnal panorama while simultaneously boosting operational efficiency and sustainability. This sophisticated platform provides centralized command over thousands of architectural and public illumination points across key urban districts, enabling dynamic adjustments to color palettes, luminosity, and synchronized light spectacles for special events. Beyond its aesthetic contributions, the system leverages data analytics for precise energy consumption optimization, proactively identifies maintenance requirements, and streamlines resource allocation. This strategic deployment underscores Shanghai's commitment to leveraging advanced technology for urban beautification and intelligent infrastructure management, yielding tangible benefits in energy conservation and operational efficacy."
+    },
+    "vocabulary": [
+      {
+        "word": "Skyline",
+        "zh": "城市天際線 (指一個城市中，高樓大廈和建築物在天空中勾勒出的輪廓線，通常從遠處看會覺得很壯觀或有特色。)"
+      },
+      {
+        "word": "Smart City",
+        "zh": "智慧城市 (指一個城市運用各種科技和網路，來管理交通、能源、安全等各種事務，讓城市運作更有效率，居民生活更方便。)"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-02",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMlRPd1NjaHFfTjV0WTVoVjVUVEhlZk5nSnhuSWZYSzJJNmF4WWJ6QlBnZFQzRkM4MkNEX3J2c242UFdTYmpLNWpsYWdZOVE1MjRWWFk5dHpQcXRmUXQ3anMxeXFxTEl0Z3FJYmRHVVRJUFl1YWh2YTV3NFBuR2k1VXpuOHlDSDhWb2UyYUk0VW1NRHZLMk1ZaEJlMFlNc2RnTVltMDN0eDNHU2JQS2JtNE42RmtucjAwd08zLUxQRkhzU3BCLWpIYVZzR1l0eGx4emdBU2VpWkMzSGUzcmVNRlBpR0lfa2E5LV9vTkhxRVFBWHoxSWc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "索羅門群島總理之爭：誰將引領國家新方向？",
+    "zhSummary": "索羅門群島大選落幕後，各方政治勢力正積極協商，角逐下任總理寶座，決定國家未來的領導人選。",
+    "zhContent": "<p>太平洋上的島國索羅門群島最近結束了一場全國大選，這不僅是選出新的國會議員，更重要的是，這些新選出的議員們將要共同決定誰來擔任國家的下一任總理。這個位子非常重要，因為總理將會是整個國家的最高領導人，負責制定政策，引導國家前進。目前，選戰雖然告一段落，但總理人選的競爭才正要開始，各方勢力都在積極運作，希望能推出自己支持的人選。</p><p>根據索羅門群島的政治制度，總理並不是直接由民眾投票選出。而是由新當選的國會議員們，在所有議員中推舉並投票產生。通常，獲得最多席次的政黨或聯盟會推舉自己的領袖出任總理。不過，這次大選結果沒有任何一個政黨獲得絕對多數的席次，這代表著各個小黨和獨立議員的合作與結盟變得至關重要，他們必須在選後進行一連串的協商，組成穩定的多數聯盟。</p><p>目前檯面上，有幾位主要的人選被外界看好。例如，現任總理的政黨，儘管失去了一些席次，但仍是國會中最大的單一政黨，因此他自然會尋求連任。另外也有其他資深政治人物，他們來自不同的陣營，各有支持者。這些候選人都會提出自己的施政理念，爭取其他議員的支持。他們所關心的議題可能包括經濟發展、基礎建設、甚至是如何平衡與國際社會的關係等。</p><p>整個選出新總理的過程，預計將會持續一段時間，直到各方達成共識，或者有足夠的議員形成穩定的多數聯盟。國會將會召開會議，正式進行總理投票。在此之前，各個派系之間的談判與拉攏會是主要焦點。誰能最終獲得最多議員的信任與支持，誰就能登上索羅門群島的最高領導寶座，領導這個國家未來四年。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The Race for Solomon Islands' Next Prime Minister Begins",
+    "enContent": {
+      "basic": "The Solomon Islands just finished an election. Now, everyone is waiting to see who will be their next leader, called the Prime Minister. The Prime Minister is very important because they lead the whole country. Many groups are trying to get their favorite person chosen.",
+      "intermediate": "Following a recent national election in the Solomon Islands, the focus has shifted to the process of selecting the nation's next Prime Minister. This individual will serve as the top executive, guiding national policy and direction. With no single party securing an outright majority, the newly elected Members of Parliament must now engage in coalition-building and negotiation to determine who will lead the government.",
+      "advanced": "The Solomon Islands' recent general election has concluded, ushering in a period of intense political maneuvering as newly elected Members of Parliament vie for influence in the selection of the next Prime Minister. Given the parliamentary system, the Prime Minister is not directly elected by the populace but rather by a vote among the MPs. The absence of a decisive majority for any single party necessitates complex coalition negotiations, with several prominent political figures, including the incumbent, emerging as key contenders for the nation's highest executive office. The ongoing discussions will determine the country's leadership for the coming term."
+    },
+    "vocabulary": [
+      {
+        "word": "Prime Minister",
+        "zh": "總理（或首相）：國家最高的行政領導人，負責管理國家日常事務，就像一間大公司的總經理或執行長。"
+      },
+      {
+        "word": "Parliament",
+        "zh": "國會（或議會）：一個國家裡，由人民選出來的代表組成，負責討論和制定法律，以及監督政府運作的機構。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-02",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnZKaXFDYmhRMXUyamVRVUMtQWtiUUpueWtXZmx1cEVZbXlkdVpsRThIY3RCVDdaN296dk5KMF9mNThJTFFPcThoTlV4LWYxcl80c2ZUSzNLb1JLM0VOT09xZms4ZE9ZVHpqSURFdGtpc3liMkpzWmM1VmN6UEFQcVlBelNqaU1vMVpvYlZtX3pFOExkY2kxelNkV3hUdw?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "全球目光聚焦！第七屆唐獎六月揭曉，看誰為世界帶來改變！",
     "zhSummary": "全球矚目的「唐獎」即將在六月公布第七屆得主。這項由臺灣創立的國際大獎，旨在表揚在永續發展、生技醫藥、漢學及法治領域有傑出貢獻的人，尤其在全球變局下，得主名單更受各界期待。",
     "zhContent": "<p>嘿，同學們，六月有個國際大事即將揭曉，那就是「唐獎」會公布第七屆得主！這是一項很重要的全球性獎項，許多人都密切注意著，想知道在目前快速變化的世界裡，哪些人將會因為他們對社會和環境的貢獻而獲得肯定。每年獎項揭曉前，各界都會對可能得獎的人選有許多討論，大家都在等待最終的結果。</p><p>「唐獎」是由臺灣的企業家尹衍樑博士在2012年創立的，它每兩年頒發一次，希望表揚在「永續發展」、「生技醫藥」、「漢學」和「法治」這四個領域做出傑出貢獻的人。這個獎的設立，就是想鼓勵全球的科學家和學者們，能持續投入研究，為人類社會和地球的未來找出更好的解決方案，解決那些複雜又困難的問題。</p><p>這次的第七屆唐獎，特別是在「全球變局」這樣的大背景下，更受到各界關注。我們都知道，現在世界各地面臨很多挑戰，像是氣候變遷、疾病威脅、環境保護，還有社會制度的平衡等等。唐獎的目的，就是希望透過表彰這些優秀的得主，讓大家看到，有許多人在默默地努力，用他們的智慧和創新來應對這些複雜的全球性問題，尋找解決之道。</p><p>所以，今年六月唐獎得主的揭曉，不只是一個頒獎典禮，更是一個全球性的焦點。它會讓我們看見，有哪些在這些領域裡有突破性發現或深遠影響的個人或團體，將會獲得肯定。大家都在等待最終的名單出爐，準備向這些為世界帶來希望和改變的智者們致敬。</p>",
@@ -12598,426 +13053,6 @@
     "date": "2026-04-02",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejltdWp3QUUwWEVXWlZ5cVRXQXpXR0ZSSnFzQWhDZVN4bHhUN2ViZ1RGOGd6T0xqMl9WVXRCaUMyWEUxV0FaNUI4Sy1fQzlpbUhLMVl4UHhXbGxFVllhVnJoaTNKVFYzaHdkTi1NVTRJamhhNkMwSUhyLWlKLVFMWnMybHk3WXMtNUwzUV9zMjNoQjgzVXRYN2YxcmFRTkRYdkdya3V0ZkhkNUY1dGJhUkhQekhDUQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中東戰事延燒一個月：川普想停火，盟友卻想繼續施壓？",
-    "zhSummary": "中東地區的衝突已經持續了一個月，美國總統川普表達了希望盡快結束戰事的意願。然而，與美國合作的盟邦們卻有不同看法，他們傾向於繼續對該地區施加壓力。這篇報導將帶你了解各方對這場衝突的不同策略與最新發展。",
-    "zhContent": "<p>中東地區的戰火已經連續燃燒了整整31天，這是當地居民每天都必須面對的嚴峻現實。在這場持續不斷的衝突中，身為世界大國領袖之一的美國總統川普，清楚表達了他希望能夠盡快讓戰事畫下句點的立場。他可能認為，長期投入戰爭會帶來沉重的代價，包括大量的金錢消耗以及寶貴生命的犧牲，因此希望能夠尋求方法，讓這場衝突能早日結束，為和平找到出路。</p><p>然而，川普總統的盟邦們——也就是那些與美國立場相近、共同應對國際事務的國家——卻抱持著不同的看法。他們對於結束戰事有著更為審慎的考量，擔心如果現在就停止施壓，可能無法達到預期的效果，甚至會讓局勢變得更加複雜。這些盟邦們主張，應該繼續運用外交或軍事上的壓力，以確保地區的穩定和他們的國家利益能夠獲得保障，直到某些關鍵目標達成為止。</p><p>造成這種意見分歧的原因，可能來自於他們對這場衝突的目標和戰略的認知不同。川普政府或許更傾向於快速解決問題，將資源轉向國內事務，這也符合他一貫「美國優先」的政策理念。而盟邦們則可能更看重長期的地區穩定，擔心如果倉促撤退，可能會導致權力真空，引發更深層次的問題，對他們的國家安全造成潛在威脅。</p><p>目前，關於這場中東衝突的未來走向，各方都還在積極地進行討論與協商。美國與其盟邦們之間，對於究竟該「停戰」還是「繼續施壓」的策略選擇，意見分歧仍然存在。國際社會正密切關注這場爭論將如何發展，以及最終會對中東地區乃至全球局勢帶來什麼樣的影響。這次的最新發展，只是呈現了這場複雜戰役中，不同國家之間策略上的拉扯。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國總統川普與其盟邦在應對中東衝突的態度上，有什麼主要的差異？",
-      "生活與未來：你覺得如果各國對同一個事件有不同看法，會對解決問題造成什麼樣的影響？",
-      "獨立思考提案：如果由你來決定，面對這種國際衝突，你會比較傾向支持哪一方的策略？為什麼？"
-    ],
-    "enTitle": "Middle East War: Trump Seeks End, Allies Push for Continued Pressure",
-    "enContent": {
-      "basic": "The conflict in the Middle East has been going on for 31 days. US President Trump wants to end the fighting quickly. However, America's allies want to keep putting pressure on the region. This news shows different ideas about how to deal with the war.",
-      "intermediate": "The Middle East conflict has now entered its 31st day. US President Donald Trump has expressed a desire to bring an end to the ongoing war as soon as possible, likely considering the costs and lives involved. But, his allies, the countries working with the United States, hold a different view. They believe it's important to continue applying pressure in the region, perhaps to achieve specific goals or ensure stability. This situation highlights the differing strategies among international partners regarding the future of the conflict.",
-      "advanced": "The protracted conflict in the Middle East has reached its 31st day, prompting diverse strategic approaches from global powers. US President Donald Trump has vocalized his intention to expedite the cessation of hostilities, likely driven by concerns over substantial resource expenditure and human cost. Conversely, America's key allies advocate for sustained pressure within the region, positing that a premature disengagement could undermine long-term stability or fail to achieve critical geopolitical objectives. This divergence underscores the complex geopolitical considerations and varying national interests influencing the resolution of the Middle East crisis."
-    },
-    "vocabulary": [
-      {
-        "word": "Alliance",
-        "zh": "盟邦 (méng bāng)：指幾個國家因為有共同的目標或利益，而互相結盟、互相幫助的關係。就像班上幾個好朋友，為了完成一個大專案而組成的小隊伍。"
-      },
-      {
-        "word": "Pressure",
-        "zh": "施壓 (shī yā)：意思是用言語、行動或影響力，來要求或迫使某人或某團體做某件事。就像老師會『施壓』我們，希望我們能準時交功課一樣。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-04-01",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6MXZoeXRCYlpJREhYRmJGa0VRck1MV0lEMmxHX3U0Q2E4RE40WnRlNUZ3WEtZanZyWnFjdjNlQVhhOWtXUlhUN3FfUWRGSXI3d2Nwb3U0X1YydHdsdEZF?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "日本牡蠣離奇大批死亡：美味海鮮怎麼了？",
-    "zhSummary": "最近日本各地出現不尋常現象，大量牡蠣突然死亡，讓漁民和專家們都非常困惑。這不僅影響了當地的海產養殖業，也讓大家開始思考背後可能的原因。",
-    "zhContent": "<p>最近在日本，一種不尋常的現象讓漁民們傷透腦筋。許多地區的牡蠣，也就是我們常吃的鮮美海產，竟然大量死亡，讓大家都摸不著頭緒。這個消息震驚了日本的漁業，因為牡蠣對日本來說不只是一道美味的料理，更是許多沿海地區重要的經濟來源。這種「離奇」的大批死亡，讓科學家和漁業專家都想知道，究竟發生了什麼事？</p><p>這次牡蠣大量死亡的規模不小，有些養殖場的損失非常嚴重，讓原本期待豐收的漁民們感到沮喪。想像一下，辛苦養殖的牡蠣在一夜之間大量消失，這對他們來說是巨大的打擊。新聞指出，這種情況並非零星發生，而是廣泛影響了日本各地好幾個重要的牡蠣產區。由於牡蠣是海洋生態系統中的重要成員，牠們的健康狀況往往能反映出海洋環境的一些變化，因此這件事也引起了廣泛關注。</p><p>目前，科學家們正在加緊腳步調查牡蠣死亡的真正原因。他們分析了海水溫度、水中化學成分以及牡蠣的健康狀況，希望能找出線索。可能的因素包括了海水溫度異常、海洋中的病原體傳播，或是其他環境壓力的影響。由於牡蠣對水質和溫度變化非常敏感，任何細微的改變都可能對牠們造成巨大的衝擊，所以專家們正在仔細比對各種數據。</p><p>儘管各方都在努力尋找答案，但截至目前為止，還沒有一個確切的原因能解釋為何日本的牡蠣會如此大批地死亡。漁業部門已經開始採取一些措施，希望能減輕損失，並防止情況進一步惡化。科學家們將持續追蹤調查，希望能盡快解開這個海洋之謎，確保這項重要的海產資源能夠繼續存續下去。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，日本牡蠣大量死亡的原因是什麼？文章是如何描述這個事件的？",
-      "生活與未來：你覺得牡蠣大批死亡，會對日本的漁民和喜歡吃牡蠣的人造成什麼實際影響？",
-      "獨立思考提案：如果類似的現象也發生在你居住的地區，你覺得當地政府或相關單位可以做些什麼來應對？"
-    ],
-    "enTitle": "Something Out of the Ordinary: Japan's Oysters Dying En Masse",
-    "enContent": {
-      "basic": "Something strange is happening in Japan. Many oysters, which people love to eat, are dying in large numbers. Farmers are sad because they are losing many of their oysters. Scientists are trying to find out why this is happening. They are looking at the water and the oysters to understand the problem. It's a big mystery, and everyone wants to know what is causing the oysters to die so fast.",
-      "intermediate": "Japan is facing an unusual problem: its oysters are dying in large quantities across many regions. This mass die-off is a serious concern for local fishermen, who rely on oysters for their livelihood, and for the country's seafood industry. Experts are actively investigating the cause, examining factors such as ocean temperature changes, water quality, and potential diseases. This event highlights the delicate balance of marine ecosystems and the importance of understanding environmental changes, though a definitive answer to the mystery remains elusive for now.",
-      "advanced": "Japan is currently grappling with a baffling environmental anomaly: the widespread and significant mortality of its oyster populations. This 'out of the ordinary' phenomenon has profoundly impacted coastal communities, jeopardizing the livelihoods of numerous aquaculture farmers and raising concerns within the broader seafood industry. Scientists and marine biologists are engaged in intensive research to identify the underlying causes, scrutinizing variables such as anomalous ocean temperatures, shifts in water chemistry, and the potential proliferation of pathogens. While investigations are ongoing, the incident underscores the intricate sensitivities of marine ecosystems and the urgent need for comprehensive environmental monitoring, as a definitive explanation for this mass die-off has yet to be established."
-    },
-    "vocabulary": [
-      {
-        "word": "en masse",
-        "zh": "「大量地、全部地」 指的是很多東西或很多人同時、一起做某件事或發生某個情況。"
-      },
-      {
-        "word": "ordinary",
-        "zh": "「普通的、平常的」 指的是不特別、不稀奇、跟一般情況差不多的意思。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-04-01",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2xEUTZlWElmb0R5R016WWNoSVR3TlRodVVTQ2ZxTGUxNFhwVDhDTlFIRDNKWlI3Y05pQmpIMHRkSHUyR0IxODVVOXdObS1nZXlCbUljUzJlb2xleVFRQjdZOWdOcUlJdWplV1ZNYWotRUJBdk1MNXhyNFdqa3hOZFBWWVZKVVUxZmhEVEY5NHhMU2tjalJ6U1ZZbmdtYmZBYlpQNWNaeXU?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國前第一夫人梅蘭妮亞號召全球代表 共議兒童、教育與科技未來",
-    "zhSummary": "美國前第一夫人梅蘭妮亞．川普最近邀請了來自世界各國的代表和科技界人士，一同討論孩子、教育和科技這三個重要議題。這場活動的目的是希望透過交流，找到讓科技更好幫助孩子學習與成長的方法。",
-    "zhContent": "<p>美國前第一夫人梅蘭妮亞．川普女士最近舉辦了一場重要的國際會議，把來自世界各地的代表和科技公司專家聚集在一起。這場活動的核心，就是圍繞著「孩子」、「教育」以及「科技」這三個大家都很關心的議題。簡單來說，她希望大家能一起想想，科技日新月異，我們該怎麼讓它對孩子們的學習和成長更有幫助呢？</p><p>在這場特別的會議中，梅蘭妮亞女士邀請的不僅有其他國家的代表，很可能也包含了許多第一夫人或國家領導人的配偶，這些人通常都很關心社會和下一代的發展。更特別的是，還有許多科技公司的代表也參與其中。這種組合讓與會者能從不同角度交流，不只考慮到孩子們的需求，也能了解到最新的科技發展趨勢，看看這些新技術如何影響我們的下一代。</p><p>這次討論的主要目的，是希望能夠找出科技在教育上能扮演哪些正面角色，同時也要思考如何保護孩子們在使用科技時的安全與健康。例如，大家可能談論到如何運用數位工具提升學習效果，或是如何確保網路環境對孩子是安全的。這顯示了全球各地都越來越重視科技對兒童成長的影響，並努力尋求平衡點，讓科技成為孩子們的好幫手，而不是潛在的隱憂。</p><p>總體而言，這場由梅蘭妮亞．川普女士主導的會議，提供了一個高層次的國際交流平台。它讓世界各國的代表和科技界的專家們，能夠直接面對面，共同討論如何更妥善地引導科技發展，來支持兒童的教育和整體福祉。這場討論的重點，就是將這些關鍵議題擺上檯面，進行開放的溝通。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Melania Trump Hosts Global Discussion on Children, Education, and Technology",
-    "enContent": {
-      "basic": "Melania Trump, the former First Lady of the United States, recently held an important meeting. She invited people from different countries and experts from technology companies. They all came together to talk about children, education, and technology. The main goal was to discuss how technology can help kids learn and grow better, and how to keep them safe online. This meeting brought many important people together to share ideas.",
-      "intermediate": "Former U.S. First Lady Melania Trump organized an international gathering focused on children, education, and technology. She brought together 'world counterparts,' which likely included other first ladies or spouses of global leaders, as well as representatives from the technology sector. The discussions aimed to explore how advancements in technology impact the younger generation's learning and development, and how to harness these tools positively while addressing potential challenges. This high-level forum served as a platform for sharing diverse perspectives on these critical subjects.",
-      "advanced": "Former U.S. First Lady Melania Trump convened a significant international event, drawing together global 'counterparts' and technology sector representatives for a crucial dialogue on children, education, and technology. The initiative sought to foster cross-sector collaboration, examining the multifaceted impact of technological advancements on youth development and pedagogical frameworks. Participants engaged in discussions designed to identify strategies for leveraging technology's potential to enhance educational outcomes and overall child well-being, while simultaneously mitigating associated risks. This high-profile forum underscored a collective global commitment to navigating the complexities of the digital age in the context of childhood and learning."
-    },
-    "vocabulary": [
-      {
-        "word": "counterparts",
-        "zh": "對等人士/對應人物。想像一下，如果你是班長，另一個班級的班長就可以算是你的「對等人士」。這裡指的是在國際場合上，職位或身份地位差不多的人。"
-      },
-      {
-        "word": "technology",
-        "zh": "科技。就是指那些用科學知識做出來的厲害工具和方法，像手機、電腦、網路，還有機器人等等，它們改變了我們的生活和學習方式。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-04-01",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUdBUXVOOVhtb1VzdTFpSDFnU290bVowMzBMQ1pqdUJEWVVtSUlRaW5xQTJfZmtvYWRtNThJUkV1NFhPN2dVWkRSa3NWaFZrdWswamxuSmpIMWpHX21sMUEwQkx5bThuM2txRWpva245alBlaWJHZ3pXMHA0SW9ET0hEUGxyOFREM29XaGpYOGR2VERvZk5JV0hlWFR0UnJVUXJ1WWd3N0dSdWhVQzNN?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI戰場新焦點：決定權在誰手？科技公司老闆這樣說",
-    "zhSummary": "Palantir英國區負責人近日表示，雖然他們的AI工具能幫助軍方分析情報，但關於AI在戰爭中如何鎖定目標的最終決定權，應由各國軍方自行判斷與負責。",
-    "zhContent": "<p>喂，大家知道嗎？現在連戰爭都開始用到超酷的AI技術了！最近，一家叫做Palantir的英國公司，它的老闆針對AI在打仗時「要怎麼選擇目標」這件事，公開說了一段話。Palantir可不是普通公司喔，他們專門做那種很厲害的軟體，可以幫忙處理超多資料、找出裡面的秘密。所以他們對AI在軍事上的應用特別有經驗。</p><p>Palantir的英國老闆明確表示，雖然他們公司能提供超級強大的AI工具，可以讓軍方更快地分析情報、看清戰場狀況，但最後要不要用AI來決定要打哪裡、打誰，這個重大決定權，完全是在「軍隊」自己手上。他說，這不只是技術問題，更牽涉到很深的道德和判斷，需要人來做最終的把關。</p><p>他這番話其實回應了最近大家都很關心的一個話題：AI在戰爭中究竟該扮演什麼角色？會不會讓機器人自己決定開火？很多科技公司其實都在思考這個界線在哪裡。Palantir的負責人等於是強調了，他們只是提供「工具」，就像提供一套很聰明的地圖或指南，但最後要怎麼走、走去哪裡，還是得由真正作戰的軍方來下指令。</p><p>所以，這新聞的重點就是，Palantir的英國老闆很清楚地告訴大家，關於AI在戰爭中鎖定目標的倫理和實際運用，最終的責任和決定權，並不在科技公司手上，而是牢牢掌握在各國軍方的手中。這也讓大家更明白，未來AI要怎麼被用在戰場上，軍方的選擇將是關鍵。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Palantir UK Boss: Militaries to Decide AI Targeting in War",
-    "enContent": {
-      "basic": "Palantir, a company that makes special computer programs, has a boss in the UK who talked about how artificial intelligence (AI) should be used in wars. He said that even though their AI tools are very helpful for armies to understand things faster, it's the armies themselves who must decide how to use AI to find targets. He stressed that armies are responsible for making these important choices.",
-      "intermediate": "The UK head of Palantir, a prominent data analytics software company, has stated that the ultimate responsibility for how AI targeting systems are deployed in warfare rests with military forces, not with technology providers. He clarified that while Palantir develops powerful AI-driven tools to assist militaries with data processing and situational awareness, the ethical and operational decisions regarding the actual engagement of targets using AI fall squarely on the militaries. This statement comes amidst ongoing discussions about the autonomy and moral implications of AI in modern combat.",
-      "advanced": "In a significant declaration, the UK boss of Palantir Technologies, a company renowned for its sophisticated data analytics platforms often utilized by defense sectors, articulated that the prerogative and accountability for the application of AI-driven targeting systems in conflict zones unequivocally reside with national militaries. He underscored that Palantir's role is strictly confined to developing advanced AI capabilities that enhance military decision-making through superior data assimilation and analysis. However, the critical ethical frameworks and operational mandates governing the use of these AI tools for target identification and engagement are, in his view, the exclusive domain of military leadership. This stance reflects a broader industry dialogue concerning the delineation of responsibility between AI developers and military end-users in the context of autonomous weapon systems and the future of warfare."
-    },
-    "vocabulary": [
-      {
-        "word": "AI targeting",
-        "zh": "人工智慧目標鎖定：意思是利用AI（人工智慧）技術，來幫助軍方決定或辨識在戰場上要攻擊的目標。"
-      },
-      {
-        "word": "Militaries",
-        "zh": "軍方/軍隊：指一個國家的軍事力量，包含陸軍、海軍、空軍等，負責保衛國家安全。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-04-01",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xZTllYmNFSFg3ZV95d2cyd3JBeFdMYkRDY2tNOEt3bW9UVkRsSEs5M0tEVVJ4UTNBVm9FR3FKTzljbkgxMTNVbTZFNkdTdlpaZ0oya0xMS3RDQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國就業市場現況：招聘人數跌至疫情低點！",
-    "zhSummary": "這則新聞指出，美國的企業招聘活動大幅減少，就業市場的成長速度停滯不前，招募新員工的數字甚至降到了全球疫情爆發時的低點。這是當時美國經濟面臨的一項挑戰。",
-    "zhContent": "<p>嗨！我是你們的專欄作家。最近，國外媒體《半島電視台》報導了一則關於美國就業市場的重要消息。新聞指出，美國企業在聘請新員工方面的活動大幅減少，招聘人數下降到一個非常低的水平，甚至可以說是與全球疫情最嚴重時的狀況差不多。這個情況，讓許多人開始關注美國的經濟狀況。</p><p>這則報導特別提到，當時美國的整體就業市場呈現停滯不前的狀態。所謂的「停滯」，意思就是市場沒有像以往那樣快速成長，或是創造出很多新的工作機會。當招聘人數掉到「疫情低點」，這表示公司雇用新人的意願不高，對正在找工作的人來說，機會就變得比較少，競爭也會更激烈。</p><p>那麼，為什麼會發生這種情況呢？新聞指出，這是當時在川普總統執政期間，美國就業市場表現出來的一種趨勢。當招聘活動大幅減少，就意味著企業可能對未來的經濟發展比較保守，不願意擴大投資或增加人手。這種不景氣的氛圍，讓整個就業環境都充滿了挑戰。</p><p>總結來說，這份報導描述了當時美國就業市場的一個嚴峻事實：企業招聘的新員工數量跌到一個非常低的點，幾乎和全球疫情最嚴峻時期的狀況一樣，而整個市場也缺乏成長動力。這顯示在那個時期，美國的經濟活動和就業機會正經歷一段困難的時期。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國就業市場出現了什麼樣的變化？「疫情低點」這個詞暗示了什麼？",
-      "生活與未來：你覺得這個新聞裡提到的情況，會對當時美國的年輕人找工作造成什麼實際影響？",
-      "獨立思考提案：如果一家公司發現很難招聘到新員工，你覺得他們除了減少招聘，還可能採取哪些不同的策略來應對這種情況？"
-    ],
-    "enTitle": "US Hiring Hits Pandemic Lows as Job Market Stagnates",
-    "enContent": {
-      "basic": "News from Al Jazeera reported that hiring in the US dropped to levels seen during the pandemic. This means fewer new jobs were created. The job market under President Trump was not growing much, it was 'stagnant.' This made it harder for people to find work at that time.",
-      "intermediate": "Al Jazeera reported a significant slowdown in US hiring, with new job creations falling to 'pandemic lows.' This indicates a challenging period for the American job market, which was described as 'stagnating' during the Trump administration. Companies were less likely to expand their workforce, leading to fewer opportunities for job seekers.",
-      "advanced": "According to Al Jazeera, US hiring activities experienced a sharp decline, reaching levels comparable to the nadir of the global pandemic. The report highlighted a 'stagnant' job market under the Trump administration, characterized by a lack of substantial growth and new job creation. This economic environment presented considerable challenges for individuals seeking employment and signaled a cautious outlook among businesses regarding future expansion."
-    },
-    "vocabulary": [
-      {
-        "word": "Stagnates",
-        "zh": "停滯：意思是指某個東西（例如經濟、市場）停止成長或發展，好像被卡住一樣，沒有什麼進步或變化。"
-      },
-      {
-        "word": "Hiring",
-        "zh": "招聘：指公司或企業尋找並雇用新員工的過程。當「招聘」減少，就是公司找的新人變少了。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-04-01",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkI2RW5NTU1LTHJKamNlVzA4Nzgxd1M0VDMzOURYVElOTG9VbU02ajFMbEU2MVUyOHg1MExzbVZjWmp6V3VxWWRiWFVEUmw2QzZHMVlQOFhNdUdYX0xtSHF3NFVKeFdmdThUVzBRdUM5RUppbmR5RzdkYWI2SXB2M3dvUzVOZnBCM1BQR1QyemVjelpGRlBFT09OQWhkdEd2aUdLLWlwUkdaVkhNcGdHYWhhLV8tVzZ3TVJZ0gHAAUFVX3lxTE1rTVVUdG9za2NycUxKSlZuU2hwSjJFTERhX252RHF3SnotRnhvNmdHZGNZazZZcEN1WDVkZm1NS0dhQjMxVHZwRktpRFhEODRvSE1tTkZielBTRWZwMlVBUkRZY3B5U2JJNUhTVGtOY05ScmRYUG9TMEdMLTZMRXVWcFV3TWZHNndEeTJYRkpIUV9kZGFraUtpQ3dxWFN2anNCcFBacC0yXzY5Zmx2YU9pREE4Ny1nb2doWS1iZnhkdA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "阿根廷做出大決定：把伊朗一個組織列為恐怖團體！",
-    "zhSummary": "阿根廷政府最近正式宣布，將伊朗的「伊斯蘭革命衛隊」認定為恐怖組織。這個舉動是為了追查過去一起嚴重爆炸案的真相，也讓阿根廷的立場與美國保持一致。",
-    "zhContent": "<p>嗨，同學們！最近阿根廷有個重要的新決定，他們把伊朗的一個重要組織叫做「伊斯蘭革命衛隊」（簡稱IRGC），正式列為「恐怖組織」了。這個動作跟美國的立場一樣，代表阿根廷政府認為這個組織做了會危害社會安全的事情。</p><p>為什麼阿根廷會這樣做呢？其實這跟很久以前，也就是1994年在阿根廷首都布宜諾斯艾利斯發生的一起嚴重爆炸案有關。那時候，一個叫做「阿根廷猶太互助協會」（AMIA）的中心被炸毀了，造成了85人死亡。經過這麼多年的調查，阿根廷的司法單位認為，這次襲擊是伊朗政府策劃的，而「伊斯蘭革命衛隊」在其中扮演了重要角色。把一個組織列為恐怖組織，通常表示政府可以凍結他們的資產，限制他們的人員旅行，也會對他們的活動進行更嚴格的監控。</p><p>這起爆炸案一直都是阿根廷歷史上的一個痛點，也是司法體系長期追查的焦點。雖然伊朗方面一直否認有任何涉入，但阿根廷的法院在最近的判決中，再次確認了伊朗是這次襲擊的主謀。所以，阿根廷政府這項決定，其實是司法判決後的一個政治行動，為了懲罰他們認為的肇事者。美國早在幾年前就已經把「伊斯蘭革命衛隊」列為恐怖組織了，所以阿根廷這次的決定，讓他們與美國在這一議題上站在了同一陣線。</p><p>這個新的認定對「伊斯蘭革命衛隊」來說，意味著他們在阿根廷可能有的任何資產都會被凍結，相關人員也會面臨旅行禁令。阿根廷政府透過這個方式，來表達他們對恐怖主義的譴責，並試圖對這起陳年舊案的肇事者追究責任。這件事也讓國際社會再次關注到恐怖主義的威脅，以及國家在追溯歷史事件真相上的努力。目前，這就是阿根廷政府對這起歷史事件所做的最新一步處理。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，阿根廷為什麼會將伊朗的「伊斯蘭革命衛隊」列為恐怖組織？這個決定和美國的立場有什麼關係？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，這個組織的成員或資產可能面臨什麼情況？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？如果這類型的歷史懸案持續存在，你認為國家應該如何處理？"
-    ],
-    "enTitle": "Argentina Designates Iran's IRGC a Terrorist Organization",
-    "enContent": {
-      "basic": "Argentina has decided to call Iran's Islamic Revolutionary Guard Corps (IRGC) a terrorist group. This matches what the United States thinks. Argentina made this decision because of a big bombing in 1994 at a Jewish center in Buenos Aires. They believe the IRGC was involved. Being called a terrorist group means their money can be frozen, and their members might not be able to travel. This is Argentina's way to seek justice for the old bombing.",
-      "intermediate": "Argentina has officially labeled Iran's Islamic Revolutionary Guard Corps (IRGC) as a terrorist organization, aligning with the stance of the United States. This designation stems from the 1994 bombing of the AMIA Jewish community center in Buenos Aires, which resulted in 85 deaths. Argentine judicial investigations have concluded that the Iranian government orchestrated the attack and that the IRGC played a significant role. This classification empowers Argentina to freeze IRGC assets and impose travel restrictions on its members, representing a continued effort to address the historical incident.",
-      "advanced": "In a significant move, Argentina has formally designated Iran's Islamic Revolutionary Guard Corps (IRGC) as a terrorist organization, thereby harmonizing its position with that of the United States. This declaration is rooted in the protracted investigation into the 1994 bombing of the AMIA Jewish community center in Buenos Aires, an atrocity that claimed 85 lives. Argentine judicial authorities have determined that the attack was orchestrated by the Iranian government, with the IRGC implicated as a principal executor. This designation facilitates the freezing of IRGC assets within Argentina and the imposition of travel prohibitions on its personnel, underscoring Argentina's resolve in pursuing accountability for the long-unresolved terrorist act."
-    },
-    "vocabulary": [
-      {
-        "word": "designate",
-        "zh": "指定/認定。意思就是官方正式宣布或歸類某個東西是什麼，就像老師「指定」你當班長，或是政府「認定」某個地方是保護區一樣。"
-      },
-      {
-        "word": "align",
-        "zh": "保持一致/對齊。意思是兩個或多個東西想法、立場或方向都相同，就像大家在排隊時「對齊」一樣，或是兩國政策「一致」。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-04-01",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjJfZndsaUY5WW5kY1JxOUstTGJOS3JSMUFYb1hadjBDWnZJSUlORVhlMG9sS2J6eHFzU2w1eWpQM0Z4cGp6bFdLbmRkZGl3cUE2djM0aDYxbjRPTVBuYWZWVHlWVWJMb21kWWE2dGxmanprdVJmaGcxcE9OV2ppNlBvQTdmdEJoNWlRUXNGdGRpbl8tSkZYRU9lWHEyYnF2RGktNkZnTTlWQzliRHZvZ3V0SEVtOW9QSjdSVnFKMGlyWFU?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "德國政壇風波：梅爾茨難民言論引爆熱議",
-    "zhSummary": "德國主要反對黨領袖梅爾茨因對敘利亞難民發表「福利旅遊」言論，引發了社會各界的強烈批評和反彈，促使德國再次檢視其難民政策。",
-    "zhContent": "<p>德國最近有個新聞引起不少討論，是關於一位重要政治人物——梅爾茨（Friedrich Merz）——他對敘利亞難民發表的言論。梅爾茨是德國主要反對黨基督教民主聯盟（CDU）的領導人，他的話常常很有影響力，這次也不例外，引發了各界強烈的反彈和批評。這起事件讓大家再次聚焦德國的難民政策，以及社會如何看待這些來到德國尋求幫助的人。</p><p>事情的起因是梅爾茨在一次電視訪問中，提到部分敘利亞難民在德國領取社會福利後，卻頻繁地回到敘利亞度假。他的主要論點是，如果他們能夠回到敘利亞旅行，那是不是表示他們實際上並沒有面臨生命危險，也就不符合難民的身份了？梅爾茨的說法暗示，這種情況可能是一種「福利旅遊」，也就是有人利用難民身份來享受德國的福利待遇，而不是真正需要保護。這段話一出，立刻在德國政壇和社會上投下了一顆震撼彈。</p><p>梅爾茨的言論很快引來了巨大的反彈，許多政治人物、人權組織和社會各界都紛紛出面批評。批評者認為，這種說法將所有難民一概而論，容易造成社會對難民的偏見，也忽略了每個難民背後不同的複雜故事。有人指出，敘利亞內部局勢複雜，不同地區危險程度不同，有些難民可能只是回鄉探親，情況並非梅爾茨所說那麼簡單。就連他自己黨內的一些成員，也對發言感到不滿。梅爾茨之後雖然有試圖澄清，表示他並不是指所有難民，只是想指出少數個案，但爭議已經擴散開來。</p><p>儘管梅爾茨試圖解釋，這場爭議仍然持續延燒，並促使德國社會和政治圈重新審視難民政策的細節與執行。這起事件反映出德國在處理難民議題上的挑戰，如何在人道關懷與實際資源分配間取得平衡，一直是個複雜課題。梅爾茨的言論雖然飽受批評，卻也讓這個敏感議題再次浮上檯面，引起更多公開討論。目前，關於難民身份認定和福利制度的效率問題，依然是德國各界持續關注的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Germany's Merz Faces Strong Backlash Over Syrian Refugee Comments",
-    "enContent": {
-      "basic": "Germany had a big discussion recently. A German politician named Friedrich Merz said something about Syrian refugees. He suggested that some refugees get money from Germany but then go back to Syria for holidays. People got very upset about his words. They said it was unfair to all refugees and caused problems. Merz tried to explain he meant only a few people, but many still thought his comment was wrong. This made people talk more about how Germany helps refugees.",
-      "intermediate": "A prominent German politician, Friedrich Merz, leader of the main opposition party, recently sparked considerable controversy. He made comments suggesting that some Syrian refugees receiving social benefits in Germany were simultaneously making trips back to Syria for holidays. This statement ignited a strong backlash from various political figures, human rights organizations, and the public. Critics argued that Merz's remarks unfairly generalized refugees and risked fueling prejudice. While Merz later attempted to clarify his statement, emphasizing he was referring to isolated cases rather than all refugees, the debate over Germany's asylum policies and the integration of refugees intensified.",
-      "advanced": "Friedrich Merz, leader of Germany's Christian Democratic Union (CDU) and a significant figure in the opposition, recently ignited a contentious debate with his remarks concerning Syrian refugees. During a televised interview, Merz posited that certain Syrian asylum seekers, while beneficiaries of German social welfare, were reportedly traveling to Syria for vacation. This assertion provoked a substantial backlash across the political spectrum and civil society. Opponents criticized Merz for what they perceived as a harmful generalization, arguing it could exacerbate xenophobia and misrepresent the complex realities faced by refugees. Despite subsequent attempts by Merz to nuance his comments, specifying he was highlighting individual abuses rather than condemning all refugees, the incident underscored persistent challenges within Germany's refugee policy framework and its ongoing public discourse surrounding integration and humanitarian responsibilities."
-    },
-    "vocabulary": [
-      {
-        "word": "Backlash",
-        "zh": "「反彈」或「強烈反對」。意思是指當一個人或一個團體做了某件事或說了某句話後，引起了很多人非常生氣、不滿或批評的負面反應。就像你做了一件大家不喜歡的事，然後很多人跑出來罵你，這就是反彈。"
-      },
-      {
-        "word": "Refugee",
-        "zh": "「難民」。指的是因為戰爭、迫害、天災或其他危險，不得不離開自己的國家，到另一個國家尋求安全和保護的人。他們不是自己選擇要離開家的，而是被逼著離開的。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-04-01",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlFsNHlwWWlKWEFsWkQ2Mm8wdEU1djFCRHF0Z1dFc2hTelMtb0VTX2VIcTE5cTktQnRaLTVzVTZzOFBWNFBlaDkzVl93WS1Lc2hSY1lndUNweWlXa1NFOXFZZjZKcFRxSGpFZWdCc1FuekFqT1Y2Q3hkR3dDSnRhOHBrcW5sZ0psUnZZeFdZVFlvQdIBkgFBVV95cUxNVGNKc0FRaE5JZFRDSlpDREZsVHVvMEJnVFVRMWp6a1M3dWRISWZ4TUY4bXo0WG5Sb1RTWnhtb3VwNXU5Z2YzLURoZXFXaUltTG5ZZVVodXJ4dW5hLVlDbG90b0RGMDBLejN1bDlpdXdEbWFxb2ZFQ2M3UDVjdFhBazFhQjllLUxUTnhyQzNTUmdEQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非政府出手了！全球油價飆漲，減稅幫你撐過難關",
-    "zhSummary": "全球油價因為中東戰事而飆升，南非政府決定從4月起，暫時調降汽油和柴油的燃油稅，希望能減輕民眾和企業的負擔。",
-    "zhContent": "<p>嘿，同學們！南非最近有一個重要的消息，可能對他們國家的每個人都有影響。南非政府宣布，他們決定要暫時調降國內的「燃油稅」，也就是我們加油時會包含在油價裡面的稅金。為什麼要這樣做呢？最主要的原因是，全球的石油價格最近漲得特別兇，而這波油價上漲，跟中東地區的一些戰事脫不了關係。</p><p>南非財政部長對外說明了這個特別措施。從今年的4月開始，到5月底為止，南非的汽油和柴油，每公升都會少收大概1.5蘭特（這是南非的貨幣單位）的稅。這個調整聽起來好像不多，但對每天需要開車上下班、或是運輸貨物的公司來說，長期累積下來可以省下不少錢。政府希望用這個方法，來幫忙緩解物價上漲帶來的壓力。</p><p>全球油價為什麼會突然飆高呢？主要是因為中東地區有些地方發生了衝突，讓國際社會很擔心那邊的石油供應會不穩定。當大家預期石油可能會變少的時候，油價自然就會往上衝。南非本身不是主要的產油國，大部分的石油都需要從國外進口，所以當國際油價漲價時，南非國內的加油站油價也跟著漲，民眾的生活開銷就變大了。</p><p>這項燃油稅減免的措施，是南非政府為了保護老百姓的荷包，避免大家因為油價太高而活得太辛苦。雖然政府會因此少收一部分稅金，但他們認為，在這種特殊時期，幫助民眾和企業度過難關更重要。目前這項政策是暫時性的，預計實施兩個月後會再評估狀況，看看全球油價是否有趨緩。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，南非政府為什麼要調降燃油稅？這個政策預計會持續多久？",
-      "生活與未來：你覺得這個改變會對南非當地開車的家庭和做生意的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得南非政府除了減稅，還可以怎麼做，才能更有效地幫助民眾應對油價上漲的困境？"
-    ],
-    "enTitle": "South Africa Cuts Fuel Tax Amidst Middle East Conflict-Driven Price Surge",
-    "enContent": {
-      "basic": "South Africa has lowered its fuel tax to help people with high gas prices. This decision comes as global oil prices have increased significantly, partly due to ongoing conflicts in the Middle East.",
-      "intermediate": "The South African government announced a temporary reduction in its fuel levy, affecting both petrol and diesel, for a two-month period starting in April. This measure is a response to the substantial rise in global oil prices, which have been driven upwards by tensions and war in the Middle East, causing concerns about oil supply stability. The aim is to alleviate financial pressure on South African citizens and businesses.",
-      "advanced": "In a move to cushion its economy and consumers from the impact of escalating global oil prices, South Africa's government has implemented a temporary cut in its fuel levy. Effective from April and lasting for two months, the reduction targets the inflationary pressures stemming from a significant price surge in international oil markets, largely attributed to geopolitical instability and conflicts in the Middle East. While this intervention implies a decrease in state revenue, it underscores the government's priority to mitigate the cost of living and support commercial activities amidst external economic volatilities, particularly for a nation reliant on oil imports."
-    },
-    "vocabulary": [
-      {
-        "word": "levy",
-        "zh": "稅金／費用：這是一種政府會向民眾或企業收取的費用或稅金，用來支持國家的運作，就像我們買東西要付的消費稅，或是這裡提到的加油要付的燃油稅。"
-      },
-      {
-        "word": "surge",
-        "zh": "飆升／猛增：意思是指某樣東西（像是價格、數量或情緒）突然間快速地增加或上升。新聞中油價「飆升」，就是指油價在很短時間內漲了很多。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-04-01",
-    "sourceName": "APAnews - Agence de Presse Africaine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmt4VURaS3B5NEJzVmpwNU44Nk5zcTR0NUJJQ2NTeG40allILW9oYW9DcURicGRVZEdPZG1sVGYtMWlLZFZiMV8zbXNEdTRHREVBeDVON3R6czlSS2FNb3lJNjBUYjZzZjctS2IyQi1yTmJwU1BDdHF4RXNtdks0VUJxZ0JGYk91akJWOVNBNA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "從南韓到斯里蘭卡：伊朗局勢如何影響亞洲人的生活？",
-    "zhSummary": "中東地區的緊張局勢，特別是伊朗相關的區域發展，可能透過石油價格和航運成本，對遠在亞洲的國家造成經濟衝擊，進而影響一般民眾的日常開銷與生活。",
-    "zhContent": "<p>你或許會覺得，遠在中東發生的事情，跟我們亞洲人的生活有什麼關係？最近BBC一則報導就提醒了大家，即便像是伊朗那樣的地區出現緊張局勢，它的影響力其實會跨越大半個地球，從南韓到斯里蘭卡，很多亞洲國家都可能間接受到波及，甚至影響到我們的日常開銷和生活方式。原來，地球村的概念不只讓彼此連結更緊密，也意味著遠方的波動可能輕易傳到身邊來。</p><p>這主要是因為中東地區在全球能源供應上扮演著關鍵角色。尤其是伊朗周圍的海域，是許多國家運送石油的重要航道。當這個地區的局勢變得不穩定，例如出現船隻受到威脅或攻擊的新聞，負責航運的公司就會感到不安，運送貨物的保險費用也會跟著水漲船高。這些額外的成本，最終都會反映在全球的石油價格上，讓原本可能穩定的油價變得波動不定。</p><p>對亞洲國家來說，石油可謂是經濟運作的命脈。像南韓這樣高度依賴進口石油的工業大國，油價上漲會直接增加他們工廠的生產成本；而像斯里蘭卡這類國家，發電也多半需要燃燒石油，油價高漲就可能讓電費變貴。更不用說，交通運輸、製造業等各行各業，都會因為燃料成本上升而調整商品價格，最後這些負擔就可能轉嫁到我們消費者身上，讓荷包縮水。</p><p>因此，即便伊朗的「戰爭」可能不是指大規模的武裝衝突，而是指持續的地緣政治緊張，但它卻像一條無形的鎖鏈，牽動著亞洲各國的經濟命脈和一般民眾的生活。這些遠方的變動，目前仍在持續影響著全球能源市場的穩定性，以及各國政府應對經濟壓力的能力，其結果便是亞洲各地的物價與經濟展望，也持續面臨不確定性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "From South Korea to Sri Lanka: How Iran's Situation Impacts Life in Asia",
-    "enContent": {
-      "basic": "Tensions in the Middle East, especially involving Iran, can cause global oil prices to rise. This means things like transportation and daily goods in Asian countries, from South Korea to Sri Lanka, might become more expensive.",
-      "intermediate": "The Middle East is a key region for global oil supply and shipping routes. When there's instability there, like threats to ships, it increases shipping insurance costs and oil prices worldwide. This directly affects Asian economies that rely heavily on imported oil, leading to higher production costs and consumer prices.",
-      "advanced": "Geopolitical tensions in the Middle East, particularly those affecting crucial shipping lanes like the Strait of Hormuz, create supply chain uncertainties. This leads to elevated oil prices and increased operational costs for industries across Asia. Countries like South Korea face higher manufacturing expenses, while nations such as Sri Lanka see increased energy bills, ultimately impacting the cost of living and overall economic stability for their citizens and potentially affecting migrant workers in the Gulf region."
-    },
-    "vocabulary": [
-      {
-        "word": "Tension",
-        "zh": "緊張 (Jǐnzhāng)。當兩個國家或團體之間的關係變得緊繃、不太和睦，感覺隨時可能發生衝突，但還沒有真的打起來的狀況。"
-      },
-      {
-        "word": "Shipping",
-        "zh": "航運 (Hángyùn)。指的是利用船隻在海上或河流上運送貨物、旅客的活動。國際貿易中，絕大部分的貨物都是靠航運來運輸的。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-04-01",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVWlmQTJINEh6am10OU9qMDV4VEJqbjFOVGdyeWdpTUxzWjR5d1NXWEtmOUpSVEhIejQ5RnRQT05XUmtLNUEzYk16bkM2S21EV013X2ZzNTJ0Zw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中東衝突怎麼影響到亞洲鄰居？聯合國報告說分明！",
-    "zhSummary": "聯合國的一個委員會最近發布了一份報告，說明了中東地區正在發生的衝突，對南亞國家可能會帶來哪些挑戰和機會，提醒大家要提前做好準備。",
-    "zhContent": "<p>你可能常常聽到新聞裡提到中東地區的動盪，但你是否想過，遠在旁邊的亞洲國家會受到什麼影響呢？最近，聯合國的亞洲及太平洋經濟社會委員會（ESCAP）發布了一份重要的報告，仔細分析了中東地區的衝突，會為南亞國家帶來哪些風險和可能意想不到的機會。這份報告的主要目的，就是希望南亞各國能提早了解這些變化，並做好應對的準備。</p><p>報告指出，南亞國家首先可能面臨幾項挑戰。例如，許多南亞國家高度依賴中東地區的石油和天然氣供應。一旦衝突加劇，這些重要資源的運輸可能受到阻礙，導致全球能源價格上漲。油價一高，不僅會增加南亞國家進口的成本，也可能讓當地的物價跟著攀升，對大家的日常生活造成壓力。此外，國際航運和貿易路線也可能因為區域不穩定而改變，影響南亞商品的出口和進口效率。</p><p>不過，這份報告也點出了一些特殊的「機會」。雖然中東局勢充滿變數，但有時候危機也會帶來轉機。報告提到，如果中東地區的經濟活動因為衝突受到影響，部分國際企業可能會考慮將生產基地或投資轉移到更穩定的區域，而南亞國家可能因此吸引到新的資金和產業進駐。此外，中東是許多南亞勞工的重要工作地點，雖然短期內就業可能受衝擊，但長期而言，一旦衝突平息後的重建工作展開，或許會創造出新的勞動需求。</p><p>ESCAP這份報告並不是要預測未來，而是提供一個客觀的分析框架，提醒南亞各國政府和相關單位，應該密切關注中東局勢的發展，並制定靈活的政策來應對可能發生的變化。不論是準備應對潛在的經濟衝擊，還是把握可能出現的新機會，及早的規劃和討論，對於這些國家來說都非常重要。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，ESCAP 的報告提到了中東衝突對南亞可能帶來哪些「風險」和「機會」？請各舉出至少一個例子。",
-      "生活與未來：你覺得如果新聞中提到的「油價上漲」發生在你的國家，會對你和你的家人造成什麼實際影響？請說說看。",
-      "獨立思考提案：如果有一個地區正面臨類似的國際衝突影響，你認為當地政府除了等待，還可以主動做哪些事情來保護人民、穩定經濟？"
-    ],
-    "enTitle": "Middle East Conflict: ESCAP Report Highlights Risks and Opportunities for South Asia",
-    "enContent": {
-      "basic": "A UN report by ESCAP looks at how conflicts in the Middle East affect countries in South Asia. It talks about problems like higher oil prices and changes in trade. But it also mentions good things that could happen, like new jobs or businesses moving to South Asia. The report wants these countries to be ready for any changes.",
-      "intermediate": "The United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) has published a report detailing the potential impacts of ongoing Middle East conflicts on South Asian nations. The report identifies risks such as disruptions to energy supplies, leading to increased oil prices and inflation, and challenges to trade routes. Conversely, it also points to opportunities, including the potential for South Asian countries to attract new investments or generate employment as businesses might shift operations from less stable regions. The goal is to encourage proactive planning among South Asian states.",
-      "advanced": "The United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) recently released a comprehensive report analyzing the multifaceted implications of the present Middle East conflict for South Asia. The document delineates critical risks, including the vulnerability of energy supply chains, which could precipitate elevated oil prices and subsequent inflationary pressures across the region. Furthermore, it addresses potential disruptions to international trade routes, impacting import and export efficiencies. Concurrently, the report identifies potential opportunities, such as the relocation of foreign direct investment to more stable South Asian economies or the creation of new employment sectors, particularly in post-conflict reconstruction phases. ESCAP's objective is to foster preparedness and strategic adaptation among South Asian governments to navigate these evolving geopolitical dynamics effectively."
-    },
-    "vocabulary": [
-      {
-        "word": "Conflict",
-        "zh": "衝突 (chōngtú)：指兩個或多個團體、國家之間因為意見不合、目標不同而發生爭執或打鬥的情況。"
-      },
-      {
-        "word": "Resilience",
-        "zh": "韌性 (rènxìng)：指一個人、一個國家或一個系統在遇到困難、壓力或變化時，能夠快速恢復、適應並繼續前進的能力。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-04-01",
-    "sourceName": "ESCAP",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXpsZVpmMGRGVGt3WHJyNEJiLXo1aFlORUF2QWNObHRxOVZPSU9EMUU0a000cGtLVnBLdEsyY3VsdFVWaXRWRHJ5RWxsbG5KLVI0YnhzOEhwWVVHWUV6SENObjlIa3dlRHV5QXA2aWVZYkRacmdZTC1ubktqYVpvTWN0U1V2OHJ0RFNkQVM1TXBUWDNXd3lB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI浪潮來襲！SAP高層揭示人工智慧如何改變印度企業",
-    "zhSummary": "全球商業軟體巨頭SAP的高層Lovneesh Khurana，在印度的一場人工智慧高峰會上，分享了SAP如何將AI技術整合到商業解決方案中，幫助印度企業提升效率並抓住數位轉型的新機會。",
-    "zhContent": "<p>想像一下，科技界的大事！最近在印度舉辦了一場非常重要的人工智慧（AI）高峰會，吸引了全球許多頂尖的科技公司和專家參與。全球知名的商業軟體公司SAP的高層Lovneesh Khurana，也代表公司出席了這場盛會。他在會中向大家闡述了SAP如何看待AI的發展，以及這項前瞻技術將如何改變未來的商業世界，為企業帶來更多可能性。</p><p>Lovneesh在高峰會上特別強調，SAP正致力於把AI技術深度整合到他們各種商業軟體解決方案中。這不只是簡單的加法，而是讓AI成為企業營運的核心助手。例如，SAP的AI工具可以幫助企業自動分析龐大的銷售數據，找出市場的最新趨勢，或者優化供應鏈管理，讓產品從生產到送到客戶手中的過程更順暢。此外，AI還能預測潛在的問題，讓企業能提早準備，避免損失。</p><p>SAP公司非常看好印度市場在數位轉型和AI應用上的巨大潛力。Lovneesh指出，印度的企業正在積極尋求創新，希望透過科技的力量來提升競爭力。SAP期望透過提供這些客製化的AI解決方案，能協助印度的各行各業，無論是製造業、零售業，還是服務業，都能更好地應用AI來解決複雜的商業挑戰，並抓住這個數位時代的新機會。</p><p>這次SAP參與印度AI高峰會，其實是他們在全球範圍內推廣人工智慧策略的重要一環。這也再次證明了SAP對印度市場的長期承諾。Lovneesh表示，公司將會持續投入大量的研發資源，開發更多創新且實用的AI技術，並且與當地的合作夥伴緊密協作，共同支持印度企業的成長與數位化進程，讓AI的效益能夠真正落地生根。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，SAP公司如何將AI應用到企業的日常運作中？",
-      "生活與未來：你覺得如果更多企業都使用AI來做決策或處理工作，會對我們每個人的生活造成什麼實際影響？",
-      "獨立思考提案：針對SAP在印度推動AI的策略，你覺得還可以怎麼做，才能讓更多小型或傳統企業也能從AI中受益？"
-    ],
-    "enTitle": "SAP Executive Showcases AI's Transformative Power for Indian Businesses at Summit",
-    "enContent": {
-      "basic": "Lovneesh Khurana, a top executive from SAP, a big company that makes business software, spoke at an important Artificial Intelligence (AI) conference in India. He talked about how SAP is putting AI into their software to help businesses work better. SAP believes India has a lot of potential for using new technology. They want to help Indian companies use AI to grow and solve problems, like looking at sales data or making sure products get to customers easily. SAP says they will keep working with India to bring more AI tools.",
-      "intermediate": "At the recent India AI Summit, Lovneesh Khurana, a key leader from global business software giant SAP, detailed the company's vision and strategy for integrating Artificial Intelligence into enterprise solutions. Khurana emphasized how SAP's AI-powered tools are designed to enhance operational efficiency, streamline complex processes, and enable smarter decision-making for businesses. He highlighted practical applications such as advanced data analytics for market trend prediction, optimization of supply chain management, and proactive problem identification. SAP views the Indian market as a crucial hub for digital transformation and AI adoption, reiterating its commitment to supporting local businesses across various sectors with innovative AI technologies.",
-      "advanced": "Addressing the prestigious India AI Summit, SAP's executive Lovneesh Khurana articulated the firm's strategic imperatives concerning Artificial Intelligence integration within its comprehensive suite of enterprise resource planning and business intelligence solutions. Khurana delineated SAP's commitment to embedding AI capabilities across its product portfolio to foster enhanced operational efficacy, predictive analytics for market forecasting, and sophisticated supply chain optimization. He underscored the profound potential for AI to drive significant digital transformation within the Indian economic landscape, citing the nation's burgeoning appetite for technological innovation. SAP's participation reaffirmed its strategic focus on the Indian market, pledging continued investment in R&D and collaborative partnerships to empower local businesses with cutting-edge AI advancements."
-    },
-    "vocabulary": [
-      {
-        "word": "Summit",
-        "zh": "高峰會：通常指一場非常重要、有很多高層人物參加的會議，大家會一起討論重要的議題。"
-      },
-      {
-        "word": "Integrate",
-        "zh": "整合：把不同的東西或部分結合在一起，讓它們能順暢地共同運作，發揮更大的作用。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-04-01",
-    "sourceName": "SAP News Center",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalVHUHg4VzlzbzNVUVpVUzlYSVN1cUZiVjJtMVRRb0Q3ZVU0UXdqbVo1SVkwZzFxNTUzbk5XX3NVMzJqempBQnByY1o4Q2hSX2k1QlM3TFJrdUZLYk1SUkFzUWsxNDdpYXRreUNBa0xfMTdncF9oU0RaU0F2T3haME5vNGd0ZGtlVHhpLU9uZl9Kdjg2cWFpOGh4SzZ5Y3VYSDdUaHdzamg4Nm82ZjhVbjNEbVpLOVpFZkxpem5GOXk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "紐西蘭與庫克群島聯手！簽署國防安全宣言，太平洋合作再升級！",
-    "zhSummary": "紐西蘭外交部長溫斯頓·彼得斯與庫克群島總理馬克·布朗簽署了一份重要的「國防與安全宣言」，宣告兩國未來將更緊密地合作，共同維護太平洋地區的和平與安全。",
-    "zhContent": "<p>最近，一個在外交界很有名的人物，也就是紐西蘭的外交部長溫斯頓·彼得斯（Winston Peters），特別跑到太平洋上一個美麗的島國——庫克群島，和當地的總理馬克·布朗（Mark Brown）簽署了一份超級重要的文件。他們稱這份文件為「國防與安全宣言」。這份宣言簡單來說，就是紐西蘭和庫克群島兩個國家公開承諾，未來要在保護彼此的安全以及維持整個地區的和平穩定方面，更緊密地手牽手一起合作。</p><p>庫克群島坐落在廣闊又迷人的太平洋中央，是個充滿熱帶風情的美麗國家，而紐西蘭長久以來一直是他們非常重要的朋友和夥伴。這次簽署的宣言，核心目標就是要讓雙方的合作關係變得更正式、更堅固，就像蓋房子一樣，打下更穩固的基礎。這意味著，未來無論是面對氣候變遷可能帶來的各種自然災害，或是確保海上運輸路線的安全、打擊跨國犯罪，甚至應對其他可能影響區域和平與穩定的挑戰時，紐西蘭和庫克群島都能互相伸出援手，一起想辦法解決問題，共同應對難題。</p><p>事實上，紐西蘭和庫克群島的關係一直以來都非常特別。庫克群島雖然是個獨立自主的國家，但同時也跟紐西蘭有著一種稱為「自由結合」的特殊政治關係。紐西蘭方面一直都認為，維護太平洋島國的安全與穩定，是他們身為區域大國非常重要的責任與承諾。因此，這份宣言不僅僅是一紙文件，它更代表著紐西蘭對庫克群島及其人民的堅定支持，希望太平洋地區能夠一直保持和平與繁榮，遠離各種紛擾。兩國的領導人都同意，透過這樣更緊密的合作，將能讓整個太平洋區域變得更加安全、更有韌性。</p><p>這份意義深遠的「國防與安全宣言」簽署後，紐西蘭和庫克群島將會依照宣言中詳細約定的內容，逐步展開更多的交流與實質合作計畫。這也清楚表明了兩國在太平洋地區安全議題上的立場更加一致，不僅加深了彼此的信任，更為雙方未來在防務與安全領域的所有合作項目，打下了堅實且明確的基礎。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，紐西蘭和庫克群島簽署的「國防與安全宣言」主要目的是什麼？你覺得這對兩個國家有什麼好處？",
-      "生活與未來：你覺得這個宣言會對庫克群島居民的日常生活造成什麼實際影響？例如，在面對自然災害時，他們可能會感受到哪些改變？",
-      "獨立思考提案：如果台灣也想和某些國家加強類似的國防安全合作，你覺得有哪些方面是特別重要的？（例如，哪個領域的合作最迫切，或應該優先考慮哪些國家？）"
-    ],
-    "enTitle": "New Zealand and Cook Islands Strengthen Defence and Security Cooperation",
-    "enContent": {
-      "basic": "New Zealand's Foreign Minister, Winston Peters, visited the Cook Islands and signed an important paper with their Prime Minister, Mark Brown. This paper is called a \"defence and security declaration.\" It means New Zealand and the Cook Islands will work together more closely to keep their countries safe and the Pacific region peaceful. The Cook Islands is a beautiful island nation in the Pacific, and New Zealand is a big friend. They want to help each other with things like big storms and keeping the ocean safe. This agreement shows they are serious about working together for a safe Pacific.",
-      "intermediate": "New Zealand's Foreign Minister, Winston Peters, recently travelled to the Cook Islands to formalize an important agreement with Prime Minister Mark Brown. The document, known as a \"defence and security declaration,\" signifies a strengthened commitment between the two nations to collaborate more closely on matters of national security and regional stability. The Cook Islands, a self-governing island nation in free association with New Zealand, will benefit from this enhanced partnership. The declaration aims to improve cooperation in areas such as disaster response, maritime security, and addressing shared challenges in the broader Pacific region. This step highlights New Zealand's ongoing role in supporting the security and prosperity of its Pacific neighbours.",
-      "advanced": "In a significant move to deepen regional stability, New Zealand's Foreign Minister, Winston Peters, and Cook Islands Prime Minister Mark Brown have formally signed a comprehensive defence and security declaration. This pivotal agreement underscores a mutual commitment to bolster collaborative efforts across a spectrum of security challenges, ranging from climate-induced natural disasters and maritime surveillance to broader geopolitical dynamics influencing the Pacific. Given the Cook Islands' unique status as a self-governing nation in free association with New Zealand, this declaration not only formalizes existing cooperative frameworks but also establishes a robust platform for future strategic alignment. Both nations emphasize the critical importance of a secure and prosperous Pacific, with this accord serving as a tangible testament to their enduring partnership and shared regional responsibilities."
-    },
-    "vocabulary": [
-      {
-        "word": "Declaration",
-        "zh": "宣言：這是一種正式的聲明或公開承諾，通常由政府或重要人士簽署，表明他們將會做什麼或支持什麼。就像兩個好朋友約定好要一起做一件大事，然後寫下來讓大家知道一樣。"
-      },
-      {
-        "word": "Security",
-        "zh": "安全：指保護國家、人民或重要事物不受危險或威脅的狀態。在國防安全中，它包括保護國家領土、人民生命財產，以及維持社會穩定不受外部干擾。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-04-01",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEpMalNCRmltdWNyRDZoOWxoUjU2NTRKb0JsZ3VxZU51RXZ5eVNKb0JKRGlicDRJSmlNZ1JKZnVXN1Z6OGtqRFI3RElpU3Z1Z2VadlIweXV6X0xscDVVaHIxMWR4ckNyOThpWXYyanN1WTlWcW9lQ1ZJN1QzOGtKMzlMZ09WMmt6OTRZZllXRkJsWkZncnJ2MnotLS1LRFZab2VNZUNCRUl0cDJ0TFdwTFRiWG5YRExjcllEUmhpU0J2SUxDbnRBQUc2SXVnUGFNaFRSbkhWN08?oc=5",
     "isFeatured": false
   }
 ]
