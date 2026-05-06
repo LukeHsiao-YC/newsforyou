@@ -1,5 +1,285 @@
 [
   {
+    "zhTitle": "台灣驕傲設計師 白越珠閃耀國際舞台",
+    "zhSummary": "設計師白越珠因在國際比賽中獲得大獎，讓世界看見台灣的創意與文化，她感到無比驕傲，並表示「台灣就是我們的品牌」。",
+    "zhContent": "<p>最近，一位名叫白越珠的台灣設計師在國際舞台上大放異彩，讓許多人感到非常振奮。她在一個全球性的設計大賽中脫穎而出，奪得了最高榮譽。當她在發表感言時，語氣充滿自信與驕傲地說：「台灣就是我們的品牌！」這句話不僅表達了她個人的成就，也把台灣的形象推向了國際，讓她感覺自己「走路都有風」。</p><p>這次白越珠參與的是「全球青年創新設計大獎」，這個比賽每年都會吸引來自世界各地的年輕設計師報名參加，競爭非常激烈。她這次的獲獎作品是一系列以台灣傳統工藝為靈感，結合現代簡約風格的生活用品。這些作品不僅展現了精湛的技術，更融入了台灣特有的文化符號，例如原住民圖騰、客家花布紋樣等，用創新手法讓傳統元素煥發新生命，評審團對此給予了高度讚賞。</p><p>白越珠在接受採訪時提到，她從小在台灣長大，深受這片土地上豐富多元文化的影響。她認為台灣擁有獨特的地理環境、歷史背景和人文風情，這些都是她創作的寶貴養分。她希望透過自己的作品，讓更多國際友人認識台灣，了解台灣的創意潛力與文化深度。因此，當她站在國際舞台上領獎時，她特別想強調台灣在她心中的重要地位，並將這份榮譽歸功於這片土地。</p><p>這項大獎的肯定，讓白越珠的設計作品瞬間受到全球設計界的關注，許多國際媒體都爭相報導她的故事和理念。她的成功不僅為她個人帶來了極高的榮譽，也間接提升了台灣在國際設計領域的能見度。白越珠表示，她會持續努力，透過設計讓更多人看見台灣的美好，讓「台灣」這個品牌在國際上更加閃耀。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Taiwanese Designer Peh Yueh-chu Shines, Declares \"Taiwan is Our Brand\" on Global Stage",
+    "enContent": {
+      "basic": "Taiwanese designer Peh Yueh-chu recently won a big design award in an international competition. She was very proud and said, \"Taiwan is our brand!\" Her winning designs were everyday items that mixed old Taiwanese crafts with new styles. Judges really liked her work because it showed Taiwan's unique culture, like patterns from different groups. Peh Yueh-chu said Taiwan's culture helps her create. Her win made many people around the world notice Taiwan's design talent. She hopes to keep showing Taiwan's beauty through her work.",
+      "intermediate": "Designer Peh Yueh-chu from Taiwan recently achieved significant international recognition by winning a prestigious award at a global design competition. During her acceptance speech, she proudly declared, \"Taiwan is our brand!\" Her winning entries were a collection of lifestyle products that skillfully blended traditional Taiwanese craftsmanship with contemporary minimalist aesthetics. The judging panel lauded her ability to revitalize cultural motifs, such as indigenous patterns and Hakka floral prints, into innovative designs. Peh Yueh-chu explained that her upbringing and the rich, diverse culture of Taiwan profoundly influenced her creative process. Her success has not only brought personal honor but also significantly elevated Taiwan's visibility in the international design community, with numerous global media outlets covering her story and design philosophy.",
+      "advanced": "Taiwanese design luminary Peh Yueh-chu recently garnered international acclaim, securing the top prize at the fiercely competitive \"Global Youth Innovation Design Awards.\" In her poignant acceptance address, she articulated a profound sense of national pride, asserting, \"Taiwan is our brand!\" Her winning portfolio featured a compelling series of lifestyle products, meticulously crafted to integrate Taiwan's rich traditional artistry with contemporary minimalist sensibilities. The judging committee commended her exceptional ability to reimagine and infuse ancient cultural motifs, including indigenous totems and Hakka floral patterns, into novel, functional designs, thereby breathing new life into heritage. Peh Yueh-chu attributed her creative genesis to Taiwan's vibrant, multifaceted cultural tapestry and its unique environmental and historical narratives. Her triumph has substantially amplified Taiwan's profile within the global design landscape, with widespread media coverage underscoring her vision and the island's burgeoning design prowess. She expressed her unwavering commitment to leveraging design as a conduit for showcasing Taiwan's intrinsic beauty and cultural depth on the world stage."
+    },
+    "vocabulary": [
+      {
+        "word": "Prominence",
+        "zh": "突顯、重要性。當一個人在某個領域「具有 Prominence」，意思是他/她在那個領域裡很受大家注意、很有名氣，或他的存在非常重要、很顯眼。"
+      },
+      {
+        "word": "Innovation",
+        "zh": "創新、革新。想像你把舊東西變出新花樣，或是想出一個解決問題的新方法，讓事情變得更好、更有效率，這就是「Innovation」。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-06",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RbkFIank4ZEF4cFlCZGJnT21kT281U0Foc1NDWDJjbDBfdE0zVFlYRlA3NmI0LTBMMTZzbmtQUG5kRDlIZ05wZVI2dktyWFp0X1R5ZnQ2WlkzZDI3eEhaSFB0S0Y?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "漢他病毒疑慮！一艘船駛向西班牙，三人先行撤離",
+    "zhSummary": "一艘船因為有漢他病毒疑慮，在西班牙港口準備停靠。有三人先被送醫檢查，而西班牙政府在評估後，最終同意這艘船能靠岸。",
+    "zhContent": "<p>最近，有一艘從遠方航行的船，它的抵達引起了大家的高度關注。這艘船傳出可能與一種叫做「漢他病毒」有關，所以當它準備要停靠在西班牙港口時，健康部門立刻展開了行動。為了安全起見，船上有三個人被緊急送下船，先行接受檢查。雖然一開始大家有點緊張，但西班牙官方在經過嚴格的評估後，最終還是允許這艘船進入港口。</p><p>這艘船究竟發生了什麼事，讓大家這麼緊張呢？原來，在船上有人出現了疑似感染漢他病毒的症狀。漢他病毒是一種透過老鼠糞便、尿液等傳播的疾病，雖然不常見，但如果感染了，可能會引起發燒、頭痛，甚至更嚴重的呼吸道問題。因此，當這些症狀一出現，船員和港口人員都非常謹慎。這三名被撤離的人，就是因為他們身體不舒服，所以被快速送往醫院，要確認他們是否真的感染了病毒，並接受進一步的治療。</p><p>西班牙政府在做出允許船隻停靠的決定前，其實經過了非常嚴格的評估程序。他們首先要確保病毒不會擴散到岸上，所以醫療團隊和專家們仔細檢查了船上的衛生環境，特別是針對可能藏有老鼠的地方進行了清理和消毒。同時，他們也評估了船上其他人的健康狀況，確保沒有更多人出現類似的症狀。這些嚴密的檢查和預防措施，都是為了讓船隻能夠安全地停靠，並且保障港口居民的健康安全。</p><p>目前，那三位被送醫檢查的人，他們的情況仍在觀察中，正在等待最終的檢驗結果。至於這艘船，在經過西班牙官方確認可以安全停靠後，已經獲准進入港口。船上的其他乘客和船員也都接受了健康檢查，並且會持續被監測。整個事件在採取了嚴格的預防措施後，告一段落，船隻得以順利靠岸。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼西班牙政府一開始對這艘船的停靠感到猶豫？後來又為什麼會同意它停靠呢？",
+      "生活與未來：你覺得這個事件會對船上其他沒有生病的人造成什麼實際影響？（例如，他們的行程、心理狀況等）",
+      "獨立思考提案：針對這次的漢他病毒疑慮事件，你覺得除了撤離生病的人和消毒船隻之外，還可以怎麼做會更好，讓大家更安心？"
+    ],
+    "enTitle": "Three Evacuated from Hantavirus-Concerned Ship as Spain Grants Docking Permission",
+    "enContent": {
+      "basic": "A ship had problems with hantavirus. Three people got off to go to the hospital. Spain let the ship come to the port after checking it.",
+      "intermediate": "A vessel carrying passengers with potential hantavirus concerns was allowed to dock in Spain. Three individuals experiencing symptoms were evacuated for medical attention, and Spanish authorities gave permission for the ship to enter the port after health assessments.",
+      "advanced": "Spanish authorities granted permission for a vessel to dock after three individuals exhibiting symptoms consistent with hantavirus were evacuated for medical assessment. The decision followed a comprehensive health evaluation of the ship and its remaining occupants, ensuring public health safety protocols were met before allowing its entry into port."
+    },
+    "vocabulary": [
+      {
+        "word": "evacuated",
+        "zh": "撤離 (ㄊㄜˋ ㄌㄧˊ)。意思是把人從危險的地方，緊急地帶到安全的地方。就像火災發生時，消防員會把住戶從家裡帶出來一樣。"
+      },
+      {
+        "word": "dock",
+        "zh": "停靠 (ㄊㄧㄥˊ ㄎㄠˋ)。意思是船或飛機停在港口或機場。就像我們開車停在停車格一樣，船隻停在專門的碼頭邊。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-06",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUpCV0dBR3JUWkFwUXRsdHBtOG5hdE1HRTNKN0cyQU5rMWVQdUhOaVlXY3haNGFiQzNzUmRWOWJMYWZXOWZuSlZxcU5OTXRSMHJSZU5qSDktV3dYaUQ2cndScmpYbnFSQVM0cEw4aFJHcUZ2UTF5RktZZGpCcGp2bnFXZXM0a1hQYlNWSTVsaS1HNklyV25FVkxiZUhBZS1UaENfeWJvLU12WUNm?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "德國政府硬起來！強力打擊極端新納粹組織",
+    "zhSummary": "德國政府近期針對國內的新納粹團體發動大規模行動，透過突襲、搜查和逮捕等方式，瓦解這些宣揚仇恨、反民主的極端網路，展現維護社會秩序與法律的堅定立場。",
+    "zhContent": "<p>最近，德國政府展開了一系列大動作，全國各地都有警察和特別行動隊出動，目標是那些被稱為「新納粹」的極端組織。這些團體通常會宣揚種族仇恨、反民主思想，而且他們的行為常常遊走在法律邊緣，甚至直接違反法律。這次的行動規模很大，顯示德國當局對於這些極端主義勢力不再容忍，要強力清除他們在社會上的影響力。</p><p>這次打擊行動並非單一事件，而是針對多個不同的新納粹網路進行的。警方持搜查令進入嫌疑人的住處、辦公室，沒收了許多可能與非法活動相關的物品，像是武器、宣傳品，以及通訊設備等。一些涉嫌參與策劃或支持這些非法活動的成員也因此被逮捕。德國政府希望透過這些具體行動，能有效瓦解這些組織的運作，讓他們無法繼續招募新成員或進行破壞性活動。</p><p>德國之所以對新納粹如此警惕，與其歷史背景有很大的關係。二戰期間的納粹政權曾給世界帶來巨大災難，因此戰後的德國對任何帶有納粹思想的團體都採取「零容忍」政策。這些新納粹組織不僅威脅著德國的民主制度和社會安定，也常常散播仇恨言論，對少數族群造成威脅。德國的法律明文禁止宣揚納粹思想，政府也承諾會盡一切努力來保護國家的民主價值。</p><p>目前，這波打擊行動仍在持續進行中，調查人員正在仔細分析沒收的證據，追查更多涉案人員。德國官方表示，他們將會繼續保持高度警惕，確保這些極端思想不會在德國社會中滋生蔓延。這次的行動明確傳達了一個訊息：對於任何試圖破壞德國民主與法治的行為，政府都將嚴肅應對，絕不手軟，並且會依法追究到底。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Germany Intensifies Crackdown on Neo-Nazi Networks",
+    "enContent": {
+      "basic": "Germany is taking strong action against groups called 'neo-Nazis'. Police are searching homes and offices, taking things like weapons and propaganda. They have arrested people who might be part of these groups. Germany wants to stop these groups because they spread hate and don't believe in democracy. This is important because of Germany's history with the Nazis. The government is working hard to keep the country safe and fair for everyone.",
+      "intermediate": "German authorities have launched a significant nationwide crackdown on various neo-Nazi networks. This operation involves extensive police raids on suspected members' properties, where weapons, propaganda materials, and communication devices are being confiscated. Several individuals believed to be involved in organizing or supporting these illegal activities have been arrested. Germany is committed to dismantling these extremist groups due to their promotion of hate speech and anti-democratic ideologies, which pose a direct threat to the nation's democratic values and social stability, a stance deeply rooted in the country's historical experience with Nazism.",
+      "advanced": "In a decisive move, German authorities have initiated a comprehensive, nationwide operation to dismantle entrenched neo-Nazi networks. This robust crackdown involves coordinated police raids across multiple regions, targeting the residences and workplaces of suspected members. Law enforcement officials have seized illicit weaponry, propaganda materials, and electronic communication devices, leading to the apprehension of several individuals implicated in the planning or support of these extremist activities. Germany's stringent stance against neo-Nazism is fundamentally informed by its historical context, with the government committed to safeguarding its democratic institutions and social cohesion from groups that propagate hate, antisemitism, and anti-constitutional ideologies."
+    },
+    "vocabulary": [
+      {
+        "word": "crackdown",
+        "zh": "「打擊、鎮壓」。意思是指政府或執法單位很嚴厲地去對付某些非法或不好的行為。就像大人管教不乖的小孩一樣，是用比較強硬的方式來處理問題。"
+      },
+      {
+        "word": "network",
+        "zh": "「網路、人際網」。這裡指的是一群人因為某種共同的目的或關係連結在一起，就像蜘蛛網一樣，彼此互相影響或合作。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-06",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tM0x3NFJWeDZ2d2dyeGo3OXFKQVhUbGxuN2Q3NkNNbHF1V2JYZDZKTG94Q0pOTkwyOWVHbll2XzlXTkRCbmw0Z24zOE9YbnRzVzF6N3ZReFB5eHVWLXBSUG93emx1YjFVWjhhbHJfZG5KOHZ3UTgxQVZzcjR2d9IBfkFVX3lxTFBBNjNvSHU2NlJjNnFrbHctWEp1aXBzZHRHMWxndmRIZ3ZwTTJBRkZwVUlDeTRIZFpMbnE2YTFGcWN4QjFxbVBLZjFiZVlkYURXVHNLaGRTbTRZU2ZUZFplT2VIZFdWZ21wYkhuaDlnYVJYaXNrSzQyNjZhLTdOQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非排外抗議引風波：奈及利亞人計畫返鄉",
+    "zhSummary": "南非近期發生一連串針對外國人的抗議活動，尤其鎖定許多來自其他非洲國家的人民。這些抗議引發了奈及利亞政府協助其國民從南非返國的計畫，而媒體正在報導這些返國行動將如何進行。",
+    "zhContent": "<p>最近在南非，發生了一些讓人關心的事件。當地出現了針對外國人的抗議活動，這些抗議的聲浪很大，主要是不滿許多來自其他非洲國家的人在南非生活。抗議者認為，外國人搶走了他們的工作機會，也對當地的一些社會問題表達不滿。這讓南非當地外國人的處境變得緊張，特別是來自奈及利亞的僑民。</p><p>由於南非的排外抗議聲浪持續不斷，奈及利亞政府開始考慮並規劃一項大規模的行動，準備協助在南非的奈及利亞公民安全返國。根據外國媒體的報導，這項返國計畫不僅僅是口頭說說，而是將具體執行。報導中詳細說明了奈及利亞政府打算如何安排這些國民回家的過程，可能包括提供交通工具或其他的協助，確保他們能順利離開南非，回到自己的國家。</p><p>這些抗議活動背後的原因很複雜，有些南非民眾確實面臨著經濟上的困境，例如失業率高。他們認為，外國人，包括奈及利亞人，是造成這些問題的原因之一。但另一方面，許多外國人到南非是為了尋求更好的工作機會或生活條件。這個情況凸顯了南非社會內部關於資源分配和公民權益的緊張關係，也引起了國際社會的關注。</p><p>目前，奈及利亞政府的返國計畫正在逐步展開，或至少已經確定了具體的執行方向。這意味著將有一批在南非的奈及利亞公民，因為這次的排外抗議事件，將會陸續返回自己的家鄉。後續的進度將會持續被關注，以了解這項大規模的返國行動如何實際運作。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa's Anti-Foreigner Protests Lead to Nigerian Repatriation Plans",
+    "enContent": {
+      "basic": "Recent protests in South Africa against foreigners have prompted Nigeria to plan repatriating its citizens. The protests are driven by concerns over jobs and social issues, with South Africans blaming foreign nationals. Nigeria's government is now organizing how to bring its people home, a process detailed in international news.",
+      "intermediate": "South Africa is facing widespread protests against foreign nationals, especially those from other African countries. Protesters express grievances about foreigners taking jobs and contributing to social problems, creating a tense atmosphere for communities like Nigerians. In response, the Nigerian government is formulating a comprehensive plan to repatriate its citizens from South Africa. Media outlets are reporting on the logistical details of how this return process will be managed, highlighting the serious implications of the anti-foreigner sentiment.",
+      "advanced": "A surge of anti-foreigner sentiment has recently fueled protests across South Africa, predominantly targeting migrants from other African nations, including a significant Nigerian population. These demonstrations stem from deep-seated socio-economic frustrations, with local citizens often attributing high unemployment rates and societal issues to the presence of foreign workers. Consequently, the Nigerian government has initiated discussions and concrete plans for the organized repatriation of its citizens from South Africa. International news agencies are closely following and detailing the mechanisms by which this mass return will be facilitated, underscoring the severe diplomatic and humanitarian challenges posed by the xenophobic tensions."
+    },
+    "vocabulary": [
+      {
+        "word": "Protest",
+        "zh": "抗議：當一群人對某個事情非常不滿意，想要表達自己的意見，或者希望改變現狀時，他們就會一起大聲說出來或行動，這就叫做抗議。"
+      },
+      {
+        "word": "Repatriation",
+        "zh": "遣返/返國：指政府幫助或安排住在他國的公民回到自己的國家。就像如果你在國外唸書，因為某些原因需要回家，政府幫你安排回家的過程，就叫做遣返或返國。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-06",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhUzY5QUFuZ3JKQnFwQmtIUXB1NzN0SzJRcHlaZ0ZJNS1BTzExN0VpUk9fMHBLRHpubUlhR2tmdVIyWmF3UHhHLTZkMXpsdTBtN1ktUzBENl9telRQ0gFiQVVfeXFMUDh1UHpaT0NkN21lTXE1Y3ljTTV0WHhKM1NTQ3RXZmhmR2NiOTUzYlhtcy13UXZMMFdnWDNLX01SOXY3QlZSLTFhV2tGOFVBRXczZjNSdVlmRXZYdEZPb3QxZEE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "澳洲央行：升息衝刺後，準備踩煞車休息一下！",
+    "zhSummary": "澳洲的中央銀行在過去一段時間快速調高了貸款利率，現在看起來他們準備暫停一下，觀察市場的反應，讓經濟有喘息的機會。",
+    "zhContent": "<p>澳洲的中央銀行，就像一個國家經濟的「總管家」，最近做了一件讓很多人關心的決定。在過去一年裡，他們為了讓澳洲的物價不要一直漲，讓大家的東西不要越來越貴，所以一直很快地調高銀行的「貸款利率」。這就像是大家跟銀行借錢，利息變高了，會比較不想借錢花錢。現在，這個「總管家」似乎準備要讓他們的升息行動「冷卻一下」，也就是說，他們可能會暫停升息了。</p><p>為什麼要一直升息呢？主要原因就是「通貨膨脹」太嚴重了。簡單來說，就是錢變小了，以前100塊可以買到的東西，現在可能要110塊、120塊才買得到。為了讓大家手上的錢不要貶值那麼快，央行決定用提高利率的方式，讓大家存款的利息變多，但借錢的利息也變多。這樣大家就會比較想存錢，少花錢，市場上的錢就會變少一點，物價也比較容易穩定下來。</p><p>不過，當利率一直往上升，對一些人來說負擔也會變大，像是需要還房貸的家庭，每個月要付的錢就更多了。澳洲央行可能觀察到，持續快速升息雖然讓通膨有稍微緩和的跡象，但同時也讓一些經濟活動開始放慢。像是大家減少花錢，有些商店生意可能就沒那麼好。所以，央行現在可能覺得是時候放慢腳步，給經濟一個機會喘口氣，看看之前的升息效果怎麼樣了。</p><p>根據一些經濟學家的看法，澳洲央行很有可能在接下來的會議中，決定暫時不調整利率，先「停看聽」。他們會仔細觀察接下來幾個月的經濟數據，看看物價是不是真的穩定下來了，以及升息對大家的消費習慣和就業市場造成了什麼影響。簡單來說，他們就像賽跑選手，衝刺了一大段路之後，現在準備稍作休息，評估一下狀況再決定下一步怎麼跑。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Australia's Central Bank Likely to Pause Rate Hikes",
+    "enContent": {
+      "basic": "Australia's main bank, which controls money, has been raising loan prices a lot to stop things from getting too expensive. But now, they might stop for a little while. This means people borrowing money might not have to pay more interest for now.",
+      "intermediate": "The Reserve Bank of Australia (RBA) has rapidly increased interest rates to tackle rising inflation, making everyday goods more expensive. These rate hikes aim to slow down spending and stabilize prices. However, economists now suggest the RBA is preparing to \"cool its heels,\" possibly pausing further interest rate increases to assess the impact on the economy and avoid slowing it down too much.",
+      "advanced": "Following a series of aggressive interest rate hikes designed to curb persistent inflation, the Reserve Bank of Australia (RBA) is now widely anticipated to adopt a more cautious stance. Market analysts and economists suggest the central bank is poised to temporarily suspend further rate increases. This anticipated pause reflects a strategic shift to evaluate the cumulative impact of previous tightening cycles on economic growth, consumer spending, and the labor market, while monitoring inflation's trajectory."
+    },
+    "vocabulary": [
+      {
+        "word": "central bank",
+        "zh": "央行，指一個國家管理貨幣和金融的政府機構，就像國家經濟的總管家，負責讓錢和物價保持穩定。"
+      },
+      {
+        "word": "interest rates",
+        "zh": "利率，就是你向銀行借錢時需要付的「利息費用」比例，或是你存錢在銀行時銀行會給你的「報酬」。利率高，借錢就貴，存錢就賺得多。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-06",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkZCMS1PdnJxNlItSnlaM24wUm9pTjhDMnFmQVF2RlRVTmo4OG5FZGYySnZKSDBualVOY00td3ZTNUg5eDBObTBLUmZTTmc3ak5hbVdfcmpWVnRnTEd4dUppbnNkY2VGeHlzRUxROGpYV3E0NG9uYXY1YWdJNlJndHlBOWxVSUEwXzZvTkZLRHE1LWZCWlJnUFVsRk5JV1dDLXRGUFBLU2w2cGMzTWlyMDJCVTZlZHZVMkE5a0l6X1Fyb2hlSXJNYnR6ZEU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "韓國AI新法揭密：打造聰明又安全的未來世界？",
+    "zhSummary": "韓國最近通過了《AI基本法》，這是一項重要的法律，目的是在發展人工智慧科技的同時，也能確保科技的運用是安全、公平且負責任的。這項法律會影響未來韓國AI的發展方向，希望能找到創新與倫理之間的平衡點。",
+    "zhContent": "<p>最近，在科技快速發展的韓國，一個關於人工智慧（AI）的新規定引起了大家的關注。這項新規定被稱為《人工智慧基本法》，就像是替AI科技畫出了一條界線，告訴大家AI在發展和使用上應該要遵守哪些基本原則。這不是一個普通的小條款，而是一個國家級的大方向，目標是要讓AI技術可以好好發展，同時也要顧慮到大家的安全和權益，避免AI被不當使用。</p><p>韓國政府推出這項《AI基本法》，主要有幾個重要的想法。首先，它鼓勵創新，希望更多人投入AI研究，讓韓國的科技可以走在世界前面。但同時，這項法律也特別強調「負責」和「安全」。這表示AI系統在設計時，必須考慮到可能會對人們造成的影響，像是避免歧視、保護個人隱私，還有確保AI的決策過程是透明和可以解釋的。簡單來說，就是希望AI不只聰明，還要能讓人信任、用得安心。</p><p>為什麼韓國現在要推動這樣的法律呢？其實，全球各國都在思考如何管理越來越強大的AI技術。AI雖然帶來很多便利，但也可能產生一些我們意想不到的問題，比如隱私洩漏、假新聞或是機器做出的判斷不夠公正。所以，韓國希望透過這項基本法，為AI的發展奠定一個穩固的基礎，讓科技公司和研究人員在創新之餘，也能清楚知道有哪些紅線不能踩，哪些倫理原則必須遵守，讓所有人都對AI的未來更有信心。</p><p>目前這項《AI基本法》已經通過，成為韓國未來AI發展的重要依據。它就像是一本大原則的書，雖然沒有把所有細節都寫得清清楚楚，但它劃定了一個重要的方向，接下來韓國政府還會根據這些基本原則，制定更多具體的施行細則。這代表韓國的AI發展將會是在有規有矩的環境下進行，努力讓科技進步與社會福祉能夠同步前進，為每個人帶來更好的生活，而故事就到這裡。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "English Title of the Story",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Act",
+        "zh": "法案：像是一條新訂的法律，它會告訴大家在某些事情上應該怎麼做。"
+      },
+      {
+        "word": "Ethics",
+        "zh": "倫理：就是關於對錯、好壞的原則，提醒我們在做事情或發明東西時，要考慮到是不是公平、是不是會傷害到別人。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-06",
+    "sourceName": "IAPP",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TUVxMVJRTmViakNhUXJPdndFRnk4aTRQUTJrdDJuaWhoRmVPWmRZSUF1eS1hR1ZjdzhvcnUxMFM3ZW1waENOQk5Md3F0WHFJSXBnTHVNUWx0cDg3WUFj?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "新加坡為新醫療技術開綠燈：UltraGreen.ai的「Verdye」獲准協助東南亞手術發展",
+    "zhSummary": "人工智慧公司UltraGreen.ai在新加坡獲得官方核准，讓他們的「Verdye」技術能在當地應用。這項進展預計將推動東南亞地區的手術創新策略，為醫療領域帶來新機會。",
+    "zhContent": "<p>最近，有一家叫做UltraGreen.ai的科技公司傳來好消息。他們開發的一項名為「Verdye」的技術，在新加坡順利通過了官方的審查，正式獲得了使用許可。這項核准可不只是一張證明這麼簡單，它代表著UltraGreen.ai能夠在新加坡推廣這項新技術，並且進一步幫助整個東南亞地區提升他們在外科手術上的創新能力。</p><p>這項「Verdye」技術獲得新加坡的核准，表示它已經符合了當地的嚴格標準和規定。對於UltraGreen.ai來說，這就像是拿到了進入市場的重要門票。新聞指出，Verdye的目標是強化東南亞的手術創新策略。簡單來說，就是讓醫生們能有更多新的、更先進的方法來進行手術，希望能讓手術過程更安全、更精確，或是幫助病人恢復得更快更好。</p><p>這次的核准被視為UltraGreen.ai擴展其在亞洲影響力的一個關鍵步驟。新加坡在醫療科技領域一直走在前沿，它的認可無疑為Verdye的可靠性和潛力提供了強力的背書。這也顯示出，像UltraGreen.ai這樣的公司，正在努力將最新的人工智慧和生物科技結合，希望能夠為傳統的醫療方式帶來突破性的改變，特別是在手術這個高精密度的領域。</p><p>隨著新加坡的核准，UltraGreen.ai現在可以開始將Verdye技術導入當地的醫療系統中。這不僅能讓新加坡的醫院和醫生有機會率先使用這項創新技術，預計也將為其他東南亞國家樹立一個典範。未來，這項技術可能在更多地方普及，持續推動整個區域的醫療水準向前邁進。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，UltraGreen.ai的「Verdye」技術在新加坡獲得核准，這對於「東南亞手術創新策略」有什麼具體的影響？",
+      "生活與未來：你覺得這個改變會對相關的人（例如醫生、病人或醫療科技公司）造成什麼實際影響？",
+      "獨立思考提案：針對這項技術的推廣，你覺得還可以怎麼做會更好，以確保它能真正幫助到更多人？"
+    ],
+    "enTitle": "UltraGreen.ai's Verdye Gains Singapore Approval, Bolstering Southeast Asia Surgical Innovation",
+    "enContent": {
+      "basic": "UltraGreen.ai's new technology, Verdye, has been approved in Singapore. This means it can now be used there. Verdye aims to help doctors in Southeast Asia find new and better ways to do surgeries. This is a big step for UltraGreen.ai to help improve medical care in the region.",
+      "intermediate": "UltraGreen.ai has successfully secured official approval from Singapore for its innovative Verdye technology. This clearance signifies that Verdye meets Singapore's strict standards and can now be integrated into its healthcare system. The company expects this development to significantly enhance surgical innovation strategies across Southeast Asia, offering new advancements in medical procedures.",
+      "advanced": "BioPharma APAC reports that UltraGreen.ai has obtained regulatory approval in Singapore for its Verdye technology, marking a pivotal advancement in the company's regional expansion. This strategic endorsement positions Verdye to contribute substantially to the burgeoning surgical innovation landscape within Southeast Asia. The approval underscores Singapore's role as a leading hub for medical technology and sets a precedent for the adoption of cutting-edge biotechnological solutions designed to refine surgical precision and patient outcomes across the region."
+    },
+    "vocabulary": [
+      {
+        "word": "Approval",
+        "zh": "核准／許可：這代表某個產品、計畫或行為，經過官方或權威機構的審查後，同意它可以進行或使用。就像你要玩遊戲，爸媽說「好！」那他們就是給你「核准」了。"
+      },
+      {
+        "word": "Innovation",
+        "zh": "創新：指提出新的想法、方法或產品，來解決舊問題或開拓新領域。就像手機從以前只能打電話，到現在可以上網、拍照、玩遊戲，這就是科技上的「創新」。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-06",
+    "sourceName": "BioPharma APAC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT0F3ZjdTelpBUVBGdXZDMDVHVTBlcXRRMTd5dVUta2NpQ2tLLWM3cVZjU01qbDVuMTYtQzJnZjQ0LWhUaFN0dnh4LWltUGxiOUlEWENzbFljTk1vVXp5bWJBNGFtTy13R2xBYU5hNGloUURKWTBTZHU0cXZYM085eWZFWldYTE1GaHlFamFONk9Kb05wX2dBQUFTSWdVX1BiZnVtSTBjSmpDbHIxemVkbTExMXllWUFLUjBJaXRlWEZDQ2FGbURoT0pjTFJaY0RRUGNIaXZZNUtwWDktOWZVSXgxdHNRTV84?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "馬紹爾群島喜迎新飛機！美國製造，讓島嶼連結更方便",
+    "zhSummary": "馬紹爾群島最近收到了一架來自美國的新飛機，這是兩架中的第一架，將大大改善他們在各島嶼之間的交通狀況，讓生活更便利。",
+    "zhContent": "<p>馬紹爾群島最近有個大新聞！一架全新、美國製造的飛機，終於飛抵了他們的首都馬久羅。這不只是一架普通的飛機，它是當地人民期待已久的交通工具，也是美國送給馬紹爾群島的兩架飛機中的第一架。這架飛機的到來，讓整個群島都充滿了喜悅，因為它將大大改善他們島嶼之間的交通問題。</p><p>這架新飛機型號是Cessna C-208B，是一種輕型單引擎飛機，非常適合在跑道較短的島嶼機場起降。它能夠載運旅客和貨物，對於馬紹爾群島這種由多個環礁和島嶼組成的國家來說，非常實用。過去，島民在不同島嶼之間移動常常很不方便，有時候需要等很久的船班，或是小型飛機班次不穩定。這架飛機的加入，無疑是為他們的生活帶來了新的希望和效率。</p><p>這次的飛機捐贈，是美國政府與馬紹爾群島之間長期合作的一部分。美國一直以來都支持太平洋島國的發展和基礎設施建設。這兩架飛機預計將由馬紹爾群島的國家航空公司「馬紹爾群島航空」(Marshall Islands Airline) 來營運。馬紹爾群島的官員們表示，這批飛機對於提升偏遠島嶼的醫療服務、教育機會和經濟活動有著關鍵性的幫助，同時也能在緊急情況下提供快速支援。</p><p>目前，第一架Cessna C-208B飛機已經順利抵達並完成交接程序。當地團隊將會對這架新飛機進行檢查和測試，並開始安排飛行任務。第二架同款飛機也預計在不久的將來抵達馬紹爾群島，屆時將共同提升當地交通網絡的覆蓋率和可靠性。這項計畫的目標，就是希望讓馬紹爾群島的居民，不論身處哪個島嶼，都能享有更便利、更安全的聯外交通。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，馬紹爾群島收到的新飛機是「Cessna C-208B」，你覺得這種飛機有什麼特別的地方，讓它特別適合在馬紹爾群島使用？",
+      "生活與未來：你覺得這個改變會對馬紹爾群島居民的生活造成什麼實際影響？例如，對學生的上學、病患的就醫，或是商品的運送會有什麼不同？",
+      "獨立思考提案：除了增加飛機數量，你覺得還可以怎麼做，才能更好地改善像馬紹爾群島這樣由許多小島組成的國家的交通問題？"
+    ],
+    "enTitle": "Marshall Islands Welcomes First of Two New US-Made Planes",
+    "enContent": {
+      "basic": "The Marshall Islands just received a brand new plane from the U.S.! This is the first of two planes that will help people travel between the many islands. Getting around the islands used to be difficult, but this new plane, a Cessna C-208B, is perfect for their short runways. It will carry people and goods, making it easier for residents to access schools, hospitals, and markets. The second plane is expected to arrive soon, further improving travel for everyone.",
+      "intermediate": "The Republic of the Marshall Islands has celebrated the arrival of the first of two U.S.-made aircraft, a Cessna C-208B. This light, single-engine plane is specifically designed to operate efficiently on the short runways common across the archipelago. Its deployment is expected to significantly enhance inter-island connectivity, providing residents with improved access to essential services like healthcare and education, and fostering economic activity. This initiative is part of an ongoing collaborative effort between the U.S. government and the Marshall Islands to strengthen its critical transportation infrastructure. The second aircraft is anticipated to arrive in the near future, further expanding the nation's air transport capabilities.",
+      "advanced": "The Marshall Islands has formally welcomed the delivery of the first of two U.S.-manufactured Cessna C-208B aircraft, marking a significant milestone in bolstering the nation's inter-island transportation network. This robust, single-engine turboprop is ideally suited for the challenging operational environment of the vast Micronesian archipelago, capable of short take-offs and landings on rudimentary airstrips. Operated by Marshall Islands Airline, these aircraft are poised to dramatically improve access to remote communities, facilitating vital services such as medical evacuations, educational opportunities, and commercial logistics. This strategic acquisition underscores the enduring partnership between the United States and the Republic of the Marshall Islands, aimed at enhancing resilience and connectivity within the Pacific region."
+    },
+    "vocabulary": [
+      {
+        "word": "Archipelago",
+        "zh": "群島 - 很多島嶼聚集在一起的地區，就像馬紹爾群島就是由許多小島組成的國家。"
+      },
+      {
+        "word": "Aid",
+        "zh": "援助 - 幫助或支持，特別是指一個國家或組織向另一個國家提供金錢、物資或技術上的協助。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-06",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemJvaVJvc0d2Z3J4MEdrMWtaZTgyM2lFcFo0MHdaRjdNSFZ5U2hQMWtIcDR4QUsyLWllZjVaRElWd1pwVHRySUROY2pUNFA3RXR1OUFkTjVrNnpoYUR0RkxsSkRMczFlTHk2Y3BicFZHQ01SVFhSZXI2RWpCU193Y0ZGZHAtNktTN3dBNVZHNHgwdnk2S3hiUHQ4NFpLQQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "「台灣就是我們的品牌」！白越珠以獨特設計走出國際，讓世界看見台灣",
     "zhSummary": "一位台灣設計師白越珠，將台灣特有的文化元素融入生活用品設計，成功推向國際市場並獲得讚賞。她的成功讓她深感驕傲，認為這是讓世界認識台灣的最佳方式。",
     "zhContent": "<p>最近，設計界有個響亮的名字引起大家的注意，她就是來自台灣的設計師白越珠。白越珠小姐以她的獨特視角，將台灣傳統文化的美好，巧妙地融入到現代生活用品的設計之中，讓這些原本看似平凡的物件，瞬間充滿了故事與生命力。她的設計不僅在台灣國內掀起一陣旋風，更成功地跨越了地理界線，在國際舞台上大放異彩，贏得了許多海外人士的讚賞與訂單。</p><p>這次，白越珠小姐帶著她的最新系列產品，參加了歐洲一場重要的國際設計展。她的作品，像是一組以台灣傳統「花布」圖案為靈感，結合環保材質製作的居家用品，還有運用台灣特有植物染技術，打造出的限量版圍巾。這些作品因為兼具美感、實用性與文化深度，立刻吸引了眾多參觀者的目光。許多國際買家都對她的產品表現出高度的興趣，認為這些設計充滿了亞洲獨有的魅力，卻又能完美融入全球化的生活風格。</p><p>面對作品在國際上的成功，白越珠小姐在接受媒體訪問時，語氣中充滿了自豪。她表示，每當看到外國朋友對她的設計愛不釋手，並好奇地詢問這些設計背後的故事時，她就覺得自己不只是在推銷一件商品，而是在介紹台灣的文化與精神。她說：「台灣就是我們的品牌！我希望透過我的設計，讓更多人認識台灣這片土地上的創意、人文與熱情。」她認為，這份成就感讓她每次走出去都覺得「走路都有風」。</p><p>目前，白越珠小姐的設計工作室正積極擴大生產線，以應付來自全球各地不斷增加的訂單。她也計畫未來將持續推出更多結合台灣在地特色與國際趨勢的設計，期待能將更多台灣的故事帶到世界各地。她的成功不僅為個人帶來榮譽，也為台灣的設計產業注入了一股新的活力，證明了台灣的軟實力在國際市場上具有巨大的潛力。</p>",
@@ -12491,426 +12771,6 @@
     "tagClass": "tag-nature",
     "region": "大洋洲",
     "date": "2026-04-06",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSS1ERU9lT0VpWDUyazVJeFdweUNMRnpxSnJ6d1R6X0VXckRxcHpxQll0MnJfYjgxVlNYcUpUYW00ZGVMclQ2a3dkcWY4dVk5dzhQcW1RUnRuRlZKVk5YeXBQUVVNRmxGVzVsMjFzb2s4cDFSUGJQX3ZiMEt2SGRzUWtxZmVRc1FON0J6bzZaSTU2bXVjQUN3c05taFVDRkZBS1UybHVac2o5QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普將宣布美伊戰爭重大更新！終戰露出曙光？",
-    "zhSummary": "根據中央社2026年4月1日的報導，前美國總統川普預計在4月2日發表全國演說，宣布美國與伊朗戰爭的「重大更新」。外界期待這可能代表戰爭即將結束。此外，參議員盧比歐也表示戰後將重新評估與北約的關係。",
-    "zhContent": "<p>嗨！我是你們的阿信。今天我們要來聊一個全球都在關注的國際大事。根據中央社在2026年4月1日的最新消息，前美國總統川普先生將在隔天，也就是4月2日，發表一場全國演說。這場演說的重點，是要公布美國與伊朗之間戰爭的「重大更新」。全球都在期待，因為有消息指出，這場打了好一陣子的戰爭，可能終於要看見結束的希望了！</p><p>這次的「重大更新」，預計會包含許多關於美伊戰爭的最新進展和重要細節。雖然確切內容還沒公開，但「終戰在望」這句話，已經讓世界各國的民眾都屏息以待。如果戰火真能平息，對許多人來說，那會是一個多麼令人振奮的好消息。大家都在期待川普先生的演說，希望能從中聽到更多關於戰爭如何畫下句點的具體規劃。</p><p>除了川普先生的演說，美國參議員盧比歐也提到了戰後的國際情勢。他表示，一旦美伊戰爭結束，美國將會「重新評估」與北約的關係。北約，全名是北大西洋公約組織，是一個由多國組成的防衛聯盟。盧比歐參議員這番話，暗示著這場戰爭的結束，不僅影響美國和伊朗，甚至可能改變美國與其盟友之間的合作模式，這也是一個值得留意的發展。</p><p>總之，在2026年4月1日的此刻，全球的目光都集中在即將到來的4月2日。大家都在等待川普先生的全國演說，希望能聽到關於美伊戰爭的確切「重大更新」。這場備受期待的演說，可能會為漫長的戰爭帶來終結，並為國際關係開啟新的篇章。所有人都希望，和平的曙光能夠真正降臨。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump to Announce Major Updates on US-Iran War; Peace in Sight?",
-    "enContent": {
-      "basic": "Former US President Donald Trump is set to give a national address on April 2, 2026, to announce \"significant updates\" on the US-Iran war. Many hope this means the war is ending. Senator Marco Rubio also said US relations with NATO might change after the war. The world is watching for this important speech.",
-      "intermediate": "On April 1, 2026, news broke that former US President Donald Trump will deliver a crucial national address on April 2. The focus will be on \"significant updates\" regarding the US-Iran conflict. Anticipation is high as there's speculation that the long-standing war might finally be nearing its conclusion. Additionally, Senator Marco Rubio indicated that the US would \"re-evaluate\" its relationship with NATO, a defense alliance, once the war ends, signaling potential shifts in global alliances.",
-      "advanced": "As of April 1, 2026, global attention is fixed on a forthcoming national address by former US President Donald Trump, scheduled for April 2. The primary agenda is the disclosure of \"significant updates\" concerning the US-Iran war, with strong indications suggesting the imminent cessation of hostilities. Concurrently, Senator Marco Rubio has stated that the post-conflict era would necessitate a \"re-evaluation\" of the United States' engagement with NATO, the North Atlantic Treaty Organization, portending potential recalibrations in multilateral defense pacts. The world awaits Trump's speech for definitive pronouncements and clarity on the conflict's resolution and its geopolitical ramifications."
-    },
-    "vocabulary": [
-      {
-        "word": "Updates",
-        "zh": "「更新」的意思。就像手機或遊戲程式有新功能或修正錯誤時，你會下載最新的「更新」一樣，代表事情有了新的進展或消息。"
-      },
-      {
-        "word": "Re-evaluate",
-        "zh": "「重新評估」的意思。想像你原本覺得某個社團很棒，但經過一段時間，你可能會「重新評估」它是不是真的適合你，也就是再次仔細思考、衡量。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-04-05",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yU3JFYXRIZWQ3THdrc0hMZmh1dkh6UVBUckt5XzNDVE44dVhkaHVZQnM3bnQ2OV9hd3l2NlU2anpyamk0bk16eW1ISE0tSzNKODE2WkhMb0R1LVU?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "「變裝食探」的秘密武器：揭開美食評論的真實面貌",
-    "zhSummary": "美國知名美食評論家露絲·瑞克爾在NPR節目中分享她獨特的餐廳評論藝術，她會透過變裝來體驗餐廳對不同客人的真實服務，確保評論的客觀與公正。",
-    "zhContent": "<p>你曾想過怎麼評斷一家餐廳嗎？是看裝潢、菜單，還是服務態度？最近，美國國家公共廣播電台（NPR）的節目《新鮮空氣》專訪了一位超厲害的美食評論家露絲·瑞克爾（Ruth Reichl）。這次訪問主題是「餐廳評論的藝術」，瑞克爾分享了她如何用獨特方式評估餐廳表現，她的方法聽起來就像一部間諜電影，非常驚訝！</p><p>露絲·瑞克爾在美食評論界是個傳奇人物，她最出名的「絕招」就是——變裝！每次去餐廳評論時，她都會想辦法把自己打扮成不同樣子。有時候她戴假髮、穿普通衣服，裝成不太起眼的家庭主婦；有時候又穿名牌、戴首飾，變成高貴的貴婦。她這樣做很簡單，就是想看看服務人員會如何對待不同外表的客人。</p><p>瑞克爾發現，服務人員對待不同客人的態度真的差很大！當她打扮成普通客人時，有時會被安排到較差的位子，服務也可能較慢或不周到。但當她以貴婦姿態出現時，幾乎所有餐廳都會給她最好的位置、最熱情的服務，甚至經理都會親自問候。透過變裝體驗，瑞克爾才能寫出最真實的評論，因為她只想體驗一般顧客會遇到的狀況，而非因身份獲得特殊待遇。</p><p>因此，露絲·瑞克爾的評論總是特別受到大家信任，因為她不只看食物，而是用全身心去感受一家餐廳從進門到離開的每個細節。她這種追求「真實」的評論方式，深深影響了許多評論家，也引發大家重新思考「好」餐廳的定義。這次NPR的專訪，肯定了她獨特的「美食評論藝術」，也讓更多人了解到她對美食評論的貢獻。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The Secret Weapon of a \"Disguised Food Spy\": Unveiling the True Face of Restaurant Reviewing",
-    "enContent": {
-      "basic": "Ruth Reichl, a famous food critic, was interviewed by NPR. She talked about her special way of reviewing restaurants. She often wears different clothes to restaurants to see how they treat different kinds of customers. Sometimes she looks poor, and sometimes rich. She wants to make sure her reviews are fair and true to what a regular customer experiences. This helps her write honest reviews about the food and the service.",
-      "intermediate": "Acclaimed American food critic, Ruth Reichl, recently shared her unique \"art of restaurant reviewing\" during an interview with NPR's Fresh Air program. Reichl revealed her famous technique of using disguises when visiting restaurants. She would intentionally alter her appearance, sometimes as a humble housewife, other times as an affluent socialite, to observe how staff treated various patrons. This method allowed her to bypass preferential treatment and report on the genuine dining experience, ensuring her critiques were objective and reflected the reality for everyday customers.",
-      "advanced": "In a recent compelling segment on NPR's Fresh Air, celebrated American food critic Ruth Reichl elucidated her distinctive approach to the \"art of restaurant reviewing.\" Reichl famously detailed her practice of adopting various disguises before visiting establishments. This strategic alteration of her persona—ranging from an unassuming, dowdy figure to an overtly opulent patron—was deliberately employed to discern the authentic standard of service afforded to different demographics. By meticulously observing the disparities in treatment, Reichl ensured her critical assessments transcended the superficiality of a critic's special privilege, instead capturing the unvarnished reality of the typical diner's experience, thus lending unparalleled authenticity to her reviews."
-    },
-    "vocabulary": [
-      {
-        "word": "Critic",
-        "zh": "評論家：一個專門針對書籍、電影、藝術品或餐點等發表意見和評價的人。"
-      },
-      {
-        "word": "Disguise",
-        "zh": "變裝：改變自己的外表，讓人認不出來，通常是為了隱藏身份或達成特定目的。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-04-05",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelNmbS1pUms1WFlNZkRNWVR3ajRhYjNxOEtFWUV1WExldm80RkcxX2xzRy1uaG5rcTFMMHJ6cDhTTk9WN2ExTFZWTlp0YnUxTUZURno5MVVObTU0RXRqSXBxQVoyemZpMEsydlNaeGhRWjZJV0JmSmQwb29HNHA4VHh6ckppeXhLQlFHSHdIeWt6dnlkLWJTWVNoNHJhdVY5MEY5QmJRSQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太空壯舉：阿提米絲二號太空人將繞行月球背面！",
-    "zhSummary": "由美國太空總署（NASA）主導的阿提米絲二號任務，預計將把太空人送往月球背面，完成一趟重要的繞月飛行，為人類重返月球並探索更遠太空做好準備。",
-    "zhContent": "<p>最近，有個超級酷的太空任務引起了大家的關注！根據《衛報》的消息，美國太空總署（NASA）的「阿提米絲二號」（Artemis II）任務，預計將在下週一把太空人送往月球背面。這可不是開玩笑，它代表著人類太空探索又向前邁進了一大步，因為上次有太空人繞行月球，已經是五十多年前的「阿波羅計畫」了。</p><p>這次的阿提米絲二號任務非常特別，它是一次載人測試飛行，目標是讓四位太空人乘坐獵戶座太空船（Orion spacecraft）繞行月球一圈。他們將不會降落在月球表面，而是會飛到距離月球最遠的地方，其中就包括了月球背面。月球背面雖然常常被誤稱為「暗面」，但其實它只是從地球上永遠看不到的那一面，一樣有陽光照射。這次飛行主要是為了測試太空船的各項系統，確保它在載人航行時的安全性與可靠性。</p><p>「阿提米絲計畫」是NASA一項宏大的太空探索計畫，它的終極目標是讓人類重返月球，並建立長期駐紮基地，最終甚至要前往火星。而阿提米絲二號任務，就是這個龐大計畫中一個至關重要的環節。透過這次繞月飛行，科學家們將能收集寶貴的數據，了解太空人在深太空環境下身體會如何反應，以及太空船在這種極端條件下的表現。</p><p>因此，這趟預計在「下週一」展開的繞月飛行，對整個阿提米絲計畫來說意義重大。它不僅是驗證太空船技術的關鍵一步，也將為未來的阿提米絲三號任務鋪路，因為阿提米絲三號才是真正要讓太空人再次登陸月球的任務。這次的繞月飛行成功與否，將直接影響人類重返月球的時程，也讓人們對未來太空探索充滿了期待。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，阿提米絲二號任務的重點目標是什麼？它跟未來的阿提米絲三號任務有什麼不同？",
-      "生活與未來：你覺得這個太空任務的進展，會對我們日常生活中的哪些科技或知識發展產生實際影響？",
-      "獨立思考提案：針對人類重返月球的計畫，你覺得除了太空旅行本身，還有哪些值得被探索或開發的潛力？"
-    ],
-    "enTitle": "Space Feat: Artemis II Astronauts to Loop Around the Far Side of the Moon!",
-    "enContent": {
-      "basic": "NASA's Artemis II mission is big news! Astronauts are set to fly around the Moon, reaching its far side on Monday. This is a test flight, not a landing. It's to check the spacecraft and prepare for future Moon landings. It's a huge step for going back to the Moon and even to Mars.",
-      "intermediate": "The Artemis II mission, led by NASA, is a significant crewed test flight scheduled for Monday, aiming to send astronauts to orbit the far side of the Moon. This mission is crucial for validating the Orion spacecraft's systems and understanding human endurance in deep space, without a lunar landing. It serves as a vital precursor to the Artemis III mission, which intends to return humans to the lunar surface as part of a broader program for lunar and Martian exploration.",
-      "advanced": "The Guardian reports that the Artemis II mission, a cornerstone of NASA's ambitious lunar exploration program, is anticipated to propel its astronaut crew towards the far side of the Moon this coming Monday. This critical crewed test flight, which will not involve a lunar landing, is designed to rigorously evaluate the Orion spacecraft's performance and life-support systems under deep-space conditions. The data garnered from this circumlunar trajectory will be instrumental in de-risking subsequent Artemis missions, particularly Artemis III, which aims to achieve the first human lunar landing since the Apollo era, thereby laying foundational groundwork for sustained lunar presence and eventual human missions to Mars."
-    },
-    "vocabulary": [
-      {
-        "word": "Astronauts",
-        "zh": "太空人：指那些經過嚴格訓練，能進入太空執行任務的人。他們是搭乘太空船去探索宇宙的勇者！"
-      },
-      {
-        "word": "Far side",
-        "zh": "背面：在這裡指的是月球的背面。因為月球總是同一面朝向地球，所以我們從地球上永遠看不到月球的這一面，它並不是沒有陽光喔！"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-04-05",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU16RGp0Q2NMcjNHenNYaC12OTBUT2dTOC1ESENadTlGNEdTckVacE51Vko3N0J6dXRleElJMUZPUU44WjhmNHpWdmc0NTBtMXFQVlo3WmloeVZBRkstVmdORUVBeG9tM0FPN0RCa2RXcWNCS09hNHg4WjJuZk4ya1NyZFNOWnhydndRbVlvaldSTnNDTUE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "復活節大解密！TAPinto帶你認識這個充滿彩蛋和兔子的節日",
-    "zhSummary": "每年春天的復活節不只充滿繽紛彩蛋和可愛兔子，其實背後還藏著豐富的意義和許多有趣的小知識。外媒TAPinto深入報導，帶大家一起探索復活節的由來、傳統習俗，以及它是如何成為一個大人小孩都期待的歡樂假期。",
-    "zhContent": "<p>每當春天來臨，全世界有許多地方都會迎接一個色彩繽紛、充滿活力的節日，那就是復活節！這次，外國媒體TAPinto特別為大家整理了關於復活節的意義、各種傳統和一些意想不到的趣事，讓大家能夠更深入地了解這個重要的日子。復活節不僅僅是大人小孩一起找彩蛋的遊戲，它其實有著非常悠久的歷史和文化根源。</p><p>說到復活節，大家第一個想到的可能就是彩蛋和復活節兔子。TAPinto的報導提到，這些都是節日裡不可或缺的經典元素。復活節彩蛋代表著新生命和希望，人們會將煮熟的蛋塗上鮮豔的顏色，或是在裡面藏小禮物，然後玩尋找彩蛋的遊戲。而復活節兔子則是生育和春天的象徵，牠們常常在故事中幫忙藏匿彩蛋，為孩子們帶來驚喜。</p><p>除了彩蛋和兔子，復活節其實有著更深層次的意義。對於基督教徒來說，復活節是慶祝耶穌基督復活的日子，象徵著戰勝死亡和獲得永生，是他們信仰中最重要的一個節日。而對於非教徒來說，復活節也常常與春天的到來、萬物復甦連結在一起，是一個與家人朋友團聚、慶祝生命和新開始的時刻。</p><p>TAPinto的報導細緻地描繪了復活節如何將古老的春季節慶習俗與基督教的紀念意義融合在一起。無論是透過參與教堂禮拜、享用豐盛的復活節早午餐，還是與親友一起進行戶外活動，復活節都提供了一個讓大家共同感受喜悅和希望的機會。它是一個結合了神聖意義與家庭歡樂的節日，每年都為人們帶來溫馨的回憶。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，TAPinto報導了哪些關於復活節的傳統和意義？",
-      "生活與未來：你覺得為什麼像復活節這種結合了文化與宗教的節日，能夠流傳這麼久並受到歡迎？",
-      "獨立思考提案：如果台灣也想推廣一個類似復活節的春季節日，你覺得可以融入哪些在地特色元素，創造出屬於我們的獨特慶典？"
-    ],
-    "enTitle": "Unlocking Easter: TAPinto Explores Its Meaning, Traditions & Fun Facts",
-    "enContent": {
-      "basic": "Easter is a big spring holiday. TAPinto shared a report about its meaning, traditions, and fun facts. It's more than just egg hunts. Easter eggs mean new life. The Easter bunny is a sign of spring. For Christians, Easter celebrates Jesus coming back to life. For others, it's about spring and new beginnings. It's a time for family and joy.",
-      "intermediate": "Easter, a significant spring holiday, was highlighted by TAPinto, which explored its meaning, traditions, and interesting trivia. This annual celebration involves more than just children hunting for colorful eggs; it holds deep historical and cultural roots. Iconic symbols like Easter eggs represent new life and hope, often decorated or filled with treats. The Easter bunny, a symbol of fertility and spring, is believed to help hide these eggs. Beyond these secular traditions, Easter is primarily a Christian holiday commemorating the resurrection of Jesus Christ. However, for many, it also signifies the arrival of spring, new beginnings, and a time for family gatherings and shared joy.",
-      "advanced": "TAPinto's comprehensive coverage delves into Easter Sunday, a major spring holiday rich in symbolism and diverse practices. The article elucidates the multifaceted meaning of Easter, intertwining its deeply rooted Christian significance—commemorating the resurrection of Jesus Christ—with older pagan traditions celebrating spring and fertility. Key elements such as the iconic Easter eggs, symbolizing new life and rebirth, and the Easter bunny, representing abundance, are explored in detail. The report highlights how these secular traditions, like egg decorating and hunts, have merged with the sacred, transforming Easter into a widely anticipated occasion. Whether through religious observance, festive family meals, or communal gatherings, Easter serves as a time for renewal, hope, and shared joyous experiences, unifying various communities in celebration."
-    },
-    "vocabulary": [
-      {
-        "word": "Tradition",
-        "zh": "傳統：指人們世世代代傳承下來的習俗、做法或信仰，就像過年要圍爐、端午節要划龍舟一樣。"
-      },
-      {
-        "word": "Resurrection",
-        "zh": "復活：意思是從死亡中再次活過來，特別是指宗教故事中，像耶穌從墳墓裡重新活過來的那種情況。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-04-05",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN1hYM2h0b2kwOW1jZjlad3lOMEIzSTdWNmhwR0tzZktzYXBpYXhSSlZjTGZIS19TeGtTS255NnNfUGxNdHNrc1NndTdsdzlZdU5fb3JKbkRjMVU4M2ZyaFQxNGYtREJxcUFfdXJVQzJzeVlFMVN3cU9JeUZKaWRYd0dVUGFsb1hXS2xtNlE4SjhqVmxlLWVQV1lnNnlxSk1Bbk9WU183dTIzWDlPZnlXV3FqZlh1dk5qY0VSbFZGUUVSRXQ5NmUycmEwaDNkRi10Q3Nqbkt3T1ptcFBnQkZpQnVBMmdfQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "荷姆茲海峽新動向：伊朗為伊拉克船隻開綠燈，航運越來越熱鬧！",
-    "zhSummary": "伊朗最近宣布，伊拉克船隻可以自由通過全球重要的海上通道——荷姆茲海峽。這個消息受到廣泛關注，因為這個海峽的船隻通行量正持續增加。",
-    "zhContent": "<p>各位年輕的雜誌讀者們，你們可能聽說過波斯灣，那裡有一條對全世界都非常重要的海上通道，叫做「荷姆茲海峽」。最近，一個跟這條海峽有關的重要消息傳了出來：伊朗政府公開表示，他們允許伊拉克的船隻自由、安全地通過荷姆茲海峽。這條海峽就像是中東地區通往世界的「海上高速公路」，而特別值得注意的是，最近經過這裡的船隻數量確實越來越多，讓這條航線比以往更加繁忙。</p><p>荷姆茲海峽為什麼能讓各國如此關注呢？這是因為它位於波斯灣的出口處，是連結波斯灣和阿曼灣的唯一海上通道。全球將近五分之一的石油運輸都要經過這裡，才能運送到世界各地。想像一下，如果你要從某個地方送貨到另一個地方，但只有一條路可以走，那這條路的暢通與否是不是超級關鍵？所以，任何關於荷姆茲海峽通行的規定或聲明，都會直接影響到國際貿易和能源供應，自然會引起全球的目光。</p><p>這次伊朗的聲明，等於是明確地向國際社會傳達了一個訊息，說明他們對於荷姆茲海峽的通行權利有話語權，並且允許特定的船隻（這次是伊拉克船隻）合法地使用這條航線。雖然新聞沒有詳細說明伊朗為何選在這個時機點做出這項宣布，但它確實為伊拉克船隻的通行提供了官方的保障。這也可能反映出區域內一些複雜關係的微妙變化，而這些變化往往與國際情勢息息相關。</p><p>所以，目前的狀況就是，伊朗已經正式確認伊拉克船隻可以通過荷姆茲海峽，享有通行的權利。同時，這條海峽的整體交通狀況也確實呈現出「越來越繁忙」的趨勢，有更多的船隻正來往穿梭。這就是目前關於荷姆茲海峽船隻通行事件的客觀事實與最新進展，我們可以清楚地看到這條海上要道的運作現況。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，伊朗的聲明對伊拉克船隻的通行權利產生了什麼具體影響？你認為伊朗為何會選在這個時間點做出這樣的聲明？",
-      "生活與未來：你覺得這個改變會對相關的人（例如伊拉克船公司、伊朗的鄰國、全球石油市場）造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Iran Greenlights Iraqi Ships in Strait of Hormuz Amid Rising Transits",
-    "enContent": {
-      "basic": "Iran has announced that Iraqi ships are now permitted to pass through the Strait of Hormuz. This is a significant development because the Strait of Hormuz is a very important waterway for global shipping, especially for oil. Recently, more ships have been using this strait.",
-      "intermediate": "Iran's recent announcement allows Iraqi vessels unimpeded passage through the strategically vital Strait of Hormuz. This move gains particular attention as the number of ships transiting this crucial maritime choke point has been steadily increasing. The Strait of Hormuz serves as the sole sea passage connecting the Persian Gulf to the open ocean, making it a critical route for global oil shipments and international trade.",
-      "advanced": "Amid a notable increase in maritime traffic, Iran has formally declared that Iraqi vessels are permitted to traverse the Strait of Hormuz, a critical geopolitical chokepoint. This unilateral statement from Tehran, asserting its influence over a waterway fundamental to global energy transport, underscores the complex dynamics of regional sovereignty and international maritime law. The decision signals a specific allowance for Iraqi shipping, potentially reflecting evolving diplomatic relations or broader strategic considerations within the Persian Gulf."
-    },
-    "vocabulary": [
-      {
-        "word": "Strait",
-        "zh": "海峽：連接兩大片海洋或水域，但兩岸陸地距離很近的狹長水道。想像成兩座大陸之間的一條細長水路。"
-      },
-      {
-        "word": "Transit",
-        "zh": "通行：船隻、車輛或人員從一個地方經過另一個地方的過程。想像一下你搭公車從學校經過公園回家，就是一種通行。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-04-05",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGRYSVZ6T1k3MUNKUmZnOUZsVkRsQ0trR3QzRmdQWWg4TDJCYnhEVy1tSm9RSU1GdWJ2ZmJmMlB1NzVaSW5XaWtlb1RYdzZfTzRSdUM4SmZzMVg4Ri13Qy1IRkh4QVBGS2owNGNXcTk4aXpiQWhXVWduTk1rcFBHR0l5S3FRaDFNQXBQd0NJUV9odDBGaHpLY0xjVlE2Zm1kQkgzQzJ1eXdOcGE2dDNn0gG0AUFVX3lxTE9Wd0YtZXFYTnBnRlBKMjRXYU1GV0JmYm51N0FUN05sNnh3R2tOckFmemtvWElOajQyWFo1T3JsX2U0RS1aWWhrX2J6OFNLSk0tM3lYZXAtbl81ZHI1cjZZZ3FMeW84SGlKSHdyb0VHVV9MT3E4NGpDWU1FbF9LV0QzQWM0dFhOTGdWYUNBM0QxTWQ1ZzEtQ0JkNFRLVkFYZF8xTkhqb3B2a2VyYmlYeFBrMjRyUg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "神秘貨船惹風波：美國南非友誼亮紅燈？",
-    "zhSummary": "美國與南非的關係近期出現緊張，起因是去年一艘俄羅斯貨船停靠在南非軍事基地。美國指控南非可能偷偷運送武器給俄羅斯，南非則矢口否認，並展開調查，讓兩國關係陷入僵局。",
-    "zhContent": "<p>美國和南非這兩個原本關係不錯的國家，最近卻出現了一些不愉快。事情的起因跟一艘神祕的俄羅斯貨船「Lady R」有關係。去年年底，這艘船偷偷停靠在南非的一個海軍基地，而美國方面懷疑，南非可能在這艘船上裝載了武器，然後運給俄羅斯，這讓美方很不高興。</p><p>這艘「Lady R」貨船在2022年12月，悄悄地停靠在南非開普敦附近的西蒙鎮海軍基地。美國駐南非的大使公開指控，南非當時很可能違反了對烏克蘭戰爭的中立承諾，私下把武器和彈藥運上了這艘俄羅斯船，再送回俄羅斯。這個說法讓南非政府非常震驚，也立刻否認了這項指控。</p><p>南非政府表示，這艘船當時只是在運送多年前跟俄羅斯訂購的軍事物資，而且這艘船回程時根本沒有載任何武器。南非一直以來都堅持自己在俄烏戰爭中保持中立，但同時也跟俄羅斯、中國等國家保持友好關係，甚至還一起進行過軍事演習。這種「不結盟」的立場，讓美國覺得南非的行為很難預測。</p><p>為了釐清真相，南非總統宣布成立一個獨立的調查小組，專門調查這艘「Lady R」貨船到底發生了什麼事。目前，這個調查還在進行中，而美國和南非之間的關係，也因為這起事件而變得比較緊張。兩國外交官正在努力溝通，希望能找到一個解決方案，讓彼此的關係能夠恢復正常。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國對南非的主要指控是什麼？南非又是怎麼回應的？",
-      "生活與未來：你覺得如果一個國家被懷疑偷偷幫助戰爭中的某一方，會對這個國家在國際上的形象和信譽造成什麼實際影響？",
-      "獨立思考提案：針對這次事件，你認為國際社會或南非政府還可以怎麼做，才能更有效地解決信任危機，並避免類似爭議再次發生？"
-    ],
-    "enTitle": "Mystery Ship Strains US-South Africa Relations",
-    "enContent": {
-      "basic": "US-South Africa relations have become tense due to a Russian cargo ship, the 'Lady R,' docking in a South African naval base last year. The US suspects South Africa loaded weapons onto the ship for Russia, which South Africa denies. An investigation is underway, and diplomatic tensions remain.",
-      "intermediate": "The 'Lady R' incident, involving a Russian cargo vessel at South Africa's Simon's Town naval base in December 2022, has significantly strained US-South Africa relations. The US ambassador accused South Africa of supplying arms to Russia, a claim vigorously denied by Pretoria. South Africa asserts its neutrality in the Ukraine conflict but maintains strong ties with Russia and China. An independent inquiry has been launched by the South African president to investigate the allegations.",
-      "advanced": "The diplomatic friction between the United States and South Africa has escalated following allegations concerning the Russian cargo ship 'Lady R.' In December 2022, the vessel reportedly docked at South Africa's Simon's Town naval base, prompting the US ambassador to accuse South Africa of secretly supplying weaponry to Russia, thereby compromising its stated neutrality in the Ukraine conflict. South Africa has vehemently refuted these claims, asserting the ship was merely delivering long-ordered military equipment and departed without any new cargo. This incident underscores South Africa's complex non-aligned foreign policy, characterized by historical ties with Russia and recent joint military exercises. An independent inquiry has been initiated by the South African presidency to ascertain the facts, as both nations navigate a period of heightened diplomatic tension."
-    },
-    "vocabulary": [
-      {
-        "word": "soured",
-        "zh": "惡化；變糟。原本好好的關係，突然變得不好或不友善，就像好吃的食物放久了會變酸一樣。"
-      },
-      {
-        "word": "allegation",
-        "zh": "指控；說法。沒有明確證據，但被懷疑或說出來的事情，通常是比較負面的。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-04-05",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSWG9TZHJnS21NZlA0OHZIanVyaHZFUnVlc1piYVB1RjhlZnliQUpVaGNySFhMNHRuSUYyQjNMREEtZ0E1eVFBNXhOWUhZc0ZVVFJzWW15NzYzZ2lwTXpfQTZLS19Cem52NGNKUTNMM01DSnh4dVpuUFFuVmlhbDjSAX9BVV95cUxQbzNLcFFNbmlfaUdFTFl1cVRjNm0zVklaY19NSjNQMl8yMGRhejU3RkxFZ2NSSHV0dGxUSXNOVnNwNDN3bjYwT21RcXlvYXdhV3BNLVJVUXppTWpraE5Cd2dFbG5UQUtIbG9xaVAyQ1pyeS10WElZa1hybU11REF3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "匈牙利總理奧班：掌權16年後，他的政治挑戰是什麼？",
-    "zhSummary": "匈牙利總理維克多·奧班，一位已經執政16年的資深政治家，正面臨著一場艱困的政治考驗。這篇報導將帶你了解這位總理的背景，以及他目前遇到的挑戰，看他如何努力爭取繼續領導這個國家。",
-    "zhContent": "<p>你聽過匈牙利嗎？這是一個位在歐洲的國家。最近，那裡的總理維克多·奧班成了大家關注的焦點。奧班總理可不簡單，他已經領導匈牙利足足16年了！這在民主國家裡可不是一件常見的事。然而，現在他正處於一場關鍵的政治考驗中，許多人都在看他是否能夠繼續掌權，帶領匈牙利走下去。</p><p>奧班總理的政治生涯充滿變化。他一開始是以自由派年輕領袖的姿態走入政壇，但後來逐漸轉變成一位堅定的保守派領導人。他所屬的青民盟（Fidesz）在他的領導下，多次贏得大選，讓他在匈牙利政壇上擁有舉足輕重的地位。他以強調國家主權和傳統價值觀為主要政見，吸引了許多支持者，但同時也引來不少質疑的聲音。</p><p>為什麼他能掌權這麼久？奧班總理在執政期間，推動了不少他認為能讓匈牙利更好的政策。他常常強調匈牙利的獨立性，並在許多國際議題上，特別是與歐盟的關係上，表達出與眾不同的立場。這種堅定不移的態度，讓他擁有一群死忠的支持者。不過，隨著時間拉長，反對他的人也越來越多，認為他的統治方式對國家的民主體制和自由帶來挑戰。</p><p>目前，奧班總理正處於一場重要的政治角力之中。這可能意味著即將到來的選舉，或是國內外的巨大壓力，讓他必須全力以赴才能維持他的領導地位。這場「戰鬥」的結果，不僅會影響他個人的政治前途，更會對匈牙利這個國家的未來發展，產生深遠的影響。大家都在拭目以待，看這場政治大戲將如何收場。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，維克多·奧班總理為什麼會成為大家關注的焦點？",
-      "生活與未來：你覺得一個國家如果長期由同一個領導人執政，可能會帶來哪些好處或挑戰？",
-      "獨立思考提案：針對新聞中提到的「政治考驗」，你覺得一個領導人在面對挑戰時，可以如何更好地與民眾溝通或尋求支持？"
-    ],
-    "enTitle": "Viktor Orban: Hungarian PM's Fight to Stay in Power After 16 Years",
-    "enContent": {
-      "basic": "Viktor Orban is the Prime Minister of Hungary. He has been the leader for a very long time, 16 years! Now, he is in a big political challenge, trying to keep his job as PM. People are watching to see if he will continue to lead Hungary.",
-      "intermediate": "Viktor Orban, Hungary's Prime Minister, has held power for an impressive 16 years, a notable duration in democratic politics. Currently, he finds himself in a significant political contest, aiming to extend his long tenure. This situation is drawing considerable attention as the nation watches to see the outcome of his efforts to retain leadership.",
-      "advanced": "Viktor Orban, the incumbent Prime Minister of Hungary, is navigating a critical political juncture as he endeavors to sustain his leadership following an extensive 16-year term. His enduring presence in the nation's political landscape, marked by a significant shift from liberal origins to a staunchly conservative platform, now faces a pivotal test, captivating both domestic and international observers regarding the future trajectory of Hungarian governance under his potential continued leadership."
-    },
-    "vocabulary": [
-      {
-        "word": "Prime Minister",
-        "zh": "總理/首相 (這個職位是民主國家中政府最高領導人的稱呼，就像一個國家的「班長」一樣，負責帶領政府運作。)"
-      },
-      {
-        "word": "Populist",
-        "zh": "民粹主義者 (這是一種政治策略，指政治人物會特別強調「人民」的意見和利益，常常會說自己是代表大多數普通人的聲音，有時候會跟精英或現有體制對立。)"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-04-05",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JdzRMekhVXzRYX1RuNnZaNTBpMUVfSUNDWHZCYnJQcUlObFJoUE9lX1B5bU9QRENObTB1Zmx3UFNHN2NBaFl5WFhZTlh2NGQyRWRwU3c2UlJ4QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "「哇！」南非奇蹟：眼睛手術馬拉松，重現光明不是夢！",
-    "zhSummary": "南非最近舉辦了一場大規模的眼睛手術馬拉松，透過醫療團隊的努力，讓數百位長期因視力問題所苦的民眾，重見光明，再次看見世界。",
-    "zhContent": "<p>南非最近發生了一件讓人驚嘆的事件！一群熱心的醫生和醫療人員，組織了一場超大規模的「眼睛手術馬拉松」，成功幫助了許多南非民眾重見光明。這個特別的行動，讓許多因為視力問題而生活不便的人，重新找回了清晰的視界，消息傳出後，大家都直呼這真是個大好消息！</p><p>這次的「手術馬拉松」並非一般的例行手術。醫療團隊在短時間內，集中了大量的醫療資源和專業醫師，針對許多患有可治療性失明或嚴重視力障礙的病人進行手術。這些病患大多是因為白內障等常見疾病，導致視力模糊甚至失明。為了讓更多人受惠，醫療團隊在某個特定地點，加班加點地進行了大量的眼科手術，希望能盡可能地幫助到每一位需要的患者。</p><p>為什麼南非會需要這樣的「手術馬拉松」呢？其實，在非洲的一些地區，由於醫療資源相對不足，加上經濟條件的限制，許多人就算眼睛出了問題，也沒有機會或能力去看醫生、接受治療。像白內障這種透過簡單手術就能解決的視力問題，卻可能讓很多人長期活在黑暗中。這次的馬拉松，就是為了彌補這個醫療缺口，讓那些長期被忽視的病患，也能獲得應有的治療機會。</p><p>經過這場高效又充滿挑戰的眼睛手術馬拉松，許多南非民眾的視力真的恢復了。想像一下，一個已經看不清楚世界很久的人，突然又能看見親友的笑容、欣賞大自然的美景，那會是多麼感動的時刻！這項醫療計畫，不僅僅是讓病患重見光明，更讓他們能夠重新投入生活，擁有更獨立自主的人生。這次活動證明了，只要醫療團隊齊心協力，就能為許多人帶來實質的幫助和希望。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，你覺得「眼睛手術馬拉松」這個名稱，想傳達什麼樣的訊息？它和一般的手術有什麼不同？",
-      "生活與未來：你覺得這些重見光明的人，他們的生活會產生什麼樣的實際變化？對他們的家人和社區會有影響嗎？",
-      "獨立思考提案：如果類似的醫療計畫要在資源有限的地區推動，你覺得除了手術以外，還需要考慮或解決哪些問題？"
-    ],
-    "enTitle": "South Africa's Eye Surgery Marathon: A 'Wow!' Event Restoring Sight",
-    "enContent": {
-      "basic": "In South Africa, doctors held a special 'eye surgery marathon.' They did many eye operations quickly. This helped many people who couldn't see well to get their sight back. It was a big event that brought hope to many.",
-      "intermediate": "Doctors in South Africa recently organized an 'eye surgery marathon,' a large-scale event where numerous eye operations were performed over a short period. This initiative aimed to restore vision for many South Africans suffering from treatable blindness, such as cataracts, who previously lacked access to medical care. The successful program brought back sight and renewed hope to hundreds of patients.",
-      "advanced": "An extraordinary 'eye surgery marathon' recently captivated South Africa, as medical professionals undertook a massive, concentrated effort to perform a high volume of ophthalmic procedures. This critical initiative targeted a significant population suffering from preventable vision impairment, predominantly due to cataracts, in areas with limited healthcare access. The successful intervention has profoundly impacted the lives of numerous South Africans, restoring their sight and facilitating their reintegration into society."
-    },
-    "vocabulary": [
-      {
-        "word": "marathon",
-        "zh": "馬拉松：原本是指一項長跑比賽，但這裡用來形容一項活動規模很大、持續時間長，而且需要大量努力才能完成的連續性工作，就像連續做了很多手術一樣。"
-      },
-      {
-        "word": "restored",
-        "zh": "恢復、復原：意思是把失去的東西找回來，或讓某種功能重新啟動。在這裡指讓眼睛的視力重新變得清晰，可以看見東西。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-04-05",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2ZwamFIakkzdUNMbEdHang1WjlOYXNwWDYwTldmdGpZTHVELTY3OE1Za3ZfUGF2MGhNMWN2TC04SElNSGJ4cXBmZ1d6U1dxNDdCYTI3U2U2bkYyT0Qxd0NMRUFESGN0MXhBTkc2WXZaRUZvYm44cnZiNEF3RkNaVS1EY1ctTEtobnNyeHVxcFFrYzg3ZmVkazItdnZrMEYzN0I0bmdJVVdoZEpXazR5d2NR?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "伊朗給台灣的「提醒」？剖析國際政治的複雜棋局",
-    "zhSummary": "台灣報紙《台北時報》的一篇專欄文章，引用了中東國家伊朗的國際處境，作為台灣在複雜世界中，面對外交與安全挑戰時的借鏡與思考。",
-    "zhContent": "<p>台灣的《台北時報》有個專欄叫做「中台灣筆記」。最近，這個專欄特別提到了中東國家伊朗的故事，並從中觀察到一些可以給台灣參考的地方。文章沒有直接說伊朗給台灣發出了警告，而是透過分析伊朗在國際上的經歷，讓讀者去思考面對類似挑戰時的不同策略與結果。</p><p>專欄文章仔細解釋了伊朗過去數十年來，因為核子計畫和區域衝突等問題，經常捲入複雜的國際政治漩渦。伊朗的行動導致它遭受了許多國家的經濟制裁，與西方世界的關係也變得緊張。這讓伊朗在國際舞台上承受了巨大的壓力，有時甚至面臨軍事威脅，使得國家的發展和人民的生活都受到影響。</p><p>這篇專欄沒有做出任何評斷，只是客觀地呈現伊朗的這些處境，並且指出對於像台灣這樣，同樣需要面對大國關係和國際地位挑戰的地區，伊朗的例子或許能提供一個從不同角度觀察和學習的機會。專欄提醒讀者，在國際政治中，每個國家所做的選擇，都會帶來深遠的影響。</p><p>總結來說，這篇專欄文章目的在於鼓勵讀者思考，當一個國家在尋求自身發展與安全時，該如何聰明地應對來自外界的壓力和挑戰。它將伊朗的經驗當成一面鏡子，讓台灣社會能更深入地理解國際關係的複雜性，以及戰略決策可能帶來的各種後果。文章就停在這裡，把思考的空間留給讀者。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Iran's \"Warning\" for Taiwan: A Look into Complex Geopolitics",
-    "enContent": {
-      "basic": "Taiwan's Taipei Times newspaper recently discussed Iran. A column looked at Iran's international problems, showing how its past actions led to big challenges. This served as a way to help Taiwan think about its own position in the world.",
-      "intermediate": "A column in Taiwan's Taipei Times, \"Notes from Central Taiwan,\" recently explored Iran's complex international situation. It wasn't a direct warning from Iran, but rather an analytical piece observing how Iran's geopolitical choices led to various challenges, such as economic sanctions and strained relations with Western powers. The column suggested that understanding Iran's experiences could offer insights for Taiwan, which also navigates a complex global landscape.",
-      "advanced": "In a recent \"Notes from Central Taiwan\" column, the Taipei Times delved into Iran's precarious international standing, presenting its geopolitical trajectory not as a direct admonition to Taiwan, but as a compelling case study for strategic contemplation. The column meticulously recounted Iran's decades-long entanglement in international disputes—primarily its nuclear ambitions and regional conflicts—which have resulted in punitive economic sanctions and an adversarial relationship with Western nations, underscoring the profound ramifications of sovereign decisions within a volatile global arena. The analysis aimed to provoke thought among Taiwanese readers regarding the intricate dynamics of international relations and the long-term consequences of strategic choices in an increasingly interdependent world."
-    },
-    "vocabulary": [
-      {
-        "word": "Sanctions",
-        "zh": "制裁 (zhìcái) - 當國家對另一個國家因為某些行為不滿時，可能會採取一些限制措施，像是禁止貿易或旅行，希望對方改變行為，這就是「制裁」。"
-      },
-      {
-        "word": "Geopolitical",
-        "zh": "地緣政治 (dìyuán zhèngzhì) - 這是指國家的地理位置如何影響它和周圍國家的關係、軍事策略以及世界上的地位。簡單來說，就是地理環境跟政治、國際關係之間的連結。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-04-05",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kb0V3YjhZYkpBWjRTbERVaC0zbndqYVd0X2U5YWc4Wi1TZm8tdDRPVldocGF0Tll4S0RzMzVXYVFNN180RU4tUDlad3AzNG1qUmV3RnBQQ0ZGR08waUgzZkhob2ViUVItc3U0S3JMNklaNmdwU2pR?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "三星家族的天價遺產稅：一場藝術與金錢的抉擇",
-    "zhSummary": "韓國三星集團前會長李健熙過世後，他的家人必須支付韓國史上最高額的遺產稅。這篇報導將帶你了解，面對這筆天價稅金，三星家族如何透過捐贈藝術品和分期付款來處理。",
-    "zhContent": "<p>韓國三星集團的前會長李健熙在2020年過世後，他的家人面臨了一筆天文數字般的遺產稅。這筆稅金高得驚人，不僅成為當時韓國媒體的頭條，也引發了全球對財富繼承和稅務問題的廣泛關注。家人們必須在短時間內，想辦法籌措並支付這筆龐大的款項，這個挑戰前所未有。</p><p>據外媒報導，李健熙留下的遺產總值估計高達數十兆韓元，換算成美元是好幾百億。因此，他的家人需要繳納的遺產稅也創下了韓國的歷史紀錄，總金額高達約12兆韓元（相當於大約108億美元或三千億新台幣）。這筆稅款不僅是韓國歷來最高，也是全球有紀錄以來最大筆的繼承稅之一。為了解決這個巨大的財務壓力，三星家族決定採取分期付款的方式，預計在五年內繳清所有稅款。</p><p>為了支付這筆巨額稅金，同時也為了回饋社會，李健熙的家人宣布了一項特別的計畫。他們除了會利用手頭的現金和變賣部分股份來繳稅外，還將李健熙生前收藏的數萬件珍貴藝術品，捐贈給韓國的多個博物館和藝廊。這些藝術品包括許多國內外知名藝術家的作品。此外，他們還捐款給醫療機構，希望能幫助改善兒童癌症治療和傳染病研究。</p><p>三星家族最終確認了這個支付和捐贈方案。這筆龐大的稅金將透過多種方式籌措，而那些珍貴的藝術品和醫療捐款也已按照計畫進行，讓更多民眾能接觸到這些文化瑰寶，並支持重要的醫療發展。這項安排讓三星家族得以履行巨額的稅務義務，並同時以特別的方式回饋社會。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，三星家族面臨的「天價遺產稅」具體金額是多少？他們選擇了哪些方式來處理這筆稅款？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Samsung Family's Staggering Inheritance Tax: A Choice of Art and Money",
-    "enContent": {
-      "basic": "After Samsung Group chairman Lee Kun-hee passed away, his family faced a huge inheritance tax bill. It was the largest in South Korea's history. The family decided to pay the tax over five years. To help pay and give back to society, they donated thousands of artworks and money to medical research. This plan allowed them to pay the tax and share valuable art with the public.",
-      "intermediate": "Following the death of Samsung Group chairman Lee Kun-hee in 2020, his family inherited a massive fortune, leading to South Korea's largest ever inheritance tax bill, estimated at around 12 trillion Korean won (about $10.8 billion). To manage this unprecedented financial burden, the family opted for a five-year installment plan. They also announced a significant philanthropic initiative: donating thousands of valuable artworks from Lee's personal collection to national museums and galleries, alongside substantial financial contributions to medical research, particularly for pediatric cancer and infectious diseases. This strategy allowed the family to fulfill their tax obligations while also making a significant cultural and scientific contribution.",
-      "advanced": "The passing of Samsung Group chairman Lee Kun-hee in 2020 triggered an unprecedented inheritance tax liability for his family, totaling an estimated 12 trillion Korean won (approximately $10.8 billion USD). This figure represented the largest inheritance tax burden in South Korean history, prompting global attention on wealth succession and fiscal policy. To address this monumental obligation, the Lee family committed to a five-year installment payment plan. Concurrently, they unveiled a substantial philanthropic initiative, including the donation of tens of thousands of invaluable artworks from Lee's extensive personal collection to national cultural institutions, alongside significant financial contributions earmarked for advancing pediatric cancer research and infectious disease control. This comprehensive approach enabled the family to meet their tax responsibilities while simultaneously enriching public cultural access and bolstering critical medical research endeavors."
-    },
-    "vocabulary": [
-      {
-        "word": "Inheritance",
-        "zh": "繼承：一個人過世後，把他的財產、權利或責任留給下一代或指定的人，這些東西就是「遺產」，而繼承就是接收這些遺產的過程。"
-      },
-      {
-        "word": "Donation",
-        "zh": "捐贈：把金錢、物品、服務或藝術品無償地送給有需要的人、慈善機構、博物館或其他組織，幫助他們做善事或推動特定事務。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-04-05",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Fc1ZrMUZUdVVvSU5IS2tOcU5KWU5NbUZ5QS1PRXViakRVQ3ZRRXhqeVpOdGRfbXRCX1VyMk84SVYyeUNfNGwya0d3eGlkZFBJ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "嘿，聽說伊朗對台灣說了些什麼？一則國際新聞的幕後觀察",
-    "zhSummary": "最近，中東國家伊朗針對台灣發表了一份聲明。這份聲明主要重申了他們對「一個中國」原則的看法，提醒大家國際關係複雜，每個國家都有自己的外交立場。",
-    "zhContent": "<p>最近，從一份外國報導中我們注意到，中東國家伊朗針對台灣發表了一項公開聲明。這類國際聲明通常是國家之間表達立場的方式，特別是在全球局勢比較複雜的時候。想像一下，就像班級裡有不同的小團體，每個團體對某件事情都會有自己的看法和說法，而國家之間也是這樣，會透過發言來表達他們認為對的事情。</p><p>這份來自伊朗的聲明，其中一個核心重點是重申了他們對「一個中國」原則的支持。簡單來說，這表示伊朗認為世界上只有一個中國，而台灣是中國的一部分。他們透過這種方式，清楚地表達了伊朗在外交流時的官方立場。這樣的表態，其實在國際上並不少見，許多國家會根據自己的外交政策和與其他國家的關係，選擇支持或強調特定的原則。</p><p>至於伊朗為什麼在這個時候發布這樣一份聲明，報導中沒有明確指出具體原因。不過，在國際關係裡，國家經常會因應時事，或是為了鞏固與盟友的關係而發言。這可能也與伊朗長期以來在國際事務上的立場有關，他們傾向於在某些議題上與特定國家保持一致。所以，這份聲明可以看作是伊朗在國際舞台上，再次確認自己的外交方向。</p><p>面對這樣的國際發言，台灣方面通常會有所回應。例如，台灣的外交部門可能會重申台灣是一個民主自主的國家，並強調台灣人民對自己未來的決定權。他們也會表示，台灣會持續與所有友好國家發展關係，並為區域的和平穩定貢獻心力。這則新聞主要就是告訴我們，伊朗對台灣發出了一份立場聲明，而台灣也對此有所回應，目前事件的進展就是這樣。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，伊朗主要發布了什麼樣的聲明？聲明的重點是什麼？",
-      "生活與未來：你覺得為什麼像伊朗這樣距離台灣很遠的國家，也會關注台灣的國際地位？這對國際關係來說代表了什麼？",
-      "獨立思考提案：在面對其他國家針對台灣發布的國際聲明時，你認為台灣應該如何回應會比較好？"
-    ],
-    "enTitle": "Iran's Diplomatic Statement to Taiwan: A Glimpse into International Relations",
-    "enContent": {
-      "basic": "Iran, a country in the Middle East, recently said something about Taiwan. They talked about a rule called \"One China,\" which means they see Taiwan as part of China. Countries often say things like this to show what they believe in international talks. Taiwan's government usually replies by saying they are their own country. This news shows how countries talk to each other about big topics.",
-      "intermediate": "Recently, the Middle Eastern nation of Iran issued a public statement concerning Taiwan. This diplomatic move primarily reiterated Iran's adherence to the \"One China\" principle, signifying its stance that Taiwan is part of China. Such pronouncements are common in global politics, as nations use them to articulate their foreign policy positions and align with allies. While the exact trigger for Iran's timing wasn't specified, these statements often occur amidst evolving geopolitical dynamics or to reaffirm long-held diplomatic stances. Taiwan's Ministry of Foreign Affairs typically responds by emphasizing its democratic sovereignty and commitment to engaging with the international community.",
-      "advanced": "An analysis stemming from a foreign media report highlights a recent diplomatic statement from Iran regarding Taiwan. The core of this pronouncement centered on Iran's reaffirmation of its commitment to the \"One China\" principle, thereby aligning its foreign policy with Beijing's position on Taiwan's status. This strategic articulation, while not explicitly tied to an immediate catalyst in the original report, often serves to underscore a nation's geopolitical alignments or to respond to broader shifts in the international landscape. In response to such declarations, Taiwan's diplomatic corps typically issues a resolute counter-statement, emphasizing its self-governing democratic status and its ongoing efforts to foster international partnerships independently. This episode exemplifies the intricate interplay of national sovereignty, diplomatic principles, and regional stability within the broader context of global relations."
-    },
-    "vocabulary": [
-      {
-        "word": "Sovereignty",
-        "zh": "主權：一個國家管理自己領土和人民的最高權力，不受其他國家干涉。"
-      },
-      {
-        "word": "Diplomacy",
-        "zh": "外交：國家之間處理國際關係的方式，例如透過談判、協商來解決問題或建立友好關係。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-04-05",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kb0V3YjhZYkpBWjRTbERVaC0zbndqYVd0X2U5YWc4Wi1TZm8tdDRPVldocGF0Tll4S0RzMzVXYVFNN180RU4tUDlad3AzNG1qUmV3RnBQQ0ZGR08waUgzZkhob2ViUVItc3U0S3JMNklaNmdwU2pR?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "熱帶氣旋麥拉升級二級：風暴威力再加劇",
-    "zhSummary": "熱帶氣旋麥拉近期強度提升，已被歸類為二級熱帶氣旋。這表示它的風速和潛在破壞力都大幅增加，相關地區需提高警覺。",
-    "zhContent": "<p>根據紐西蘭廣播電台（RNZ）的最新報導，一個名為「麥拉」（TC Maila）的熱帶氣旋在近期被評估強度升級，已經達到二級熱帶氣旋的等級。這項升級代表著麥拉的威力顯著增強，預計將會帶來更為猛烈的風勢與豐沛的降雨，對其可能影響的區域構成了更為嚴峻的挑戰。氣象預報單位正持續對麥拉的動向進行嚴密監測，並向公眾發布相關的氣象警報，以確保人們能及時獲得資訊。</p><p>當一個熱帶氣旋達到「二級」的強度時，這意味著它的近中心最大持續風速通常會介於每小時 118 到 165 公里之間。在這樣強勁的風速下，不僅海洋會掀起洶湧巨浪，陸地上也可能出現廣泛的破壞。例如，大樹可能會被連根拔起或樹幹折斷，一些結構較不堅固的建築物屋頂可能被掀開或損壞。此外，伴隨而來的暴雨也容易造成低窪地區積水或洪水，進而影響電力供應和交通運輸，給居民生活帶來不便與危險。</p><p>熱帶氣旋之所以能形成並不斷增強，背後主要的原因是廣闊的熱帶海洋提供了溫暖的海水，這就好比風暴的「燃料」。當海水溫度夠高，蒸發出的水氣上升並凝結，釋放出巨大的熱量，進一步驅動風暴系統發展和旋轉。加上適當的大氣條件配合，這些能量便能使氣旋的風速持續加快。氣象科學家們會利用衛星、雷達及數值預報模式，不斷分析這些數據，希望能更準確地預測氣旋的路徑與強度，為人們爭取更多準備時間。</p><p>截至目前，熱帶氣旋麥拉仍保持著二級的強度。受到影響或可能受影響區域的氣象部門，正持續發布最新的氣旋位置、移動路徑以及潛在的影響評估報告。當地政府與相關單位也提醒所有居民，務必密切關注官方發布的最新氣象資訊，提前做好防範措施。在風暴威脅尚未完全解除前，保持高度警惕並確保個人及財產安全是當務之急。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Tropical Cyclone Maila Upgraded to Category 2, Increasing Threat",
-    "enContent": {
-      "basic": "Tropical Cyclone Maila has become stronger and is now a Category 2 storm, as reported by RNZ. This means it has very strong winds and a lot of rain. People in its path need to be careful and stay safe. Weather experts are watching it closely to tell everyone what to do. A Category 2 storm can cause damage like knocking down trees and damaging lighter buildings. People should listen to official warnings and get ready.",
-      "intermediate": "According to RNZ, Tropical Cyclone Maila has intensified to a Category 2 storm. This upgrade indicates it now carries sustained winds of 118 to 165 kilometers per hour, posing a greater risk of damage. Coastal areas and islands in its projected path are advised to prepare for heavy rainfall, strong winds, and rough seas. Meteorological services are continuously tracking its movement, providing updates on its path and potential impacts. Residents are urged to follow safety guidelines.",
-      "advanced": "Radio New Zealand has reported that Tropical Cyclone Maila has undergone a significant intensification, now designated as a Category 2 system. This classification signifies sustained wind speeds between 118 and 165 kilometers per hour, dramatically increasing the potential for structural damage, extensive power outages, and widespread coastal flooding. Authorities in potentially affected regions are issuing comprehensive advisories, urging residents to implement pre-emptive safety measures and remain vigilant as the cyclone's trajectory and impact continue to be monitored by meteorological agencies. The strengthening is attributed to warm ocean waters, which fuel such storm systems."
-    },
-    "vocabulary": [
-      {
-        "word": "Cyclone",
-        "zh": "氣旋 (qì xuán)：一種強烈的圓形風暴系統，常伴隨強風、大雨。熱帶氣旋就是發生在熱帶海域的氣旋，我們常說的颱風和颶風都屬於這一類。"
-      },
-      {
-        "word": "Upgrade",
-        "zh": "升級 (shēng jí)：指某事物從原來的級別提升到更高的級別，通常意味著力量、性能或重要性變更強或更好。在氣象上，就是指風暴的強度變得更強。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-04-05",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSS1ERU9lT0VpWDUyazVJeFdweUNMRnpxSnJ6d1R6X0VXckRxcHpxQll0MnJfYjgxVlNYcUpUYW00ZGVMclQ2a3dkcWY4dVk5dzhQcW1RUnRuRlZKVk5YeXBQUVVNRmxGVzVsMjFzb2s4cDFSUGJQX3ZiMEt2SGRzUWtxZmVRc1FON0J6bzZaSTU2bXVjQUN3c05taFVDRkZBS1UybHVac2o5QQ?oc=5",
     "isFeatured": false
