@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "台股驚險一日：美股拖累下，指數一度急挫逾千點！",
+    "zhSummary": "台灣股市在某一天經歷了戲劇性的變化，開盤後因為受到美國股市的影響，指數曾經大跌超過一千點，不過隨著時間推移，跌幅逐漸收斂，最終以下跌280點作收。",
+    "zhContent": "<p>今天，台灣的股票市場度過了驚險的一天。一大早開盤沒多久，股市指數就開始快速下挫，跌幅驚人，一度下跌超過了一千點。這個數字讓不少關心市場的人都感到意外，因為指數跌幅達一千點在平時算是非常大的變動。</p><p>所謂的「股票市場」，可以想像成是一個大型的平台，許多公司的股票在這裡被買賣。當指數大跌時，意味著整體市場上很多公司的股票價值都在短時間內明顯降低。對投資人來說，這可能代表他們持有的股票價值減少了，情緒也會跟著緊張起來。</p><p>那麼，為什麼台灣股市會出現這樣大幅度的下跌呢？根據新聞報導，這次台股的劇烈波動，主要的原因是受到了「美股」的拖累。美股指的是美國的股票市場，由於美國是全球重要的經濟體，當他們的股市表現不好時，往往會像骨牌效應一樣，對全球其他地區的股市產生影響，台灣股市也不例外。</p><p>不過，市場也展現了韌性。雖然開盤時跌勢猛烈，但隨著一天的交易時間過去，台股的跌幅逐漸縮小，也就是大家常說的「收斂」。到了當天收盤時，雖然還是下跌，但最終的跌點控制在280點，沒有一開始跌掉那麼多。這代表市場在經歷大幅震盪後，找到了部分的平衡，跌幅比最差的時候好了不少。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，你覺得「股票市場」扮演了什麼樣的角色？「美股拖累台股」又代表了什麼意思？",
+      "生活與未來：你認為像這樣的股市波動，可能會對我們日常生活中的哪些面向產生間接或直接的影響？",
+      "獨立思考提案：如果有一天你長大後對投資有興趣，你會如何判斷一則關於股市的新聞，並做出自己的決定？"
+    ],
+    "enTitle": "Taiwanese Stock Market's Wild Day: Plunges Over 1,000 Points, Dragged by US Market",
+    "enContent": {
+      "basic": "Today, Taiwan's stock market had a very exciting day. In the morning, it fell a lot, dropping more than 1,000 points! This big drop was mostly because the US stock market wasn't doing well. But by the end of the day, the market got a little better and only ended down 280 points. This shows that when big countries' markets go down, other countries can feel it too.",
+      "intermediate": "Taiwan's stock market experienced a significant downturn today, initially plummeting over 1,000 points. This substantial drop was primarily attributed to the negative performance of the US stock market. The stock market is where company shares are traded, and a large drop means the value of many companies decreased. However, the market showed resilience, as the losses were pared back throughout the day, closing 280 points lower than its opening, indicating a partial recovery from the initial sharp decline.",
+      "advanced": "The Taiwanese stock market underwent a dramatic session, with its index nosediving by over 1,000 points shortly after opening. This considerable decline was largely due to the spillover effect from the US stock market's adverse performance. Stock markets globally are often interconnected, and downturns in major economies like the U.S. can significantly impact smaller markets. Despite the initial sharp fall, the market managed to pare its losses, ultimately closing down by 280 points, reflecting a degree of intra-day stabilization after the severe volatility."
+    },
+    "vocabulary": [
+      {
+        "word": "Stock Market",
+        "zh": "股票市場：這是一個大家可以買賣公司股票的地方。想像它像一個大型拍賣會，公司的價值高低會影響股票的價格。當大家對經濟有信心，股票價格通常會上漲；反之，如果對未來感到不確定，股票價格就可能下跌。"
+      },
+      {
+        "word": "Impact",
+        "zh": "影響：指某件事情對另一件事情造成的作用或結果。在新聞中，美股的下跌『影響』了台股，讓台股也跟著跌了。就像打保齡球時，第一顆球倒了，『影響』到旁邊的球也跟著倒下一樣。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-05-18",
+    "sourceName": "公視新聞網PNN",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xdlhubmx2bjUxaTBYOG5aeDVJSXNJajdIdjRWMFpQNnV2ZTlkLUEzMmdUM2J3QnZMekpnT3dfMmg0NkRiWkZBclVENWM0aW8?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "蒙大拿部落神計畫：古老智慧結合現代科學，攜手對抗氣候變遷！",
+    "zhSummary": "美國蒙大拿州的原住民部落，正透過結合祖傳的傳統知識與現代西方科學，打造一份獨特的氣候行動方案，希望能有效應對氣候變遷對家園造成的影響。",
+    "zhContent": "<p>美國蒙大拿州的美國原住民部落最近有個很酷的計畫！他們為了對抗日益嚴重的氣候變遷，決定把祖先傳下來的古老智慧，加上現代科學的方法，一起打造一份獨特的氣候行動方案。這不僅是一份文件，更是他們對未來環境的承諾，希望能讓他們的土地和文化能夠延續下去。</p><p>這個特別的計畫是由蒙大拿州的好幾個原住民部落聯手推動的。他們長期以來都生活在這片土地上，對環境變化特別敏感，也觀察到氣候變遷對他們的土地、動物和傳統生活方式造成了很大的影響。因此，他們開始邀請部落裡的長老、獵人、採集者這些擁有豐富傳統知識的人，跟外部的科學家們坐下來一起討論，目標是找出最適合他們土地的氣候應對策略。</p><p>在原住民文化中，傳統知識扮演著非常重要的角色，比如他們知道什麼時候是最佳的採集季節、動物的遷徙路徑，還有哪些植物可以應對不同的天氣變化。這些資訊對環境的深入理解非常有幫助。同時，西方科學則提供了精準的數據分析、氣候模型預測等工具。部落的領導人認為，兩者結合能讓他們的氣候計畫更全面、更符合在地需求，而不只是單純套用外來的解決方案。</p><p>目前，這些部落已經成功整合了這些多元的知識，逐步制定出詳細的氣候變遷應對策略，包含如何保護水源、森林和野生動物，以及如何適應日益變化的天氣模式。這份計畫代表了他們對環境保護的積極行動，也為其他地區面對氣候挑戰提供了新的思考方向。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，蒙大拿部落為什麼要將「傳統知識」與「西方科學」結合在一起？他們各自扮演什麼角色？",
+      "生活與未來：你覺得這個將兩種知識結合的改變，會對部落人民的生活和未來造成什麼實際影響？",
+      "獨立思考提案：針對這個結合傳統與科學的氣候計畫，你覺得還可以怎麼做會更好，或是還有哪些面向是他們可以考慮加入的？"
+    ],
+    "enTitle": "Montana Tribes Blend Ancient Wisdom and Modern Science for Climate Plan",
+    "enContent": {
+      "basic": "Montana's Native American tribes are creating a climate plan. They are using both their old traditions and new science to protect their land from climate change. Elders, hunters, and scientists are working together to find the best ways to help their environment. This plan helps keep their culture and land safe for the future.",
+      "intermediate": "Native American tribes in Montana are developing a comprehensive climate action plan. They are uniquely combining generations of traditional ecological knowledge with contemporary Western scientific methods. This collaboration involves tribal elders, experienced hunters, and gatherers sharing their insights with scientists. Their goal is to create tailored strategies to mitigate the effects of climate change on their ancestral lands and traditional way of life.",
+      "advanced": "In a pioneering effort, indigenous tribes across Montana are integrating ancestral ecological wisdom with modern scientific methodologies to formulate a robust climate resilience plan. This synergistic approach aims to address the profound impacts of climate change on their territories, water resources, and biodiversity. By fostering collaboration between knowledge holders of traditional environmental practices and experts in contemporary climate science, the tribes are developing highly localized and effective adaptation and mitigation strategies, setting a precedent for culturally informed climate governance."
+    },
+    "vocabulary": [
+      {
+        "word": "Tribe",
+        "zh": "部落：指一群有共同文化、語言和祖先的人們所組成的社群，通常住在特定的區域。"
+      },
+      {
+        "word": "Climate Plan",
+        "zh": "氣候計畫：為了應對全球氣候變遷帶來的影響，國家或團體提出的一系列行動和策略，像是減少溫室氣體排放或保護自然環境。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-05-18",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0VGZU9oRmNuVWJpX3FHSFc1RDhxd2N1R1lfX0N3X18zUGlmUUN5eE0zVEdHWENiX2ticXRwZlhLTENheDBLVjVTQzk3b3d5UFNXdVBwNkk4T0o2N004UVVxSVh4X0xLUzlkY0dZNXFPeFpnQ1F5U1Q3NExFajE2b0dDZ2dRZnB0ZWRGV2tDaEV1ZFpTaWdmZmdXdDRyYndTMW1z?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "時尚大秀變身藝術長廊？Met Gala把名畫穿上身，超吸睛！",
+    "zhSummary": "一年一度的Met Gala（大都會藝術博物館慈善晚宴）是時尚界的大事。今年的新聞報導指出，許多名人身上的禮服竟然直接取材自經典藝術品，把美術館搬到了紅毯上，讓時尚和藝術來了一場超華麗的結合！",
+    "zhContent": "<p>嘿，各位時尚迷和藝術咖！大家可能都聽過每年在紐約舉辦的Met Gala，也就是大都會藝術博物館慈善晚宴吧？這可不是一般的派對，它被譽為「時尚界的奧斯卡」，全球頂尖的設計師、明星和名人都會盛裝出席，而且每一年的主題都充滿創意，讓大家爭奇鬥豔。最近外國媒體就特別報導了一個超有趣的現象，那就是有好幾位明星的「戰袍」靈感，竟然是直接來自於世界知名的藝術畫作！</p><p>這次的報導特別點出了八個最讓人驚豔的Met Gala造型，它們的設計細節真的就像是把畫布穿在身上一樣。有些禮服的顏色搭配、布料上的圖案，甚至是整體的剪裁輪廓，都精準地複製了某幅經典畫作的風格或元素。想像一下，當你看到一件禮服的袖子設計，突然覺得它跟文藝復興時期某位貴族的肖像畫一模一樣，或是裙擺的顏色漸層完美重現了印象派大師的筆觸，那種感覺是不是超酷的？設計師們就是這樣，把美術館的藏品變成了紅毯上的移動藝術品。</p><p>這種把藝術融入時尚的玩法，其實背後有個很重要的原因。Met Gala每年都會配合大都會藝術博物館的春季特展來設定一個主題，所以設計師和明星們常常會從藝術史、文化遺產中尋找靈感。他們不僅僅是穿上漂亮的衣服，更是在用時尚的角度來「詮釋」藝術，展現對藝術的理解和敬意。這也讓大家發現，原來時尚不只是追求流行，它也可以像藝術一樣，有深度、有故事、充滿創意。</p><p>總之，今年的Met Gala紅毯上，這些「藝術品禮服」真的成了鎂光燈的焦點，成功地證明了時尚和藝術是能夠完美結合的。它們不只讓大家看到驚人的設計，也提醒了我們藝術的影響力是多麼廣泛，甚至能直接走上國際級的時尚舞台，成為大家討論的熱門話題。下次當你看到一幅畫或一件雕塑時，搞不好就能在未來的時尚潮流中找到它的影子喔！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，Met Gala的紅毯造型是如何從藝術品中獲得靈感的？你覺得這種結合有什麼特別之處？",
+      "生活與未來：你覺得這種將藝術融入時尚的趨勢，會對我們日常生活中的服裝或設計帶來什麼影響？",
+      "獨立思考提案：針對Met Gala這種用主題來連結時尚與藝術的活動，你覺得還可以怎麼做，才能讓更多年輕人對藝術和時尚的結合產生興趣？"
+    ],
+    "enTitle": "Met Gala's Stunning Looks: Artworks Worn on the Red Carpet",
+    "enContent": {
+      "basic": "The Met Gala, a major fashion event, recently featured many stunning celebrity outfits inspired directly by famous artworks. This news highlights how designers and celebrities are bringing the museum to the red carpet. For example, some dresses had colors, patterns, or shapes that mirrored classic paintings. This trend shows how fashion and art can blend beautifully. The Met Gala's yearly theme often connects to art or history, encouraging these creative interpretations. It proves that fashion can be deep and artistic, not just about trends. These 'art piece dresses' were a big hit, showing art's wide influence even on the biggest fashion stages.",
+      "intermediate": "The annual Met Gala, often called the 'Oscars of Fashion,' saw many attendees sporting looks directly inspired by renowned artworks, turning the red carpet into a living art gallery. Reports detailed eight particularly striking outfits where design elements like color palettes, fabric patterns, or even silhouette directly referenced classical paintings or artistic movements. This creative fusion is often driven by the Met Gala's annual theme, which typically aligns with the Metropolitan Museum of Art's spring exhibition. Designers and celebrities leverage art history to interpret these themes, showcasing not just style but also a profound understanding and homage to art. This movement underscores the deep connection between fashion and art, demonstrating fashion's capacity for storytelling and cultural expression. The 'art-inspired gowns' were a major highlight, sparking widespread discussion and illustrating art's pervasive influence across creative industries.",
+      "advanced": "The Met Gala, an annual sartorial spectacle and a primary fundraising event for the Metropolitan Museum of Art's Costume Institute, recently garnered significant media attention for its attendees' profound artistic interpretations. Notably, foreign media reports highlighted eight particularly stunning ensembles explicitly drawing inspiration from iconic artworks. These designs showcased meticulous replication of elements such as chromatic schemes, textile motifs, and structural silhouettes, effectively transforming classic masterpieces into contemporary haute couture. This deliberate convergence of art and fashion is deeply rooted in the Met Gala's thematic framework, which historically correlates with the museum's spring exhibitions, thereby encouraging participants to explore and reinterpret art historical narratives. Such artistic dialogues elevate fashion beyond mere trend-following, positioning it as a potent medium for cultural commentary and artistic homage. The 'wearable art' trend on the red carpet undeniably captivated global audiences, reinforcing the boundless influence of art across diverse creative disciplines and its capacity to transcend traditional boundaries."
+    },
+    "vocabulary": [
+      {
+        "word": "Met Gala",
+        "zh": "大都會藝術博物館慈善晚宴：這是一個每年在美國紐約舉辦的超大型時尚派對，很多明星、設計師都會穿上主題服裝出席，幫博物館募款。你可以把它想成是時尚界最盛大的化妝舞會！"
+      },
+      {
+        "word": "Artworks",
+        "zh": "藝術作品：泛指所有由藝術家創作出來的東西，像是畫作、雕塑、照片、裝置藝術等等，所有能表達想法或美的創作都算喔！"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-05-18",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUZiZWU2SFNaOGFvUTRURHl4bFhwSE9CSE52QUNiRUZhbzJ5TndlUDRacGllX2Z2aFg5WW1SLWQ1TVY1SWEtb2lsTGZlcmF2QjhjZW9zMFI4XzhEQUJTX2R0aUhoaGg2dVdFYVJtekpRRjNJLTVnSnhLd1F5WXBtNDZMQ1d5MUprS1JBTUxYc25zU1RXWGNaR0dpc3VDT0plTHRjY0pZRkNvMEpYZllBVkY5TFQyY3VBWlZVYkdYdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "前Google執行長AI言論惹爭議 畢業典禮上遭學生嗆聲",
+    "zhSummary": "前Google執行長艾瑞克·施密特在亞利桑那大學畢業典禮上，因談論人工智慧（AI）相關議題而遭到台下學生發出噓聲，引發外界對AI未來發展的關注。",
+    "zhContent": "<p>最近在美國亞利桑那州立大學的一場畢業典禮上，發生了一件出乎大家意料的事。一位科技界的大人物，前Google的執行長艾瑞克·施密特（Eric Schmidt），受邀上台對畢業生發表演講。他過去曾是引領Google走向高峰的靈魂人物，這次他帶著對科技和未來的見解來到校園，卻沒想到當他談到最近超熱門的「人工智慧」（AI）時，台下的畢業生們竟然發出了噓聲，表示他們的不滿。</p><p>根據外國媒體《衛報》的報導，當時典禮氣氛本來很歡樂，學生們都準備迎接人生新階段。但當施密特先生開始分享他對AI的看法時，原本平靜的會場開始出現騷動。一些學生陸續發出噓聲，表達他們對施密特AI言論的不認同或擔憂。這讓整場莊重的畢業典禮，突然多了一點點不一樣的火花，也讓大家注意到AI這個議題在年輕人心中的重要性。</p><p>其實，人工智慧近年來發展得很快，對我們的生活和未來世界都可能帶來巨大的改變。有人覺得AI能解決很多問題，讓生活更方便；但也有很多人，尤其是準備踏入社會的年輕畢業生們，對於AI的快速發展感到擔憂。他們可能會擔心AI會搶走工作機會、影響個人隱私，或是對社會倫理造成衝擊。這種複雜又矛盾的心情，也許正是學生們發出噓聲的原因，他們希望自己的聲音被聽見。</p><p>儘管現場出現了一些噓聲，施密特先生的演講還是繼續進行了，而畢業典禮也按照原定計畫完成。這起事件雖然短暫，卻清楚地顯示出，關於人工智慧的討論已經不再只是科技圈內的事，它已經深入到年輕世代的心中，成為他們非常關心的議題。這場畢業典禮上的「噓聲」，也讓大家看見了新世代對未來科技發展的真實反應。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼前Google執行長會在畢業典禮上被噓？你覺得學生們想表達什麼？",
+      "生活與未來：你覺得人工智慧（AI）的發展，對你未來的生活或想做的工作可能會造成什麼實際影響？你對此是期待還是擔憂？",
+      "獨立思考提案：如果由你來對畢業生談論AI，你會怎麼說？你會特別提醒他們注意AI的哪些層面？"
+    ],
+    "enTitle": "Former Google CEO Booed Over AI Remarks at Arizona Commencement",
+    "enContent": {
+      "basic": "Former Google CEO Eric Schmidt was booed by students at an Arizona State University commencement ceremony after he made remarks about artificial intelligence (AI). The incident, reported by The Guardian, highlighted growing concerns among young people regarding the rapid development and potential impact of AI on society and future job markets.",
+      "intermediate": "The unexpected booing of Eric Schmidt, a prominent figure in the tech world and former CEO of Google, occurred during his commencement speech at Arizona State University. As Schmidt discussed artificial intelligence, a topic that has generated both excitement and apprehension, some students in the audience expressed their disapproval through boos. This public display of concern underscores the complex sentiments, particularly among young graduates entering the workforce, about AI's implications for employment, ethics, and privacy.",
+      "advanced": "During a recent commencement ceremony at Arizona State University, former Google CEO Eric Schmidt encountered an unexpected backlash when his remarks on artificial intelligence elicited boos from the graduating class. The incident, as reported by The Guardian, serves as a poignant illustration of the increasingly polarized public discourse surrounding AI. While Schmidt's address likely aimed to inspire, the students' vocal disapproval reflects a broader apprehension among younger generations regarding the societal, ethical, and economic ramifications of advanced AI technologies, particularly in the context of job displacement and future opportunities. This event underscores the critical need for transparent and inclusive dialogues about AI's trajectory and its integration into future societal structures."
+    },
+    "vocabulary": [
+      {
+        "word": "Commencement",
+        "zh": "畢業典禮：指大學或學校舉辦的，用來慶祝學生完成學業、順利畢業的儀式。"
+      },
+      {
+        "word": "Booed",
+        "zh": "發出噓聲：當人們對某人的言論或行為感到不滿、不贊成時，會發出大聲的「噓—」來表示抗議。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-05-18",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBuZjNSbnJqbHE1ekVIeUxNSVNtSld4UlRrazVDb3FGZGM2T1ZCM25OTEYzbnhoV2VBVVpZQkM3LVU2R2NZaEpjd19yOTMwSkg0enpPZDY0Y0s0OE9Qdkdob3FuaWRUX01jWnF2eHZfSFpwMzQ5VDJXdXBjVVZVQ0h1Q2FDbHRSMG12bkZlLW1GS3RsR1RyOUNQTW5jMHRpSFE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "週末好去處報你知：當地媒體推薦活動不間斷！",
+    "zhSummary": "當地媒體TAPinto在五月中旬，為社區居民整理了一份週末活動清單，內容包含多樣化的趣味選項，讓大家都能輕鬆找到適合自己和家人的休閒娛樂。",
+    "zhContent": "<p>「這個週末要玩什麼？」相信是許多同學在周五放學前最常問自己的問題。就在今年五月，從十五日到十七日，美國當地新聞媒體TAPinto就像一個貼心的好朋友，特別為社區居民整理了一份豐富又有趣的活動清單，告訴大家在住家附近有哪些好玩的選擇。這份名為「本週末城鎮內外好玩活動」的報導，就是為了讓大家能善用週末時光，為自己和家人創造更多開心回憶。</p><p>根據TAPinto當時的報導，這份週末活動清單可說是包羅萬象。例如，可能有機會參加戶外市集，逛逛手作攤位或是品嚐當地美食；有些社區中心則會舉辦親子工作坊，讓大小朋友一起動手做點心或小飾品。此外，公園裡也可能會有適合全家大小的健行活動，或是圖書館安排了適合青少年的閱讀分享會。這些活動大多集中在城鎮中心或周邊的公共空間，交通便利，讓居民能夠輕鬆參與。</p><p>TAPinto之所以會定期發布這類型的活動指南，主要是希望能促進當地社區的活力與互動。透過統整各種活動資訊，它讓居民能夠更方便地找到適合自己的休閒娛樂，同時也支持了當地商家、藝文團體和非營利組織所舉辦的活動。對媒體來說，這不僅是一份服務，更是作為社區一份子的表現，希望藉此鼓勵大家走出戶外，結識新朋友，並體驗豐富的在地文化生活。</p><p>總體而言，這份從五月十五日持續到十七日的週末活動報告，是TAPinto服務社區的一種方式。它提供了一個清楚的活動指引，讓居民能提前規劃自己的週末行程。像這樣提供生活資訊的報導，在許多地方性的媒體中都是常見的服務，旨在讓社區成員都能享受到便利且多元的休閒選擇。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，TAPinto媒體主要扮演了什麼角色？它為什麼要發布這樣的報導？",
+      "生活與未來：你覺得如果你的社區也有類似的活動指南，會對你或你的家人造成什麼實際影響？",
+      "獨立思考提案：針對這類型的活動指南，你覺得還可以怎麼做，才能讓更多不同興趣的青少年都能找到喜歡的活動？"
+    ],
+    "enTitle": "Weekend Fun Guide: Local Media Highlights Community Events",
+    "enContent": {
+      "basic": "Local news source TAPinto often publishes guides to fun weekend activities. For the weekend of May 15th-17th, they shared a list of things to do in and around town. This helps people find activities like outdoor markets or workshops to enjoy their free time.",
+      "intermediate": "TAPinto, a local news outlet, regularly compiles \"Fun Things to Do This Weekend\" articles. The one for May 15th-17th presented various recreational options within the community. These guides typically feature events such as craft fairs, family-friendly workshops, or outdoor activities at local parks, making it easier for residents to plan their leisure time.",
+      "advanced": "During the specified period of May 15th-17th, local media platform TAPinto disseminated a comprehensive list titled \"Fun Things to Do in and Around Town This Weekend.\" This regular feature by TAPinto aims to enhance community engagement and provide residents with accessible information on diverse recreational and cultural events, ranging from local markets and workshops to park activities and library programs, thereby supporting local organizations and enriching communal life."
+    },
+    "vocabulary": [
+      {
+        "word": "Community",
+        "zh": "社區 (ㄕㄜˋ ㄑㄩ) - 指的是一群人住在一起的區域，大家會一起使用公園、商店或參加活動，彼此有連結的地方。"
+      },
+      {
+        "word": "Leisure",
+        "zh": "休閒 (ㄒㄧㄡ ㄒㄧㄢˊ) - 指的是在工作或讀書之外，用來放鬆、玩樂或做自己喜歡的事情的時間。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-05-18",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOb2NaWC14QnAxVG1nN1I5b21pYUxITUVRbVM2NEZpNnZOekdSek5jY3FUSnc1RzNEZ3RGV0xUWE5zbG9JM0VJNDMwN2dEUkJ2d3JQanhBR1NDdDQ3blhpNnQ4X0VNM2QyODBwdk9nNTZfay1hY3FaWGktVW5kUXBsT2FHaHZhYzctM3R3djRJR0g5RU96a0kxUjJFZ3BkdGhIcW9oNmZBd2pFd254RVdfZ051czZwQTJtZHZrelZZTE5CTmRwdTlrSjhSVFNyUmhZY3I0akJ0dTNLeWdxdFJGUGFwbU5QZ1dXdnRNQ3V3WV9jMU9NY1ExSlFFMm1zcnNrRFZsdXl4VjdfY3V4TXdkcWZja3djQzM3S0E?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中美貿易大單：會談後，中國承諾採購美國農產品",
+    "zhSummary": "美國總統川普與中國國家主席習近平會談後，美國宣布中國將購買數十億美元的美國農產品，這被視為緩解兩國貿易緊張關係的重要進展。",
+    "zhContent": "<p>嘿，同學們！國際上有個大消息，關係到美國和中國。根據《半島電視台》報導，美國宣布，中國將會採購數十億美元的美國農產品！這項決定，是在美國總統川普與中國國家主席習近平會談後發布的，為兩國間緊張的貿易關係帶來了緩和的機會。</p><p>這消息與兩國間的「貿易爭端」有關。過去，美中互相加徵關稅，影響了貿易。為了解決這問題，兩位領導人進行了會談。其中一個成果是中國承諾大量購買美國農產品，像是大豆和豬肉。這對美國農民來說，是個很大的好消息。</p><p>美國官方對此結果表示樂觀，認為中國願大筆購買農產品，是解決貿易問題的重要一步。這不僅有助於減輕貿易緊張，也對美國農業經濟有幫助。農產品出口是美國經濟重要一環，這項承諾直接關係到許多農民的收入和生計。</p><p>因此，這次高層會談的直接結果，就是中國將實際大手筆購入美國的農業產品。這代表著兩國在貿易關係上的階段性進展，也可能為未來進一步解決其他貿易分歧打開新的對話。這則新聞說明了這項具體承諾，以及它如何讓美中貿易關係出現新轉變。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Says China to Buy Billions in Agricultural Goods After Trump-Xi Talks",
+    "enContent": {
+      "basic": "After talks between US President Trump and Chinese President Xi, the US announced that China will buy billions of dollars in American farm products, aiming to ease trade tensions.",
+      "intermediate": "Following high-level talks between President Trump and President Xi, the US confirmed China's commitment to purchase billions in US agricultural goods. This move is seen as a significant step towards de-escalating the ongoing trade dispute between the two nations, benefiting American farmers.",
+      "advanced": "In the aftermath of US-China trade discussions involving President Donald Trump and President Xi Jinping, the United States revealed a substantial commitment from China to acquire billions of dollars worth of American agricultural products. This development signifies a tangible effort to alleviate persistent trade tensions and foster a more stable economic relationship between the two global powers, particularly benefiting the US agricultural sector."
+    },
+    "vocabulary": [
+      {
+        "word": "agricultural",
+        "zh": "農業的 (nóngyè de)：和種植農作物、飼養動物來獲取食物或產品有關的。"
+      },
+      {
+        "word": "negotiations",
+        "zh": "談判 (tánpàn)：為了達成協議，雙方或多方坐下來討論、協商的過程。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-18",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXZyREVaVXJjaDE2VkRGc0hjVkc5ZTBUN3A3b3pDemE4X1M1Sy1rcm5xMmUzU2ZzejJndGFjR09kbTE2dFNpRTFHVk1QRzdkYXN2VklmcmJfUnJPN2RWUjFqT3RpZzhzQkM2MkM3aXowSERFclk4RDJUekk5eUdDeDR2NnhBNm1yTjM2REV1aUt3MXdYd3plbDNRTmNtWkszUnJkcnNZSGU0MzNBU3doYUFQZDB1VknSAbwBQVVfeXFMTk9IbkFfajdyLTdZOXF4X0JVbmhLN2RHcm16Z19nTWxqMjZURzA0ZTZ1Sm5tcEFha0hLRmNuN09hWTNEajFrclA0OURjYVdtZ2hXejBlZVhNWEp5d3BBS1hSMlBSclVrTWNGLS1FVWxIRmxDS0duZHp3S0x4TGdmLVd0OVJKYXRUY1FEdnFTTnV2djBjMF81aS1nQTFuNm9EQXhaZmxNcWJfUFlBMkdZSUFkT0llWDRycW8xSWU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "巴西農產品出口大轉彎？中美協議牽動全球市場！",
+    "zhSummary": "中國和美國達成一項貿易協議，可能讓中國轉而多買美國的農產品。這個變化讓巴西這個重要的農產品出口國，正在考慮該如何調整它賣東西的對象，以應對市場上的新變化。",
+    "zhContent": "<p>嗨，同學們！最近有個國際新聞，聽起來有點繞口，但其實跟我們日常吃的東西有關係喔。世界上最大的農產品生產國之一「巴西」，現在可能要重新考慮，要把他們的農產品賣給誰。為什麼呢？原來是地球另一邊的兩個超級大國，美國和中國，最近達成了一項新的協議。這個協議就像是蝴蝶效應，可能讓巴西原本賣得好好的農產品市場，不得不做出一些調整。巴西正在評估，是不是要改變他們農產品出口的流向，這可是一件影響很大的事情呢！</p><p>這個新聞事件的起因，就是美國和中國之間的一項重要貿易協定。根據這項協定，中國承諾會大幅增加從美國購買農產品的數量，像是黃豆、玉米和豬肉等等。這項協議主要是為了緩解這兩個國家之間長期的貿易緊張關係。過去，中國是巴西農產品的超級大買家，特別是黃豆。但現在，如果中國把更多的採購訂單轉向美國，那麼巴西原本賣給中國的那些農產品，就得另尋出路了。這對巴西的農民和整個國家經濟來說，都是一個不小的挑戰。</p><p>巴西本身就是一個農業強國，他們每年生產大量的黃豆、玉米和肉類，供應給全世界。所以當中美達成協議後，巴西的政府官員和農業專家們就開始緊張地研究，這對他們國家的農產品出口會造成多大的影響。他們必須仔細計算，如果中國減少了從巴西的採購，巴西的農產品要怎麼辦？是找到新的買家？還是要調整售價來競爭？巴西需要確保他們的農產品能繼續在國際市場上保持競爭力，並找到穩定的銷售渠道，好讓國內的農民能夠安心生產。</p><p>目前，巴西正在密切觀察中美貿易協議的實際執行情況，同時也積極地在尋找新的潛在市場，希望能把原本可能賣給中國的農產品，轉銷到其他國家。巴西的農產業雖然面臨挑戰，但他們也在努力適應這些變化，確保國家經濟的穩定。這個故事告訴我們，國際上的大國關係和貿易協定，其實會牽動到很多國家的經濟走向，甚至是全球商品的流動呢。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Brazil Considers Rerouting Farm Exports Due to US-China Deal",
+    "enContent": {
+      "basic": "Brazil might sell its farm products to different countries. This is because the US and China made a deal where China will buy more food from the US. Brazil usually sells a lot of food, like soybeans, to China. Now, Brazil needs to find other buyers to sell its products to.",
+      "intermediate": "Brazil, a major agricultural exporter, is exploring new markets for its farm products. This move comes after a trade agreement between the United States and China, where China pledged to increase its purchases of American agricultural goods. This shift could impact Brazil's traditional export flow to China, particularly for commodities like soybeans, prompting the South American nation to adapt its trade strategy.",
+      "advanced": "Brazil is contemplating a significant reorientation of its agricultural export pathways, a direct consequence of a comprehensive trade agreement forged between the United States and China. Under this accord, Beijing committed to substantially augmenting its procurement of American farm commodities. This development presents a strategic challenge for Brazil, historically a dominant supplier of agricultural products such as soybeans to the Chinese market, compelling its policymakers and producers to identify and cultivate alternative international markets to sustain its vital export economy."
+    },
+    "vocabulary": [
+      {
+        "word": "Export",
+        "zh": "出口 (chū kǒu) - 指把一個國家生產的商品或服務，賣到別的國家去。想像一下你把家裡自己做的餅乾，賣給隔壁鄰居，那就是你把餅乾「出口」到鄰居家了！"
+      },
+      {
+        "word": "Trade",
+        "zh": "貿易 (mào yì) - 指兩個或多個國家之間，互相買賣商品和服務的活動。就像你和同學交換玩具，只不過貿易是國家之間更大規模的「交換」活動。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-18",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0xWLURINFVxdDVuUU9Lcmk3UkViTmNQaXB6WUpNYVNKUlo0a1Z3bWNXX25FQ3pkSlJ6MGVNLXQ3d1dRSjVLNHlfUnMxQzdJVUVaTmg5VU0wTWQ2V0YxRjJiS3pGYlhOT004bmc4cHhWMVdvaTdoV21XS0FmMWtHRXpfTTA3RVVfc1R6ZmNDaHVTd3l3U2U1U1RsRVpjb1pDWUY1SFVZMA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國大兵不去了？五角大廈暫停向歐洲兩國派兵！",
+    "zhSummary": "美國國防部（五角大廈）決定暫停向波蘭和德國派遣部隊，目標是減少美軍在歐洲的總兵力，這個消息是由美聯社引述消息人士的說法透露的。",
+    "zhContent": "<p>美國軍方最近有個大動作，讓很多人都蠻好奇的。根據美聯社的消息，美國國防部，也就是我們常說的「五角大廈」，決定要暫停向歐洲的波蘭和德國派送部隊了！聽起來是不是有點特別？這可不是小事喔，因為他們這樣做的主要目標，就是要減少美國在整個歐洲的駐軍人數。這代表美國在海外的軍事安排，可能正在進行一些調整。</p><p>「暫停派兵」是怎麼回事呢？簡單來說，就是原先計畫要送去波蘭和德國的美國大兵，現在不會去了，或是暫時停下來了。這不是要把已經在那邊的軍隊全部撤回來，而是停止了新的部署計畫。透過這樣的做法，五角大廈希望能把他們在歐洲的總兵力往下修。這個消息是由熟知內情的人士告訴美聯社的，所以雖然還沒有官方的大聲宣布，但這項改變已經是確定進行中的事情了。</p><p>那麼，五角大廈為什麼要這麼做呢？新聞報導中明確指出，他們這樣做的原因，就是為了達到「減少駐軍人數」這個目的。這可能代表美國軍方在重新思考，在歐洲地區需要多少兵力才是最剛好、最有效率的。這項決定背後，透露出美國軍事策略上的一種調整方向，希望能讓軍事資源的運用更符合他們現在的需要。</p><p>所以，這個決定最直接的結果就是，原本要前往波蘭和德國的美國部隊，他們的行程會被喊停。這也意味著，未來一段時間，大家會看到在歐洲這兩個國家裡的美國駐軍數量，會比原先預期的要少。這項行動是美國整個歐洲駐軍調整計畫的一部分，目前已經開始執行。至於這些調整會怎麼影響歐洲的狀況，新聞本身並沒有多說，就是很單純地報告了這個決策和它帶來的直接變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pentagon Halts Troop Deployments to Poland and Germany to Reduce European Presence",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Pentagon",
+        "zh": "五角大廈：這是美國國防部的總部大樓，形狀是五邊形，所以叫五角大廈。通常用來代指美國國防部本身。"
+      },
+      {
+        "word": "Deployment",
+        "zh": "部署：軍隊將士兵或設備從一個地方移動到另一個地方，通常是為了執行任務或駐紮。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-18",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlhBZG5aVTY5LWxhanFNb05DMXB6TDRMSmRYclNGMEFDWThlZTNjODh3UEszVEktc0RidzFzSHdZY2xGQnNTbV9mRncySDgwY19faTRRSkF5aFJwOE11Sl9rOG9Oa3FmQzZBaThwTWlwVnZtSG9GSm56WktXUzZTQzBFdV9tY3lfQ0lfZU92bndCekJtTnMxTklyOHlidy1DQklJMFBR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非商業地產怎麼了？辦公室空蕩蕩，商店也冷清？",
+    "zhSummary": "CNBC Africa 報導指出，南非的商業地產市場正面臨挑戰，特別是辦公大樓和實體商店的空置率高，主因是經濟放緩、高利率和居家辦公趨勢。",
+    "zhContent": "<p>大家好！今天我們要來聊聊一個聽起來有點嚴肅，但其實跟我們生活息息相關的經濟話題。新聞來源 CNBC Africa 報導了南非「商業地產」的最新狀況。什麼是商業地產呢？簡單來說，它指的是那些被用來做生意的地方，像是我們週末會逛的購物中心、爸爸媽媽上班的辦公大樓，還有生產各種商品的工廠和倉庫等等。這些地方的發展好壞，其實會大大影響一個國家的經濟狀況和大家的就業機會喔。報導指出，目前南非的商業地產市場正處於一個比較艱難的時期。</p><p>根據這份報導，南非的商業地產市場在不同領域面臨著不同的挑戰。例如，辦公大樓的空置率仍然相當高。這主要是因為疫情後，很多公司發現員工可以在家工作，或是採取更彈性的混合辦公模式，導致企業對傳統辦公空間的需求減少了。另外，實體零售店面也受到了一定的衝擊，因為越來越多的人選擇線上購物，加上經濟環境不佳，民眾消費意願降低，使得不少購物中心的店面出現閒置。不過，相較之下，用於倉儲和物流的工業地產表現則相對穩定，甚至有所成長，這可能與線上購物對物流配送的需求增加有關。</p><p>造成商業地產市場當前困境的原因有很多。首先，南非的整體經濟成長速度放緩，這讓企業在擴張和投資方面都變得更加謹慎，自然也就減少了對新商業空間的需求。其次，近期不斷上漲的物價和中央銀行為了抑制通膨而提高的貸款利率，也增加了企業和開發商的營運成本，並且降低了投資人進入市場的意願。此外，南非長期存在的電力供應不穩問題（也就是所謂的「限電」），也對許多商業活動造成了干擾，加劇了經營的困難。</p><p>面對這些挑戰，南非的商業地產行業正在積極地尋求轉型和應對策略。許多開發商和物業管理公司開始重新思考建築物的用途，例如將部分空置的辦公空間改建為住宅公寓或多功能共享空間，以適應市場的新需求。同時，他們也嘗試透過提供更具吸引力的租金方案或增值服務來留住現有租戶並吸引新租戶。業界專家認為，雖然南非商業地產市場仍需時間來調整，但透過創新和靈活應變，這個產業有機會在未來找到新的發展方向和平衡點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "What's Happening with South Africa's Commercial Property? Empty Offices, Quiet Shops?",
+    "enContent": {
+      "basic": "South Africa's commercial properties, like malls and offices, are facing a tough time. Many office buildings are empty because people work from home more. Shops are also seeing fewer customers as more people shop online. The economy is slow, and high prices make things harder for businesses. Property owners are trying new ideas, like changing old offices into homes, to adapt. Experts think the market will get better with new ideas.",
+      "intermediate": "CNBC Africa reports that South Africa's commercial property sector is struggling. Office vacancies are high due to the shift to remote and hybrid work models. Retail spaces also face challenges from increased online shopping and reduced consumer spending. While industrial properties (warehouses) show more stability, the overall sector is impacted by a sluggish economy, rising interest rates, and unreliable electricity supply. Property developers are responding by repurposing spaces and offering flexible lease options, with experts anticipating long-term market adjustments.",
+      "advanced": "The CNBC Africa report highlights a challenging period for South Africa's commercial property sector. Elevated office vacancy rates are attributed to evolving work dynamics, specifically the widespread adoption of remote and hybrid models post-pandemic. The retail segment contends with diminished foot traffic, a consequence of e-commerce growth and constrained consumer expenditure. Despite these headwinds, the industrial property sub-sector, driven by logistics demand, exhibits relative resilience. Underlying causes include a decelerating national economy, inflationary pressures leading to higher interest rates, and persistent infrastructure issues such as load shedding, which escalate operational costs. Stakeholders are implementing adaptive strategies, including property conversions and revised leasing incentives, in anticipation of a market rebalancing."
+    },
+    "vocabulary": [
+      {
+        "word": "commercial property",
+        "zh": "商業地產 (shāngyè dìchǎn) - 指的是不是拿來自己住，而是用來做生意賺錢的房地產，像是購物中心、辦公大樓、工廠或倉庫等等。"
+      },
+      {
+        "word": "vacancy rate",
+        "zh": "空置率 (kōngzhì lǜ) - 指的是一棟大樓或一個區域裡面，有多少空間是沒有被租出去、空著的比例。空置率越高，代表閒置的空間越多。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-18",
+    "sourceName": "CNBC Africa",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHdEYkM5MDlFdEdnSkFIaXJscmd1OWdhNkJXWEx0VDdhY2hZT1c1TUpSVGhlWEJaaldqbmJDLWhwa2haUUdPUDJzWHVRTXl5QXIweG5JbjhFcjJYamVNY3Axcm9RNXpfOTR5aFJpZ3RsbVNLZzlYTTZFd25ub2lSNW9iajhwSG9oYm5NdzJYWjJFRWsxY0NIdG1YYUVydw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東風雲：沙烏地阿拉伯「秘密出招」攻擊伊朗？",
+    "zhSummary": "根據路透社獨家報導，沙烏地阿拉伯被指控在區域衝突擴大之際，秘密對伊朗發動了多次攻擊，使得中東情勢更趨緊張。",
+    "zhContent": "<p>嘿，同學們！最近中東地區傳出了一個有點緊張的消息，根據路透社的獨家報導，沙烏地阿拉伯「悄悄地」對伊朗發動了一些攻擊。這個消息讓原本就複雜的區域情勢變得更緊繃了。想像一下，兩個在班上就不太合的同學，本來只是口角，結果其中一個被爆料在私底下偷偷做了些什麼，是不是會讓大家更擔心他們會不會真的打起來？這次的事件，就有點類似這樣的感覺。</p><p>報導中提到，這些攻擊並不是公開宣戰的那種大規模軍事行動，而是屬於「秘密行動」。簡單來說，就是沙烏地阿拉伯在檯面下，採取了一些不為人知的方法，去對付伊朗。這些行動發生在那個地區的衝突正在不斷擴大的時候，讓原本就很混亂的局勢又增添了新的變數。由於是秘密行動，具體的攻擊方式和地點，報導中並沒有太詳細的說明，只知道這些消息是來自一些匿名的消息人士。</p><p>為什麼會有這樣的消息呢？中東地區的沙烏地阿拉伯和伊朗，長期以來就是兩個互不相讓的國家。它們在政治、宗教上有很多不同的看法，而且都希望自己在那個地區有更大的影響力。所以，它們之間常常會有各種明裡暗裡的較勁，甚至會支持不同的團體在其他國家打仗。這次的「秘密攻擊」，就是這些長期較勁的其中一種表現，也是兩國關係緊張的最新一個例子。不過，這個消息是來自「消息人士」的說法，而不是沙烏地阿拉伯或伊朗官方公開承認的，所以媒體在報導時也會特別強調這一點。</p><p>總之，路透社的獨家報導指出，沙烏地阿拉伯已經發動了這些秘密攻擊。這些行動被視為是中東地區衝突範圍擴大的一部分。目前，兩國都沒有對這項報導做出明確的證實或回應。這個事件的發生，也代表著該地區的緊張關係，在檯面下持續地升溫中，未來發展仍有待觀察。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，沙烏地阿拉伯對伊朗的攻擊方式有什麼特別之處？為什麼報導會特別強調「消息人士」的說法？",
+      "生活與未來：你覺得兩個國家之間如果常常使用「秘密行動」而不是公開談判，會對國際社會造成什麼影響？",
+      "獨立思考提案：針對中東地區這種長期的衝突和較勁，你覺得有沒有什麼辦法，可以讓國家之間用更和平的方式解決問題？"
+    ],
+    "enTitle": "Middle East Tensions: Saudi Arabia's Covert Attacks on Iran?",
+    "enContent": {
+      "basic": "Reuters reported that Saudi Arabia secretly attacked Iran. This happened when a war in the Middle East was getting bigger. Saudi Arabia and Iran often disagree, and this news makes things more tense. The report says these were 'covert' attacks, meaning they were hidden. We don't know many details because they were secret and from 'sources,' not official statements. No country has confirmed this report yet.",
+      "intermediate": "An exclusive report by Reuters indicates that Saudi Arabia launched covert attacks against Iran as a regional conflict intensified. Saudi Arabia and Iran are long-standing rivals, vying for influence in the Middle East, leading to frequent tensions. These 'covert' operations suggest secret actions rather than declared military engagements. Details of the attacks are limited, as the information comes from anonymous 'sources' rather than official government acknowledgments. This development highlights the ongoing, escalating tensions in the region, with no official confirmation from either nation yet.",
+      "advanced": "Reuters has published an exclusive report alleging that Saudi Arabia executed a series of covert attacks targeting Iran, amidst the widening scope of a regional conflict. This development underscores the deeply entrenched rivalry between the two Middle Eastern powers, who consistently vie for geopolitical dominance and influence. The term 'covert attacks' implies clandestine operations, distinct from overt declarations of war, with specific details remaining sparse due to the secretive nature of the actions and their reliance on unnamed 'sources.' Neither Saudi Arabia nor Iran has officially corroborated the report, leaving the international community to monitor an already volatile region where underlying tensions continue to escalate."
+    },
+    "vocabulary": [
+      {
+        "word": "covert",
+        "zh": "秘密的、隱密的。意思是指那些偷偷進行、不讓別人知道的行動或計畫，就像偷偷摸摸地做一件事一樣。"
+      },
+      {
+        "word": "regional",
+        "zh": "區域的、地區性的。意思是指發生在某一個特定地理範圍或區域內的，而不是影響全世界的，比如「中東區域」的衝突。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-18",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDVqZjdxVDZDeDdnNjd1RndvV0NwNTF4U1Y2cFpVRFMyMzI2WG9mQVFUTnM4YlI3NmVRcGozODRLUUhGbU5wVURWU2dBa0hvNFBxQUc5T0hOUmJENHNBWDg0ZTR2ZWZham5IYVJOY3djZmJia0J6cFg5OWV3ZzluenhIRkVXeW1HRWhYREh0Q181NG1Ncl9aV3FPZU8yQVVTT1VTblpjVjE4bW94bWhVWXpWblpMTDdGeEJVZkxzaW1ZRFU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "亞洲股市的巨人遊戲：大公司撐起半邊天，但也讓市場面貌有點變形",
+    "zhSummary": "亞洲股市正經歷快速成長，但其亮眼表現主要由少數幾家超大型企業推動。這些「巨頭」雖然帶來豐厚投資和市場活力，但也因其龐大影響力，可能扭曲了整體市場的真實面貌，讓其他中小型企業的表現被掩蓋。",
+    "zhContent": "<p>亞洲股市最近可說是熱鬧非凡，傳出成長速度超快的好消息！但仔細一看，原來這份亮眼的成績單，很大一部分要歸功於幾家超巨大的公司。這些公司規模大到可以說是「巨無霸」，它們的財力雄厚、影響力驚人，幾乎撐起了整個市場的半邊天。簡單來說，當我們看到亞洲股市節節高升時，往往是這些頂尖的巨頭們在努力衝刺。</p><p>這些被稱為「巨頭」的企業，通常是科技、金融或製造業裡的佼佼者，它們在全球都擁有廣大的市場和用戶。因為表現出色，它們吸引了大量投資人的關注和資金，大家爭相購買這些公司的股票。當這些巨頭公司的股價上漲時，整個股市的指數也會跟著水漲船高，讓整體市場看起來充滿活力、氣勢如虹，也讓亞洲在全球金融市場中顯得特別有潛力。</p><p>然而，這也帶來了一個有趣的現象，那就是市場表現可能因此「有點變形」。由於少數幾家巨頭的市值實在太龐大，它們的漲跌會對股市指數產生巨大的影響。這就好像一支籃球隊，有兩三個明星球員包辦了大部分分數，雖然球隊總分很高，但你可能就沒辦法看出其他十幾個隊員的真實實力。因此，即使股市總體數據看起來很棒，背後可能隱藏著許多中小型企業或不同產業的表現其實沒有那麼亮眼的事實。</p><p>這並不是說這些巨頭不好，而是提醒我們，在觀察亞洲快速成長的股市時，需要看得更全面。市場的「繁榮」可能非常集中在某些特定的企業身上，而非所有公司百花齊放的結果。所以，下次聽到股市又創佳績時，可以想想看，是哪些公司在背後推動，以及這份成長是否真的反映了整個市場的多元和健康。這就是目前亞洲股市一個特別的現象。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼說亞洲股市的成長「有點變形」？主要原因是什麼？",
+      "生活與未來：你覺得如果股市的表現太過依賴少數幾家大公司，對想投資的人會有什麼樣的影響？",
+      "獨立思考提案：針對這種市場集中於少數巨頭的現象，你覺得可以採取什麼樣的方式，讓市場的成長更具代表性和全面性？"
+    ],
+    "enTitle": "Asia's Stock Market Giants: Powering Growth, Yet Distorting the View",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Titans",
+        "zh": "巨頭：指的是非常巨大、有影響力的公司或人物。就像希臘神話裡的泰坦巨人一樣，他們的力量很強大，在市場上扮演著關鍵角色。"
+      },
+      {
+        "word": "Distorting",
+        "zh": "扭曲：把真實的面貌或意義改變了，讓人看到的不完全是真的。就像哈哈鏡會把影像變形一樣，市場的表現可能因為某些因素而呈現出與實際狀況不完全相符的畫面。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-18",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0xXZEFYTnlPVWgyRDdBZzFWUGw1V0FmNkNxdlZOaFRIVlFsS1NCcjAzUW5DNWpIRWZ0TDlJT1BzRmNQMHFoZG5jVkRtLVRYY1I0RDR1MmdSTWZzN0F0YWpCZzJMSUFwcWNpRGotbzRibXgxRUlyeWxJVmRTSUh4UUFVRDBxcDhCOUJWRWRfVnh3TGMyWDl3YlRJTDlTOE9sam1pTFJEaUhCZHAwbnhwTEZtZWNoUHcyV3fSAb8BQVVfeXFMTi1aVEJnSmd0OVF1VFZjZmFsbnRXMThWa242czBSRmQ5UXBuQXd1VjJTTG5tTnFrU3Z4d0pKYmtVME5zc3l2dzNjRmg5ODFJLTM5aFk4eWhzQms2MmYya1lqVWdMeDF3TV9UdkRzaTZBZWRoTDZsXzRsbk1qRFpQNmNkdDhxbFFjbkZGeFpyUlRLNmdnQWJoNE5xZjJTbmQ1dFJzVWg3b09SaWU0RV9VYmVkX0dlZDcyUUNFa1lCU1E?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞未來5年電力大挑戰：資料中心與電動車是關鍵！",
+    "zhSummary": "一份最新報告指出，未來五年內，東南亞地區的電力需求將大幅增加超過100兆瓦時。這股龐大的電力成長主要來自於急速發展的資料中心和越來越受歡迎的電動車。",
+    "zhContent": "<p>嘿，各位年輕的探索家們！有沒有想過我們每天滑手機、上網看影片，甚至未來可能開電動車，這些行為背後需要多少電力來支持呢？最近路透社報導了一份重要的報告，指出在接下來的五年裡，東南亞地區的電力需求將會暴增！預計增加的電量會超過100兆瓦時（TWh），這是一個非常驚人的數字喔。</p><p>這股龐大的電力成長主要來自兩個地方。首先是「資料中心」，你可以把它想像成一個超級巨大的電腦機房，裡面存放著我們網路世界裡所有的資訊，像是遊戲進度、社群網站的照片、影片等等。這些資料中心需要24小時不間斷地運作，而且為了保持穩定，它們還需要大量的電力來散熱，所以用電量非常大。第二個推手則是「電動車」，隨著環保意識抬頭，越來越多人選擇開電動車，這些車子當然也需要充電才能上路，未來電動車數量變多，充電需求也會跟著大幅增加。</p><p>報告特別提到，因為東南亞地區的經濟正在快速發展，越來越多企業會在這裡設立新的資料中心，同時，當地政府也積極推動電動車的普及，所以這兩個因素疊加起來，才會讓電力需求快速向上衝。這個現象不只說明了科技和環保的發展趨勢，也預告了該區域的電力供應將面臨巨大的考驗。</p><p>總結來說，這份報告清楚地指出，未來五年內，東南亞地區的資料中心和電動車將成為當地電力需求成長的主要動力，帶來超過100兆瓦時的額外用電量。這對整個區域的能源規劃來說，無疑是一個需要嚴肅面對的課題，相關國家得想辦法確保有足夠的電力來支持這些快速發展的科技和產業，以因應未來可能出現的變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「資料中心」和「電動車」各是什麼？為什麼它們會讓電力需求增加？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，如果電力不足會發生什麼事？",
+      "獨立思考提案：針對這個新聞事件，你覺得政府或企業還可以怎麼做，來應對未來可能增長的電力需求？"
+    ],
+    "enTitle": "Southeast Asia's Power Demand to Surge by Over 100TWh in 5 Years Due to Data Centers, EVs",
+    "enContent": {
+      "basic": "A new report says Southeast Asia will need a lot more electricity in the next five years. The demand will go up by more than 100 terawatt-hours (TWh). This big increase is mostly because of data centers and electric vehicles (EVs). Data centers are like big computer rooms that use a lot of power to store information and stay cool. Electric vehicles need power for charging. As more data centers are built and more people buy EVs in Southeast Asia, the region will need to find ways to produce more electricity.",
+      "intermediate": "According to a recent Reuters report, Southeast Asia is projected to experience a significant increase in power demand over the next five years, with an anticipated rise of over 100 terawatt-hours (TWh). This substantial growth is primarily attributed to the expansion of data centers and the rising adoption of electric vehicles (EVs). Data centers, which house critical IT infrastructure, consume considerable amounts of electricity for operation and cooling. Concurrently, the increasing popularity of EVs will drive up demand for charging infrastructure. The report highlights that the rapid economic development in Southeast Asia, coupled with government initiatives promoting these technologies, is fueling this energy consumption surge, posing a challenge for regional energy planning.",
+      "advanced": "A report cited by Reuters indicates that Southeast Asia is on the brink of a monumental surge in power demand, with projections showing an increase exceeding 100 terawatt-hours (TWh) within the next five years. This dramatic escalation is largely driven by two key sectors: the burgeoning data center industry and the rapid uptake of electric vehicles (EVs). Data centers, vital for modern digital economies, are inherently energy-intensive due to continuous operation requirements and extensive cooling systems. Simultaneously, the accelerating transition to EVs necessitates robust charging infrastructure, thereby contributing significantly to grid load. This forecast underscores a critical challenge for energy policymakers and providers in the fast-developing Southeast Asian region, demanding strategic investment in power generation and grid resilience to accommodate this projected growth."
+    },
+    "vocabulary": [
+      {
+        "word": "data center",
+        "zh": "資料中心：想像它是一間很大的房子，裡面裝滿了超多電腦和機器，它們負責儲存和處理我們上網、玩遊戲、看影片等所有資料。因為要一直運作而且不能太熱，所以會用掉非常多的電喔！"
+      },
+      {
+        "word": "electric vehicle",
+        "zh": "電動車：就是不用汽油，改用電來發動的汽車或機車。這種車子比較環保，但是開一段時間後，需要充電才能繼續行駛。未來路上會有越來越多電動車喔！"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-18",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDlvLV9nakltNXVURWFEM2Y1cm56NkRZcFJjNXItSkV5MGpad21ISU5yQi0tOWRwLThWUlVrTUdWZDNibFZTazZCc2IzeU54ejhYcjBKTFpxRm9zR243YmVsRVUyM3VTaFFhaEpRQnVfM1I4MGNibDlLX0pUdlktTHh5cHdBVk9ySHlqeGh3RlRoRzRRNXVmZmY4WFR0YzNMWk1qU3JicDVhQlFpVmI0WjF2aE14cXVRNmRF?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "索羅門群島政壇新氣象：新總理馬修·沃爾組建內閣！",
+    "zhSummary": "索羅門群島的新總理馬修·沃爾已正式宣布他的政府團隊——內閣成員名單，準備帶領國家發展。",
+    "zhContent": "<p>太平洋島國索羅門群島最近有個大新聞！新上任的總理馬修·沃爾（Matthew Wale）組建了他的政府團隊，也就是大家常說的「內閣」。這支新的團隊將會協助總理一起管理國家，處理各種大大小小的事務，確保索羅門群島能夠順利運作。</p><p>馬修·沃爾總理在正式就職後，很快就開始挑選他心目中的合適人選，來擔任內閣裡不同部門的部長。這些被選中的人，每個人都會負責一個特定的領域，像是經濟、外交、教育或是衛生等等。他們的工作就是將總理的政策和想法，具體落實到國家治理的每一個層面。</p><p>這項任命對索羅門群島來說非常重要，因為一個穩定的內閣是國家運作的關鍵。新總理馬修·沃爾是在最近的大選之後，才被選為領導人的。因此，他需要盡快將自己的治理團隊組織起來，才能開始推動他對國家的願景和計畫，解決民眾關心的問題。</p><p>現在，由馬修·沃爾總理帶領的這支新內閣已經正式成立了。他們將會肩負起領導索羅門群島的重責大任，未來幾年內的工作都將由他們來推動。索羅門群島的民眾都在期待這個新政府能為國家帶來好的改變。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Prime Minister Matthew Wale Appoints Cabinet to Lead Solomon Islands",
+    "enContent": {
+      "basic": "Solomon Islands has a new leader, Prime Minister Matthew Wale. He just picked his special team, called the Cabinet. This team will help him run the country. They will work together to make things better for everyone in the Solomon Islands.",
+      "intermediate": "Prime Minister Matthew Wale of the Solomon Islands has officially formed his new government, known as the Cabinet. This important group of ministers will assist him in governing the nation. Each minister is responsible for a specific area, such as finance or education, ensuring the country's smooth operation following his recent election.",
+      "advanced": "Following his recent ascendancy to the premiership, Matthew Wale, the newly inaugurated Prime Minister of the Solomon Islands, has formally constituted his executive body, the Cabinet. This significant appointment signifies the establishment of his administration, comprising various ministers who will oversee critical portfolios to facilitate national governance and implement his policy agenda for the island nation."
+    },
+    "vocabulary": [
+      {
+        "word": "Prime Minister",
+        "zh": "總理：一個國家政府的最高領導人，負責管理國家的大小事務，就像學校的校長一樣。"
+      },
+      {
+        "word": "Cabinet",
+        "zh": "內閣：由總理挑選的一群重要官員組成的團隊，每個人負責不同部門（例如：教育、外交），一起協助總理治理國家。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-18",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUEJPQUMxQUhINHFjVXM2Y1M0MGd6ZlhMYTNmYmFRRVRMRDJfaVg5LXd1dVBWQV9ieHRvYnhjbmhTVm1SWE1vSnRULVpSVG9ZMU1DUHV2RkVnbkphdm5NaTRhZnZRMjVwVUp0bHNXeGhMRThtejFRTVdIWlNwbE4yVkV4YVAyQ1otdlo2bXhRQS1iVS1tR1ZCdTc0OWZHMlMzUmdZSk9oUkJWS0lmczI4RnFQUWY?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "紐約大眾運輸大停擺！長島鐵路罷工，數十萬通勤族受影響",
     "zhSummary": "紐約長島鐵路因勞資談判破裂而發動罷工，導致北美最繁忙的通勤鐵路服務全面中斷，數十萬名每日搭乘火車上班上學的民眾面臨交通癱瘓。",
     "zhContent": "<p>美國紐約的長島鐵路（LIRR）最近發生了一件大事，讓當地居民超頭痛！這個北美洲最繁忙的通勤鐵路，因為跟員工的工會談判破裂，結果員工們決定罷工。這下子，原本每天要搭火車出門的幾十萬人，突然發現沒火車可搭，整個交通都大打結了！</p><p>長島鐵路每天載送超過三十萬名乘客往返紐約市和長島地區，是當地居民生活不可或缺的交通工具。罷工行動一開始，所有的列車服務幾乎全部停擺，原本車水馬龍的車站變得空蕩蕩。許多通勤族為了趕著上班上學，只好改搭巴士、地鐵，甚至自己開車，結果市區的道路塞得更嚴重，大家的時間都被打亂了。</p><p>這次罷工的導火線，主要是工會和鐵路公司在薪資、福利和工作條件上一直談不攏。工會認為，員工們的薪資多年來沒有跟上物價上漲，也希望獲得更好的福利待遇。但鐵路公司則表示，公司的預算有限，無法完全滿足工會提出的所有要求，雙方僵持不下，最後才走到罷工這一步。</p><p>截至目前，儘管交通受到了嚴重衝擊，雙方的談判還在持續進行中。乘客們雖然感到不便，也只能設法尋找替代交通方案，度過這段沒有火車可搭的日子。這次罷工的影響範圍非常廣大，讓大家體會到大眾運輸系統對一個城市運作有多重要。</p>",
@@ -11470,181 +11925,6 @@
     "date": "2026-04-18",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNXFMRWNhS0F2RjBYUExGQzZsM3gweFU0dUpzaEh5aG83V3owV090YmRYVGNPNThDdHliNGdrRWdPYjZGRnNoRUhhMFhXSGhlY0FvNUpyeDM3ZFRlVzVsR3RMdkZFUE9vbXh0U1JuSFdnSzg4aEI4R0NwbG5BcnQza0tDQ0xoLWlDOEo3Y3JBNnI3UE5zWjNoN0hZT3ByZ2FjaWdzWDhmVWhGdExDQzE3cnBBQV82R05JNTMzajdn?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "再見了，老朋友！壽山動物園「二哥」離世，是否將製成標本？",
-    "zhSummary": "壽山動物園高齡非洲獅「二哥」日前離世，享壽23歲。園方目前正在研議，是否將牠製成標本，以作為生命教育展示，讓大家能繼續認識這位老朋友。",
-    "zhContent": "<p>各位青少年讀者們，壽山動物園裡最近有一個讓大家感到不捨的消息。園區裡最受歡迎的動物明星之一，高齡的非洲獅「二哥」，在今年年初悄悄地離開了我們。牠享壽23歲，對於非洲獅來說，這是一個非常非常長壽的年紀，幾乎是獅子界的「超級人瑞」了。二哥的離去，讓許多曾經去動物園看過牠的遊客都感到十分難過，因為牠已經陪伴大家走過了很長一段時間。</p><p>二哥從2002年就來到壽山動物園生活，轉眼間在這裡度過了超過20個年頭。雖然牠的身體狀況一直不錯，但隨著年紀越來越大，就像我們人類的爺爺奶奶一樣，身體機能難免會漸漸退化。牠的活動量慢慢變少，吃東西的速度也變慢，偶爾還會出現一些老化帶來的病痛。園方獸醫和飼育員都非常用心照顧牠，提供最好的醫療和環境，但最終還是不敵歲月的考驗，自然地走完了牠的一生。</p><p>為了紀念這位特別的動物朋友，並讓牠的生命能以另一種形式延續下去，壽山動物園目前正在討論一個特別的計畫。園方希望能夠將二哥的遺體製作成動物標本，未來有機會在園區內展示。這樣做不僅能讓大家繼續記得二哥，也能成為一個很好的教材，讓來參觀的青少年和學童們，透過標本更深入地學習非洲獅的知識，了解動物的身體構造，並思考生命的意義。</p><p>不過，製作一個大型動物標本並不是一件簡單的事。這需要經過專業的技術處理，考量到費用、展示空間以及標本的保存方式等等。目前，園方仍在收集各方意見，並評估這項計畫的可行性，所以還沒有做出最終的決定。這項討論的結果，將會影響二哥未來的「去向」，我們就一起等待動物園的後續公告吧。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，壽山動物園為什麼會考慮將非洲獅「二哥」製作成標本呢？製作標本對動物園來說，有哪些可能的好處和挑戰？",
-      "生活與未來：你覺得如果「二哥」真的製成標本，對於來動物園參觀的人，特別是像你這樣的青少年，會造成什麼實際影響？你希望看到什麼樣的標本展示方式？",
-      "獨立思考提案：針對動物離世後的處理方式，除了製作標本，你覺得動物園還可以怎麼做，才能兼顧紀念、教育和尊重生命呢？"
-    ],
-    "enTitle": "Goodbye, Er Ge! Shoushan Zoo's Elderly Lion Passes Away, Specimen Display Under Discussion",
-    "enContent": {
-      "basic": "Shoushan Zoo's elderly African lion, \"Er Ge,\" passed away at 23 years old. The zoo is considering preserving him as a specimen for educational display, allowing visitors to continue learning about him.",
-      "intermediate": "\"Er Ge,\" a beloved African lion at Shoushan Zoo, recently passed away at the impressive age of 23, making him a centenarian in lion years. The zoo is now evaluating the possibility of creating a specimen from his body. This initiative aims to serve as a valuable educational tool, enabling visitors to learn about African lions and the cycle of life, though a final decision has not yet been reached due to complex considerations.",
-      "advanced": "Shoushan Zoo announced the passing of \"Er Ge,\" its venerable 23-year-old African lion, who had resided at the facility since 2002. The animal, renowned for its longevity, succumbed to natural causes associated with old age. In tribute to its significant presence, the zoo is actively deliberating whether to preserve \"Er Ge\" as a taxidermied specimen. This proposal, if materialized, intends to transform his remains into a permanent educational exhibit, offering insights into African lion biology and promoting life education. The decision-making process involves thorough assessment of technical feasibility, financial implications, and ethical considerations, with the final outcome pending."
-    },
-    "vocabulary": [
-      {
-        "word": "specimen",
-        "zh": "標本：就是將動物或植物的遺體經過特別處理，保存下來的樣子，可以放在博物館或學校展示，方便大家觀察學習。"
-      },
-      {
-        "word": "longevity",
-        "zh": "長壽：指的是活得很久、壽命很長的意思。像「二哥」活到23歲，對獅子來說就是非常長壽了。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-04-17",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qekUxaU0yc0dsWi1hRUs2cW52RHFvWlNoTVkxb29sYllUbklfd0V2YnE2VHN6eldxc3ZaNzVZUkhxLVl0ZWpSWnlYb3pWQWc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "國際貨幣基金組織警告：中東各國將面對伊朗衝突的「不均」經濟衝擊！",
-    "zhSummary": "國際貨幣基金組織（IMF）近期發布報告，預警中東地區國家若面臨與伊朗相關的潛在衝突，經濟影響將非常不均。這意味著不同國家會因其經濟結構、地理位置等因素，而受到程度不一的衝擊。",
-    "zhContent": "<p>國際貨幣基金組織（IMF）最近發出了一份重要報告，提醒中東地區的國家，如果與伊朗有關的衝突局勢持續或加劇，他們的經濟將面臨不同的衝擊。這份報告特別指出，這些國家受到的影響會很不一樣，有些國家可能會比其他國家更辛苦，無法「雨露均霑」地承受相同的經濟壓力。</p><p>國際貨幣基金組織解釋說，影響之所以不平均，是因為中東各國的經濟結構和地理位置大不相同。舉例來說，那些主要靠石油出口賺錢的國家，如果衝突導致油價波動，他們的收入就會受到直接影響。但如果是那些不太依賴石油，反而比較注重旅遊或貿易的國家，他們受到的影響可能就會透過不同的方式展現，比如遊客減少或是貨物運輸受阻，對經濟的衝擊面也會不同。</p><p>國際貨幣基金組織作為一個全球性的金融機構，主要職責之一就是觀察和分析世界各地的經濟狀況，並向各國政府提供建議，幫助他們維持經濟穩定。他們強調，中東地區的國家需要為可能發生的變化做好準備，思考如何讓自己的經濟發展不那麼容易受單一因素影響，這樣才能更好地應對潛在的危機。這份報告就是他們對當前區域風險的客觀評估，希望能引起各國政府的重視。</p><p>目前，國際貨幣基金組織這份報告的用意，是希望中東各國能預先了解這些潛在的經濟挑戰。他們並沒有提供具體的應對方案，而是客觀地指出，考慮到區域情勢的複雜性，各國政府需要各自評估風險，並制定對應的經濟策略，以確保他們能承受未來的考驗。這場關於「伊朗戰事」可能引發的經濟衝擊，將持續是國際社會關注的重點，而IMF也會繼續監測。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，國際貨幣基金組織主要想傳達什麼訊息？他們認為中東地區的經濟會受到什麼樣的影響？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，如果油價波動，可能會影響到誰的生活？",
-      "獨立思考提案：針對國際貨幣基金組織提出的警告，你覺得中東各國還可以怎麼做，才能更好地保護自己的經濟？"
-    ],
-    "enTitle": "IMF Warns: Middle East States Face 'Uneven' Economic Fallout from Iran Conflict",
-    "enContent": {
-      "basic": "The International Monetary Fund (IMF) recently released a report. It warns that countries in the Middle East might face different economic problems if there's a conflict involving Iran. This means some countries could be affected more than others, depending on their economy.",
-      "intermediate": "The International Monetary Fund (IMF) has published a report stating that Middle Eastern countries could experience varied economic consequences if a conflict related to Iran escalates. The IMF explains that the impact will not be the same for all nations, as their economies and locations differ significantly. Countries that rely heavily on oil exports, for example, might see their income affected by oil price changes, while others focused on tourism or trade could face different challenges like fewer visitors or disrupted shipping.",
-      "advanced": "The International Monetary Fund (IMF) recently issued a critical report highlighting the potential for highly uneven economic fallout among Middle Eastern states in the event of sustained or intensified conflict involving Iran. The IMF attributes this disparity to the diverse economic structures and geopolitical positioning of countries across the region. Oil-exporting nations, for instance, are directly vulnerable to fluctuating crude prices, whereas economies dependent on tourism or trade may experience disruptions through reduced visitor numbers or impeded logistical routes. The IMF, in its role of monitoring global economic stability, emphasizes the need for regional governments to enhance economic diversification and preparedness to mitigate these varied risks."
-    },
-    "vocabulary": [
-      {
-        "word": "fallout",
-        "zh": "餘波、負面影響：指一個事件（通常是不好的）發生之後，所帶來的一連串結果或問題。想像一顆石頭丟進水裡，水花濺開就是它的餘波。"
-      },
-      {
-        "word": "stability",
-        "zh": "穩定性：指事物保持平衡、不容易改變的狀態。如果一個國家的經濟很穩定，就表示它不容易突然大好或大壞，讓大家比較安心。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-04-17",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzZIRjYyV0t6T3JjblFINVFLLV93NEx3b0xoSjhsa0xDeUxjUUtFMlhJZDZtUTlWLUpQdTZ4NDl2UWkwUkhXNFJXR2VzZnV2eDhWQ2wtRDFDSnI4VGIwaHdxT2pkLVBkOWdDMXFMWDYyR2o1NXZ6eU1SM1MzU0N2TTFqeEJBRzZ1Z2R3VlhTVzRLMmZWVjlJeFMwTnJNVXNDZ0theVlJNTZkZ0No?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "韓國「逃家」灰狼歷險記：牠真的被找到了！",
-    "zhSummary": "最近在韓國，一隻從動物園脫逃的灰狼，讓整個城市繃緊神經。經過多日搜尋，牠終於被專業人員安全地尋獲並帶回。",
-    "zhContent": "<p>你想像過在城市裡，突然遇到一隻野生動物的驚險畫面嗎？最近在韓國首爾，就發生了這麼一件特別的事件。一隻從動物園溜出來的灰狼，在城市周邊「探險」了數天，引起當地居民和政府的關注。這隻聰明的灰狼到底躲在哪裡？牠的自由之旅，最後又會如何收場呢？這個消息一傳開，馬上成為大家熱烈討論的話題。</p><p>這隻被稱為「逃家狼」的灰狼，大約一週前從首爾一間動物園的圍欄中脫逃。牠可能利用圍欄小破損，或趁園區維修時溜走。脫逃後，牠的行蹤飄忽不定，有人在山上，也有人在郊區農田附近發現牠。由於狼是較兇猛動物，動物園和當地政府立即發布警告，提醒民眾發現牠時千萬不要靠近，並立即通報，以確保所有人的安全。</p><p>為了找到這隻失蹤灰狼，韓國政府動員大量人力，包括動物專家、警察和搜救隊。他們使用夜視鏡等專業設備，還利用無人機進行大規模搜索。幾天下來，大家都非常緊張，擔心牠在野外遇到危險，或影響當地生態。救援團隊沒有放棄，他們根據民眾線索，仔細分析牠可能出現的地點，一步步縮小搜尋範圍。</p><p>就在大家焦急等待時，好消息傳來了！這隻被追蹤多日的灰狼，終於在首爾郊區一片山林中被成功尋獲。媒體畫面顯示，專業人員確認牠的位置後，小心靠近，用麻醉槍讓牠昏睡，再安全帶走。經過獸醫檢查，這隻灰狼身體狀況良好，沒有受傷。目前牠已安全送回動物園，重新住進更穩固的圍欄，結束這場短暫的城市野外大冒險。這趟特別的旅程，讓很多人都鬆了一口氣。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，灰狼的逃脫和尋獲過程有哪些值得注意的細節？",
-      "生活與未來：你覺得這隻灰狼的「城市野外大冒險」會對動物園的管理帶來什麼實際影響？",
-      "獨立思考提案：針對動物從動物園脫逃的事件，除了現有的追蹤和尋回方式，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korean Zoo Wolf's Urban Escape Ends: Found Safe!",
-    "enContent": {
-      "basic": "A wolf got out of a zoo in Seoul, South Korea. It was missing for many days. People were worried because it's a wild animal. The government and zoo workers looked for it everywhere. They used special tools like drones. Finally, they found the wolf in some mountains outside the city. They used a special dart to make it sleep and took it back to the zoo. The wolf is now safe and healthy in its home. Everyone is happy it's back.",
-      "intermediate": "A gray wolf recently escaped from a zoo in Seoul, South Korea, sparking a multi-day search and public concern. The animal was believed to have slipped out of its enclosure about a week ago, possibly through a small opening or during maintenance. Its elusive presence in the city's outskirts and nearby mountains led authorities to issue warnings, advising residents not to approach the potentially dangerous animal. A large team, including animal experts and police, utilized advanced equipment like night vision and drones for the search. The wolf was eventually located in a mountainous area outside Seoul, safely tranquilized, and transported back to the zoo. It was found to be in good health.",
-      "advanced": "A captivating incident unfolded in Seoul, South Korea, as a gray wolf from a local zoo embarked on an unexpected urban escapade, prompting a comprehensive week-long search operation and widespread public apprehension. The animal's initial escape from its enclosure, potentially exploiting a structural vulnerability or a lapse during routine maintenance, led to numerous sightings across suburban farmlands and adjacent mountainous regions. Given the inherent predatory nature of wolves, authorities promptly issued public advisories, urging citizens to maintain distance and report any sightings immediately. A collaborative effort, involving veterinary specialists, law enforcement, and search-and-rescue units, deployed sophisticated technologies, including thermal imaging and unmanned aerial vehicles, to track the elusive creature. The extensive pursuit culminated in the wolf's safe retrieval in a secluded mountainous area on the city's periphery, where it was humanely tranquilized and subsequently repatriated to the zoo. A thorough veterinary examination confirmed the wolf's robust health, concluding its remarkable brief venture into the wild."
-    },
-    "vocabulary": [
-      {
-        "word": "Wolf",
-        "zh": "狼 - 一種生活在野外的犬科動物，通常群居，身體強壯，是很聰明的獵食者。"
-      },
-      {
-        "word": "Enclosure",
-        "zh": "圍欄/獸欄 - 指用來圍住動物，讓牠們待在特定範圍內的設施，例如動物園裡的籠子或柵欄。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-04-17",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45US0xTEZqTDBJVGtpRmNhMnp3UTdVX3prV3dPZDIzY3I5NUp1VnFHcXIwUlFKbzhUWjhiZFFGM0JDcnVvZG80U0NCUEk0Q012a0RqTzlobw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "環保新風潮！蒙迪集團在東南亞大力擴展紙袋業務",
-    "zhSummary": "全球包裝巨頭蒙迪集團看準東南亞市場對環保包裝的需求，正大舉擴展其在該地區的紙袋生產業務，提供更多可持續的替代方案。",
-    "zhContent": "<p>嗨，同學們！你有沒有想過我們每天買東西的袋子，其實也可以很環保？最近有個國際大公司「蒙迪 (Mondi)」就決定在東南亞地區，把他們做「紙袋」的生意大大擴展。蒙迪集團本身是個在全球很有名的包裝和紙類產品公司，他們這次看準了東南亞對環保包裝越來越大的需求，打算讓更多店家和消費者能用上既方便又對地球友善的紙袋。這可不是小事，代表我們以後在東南亞看到紙袋的機會會變多喔！</p><p>這次擴展，蒙迪集團可不是隨便玩玩。他們具體的計畫是增加在東南亞的紙袋生產能力。這包括可能投入新的設備，甚至是設立新的生產線，讓他們能生產出更多樣化、更高品質的紙袋產品。想像一下，從超市的購物袋到裝水泥的工業用紙袋，這些都可能是他們的目標。簡單來說，他們就是要讓東南亞的市場上有更多的「蒙迪製造」紙袋，滿足從日常消費到工業生產的各種需求。這背後是看好這個地區的經濟正在快速成長，對各種包裝材料的需求也跟著增加。</p><p>為什麼蒙迪會選在這個時候，而且是在東南亞地區大動作投資呢？主要原因就是環保意識在全球各地越來越受到重視，大家都在找塑膠袋的替代方案。東南亞國家近年來也積極推動減少塑膠垃圾的政策，許多企業和消費者都希望有更多可持續的包裝選擇。蒙迪作為一家在紙製品領域有深厚經驗的公司，看到這個趨勢，當然想抓住這個機會。他們也一直強調自己的紙袋產品是「可再生」而且「可回收」的，希望透過這樣的方式，為整個地區帶來更多環保的包裝解決方案。</p><p>所以，蒙迪集團這次擴展東南亞紙袋業務的行動，可以說是一項重要的策略布局。他們期望透過這次投資，鞏固自己在東南亞市場的領導地位，並將其優質的紙袋產品推廣給更多的客戶。這不僅讓蒙迪能在這個快速發展的地區搶得先機，也實實在在提供了當地市場對環保包裝的供應。目前，這項業務擴展正在逐步進行中，未來我們將會看到更多來自蒙迪的紙袋產品出現在東南亞的日常生活中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中蒙迪集團為何選擇在東南亞擴展紙袋業務？他們希望達到什麼目標？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如當地消費者、零售商或環境）",
-      "獨立思考提案：針對這類企業投資環保產品的現象，你覺得還有哪些方式可以鼓勵更多企業加入，讓地球更永續？"
-    ],
-    "enTitle": "Mondi Boosts Paper Bag Production in Southeast Asia",
-    "enContent": {
-      "basic": "Mondi, a big company, is making more paper bags in Southeast Asia. Paper bags are good for the environment because they are not plastic. Mondi wants to help countries in Southeast Asia use less plastic. They are building new factories or making old ones bigger to produce many kinds of paper bags. This is good because more people want to use things that don't harm the Earth.",
-      "intermediate": "Mondi, a global leader in packaging, is significantly expanding its paper bag business in Southeast Asia. This strategic move aims to meet the growing demand for sustainable packaging alternatives in the region. With increasing environmental awareness and government initiatives to reduce plastic waste, Mondi sees an opportunity to offer its renewable and recyclable paper bag solutions. The expansion involves boosting production capacity and introducing a wider range of paper bag products, catering to both consumer and industrial needs.",
-      "advanced": "Global packaging and paper giant Mondi is undertaking a substantial expansion of its paper bags business across Southeast Asia. This strategic initiative is driven by the region's rapidly increasing demand for sustainable packaging solutions, aligning with global shifts towards eco-friendlier alternatives to plastics. Mondi plans to significantly enhance its production capabilities, potentially through new facilities and advanced machinery, to deliver a diverse portfolio of paper bags—from retail to industrial applications. This expansion solidifies Mondi's commitment to supporting a circular economy and positions them as a key provider of renewable and recyclable packaging in a high-growth market."
-    },
-    "vocabulary": [
-      {
-        "word": "expand",
-        "zh": "擴展 / 擴張：指的是把生意、規模或範圍變得更大、更廣的意思。就像把一個小房間變成大房子一樣。"
-      },
-      {
-        "word": "sustainable",
-        "zh": "可持續的 / 永續的：意思是指一種方式或產品，在使用的同時不會耗盡資源或破壞環境，可以一直長久地使用下去，對地球是友善的。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-04-17",
-    "sourceName": "PULPAPERnews.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNk1xMk1QcWtmTjJfMU9zMU1UWGszcndacG5pbWdiSmpxS2pJUHZ1MUIxUjQ1VEx1OW9HclVvamhEZ2UyNEItYWthNkRpMWFGQjJUVG8tdzRRbzNPUGdMWEJJQl9jV1BPOE40SnpIZFEtTzBJaUt6TTFuQkc5Q2JnbHpZSUdmWV9vdlVxOGo1LXdxTFF6bTQ4?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋環保新動向：萬那杜禁用一次性塑膠",
-    "zhSummary": "南太平洋島國萬那杜為保護珍貴的海洋生態，從今年四月十七日起開始實施一項新規定，分階段禁用一次性塑膠製品，希望能有效減少垃圾污染，守護他們的自然環境。",
-    "zhContent": "<p>萬那杜，一個位於南太平洋的美麗島嶼國家，最近實施了一項重要的環保新規定。這項新政策從今年的四月十七日開始生效，主要是為了減少海洋塑膠垃圾對當地生態造成的影響。對於生活在萬那杜的人們來說，這代表他們日常生活中使用塑膠製品的方式即將有所改變，目的就是要讓他們的島嶼和周圍的海洋保持潔淨，繼續成為魚群和珊瑚礁的家園。</p><p>根據萬那杜政府的規劃，這次禁用行動將分階段進行。首先被禁止的是一次性塑膠袋、塑膠吸管以及保麗龍餐具等常見的物品。這些東西在當地被大量使用，卻也常常流入海洋，威脅到海龜、魚類等海洋生物的生存。萬那杜的官員表示，這項措施是經過長時間討論和準備的結果，希望能在兼顧居民生活習慣的同時，有效降低塑膠污染。</p><p>當然，推動這樣的改變並不容易。當地許多商家和居民都需要時間去適應新的規定，找到替代的環保產品，例如使用布袋、紙吸管或可重複使用的餐盒。政府和環保組織也舉辦了多場宣導活動，向大家解釋禁用塑膠的重要性，並鼓勵大家一起參與，共同為保護環境努力。雖然一開始可能會有些不方便，但大多數人都能理解這對萬那杜的長遠發展非常重要。</p><p>從四月十七日起，第一階段的禁用措施已正式在萬那杜全國各地執行。當地環保部門和執法單位會加強宣導和巡查，確保大家都能遵守這些新規定。這次的行動不只是萬那杜自己的努力，他們也希望能藉此展現對環境保護的決心，並啟發其他太平洋島國採取類似的行動，共同守護太平洋這片珍貴的藍色家園。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中萬那杜政府主要禁止了哪些物品？他們為什麼要這麼做？",
-      "生活與未來：你覺得這個改變會對萬那杜當地居民的生活和他們的環境造成什麼實際影響？",
-      "獨立思考提案：針對這項禁用塑膠的規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Vanuatu's New Plastic Ban Takes Effect",
-    "enContent": {
-      "basic": "Vanuatu, a Pacific island, started a new rule on April 17. They want to stop using some plastic items. This is to help protect their ocean and animals like fish and turtles. They will slowly ban things like plastic bags and straws. People need to find new ways to carry things and eat. The government hopes this will make their islands cleaner and safer for nature.",
-      "intermediate": "The Pacific island nation of Vanuatu launched a new environmental initiative on April 17, aiming to combat plastic pollution. This phased ban targets single-use plastic items such as plastic bags, straws, and styrofoam containers. These materials often end up in the ocean, endangering marine life and fragile coral reefs crucial to Vanuatu's ecosystem and tourism. The government has been raising awareness and encouraging businesses and residents to adopt eco-friendly alternatives to reduce environmental impact.",
-      "advanced": "Vanuatu, an archipelagic nation in the South Pacific, commenced a significant environmental policy on April 17, implementing a phased prohibition on specific single-use plastic products. This comprehensive initiative is designed to mitigate the pervasive issue of plastic pollution that threatens the country's pristine marine ecosystems, including its vital coral reefs and diverse aquatic biodiversity. The regulatory framework, which targets items like plastic bags, straws, and styrofoam containers, follows extensive public consultations and aims to transition the nation towards more sustainable practices, with governmental and non-governmental organizations collaborating on public education and the provision of environmentally sound alternatives. The successful implementation of this ban is anticipated to serve as a regional model for sustainable environmental stewardship."
-    },
-    "vocabulary": [
-      {
-        "word": "Styrofoam",
-        "zh": "保麗龍：一種很輕、摸起來像泡泡的塑膠材料，常用來做成一次性的杯子、餐盒或是包裝的填充物。因為它很難分解，所以會對環境造成很大的負擔。"
-      },
-      {
-        "word": "Coral Reef",
-        "zh": "珊瑚礁：由珊瑚蟲建造出來的水下結構，是許多海洋生物的家園，就像海底的熱帶雨林。它對海洋生態非常重要，但容易受到污染和氣候變化的影響。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-04-17",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1BQcGJIRk1sUjJMRXFqaTRtN1V6cHJfSGFQQmRHNjFORWVOX1J0c0huNldneGZ6c1hZWnc2dk9sVXFqNDFTY09lNEFKZmxJMm1DMWtfdUVYdnRRbU5GUVNrRTNiX0k4T29xNXE4WTBUaEVacUl2OGEyaEs5Sm5VV2ln?oc=5",
     "isFeatured": false
   }
 ]
