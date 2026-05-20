@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "鹿兒島外海晃動！規模5.9地震，幸好只是虛驚一場",
+    "zhSummary": "日本鹿兒島縣奄美群島外海發生了規模5.9地震，雖然當地民眾感受到明顯搖晃，但經官方確認，目前暫無重大災情與人員傷亡，也沒有海嘯危險。",
+    "zhContent": "<p>各位讀者，最近日本南部的天空和大海都還算平靜，但就在前陣子，日本鹿兒島縣奄美群島附近的海域卻突然發生了一場不小的地震。根據日本氣象廳的報告，這次地震的規模達到5.9，雖然聽起來有點嚇人，不過幸好到目前為止，當地並沒有傳出重大的災情，也沒有造成人員傷亡。大家都鬆了一口氣。</p><p>這次地震發生在鹿兒島縣的奄美群島東方外海，震源深度不算太深，所以沿海地區的居民感受特別明顯。許多民眾都被突如其來的搖晃嚇了一跳，有些地方的震度甚至達到了日本震度分級的四級。例如，奄美市和喜界町等地方都有明顯的晃動感。幸運的是，日本氣象廳在地震發生後很快就確認，這次地震並沒有引發海嘯的危險，讓大家緊繃的心情得以放鬆。</p><p>日本氣象廳在地震後迅速召開了記者會，說明這次地震的狀況。他們指出，日本是一個地震頻繁的國家，這次地震屬於當地正常的板塊活動。雖然這次的規模不小，但由於震源位置相對來說遠離人口密集的大都市，加上建築物普遍有抗震設計，所以沒有造成太大的破壞。氣象廳也提醒當地居民，接下來幾天可能會有餘震，大家還是要保持警惕。</p><p>目前，日本當地的交通、電力供應和通訊都維持正常運作，沒有受到地震的影響。雖然有些超市的商品可能因為搖晃而掉落，但清理後很快就能恢復營業。地方政府也迅速啟動了應變機制，確認沒有需要緊急協助的狀況。總之，這次日本鹿兒島奄美規模5.9地震，幸好是虛驚一場，沒有釀成嚴重的災害。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Kagoshima Offshore Trembles! Magnitude 5.9 Quake, Fortunately Just a Scare",
+    "enContent": {
+      "basic": "A 5.9 magnitude earthquake hit off Japan's Kagoshima prefecture near the Amami islands. Luckily, there was no major damage or injuries, and no tsunami warning was issued. Residents felt shaking but are safe.",
+      "intermediate": "An offshore earthquake with a magnitude of 5.9 struck near Japan's Amami islands, Kagoshima Prefecture. The Japan Meteorological Agency reported no significant damage or casualties. While residents experienced considerable shaking, particularly in areas like Amami City and Kikai Town, authorities quickly confirmed there was no risk of a tsunami.",
+      "advanced": "A magnitude 5.9 earthquake occurred off the coast of Japan's Kagoshima Prefecture, specifically near the Amami islands. The Japan Meteorological Agency (JMA) confirmed that despite the significant tremor, there were no immediate reports of major damage or injuries. The quake, which registered a maximum intensity of four on Japan's shindo scale in certain areas, prompted initial concern but was quickly assessed as posing no tsunami threat. Local infrastructure remained largely unaffected, and emergency services confirmed no urgent situations. The JMA has advised residents to remain vigilant for potential aftershocks."
+    },
+    "vocabulary": [
+      {
+        "word": "Magnitude",
+        "zh": "規模 (地震的強度或大小，數字越大表示地震越強烈。)"
+      },
+      {
+        "word": "Aftershock",
+        "zh": "餘震 (主地震發生後，在同一區域或附近發生的規模較小的地震，通常會持續一段時間。)"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-05-20",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HS2cwb090Y0YwZFRxWTgwaHhReVlvd1J4WUtoTFJFb0dha3JtaGFqVUQ4Rm9IM1BINmRudGhfcHVxdEpldE5zUG9BRk1xSnBUMk84QkhtOEFpdUxpUFZn?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "科學家最新觀察：地球氣候走向「不好不壞」的中間地帶？",
+    "zhSummary": "最新報告指出，全球最糟糕的氣候災難情境發生機率降低，但要達到最理想的減碳目標也越來越困難。我們正處於一個避免了最壞情況，卻也錯過最佳機會的關鍵時刻。",
+    "zhContent": "<p>嘿，各位關心地球的朋友們！最近美國的媒體《美聯社》報導了一則關於氣候變化的消息，聽起來有些複雜，但又給了我們一點希望。科學家們研究發現，過去大家最擔心、最糟糕的那些氣候災難，像是地球會變得超級熱，導致很多地方無法居住，這種可能性已經沒那麼高了。不過，他們也同時提醒，我們原本希望達到的最佳狀況，也就是把地球暖化的程度控制在一個很低的範圍內，這個目標也正在一點一滴地離我們遠去。總之，地球的未來似乎正走向一個「不好不壞」的中間地帶。</p><p>為什麼說最壞的情況沒那麼容易發生了呢？主要是因為全球各地這幾年來，大家都開始認真看待氣候變化的問題。許多國家和企業都投入心力，發展出更環保的能源，像是太陽能和風力發電，減少對化石燃料的依賴。政策上也做了很多調整，鼓勵大家節能減碳。這些努力讓溫室氣體的排放速度稍微慢了下來，因此那些最極端、最恐怖的氣候預測，例如全球氣溫飆升到難以想像的高點，或是海平面快速上升淹沒大片陸地，發生的機率就跟著降低了。這表示人類的共同努力，確實產生了一些正面影響。</p><p>但是，另一方面，科學家也明確指出，我們距離「最好的未來」越來越遠了。這個「最好的未來」通常指的是，讓地球的平均溫度上升幅度控制在攝氏1.5度以內。雖然我們避免了最糟糕的情況，但目前的減碳速度還是不夠快。全球的溫室氣體排放量依然很高，造成地球持續升溫。這代表像更頻繁的熱浪、更強烈的暴風雨、或是某些地方出現持續的乾旱等等，這些現象還是會越來越常見。所以，即便最差的劇本不太可能上演，但我們還是得面對一個挑戰性不小的未來，許多環境上的改變仍然無可避免。</p><p>簡單來說，這份最新的科學報告告訴我們，地球的氣候變遷，不像過去想像的那麼絕望，但也沒有我們期待的那麼樂觀。人類的努力確實避免了一些最極端的災難，這是一個好消息。然而，要讓地球環境回到最理想的狀態，甚至只是維持在一個相對安全的低溫升幅度，我們還有很長的路要走，而且時間越來越緊迫。科學家們會持續觀察這些變化，並提供最新的數據與分析，讓我們能更清楚地了解地球的狀況。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The worst climate future is less likely, but the best one is slipping away, scientists say - AP News",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Climate",
+        "zh": "氣候 – 指一個地區長時間的天氣狀況，像是這裡每年夏天都很熱，冬天會下雪，這就是它的氣候。"
+      },
+      {
+        "word": "Emission",
+        "zh": "排放 – 像是工廠煙囪冒出的煙，或是汽車排出的廢氣，這些氣體被釋放到空氣中，就叫做排放。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-05-20",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaV90ODRmNnhKMU9zMkQwN0RWbF9melJxN0E5aHUtOGs2c0dtYW1Mdm9hVUFtZ1JOdlhrdk53THFIUW9zSi1nR2w1VTZPR2tvUFFFN2QyeXU4MjlNRjl6Uy1EanY3THdScUdhNE02cHk0WVUtTmZaZ1c0U25RdE8xcVdqWnh1VER0WmdWTzNiTzZUM0tmS0RaWTV0MUpEOWgwVDVFMExhYw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI來幫忙？特殊教育的智慧新可能！",
+    "zhSummary": "這則新聞探討了人工智慧（AI）如何有可能改善特殊教育，包括提供個人化學習和輔助工具，但也面臨隱私、成本及人際互動等挑戰，目前仍處於探索階段。",
+    "zhContent": "<p>最近，大家對「人工智慧」（AI）的討論越來越多，從聊天機器人到各種聰明程式，AI似乎正在改變我們的生活。美國媒體NPR也開始關注，AI有沒有可能幫助到學習上需要特別協助的孩子們，也就是「特殊教育」領域的學生？這個問題讓許多教育專家和家長都非常好奇，AI究竟能為特殊教育帶來什麼改變？</p><p>NPR報導指出，AI在特殊教育中有不少潛在應用方式。例如，AI程式能像專屬家教，根據學生學習進度和理解程度，量身打造「個人化」學習內容。它能找出孩子不懂的地方，並用不同方法解釋。對有閱讀或寫作障礙的學生，AI工具能把文字變成語音朗讀，或將口說內容即時轉換成文字，幫助他們更順暢地學習和表達。</p><p>然而，引進AI也帶來一些考驗。最大的顧慮是學生資料的隱私保護，因為AI會分析大量個人學習數據。專家們擔心，AI會不會減少人類老師與學生的互動？他們強調，AI應是輔助老師的工具，而非取代。老師的教學經驗、情感支持和耐心引導，對特殊教育的孩子來說不可或缺。此外，這些科技的開發與導入成本，以及如何確保所有學校公平使用，也是大家思考的問題。</p><p>總體來說，AI在特殊教育領域的應用還在初期探索階段。許多學校和研究機構正積極實驗，希望能找到最有效且安全的運用模式。儘管AI潛力很大，但要讓它真正發揮作用，還有許多技術、倫理和實務上的挑戰需要克服。這個關於AI如何改善特殊教育的討論，仍然是個持續進行中的重要話題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Could Artificial Intelligence Improve Special Education?",
+    "enContent": {
+      "basic": "This news explores how Artificial Intelligence (AI) might help improve special education. It talks about AI's potential to offer personalized learning and helpful tools. However, there are also challenges like privacy, cost, and the need for human interaction. It's still a new area being explored.",
+      "intermediate": "NPR reports on the potential of artificial intelligence to enhance special education. AI tools could provide customized learning experiences and assistive technologies for students with diverse needs. Yet, concerns about data privacy, the high cost of implementation, and ensuring the continued critical role of human educators remain significant challenges that researchers and schools are actively addressing as they explore this emerging field.",
+      "advanced": "The NPR article delves into the burgeoning discussion surrounding the application of artificial intelligence in special education. Proponents highlight AI's capacity to deliver highly personalized learning pathways and sophisticated assistive technologies, potentially bridging gaps for students with specific learning challenges. Conversely, critical considerations such as safeguarding student data privacy, managing the substantial financial investment required for AI integration, and preserving the irreplaceable human element of teacher-student interaction are paramount. The discourse suggests AI's role is largely complementary, and its widespread, equitable implementation remains a complex, evolving endeavor."
+    },
+    "vocabulary": [
+      {
+        "word": "Artificial Intelligence",
+        "zh": "人工智慧 (AI的中文名稱，指讓機器像人一樣思考、學習和解決問題的技術。) "
+      },
+      {
+        "word": "Personalized",
+        "zh": "個人化 (指根據每個人的不同需求和特點，專門設計或調整的服務或內容。) "
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-05-20",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMVhjUzB1dHZDNWYteFc4VklSUlhiYUI3N3NKYVdUVlhGWUc5U1pHQ3UzR2VnNmxhcm9GcnQ0bnFPWU4zRFdLSkpoRXRlQmI5aGZ5ZktOQkpaaTRuOVpPUmtINTdGUWdRSFJPeDNzZnBhcWhScFdvNEJGUXNTRGxYNEV4QzhaREoxdFpVV0pnMWxkM3dnYllzWWJYNjQ5ZFhrMmc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "日本公司都在「變聰明」？三分之一企業考慮引進AI機器人！",
+    "zhSummary": "路透社最新調查顯示，在日本，大約有三分之一的企業已經在使用或正在考慮引進人工智慧（AI）機器人，這可能代表著企業工作模式的重大轉變。",
+    "zhContent": "<p>日本的公司正在悄悄地進行一場科技變革。根據國際知名的路透社最近一份調查報告指出，現在每三間日本公司中，就有一間不是已經開始使用，就是正在認真考慮要引進「AI機器人」。這個數字聽起來是不是有點酷？它代表著日本企業界對最新的科技越來越有興趣，也可能預示著未來大家的工作方式會很不一樣喔。</p><p>你可能會好奇，這裡說的「AI機器人」到底是什麼呢？它不只是電影裡那種會走路說話的機器人，更多時候是指那些可以靠人工智慧來完成工作的系統。比如說，有些工廠會用機器手臂來自動化生產線，讓產品做得更快更好；有些辦公室則會引進智慧軟體，幫忙處理大量的資料，或是在客服中心自動回答客人的問題。這些「聰明」的工具，都能幫助公司省下時間和人力，讓工作效率大大提升。</p><p>為什麼日本企業對這項技術這麼感興趣呢？其實，日本社會面臨一個比較特別的狀況，就是人口高齡化和勞動人口減少。這意味著很多傳統的工作可能會找不到足夠的人手來做。所以，引進AI機器人變成了一個不錯的解決方案，讓公司能夠在人手不足的情況下，還能維持正常的運作，甚至做得更好。這也符合全球科技發展的趨勢，許多國家都在研究如何讓AI幫我們解決更多問題。</p><p>這份路透社的調查結果，清楚地呈現了日本企業目前對AI科技的態度和實際行動。大約三分之一的企業正在這股科技浪潮中，積極嘗試或評估AI機器人帶來的可能性。這個數字直接說明了AI機器人已經不再是遙不可及的科幻情節，而是日本商業世界正在發生的真實情況。未來，這些「聰明」的機器夥伴將會越來越常見，持續影響著企業的營運模式。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，日本企業引進「AI機器人」的主要原因是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個趨勢，你覺得日本政府或學校還可以怎麼做，來幫助年輕人為未來的「AI機器人時代」做好準備？"
+    ],
+    "enTitle": "One Third of Japanese Firms Are Getting Smart with AI Robots: Reuters Poll Reveals",
+    "enContent": {
+      "basic": "Did you know that many companies in Japan are starting to use super smart robots? A big news company called Reuters found out that about one out of every three companies in Japan is either using \"AI robots\" already, or thinking about using them soon. These aren't just robots that clean floors; they're smart helpers that use Artificial Intelligence to do tasks. This is a big change for how people work in Japan.",
+      "intermediate": "A recent survey by Reuters in Japan has shown a significant trend: approximately one-third of Japanese businesses are either currently employing or actively considering the adoption of AI robots. This indicates a growing interest within the corporate sector to integrate advanced technology. AI robots aren't always physical machines; they can also be intelligent software systems designed to automate tasks, improve efficiency, and handle large amounts of data, from factory production lines to customer service operations.",
+      "advanced": "According to a comprehensive Reuters poll, a substantial proportion – roughly one in three – of Japanese firms are either already leveraging or actively exploring the implementation of AI-powered robotics within their operations. This emerging trend underscores a profound shift in the Japanese corporate landscape towards advanced automation. The scope of \"AI robots\" encompasses a broad spectrum of technologies, ranging from sophisticated robotic arms in manufacturing to intelligent software solutions for data processing and customer engagement, all designed to enhance operational efficiency and address evolving labor market dynamics."
+    },
+    "vocabulary": [
+      {
+        "word": "AI",
+        "zh": "人工智慧：就是讓電腦或機器可以像人一樣思考、學習和解決問題的技術，就像給電腦一個聰明的腦袋。"
+      },
+      {
+        "word": "poll",
+        "zh": "調查、民意測驗：是指對很多人提出同樣的問題，然後統計大家的答案，看看大部分人怎麼想或怎麼做。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-05-20",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdGFzRFJYY0tpZkdYa3I4QzViVEs5a3Brd21WVGx1S0NlWlE0S3QweENqWjNuc0tYWWRhSklOOHVDOE50UzcxWTY1YXBYWGNZQjNCNV9GSjdOeU1ISnlwRTV3cEQzUVhhUUt0ZmcwR3VwVks2a3JWYlFzVVlMWFF3YVRlZVpRM2l2VDlVcWduVGJCQTR6aDFDc2R2b1QzbXA3T2tPbmdab0k4TW5ENWdJT0daOW96QW1BUlE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "外國媒體TAPinto：你家附近週末有什麼好玩？",
+    "zhSummary": "外國地方新聞媒體TAPinto在11月21日至23日那個週末前，發布了一份「週末好去處」清單，專門介紹當地社區裡各式各樣的活動，讓居民可以輕鬆規劃假日時光，體驗豐富的在地生活。",
+    "zhContent": "<p>一份名為「本週末我們當地好玩的事」的報導，來自外國媒體TAPinto，它就像一本週末活動指南，特別為11月21日到23日這三天量身打造。這份報導的重點，就是要把社區裡各種精彩有趣的活動，通通整理起來告訴當地居民，讓大家在週末前就能知道有哪些選擇，可以好好享受假期，不用擔心不知道要去哪裡玩。</p><p>這類報導通常會列出許多不同類型的活動，從適合全家大小參與的市集、戶外電影，到青少年可能有興趣的體育賽事或主題工作坊，都可能被收錄進去。舉例來說，它或許會推薦一個在公園舉辦的農夫市集，讓大家能買到新鮮的農產品；或者介紹一場由當地學校學生演出的音樂劇，邀請大家前去觀賞。報導內容會詳細說明每個活動的時間、地點，以及需要注意的事項，方便讀者快速掌握資訊。</p><p>TAPinto之所以會定期推出這樣的「週末好去處」清單，主要目的是為了鼓勵居民多走出家門，探索自己居住的社區。透過這些資訊，大家可以更了解當地正在發生什麼事，也能有更多機會與鄰居互動、參與公共生活。這不僅能讓社區氛圍更熱鬧，也能間接支持舉辦活動的當地商家或社團，讓整個地區充滿活力。</p><p>就11月21日到23日那個週末而言，TAPinto的這份報導確實為當地居民提供了豐富的活動選項。對於那些正在尋找週末娛樂或希望參與社區活動的人來說，這份指南提供了實用且及時的資訊。最終，這份報導成功完成了它的任務，讓對活動有興趣的居民能夠順利掌握資訊，為自己的週末生活增添色彩。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，TAPinto媒體發布的「週末好去處」報導，會包含哪些種類的活動資訊？它的主要目的是什麼？",
+      "生活與未來：你覺得如果你的社區也有類似的「週末好去處」報導，會對你和你的家人造成什麼實際影響？你會有興趣去參與嗎？",
+      "獨立思考提案：針對這類社區活動資訊的發布，你覺得除了報導之外，還可以怎麼做會更好，讓更多人能知道並參與？"
+    ],
+    "enTitle": "TAPinto Reports: Fun Things to Do in Our Local Area This Weekend",
+    "enContent": {
+      "basic": "TAPinto, a local news source, published a list of \"Fun Things to Do in Our Local Area\" for the weekend of November 21st to 23rd. This report helped residents find various activities happening in their community. It showed them places to go and things to do on their days off. This type of guide makes it easier for people to plan their weekend fun.",
+      "intermediate": "Ahead of the November 21st-23rd weekend, the foreign media outlet TAPinto released a special report titled \"Fun Things to Do in Our Local Area.\" This piece served as a comprehensive guide, compiling diverse and engaging activities available within the local community. Its primary objective was to inform residents about potential weekend entertainment and events, enabling them to make well-informed plans and fully experience their local area.",
+      "advanced": "The foreign media source, TAPinto, disseminated a local guide titled \"Fun Things to Do in Our Local Area This Weekend November 21st - 23rd.\" This publication functioned as a detailed compendium of activities, meticulously curated to highlight various community events and entertainment options available during the specified weekend. The overarching aim was to empower local residents with actionable information, thereby facilitating their weekend planning and fostering greater engagement with their immediate environment."
+    },
+    "vocabulary": [
+      {
+        "word": "Local",
+        "zh": "當地、本地：指的就是一個小範圍的地方，例如你住的城市、城鎮或村莊。就像「我們學校的當地商店」一樣，意思就是學校附近或在這個區裡的商店。"
+      },
+      {
+        "word": "Community",
+        "zh": "社區：指的是住在一起的鄰居們，他們常常會一起參加活動，互相幫忙，讓大家的生活更好。例如學校、公園、商店和居民組成的就是一個社區。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-05-20",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNWNEX3lzQnpZU3pNVUU3UGJlUjltcE5lTGk3TVNjektMUGlMODdkRkk5ek93UTRPZS1pVUtwMVFEQjlybW5ud0wtVUp2cmxmZFdPZ0ZTM0c5dmFlZjZBdy1fRGlOenl6SlNURkNJTk9xQzBJeGU4ZVZ2S2daSWtNTFJUM3NNclRPMF9ldWQ5M3lQdjFQcmUtam1INVFxRV9hYlZjc3dxRXozMWE2ODZuSWUzX2JXSjJER0NmU2JYY0dGN24wZ0cxZ0RzM2tEWWw5bFlVTlNIaC1sUXpELUpleVQzRmZzMW5Z?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "賓州初選大爆冷門？「進步派」政治人物 Chris Rabb 脫穎而出！",
+    "zhSummary": "美國賓夕法尼亞州近期舉行了一場備受矚目的民主黨初選，由被稱為「進步派」的 Chris Rabb 成功勝出，將代表民主黨參與接下來的正式大選。",
+    "zhContent": "<p>嗨！大家最近有沒有聽說在美國賓夕法尼亞州，有個叫做 Chris Rabb 的政治人物贏得了一場很重要的「初選」？這個消息是英國的《衛報》報導的。初選有點像是政黨自己舉辦的選拔賽，目的是從多個參賽者中選出一位代表，去參加之後的正式大選。Chris Rabb 這次贏得的是民主黨的初選，而且據說這場比賽大家都很關注，競爭很激烈呢！</p><p>這場初選之所以這麼「受關注」，是因為 Chris Rabb 是一位被稱為「進步派」的政治人物。在政治上，「進步派」通常指的是那些主張社會應該更公平、更環保、對弱勢族群更友善的意見。他這次能夠在眾多候選人中脫穎而出，代表著許多選民對他所提出的這些理念和改變很有期待。</p><p>雖然新聞標題沒有詳細說明他的對手是誰，或具體的投票數字，但「密切關注」這四個字，就說明了這場選舉結果可能會對民主黨在賓州的未來方向產生影響。Chris Rabb 在贏得初選後，說了一句很振奮人心的話：「我們是不可戰勝的。」這句話表達了他和支持者對自己信念的堅定，以及對未來大選的信心。</p><p>總結來說，這次的賓州民主黨初選結果，就是 Chris Rabb 順利贏得了勝利。這意味著他將代表民主黨，參加接下來與其他政黨候選人的正式大選。這場勝利不僅是他個人的成功，也顯示出「進步派」的政治主張在當地得到了不少支持。報導就到這裡，沒有更多了。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Progressive Chris Rabb Wins Closely Watched Pennsylvania Democratic Primary",
+    "enContent": {
+      "basic": "Chris Rabb, a progressive politician, won the Democratic primary election in Pennsylvania. This means he will represent the Democratic Party in the main election later.",
+      "intermediate": "Progressive candidate Chris Rabb secured a victory in the highly anticipated Democratic primary election held in Pennsylvania, as reported by The Guardian. His win means he will advance to the general election.",
+      "advanced": "The Guardian reports that progressive candidate Chris Rabb has triumphed in a closely observed Democratic primary in Pennsylvania, declaring, ‘We are indomitable,’ signaling a notable win for the progressive movement within the party. This victory positions him as the Democratic nominee for the upcoming general election."
+    },
+    "vocabulary": [
+      {
+        "word": "primary",
+        "zh": "初選 (chūxuǎn) - 指的是一個政黨內部舉辦的選舉，目的是從黨內選出一位代表，去參加之後的正式大選。"
+      },
+      {
+        "word": "progressive",
+        "zh": "進步派 (jìnbùpài) - 在政治上，通常指的是主張社會應更公平、更環保，並支持對弱勢族群提供更多幫助的一群人。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-20",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXFlcXl3V2RBcG1VNHV3UC03VE1qbXBkUDhOOGZvNlMwVVB4anQwT1BMakprcWJqMm1MQVVydTN3ZUJmY0hacy15VEpPMUN4c200MUswNnNBZTZKX20za0dHZmZhM2NQWWprbE0wRllMcU1FQS1UVWFUaHdqS2ZuUjc3Ti1fNUIzamJQcy1MMDhoUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "揭秘南美洲原住民祖先：來自第三波的神秘旅程",
+    "zhSummary": "一項最新研究發現，南美洲原住民族群的起源比想像中更複雜，除了已知的兩波移民外，還有「第三波」祖先的基因影響，讓他們的多元文化與基因圖譜更添豐富色彩。",
+    "zhContent": "<p>你曾好奇南美洲的原住民族群是怎麼來的嗎？最近，科學家們透過基因研究，揭開了一個令人驚訝的秘密。他們發現，南美洲原住民族群的祖先來源，遠比我們過去所知的還要複雜、多元！研究指出，除了先前普遍認為的兩波移民潮之外，還有一群來自「第三波」的神秘祖先，在非常久遠以前就抵達了南美洲，並對當地族群的形成產生了關鍵影響。</p><p>這項突破性的研究可不是隨便猜測來的，它結合了基因學、考古學和語言學等多個領域的專業知識。研究團隊分析了數百個南美洲原住民社群的基因樣本，仔細比對了不同族群之間的DNA，就像偵探仔細尋找線索一樣。他們發現，有一些特定族群的基因組合，無法單純用前兩波從亞洲經白令海峽遷徙而來的祖先來解釋，這才讓第三波移民的說法浮出水面。</p><p>過去的主流理論認為，美洲大陸的原住民族群主要來自兩波從亞洲大陸橫越白令海峽的遷徙。然而，這次的研究卻揭示了另一種可能性：還有一群可能是來自與「奧克蘭人」（Australasian-related groups）相關的古老族群，他們早在更早的時期就已經抵達了南美洲。這群人不僅帶來了獨特的基因標記，更與當地較早的居民融合，使得南美洲原住民族群的基因圖譜變得更加豐富且複雜，這也可能解釋了南美洲各地原住民族群在文化和語言上巨大的差異。</p><p>這項重磅研究成果發表在國際知名的科學期刊上，它不只重新描繪了南美洲原住民族群的歷史遷徙路線，也讓我們對人類如何散佈到全世界有了更全面、更精確的理解。它證明了南美洲原住民的祖先來源遠比以前認為的更為複雜和多樣，他們的歷史故事並不是單一、線性的，而是由多條交織的線索所構成。未來，科學家們將繼續深入探究這些不同移民潮的具體時間點和詳細路徑，努力還原更完整的史前拼圖。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，科學家們是透過哪些方式發現南美洲原住民祖先有「第三波」的呢？",
+      "生活與未來：你覺得這個發現對於南美洲原住民族群來說，會有哪些特別的意義或感受？",
+      "獨立思考提案：如果未來有新的科技或方法，你覺得還可以怎麼研究人類的遷徙歷史，來發現更多秘密？"
+    ],
+    "enTitle": "South American Indigenous peoples are diverse and descend from a third wave of migration",
+    "enContent": {
+      "basic": "New research suggests that the Indigenous peoples of South America have a more complex history than previously thought. Scientists have found evidence of a 'third wave' of migration that contributed to their genetic makeup, in addition to the two waves already known. This discovery helps us understand the diverse origins of these communities.",
+      "intermediate": "A recent study, combining genetic, archaeological, and linguistic data, has revealed that South American Indigenous populations are more genetically diverse than previously understood. Researchers identified genetic markers indicating a 'third wave' of migration, distinct from the two main groups that crossed the Bering Strait from Asia. This additional ancestral lineage contributed significantly to the rich genetic tapestry of these peoples and could explain some of their cultural and linguistic variations.",
+      "advanced": "Groundbreaking genomic studies, published by Agência FAPESP, indicate that the ancestral history of South American Indigenous peoples is far more intricate than once believed. Beyond the widely accepted two major migratory waves that traversed the Bering Strait, evidence points to a 'third wave' of migration. This research suggests the presence of an ancient ancestral lineage, possibly related to Australasian groups, which intermingled with earlier settlers, enriching the genetic diversity and explaining the vast cultural and linguistic variations observed across the continent. This finding significantly reconfigures our understanding of human dispersal into the Americas."
+    },
+    "vocabulary": [
+      {
+        "word": "migration",
+        "zh": "遷徙（qiān xǐ）：從一個地方移動到另一個地方，通常是指大群人或動物為了尋找更好的生活環境、食物或躲避危險而進行的長途移動。"
+      },
+      {
+        "word": "diverse",
+        "zh": "多元（duō yuán）：指事物有很多不同的種類、形式或特點，不是單一的，而是由多種元素組成的。就像一個班級裡有來自不同背景的同學，這就是多元。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-20",
+    "sourceName": "Agência FAPESP",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTQ2T05xbDdkWnNHMExRa1pGSld6UnF5a1VLOWdTa2tsZnQwOE85c0RGUGVULWM2ZXpaU0RDckoycU9pWnd4Z0V5ZG5lWjVOamhDSFBsVGszcmc4NUxMZXoyZG5pMlNmVmw3ZTVaelppcGY5dlA1bXl4REp5ZFlYYzZJeU0zQ05YM1lhUHJsZ3gxcFJjbG0zMFhacnA2TUR4M1N5VkRQRnNVZmFJa200MzVtUkxTbFdjWTdvLQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "大消息！英國與海灣國家簽訂「歷史性」貿易大協議",
+    "zhSummary": "英國最近宣布與中東的海灣合作委員會（GCC）達成一項意義重大的貿易協議，這是G7國家中首次有國家與該區域組織簽署這類協定，預計將大幅促進雙邊貿易與經濟發展。",
+    "zhContent": "<p>嘿，同學們，有個超大消息要告訴你們！英國最近宣布和中東的幾個重要國家，也就是我們統稱的「海灣國家」，簽訂了一個超級厲害的「歷史性」貿易大協議。你們知道嗎？這些海灣國家包括了像是沙烏地阿拉伯、阿拉伯聯合大公國、卡達等等。更酷的是，英國是全球七個工業大國（G7）中，第一個和這個區域的國家集團達成這麼重要的貿易協定喔！</p><p>那麼，什麼是「貿易協議」呢？簡單來說，就是兩個國家或幾個國家之間，為了讓彼此買賣商品和服務更方便、更便宜，而簽訂的約定。這份新的協議預計能讓英國每年增加數十億英鎊的貿易額。它涵蓋了非常廣泛的領域，從金融、科技諮詢這類「服務業」，到網路買賣、線上服務等「數位貿易」，甚至連大家生活中不可或缺的「能源」（像是石油、天然氣）都包含在內。這表示未來英國的公司可以更容易地把他們的產品和技術賣到海灣國家，而海灣國家也能從英國買到他們需要的東西。</p><p>英國政府對這份協議可是寄予厚望呢！他們表示，這個協議有助於提振英國的經濟，創造更多的工作機會，並且讓消費者有更多商品和服務可以選擇。對於海灣國家來說，他們也希望透過這樣的合作，讓自己的經濟發展更多元化，不再只依賴石油收入，轉而發展其他產業。這份協議的達成，是經過雙方好幾輪的努力談判才敲定的，大家都展現了很強的合作意願。</p><p>這份協議的簽署，讓英國成為G7國家中，第一個和海灣合作委員會（GCC）這個區域組織簽署重大貿易協議的國家。這代表著英國未來與這些海灣國家的貿易關係將會更加緊密，也為彼此的經濟發展開啟了新的合作篇章。這項「歷史性」的協議，將在接下來的日子裡逐步實施，影響著雙方在商品和服務上的往來。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「海灣國家」指的是哪些國家？而「G7」又代表什麼？",
+      "生活與未來：你覺得這個貿易協議對於英國和海灣國家的人民，可能帶來哪些實際的影響？",
+      "獨立思考提案：針對國家之間簽訂貿易協議，你覺得還有哪些潛在的好處或需要注意的地方？"
+    ],
+    "enTitle": "UK Announces 'Historic' Trade Deal with Gulf States in G7 First",
+    "enContent": {
+      "basic": "Big news! The UK has signed a special trade deal with countries in the Middle East, called the 'Gulf states'. These include Saudi Arabia and the UAE. This is a big deal because the UK is the first G7 country to sign such an agreement with this group of nations. A trade deal helps countries buy and sell things like services and energy from each other more easily and cheaply. This new deal could add billions to the UK's economy and create jobs. The Gulf states also want to grow their economies beyond just oil. This 'historic' deal means the UK and Gulf states will trade more in the future.",
+      "intermediate": "The United Kingdom has announced a landmark 'historic' trade deal with the Gulf Cooperation Council (GCC) member states, including Saudi Arabia, UAE, and Qatar. This agreement marks a significant first for a G7 nation to secure such a comprehensive trade pact with the GCC bloc. The deal is projected to boost the UK's annual trade by billions of pounds, encompassing a wide array of sectors such as services (e.g., finance, tech consulting), digital trade, and energy. This facilitates easier market access for British businesses into Gulf markets and vice-versa, aiming to foster economic growth and create employment opportunities in the UK. For the Gulf states, the partnership supports their strategic goals of economic diversification away from oil dependency. The agreement, forged after multiple rounds of negotiations, is viewed by the UK government as a pivotal step in strengthening its global trade presence and deepening economic ties with the Middle East.",
+      "advanced": "The United Kingdom has announced a pivotal, 'historic' free trade agreement (FTA) with the Gulf Cooperation Council (GCC) bloc, comprising Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, and Oman. This landmark accord positions the UK as the inaugural G7 nation to finalize such a comprehensive trade deal with the GCC, signaling a strategic reorientation of its post-Brexit global trade agenda. The agreement is poised to substantially augment bilateral trade volumes, with projections indicating an uplift of billions of pounds annually for the UK economy. Its scope is expansive, encompassing critical sectors such as financial and professional services, burgeoning digital trade, and vital energy cooperation. This framework is designed to dismantle trade barriers, streamline regulatory processes, and foster investment flows, thereby creating significant market access opportunities for British enterprises within the rapidly expanding Gulf economies. Concurrently, the GCC nations view the FTA as instrumental in accelerating their economic diversification efforts, reducing reliance on hydrocarbon revenues, and integrating further into the global economy. The culmination of intensive negotiations underscores a mutual commitment to deepening economic engagement and establishing a resilient, forward-looking trade partnership."
+    },
+    "vocabulary": [
+      {
+        "word": "Historic",
+        "zh": "歷史性的 — 指的是某件事情非常重要，會被記在歷史上，對未來有重大影響。"
+      },
+      {
+        "word": "Trade deal",
+        "zh": "貿易協議 — 就像國家之間簽訂的「買賣契約」，約定好彼此怎麼交換商品和服務，讓交易更順暢、可能還會降低關稅，讓東西變便宜。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-20",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV2hUcG0xMFRRUERkUHZPbThyWmJlZzc2cmczUG9MMXpiS1prTGlKUEE3NnJaRmVvRjdNQktpSU1pRWZ0WlZTcVZsYzgzYWZ2UFRJWWlyNHFRejlFMWo3OG9PVlZxaWgwYXFyZFlLcGxTVFk3MXUxTm9VYXFKUmd4ZkNmOTBJY3NpbW9KMEE2c9IBlAFBVV95cUxNbjdYSHdjVzJmMEI2OVQ3Y2lLdUFOYTJyQ1RkOUhrWUwzNFNNUklNa2VEanMtZWVONDV2NW5Ya3dQLXljal9EdVh0Y1pzQlJVb01qbWI2WTJUSnk4OUdtLUdVUVgwZUczMXZad2h2M1RGMjgtbng1Z0xpNkczX3M3YmVod1hIWnM4bWJGVEVYTDZKRkJq?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非電力巨頭Eskom：核能擴建計畫，初步鎖定世界銀行等金主",
+    "zhSummary": "南非國家電力公司Eskom正與世界銀行及其他資金提供者進行初期洽談，希望能為其核能發電設施的擴建計畫籌措資金。",
+    "zhContent": "<p>南非的國家電力公司Eskom最近有個重要消息，他們已經開始跟世界銀行以及其他可能的投資方進行初步討論。討論的重點是要擴建核能發電設施。這個消息是由CNBC Africa報導出來的，顯示南非未來在電力供應上可能有新的規劃。</p><p>Eskom是南非最大的電力供應商，長期以來，南非的電力供應一直不太穩定，常常因為發電廠老舊或故障而停電，這讓當地居民和企業都相當頭痛。為了改善這種狀況，並確保國家有足夠的電力來支持發展，Eskom決定把目光投向核能。核能發電雖然建造起來成本高，但一旦運作就能提供穩定且大量的電力。</p><p>這些初步的談判，主要是希望能找到足夠的資金來支持這麼大規模的核能擴建計畫。畢竟，建造核電廠需要大規模的投資。世界銀行通常會提供開發中國家發展基礎建設的資金，而「其他金主們」可能包含私人投資公司或是其他國家的金融機構。Eskom需要這些機構的幫助，才能讓這個計畫順利啟動。</p><p>不過，目前這些對話都還處於非常初期的階段，只是「初步討論」，所以還沒有任何確定的結果或具體的合約簽署。Eskom與這些潛在的資金提供者，都還需要進一步評估計畫的可行性、資金需求以及可能面臨的各種挑戰。這項大規模的電力發展計畫，將是南非接下來會持續關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa's Eskom in Early Talks with World Bank for Nuclear Expansion",
+    "enContent": {
+      "basic": "South Africa's main power company, Eskom, is talking with the World Bank and other groups to get money for building more nuclear power plants. This news comes from CNBC Africa. Eskom wants to make sure South Africa has enough electricity for everyone. Nuclear power can give a lot of steady electricity, but it costs a lot to build. These talks are just starting, so nothing is final yet.",
+      "intermediate": "South Africa’s state-owned power utility, Eskom, has begun preliminary discussions with the World Bank and other potential financiers regarding the expansion of its nuclear power facilities. Reported by CNBC Africa, this move signals a significant planning effort for South Africa's future electricity supply. Eskom aims to secure stable and ample power, especially given the country's history of unreliable electricity. While nuclear power offers significant capacity, it requires substantial financial investment, which is why Eskom is seeking support from large financial institutions. These discussions are in their early stages, with no definitive outcomes or agreements finalized.",
+      "advanced": "Eskom, South Africa’s national electricity utility, has initiated early-stage negotiations with the World Bank and various other prospective funders to secure financing for the planned expansion of its nuclear energy infrastructure. As reported by CNBC Africa, this development underscores South Africa’s strategic shift towards enhancing its long-term power generation capabilities. The utility, which has historically faced challenges in maintaining a consistent and reliable power supply, views nuclear expansion as a crucial step towards ensuring energy security and supporting national development. While nuclear energy promises stable and high-volume output, its capital-intensive nature necessitates substantial external funding. Currently, these discussions remain preliminary, focusing on feasibility assessments, financial requirements, and potential risks, with no definitive agreements reached."
+    },
+    "vocabulary": [
+      {
+        "word": "Expansion",
+        "zh": "擴建：指的是把現有的東西蓋得更大、讓規模變多，就像把房子旁邊再多蓋一間房間一樣。"
+      },
+      {
+        "word": "Funders",
+        "zh": "金主／投資方：指那些願意提供資金、支持某個計畫或事業的人或機構。他們就像是提供錢讓事情可以順利進行的大幫手。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-20",
+    "sourceName": "CNBC Africa",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE1QRzhPeTNCVFc1VHZKanE1d0RDbXMtbUEtcXgwUXRIdXJhWUFOa281NkxhQ3NZUXJVcTI5X0NjRk83MEdBUnhTcGJwQTdIb3lMQngyd0lVRkZqcTZ2cDZPajFZUWpXb3VMZ19KRVV6TE5nSWlzY3RwNjZVVDl4dUYyUjdEclA5ZmQ3VmM3a0dxN1VsZjVvTUlxd1ZfSHAwT3huZjIzNjktNmFoZUtlWURFZlQxeUszYnNV?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "獨家揭露：巴基斯坦戰機、數千士兵馳援沙烏地！中東『伊朗戰爭』下的軍事秘密行動",
+    "zhSummary": "路透社獨家報導揭露，在與伊朗有關的衝突期間，巴基斯坦向沙烏地阿拉伯緊急派遣了戰鬥機中隊與數千名士兵。這項重大的軍事部署，反映出當時中東地區因『伊朗戰爭』而升高的緊張氣氛。",
+    "zhContent": "<p>最近有一則重磅新聞，根據路透社的獨家報導，巴基斯坦在一次與伊朗有關的「戰爭」期間，向沙烏地阿拉伯派出了多架戰鬥機和數千名士兵。這個消息震驚了國際社會，也讓大家再次關注中東地區複雜且緊張的局勢。這不是一般的軍事演習，而是針對一場明確的衝突所做的重大部署。</p><p>報導指出，巴基斯坦具體派出了一個完整的「戰鬥機中隊」，也就是由好幾架噴射戰鬥機組成的編隊，同時還有數千名經過專業訓練的地面部隊。這些重要的軍事力量被調派到了沙烏地阿拉伯境內的幾個戰略地點。這次行動的目的是為了支援沙烏地阿拉伯，協助他們應對當時可能與伊朗爆發的軍事衝突，展現了兩國之間堅實的軍事合作。</p><p>這次大規模部署發生在一個敏感的時期。當時中東地區正因為伊朗與周邊國家之間的關係而高度緊張，空氣中瀰漫著濃濃的火藥味。儘管路透社的報導標題直接提及「伊朗戰爭」，但新聞本身並未詳細描述這場戰爭的具體來龍去脈或規模。不過，外界普遍認為，這是一種針對該地區潛在軍事威脅所做出的預防性防禦姿態。巴基斯坦與沙烏地阿拉伯長期以來保持著密切且友好的關係，雙方在軍事訓練和防禦合作上一直都有頻繁的交流。</p><p>路透社的這項獨家報導，清晰地揭示了中東地區錯綜複雜的地緣政治關係，以及一些國家在面臨特定衝突威脅時，可能選擇採取的大規模軍事行動。目前，這些被部署的部隊和戰機的具體任務、部署情況，以及後續的任何發展，仍然是國際社會，特別是該區域各國，持續高度關注的焦點。這則新聞僅客觀地呈現了巴基斯坦採取這項行動的事實，並未對其可能帶來的影響或未來區域局勢的變化做出任何預測或評論。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Exclusive: Pakistan Deploys Jets, Troops to Saudi Arabia During Iran War",
+    "enContent": {
+      "basic": "",
+      "intermediate": "",
+      "advanced": ""
+    },
+    "vocabulary": [
+      {
+        "word": "deploy",
+        "zh": "「部署」；想像一下，當國家要把軍隊、飛機或船隻，從一個地方移動到另一個重要的地方，準備執行任務時，就是「部署」。就像你準備考試把課本、筆記都攤開在桌上一樣，為了某個目的而做好準備。"
+      },
+      {
+        "word": "squadron",
+        "zh": "「中隊」；這是一種軍隊裡的單位，特別常用在空軍或海軍。通常指一群戰機或艦艇組成的團隊，它們會一起行動執行任務，就像一群同學分組完成一個專案一樣。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-20",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXQ0ZGZRZEVoWXNYN1ExempBZ1Ata245ellOQ0JVNTdnNTRyc2oxZWUzakNEZWllaEs1T0F2cktHVUVqUGJWeW80LU5LT3g1LVJZY3RaMDBsNnpyX09sRXRQOENWZktYT0dCRC02R1o2LTBxV2dEcldNT1V1TXpRRjNQcWFHSkE2Y0tRX0V4NDBfdVpoXzRvSXlrdVNVMk9IeDVTaVRRSDhLZFl2Q3dGa0VfVGlMOTk1VjdHd3lzUzd2OVBwOVQ0VnlB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "亞洲貿易新護甲：AI技術正在讓它變超級強！",
+    "zhSummary": "根據專業顧問公司的觀察，亞洲各國出口的人工智慧（AI）技術，正在讓整個亞洲的貿易變得更加穩固和有競爭力，就像幫貿易穿上了一層堅固的盔甲。",
+    "zhContent": "<p>你可能想不到，我們常常聽到的「人工智慧」，現在不只出現在手機或電腦裡，它還正在改變亞洲國家之間的買賣方式！根據一份來自專業顧問公司的最新報告指出，亞洲各國現在出口的人工智慧產品和服務，正在讓整個地區的貿易活動變得更加強大，就像為貿易市場披上了一件保護的盔甲。</p><p>這份報告提到，亞洲國家積極地開發並將人工智慧相關的技術或產品賣到國外。這些賣出去的東西可能包含各種智慧裝置、自動化系統、或是能處理大量數據的AI軟體等。當一個國家成功地將這些高科技賣給其他國家，不只賺進外匯，更重要的是，這也同時提升了它們在全球科技和經濟舞台上的重要性與競爭力。</p><p>顧問們觀察到，這種趨勢讓亞洲地區的貿易關係變得更緊密、更有韌性。因為當各國在AI技術上互相合作或交易時，彼此的經濟連結就會變得更深。這就像是大家都在努力為自己的貿易大船裝上最新、最堅固的引擎和船身，讓它在全球市場的風浪中，能夠航行得更穩、更快。</p><p>所以，簡而言之，人工智慧的出口正在成為亞洲貿易的「新武器」，它不僅讓產品和服務更有吸引力，也讓整個亞洲的貿易市場變得更加牢固，能夠更好地應對全球經濟的各種挑戰。這項發現表明，AI已經不只是一個科技趨勢，更是影響國際貿易格局的重要因素。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，AI如何讓亞洲的貿易「變超級強」？具體做了什麼？",
+      "生活與未來：你覺得這個趨勢會對我們生活中的哪些產品或服務產生實際影響？",
+      "獨立思考提案：如果台灣也想在AI出口上「讓貿易穿上盔甲」，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "AI Exports Fortify Asian Trade, Consultants Report",
+    "enContent": {
+      "basic": "Experts say that selling AI technology is making trade in Asia stronger. Countries in Asia are exporting things like smart devices and automated systems, which helps their economies. This makes their trade more robust, like putting armor on it.",
+      "intermediate": "According to consulting firms, the export of Artificial Intelligence (AI) technologies is significantly strengthening trade across Asia. This trend involves Asian nations selling smart devices, automation systems, and AI software, which not only generates revenue but also enhances their global economic standing and competitiveness. This makes the region's trade more resilient.",
+      "advanced": "Consultancy reports indicate that the robust export of Artificial Intelligence (AI) technologies is strategically 'armoring' trade dynamics throughout Asia. This phenomenon highlights how Asian nations are leveraging the sale of sophisticated AI-driven products and services—including smart devices, automation systems, and advanced AI software—to fortify their economic positions, bolster competitiveness, and create more resilient trade relationships within the global market landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "exports",
+        "zh": "出口：一個國家把自己生產的產品或提供的服務，賣到其他國家去。想像一下，就像你把自己的畫作寄到國外賣給別人一樣。"
+      },
+      {
+        "word": "consultants",
+        "zh": "顧問：一些在某個領域有特別專業知識的人，他們會給公司或組織提供建議和幫助，讓他們做出更好的決定。就像一個很會讀書的同學，幫你找出更好的學習方法一樣。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-20",
+    "sourceName": "Taipei Times",
+    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByNUJhY1hxWkt5MHd5eEtuNmhnYmFhaUFZbG5PdHY1ZzlfWUZHcGdzaklwckFvN3ZxWE15Y1VpbGJNV1lnZXlsVXZHZVJwcTV0NHAxQ0wxX1E5VE9jYnVvVWo2NERsMzV1anUwSkgtT0hvWFo4YUE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "泰國旅遊新規定：免簽證停留時間要變短囉！",
+    "zhSummary": "泰國政府最近宣布，將會縮短外國遊客免簽證停留的時間。這項改變主要是為了管理旅遊秩序，並讓入境規定更明確。",
+    "zhContent": "<p>喜歡去泰國玩的朋友們要注意囉！最近從國際媒體傳出一個消息，泰國政府準備要調整他們對外國觀光客的「免簽證」停留規定。簡單來說，如果你來自的國家本來不需要辦簽證就能去泰國玩一陣子，以後可能就不能待那麼久了。這個消息讓許多愛去泰國度假或體驗當地文化的人都開始關注，想知道具體的改變是什麼。</p><p>據了解，這項新的規定主要是針對那些透過免簽證方式入境的旅客。過去，有些國家的遊客可以免簽證在泰國停留長達30天，甚至有些可以更久。但未來，這個期限可能會被縮短。這個調整據說是因為泰國政府發現，有些外國人會濫用免簽證的便利，頻繁地進出泰國，只為了延長他們的停留時間，這種行為被稱為「簽證跑腿」（visa runs），讓政府在管理上遇到一些挑戰。</p><p>泰國當局表示，他們這麼做並不是要阻止大家去泰國玩，而是希望讓旅遊秩序更健全。他們認為，縮短免簽證停留時間可以減少那些並非真心來觀光，而是想在泰國長期居留或甚至非法工作的人。同時，這也能鼓勵旅客在規劃行程時，更仔細地考慮實際的停留需求，如果真的需要更長時間，就應該申請相應的簽證，而不是鑽漏洞。</p><p>目前這項政策的具體細節和實施日期還在陸續公布中，但可以確定的是，未來想免簽證去泰國玩的遊客，可能就需要重新檢視自己的旅遊計畫了。這項改變預計會對一些習慣長期背包旅行，或是喜歡待在泰國數週甚至數月的旅客產生影響。所以，最近如果計畫要去泰國玩，最好先上網查詢最新的入境規定，才不會影響到你的旅程喔！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Thailand to Shorten Tourist Visa-Free Stays",
+    "enContent": {
+      "basic": "Thailand plans to make changes to its visa-free stay rules for tourists. This means visitors from certain countries might only be allowed to stay for a shorter time without a visa. The government wants to better manage tourism and reduce problems like people overstaying.",
+      "intermediate": "Thailand's government is set to shorten the duration of visa-free stays for tourists, a move announced by officials to address issues related to frequent border crossings and extended, unauthorized stays. While specific details are still emerging, the policy aims to tighten immigration controls and encourage visitors to apply for appropriate visas if they plan for longer visits, rather than relying on repeated visa runs.",
+      "advanced": "Citing concerns over the misuse of visa-free entry privileges, the Thai government is preparing to implement new regulations that will significantly reduce the permissible duration of visa-free stays for international tourists. This policy adjustment, reported by Al Jazeera, seeks to curb practices such as 'visa runs' and deter individuals from overstaying their allowed period or engaging in illicit employment. The measure reflects a strategic shift towards more stringent immigration management, prompting travelers to carefully re-evaluate their itinerary and visa requirements for future visits to Thailand."
+    },
+    "vocabulary": [
+      {
+        "word": "Visa-free",
+        "zh": "免簽證 (miǎn qiān zhèng)：意思就是你到一個國家玩，不需要像以前一樣，先去他們的辦事處申請「簽證」這張紙，可以直接買機票、帶著護照就過去。通常這種方便的規定，會限制你停留的時間長度喔！"
+      },
+      {
+        "word": "Overstay",
+        "zh": "逾期停留 (yú qī tíng liú)：指的是你待在一個國家，超過了他們規定的時間。例如，泰國讓你免簽證待30天，結果你待了35天，多出來的5天就是「逾期停留」，這可是會被罰款或遇到其他麻煩的喔！"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-20",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHpjdnNKRDBrczZFU1FMZHJkX3FYYzF2LV9rdXVObXBEanhXWXQwLS1DYmRTMnlySExjVlQycUhKbUdiZGxQTi0xY3pKT015VllRS2tDd1IyRFFTd1UzRFhXZllGUTFtSGVTakJ4N19oM0NnOFNhZmttam1ZaWZsbGFJVWRpbVRsZVHSAY8BQVVfeXFMTTZ0VjhuMW9OU24tSXl3MjFDSW5KbUNtS3dsQjZCWDE4d2RReHdxc1YwV2x0LUFVenFZaHY4MEpzNEtSRU9vZDVyNjNaX3VXNGxXVENUcFRWMFRWNWZyWkRaRVhpdUVJZmx6a25LLVNnNl90M1hGbXp2cm1jcmZZTk1Xdk5WcUg2YnVpVTdkUEE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "椰子樹大作戰：紐西蘭昆蟲學家前往太平洋小島救援！",
+    "zhSummary": "紐西蘭的昆蟲學家正在新喀里多尼亞帶領一項任務，目標是消滅當地危害椰子樹的椰子犀金龜，保護當地生態與經濟。",
+    "zhContent": "<p>嘿，大家注意囉！在遙遠的太平洋島嶼新喀里多尼亞，一場對抗小小昆蟲的大作戰正在悄悄展開。這次的主角是一種叫做「椰子犀金龜」的蟲蟲，牠們正在當地大肆破壞，讓椰子樹面臨嚴重的威脅。為了拯救這些寶貴的椰子樹，一位來自紐西蘭的昆蟲學家特別出動，帶領著團隊要來消滅這些害蟲！</p><p>這種被稱為「椰子犀金龜」的昆蟲可不是什麼可愛的小蟲子。牠們喜歡鑽進椰子樹的嫩芽裡，啃食樹汁，讓樹葉無法正常生長，嚴重的話甚至會直接害死整棵椰子樹。在太平洋地區，椰子樹不僅是熱帶風情的象徵，更是當地居民重要的食物來源和經濟收入。因此，當椰子犀金龜大量出現時，不僅會影響椰子的收成，更對當地居民的生活帶來巨大的衝擊，變成一個非常棘手的問題。</p><p>為了應對這個「椰子樹殺手」，紐西蘭派出了一位經驗豐富的「昆蟲學家」。這位專家對各種昆蟲的習性、生活史和弱點都瞭若指掌，就像一位昆蟲界的偵探。他將在新喀里多尼亞帶領整個團隊，運用科學的方法來研究椰子犀金龜，找出最有效率的防治策略。這可能包括尋找這些金龜的天敵、開發特殊的陷阱，或是利用生物科技來干擾牠們的繁殖，目的就是要徹底控制住這場蟲害的蔓延。</p><p>這項任務非常重要，關係到新喀里多尼亞的生態環境和當地居民的生計。紐西蘭昆蟲學家帶領的團隊正積極地在新喀里多尼亞展開工作，希望能夠有效率地減少椰子犀金龜的數量，最終讓這些害蟲不再威脅到健康的椰子樹林。這是一場需要時間和專業知識的長期抗戰，但隨著專家的加入，當地居民對於擊退這群不速之客，讓椰子樹重新枝繁葉茂，都抱持著很大的希望。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，椰子犀金龜對新喀里多尼亞的居民造成了什麼樣的影響？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "New Zealand Entomologist Leads Mission Against Coconut Rhinoceros Beetle in New Caledonia",
+    "enContent": {
+      "basic": "A scientist from New Zealand is helping New Caledonia fight a bug called the coconut rhinoceros beetle. This beetle eats coconut trees and makes them sick. It's a big problem for the island, so the scientist is leading a team to stop them.",
+      "intermediate": "In New Caledonia, a serious problem has emerged with the coconut rhinoceros beetle, which is devastating local coconut palm trees. An entomologist from New Zealand is now spearheading a mission to combat these pests. The beetle's activities threaten the island's ecosystem and the livelihoods of its residents, prompting this expert-led intervention to find effective control methods.",
+      "advanced": "A New Zealand entomologist has been deployed to New Caledonia to lead a critical mission against the invasive coconut rhinoceros beetle. This destructive pest poses a significant threat to the region's coconut palm industry and ecological balance by boring into the trees' growing points, often resulting in their death. The expert will guide scientific efforts to develop and implement effective eradication and control strategies, aiming to safeguard the vital coconut resources for the island's community and economy."
+    },
+    "vocabulary": [
+      {
+        "word": "entomologist",
+        "zh": "昆蟲學家：專門研究昆蟲的科學家，他們會研究昆蟲的習性、生活方式、種類等等，就像昆蟲界的偵探一樣。"
+      },
+      {
+        "word": "pest",
+        "zh": "害蟲：指那些會對農作物、動物、人類造成傷害或帶來困擾的昆蟲或其他小動物。例如文章中的椰子犀金龜就是一種危害椰子樹的害蟲。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-20",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMi1LQnRHbmxaVWJHNzRYU2pteFM3eXVIZDFjU1VVX0xnZThfTmxGM2ZVOUU0SGFkTi05cGpCdGZ1d3pnTzBtSnNZTHBMSnFZcU9Xb1ZkRGdDNGJKSkpnRWIxSWhsb09LUkNFVkhqdFZjWElhSUtHaUpkNm4yeW1lc2ZISmVRNkFkVzkzcnVkczR3N0hkVldiYlVKbGJ0WXVrb3pyQkV0Q01HYklHc0owNjNyXzBYUkkyVElJTnJUZG1oMy1Hd3NzOTNSMmM1c2xnOEFQOXRYREdQdEFOUUE?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "醫學界的超級腦力激盪：台美韓學者齊聚，探索免疫治療新可能！",
     "zhSummary": "最近，台灣長庚醫院舉辦了一場國際級的醫學盛會，匯集了來自台灣、美國和韓國的頂尖科學家。他們聚在一起，共同討論一個叫做「免疫轉譯醫學」的重要話題，希望能找出更多利用我們身體自身防禦系統來對抗疾病的新方法和新趨勢。",
     "zhContent": "<p>你聽過「免疫力」嗎？就是我們身體對抗病菌的超強防禦系統！最近在台灣的長庚醫院，就有一場非常厲害的國際學術會議。這場會議可不是一般的小聚會，而是邀請到了來自台灣、美國和韓國的許多醫學界超級大師，也就是最頂尖的學者專家們！他們這次聚在一起，是為了要討論一個聽起來有點深奧，但卻跟我們的健康息息相關的大主題：「免疫轉譯醫學」的新發展和新趨勢。</p><p>這次的國際研討會，主要是讓這些來自不同國家的頂尖學者，可以互相分享他們最新的研究發現和臨床經驗。想像一下，就像一群超級英雄聯盟，每個人都帶著自己的最新武器和情報來交流。他們特別關注的是如何把實驗室裡那些關於免疫系統的最新知識和技術，更快、更有效地應用到病人的治療上，希望能找到更好的方法來診斷、預防或治療像癌症、自體免疫疾病等各種棘手的病症，讓這些新發現能更快地幫助到真正有需要的人。</p><p>為什麼「免疫轉譯醫學」會這麼重要呢？簡單來說，過去我們對很多疾病的治療，可能主要依賴藥物或手術。但現在科學家發現，如果能好好運用我們身體本身的免疫系統，讓它變得更強大、更聰明，去攻擊那些不好的細胞，那將會是治療疾病的一大突破。這次台美韓三方的學者專家會面，正是希望透過國際合作和知識交流，加速這些最新研究成果從實驗室走到病床邊的過程，讓醫學進步能更快地造福人群。</p><p>這場學術會議的舉辦，讓各國的專家有機會互相學習、激盪出更多新的想法和方向。會議中，大家分享了最新的研究數據、臨床試驗結果，也討論了未來免疫治療的潛力。這樣的交流不僅促進了國際間的學術合作，也為「免疫轉譯醫學」的發展注入了新的活力。這也代表著，未來我們或許能看到更多運用身體自身力量來對抗疾病的創新治療方法，為病患帶來更多希望。</p>",
@@ -11715,462 +12170,6 @@
     "date": "2026-04-20",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlg1cElKTmcwRElwY0VTQjdicGxWS0M0SHFHazJwVzZRQXBtMlh5RjlEN0x6dm1Qcm5nTU40VHRqSnM0RWQzYmVoS2NZbGJPN2FNTUs5X3lTcGZNY2dxekdEd19LY2d3a25FOWhNT3prOHMyYWlsQW43TUFQOVljSGluZ3RudFRVQUh6Rl9fZk5OWXpRSlBhM0lpbnNSUmo5TGkwZnE4LVBralk3dmFsa1ZTMGR0dWpGLTczVDZsY1ZLVEllaVN3STlHc2c?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "FBI警告：美國境內出現「假公安」詐騙，小心別上當！",
-    "zhSummary": "美國聯邦調查局（FBI）最近發出嚴正警告，指出在美國境內，假冒中國公安的詐騙案件數量日益增加。這些騙子會利用電話或訊息，謊稱受害者涉嫌犯罪，並要求轉帳或提供個人敏感資料，專門鎖定與中國有聯繫的民眾進行詐騙。",
-    "zhContent": "<p>美國聯邦調查局（FBI）最近發出一個很重要的警告，告訴大家美國境內有一種新的詐騙手法正在變多。這些騙子很狡猾，他們會假裝自己是「中國公安」（也就是中國的警察），來詐騙美國境內的民眾。FBI提醒大家要特別小心，不要輕易相信這些陌生來電或訊息。</p><p>這種詐騙通常是怎麼發生的呢？騙子會打電話或傳訊息給受害者，聲稱受害者在中國涉嫌了嚴重的犯罪，比如洗錢或販毒。他們會用很嚴肅的語氣，甚至威脅要逮捕受害者，讓受害者感到非常害怕和驚慌。為了「解決」這個問題，騙子會要求受害者把大筆的金錢轉到指定的「安全帳戶」，或是要求提供個人資料和銀行帳號密碼。</p><p>為什麼這種騙局會特別針對美國的民眾，又為什麼要假冒中國公安呢？主要是因為有些在美國生活的人，可能本身與中國有連結，例如留學生、移民，或是他們的家人在中國。這些人可能對中國的法律系統不太了解，或者對中國的執法單位有所畏懼，讓騙子有機可趁，利用這種恐懼來進行詐騙。騙子會製造一種緊迫感，讓受害者來不及查證就照著他們的話去做。</p><p>對於這樣日益嚴重的詐騙問題，美國FBI提醒大家，真正的執法單位絕對不會透過電話或網路要求民眾轉帳、提供銀行帳號或個人敏感資訊。如果接到類似的電話或訊息，應該立刻掛斷或刪除，並且向當地的執法單位舉報。FBI正在積極調查這些詐騙案件，希望能阻止更多人受害。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "FBI Warns of Rising 'Fake Chinese Police' Scams in the U.S.",
-    "enContent": {
-      "basic": "The FBI in the U.S. has issued a warning. There are many scams where people pretend to be Chinese police. These scammers call or text people and say they have committed crimes in China. They then ask for money or private information. The FBI wants everyone to be careful and not fall for these tricks.",
-      "intermediate": "The U.S. Federal Bureau of Investigation (FBI) recently released an important warning about a growing number of scams. In these scams, criminals impersonate Chinese police officers. They contact victims, often by phone, claiming the individual is involved in serious crimes in China, such as money laundering. To 'resolve' these fake issues, the scammers demand large sums of money or personal financial details. The FBI advises the public to be cautious and report such incidents.",
-      "advanced": "The Federal Bureau of Investigation (FBI) in the United States has issued a significant warning regarding a proliferating scam within its borders. This particular scheme involves perpetrators impersonating Chinese public security officials, targeting individuals with fabricated accusations of involvement in serious criminal activities, such as money laundering or drug trafficking, purportedly occurring in China. These imposters leverage the perceived authority and fear of international law enforcement to coerce victims into transferring substantial funds to 'safe' accounts or divulging sensitive personal and financial information. The FBI emphasizes that legitimate law enforcement agencies will never solicit funds or confidential data via unsolicited calls or messages and urges immediate reporting of such fraudulent attempts."
-    },
-    "vocabulary": [
-      {
-        "word": "scam",
-        "zh": "詐騙 (zhàpiàn) – 指的是用不誠實或欺騙的方式，騙取別人的錢財或個人資料，就像魔術師用手法讓你相信不存在的事一樣。"
-      },
-      {
-        "word": "impersonate",
-        "zh": "假冒 (jiǎmào) – 意思是假裝成另一個人，或者扮演不是自己的角色，讓別人誤以為你是真的那個人或角色。就像玩角色扮演遊戲一樣，但這裡是用來騙人的。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-04-19",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyUmZrSTd0TGtxMVA1NHpDZUFqdVR4YTczSS1pdUh1QzhTTWI0NjliMUxPSWo3LU9DMndXTTBETmhrTk9yaDVaalhBaWpic1ZYOUFjVUxvVm5TRHJ1Nk5Z?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "海底寶石拉警報！傑森·摩莫亞疾呼：2026是珊瑚礁生死關鍵年",
-    "zhSummary": "好萊塢影星傑森·摩莫亞與《衛報》共同發聲，警告全球珊瑚礁正瀕臨滅絕，呼籲各界必須在2026年前採取關鍵行動，否則這些美麗的海洋生態將面臨無法挽回的危機。",
-    "zhContent": "<p>大家有看過五彩繽紛的海底世界嗎？那裡面住著好多美麗的珊瑚礁，它們就像是海洋裡的寶石，閃耀著生命的光芒。但最近有個很重要的消息，提醒我們這些海底寶藏正快速消失中！好萊塢明星傑森·摩莫亞（Jason Momoa）就特別站出來說，根據《衛報》的報導，到了2026年，我們必須讓這個趨勢有個大轉變，不然珊瑚礁可能就要從地球上消失了。</p><p>為什麼會這麼緊急呢？其實，珊瑚礁的消失跟地球暖化有很大的關係。當海水溫度不斷升高，珊瑚會失去牠們身上共生的微藻，這些微藻不只提供珊瑚顏色，也是牠們主要的食物來源。失去微藻的珊瑚會變成一片慘白，這就是我們常聽到的「珊瑚白化」。如果白化現象持續太久，珊瑚就會死亡。珊瑚礁不只是美麗的海底風景，更是許多魚類、甲殼類動物的家園和覓食地，甚至能減緩海浪衝擊，保護海岸線。一旦珊瑚礁大量消失，不只海洋生態系統會崩潰，也可能影響靠海維生的人類。</p><p>傑森·摩莫亞這次和《衛報》的合作報導，就是在呼籲大家正視這個問題。他強調，2026年是一個非常關鍵的轉捩點，因為科學家們預估，如果我們不趕快採取行動，減緩全球暖化和海洋污染的速度，珊瑚礁就會面臨無法挽回的危機。這不是他第一次為海洋發聲，他長期以來都非常關心水資源和海洋生態的保育，過去也曾積極參與各種環保倡議，為保護地球盡一份心力。</p><p>目前全球各地的珊瑚礁狀況都非常危險，很多地方都已經出現大規模的白化和死亡。雖然有許多研究人員和環保團體正努力研究和復育珊瑚，但大自然變化和人類活動對海洋的影響仍然非常巨大。傑森·摩莫亞與科學界提出2026年這個目標，是希望能趕在科學預測的關鍵時間點前，促使全球各國政府、企業和民眾都能意識到這個迫切的危機，並共同採取更積極、實質的保護措施，避免我們失去這些珍貴的海洋生物。這項呼籲強調了時間的緊迫性，以及全球合作的重要性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，傑森·摩莫亞強調2026年是一個「關鍵的轉捩點」，你覺得這個詞代表了什麼意義？",
-      "生活與未來：珊瑚礁如果真的大範圍消失，你覺得對依賴海洋生活的生物和人類會有什麼實際影響？",
-      "獨立思考提案：新聞提到珊瑚礁面臨滅絕危機，你覺得除了明星的呼籲，政府、企業和我們個人還可以怎麼做，才能更好地保護它們？"
-    ],
-    "enTitle": "Jason Momoa Warns: 2026 Is a Critical Turning Point for Coral Reefs",
-    "enContent": {
-      "basic": "Coral reefs are in danger. They might disappear soon. Actor Jason Momoa says 2026 is an important year. We need to save the reefs by then. Ocean water is getting too warm. This makes corals lose their color and food. It's called coral bleaching. If it lasts too long, corals die. Many sea animals live in coral reefs. Without reefs, they lose their homes. Jason Momoa wants everyone to help stop warming oceans and pollution. Many reefs are already dying. We need to act fast by 2026 to protect them.",
-      "intermediate": "Coral reefs globally are facing a severe threat of extinction. Jason Momoa, a well-known actor, has highlighted 2026 as a crucial turning point, urging global action to prevent their disappearance. The main reason for this crisis is rising ocean temperatures, a direct result of global warming. Warmer waters cause corals to expel the algae living within them, leading to a phenomenon known as coral bleaching. Prolonged bleaching can kill corals. Coral reefs are vital ecosystems, providing homes and food for countless marine species and even protecting coastlines. Momoa's message, shared through The Guardian, emphasizes the urgent need for governments and individuals worldwide to take significant steps to reduce warming and pollution before 2026. Current reports indicate widespread coral death globally, making collective and prompt action essential to safeguard these precious underwater environments.",
-      "advanced": "Global coral reefs are on the brink of extinction, a critical environmental crisis underscored by actor and activist Jason Momoa, who has designated 2026 as an imperative turning point for intervention. The primary catalyst for this alarming decline is escalating ocean temperatures, a direct consequence of anthropogenic climate change. This thermal stress induces coral bleaching, a process where corals expel their symbiotic algae, crucial for their color and nutrition. Sustained bleaching leads to coral mortality, devastating the intricate marine biodiversity that relies on these ecosystems for shelter, sustenance, and even coastal protection. Momoa's advocacy, amplified by platforms like The Guardian, serves as a stark call to action. He stresses that without substantial, coordinated efforts from governments, industries, and the public to mitigate global warming and marine pollution, coral reefs face irreversible damage. Current scientific assessments reveal pervasive coral degradation and extensive bleaching events worldwide, reinforcing the urgency for decisive, collaborative conservation strategies to be implemented before the 2026 deadline.",
-      "simplified_chinese": ""
-    },
-    "vocabulary": [
-      {
-        "word": "extinction",
-        "zh": "滅絕（mièjué）：指一個物種或生物族群完全消失，不再存在於地球上。"
-      },
-      {
-        "word": "turning point",
-        "zh": "轉捩點（zhuǎnlièdiǎn）：形容一個事件或情況發展到關鍵時刻，接下來的走向將會產生重大改變。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-04-19",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREpMZGNFajJhN3B1amtBbjRZYlNKTG5PNjB2QW1PWTB0UXZjOThJMmtuTE9oR2FENjFJekgzX0lteUh4cWZfbGtienlRYkk5T2ZheEU2dlltUHdMaWtzdVNxZUZ1RzRpM0FXM3R1eEVTUFlLOG94eWJJa0pGWkNOWmpIMWlPYk1FX1p1ZmdiaVdqTk82aEVjbFEycWRtY0pIckw5ekl3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "搶先看！《Hoppers藝術設定集》揭開創作秘辛",
-    "zhSummary": "迪士尼媒體搶先公開了《Hoppers藝術設定集》的精華內容，讓粉絲們得以一窺這部作品背後的角色草圖、場景設計等珍貴創作過程，預告新書即將發行。",
-    "zhContent": "<p>各位粉絲，好消息！最近從「WDW News Today」這個專門報導迪士尼消息的媒體，我們收到了一則非常吸引人的情報：他們獨家公開了《Hoppers藝術設定集》的部分內容，讓大家可以搶先一睹為快。這本書的「搶先看」曝光，立刻引起了許多對幕後創作過程好奇的讀者關注。通常這類「藝術設定集」都會收錄電影、動畫或主題樂園設計從零到有的珍貴過程，像是角色草圖、場景設計和故事板等等，簡直就是創意寶庫。</p><p>這次的「搶先看」內容，就像是打開了一扇通往魔法世界的小窗，展示了《Hoppers》這個項目最初的模樣。WDW News Today在報導中透露了一些書中精華頁面，讓讀者能看到設計師們是如何從一個點子開始，一步步將角色、道具和整個奇幻世界具體化的。從最初的幾筆塗鴉，到色彩豐富的完整插畫，這些圖片都清晰地展現了團隊在創造《Hoppers》時所付出的心思與想像力。</p><p>這些幕後資料對於喜愛設計、動畫或者對故事創作有興趣的青少年來說，簡直是學習的最佳素材。它不只讓我們看到最終的成品有多麼精美，更重要的是，它揭露了整個創作過程中的嘗試、修改與演變。每一張概念圖、每一個角色表情的變化，都代表著無數次的腦力激盪和細節琢磨。透過這本藝術設定集，我們能更深入地理解一個虛構世界是如何被建造出來的。</p><p>這波搶先看無疑為即將發行的《Hoppers藝術設定集》做足了宣傳，也讓期待已久的粉絲們先過過癮。雖然目前只是部分內容公開，但已經足以讓人對這本書充滿期待，渴望能將它帶回家，細細品味所有未公開的藝術創作與設計故事。這次的預覽，就是為了讓大家更了解這個創意作品背後的大工程，並且引導大家在書本正式推出後，能夠更全面的去探索其中的奧秘。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Sneak Peek Inside ‘The Art of Hoppers’ Book",
-    "enContent": {
-      "basic": "WDW News Today showed an early look inside 'The Art of Hoppers' book. This book shares pictures of how 'Hoppers' was made, like drawings of characters and places. It lets fans see the creative process. People are excited for the book to come out.",
-      "intermediate": "WDW News Today has offered an exclusive sneak peek into 'The Art of Hoppers' book, revealing a fascinating glimpse into the creative development of the 'Hoppers' project. This highly anticipated publication is set to feature a comprehensive collection of concept art, character designs, and behind-the-scenes insights, illustrating the journey from initial ideas to finished visuals. The preview builds excitement among fans eager to explore the artistic origins of the project.",
-      "advanced": "In an exclusive reveal from WDW News Today, enthusiasts have been granted a compelling sneak peek into 'The Art of Hoppers' book, a forthcoming publication dedicated to dissecting the intricate creative process behind the 'Hoppers' project. The preview showcases a curated selection of early concept art, iterative character designs, and foundational world-building illustrations, offering an unprecedented look at the artistic evolution and ideation phases. This strategic disclosure aims to heighten anticipation for the book's full release, promising a definitive collection for connoisseurs of animation and conceptual design."
-    },
-    "vocabulary": [
-      {
-        "word": "Sneak Peek",
-        "zh": "搶先看：指在正式公開前，偷偷或提早讓人看到一部分內容，通常是為了增加期待感。"
-      },
-      {
-        "word": "Concept Art",
-        "zh": "概念藝術：在電影、動畫或遊戲製作初期，設計師畫出來的初步圖畫，用來呈現角色、場景或物品的點子和風格。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-04-19",
-    "sourceName": "WDW News Today",
-    "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YaTlnUmhyRHFtRW1WTDNyMHpqWkdOSHBhTjFRVzBUd0xPdGhXWVl6ZVRQQWxpbW95U0VOay16YUdveHdRaENZMGx0ZjVNT2dSWHJLRThEckNFUlBkV0t0RDVWSlpLeGdwN0E4dE9NbkdzSlpIZl80?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "Google要和夥伴一起打造「AI大腦」？科技巨頭正為未來佈局！",
-    "zhSummary": "科技巨頭Google正在與晶片設計公司Marvell討論，希望能一起研發專為人工智慧（AI）設計的新晶片。這項合作如果成功，將有助於Google的AI產品跑得更快、更聰明。",
-    "zhContent": "<p>嘿，同學們！你們知道現在最夯的「人工智慧」嗎？Google這間科技巨頭最近有個大動作，根據新聞報導，他們正在跟一家叫做Marvell的公司秘密討論，想一起打造全新的AI晶片喔！這聽起來是不是很酷，就像Google要為自己的聰明AI們設計專屬大腦一樣！</p><p>想像一下，我們手機或電腦裡所有運作，都需要一顆顆小小的「晶片」來執行指令。特別是AI，它需要處理超大量的資料才能變得越來越聰明。這次Google之所以找上Marvell，就是希望Marvell能利用他們在晶片設計方面的超強技術，來幫Google做出更有效率、更適合AI使用的晶片。這項合作如果真的成功，未來我們用的Google搜尋、Google翻譯，甚至是各種智慧助理，可能都會因為這些新晶片而跑得更快、更厲害！</p><p>為什麼Google要自己做AI晶片呢？其實，很多科技公司都想擁有自己的專屬晶片，這樣就不必完全依賴其他晶片製造商，可以更好地控制成本，也能讓晶片更完美地配合自己的軟體。對Google來說，AI是他們未來發展的核心，所以擁有自己的AI晶片，就能讓他們在AI領域更有競爭力。而Marvell則是一家在網路基礎設施晶片領域很有名的公司，他們在這種複雜晶片的設計上經驗豐富，所以才會成為Google考慮的合作對象。</p><p>目前這項消息是由一家叫做《The Information》的媒體首先報導出來，而路透社也引用了這則新聞。報導中說的是「正在討論中」，所以這只是一個潛在的合作計畫，還沒有正式定案或宣布。但如果這個合作真的成真，那將會是AI晶片界的一件大事，也代表Google對AI發展的投入又更上一層樓了。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Google in Talks with Marvell to Develop New AI Chips, Reports Say",
-    "enContent": {
-      "basic": "Google, a big tech company, is talking with another company called Marvell. They want to work together to make special computer chips for AI, which stands for Artificial Intelligence. These chips are like brains for computers, helping AI do smart things faster. If they make these new chips, Google's AI products like search and translation could become even better. This news was first reported by The Information.",
-      "intermediate": "Tech giant Google is reportedly in discussions with chip design firm Marvell Technology to collaborate on developing new artificial intelligence (AI) chips. These specialized chips are crucial for enhancing the performance and efficiency of Google's AI-driven services and products. By creating its own AI-focused hardware, Google aims to strengthen its competitive position in the rapidly evolving AI market and potentially reduce its reliance on external chip suppliers. The report originated from The Information and was subsequently picked up by Reuters.",
-      "advanced": "Google, a dominant force in the technology sector, is reportedly engaged in strategic discussions with Marvell Technology concerning the co-development of next-generation artificial intelligence (AI) chips. This initiative underscores Google's commitment to strengthening its proprietary hardware capabilities, particularly in the burgeoning AI domain. By designing custom AI silicon, Google aims to optimize performance, enhance energy efficiency for its vast AI operations, and potentially achieve greater cost control and supply chain resilience. Marvell's expertise in specialized semiconductor design positions it as a key potential partner in this endeavor, as the competitive landscape in AI hardware intensifies. This development was initially brought to light by The Information, subsequently covered by Reuters."
-    },
-    "vocabulary": [
-      {
-        "word": "AI chips",
-        "zh": "人工智慧晶片。想像成是專門為機器人或電腦設計的「大腦」，讓它們能更快、更有效率地學習和思考。"
-      },
-      {
-        "word": "Marvell",
-        "zh": "美滿電子科技。這是一間專門設計很厲害、很複雜晶片的科技公司，就像是幫各種電子產品打造專屬「心臟」的專家。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-04-19",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWxnVXdLUWNJdk5fa1hpOVJUM2Rya25tcGYyUjE1NWN3T3VCcWU2M09jdmpqOUl1OUkyaXdna0ZIRnFSZm1NazdpQkkxSXVvN2ExSXVoQ3ZMenREUzRxMkNuWXRpR3hTek01Q3FYTFY2MUI1OWJpTi1YeDZIUHh1Xy1jZzZ0RW9xMzZudzZNS2EtSFEydWVoaVhzelVWc3hYNXRXRUdzNnhGWFpUMHVNZ1JJRm04MXpPNldj?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "油價飆高、戰火陰影籠罩：美國民眾的消費熱情降溫了！",
-    "zhSummary": "CNBC新聞曾報導，在過去某段時期，美國民眾因為擔心伊朗可能發生的衝突，加上汽油價格飆升到每加侖4美元，導致大家不再像以前一樣樂於花錢，整體消費經濟的活力因此大受影響。",
-    "zhContent": "<p>想像一下，如果有一天，你爸媽每次開車去加油都要花好多錢，電視上又常常播報遙遠國家有戰爭的緊張氣氛，你覺得大家還會開開心心出門購物、吃大餐嗎？美國財經新聞頻道CNBC曾經報導過，就是這種情況讓美國民眾的消費樂趣都沒了。這指的是在某個時期，因為兩種主要因素的影響，讓美國人對花錢變得非常保守。</p><p>當時，汽油價格一度漲到每加侖4美元，這對許多需要開車通勤或出遊的美國家庭來說，是一筆不小的開銷。因為汽車是他們日常生活中不可或缺的交通工具，油錢變貴了，就代表每個家庭能用在其他娛樂、購物或旅行上的錢自然就變少了，大家的錢包都感覺緊繃了不少。</p><p>不只如此，新聞中也提到「伊朗戰事」的陰影，這並不是說美國真的跟伊朗開戰了，而是指當時中東地區的政治局勢非常不穩定，讓許多人很擔心未來會不會有衝突發生。這種對未來的「不確定性」，讓許多民眾開始擔憂經濟前景，覺得還是把錢存起來比較保險，而不是把辛苦賺來的錢拿去花費。</p><p>在這種油價高漲和未來充滿不確定性的雙重壓力下，美國民眾的消費熱情明顯降溫。他們變得更保守，只會購買生活必需品，減少了非必要的開銷，例如減少外出用餐、延後購買新車或大型家電等。這也直接導致了整個美國經濟的活力減退，因為消費是推動經濟成長的重要動力之一。整個社會的「消費樂趣」就這樣消失了。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，是什麼原因導致美國民眾「消費的樂趣」消失了？",
-      "生活與未來：你覺得這種情況下，哪些行業會最先感受到衝擊？為什麼？",
-      "獨立思考提案：如果類似的情況發生在我們周遭，身為消費者，你可以採取哪些應對方式？"
-    ],
-    "enTitle": "High Gas Prices and War Fears: The US Consumer Economy Lost Its Spark",
-    "enContent": {
-      "basic": "Imagine if going to the gas station cost a lot, and news showed worries about war far away. People in the U.S. felt this way when gas prices hit $4 a gallon, and there were fears about a war with Iran. This made people stop spending money on fun things, making the economy less lively.",
-      "intermediate": "CNBC reported that a combination of factors made U.S. consumers less willing to spend. Gas prices soaring to $4 per gallon meant less money for other goods and services. Adding to this, the 'shadow of an Iran war' – meaning tensions and uncertainty in the Middle East – made people worry about the future. This caused them to save money instead of spending, reducing overall economic activity.",
-      "advanced": "The CNBC headline highlighted a period where two significant external shocks severely dampened the U.S. consumer economy. The steep rise in gasoline prices to $4 a gallon directly reduced discretionary income for many households, impacting their ability to spend on non-essentials. Concurrently, the looming threat of conflict with Iran generated considerable geopolitical uncertainty, prompting consumers to adopt a more cautious financial stance, prioritizing savings over spending. This collective shift in consumer behavior led to a noticeable slowdown in economic vitality, reflecting a broader loss of 'fun' in the consumer market."
-    },
-    "vocabulary": [
-      {
-        "word": "Consumer",
-        "zh": "消費者：就是像你我一樣，會去買東西、使用服務的人。例如買零食、衣服，或是去餐廳吃飯，我們都是消費者。"
-      },
-      {
-        "word": "Uncertainty",
-        "zh": "不確定性：當你對未來會發生什麼事情感到很模糊、不確定時，就是這種感覺。你不知道明天考試會考什麼，或是天氣會變怎樣，就是不確定性。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-04-19",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGFTaGtBNTloY2F3UGhUMmtpWnZucGVCZldIVFFsQW1qeEN5VS1wMXg3aFdxUWphZmpHRGcxM0lsUmx6LWRibDR1YVRPeEE4VGZsSnBtMUlhb0EyUnlpdzR3TEtCUXpENzRndEVhOXNHYzdYLXU3UzVwa3lVbU5NSzZVc1dueTJwR0h1ZElCc9IBjwFBVV95cUxOUGFTaGtBNTloY2F3UGhUMmtpWnZucGVCZldIVFFsQW1qeEN5VS1wMXg3aFdxUWphZmpHRGcxM0lsUmx6LWRibDR1YVRPeEE4VGZsSnBtMUlhb0EyUnlpdzR3TEtCUXpENzRndEVhOXNHYzdYLXU3UzVwa3lVbU5NSzZVc1dueTJwR0h1ZElCcw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普談論伊朗、石油與經濟：德國之聲進行「事實查核」",
-    "zhSummary": "前美國總統川普就伊朗、國際石油供應及美國經濟發表看法後，德國之聲（DW.com）對其言論展開了事實查核，比對官方數據與專家分析，以釐清這些說法的真實性。",
-    "zhContent": "<p>近期，前美國總統唐納德·川普針對伊朗的國際關係、全球石油供應以及美國經濟狀況發表了一系列看法。他的這些公開言論很快就引起了國際媒體的關注。其中，德國之聲（DW.com）特別針對他提出的幾個主要說法，進行了仔細的「事實查核」，目的就是要確認這些說法是否與實際情況相符，並且拿出證據來證明。</p><p>這不是川普先生第一次針對這些敏感議題發表意見。過去他的發言內容經常會觸及到美國與其他國家的關係，例如關於伊朗核協議的去留、中東地區的石油產量對全球的影響，以及美國國內的通貨膨脹率和就業市場表現等等。德國之聲的記者們在這次查核中，會將川普公開說過的話一一記錄下來，然後仔細去尋找政府官方報告、國際組織的數據，以及獨立專家的分析報告，來比對這些說法是否正確。</p><p>事實查核的背後目的，是希望提供讀者一個更客觀、更接近真相的資訊，避免誤導。例如，在針對川普關於伊朗的言論時，查核團隊可能會回顧過去美國與伊朗的協議內容，以及目前雙方實際的政治和經濟互動狀況。而談到石油供應議題，他們則會查閱國際能源署（IEA）等權威機構的報告，看看全球石油的生產量、消費量以及價格波動的真正原因，而不是單聽單方面的說法。</p><p>經過德國之聲團隊的嚴謹比對與分析，他們將整理出的查核結果公開發布，指出哪些是基於事實的陳述，哪些則與現有數據有所出入。這份查核報告的目的就是把這些資訊整理清楚，讓大眾能更清楚地了解這些話題的真實情況。這份報告本身並沒有做出任何延伸的結論或建議，只單純呈現了事實比對的客觀結果，將判斷的空間留給讀者。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，德國之聲在查核川普言論時，主要參考了哪些類型的資訊來源？",
-      "生活與未來：你覺得媒體進行「事實查核」的工作，對生活在現代社會的我們有什麼實際的幫助？",
-      "獨立思考提案：針對這類政治人物的公開言論，除了媒體的事實查核外，我們自己還可以透過哪些方式來判斷資訊的真假？"
-    ],
-    "enTitle": "Fact Check: DW Examines Trump's Statements on Iran, Oil, and Economy",
-    "enContent": {
-      "basic": "Former US President Donald Trump recently spoke about Iran, oil, and the US economy. German news outlet DW.com then checked his statements to see if they were true. They looked at facts from official reports and experts to compare with what he said.",
-      "intermediate": "Following recent remarks by former US President Donald Trump concerning Iran's international relations, global oil supplies, and the American economy, DW.com conducted a comprehensive fact-check. The aim was to verify the accuracy of his claims by comparing them against official government reports, data from international organizations, and analyses from independent experts.",
-      "advanced": "In response to former US President Donald Trump's recent pronouncements regarding Iranian geopolitical dynamics, global petroleum supply chains, and the performance of the United States economy, Deutsche Welle (DW.com) initiated a rigorous fact-checking process. This journalistic endeavor meticulously scrutinized Trump's public statements by cross-referencing them with corroborated data derived from governmental agencies, international bodies, and independent expert assessments, thereby aiming to ascertain the verity and evidentiary basis of his assertions."
-    },
-    "vocabulary": [
-      {
-        "word": "Fact-check",
-        "zh": "事實查核：指媒體或機構為了確認某個資訊、言論是否真實、正確，而進行的仔細查證過程。就像偵探一樣，會去找證據來證明說法是不是真的。"
-      },
-      {
-        "word": "Economy",
-        "zh": "經濟：指的是一個國家或地區，關於生產、分配和消費各種商品和服務的整個系統。它影響著大家的收入、物價、工作機會等等，跟我們生活中的大小事都息息相關。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-04-19",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEthcDJWQ21yWFN4a3JvWnNFZGctcjlsLVl0TGtZQkg0THhiZ0daaUxfbDNITUlxVUptUTVOVWdkVFpTS05nQVB6bkJzbmV0SnpnTEZOQWc2UTlOX3pKNDFzRzF4WE95cTZkdzB5dDBKR25EY2tqTXVqd3hDZjh4b09sZE5mcVJ6bVlYSG4wcW_SAZABQVVfeXFMT05yNlgweHo4WDYySi1vM3h4bDFzNWxkNnRYTUswSzVZejZEYmozSFl4ZFdyUU0xMnRRS1lqMzhzSWd3SERWbEhFWWRSWERXcjZVYi1uM3BjVkZJMXFJbTVwT2xZMGc0dXFjSnh4c3VXZmlkVWRDR2pENEp4VWN2cXZLTFdicGdteC10Q3dvUjQ3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "墨西哥、西班牙、巴西聯手，力挺古巴主權不受干涉！",
-    "zhSummary": "墨西哥、西班牙和巴西這三個國家，近日共同呼籲國際社會要保護古巴的國家主權，不讓它受到其他外力的干涉，這項聲明是來自《半島電視台》的報導。",
-    "zhContent": "<p>最近，地球的另一端有個國際新聞引起了關注，這跟位在加勒比海的島國古巴有關。根據國際媒體《半島電視台》的報導，有三個國家，分別是墨西哥、西班牙和巴西，他們公開表示，希望國際社會能好好保護古巴的國家主權。簡單來說，就是希望古巴這個國家，能有權利自己決定自己的事情，不要被外面的人或國家干涉。</p><p>這次的呼籲，是這三個國家在國際場合上表達的立場。這意味著他們認為古巴目前可能面臨一些外部壓力，或是某些國家對古巴的內政有意見。而墨西哥、西班牙和巴西這三個國家，特別出面強調「主權」的重要性，就是在提醒大家，每個國家都有它獨立的地位和權力，不應該隨意被其他國家指手畫腳。</p><p>那麼，為什麼是這三個國家會出來力挺古巴呢？其實，墨西哥和巴西都屬於拉丁美洲國家，跟古巴的地理位置和歷史文化上都有比較緊密的連結。而西班牙呢，則是古巴的宗主國，也就是說，古巴以前曾經是西班牙的殖民地，兩國之間有深厚的歷史淵源。因此，當古巴的國家自主權可能受到挑戰時，這些有著特殊關係的國家就比較容易站出來替它說話。</p><p>這項呼籲本身，就是一種外交上的表態，它向國際社會傳達了一個明確的訊息：這些國家支持古巴作為一個獨立的國家，擁有自己決定未來的權利。目前看來，這個表態的目的，主要是為了維護國際關係的穩定，以及確保各國在國際法框架下，都能尊重彼此的國家主權。至於後續會不會有其他國家加入，或是產生什麼新的發展，則有待進一步的觀察。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Mexico, Spain, and Brazil Call for Protection of Cuba's Sovereignty",
-    "enContent": {
-      "basic": "Mexico, Spain, and Brazil are asking for Cuba's right to govern itself to be protected. This means they want other countries to respect Cuba's independence and not interfere with its internal affairs.",
-      "intermediate": "According to Al Jazeera, Mexico, Spain, and Brazil have publicly called for the safeguarding of Cuba's national sovereignty. This diplomatic move suggests that these three nations believe Cuba's self-governance might be under threat from external pressures and they are advocating for non-interference in its internal matters.",
-      "advanced": "In a significant diplomatic statement reported by Al Jazeera, Mexico, Spain, and Brazil have united to call for the protection of Cuba's sovereignty. This collective appeal underscores the importance of national autonomy and implicitly challenges any perceived external interference in Cuba's affairs, reflecting a shared stance among these nations to uphold international principles of non-intervention."
-    },
-    "vocabulary": [
-      {
-        "word": "Sovereignty",
-        "zh": "主權：一個國家擁有自己管理自己的權力，不用聽從其他國家的指揮。就像你家是你爸媽做主，別人不能隨便來管一樣。"
-      },
-      {
-        "word": "Diplomacy",
-        "zh": "外交：指各國政府之間處理關係、進行溝通的方式。就像你和同學之間如果遇到問題，會透過說話、協商來解決一樣，國家之間也需要「外交」來處理事情。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-04-19",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVp5NEtVRmhsX2g0cWdBY3d0NWdUSkMxc3FkbkNaeFMyM0kxTkdyV25mYlB5Tl93VXlFdnpiTllsN1NTVHlBMW92UTFTdmU2cnRkdWR5WEtoQ29pMDhyczZYLWZBVFMtOVpUUml4RDdKS0lQakdqZEtFNjlSemVtdXl4RGtTbjZNODF5NV9Fc2t0TFlmQkwyc1UwYzlBVW83VGJsT0xGQWFqTTTSAbABQVVfeXFMTjhCQlRGM1YwTDRMbm1ZS1dnTGVad2xMbnotRjU1czZXemlRR0t4UW44ZFd2OGxwTXh6blBfRVpRakNnLUFFWWEtS0lZaC1Qa3h6LXM3dzRtTzhKSmIyUHNFNVFTZFBSTW4tVG5pZVdNMXFzVEMxODloOV9CdmNqSkZ3bmlZTEgxc2ZFdlF1ZGhhM0xmTVo3R1dlYTJUNVFycDFRTm41SFhSQXNjQ1hPVTg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "法國懷舊餐飲新風潮：傳統Bouillon餐廳熱烈回歸！",
-    "zhSummary": "法國近年掀起一股餐飲復古熱潮，曾經盛極一時的傳統「Bouillon餐廳」再度受到大眾喜愛，提供平價、道地的法式佳餚，吸引了許多當地人和觀光客重新回味這份經典美味。",
-    "zhContent": "<p>你曾聽過法國的「Bouillon餐廳」嗎？這幾年，法國吹起了一股懷舊的餐飲新風潮，曾經紅遍大街小巷的傳統Bouillon餐廳，正以全新的姿態，在巴黎及法國各地重新崛起，成為許多人用餐的新選擇。這些餐廳不只提供美味的法國菜，更因為它們獨特的歷史和親民的價格，再次擄獲了大小朋友的心。</p><p>Bouillon餐廳的歷史可以追溯到19世紀的法國，當時它們是為了滿足當地工人階級的需求而誕生，提供價格實惠、份量十足的湯品（Bouillon），以及各式各樣的經典法國菜。像是「牛肉清湯」、「香煎牛排配薯條」和「美乃滋雞蛋沙拉」等，都是當時非常受歡迎的菜色。它們的特色就是以樸實的風格，讓每個人都能輕鬆品嚐到道地的法式滋味，用餐氣氛也總是熱鬧又充滿活力。</p><p>經過了一段時間的沉寂，這些充滿歷史感的Bouillon餐廳最近又重新受到了年輕族群和國際觀光客的熱烈歡迎。大家開始喜歡上這種不拘小節、真實道地的用餐體驗。儘管許多Bouillon餐廳的裝潢華麗、充滿古典風情，菜單選擇也相當豐富，但它們最吸引人的地方，就是依舊保持著親民的價格，讓想品嚐法國傳統美食的人不再需要擔心荷包。這種平衡了美味、歷史與價格的獨特模式，讓它再次成為熱門話題。</p><p>根據法國當地媒體的觀察，這股Bouillon餐廳的復興浪潮正持續發酵，越來越多的新分店陸續開幕，也有許多老字號的Bouillon餐廳經過重新裝修後，再次營業，並且常常座無虛席。這顯示了這種獨特的餐廳模式，不僅成功找回了往日風采，更向現代社會證明了，傳統的簡單美味加上實惠的價格，依然能吸引眾多食客，讓更多人有機會體驗法國餐飲文化中平易近人又充滿魅力的那一面。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，Bouillon餐廳重新受歡迎的原因有哪些？你覺得其中哪個原因對青少年來說最有吸引力？",
-      "生活與未來：你覺得這種「懷舊」的飲食風潮，會不會也出現在我們身邊呢？如果台灣也開始流行以前的某種傳統餐廳，你覺得會是什麼樣的餐廳？",
-      "獨立思考提案：Bouillon餐廳以「平價、道地」為特色，如果請你為台灣的一種傳統小吃設計一個重新推廣的方案，讓更多年輕人喜歡，你會怎麼做？"
-    ],
-    "enTitle": "France's Bouillon Restaurants Make a Grand Comeback",
-    "enContent": {
-      "basic": "Traditional French 'Bouillon restaurants' are making a big comeback in France. These restaurants, known for offering simple, affordable, and authentic French dishes, are becoming popular again. They attract many locals and tourists who want to experience classic French food without spending too much money. It's a return to a historic and beloved way of dining in France.",
-      "intermediate": "France is experiencing a renewed interest in its culinary heritage, with 'Bouillon restaurants' leading the charge. Dating back to the 19th century, these establishments were originally created to provide working-class people with hearty, budget-friendly meals like beef bouillon, steak frites, and oeuf mayonnaise. After a period of decline, these historic eateries are now thriving again, appealing to a new generation and tourists who appreciate their authentic flavors, vibrant atmosphere, and accessible pricing, all within often grand and ornate settings.",
-      "advanced": "The revival of 'Bouillon restaurants' signifies a broader cultural trend in France towards nostalgia and accessible authenticity in dining. Once a cornerstone of Parisian working-class gastronomy in the 19th century, these establishments, characterized by their generous portions, classic French fare, and remarkably low prices amidst often opulent décor, are experiencing a significant resurgence. This comeback is driven by a desire for unpretentious, traditional experiences, appealing to both locals seeking a taste of their heritage and tourists eager for an affordable, genuine slice of French culinary life. The current boom, marked by new openings and renovated historical sites, reflects a successful blending of historical charm with contemporary appeal, proving that quality and affordability can co-exist in the modern restaurant landscape."
-    },
-    "vocabulary": [
-      {
-        "word": "Bouillon",
-        "zh": "法文，指的是一種清湯或高湯，通常是肉類或蔬菜熬煮而成。在這裡是指一種專門賣傳統平價法國菜的餐廳，以這類湯品命名。"
-      },
-      {
-        "word": "Embrace",
-        "zh": "擁抱，在這裡不是真的抱抱，而是「接受」、「重新喜歡上」或「歡迎」某樣東西的意思，表示對某事物的態度轉變為正向。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-04-19",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5feVNvYmhaNktwUDVaWU5xdlgxUnVHR2tuNkFfdTctZWtuSGhNWElZU3pNZkoxVlRaY3h0QjFyZldxckpCNmdjUFNlX2k4bFlfSTh3QTdLYXktTTY4VzRkb1A5VlBxUmFNbWRXR0lNa1dnOWVpYVB1RA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "穆加貝之子在南非認罪：一場與槍械相關的法律風波",
-    "zhSummary": "辛巴威前總統穆加貝的兒子在南非的法庭上，承認了一項非法持有或使用槍械的指控，為這起法律事件畫下句點。",
-    "zhContent": "<p>南非最近發生了一件引起關注的法律事件，主角是辛巴威前總統穆加貝的兒子。根據非洲通訊社（APAnews）的報導，穆加貝的兒子在南非的法庭上，承認了一項與槍械相關的指控。這代表他已經接受了自己違反當地槍械法規的事實，為這起事件畫下了一個法律上的里程碑。</p><p>這項槍械指控的確切細節，報導中並未完全公開，但通常這類指控可能涉及非法持有槍械、沒有合法的槍械許可證，或是違反了其他關於槍械使用的嚴格規定。在許多國家，私人持有槍械都有非常嚴格的法律限制，需要經過申請、審核，並取得相關的證照。一旦違反，就會面臨法律的制裁。</p><p>雖然新聞來源沒有深入說明穆加貝的兒子為何會面臨這項指控，但作為一位前國家元首的後代，他的任何公開行為都容易受到媒體和公眾的檢視。他選擇「認罪」，表示他承認了檢方對他的指控，並同意承擔相應的法律責任。在法律程序中，認罪有時是為了更快地解決案件，或是可能與檢方達成某種形式的協議。</p><p>目前，這起事件的最終結果就是穆加貝的兒子已經正式認罪。這代表了南非司法程序的一個階段性完成。報導並未提供他將面臨的具體刑罰或其他後續處置，但「認罪」本身就確立了他違反槍械法規的事實。新聞到這裡就打住，沒有再多談未來會如何或對其他人有什麼影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Mugabe's Son Pleads Guilty in South Africa: A Firearm Legal Case",
-    "enContent": {
-      "basic": "South Africa recently saw a legal case involving the son of former Zimbabwe President Mugabe. Reports say he admitted to a charge linked to a gun in a South African court. This means he accepted that he broke local gun laws.",
-      "intermediate": "In South Africa, the son of former Zimbabwean President Robert Mugabe has pleaded guilty to a firearm charge. This legal development indicates his admission to violating gun regulations within the country. While the exact details of the charge haven't been fully disclosed, it typically involves unauthorized possession or misuse of a weapon.",
-      "advanced": "The legal proceedings in South Africa have concluded with a guilty plea from the son of former Zimbabwean President Robert Mugabe, concerning a firearm charge. This admission signifies his acknowledgement of infringing upon the nation's stringent firearm legislation. Although the specifics of the offense remain undisclosed, a guilty plea in such cases often implies unlawful possession or a breach of licensing requirements."
-    },
-    "vocabulary": [
-      {
-        "word": "guilty",
-        "zh": "有罪的 (yǒu zuì de) - 意思是指某個人做了一件不對的事，而且被證明確實是他做的，所以要承擔責任。"
-      },
-      {
-        "word": "firearm",
-        "zh": "槍械 (qiāng xiè) - 意思就是槍枝或任何用來發射子彈的武器，像是手槍、步槍等。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-04-19",
-    "sourceName": "APAnews - Agence de Presse Africaine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEVOMmtOZjVPam9Pem5BQms4WUxrbENIZ2NkT2thay1wVlhWejJLd1FEYThvdXYtNGhvdzh5NWVyNVRsVWJ5c0REUzcwLTM1R2dYNzJjVVFSUVNKYVhvcEZMc1I0WDZPRVJqTHFoNHp0N3dJUVVTVVU0RVBZbU5TVnlfaw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中東衝突震撼經濟：IMF警告區內損失「前所未有」",
-    "zhSummary": "國際貨幣基金組織（IMF）表示，中東地區的衝突對當地經濟造成了「前所未有」的巨大打擊，不僅影響旅遊業和貿易，也讓各國財政壓力倍增。",
-    "zhContent": "<p>國際貨幣基金組織（IMF）最近透過法新社（AFP）發出嚴正警告，指出中東地區目前的戰事，對當地的經濟造成了「前所未有」的巨大衝擊。這個消息來自法國24電視台的報導，清楚點出了衝突不僅帶來人道危機，更讓整個區域的經濟發展面臨嚴重考驗。</p><p>根據IMF的說法，這場持續的衝突正在多方面影響中東各國。首先，旅遊業是許多國家重要的收入來源，但戰火讓遊客卻步，飯店、航空公司和相關產業都受到重創。其次，貿易路線也受到波及，貨物運輸變得困難且昂貴，阻礙了商品流通。許多原本計畫在當地進行的投資也因此暫停或取消。</p><p>IMF提到，這些負面影響導致該地區的經濟成長預期大幅下調。一些國家可能面臨財政赤字增加，因為政府需要投入更多資源來應對危機，同時稅收收入卻減少。該組織的專家解釋，雖然部分石油出口國因油價波動可能獲得短暫好處，但整體而言，衝突帶來的長期不穩定和不確定性，對整個區域的經濟前景都是巨大的威脅。</p><p>目前看來，IMF的這份報告並沒有提出具體的經濟復甦方案，而是著重於揭示當前嚴峻的經濟狀況。他們強調，除非戰事能夠獲得有效控制並趨於緩和，否則中東地區的經濟將會持續面臨沉重壓力，短期內很難看到明顯好轉。這項評估顯示，衝突造成的經濟創傷是廣泛而深刻的。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，IMF為什麼會說中東地區的經濟受到「前所未有」的打擊？新聞裡提到了哪些具體的影響？",
-      "生活與未來：你覺得這個事件對中東地區青少年的日常生活可能造成什麼實際影響？（例如升學、工作、未來規劃等）",
-      "獨立思考提案：如果有一個國際組織想要幫助中東地區的經濟恢復，你認為他們應該優先從哪些方面著手？為什麼？"
-    ],
-    "enTitle": "Mideast War: An 'Unprecedented' Economic Blow, Warns IMF",
-    "enContent": {
-      "basic": "The International Monetary Fund (IMF) has warned that the ongoing conflict in the Middle East is having a huge, 'unprecedented' negative impact on the region's economy. This news comes from France 24, reporting what the IMF told Agence France-Presse (AFP). The war is hurting many parts of the economy, making it hard for countries to grow and prosper.",
-      "intermediate": "The IMF stated that the current war in the Middle East represents an 'unprecedented' economic blow for the entire region. This assessment, relayed by AFP and reported by France 24, highlights how the conflict is severely damaging various sectors. Tourism, a key revenue source for many nations, has plummeted, and trade routes are disrupted, making the transport of goods difficult and costly. Foreign investment projects have also been put on hold or cancelled due to the instability.",
-      "advanced": "The International Monetary Fund (IMF) has issued a stark warning through Agence France-Presse (AFP), as reported by France 24, stating that the protracted conflict in the Middle East is inflicting an 'unprecedented' economic setback on the region. The IMF's analysis indicates a significant downward revision of economic growth forecasts, attributing the downturn to widespread disruptions across critical sectors. The plummeting tourism industry, fragmented trade routes, increased logistical costs, and a chilling effect on foreign direct investment are collectively exacerbating fiscal pressures on regional governments, despite potential short-term benefits for some oil exporters from fluctuating energy prices. The institution underscores that the pervasive instability and uncertainty pose an enduring threat to the region's long-term economic viability."
-    },
-    "vocabulary": [
-      {
-        "word": "Unprecedented",
-        "zh": "前所未有 (以前從來沒發生過、沒有過先例的意思。想像你第一次看到一種從沒見過的動物，那種經驗就是「前所未有」的。)"
-      },
-      {
-        "word": "Fiscal",
-        "zh": "財政 (跟一個國家或政府的錢財、收支有關。像是政府怎麼收稅、怎麼花錢、有沒有欠債，都屬於「財政」的範圍。)"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-04-19",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaWZNMFBzZ2pLRlE1Nkpub3RVOUVERjdDMndHSE1aYmY2LUNBYWhNOXpmSkEwYTcwUnRzUWZJR01wYlJ5QWRaaDVpUnBfSC1xdlk5TnAwNnpoY0dEai1BRTFGSVRhcHBQaldWWXhmRGdYcTVjeURUX3RfZmVjSGtmZWlXM3lvci03NU9heUhUcW13NHZnOW0tOFVnRjVqN3hJaDRRcA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "電動車大戰開打！誰是目前賽道上的領跑者？",
-    "zhSummary": "這篇報導揭露了全球電動車產業的最新戰況，各家車廠都在努力搶攻市場。從銷售量到創新技術，不同地區的品牌正展開一場激烈的競爭，力拚成為電動車時代的真正贏家。",
-    "zhContent": "<p>近年來，全球掀起了一股電動車（EV）的熱潮，越來越多的人選擇開電動車，不只為了環保，也因為科技越來越進步。但你知道嗎？在這些看似平靜的銷售數字背後，其實是一場非常激烈的「電動車大賽」正在上演！全球的汽車製造商，不管是老牌大廠還是新創公司，都在拚命研發、生產電動車，目標就是要搶下最多的市場，成為這場新世代競賽的領跑者。</p><p>目前在這場賽道上，有幾位選手特別搶眼。一開始，美國的特斯拉（Tesla）可以說是大家最熟悉的明星，它的電動車設計很酷，自動駕駛技術也吸引了許多粉絲。不過，現在情況有點不一樣了。來自中國的電動車品牌，像是比亞迪（BYD），突然之間加速超車，他們的電動車款式多樣，價格也比較親民，在中國這個巨大的市場上賣得非常好，銷售量直線上升。</p><p>這場競爭之所以如此精彩，原因有很多。有些國家政府大力支持電動車產業，提供了各種補助和優惠政策，鼓勵民眾購買電動車，也讓車廠更有動力去研發。另外，各家車廠的策略也不同，有的專注在高階市場，打造豪華又性能強大的電動車；有的則是希望把電動車普及化，推出價格實惠、功能實用的車款，讓更多人都能輕鬆擁有電動車。</p><p>所以，這場電動車的「冠軍」之爭，其實沒有一個固定的答案，情況不斷在變化。雖然特斯拉過去一直被視為龍頭，但現在中國的電動車品牌在銷售數量上展現出強大的實力，而傳統的汽車大廠也正加快轉型，推出各自的電動車款來追趕。現在看起來，某些區域的品牌可能在某些方面暫時領先，但未來的發展仍然充滿變數，每一刻都可能會有新的黑馬出現，讓戰況更加撲朔。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到哪些品牌或國家在電動車市場上表現突出？它們各有什麼特色或優勢？",
-      "生活與未來：你覺得電動車的普及對我們的生活會造成什麼實際影響？例如在交通、環境或能源方面？",
-      "獨立思考提案：針對電動車的發展，你覺得還可以怎麼做會更好？例如在充電站的建設、電池回收技術或價格方面，你會有什麼建議？"
-    ],
-    "enTitle": "The EV Race: Who's Leading the Pack?",
-    "enContent": {
-      "basic": "The world is buzzing about electric cars. Many companies are making new electric vehicles (EVs) for people to buy. This story talks about who is winning this big competition. Some companies like Tesla were popular first. But now, other brands, especially from China like BYD, are selling many cars too. They are trying to make cars that everyone can afford. Different countries also help their car makers. It's like a big race, and the leader keeps changing!",
-      "intermediate": "The global electric vehicle (EV) market is a fierce battleground, with numerous manufacturers vying for dominance. Initially, American companies like Tesla captured significant attention with their innovative designs and technology. However, the landscape is evolving rapidly. Chinese brands, such as BYD, have made impressive strides, particularly in their home market, offering a wider range of affordable models that have led to high sales volumes. This intense competition is fueled by various factors, including government incentives in different regions and diverse business strategies—some focusing on luxury EVs, while others prioritize mass-market appeal. The 'winner' of this race is not fixed; the leadership position is constantly shifting as new players emerge and established ones adapt.",
-      "advanced": "The burgeoning electric vehicle (EV) sector represents a critical front in global industrial competition, with nations and corporations aggressively vying for market leadership. Historically, innovators like Tesla established an early lead, defining the premium segment with advanced technology and brand appeal. However, the competitive dynamic has significantly intensified, particularly with the ascendance of Chinese manufacturers such as BYD, which have leveraged strong domestic market support and efficient production capabilities to achieve substantial sales volumes and market penetration, especially in the affordable EV segment. This global contest is shaped by heterogeneous policy environments, varying consumer preferences, and distinct corporate strategies, ranging from high-performance luxury vehicles to accessible mass-market solutions. Consequently, the notion of a singular 'winner' is fluid, with regional and brand-specific advantages constantly fluctuating as the industry matures and new technological paradigms emerge."
-    },
-    "vocabulary": [
-      {
-        "word": "Electric Vehicle (EV)",
-        "zh": "電動車：一種用電池和電動馬達來驅動的汽車，不需要燃燒汽油或柴油，比較環保。"
-      },
-      {
-        "word": "Market Share",
-        "zh": "市場佔有率：指某個品牌或公司在某個產品的總銷售量中，佔了多少百分比。數字越高，代表它賣得越多，越受歡迎。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-04-19",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zM085MjdQVERMdVFWM18tYTVDRlpsMTZfaWtJYU5kZHpNbUxTdEtZdnFSWDdrU0FMRENaUng3cGtpZUtvaVktNzdwb3ZNMEZ0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "青少年週報：東南亞海洋警訊！「過度捕撈」如何讓魚兒消失，漁夫沒飯吃？",
-    "zhSummary": "NPR報導指出，東南亞地區的過度捕撈正嚴重影響海洋生態，導致魚群銳減，同時也讓當地數百萬漁民的生計陷入危機，成為一場生態與人類的雙重困境。",
-    "zhContent": "<p>最近，來自NPR的報導指出，東南亞海域正悄悄地面臨一個大麻煩，這個麻煩叫做「過度捕撈」。簡單來說，就是漁夫們抓的魚太多、太快了，讓大海裡的魚兒們來不及生長和繁殖。這不只讓海洋生態亮起紅燈，也讓當地許多靠海吃飯的人們日子越來越難過，變成了一場生態與人類的雙重危機。</p><p>過去幾十年來，隨著捕魚技術越來越進步，加上市場對海鮮的需求不斷增加，許多漁船都出海捕撈。有些漁船甚至使用了拖網等會破壞海底環境的捕魚方式。結果就是，以前隨處可見的魚群現在變得稀少，漁獲量也大幅減少。漁夫們常常空手而回，或者抓到的魚又小又少，根本不夠養家活口，讓他們的生活陷入困境。</p><p>報導中提到，這個問題之所以嚴重，一部分是因為東南亞地區的海洋生物種類非常豐富，吸引了大量的捕撈活動。然而，許多國家在漁業管理方面卻沒有足夠嚴格的規定，導致漁船數量太多，捕撈量也超出海洋能承受的極限。此外，一些貧困的漁民為了生計，即便知道過度捕撈會破壞環境，也別無選擇，只能繼續出海捕魚。</p><p>目前，科學家們正密切觀察這片海域的變化，並不斷發出警訊。有些當地社區和環保團體也開始嘗試推廣更友善海洋的捕魚方式，例如限制捕撈量、保護珊瑚礁等。國際社會也逐漸意識到問題的嚴重性，思考如何協助這些國家找到平衡點，既能維持漁民生計，又能保護珍貴的海洋資源。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Photos: How overfishing in Southeast Asia is an ecological and human crisis",
-    "enContent": {
-      "basic": "Overfishing in Southeast Asia is causing fish populations to drop and affecting local fishermen.",
-      "intermediate": "A report highlights how excessive fishing in Southeast Asia is creating an ecological imbalance and economic hardship for coastal communities.",
-      "advanced": "NPR details the escalating ecological and human crisis in Southeast Asia, where unsustainable fishing practices are decimating marine biodiversity and jeopardizing the livelihoods of millions dependent on the sea."
-    },
-    "vocabulary": [
-      {
-        "word": "overfishing",
-        "zh": "過度捕撈 (guo4 du4 bu3 lao1) - 指的是漁夫們在某個水域捕獲的魚類數量太多，超過了魚群能夠自然繁殖和成長的速度，導致魚類數量越來越少。"
-      },
-      {
-        "word": "ecological",
-        "zh": "生態 (sheng1 tai4) - 指的是一個地方的生物（像是魚、植物、動物）和牠們所居住的自然環境（像是海水、土壤、空氣）之間，互相影響、互相依存的關係。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-04-19",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2djZzIxNnFFRkZpQmprRGxOQXNqWDR1Um0wQS1aWTVremltQzhwdWtKeTFZTU1FQWZTYW5sOWlEZHFUXzUyYW9JbndCeWhPY2RvU0ZWQ3pkanRoQTlRQWlHQzFPQkgyeTBEbmQyTkZPMTdtVW5RZWgyWUZOUGtrbWNtdWZmTF9ENTM5eG96VGd2bk5UU0JrODAxQ29meG1QTkE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "Fijiana女子橄欖球隊旗開得勝，Moana Pasifika奮戰雖敗猶榮",
-    "zhSummary": "斐濟的Fijiana女子橄欖球隊在一場激烈的對決中，成功擊敗了Moana Pasifika隊，贏得了一場重要的勝利。Moana Pasifika雖然落敗，但在比賽中展現了頑強的拼搏精神。",
-    "zhContent": "<p>一場備受矚目的女子橄欖球賽事近日落幕，來自斐濟的Fijiana女子隊，以出色的表現，擊敗了強勁的對手Moana Pasifika隊，為自己贏得了一場意義非凡的勝利。這場比賽吸引了眾多目光，兩支隊伍在場上你來我往，展現了高水準的競技狀態，讓觀眾們為之振奮。</p><p>根據外媒報導，整場比賽過程非常激烈，Moana Pasifika的隊員們從頭到尾都展現了永不放棄的精神，即使面對Fijiana隊強大的攻勢，她們依然奮力抵抗，努力尋找突破的機會。然而，Fijiana隊憑藉著更為精準的戰術執行和隊員之間的默契配合，最終還是掌握了場上的主導權，一步步鞏固了她們的領先優勢。</p><p>這場「大勝」對Fijiana隊來說，無疑是極大的鼓舞，證明了她們在訓練中的努力沒有白費，也讓她們在賽季中的表現更加亮眼。這不僅僅是一場比賽的勝利，更是對她們團隊精神和實力的一次肯定。儘管Moana Pasifika最終未能獲勝，但她們在比賽中展現的「奮戰到底」的精神，同樣贏得了所有人的尊重。</p><p>比賽結果已定，Fijiana隊帶著勝利的喜悅收穫了成功，而Moana Pasifika隊雖然失利，但也從這場高強度的對抗中累積了寶貴的經驗。這兩支隊伍都將繼續前進，從這場激烈的交鋒中學習，為未來的比賽做好準備。勝負乃兵家常事，重要的是在每一次挑戰中都能有所成長。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Fijiana Women's Rugby Secures Big Win as Moana Pasifika Fights Valiantly",
-    "enContent": {
-      "basic": "Fijiana women's rugby team won a big game against Moana Pasifika. Moana Pasifika played hard but lost. Fijiana's victory was important for them.",
-      "intermediate": "The Fijiana women's rugby team achieved a significant victory over Moana Pasifika in a highly contested match. Despite Moana Pasifika's valiant effort and relentless fighting spirit, Fijiana demonstrated superior play to secure the win.",
-      "advanced": "The Fijiana women's rugby squad celebrated a substantial triumph after a fiercely contested encounter against Moana Pasifika. While Moana Pasifika showcased remarkable resilience and fought with unwavering determination throughout the game, Fijiana's strategic execution and cohesive teamwork ultimately prevailed, solidifying a pivotal win for their season."
-    },
-    "vocabulary": [
-      {
-        "word": "victory",
-        "zh": "勝利：在比賽或競爭中贏得成功，打敗對手。"
-      },
-      {
-        "word": "resilience",
-        "zh": "韌性：指一個人或一個團隊在面對困難或挫折時，能夠快速恢復並繼續努力的能力。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-04-19",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXVFV3JzbzdYVi0xWUdlaFVYV1R2VjRlNHo2NWx4TUgxS0NmbGJVZWVFNWRlOW8xUkJxVmI3cDFrVEZKUGJVa1hRUnFXYW5PRnJUZWQ0WTRaMk9OaU9ieW50aUtWUkctdUI5ZlZJZkF5cnlacTQ3d18yYmVwLVhXRTI0cUlIbjNZakRYQUc2Yzduek05SG5wdkRZNHI?oc=5",
     "isFeatured": false
   }
 ]
