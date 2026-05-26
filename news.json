@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "哇！英王室認證的超強史學大師，來淡江聊全球大事！",
+    "zhSummary": "淡江大學即將舉辦一場特別的「熊貓講座」，邀請到一位兩度獲得英國王室封爵的頂尖歷史學家，他將在5月28日與大家分享全球慈善事業與憲政歷史的精彩故事，這是一個難得能親炙國際大師智慧的機會。",
+    "zhContent": "<p>嘿！各位同學，最近淡江大學要辦一個超酷的「熊貓講座」，邀請到的講師可不是一般人喔！他是一位獲得英國王室「兩次」頒授爵位的歷史學家，是不是聽起來就很厲害？這位史學界的大師，預計會在5月28日這天，跟我們聊聊全球的慈善事業發展，還有各國憲法演變的有趣歷史。想想看，能親耳聽到這麼有分量的學者分享，是不是超難得的機會啊！</p><p>這位「兩封爵」的歷史學家，簡單來說，就是因為他在學術研究上特別傑出，獲得了英國女王或國王頒發的最高榮譽，等同於被授予「爵士」稱號，而且還是兩次喔！這代表他在史學領域的貢獻是世界級的。講座上，他將深入探討全球慈善事業，也就是人們如何幫助弱勢、推動社會進步的歷史，以及「憲政史」——也就是各國怎麼建立和發展一套保障人民權利、規範政府運作規則的過程。這些主題聽起來可能有點嚴肅，但由大師來講，一定會變成很精彩的故事。</p><p>淡江大學的「熊貓講座」系列，一直以來都以邀請國際級的知名學者來分享新知聞名。這次能請到這麼一位重量級的英國史學家，顯然也是希望能帶給台灣學子和社會大眾一個難得的學習機會，了解更多國際視野和深度的人文知識。透過他的分享，大家將有機會了解全球社會運作的深層邏輯，以及這些看似遙遠的歷史背後所蘊含的意義。</p><p>所以呢，如果你對世界歷史、慈善公益或是各國的治理方式充滿好奇，這場在5月28日舉行的「淡江熊貓講座」絕對值得你關注！它提供了一個能讓你直接接觸國際頂尖智慧的窗口，而這位大師的見解想必會非常獨到。這場講座是一個深入了解全球趨勢與歷史脈絡的獨特機會。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「兩封爵」代表了什麼意義？講座的主講人將分享哪些主題？",
+      "生活與未來：你覺得為什麼大學會邀請這樣一位國際級的大師來演講？這對參與的學生和社會大眾可能帶來什麼樣的影響？",
+      "獨立思考提案：如果讓你來規劃一場類似的國際講座，你會想邀請哪一領域的專家來分享什麼樣的主題？為什麼？"
+    ],
+    "enTitle": "Twice-Knighted British Historian to Speak at Tamkang University's Panda Lecture on Global Charity and Constitutional History",
+    "enContent": {
+      "basic": "Hey everyone! Tamkang University is holding a really cool event called the \"Panda Lecture.\" They're inviting a super important historian from the UK! This person has been honored by the British Royal family not once, but twice, with a special title. On May 28th, this amazing expert will talk about how charity has grown around the world and the history of how countries make their rules (called constitutional history). It's a rare chance to hear from such a well-known scholar!",
+      "intermediate": "Tamkang University is set to host a unique \"Panda Lecture\" featuring an exceptionally distinguished guest: a historian from the United Kingdom who has been knighted by the British Royal family on two separate occasions. This signifies significant contributions to their field, earning them a prestigious title. Scheduled for May 28th, the lecture will delve into the evolution of global philanthropic endeavors and the fascinating history of constitutional development worldwide. This event presents a rare opportunity for students and the public to engage with a scholar of such international renown and expertise.",
+      "advanced": "Tamkang University is preparing to host an exclusive \"Panda Lecture,\" featuring an eminent historian from the United Kingdom. This scholar has been bestowed with a knighthood by the British Royal family on two distinct occasions, a rare honor signifying profound and sustained contributions to historical scholarship. The lecture, scheduled for May 28th, will offer an in-depth exploration of the trajectory of global philanthropy and the intricate historical development of constitutional governance. This event represents an unparalleled opportunity for attendees to engage directly with the intellectual insights of a globally recognized authority in the field."
+    },
+    "vocabulary": [
+      {
+        "word": "Historian",
+        "zh": "「歷史學家」：就是專門研究過去事件、人物和文化發展的人。他們會努力從舊文件、古物裡找出線索，來告訴我們以前發生了什麼事，幫助我們了解現在。"
+      },
+      {
+        "word": "Constitutional",
+        "zh": "「憲政」：指的是國家依照憲法來管理運作的方式。憲法就像是一套國家的基本遊戲規則，規定了政府怎麼做、人民有什麼權利等等。「憲政史」就是研究這套規則怎麼從以前到現在演變的故事。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-05-26",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ODdRbDF4T2JraFBEaktlbS1oNUN1Tk5IeGpPY1ZtTEtlcU95Z2ZUelBVQVlTdkZfVFFMVS1nUjg1NFZMNlFKNmZlRnlwTks4X1h0eURn?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "全球氣溫「碾壓式」破紀錄！科學家：這波熱浪有點猛",
+    "zhSummary": "最近全球氣溫屢創新高，不只是打破舊紀錄，更是以巨大差距超越，讓科學家們感到驚訝與擔憂。這股極端高溫被認為是長期氣候變遷與自然氣候模式共同作用的結果。",
+    "zhContent": "<p>最近全球氣溫可說是「熱」到讓人嚇一跳！不只是打破了過去的紀錄，而是把舊紀錄遠遠拋在後面，用「碾壓式」的姿態創下新高。這可不是開玩笑，世界各地都在經歷前所未有的高溫，科學家們也對這種異常現象感到非常關注。從媒體報導中可以看到，這個趨勢讓許多專家直呼「不尋常」。</p><p>這些紀錄不是只比之前高一點點，而是高出許多。想像一下，就像你在跑步比賽中，不僅僅是比前一名快了零點幾秒，而是直接把對手遠遠甩在後面，一口氣刷新了好幾秒的成績。這種情況在全球各地不斷上演，不論是陸地還是海洋，都感受到了這股熱浪的威力。許多地區的平均溫度都比以往同期高出一大截，讓大家都對這種「瘋狂」的熱度印象深刻。</p><p>為什麼會這樣呢？科學家們指出，這主要是兩大原因疊加的結果。一個是地球長期以來面臨的「氣候變遷」問題，也就是人類活動排放的溫室氣體，讓地球像穿上厚外套一樣，熱能被困住。另一個則是像「聖嬰現象」這樣的自然氣候模式，它會讓太平洋東部的海水變暖，進而影響全球的天氣。當這兩種效應碰在一起時，就會把氣溫推向一個前所未有的高度。</p><p>專家們正密切觀察這波極端高溫的發展，並持續分析相關數據。目前全球多個氣象機構都證實了這些新紀錄的誕生，而這波熱浪的影響仍在持續。科學家們將繼續研究，希望更了解地球氣候系統的變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中科學家們提到哪些因素導致氣溫破紀錄？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個現象，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Global Temperature Records Smashed: Scientists Concerned",
+    "enContent": {
+      "basic": "Global temperatures are not just breaking records, but smashing them. Scientists are very concerned about this extreme heat. It's happening worldwide, both on land and in oceans. Experts say it's due to long-term climate change and natural patterns like El Niño working together. Scientists are watching closely and studying the data.",
+      "intermediate": "Recent global temperatures have significantly surpassed previous records, alarming scientists worldwide. This phenomenon, where records are not merely broken but 'smashed' by considerable margins, is observed across continents and oceans. Experts attribute this to a combination of ongoing climate change, driven by human-emitted greenhouse gases, and natural climatic cycles such as El Niño. Researchers are continuously monitoring the situation and analyzing the unprecedented data.",
+      "advanced": "The Earth is experiencing an unprecedented surge in temperatures, with recent global readings not only breaking but dramatically surpassing historical records. This 'smashing' of records, characterized by substantial deviations from previous highs, has garnered significant concern from the scientific community. Climatologists point to a confluence of anthropogenic climate change, primarily from greenhouse gas emissions trapping heat, and natural atmospheric phenomena like the El Niño Southern Oscillation, as the primary drivers. Extensive monitoring and data analysis are currently underway to understand the full implications of this extreme warming trend."
+    },
+    "vocabulary": [
+      {
+        "word": "temperature",
+        "zh": "溫度：指一個地方有多熱或多冷。就像我們量體溫一樣，地球也有它的溫度。"
+      },
+      {
+        "word": "phenomenon",
+        "zh": "現象：指特別、不尋常的事情或自然事件。例如：極端高溫就是一種特別的氣候現象。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-05-26",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOXpUZDdCQ0x5ZXYxRzN6SEtsbFZOSjhmOTU4QXUwY1JZRXdMTlRnTXBKd0x5QnRyblhRZzlnRkdpV0p5X2RVWF80X0RnckNBUlgxNUV0MXFrQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國教育部怪招：先裁員數千人，接著又「大進擊」徵才？",
+    "zhSummary": "美國教育部近期出現人事大轉變，先是解僱了數千名員工，隨後卻又展開大規模的招募行動，打算迅速補足人力，以應對新的政策目標和工作需求。",
+    "zhContent": "<p>美國教育部最近發生了一件讓人摸不著頭緒的事：他們前一陣子才解僱了數千名員工，沒過多久，卻又大張旗鼓地展開了一場「徵才大進擊」，急著要招募許多新的人手。這種先大幅裁員又火速補人的做法，引發了外界的好奇與討論，想知道這背後到底發生了什麼樣的政策轉變。</p><p>回溯到過去一段時間，美國教育部確實進行了一輪相當大規模的人事精簡。當時，為了配合某些政策方向的調整，或是追求更精簡的營運模式，部門內部有數千名工作人員因此失去了他們的工作，這包括了許多行政支援人員和專業領域的職位。這項決定在當時也引起了不少關注，畢竟一下子有這麼多人力變動，對於部門的正常運作無疑是一大考驗。</p><p>然而，情況在近期發生了戲劇性的轉變。美國教育部現在積極地表示，他們不僅要填補過去被裁減的職位空缺，更要招募新血來應對當前教育體系面臨的挑戰。他們發現，部門在執行重要教育計畫、提供學生援助以及管理龐大教育經費等方面，出現了人力嚴重不足的情況，這些關鍵任務都因此受到影響。為了提升服務效率並推動新的教育倡議，大規模的招募新人成為了迫切的解決方案。</p><p>目前，美國教育部已經全面啟動了招募流程，積極尋找各式各樣的人才，從負責政策規劃的專家、數據分析師到校園安全顧問等職位都有。他們希望透過這次大規模的徵才活動，能迅速恢復部門的運作能量，確保各項重要的教育政策和對學生的支援服務能夠順利推動，為美國的教育體系注入新的活力。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Education Department: From Mass Firings to a Hiring Spree",
+    "enContent": {
+      "basic": "The U.S. Education Department recently fired thousands of workers, but now they are actively hiring many new staff members.",
+      "intermediate": "The U.S. Education Department initially downsized its workforce, letting go of thousands of employees due to policy adjustments. However, they are now conducting a large-scale hiring spree to fill vacancies and meet new operational demands and policy goals.",
+      "advanced": "The U.S. Education Department undertook a significant workforce reduction, resulting in the termination of thousands of employees following shifts in policy and efficiency initiatives. Presently, the department has initiated an aggressive hiring spree to address critical staffing shortages and bolster its capacity to execute new educational programs and policy objectives."
+    },
+    "vocabulary": [
+      {
+        "word": "fired",
+        "zh": "解僱 (jiěgù)。簡單來說，就是公司或單位決定請你離開，不再讓你繼續工作了。"
+      },
+      {
+        "word": "hiring spree",
+        "zh": "徵才大進擊 (zhēngcái dàjìnjī)。這是一個比較活潑的說法，指的是一個單位在很短時間內，非常積極且大規模地招募新員工，就像一場快速的行動。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-05-26",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzdCLWlTVDJDSDdyVnFpUW1mdzg0b1dobWladk9KdjVndVRaUmVPaXBWbXhsNDRnOGNTSUI3Q0lqN0NxYmkxckFaWTRkX21rb0Qxb2hORFpSbWVhZ2dEanFwczJVajNYSllEajhWNWF2bDczNXpBN2pFYzBPbkFmd1RxMF9LN0Z6Um9LTg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "Spotify執行長力挺AI音樂：比「爛貨」更好！",
+    "zhSummary": "Spotify的執行長丹尼爾．艾克近期公開表示，他認為AI製作的音樂可能比某些低品質的人類創作更好，並強調AI能成為音樂創作的有力工具，引發了音樂界對AI未來角色的熱烈討論。",
+    "zhContent": "<p>最近，大家常用的音樂串流平台Spotify的執行長（CEO）丹尼爾．艾克（Daniel Ek）說了一番話，在音樂圈裡引起不小的討論。他在一場活動中大膽為「AI音樂」發聲，並且明確表示，他覺得AI製作的音樂可能比某些被他形容為「爛貨」（slop）的音樂還要好。這番話讓很多人開始思考，AI在音樂世界裡的角色究竟是什麼。</p><p>艾克會這麼說，其實跟現在音樂上傳的數量有很大的關係。他提到，現在每天大約有十萬首新的歌曲被上傳到各大串流平台上。這麼多的音樂，雖然選擇變多了，但他認為其中有很大一部分的品質並不好，甚至有點粗製濫造，所以他用了「slop」這個詞來表達他的看法。這也反映了他對目前音樂市場上，大量低品質內容的憂慮。</p><p>丹尼爾．艾克強調，他的意思並不是要否定所有人類創作的音樂。相反地，他認為AI技術可以成為一種強大的工具，幫助那些有潛力但缺乏資源的創作者，去提升他們作品的品質和製作水準。他相信，AI有能力讓音樂作品的整體表現更上一層樓，創造出更多元、更有趣的聽覺體驗，而不是讓劣質音樂充斥市場。</p><p>Spotify執行長的這席話，可以看作是他對未來音樂產業發展的一種預測和態度。這代表Spotify可能更傾向於擁抱AI技術在音樂創作和生產上的應用，並且相信AI有助於改善用戶的聽歌體驗。雖然這引起了一些爭議，但也清楚表明了Spotify在面對科技趨勢時的立場，也為AI音樂的未來發展方向，丟出了一個重要的討論球。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Spotify boss defends move to AI music, saying it is better than ‘slop’",
+    "enContent": {
+      "basic": "Spotify CEO Daniel Ek recently defended AI music. He stated that AI-generated music could be better than some low-quality human-made music, which he called 'slop.' He explained that around 100,000 new songs are uploaded daily, and many are not good. Ek believes AI can help creators improve music quality, making it a tool to enhance the overall music experience. This shows Spotify's positive view on AI's role in the music industry.",
+      "intermediate": "Spotify CEO Daniel Ek has stirred discussion by publicly endorsing AI-generated music. He claimed AI music could surpass what he labels as 'slop'—referring to the vast amount of low-quality content uploaded to streaming platforms daily, estimated at 100,000 new tracks. Ek views AI as a powerful tool to elevate the standard of music production, empowering creators and enriching the listening experience rather than replacing human artistry entirely. This stance highlights Spotify's progressive outlook on integrating AI technology into the future of music.",
+      "advanced": "Daniel Ek, CEO of Spotify, recently sparked debate by vocally defending the merits of AI-generated music, asserting its potential superiority over what he dismissively termed 'slop.' This declaration comes amidst an unprecedented deluge of content, with an estimated 100,000 new tracks uploaded daily to streaming services. Ek's perspective suggests a belief that a significant portion of current human-made output lacks quality, and that AI can serve as a potent assistive technology. He posits that AI could empower creators, enhance production values, and ultimately elevate the overall quality and diversity of musical offerings, rather than merely supplanting human artistry. This public stance delineates Spotify's proactive embrace of AI's transformative capacity within the music industry."
+    },
+    "vocabulary": [
+      {
+        "word": "Defends",
+        "zh": "捍衛、辯護 — 當有人被批評或被誤解時，你站出來支持他，替他說話，就是捍衛他。"
+      },
+      {
+        "word": "Slop",
+        "zh": "爛貨、劣質品 — 指的是品質很差、粗製濫造的東西，像是隨便煮的難吃食物，或是很敷衍的作品。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-05-26",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUXNvUVV2S1VNdG9HUG1fOW1TLWZ0TlF2Z21mcHl1enZzVThiZnVZREN0M21SVVJPby1LdXVsR0VKUDh5aS1NY09ZOG9xdll5NlFXdTdwaVE0ckJxWTloekJkYlRTc05oRkQ4X0VHb0ZKVlQydGJwcHJHeHRNb0RGTU9EWHYyX3R4c2V5UkRycUMwUzhQTFBjS1Jn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "澳洲喜鵲太神啦！不只會認人，還有這四大超酷小秘密！",
+    "zhSummary": "《衛報》分享了關於澳洲喜鵲的五個有趣事實，原來牠們不只聰明到能記住你的臉，還有許多你不知道的獨特習性，絕對顛覆你對鳥類的想像！",
+    "zhContent": "<p>你或許聽過澳洲的動物很特別，但你有沒有想過，就連常見的鳥類都藏著驚人的秘密呢？最近，《衛報》分享了一篇關於澳洲喜鵲的報導，揭露了這種隨處可見的鳥兒五個超有趣的冷知識。其中最讓人驚訝的一點就是：澳洲喜鵲居然能記住你的臉！沒錯，牠們就像擁有超強記憶力的小偵探，能夠辨識出人類個體，這是不是很酷呢？</p><p>這種獨特的記憶力讓澳洲喜鵲不只是普通的野鳥，牠們甚至能分辨出對牠們友善或曾造成威脅的人。科學家發現，牠們的大腦結構複雜，擁有很高的學習能力，能解決一些複雜的問題。除了會認人，澳洲喜鵲也是鳥類界的「歌唱家」。牠們的叫聲非常多樣，從輕柔的鳴叫到響亮的歌聲，變化多端，而且每一隻鳥的歌聲都有點不一樣，就像人類的指紋一樣獨特喔！</p><p>澳洲喜鵲是非常社會化的動物，牠們通常會組成一群，住在特定的地盤裡。牠們會互相照顧，甚至會一起撫養幼鳥，有著非常緊密的家族關係。當外來的鳥兒或動物試圖入侵牠們的地盤時，喜鵲們會團結起來驅趕入侵者。這種集體行動和對幼鳥的保護本能，也讓牠們在野外有更好的生存機會，展現出牠們聰明且有策略的一面。</p><p>所以，下次如果你在澳洲看到喜鵲，不要以為牠們只是飛過而已，牠們可能已經在默默地觀察你了！澳洲喜鵲確實是當地最常被看見的鳥類之一，牠們不只融入了澳洲人的日常生活，也用牠們獨特的能力和習性，持續向我們展示大自然的神奇與奧秘。這些小小的「空中鄰居」遠比我們想像的要來得更智慧、更迷人呢。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，澳洲喜鵲有哪些獨特的能力和行為呢？",
+      "生活與未來：你覺得如果動物會認人，對人類和動物的相處會有什麼影響？",
+      "獨立思考提案：針對人類與野生動物的互動，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Australian Magpies: More Than Just Birds – They Know Your Face!",
+    "enContent": {
+      "basic": "Australian magpies are very special birds. A news story from The Guardian shared five cool facts about them. The most surprising fact is that magpies can remember people's faces! They can tell if you are friendly or not. Magpies are also very smart and can solve problems. They have many different songs, and each bird's song is unique. Magpies live in groups and take care of each other. They protect their homes and their babies. These birds are very common in Australia, and they show us how amazing nature is.",
+      "intermediate": "The Guardian recently highlighted several fascinating facts about the Australian magpie, one of Australia's most frequently observed birds. Remarkably, these intelligent creatures possess the ability to recognize individual human faces. This sophisticated memory allows them to distinguish between people who have been friendly and those who might have posed a threat. Beyond their facial recognition skills, magpies are known for their problem-solving abilities and complex vocalizations, each bird having a distinct \"song signature.\" They are highly social, living in territorial groups where they cooperatively raise their young and defend against intruders, showcasing their strategic behaviors in the wild.",
+      "advanced": "In a recent feature, The Guardian illuminated five compelling facts about the Australian magpie, an omnipresent avian species across the continent. Foremost among these revelations is the magpie's extraordinary capacity for human facial recognition, a testament to their advanced cognitive functions. This remarkable ability enables them to differentiate between individuals, recalling past interactions and associating specific faces with positive or negative experiences. Furthermore, magpies exhibit significant problem-solving intelligence and an extensive repertoire of melodious vocalizations, each unique to the individual. Their social structures are highly intricate, involving cooperative breeding and territorial defense within cohesive groups, strategies that underscore their adaptability and survival prowess in diverse Australian landscapes."
+    },
+    "vocabulary": [
+      {
+        "word": "Magpie",
+        "zh": "喜鵲 (Xǐquè) – 一種常見的鳥類，通常有黑白兩色的羽毛。在澳洲，喜鵲特別聰明，而且歌聲優美。"
+      },
+      {
+        "word": "Recognise",
+        "zh": "辨識、認出 (Biànshì, rènchū) – 能夠分辨出某人或某物是誰或什麼，就像看到朋友的臉就知道是他一樣。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-05-26",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnpYQjNmcFpNSHpPQkJqc0h6eDVVRWhVU0hpa0g5MTFPVGNxRVVqb2lrRDFHWjhGSmpRb0tpclNyQ0dybENsN2pNRDNjU2hSVFVJaVdhLXNDa0hNOWJzUk1LQ3RpYWJ6RlVOLVFoQ3NqWG1wWXNxMjBfMnhMbjJTeXVXM2pXM0c2ZzE1TlBYR1g5azNfVG1IelNEd3AzQWVpVHRLZDJES0wyRXNSeGV3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "電玩實況主變身政治評論員？哈桑·派克如何在Twitch談論加薩與美國政治",
+    "zhSummary": "這則新聞報導一位超受歡迎的電玩實況主哈桑·派克，他如何在直播平台Twitch上，公開討論加薩衝突和美國右翼政治等嚴肅議題，並對媒體和年輕世代獲取政治資訊的方式產生影響。",
+    "zhContent": "<p>「哈桑·派克」(Hasan Piker) 這個名字，如果你常上網看直播，大概不會陌生。他原本是一位超受歡迎的電玩實況主，但現在，他做的可不只是玩遊戲給你看。哈桑·派克在國際知名的影音直播平台 Twitch 上，不只直播遊戲，更把他的頻道變成了一個公開討論時事和政治議題的空間，像是談論中東的加薩衝突，還有美國國內右翼政治的各種看法。這讓他在網路世界中，成為一個很特別的存在，模糊了娛樂與嚴肅新聞的界線。</p><p>哈桑·派克每天都會花好幾個小時直播，他會在鏡頭前對著新聞事件發表評論，與觀眾互動，甚至和一些意見不同的人進行線上辯論。他以進步派的立場聞名，經常批判保守派的觀點，討論的內容從國際關係到美國的社會政策都有。他這種直接且個人化的方式，吸引了數百萬名粉絲，其中包含很多年輕人，他們可能平常不會特別去收看傳統新聞媒體。</p><p>這種現象之所以引人注目，是因為在過去，我們習慣透過電視或報紙來接收政治資訊。但哈桑·派克利用網路直播平台，創造了一種全新的政治參與模式。他的頻道就像一個大型的線上講堂，讓複雜的政治議題變得更容易被青少年理解和討論。當然，他的立場鮮明也引發許多爭議，有人覺得他把政治帶進娛樂圈很棒，也有人覺得這種做法並不妥當。</p><p>無論支持或反對，哈桑·派克的影響力確實越來越大，他證明了直播平台不只可以分享生活或玩遊戲，也能成為重要的政治發聲管道。這也讓我們看到，現在的年輕世代獲取資訊、形成觀點的方式，正和過去非常不同。這項發展凸顯了媒體生態的變化，以及網路名人在公共討論中扮演的新角色。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，哈桑·派克是如何利用Twitch平台來討論政治議題的？這種做法和傳統媒體有什麼不同？",
+      "生活與未來：你覺得這種「實況主談政治」的現象，會對年輕人接觸和理解政治產生什麼實際影響？你身邊的人會透過類似的方式了解時事嗎？",
+      "獨立思考提案：針對網路名人參與政治討論的現象，你覺得直播平台或相關單位可以做些什麼，來確保內容的品質和討論的健康性？"
+    ],
+    "enTitle": "From Twitch Streamer to Political Commentator: Hasan Piker on Gaza and US Politics",
+    "enContent": {
+      "basic": "Hasan Piker, a popular Twitch streamer, is changing how young people learn about politics. He uses his live streams to talk about important topics like the conflict in Gaza and US politics, not just video games. This has made him a unique voice, mixing entertainment with serious news discussions. He streams for hours, sharing his views and debating with his audience. This way, many young people who might not watch regular news now get information and different opinions through his channel. His influence shows that online platforms are becoming new ways for people, especially the younger generation, to engage with political discussions.",
+      "intermediate": "Hasan Piker, a well-known Twitch streamer, has transitioned his platform from pure gaming content to active political commentary, discussing sensitive issues such as the Gaza conflict and US right-wing politics. This approach blurs the lines between entertainment and serious journalism, making him a significant figure in online discourse. Piker conducts extensive live streams, reacting to news, expressing his progressive viewpoints, and engaging in debates with his millions of viewers. This method provides an accessible entry point to complex political topics for a younger demographic that might otherwise be disengaged from traditional news media. His growing influence highlights an evolving landscape where online personalities play a crucial role in shaping public opinion and political engagement among youth.",
+      "advanced": "Hasan Piker, a prominent figure in the livestreaming sphere, has notably leveraged his massive Twitch platform to engage in political commentary, delving into contentious subjects like the Gaza conflict and the intricacies of US right-wing politics. This strategic pivot transcends traditional entertainment, repositioning him as a significant, albeit polarizing, voice in contemporary political discourse. Piker's methodology involves extensive, unscripted live streams where he critically analyzes current events, articulates his progressive stance, and fosters real-time debate among his expansive viewership. This novel approach democratizes access to complex political narratives for a youth demographic often disengaged from conventional news outlets. The trajectory of Piker's influence underscores a fundamental shift in media consumption patterns and the increasing salience of digital personalities in shaping civic engagement and political ideology across generational divides."
+    },
+    "vocabulary": [
+      {
+        "word": "Twitch",
+        "zh": "影音直播平台：這是一個很受歡迎的網站，很多人會在上面直播自己玩遊戲、聊天或是做其他活動的過程，觀眾可以即時收看並留言互動。"
+      },
+      {
+        "word": "Discourse",
+        "zh": "論述：指的是大家對於某個特定主題（例如政治、社會議題），公開討論、表達意見和辯論的過程。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-26",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnhpZG1wanlrZ1RsWVI2cmhDb1d2c1ZDaklCczJMYW1ON3lyNWxxOHRZbGhpejZ0RFp6al94RzR2U3BBRzVtMC1mOHBmQXVBb2R3aHRBbUl0M2dFSGV0RFNONkR0OHlDZ3N4MzVRR0JxZ2lrODlDWG9LVjlwOWljNFlrdjllel9GZVBJTXBsTFUxZk3SAZgBQVVfeXFMUGZLbVBQR0U0c3RLdkN5ZEFBbGZFMWpnM2FJR0labF9YWldVUmNpLTFWUVkwY29iQVZHLTJCbld1d0ZWa1dSbWxCUFFpcHJzbXFFTFVwR0w5LU1ZVG1CQmk2TmdPQUV2OEl4UnhudUFpNXEza0hwd2plV0NRY1FTZDUzR3lGQTdjem1UdnNQZFpJOWtESVpkTlk?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東戰火緊繃 南非幣值受波及",
+    "zhSummary": "最近，美國在中東地區採取了一些軍事行動，讓大家對中東衝突可能停火的期待變小了。國際情勢一緊張，連遠在非洲的南非貨幣「蘭特」都受到影響，價值下跌了。",
+    "zhContent": "<p>最近有個新聞，可能大家會覺得有點距離，但它其實關係到我們這個世界的運作方式。你知道嗎？在遙遠的非洲，南非這個國家的錢，叫做「蘭特」（Rand），它最近的價值跌了一些。為什麼會這樣呢？原因竟然跟中東地區的緊張局勢有關，特別是美國採取的一些軍事行動，讓原本大家期待的停火希望又變得渺茫了。這聽起來是不是有點複雜，但其實就是國際間的大事牽動著經濟。</p><p>根據路透社的報導，美國最近在中東地區發動了空襲。這些空襲行動，主要是針對當地的一些目標，被認為是對之前美軍人員受攻擊的回應。原本，許多人包括國際社會，都希望能看到中東地區的衝突能有機會緩和下來，甚至達成停火協議，讓局勢不要再惡化。但隨著美國發動這些攻擊，大家對中東衝突能夠迅速平息、達成停火的樂觀情緒，就大打折扣了。</p><p>當國際政治情勢變得不穩定時，投資者通常會變得比較謹慎。他們會擔心衝突擴大，進而影響到全球的經濟發展。這種不確定性會讓一些人覺得，把錢投資在風險比較高的市場，像是新興市場（南非就是其中之一），可能不是個好主意。所以，當他們把這些市場的錢抽走，轉向被認為比較安全的地方時，南非蘭特這種貨幣的價值就會跟著下跌。</p><p>目前，中東地區的緊張局勢仍然持續，美國的軍事行動也讓原本就複雜的當地情勢更加嚴峻。南非蘭特因此呈現走弱的趨勢，反映出國際市場對中東地區情勢變化的擔憂。這顯示出一個國家的貨幣價值，不只受本國經濟影響，也與全球的地緣政治事件息息相關。這次事件就是一個例子。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South African Rand Weakens Amid US Strikes in Middle East",
+    "enContent": {
+      "basic": "South Africa's money, called the Rand, is losing value. This is because the United States made some attacks in the Middle East. People were hoping for peace there, but these attacks made those hopes smaller. When there's trouble in the world, like war, people worry about the economy. They might move their money from places like South Africa to safer places. This makes the Rand go down.",
+      "intermediate": "The South African Rand has recently seen a decline in its value. This weakening is linked to recent military actions by the United States in the Middle East. These U.S. strikes have diminished hopes for a ceasefire in the region, particularly concerning Iran-related conflicts. Global investors tend to become cautious during periods of geopolitical instability, often moving capital away from emerging markets, which include South Africa. This shift in investment causes the Rand to depreciate.",
+      "advanced": "The South African rand has experienced a notable retreat in its value, a movement directly attributed to escalating geopolitical tensions stemming from recent U.S. military strikes in the Middle East. These punitive actions by the United States have considerably dampened prospects for a near-term ceasefire, particularly in conflicts implicating Iranian proxies. The resultant increase in global risk aversion prompts international investors to divest from assets perceived as more volatile, such as emerging market currencies like the rand, in favor of safer havens. This capital outflow directly contributes to the rand's depreciation, underscoring the intricate interconnectedness between global security dynamics and currency valuations."
+    },
+    "vocabulary": [
+      {
+        "word": "retreats",
+        "zh": "「撤退、後退」或「跌落」。在這裡指貨幣的價值下跌，就像是比賽時隊伍後退，失去了領先優勢。"
+      },
+      {
+        "word": "ceasefire",
+        "zh": "「停火協議」。就是交戰的雙方，同意暫時停止戰鬥，給和談創造機會。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-26",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnJ4SjlNTTlBVjkzZEk5cHR6VjVPMjdZYnJURlpYcFBCenZmaFhSNmx5MGZxRnNYQWMtcEprYkM0ZmZySm1aVkt6YnFWVnAzbEVRNUtHUldUUkdnbWZCVjJtSGVVUmx1Vi1Zd0VVV2wySlphYV90My1ua0xTR19pNDhIQ1NKakNUVUhnd0QzSHQ0TDBBd2JQVVZWaldWUXJlMjJjbzFRN0EyZ284dmgzY2NJSEVYRjFtVHc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "物價漲不停？歐洲央行：我們會盡全力讓它穩定下來！",
+    "zhSummary": "歐洲中央銀行（ECB）正積極應對「通貨膨脹」，也就是物價不斷上漲的問題。法國央行總裁明確表示，ECB會採取一切必要措施，確保歐洲地區的物價能保持穩定。",
+    "zhContent": "<p>你最近有沒有感覺到，有些你常買的東西價格好像變貴了？在遙遠的歐洲，許多國家也正經歷這樣的挑戰，大家口袋裡的錢似乎能買到的東西越來越少。這個現象在經濟學上叫做「通貨膨脹」。而負責管理歐元區經濟的「歐洲中央銀行」（簡稱ECB）正嚴肅看待這個問題，並且準備好採取行動。</p><p>法國央行總裁法蘭索瓦．維勒魯瓦．德加洛（François Villeroy de Galhau）最近接受美國媒體CNBC採訪時，就明確地告訴大家，歐洲央行「會盡一切必要努力」來控制不斷上漲的物價。他的這番話，就像是給市場一個強烈的信號，表示ECB不會坐視不管，而是會積極出手穩定大家的經濟生活。</p><p>那麼，為什麼會有通貨膨脹呢？原因很多，有時候可能是因為生產商品的成本變高了，比如能源漲價；有時候也可能是大家對某種商品的需求突然大增，導致供不應求。當物價普遍上漲時，對普通民眾來說，生活壓力就會變大，因為賺來的錢購買力下降了。</p><p>這位法國央行總裁的發言，其實就是在強調，歐洲中央銀行把「穩定物價」當作最重要的任務之一。這意味著ECB已經下定決心，會運用手上的各種工具來對抗通貨膨脹的壓力。他們希望透過這些措施，確保歐洲地區的經濟環境能夠保持健康，大家的錢包不會持續「縮水」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「通貨膨脹」是什麼意思？歐洲央行要怎麼「盡一切必要努力」來解決它呢？",
+      "生活與未來：你覺得歐洲央行如果真的讓物價穩定下來，會對歐洲的青少年們帶來什麼實際影響？",
+      "獨立思考提案：如果物價持續上漲，你覺得政府或大人們還可以怎麼做，才能幫助大家減輕生活壓力？"
+    ],
+    "enTitle": "ECB 'will do what is necessary' to tame inflation, Bank of France governor tells CNBC",
+    "enContent": {
+      "basic": "The European Central Bank (ECB) is serious about stopping prices from going up too fast. The head of France's central bank said they will do everything needed to control inflation.",
+      "intermediate": "Inflation, which means prices are rising, is a big problem in Europe. The governor of the Bank of France, François Villeroy de Galhau, told CNBC that the European Central Bank (ECB) is committed to taking all necessary steps to bring these rising prices under control and stabilize the economy.",
+      "advanced": "Addressing persistent inflation, the European Central Bank (ECB) has affirmed its resolute stance to stabilize prices across the Eurozone. Bank of France Governor François Villeroy de Galhau conveyed to CNBC the ECB's unwavering commitment to employ all requisite measures to tame inflationary pressures, signaling a proactive approach to maintaining economic stability and purchasing power."
+    },
+    "vocabulary": [
+      {
+        "word": "Inflation",
+        "zh": "通貨膨脹 (tōng huò péng zhàng) – 簡單來說，就是市場上大部分東西的價格一直上漲，讓你的錢變得比較不值錢，買東西需要花更多錢。"
+      },
+      {
+        "word": "Central Bank",
+        "zh": "中央銀行 (zhōng yāng yín háng) – 這是一個國家或地區最主要的銀行，負責管理貨幣、穩定物價、確保金融體系的正常運作，就像是經濟的大管家。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-26",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tMUQ4a1hodEthSDBaR2NaVkNNX2FlOXNnTm9hNXB6MXdLeXRub3FiTlVobmQ0Zzg4VDlQYUVvVlJ5Z3RCN2ZrWnd0WXlnbGxEa0w5NWphNThYQURRck9rRmNOR2dfRVYyS0REN1k5R0dNQVhFT2Vr0gF8QVVfeXFMTVZ2UkFvUFBEem92OFpjYWk3MTVKM1hsT2o0Z1p1bm81WFhoalFRNlYzeGhXQXpMNEZobnd6VzBkWVpoU2lmTFFrSGQ2ZFo3UFd3eVBRbnBJd1dqTDhJQkF0dDhOS0pOYjZlYV9HWEpmQ254YXFYYURyR2s0bg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非總統捲入「現金醜聞」堅持不辭職",
+    "zhSummary": "南非總統拉瑪佛沙因一宗涉及其農場的現金竊案，面臨辭職壓力，但堅稱不會下台，引發全國關注。",
+    "zhContent": "<p>南非總統拉瑪佛沙最近可說是被一團烏雲籠罩。他因為一個被稱為「現金醜聞」的事件，正面臨來自國內外的巨大辭職壓力，但這位總統先生卻非常堅決地表示他絕對不會下台。這個事件在南非政壇和社會上都引起了非常多熱烈的討論和關注，大家都在看這場風波接下來會怎麼發展。</p><p>這起讓總統深陷困境的醜聞，其實是一件發生在他私人農場「法拉法拉」（Phala Phala）的竊盜案。據報導，早在2020年，就有一大筆數額不明的外國現金從他的農場被偷走了。然而，問題的關鍵點並不在於竊案本身，而是這筆現金的來源是否合法，以及為何總統沒有依照南非的法律規定，向相關單位正式報告這起竊案。外界有指控指出，總統可能持有一些沒有申報的巨額現金，並且在處理這宗竊盜案時沒有遵守應有的程序，這讓外界對他的誠信和操守產生了許多質疑。</p><p>隨著事件不斷發酵，南非的國會最近收到了一份獨立調查報告。這份報告經過詳細的調查後指出，拉瑪佛沙總統可能已經違反了一些反貪腐的法律規定，甚至涉及濫用總統職權。這項結論一出，立刻引發了反對黨派的強烈反彈，他們大聲疾呼總統應該立刻為此負責並辭職下台。不過，拉瑪佛沙總統對這些指控全盤否認，他堅稱自己沒有做錯任何事，並重申他會繼續留在總統職位上。</p><p>儘管面臨排山倒海的壓力，拉瑪佛沙總統仍然得到了他所屬的執政黨「非洲人國民大會」（ANC）的大力支持。目前，南非國會正在針對這份報告的內容進行激烈的辯論，並將決定是否要對總統啟動彈劾程序。這場圍繞著總統誠信和國家法治的風波究竟會如何收場，牽動著南非的未來，全世界也都在拭目以待。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa's President Ramaphosa Refuses to Resign Amid Cash Scandal",
+    "enContent": {
+      "basic": "South African President Cyril Ramaphosa is facing pressure to resign because of a 'cash scandal,' but he says he won't step down. Money was stolen from his farm in 2020, and people are questioning where the cash came from and why he didn't report the theft properly. A parliamentary report suggests he might have broken anti-corruption laws. He denies everything and refuses to leave his position. His party supports him, and parliament is now discussing whether to start an impeachment process.",
+      "intermediate": "South African President Cyril Ramaphosa is under intense pressure to resign following a 'cash scandal,' but he has firmly refused to step down. The scandal involves a large sum of foreign currency allegedly stolen from his private farm, Phala Phala, in 2020. Questions have been raised about the origin of this cash and why the president allegedly failed to report the theft to authorities as required by law. An independent parliamentary report has suggested that Ramaphosa may have violated anti-corruption laws, leading to calls for his immediate resignation from opposition parties. Despite these accusations, President Ramaphosa maintains his innocence and has the backing of his ruling African National Congress (ANC) party. The South African parliament is currently debating the report's findings to determine if impeachment proceedings against him will be initiated.",
+      "advanced": "South African President Cyril Ramaphosa is facing significant calls for his resignation amidst a deepening 'cash scandal,' yet he has adamantly refused to cede his position. The controversy stems from a 2020 theft at his Phala Phala private farm, where a substantial amount of undeclared foreign currency was reportedly stolen. Critical questions have emerged regarding the provenance of these funds and the President's alleged failure to properly disclose the incident to national authorities, potentially breaching anti-corruption statutes. An independent parliamentary panel's report has recently concluded that President Ramaphosa may indeed have violated several anti-corruption laws and potentially abused his presidential authority. While opposition parties demand his immediate departure, Ramaphosa has vehemently denied any wrongdoing and continues to receive steadfast support from his ruling African National Congress (ANC) party. The South African parliament is now grappling with the report's implications, deliberating whether to initiate impeachment proceedings against the President, a decision that holds profound implications for the nation's political future."
+    },
+    "vocabulary": [
+      {
+        "word": "scandal",
+        "zh": "醜聞，指那些因為不誠實或不道德的行為，而引起大眾討論和批評的事件，通常會讓涉事的人或組織名譽受損。"
+      },
+      {
+        "word": "resign",
+        "zh": "辭職，意思是主動放棄自己在某個工作或職位上的職務，通常是因為個人原因、壓力或對現況不滿等。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-26",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWloySFNnM0F6MnJsNXk0Y1ZMNUxyY2l4YVVWdEFEdFIzREI4Q0d4RzBDY0FxSzZ6Z0c2WTNya2Q5amh0WnNCODJRX1RUY2pweEZnanZCMEg2ajByd3JGc0d5THBBbENnb0NFYXZtRVpBZXY2Q1k2MXJJSEhMSkVHZVhMV1UtT08wVnFxMGlUUGFpNTDSAZMBQVVfeXFMUDhFSGFoeWdob2Q1c1M1T2RQVjZhSnhhSlZIazVsRjRERWpFSWpQWHZURzV0TFdxRTFZclFibjRLVEVjb1ZUb3RHUDZTWnYxVTI5Tkxmb0lIanRJU1RJbzlDU0EzcV9ybHM3eXNWTHN6bHZhN0VfM2ZJSUtBTzRseVFBME15ZXJPSS1kOXNINTBTTjAw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "獨家揭露：沙烏地阿拉伯對伊朗發動「秘密攻擊」，中東戰火悄悄擴大？",
+    "zhSummary": "路透社獨家報導指出，沙烏地阿拉伯據稱對伊朗進行了秘密攻擊，這項消息讓原本緊張的中東局勢更加複雜，可能導致地區戰火進一步擴大。",
+    "zhContent": "<p>最近，一則來自外國媒體路透社的獨家報導在中東地區引起了高度關注。這篇新聞揭露了一個驚人的消息：沙烏地阿拉伯據稱在檯面下，秘密地對其長期競爭對手伊朗發動了多起攻擊。這類隱密的軍事行動，讓原本在中東地區就已經非常緊張的局勢，變得更加複雜，甚至可能導致區域衝突的戰火範圍進一步擴大。</p><p>根據路透社引用的多位不願公開身份的消息人士的說法，沙烏地阿拉伯進行的這些攻擊並非公開宣戰，而是採取了一種不為外界所知的「秘密」方式。報導指出，這些行動可能是在地區戰事逐漸升溫的背景下發生，目的是針對伊朗，但具體的攻擊形式、時間點以及造成的影響，由於其「秘密」性質，並未被詳細公開。消息人士強調，這種做法旨在避免直接的全面對抗，卻在實際上加劇了區域的緊張。</p><p>消息來源分析，沙烏地阿拉伯之所以會採取這種「秘密攻擊」策略，可能與兩國之間根深蒂固的競爭和不信任感有關。沙烏地阿拉伯與伊朗在中東地區一直扮演著互為對手的角色，兩國在政治、宗教、經濟以及區域影響力上都有著激烈的較量。當該地區已經存在多處衝突熱點時，這樣的秘密軍事行動，就如同火上加油，讓原本就一觸即發的局勢更加難以預測。</p><p>截至目前為止，沙烏地阿拉伯和伊朗兩國的官方，都尚未針對路透社這則獨家報導的內容發表任何公開回應或證實。然而，如果這些消息人士的說法屬實，那麼這些被揭露的「秘密攻擊」，確實代表著中東地區的緊張情勢，已從檯面下的暗流湧動，轉變為可能隨時爆發的實質性衝突。報導強調，這些事件直接促成了地區戰火的蔓延，凸顯了該區域情勢的複雜性與潛在的巨大危險。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Exclusive: Saudi Arabia's Covert Attacks on Iran as Regional War Widens",
+    "enContent": {
+      "basic": "A big news report says Saudi Arabia secretly attacked Iran. This made the problems in that part of the world even worse. People called it a 'covert attack,' meaning it was done in secret. This happened as other fights in the region were already getting bigger.",
+      "intermediate": "According to an exclusive Reuters report, Saudi Arabia secretly launched attacks on Iran. Sources say these 'covert operations' happened as a regional war was already widening, making the situation more tense between the two rival countries and potentially expanding the conflict's scope.",
+      "advanced": "Reuters exclusively reported that Saudi Arabia conducted covert attacks against Iran, according to multiple unnamed sources. These operations reportedly occurred amidst a widening regional conflict, further escalating long-standing rivalries between the two powerful Middle Eastern nations and deepening instability in the area, all while official responses remain absent."
+    },
+    "vocabulary": [
+      {
+        "word": "covert",
+        "zh": "秘密的 (mì mì de)：指那些不公開、暗中進行的行動或事情，通常是為了不讓別人知道。就像秘密任務一樣。"
+      },
+      {
+        "word": "widened",
+        "zh": "擴大 (kuò dà)：表示範圍、規模或程度變得更大，像把一條小路變成大馬路，或讓一個小問題變成大麻煩一樣。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-26",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDVqZjdxVDZDeDdnNjd1RndvV0NwNTF4U1Y2cFpVRFMyMzI2WG9mQVFUTnM4YlI3NmVRcGozODRLUUhGbU5wVURWU2dBa0hvNFBxQUc5T0hOUmJENHNBWDg0ZTR2ZWZham5IYVJOY3djZmJia0J6cFg5OWV3ZzluenhIRkVXeW1HRWhYREh0Q181NG1Ncl9aV3FPZU8yQVVTT1VTblpjVjE4bW94bWhVWXpWblpMTDdGeEJVZkxzaW1ZRFU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "韓國股市衝出新高！亞洲市場卻是有人歡喜有人愁？",
+    "zhSummary": "這則新聞報導了南韓股市的「綜合股價指數」（Kospi）近期創下了歷史新高點，但同一時間，亞洲其他國家的股市交易卻呈現漲跌不一的狀況。",
+    "zhContent": "<p>最近有個重要消息，南韓的股市指數Kospi，也就是代表韓國主要企業股票表現的「成績單」，竟然衝上了歷史新高點！這代表著投資人對韓國經濟和企業充滿信心。不過，有趣的是，當韓國股市一片紅通通（代表上漲）的時候，亞洲其他國家的股市卻不是這麼回事，有的漲、有的跌，呈現一種「好壞參半」的複雜情況。</p><p>所謂的股市，你可以想像它是一個超級大的市場，大家在這裡買賣各種公司的股票。當一家公司的股票價格上漲，通常代表這家公司做得不錯，大家看好它的未來。而「Kospi」就是把韓國很多重要公司的股票表現加總起來，算出的一個分數。這次分數這麼高，表示很多韓國的大公司最近都表現得很好，讓大家覺得很振奮。</p><p>雖然新聞標題沒有詳細說明為什麼韓國股市會突然表現這麼亮眼，但通常股市會創下新高，背後的原因可能有很多。可能是因為一些大公司推出了很棒的新產品，或是國家的經濟數據看起來很不錯，又或者是投資人覺得現在是很適合買進股票的時機。總之，這些因素讓大家願意花錢投資，把股價推得越來越高。</p><p>不過，即使韓國股市表現如此突出，亞洲其他地區的股市卻沒有跟著一起大漲。有的國家股市可能因為自己的國內情況，漲幅不大，甚至下跌。所以，這次的事件就呈現了一個有趣的畫面：南韓的股市獨自突破紀錄，而周遭的市場卻是各走各的路，沒有同步出現大規模的上漲。這也說明了每個國家的經濟狀況和股市表現，其實都有它自己獨立的原因和走向。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Korea's Kospi Stock Market Reaches New Record High",
+    "enContent": {
+      "basic": "South Korea's main stock market, called Kospi, just reached its highest point ever! This is big news because it means companies in South Korea are doing very well. But in other parts of Asia, the stock markets weren't all doing the same. Some went up, and some went down. So, while South Korea was celebrating, the rest of Asia had a \"mixed\" day in trading.",
+      "intermediate": "The Kospi, which is a key indicator of South Korea's economic health and the performance of its major companies, recently hit an all-time high. This signifies strong investor confidence in the country's economy and its corporate sector. However, this positive performance stood out amidst \"mixed trading\" across other Asian markets, where some indexes saw gains while others experienced declines. This highlights a divergence in market trends within the region.",
+      "advanced": "South Korea's benchmark stock index, the Kospi, has surged to an unprecedented high, signaling robust investor optimism in the nation's economic outlook and corporate profitability. This significant achievement was observed against a backdrop of \"mixed trading\" across the broader Asian market landscape, where regional equity indexes displayed varying performances, with some registering advances and others retreating. This divergence underscores the idiosyncratic factors influencing individual markets despite geographical proximity."
+    },
+    "vocabulary": [
+      {
+        "word": "Index",
+        "zh": "指數：像是一個分數或指標，用來衡量整體表現，例如股市指數就是看整個股票市場是漲還是跌。"
+      },
+      {
+        "word": "Mixed",
+        "zh": "好壞參半：表示情況不是全部都好，也不是全部都壞，而是有好有壞，或漲跌不一的意思。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-26",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXRtcFpfQl96YUQzb1daTkdyS2NwYUpYSjVNdnJpVkctWmxtRENBaG1WMkhEcjBEN0o5Q25jMGFldGNmalRnTDQ3S0ttV0dpdUJhUS1sdFBmNUJ5MEo4ai0wS1QwNzJwdUgtMmJ4WjBWa3dONWpaRmpSendDV04wbjF2VFBFX1NlZmZUN3Brc24wVmh6M1hmWjMya2hvMGPSAaQBQVVfeXFMTU5XYkladkZRN21LVU1fZk85Wl9OcFdNeGFtQ2pPU0IySFJYUHc0dFJiMlA3SWJOMFJXLUl1d3V3VkFMSTFuaUNubUFCMXREUE5VUmVKd3IyRER4SGtzSU9oUXBKZk9VbWNQMDNFNWtVbXBUaUFLMDhUcWZVclZXU0hsb3lUOTlydS1FTGJ1VXh6YjFUeVNONVBaWEVZeVJ2YTJmV0s?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "印尼航空大變身！幕後推手是它：最新科技讓服務更順暢！",
+    "zhSummary": "印尼的國家航空公司「印尼航空」宣布，將與德國科技公司SAP合作，導入「RISE with SAP」最新科技系統，全面升級公司的數位營運，目標是提高效率、降低成本，並為乘客帶來更智慧、更方便的旅行體驗。",
+    "zhContent": "<p>「印尼航空」（Garuda Indonesia）是印尼的國家航空公司。最近，他們做了一個大決定，要和一家叫做「SAP」的德國科技公司合作，導入一套最新的科技系統。簡單來說，就是印尼航空要幫自己的「大腦」和「心臟」都換上最新的裝備，目標是讓整個公司的運作變得更聰明、更有效率。這個計畫叫做「RISE with SAP」，表示印尼航空要全面進入數位時代了！</p><p>為什麼印尼航空會想做這樣的改變呢？其實，經營一家大型航空公司非常複雜，每天要處理的資料量超級龐大，包括機票預訂、航班管理、貨物運輸、維修保養，甚至連員工薪水、財務報表等等，都需要強大系統來管理。過去，這些系統可能各自獨立，就像很多個不同的App，互相溝通會比較慢。現在，印尼航空希望透過這個「數位轉型」計畫，把所有分散的資料和流程都整合起來，讓它們在一個更快速、更穩定的「雲端」平台裡一起運作。</p><p>「RISE with SAP」到底是什麼呢？你可以把它想像成一個「超級工具包」。SAP公司把所有航空公司可能需要用到的先進軟體，像是管理財務、供應鏈、人力資源的程式，還有能分析大量數據的工具，全部打包在一起。而且，這些軟體都會放在「雲端」，這代表印尼航空不用自己買一大堆昂貴的電腦設備，可以直接透過網路使用SAP提供的服務。這樣一來，他們就能更專注在航空服務本身，而不是煩惱IT系統的維護。</p><p>印尼航空的高層表示，他們希望透過這次的科技升級，能讓公司的營運成本降低，同時提高效率，進而提供乘客更好的服務品質。例如，未來處理航班變更會更快、客訴處理會更有效率，甚至能更快地推出新的優惠方案等等。總之，這項合作將幫助印尼航空在競爭激烈的航空業中保持領先，讓他們的服務跟上時代的腳步，為每位乘客帶來更順暢、更智慧的旅行體驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Garuda Indonesia Takes Flight with New Tech: What It Means for Your Travels!",
+    "enContent": {
+      "basic": "Garuda Indonesia is an airline from Indonesia. They are making their computer systems better. They are working with a company called SAP. This will help them book flights and manage planes faster. They want to use new technology to make travel easier for people. It's like upgrading their brain!",
+      "intermediate": "Garuda Indonesia, the national airline of Indonesia, has decided to update its digital systems. They are partnering with a German tech company, SAP, to implement a program called \"RISE with SAP.\" This initiative aims to modernize how the airline operates, from managing flight bookings and cargo to finances and human resources. By moving to a cloud-based platform, Garuda Indonesia expects to make its operations more efficient and improve the overall travel experience for passengers.",
+      "advanced": "Garuda Indonesia, the flag carrier of Indonesia, is embarking on a significant digital transformation journey through a strategic partnership with SAP. By adopting the \"RISE with SAP\" solution, the airline seeks to modernize its core business processes and infrastructure. This comprehensive program will consolidate various operational aspects, including financial management, supply chain logistics, human resources, and customer relationship management, onto a unified, cloud-based platform. The goal is to enhance operational efficiency, reduce costs, and ultimately deliver a more streamlined and intelligent travel experience for its passengers in the highly competitive aviation industry."
+    },
+    "vocabulary": [
+      {
+        "word": "Digital Transformation",
+        "zh": "數位轉型：指企業或組織利用最新的數位科技（例如電腦系統、網路、大數據等），來徹底改變他們的工作方式、商業模式，甚至提供服務給客戶的方式，目標是讓一切變得更有效率、更現代化。"
+      },
+      {
+        "word": "Cloud Computing",
+        "zh": "雲端運算：想像資料不再存在你自己的電腦裡，而是放在網路上的「雲端伺服器」上，你需要的時候再透過網路連線去使用。這樣你就不用自己買很多昂貴的設備，可以隨時隨地用電腦或手機存取資料和軟體服務。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-26",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXo1VWpsYzVXc3A5QUNRMGVxeUhLZkdzWjl5ME5xcUx6UV9saTcydnViYnlEekZ0U25HSFY5YjN4VElWTV9WY0hEQVJsSk9jVHMtbmpyNGczd1ZkVHI4M0N4cXpXQzR1RmN1X3pscEN4cU9JM2lyWldLTWlFRkNOOE9FQlowbzlTenRsbml0NDFNbGM0cWVOYUhCeWRqdXlCWHJfUGU3RjZrUGtWREs4?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋的好消息！庫克群島成功「擺脫登革熱」，但挑戰仍在其他島嶼",
+    "zhSummary": "庫克群島透過積極的防疫措施，已正式宣布清除登革熱，回歸無病例狀態，然而太平洋的其他區域，登革熱的威脅仍然存在。",
+    "zhContent": "<p>嗨！大家好。最近在太平洋地區，有個好消息要跟大家分享。庫克群島，一個美麗的島嶼國家，正式宣布他們已經擺脫了登革熱的威脅，現在是「無登革熱」的狀態了！登革熱這種病呢，主要是透過蚊子傳播，會讓人發燒、全身痠痛，非常不舒服。所以，能夠成功清除登革熱，對當地居民來說真的是一大勝利。</p><p>這項好消息的背後，是庫克群島政府和當地居民共同努力的成果。據報導指出，為了達到這個「無登革熱」的目標，他們採取了許多嚴格的措施。例如，可能包括了大規模的滅蚊行動、清理積水容器以杜絕蚊子孳生源，還有加強對民眾的宣導，讓大家了解如何保護自己，避免被蚊子叮咬。經過一段時間的觀察與確認，世界衛生組織等相關單位才正式宣布他們成功擺脫了疫情。</p><p>然而，雖然庫克群島傳來了好消息，但太平洋的其他區域，登革熱的威脅卻還沒有完全解除。根據外媒的報導，在太平洋其他一些島嶼和國家，仍然陸續有登革熱的病例被通報出來。這表示在這些地方，蚊子傳播疾病的風險依然存在，當地居民和前往旅遊的人們還是需要特別留意，做好防蚊措施。</p><p>總之，庫克群島能從登革熱的陰影中走出來，確實是一個令人振奮的例子。他們證明了只要有決心和適當的策略，就能有效控制並清除這種疾病。而太平洋地區的整體情況，也提醒我們在面對傳染病時，需要持續保持警惕。目前，庫克群島已經安全無虞，但在其他太平洋島嶼，對抗登革熱的戰役仍在持續中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pacific Win! Cook Islands Declared Dengue-Free, But Other Regions Still Face Challenges",
+    "enContent": {
+      "basic": "Good news from the Pacific! The Cook Islands are now officially dengue-free. Dengue is a sickness spread by mosquitoes that causes fever and body aches. This is a big win for the people there! But, other islands in the Pacific still have dengue cases. People in those places need to be careful and use mosquito repellent.",
+      "intermediate": "The Cook Islands have successfully eliminated dengue fever, a mosquito-borne illness, and are now officially declared dengue-free. This achievement is the result of strong efforts by the government and communities, likely involving mosquito control and public health campaigns. However, reports from other parts of the Pacific indicate that dengue cases are still being reported, highlighting the ongoing challenge in the wider region.",
+      "advanced": "In a significant public health milestone, the Cook Islands have officially achieved dengue-free status, as reported by RNZ. This success follows concerted efforts to control and eradicate the mosquito-borne disease within its borders. While this marks a triumph for the island nation, the broader Pacific region continues to grapple with ongoing dengue transmissions, with cases still being reported in various other areas. This disparity underscores both the efficacy of focused public health initiatives and the persistent epidemiological challenges faced by neighboring island communities."
+    },
+    "vocabulary": [
+      {
+        "word": "Dengue",
+        "zh": "登革熱 (Deng-ge-re) – 一種由蚊子傳播的疾病，會讓人發高燒、頭痛、肌肉痠痛和出疹子。"
+      },
+      {
+        "word": "Pacific",
+        "zh": "太平洋 (Tai-ping-yang) – 地球上最大的海洋，周圍有許多島嶼國家，例如庫克群島就位於其中。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-26",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dQUlozbkQxMkUwY2Ftb3gyRkV5ajdTaWh5ZEQyMVNOUWtneTByemhKZXFGbEsxOU0yTzZxMkdERmlHZkczbkdLb3dkdHU3S0xEWTBub1U2VFcwYmZtdzhMRXUtTGs3U2czQkhWekRhNE9aSWhGNW5XaU5Ybk5FaGlPbTNBemhJMUk4Z0tjYTJjQ01kZ2daWDBYc2I3OVM0aWJfdWpBNWhfREVmOUZKZ25qT0M2d0lFR050X0U0TkpNcERaTE1scFYybE9RZw?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "伊朗無人機生產再啟動 美情報：軍力重建超乎預期",
     "zhSummary": "美國情報單位最近發布報告指出，中東國家伊朗已經重新開始生產無人機，並且其軍事力量的重建速度比大家原先預料的還要快很多。",
     "zhContent": "<p>最近，美國情報單位發出了一份重要報告，內容指出中東國家伊朗已經重新啟動了無人機的生產線。這項消息引起了國際間的關注，因為報告中特別強調，伊朗在軍事力量上的重建速度，遠遠超出了美國情報單位原本的預期。這意味著伊朗在加強防衛和攻擊能力方面，取得了比外界想像更快速的進展。</p><p>所謂的「無人機」，就是不需要飛行員在飛機裡操控，而是透過遙控或預設程式來執行任務的小型飛行器。它們可以用來偵察、監視特定區域，或是在必要時發動攻擊，是一種在現代戰場上越來越普遍的武器。美國情報單位指出，伊朗在一段時間後重新開始大量製造這些無人機，顯示他們正積極強化自身的軍事科技與武器庫，特別是在空中偵察和打擊能力方面。</p><p>這份情報報告的重點，不僅僅是伊朗重新開始生產無人機這件事本身，更在於他們軍事力量「重建」的速度和規模。美國情報單位表示，他們過去對伊朗的軍事發展有過評估，但目前的進展卻是超乎他們的預期，比他們原先估計的要來得更快、更有效率。這代表伊朗在短時間內投入了大量資源，加速提升自己的軍事實力，讓國際社會對該地區的未來局勢有了新的評估。</p><p>目前，美國情報單位持續密切關注伊朗在軍事發展上的每一個動向，特別是這些無人機的生產和部署情況。這份報告主要客觀地呈現了伊朗在無人機生產和軍力重建上的最新情況，並指出其進展超乎預期，對於國際安全情勢是一個正在發生的重要變化。這項發現將會影響未來各國對中東地區情勢的判斷和策略。</p>",
@@ -11575,461 +12030,6 @@
     "date": "2026-04-26",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlluOFdERWNNTFdQRVR2cGZjUFhGYkw1R0J0VERoZVlFTU02VzJyWC0wbGljZ2F1SVZXcXRtLWd2Q2xzQ0hMYXZLR29qbWtuazBjVDhKZDNGaWVldzc4ZmJFU1g5WE5jV2VhcTNWb2ZBVmxGZVJzNzRuWklfSGJtUWppeDhlUk5fUXY4U2s1MTN2VFdaR3o0MEJicnV4QzNNMVlTQ25kajcxYkNLVXc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國大麻政策大翻轉！司法部要讓大麻降級了？",
-    "zhSummary": "美國司法部最近提出重大建議，推動將大麻從最嚴格的「第一級管制藥物」降級。這將是美國藥物管制數十年來最大變革，但大麻在聯邦層面仍不完全合法。",
-    "zhContent": "<p>「喂，同學們，最近美國那邊有個超級大新聞，可能會讓很多人對藥物管理的看法大大翻轉！」美國司法部最近正式提出一個重大建議，他們希望將大麻從目前美國聯邦法律中，被視為最危險、管制最嚴格的「第一級管制藥物」降級。這項政策如果真的實施，將是美國藥物管制政策數十年來最重要的一次變革，不過，大家也要清楚，這不代表大麻會馬上在全美國變成完全合法喔。</p><p>目前，大麻在美國聯邦政府的法律下，是跟海洛因、LSD等藥物一樣，被列為第一級管制藥物。這表示它被認為有極高的濫用潛力，而且沒有被普遍接受的醫療用途。但是，司法部現在推動將它降到「第三級管制藥物」。第三級的藥物，雖然仍需要醫師處方才能取得，但它們被認為濫用風險較低，並且擁有被認可的醫療用途，像是某些止痛藥或合成代謝類固醇就屬於這個等級。這項變革將大幅影響聯邦政府對大麻的研究、醫療應用以及相關商業活動的看法與規定。</p><p>這次司法部會提出這樣的降級建議，其實是響應美國總統拜登在2022年發出的指示。當時，拜登總統要求美國衛生部和司法部重新檢視大麻在聯邦法律中的分類。主要原因是，儘管聯邦法律將大麻列為嚴格管制的藥物，但美國已經有許多州通過法律，允許醫療用甚至娛樂用大麻的合法販售和使用，導致聯邦與州法之間存在巨大的衝突和混亂。這次降級的推動，可以說是為了讓聯邦法律能更貼近現代的科學認識、社會現況以及多數民眾的意見。</p><p>然而，這個降級提案並不是拍板定案，它還需要經過漫長的行政程序。接下來，美國的聯邦緝毒局（DEA）將會對這項建議進行詳細的審查。在審查過程中，也會開放讓社會大眾表達他們的意見和看法。所以，雖然司法部已經明確地表達了他們的方向，這項重大政策的最終結果以及實際生效的時間，都還有待進一步的程序來確認。我們還需要持續關注這個事件的發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Department of Justice Proposes Major Cannabis Policy Change",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "downgrade",
-        "zh": "降級。意思是把某樣東西的等級、重要性或危險性降低，讓它不再那麼嚴格或嚴重。"
-      },
-      {
-        "word": "federal",
-        "zh": "聯邦的。意思是屬於中央政府，管轄全國的，而不是只管某一個州或地區。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-04-25",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NHB4RE95QWN5OFJWbVVfYURVcFpiMHB1U0NRa3RQanRiQ0FSa0ZSWmhiYmZZY0lrbERUUXJ2VXpnNUdGTlQyTXJ2Y3ZSVlRPbFRsMW53cGM1QTFzNWdB?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "美國政府發出全球警報：小心中國公司被控「偷走」AI技術？",
-    "zhSummary": "美國國務院向全球國家發出警告，指控包括DeepSeek在內的中國企業涉嫌竊取人工智慧技術，呼籲各國提高警覺，共同防範這類行為。",
-    "zhContent": "<p>嘿，各位對科技和未來充滿好奇的讀者！最近，美國政府發布了一則讓全世界都睜大眼睛的特別消息。他們透過美國國務院，向全球各國發出了一個嚴肅的警告，內容是關於一些中國科技公司，特別點名了像是「DeepSeek」這類的企業，被指控涉嫌用不公平的方式，偷偷拿走別人辛辛苦苦開發出來的「人工智慧」也就是AI技術。這則新聞是由著名的路透社獨家報導的，可見事情的重要性不一般。</p><p>這個警告的重點是什麼呢？簡單來說，美國政府是要求大家在和這些被點名的中國公司合作時，要特別、特別地小心。他們認為，這些公司可能沒有經過正常的、公平的競爭途徑，就取得了像是AI演算法、設計或是其他重要的「智慧財產」。這種行為，就像是在一場重要的科技競賽中，有人被懷疑作弊，偷偷複製了別人的高分答案一樣，這當然會讓那些努力研發的公司感到不公平，也可能傷害到全球科技創新的環境。</p><p>為什麼美國會突然發出這麼嚴重的警告呢？主要是因為美國認為，人工智慧是未來科技發展的關鍵，誰掌握了最先進的AI技術，誰就能在很多領域取得領先。所以，如果有人用不法手段去竊取這些珍貴的技術，不僅會影響到個別公司的利益，更可能對整個國際社會的科技進步造成負面影響。目前，美國國務院的這項命令已經傳達給了世界各地的美國使館，要求他們將這個警報轉達給所在國的政府和企業。不過，目前這主要還是美國方面的指控，被點名的公司對此尚未有公開回應。</p><p>那麼，這個全球警報會帶來什麼影響呢？這意味著，全球各國政府和企業在考慮與這些被點名的中國公司進行AI相關的合作時，可能會變得更加謹慎和小心。他們會更嚴格地審視合作條款，確保自己的智慧財產不會受到侵害。目前，這項警告主要還是提醒和防範，並沒有立即宣布要採取什麼具體的制裁措施。但這確實讓大家再次看到了，在快速發展的科技時代，國家之間對於關鍵技術的競爭與保護，已經變得越來越重要。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國政府為什麼要對某些中國公司發出警告？他們擔心什麼事情會發生？",
-      "生活與未來：你覺得如果這些指控是真的，對未來發展AI技術的國家或公司會造成什麼實際影響？",
-      "獨立思考提案：針對這類「技術竊取」的疑慮，你覺得國際上還可以怎麼做，才能更有效地保護智慧財產，同時又能促進科技交流與合作？"
-    ],
-    "enTitle": "US State Dept Orders Global Warning Over Alleged AI Thefts by Chinese Firms",
-    "enContent": {
-      "basic": "The US government has told countries around the world to be careful about some Chinese companies, like DeepSeek. The US says these companies might be stealing ideas and technology related to Artificial Intelligence (AI). This warning comes from the US State Department, which is like the US government's foreign affairs office. They want other countries to know about these concerns and to be watchful when working with these firms. The US believes that protecting AI technology is very important for the future. They are trying to make sure that everyone plays fair in the race to create new AI tools and systems.",
-      "intermediate": "The US State Department has issued a global directive, urging its diplomatic missions worldwide to inform host governments and and companies about alleged AI intellectual property theft by certain Chinese firms, including DeepSeek. This move, reported exclusively by Reuters, signals a heightened concern within the US government regarding the unauthorized acquisition of advanced AI technologies. The warning aims to raise awareness and encourage vigilance among international partners when engaging with the implicated Chinese entities, emphasizing the critical importance of safeguarding innovation and fair competition in the rapidly evolving field of artificial intelligence.",
-      "advanced": "In an exclusive report by Reuters, the US State Department has ordered a global diplomatic outreach to warn allies and partners about alleged AI intellectual property theft by Chinese firms, specifically mentioning DeepSeek. This directive underscores Washington's escalating concerns over the unauthorized acquisition of sensitive artificial intelligence technologies, which it deems critical for national security and economic competitiveness. US embassies and consulates are tasked with communicating these allegations and encouraging vigilance among foreign governments and businesses to prevent the illicit transfer of AI innovations, thereby aiming to uphold the integrity of the global technological ecosystem against unfair practices."
-    },
-    "vocabulary": [
-      {
-        "word": "Alleged",
-        "zh": "被指控的；據稱的。這表示某人被說做了某事，但這個指控還沒有被證明是真的，可能還在調查中。"
-      },
-      {
-        "word": "Intellectual Property (IP)",
-        "zh": "智慧財產。這指的是人們透過思考和創意發明出來的東西，像是新的技術、軟體程式、設計、音樂或文學作品等，這些是受法律保護的「無形資產」。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-04-25",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVRVY1RiN1lqaW50bmtBZUFoUmdqU3JaNUdaenlmd21LT0NXQnFySjJBMzl2QzVQTjBCRlNEMG1OMWhtQU1PUmhkdlJrUXU4ZXZZUlZHZWwxNlYwSmdWV2ltbHNCU1pqQmprdXhHMXJ4MmdZbkFqMkRjWUhtYWwxNkRRZnRWZThrN0M3Y0VQNFhTdnl3cURCNlpxUUd6bzJNY3N3Q1pvMjhmZGpURjdaR1RleGlwSjRlaE1tRWFhajVIRjg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "比利時奇幻劇來襲：這不是一場謀殺案，是藝術！",
-    "zhSummary": "一部名叫《這不是一場謀殺案》的比利時電視劇，結合了輕鬆懸疑和藝術元素，以其超現實的風格，吸引了英國《衛報》的關注。它顛覆了傳統犯罪劇的模式，提供了一種獨特又迷人的觀影體驗。",
-    "zhContent": "<p>你喜歡看偵探劇，但又怕太過血腥或嚴肅嗎？最近，一部來自比利時的電視劇，以一個特別的名字——《這不是一場謀殺案》——引起了英國媒體《衛報》的注意。這部劇並不像一般的犯罪影集，它將「輕鬆懸疑」的元素，跟「藝術」巧妙地結合在一起，創造出一個充滿想像又有點夢幻的「超現實」世界，讓觀眾一看就著迷。</p><p>這部比利時影集最特別的地方，在於它並不是要解開一個驚天動地的兇殺案。所謂的「輕鬆懸疑」（cosy-crime），指的是故事裡雖然有謎團和一些小小的犯罪，但整體氣氛是比較輕鬆、溫和的，不會有太多暴力或讓人感到緊張的畫面。它更像是一種溫馨的推理，讓你跟著劇中角色一起動腦筋，卻不會有太大壓力。影集以它獨特的敘事方式，顛覆了我們對傳統偵探劇的想像。</p><p>《衛報》特別指出，這部劇不僅僅是講故事，它本身就像一件藝術品。這可能代表影集在視覺呈現上很講究，例如場景設計、攝影角度，或是劇中人物的互動方式，都帶有特別的風格。它可能在不經意間，挑戰了觀眾對現實世界的看法，讓大家在觀看時，會覺得有點出乎意料，同時又被那種奇特的魅力深深吸引住。</p><p>總之，《這不是一場謀殺案》這部比利時影集，用一種非常規的方式，重新定義了犯罪與藝術的結合。它成功地營造出一個既有謎團又充滿藝術感的氛圍，讓它在眾多影集中脫穎而出。這部劇被形容為「令人難以抗拒的超現實比利時戲劇」，顯示它為觀眾帶來了一種前所未有的視聽享受。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "This Is Not a Murder Mystery: Surreal Belgian Drama Captivates The Guardian",
-    "enContent": {
-      "basic": "There's a new TV show from Belgium called 'This Is Not a Murder Mystery'. The Guardian newspaper liked it a lot. It's special because it mixes 'cosy-crime' with 'art'. Cosy-crime means it has small mysteries but isn't scary or violent. The show is also 'surreal', which means it's a bit strange, like a dream, but in a fun way. It's different from most detective shows and offers a unique watching experience.",
-      "intermediate": "A Belgian drama titled 'This Is Not a Murder Mystery' has captured the attention of The Guardian, a UK newspaper. This series is unique for blending 'cosy-crime' elements with artistic sensibilities. Unlike typical intense crime dramas, 'cosy-crime' refers to mysteries that are lighthearted and lack graphic violence. The show is also described as 'irresistibly surreal,' suggesting it presents a dreamlike, unusual, yet compelling narrative that challenges conventional storytelling. It aims to offer a distinctive and engaging viewing experience for its audience.",
-      "advanced": "The Guardian has spotlighted a captivating Belgian drama, 'This Is Not a Murder Mystery,' applauding its innovative fusion of 'cosy-crime' and artistic expression. This series deliberately subverts traditional crime genre tropes, focusing on lighter mysteries rather than graphic violence, characteristic of the 'cosy-crime' subgenre. Its 'irresistibly surreal' quality implies a narrative framework that is both dreamlike and unconventional, drawing viewers into a uniquely structured, thought-provoking world. The production stands out for its sophisticated visual storytelling and ability to present complex themes within an accessible, yet profoundly imaginative, dramatic landscape, distinguishing itself from conventional broadcast offerings."
-    },
-    "vocabulary": [
-      {
-        "word": "Surreal",
-        "zh": "超現實 (chāo xiàn shí) - 指的是一種特別的藝術或故事情節，它會把現實世界中不可能或很奇怪的事情，用很自然的方式表現出來，感覺像是在夢境或幻想中一樣，但又帶有一點真實感，讓你覺得既陌生又迷人。"
-      },
-      {
-        "word": "Cosy-crime",
-        "zh": "輕鬆懸疑 (qīng sōng xuán yí) - 這是一種特殊的推理故事類型，雖然裡面有謎團或小小的犯罪，但通常不會有太血腥或暴力嚇人的內容。它的氣氛比較輕鬆、溫馨，讀者或觀眾在解謎的過程中不會感到太大壓力，反而會覺得有點趣味。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-04-25",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajVPRmZfejVpVFFwcFp4MmJfRmVsVTJMUk9DNEJyZmtEdElUWW03QXlRYzNvWktFb2xjYUlQYUNBYzdGaTZMWVlsWDhkXzVnTE90WnJ3VlpmQUJ2bU92Wmg0MkVYeUJYdkFUSEVhUi1TM294NGF0bXJ2NFZFM0xxMXNTTjFUNERoNFNhN0YyQ1RELVY2XzZoVlpCejF6X2sxSjVsVzAwajBIQzZGUEVUTUJ0Rmk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "排隊慢OUT！迪士尼AI系統神助攻，遊樂設施搭更快！",
-    "zhSummary": "華特迪士尼世界正在測試一個全新的AI系統，目標是透過分析遊客動線，讓遊樂設施的載客速度加快，減少大家排隊的時間，提升遊玩體驗。",
-    "zhContent": "<p>嘿！喜歡去迪士尼玩的你們，有沒有覺得排隊等遊樂設施真的好久啊？好消息來了！華特迪士尼世界最近正在測試一個超酷的AI（人工智慧）系統，他們的目標就是讓大家排隊上車的速度變得更快，這樣你就能玩到更多設施，把寶貴的時間花在玩樂上，而不是乾等囉！</p><p>這個AI系統到底是怎麼辦到的呢？根據外媒WDWMagic的報導，這個新系統的名稱叫做「Queue Analytics」，簡單來說，它就像一個超級聰明的觀察員。它會利用各種感測器和攝影機，默默地分析遊客從進入排隊區、走到指定位置，一直到安全坐上遊樂設施的整個過程。它會不斷地學習和計算，找出排隊動線中哪裡可能比較慢、哪裡可以再優化，例如是不是有哪個步驟常常卡住，或是遊客需要多一點時間才能反應過來。</p><p>為什麼迪士尼要花心力開發這個呢？原因很簡單，就是想讓每一位來玩的客人都超級開心！大家最不喜歡的就是長時間的等待，尤其是在炎熱的天氣下。如果AI能夠精準地找出並解決那些讓排隊變慢的小細節，就算每次只快幾秒鐘，累積起來也能讓整個樂園的載客量大大提升。這樣一來，大家就能更有效率地玩遍自己想玩的設施，享受更棒的迪士尼體驗。</p><p>所以呢，這個聰明的「Queue Analytics」系統目前還在華特迪士尼世界進行測試中。它不是立刻就能讓所有設施都大變身，但迪士尼的願景是希望它未來能夠廣泛應用在園區內的各種遊樂設施上，讓每一趟迪士尼之旅都能更順暢、更充滿歡樂。我們就拭目以待，看看這項新科技會如何改變我們的遊樂園體驗吧！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，迪士尼推出的AI系統主要目的是什麼？它是如何運作的？",
-      "生活與未來：你覺得這個改變會對去迪士尼玩的遊客造成什麼實際影響？除了縮短排隊時間，還有可能有其他影響嗎？",
-      "獨立思考提案：針對這個利用AI優化排隊速度的方案，你覺得還可以怎麼做會更好，或是它可能帶來哪些潛在的問題，是迪士尼在導入時需要注意的？"
-    ],
-    "enTitle": "Disney's New AI System Could Speed Up Ride Loading at Walt Disney World",
-    "enContent": {
-      "basic": "Walt Disney World is trying a new AI system to make ride lines faster. This system, called 'Queue Analytics', watches how people move when they get on rides. It uses sensors and cameras to see where things might be slow. The goal is to help staff make changes so rides can load more quickly. Disney wants guests to have more fun by waiting less and riding more.",
-      "intermediate": "Walt Disney World is currently testing an innovative AI system designed to accelerate the ride loading process. Known as 'Queue Analytics', this system employs a combination of sensors and cameras to meticulously observe guest movement patterns from the queue entrance to boarding. By analyzing these movements, the AI identifies potential bottlenecks and inefficiencies in the loading procedure. The objective is to provide actionable insights that enable staff to optimize operations, ultimately reducing wait times and enhancing the overall guest experience. This initiative reflects Disney's commitment to leveraging technology for improved park efficiency and visitor satisfaction.",
-      "advanced": "Walt Disney World is piloting an advanced artificial intelligence system aimed at optimizing guest throughput and reducing wait times for its attractions. The 'Queue Analytics' system leverages sophisticated sensor technology and computer vision to comprehensively monitor and analyze guest flow dynamics within the queuing and boarding areas. This proprietary AI continuously processes data on pedestrian movement, station interaction, and vehicle occupancy, identifying micro-inefficiencies and predicting potential bottlenecks. The insights derived from this analysis are intended to empower operational staff with data-driven strategies to fine-tune loading protocols, thereby maximizing ride capacity and significantly enhancing the patron experience. This strategic technological deployment underscores Disney's ongoing efforts to refine operational efficacy and elevate visitor satisfaction within its theme park environments."
-    },
-    "vocabulary": [
-      {
-        "word": "AI",
-        "zh": "AI 是「人工智慧」（Artificial Intelligence）的縮寫。它是一種讓電腦像人類一樣思考和學習的技術，能幫忙處理很多事情，像是辨識圖片、語音，或是分析資料。"
-      },
-      {
-        "word": "Queue",
-        "zh": "Queue 指的是「排隊隊伍」。當我們說在「排隊」（queue up），就是大家一個接一個地等候，例如在遊樂園等著玩設施，或是到商店結帳時，都會形成一條queue。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-04-25",
-    "sourceName": "WDWMagic",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlN3dnBxRlRxWkpzQldsbk54RUVteW5idEJtYUJKMWVkYnloS1NBWHpoSF9TVXhFMk1sbEt0UTFGdWlXd2V5UURxcXRfNmtWb1ZSaWNSNkQxRWpVQnJHV3p4Vk94UWpyYUVVNm5QMmhsQmhWZWhLend0bTRpYWpWRU1za2t5Nk1WSWJoWEFzT2pQTHYwb1RuNW1WMGE1cUVBb09KRkVZbEd0VmRUWDE5Y2k4cDRvYzB4ZzgxRm1sZ1FJSTFRVDZsemhmRFd4SzlXbTc3aVZuekZobFFnUXYwcUVzOWxROXhlb0VaM04xUUFLM1MwRHRWVUpB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "地方媒體「TAPinto」貼心指南：週末活動一把抓！",
-    "zhSummary": "知名地方新聞媒體TAPinto，曾為當地居民整理了一份詳細的週末活動清單，特別在2020年4月24日至26日期間，分享了許多適合家人朋友一起參與的有趣活動，讓大家能輕鬆安排週末行程。",
-    "zhContent": "<p>你曾煩惱週末要去哪裡玩嗎？在美國，一個叫做TAPinto的地方新聞媒體，常常會為他們所在社區的居民提供這樣的貼心服務。就像在2020年4月24日至26日的那個週末，他們就發布了一篇名為「這個週末，我們當地及周邊地區的有趣活動」的報導，為社區裡的每個人指引了豐富的週末去處。</p><p>這份由TAPinto整理的清單，通常會包含各式各樣的在地活動，像是適合全家大小的公園野餐、當地舉辦的市集、藝文表演，或者是一些戶外運動建議等。這些資訊的推出，就像是為那些想在週末找樂子，卻又不知從何開始的居民，提供了一份實用的「玩樂地圖」。它讓大家不用費心上網搜尋，就能輕鬆找到家附近的好去處。</p><p>事實上，地方媒體在社區裡扮演著很重要的角色。它們不只報導嚴肅新聞，也常常會像這樣，主動去發掘和分享在地資訊。透過整理像「週末活動指南」這樣的內容，TAPinto不只幫助居民找到樂趣，也默默地支持了當地商家和活動主辦單位。因為越多居民知道並參與這些活動，社區的連結就會越緊密，也更有活力。</p><p>所以，這份由TAPinto發布的週末活動清單，不只是一則簡單的新聞，它更是當地居民的一份寶貴資源。它幫助大家在忙碌的生活中，輕鬆掌握社區裡的最新動態，並能好好規劃週末，享受與家人朋友共度的美好時光，讓當地生活變得更加豐富精彩。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "TAPinto's Weekend Fun Guide for the Local Area",
-    "enContent": {
-      "basic": "Local news outlet TAPinto often helps its community find fun things to do. For the weekend of April 24th-26th, 2020, they published a guide titled \"Fun Things to do in and Around our Local Area This Weekend.\" This guide listed various activities for people to enjoy in their community. It helped residents easily find plans for their weekend.",
-      "intermediate": "TAPinto, a well-known local news source, regularly compiles lists of activities for its community. Specifically, for the weekend of April 24th to April 26th, 2020, they released a comprehensive guide titled \"Fun Things to do in and Around our Local Area This Weekend.\" This publication likely featured diverse local events such as family outings, community markets, cultural performances, and outdoor recreational suggestions. Such guides are invaluable resources, streamlining the process for residents seeking engaging weekend plans and fostering community engagement.",
-      "advanced": "Local media platforms like TAPinto play a pivotal role beyond traditional news reporting by actively curating and disseminating community-centric information. The publication of a guide like \"Fun Things to do in and Around our Local Area This Weekend\" for April 24th-26th exemplifies this function. These comprehensive listings, encompassing family-friendly events, local markets, and cultural engagements, serve as an indispensable resource for residents. By simplifying weekend planning, these guides not only enhance the quality of local life but also indirectly bolster local businesses and event organizers, thereby strengthening community bonds and economic vitality."
-    },
-    "vocabulary": [
-      {
-        "word": "Local Area",
-        "zh": "當地、在地：指某個特定的地理區域或社區，就像你家附近或學校周圍的範圍。"
-      },
-      {
-        "word": "Community",
-        "zh": "社區：指一群住在同一個地方，或有共同興趣、連結的人們。大家共同生活、互相幫助的地方。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-04-25",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUVWTHBQdTQ1NDU5Z05NWmpaWDhRRVVOYXdqbGFzM3dxNmozemtpUlNPUmJTek5SdzdZcFFVS1I3Q3RKR3JxS3preUU5c0l3d0x0Q1dxcFZtVm5jUDg3cjZrazY1bXVyeEcwWXh2aDBZR0hqdF90MmlYVHBRakdYaWFWTTFORXRlajUxWmYtclFMZnhibG1fc3VSeW9Sb21nRnJ0ekJhUFotOFZoSDVtanMxUnFhREZEbnJkYllqR1R6NG40dUl3WW5UcUNYV3JHaTFRaElCVE1FLWJKU0FCSFFZQmY4VmJCbGNNSDg1ZE9WMVNpelBvaFM3TFoxaVdqOWQ2aUlvWktFcFBMMjV0SnJjUzdTeXNEQVJMY3M1aHhHWG1lNGc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國經濟像彈簧！專家說企業賺錢撐住股市，是真的嗎？",
-    "zhSummary": "美國CNBC的市場專家約翰·史托茲夫斯指出，美國經濟展現出強大韌性，即使面對挑戰也能快速恢復；同時，企業豐厚的收益也成為支撐股票市場的重要力量。",
-    "zhContent": "<p>最近，在美國的財經新聞節目CNBC上，一位叫做約翰·史托茲夫斯（John Stoltzfus）的市場專家，分享了他對美國經濟的看法。他認為，現在美國的經濟展現出很強的「韌性」，而且企業賺來的錢，也就是我們說的「收益」，也正在為股市提供穩固的支持。這就好像他說，儘管全球經濟可能會有些變動，但美國的經濟基本面其實是很健康的，公司有賺錢，股市就能維持一定的活力。</p><p>到底什麼是經濟的「韌性」呢？簡單來說，就是這個經濟體很能承受各種打擊和挑戰。想像一下彈簧，被壓下去之後能很快彈回來，美國經濟現在就有點這種感覺。史托茲夫斯的意思是，即使國際局勢可能有些不明朗，或者市場上偶爾會傳出一些讓人緊張的消息，美國的經濟活動，像是人們的消費、企業的生產等等，都能保持一定的穩定，不會輕易被擊垮，反而能持續運轉。</p><p>他特別提到「收益」對股市的重要性。收益就是公司在一段時間內，經過各種營運活動後實際賺到的利潤。當很多上市公司的業績表現良好，賺到的錢比大家預期的還要多時，通常會讓投資人對這些公司的未來更有信心。這樣一來，大家就更願意買進這些公司的股票，進而推動股價上漲，整個股市大盤也就能得到很好的支撐。</p><p>總結來說，根據這位來自CNBC的市場專家的分析，美國經濟目前狀態不錯，不僅有足夠的「韌性」來應對挑戰，企業實際賺取的「收益」也提供了實質的動力，讓整個股票市場保持著一個相對穩定的局面。這項觀察主要是在說明當前美國經濟和股市的客觀表現，並未提及任何未來趨勢或建議。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "John Stoltzfus: US Economy Shows Resilience, Earnings Bolster Markets",
-    "enContent": {
-      "basic": "John Stoltzfus from CNBC says the US economy is strong, like a spring that bounces back easily even after facing problems. He also mentioned that when companies make good money (their \"earnings\"), it helps the stock market stay strong and stable. So, according to him, things are looking pretty positive for the US economy and its stock market right now.",
-      "intermediate": "Market strategist John Stoltzfus, speaking on CNBC, highlighted the continued resilience of the US economy. He explained that despite various global challenges, the economy has demonstrated a strong ability to recover and maintain stability. Furthermore, robust corporate earnings are acting as a significant support for market performance, reassuring investors about the health and profitability of businesses.",
-      "advanced": "John Stoltzfus, a notable market strategist featured on CNBC, articulated his perspective on the prevailing robustness of the US economy. He emphasized the economy's inherent resilience, noting its capacity to withstand external pressures and promptly recuperate from adverse conditions. Concurrently, he underscored the pivotal role of strong corporate earnings in providing substantial foundational support for the equity markets, thereby fostering investor confidence amidst evolving macroeconomic landscapes and ensuring market stability."
-    },
-    "vocabulary": [
-      {
-        "word": "resilient",
-        "zh": "有韌性的、有彈性的。意思是很能承受打擊，就算遇到困難或壓力，也能很快恢復過來，繼續前進。"
-      },
-      {
-        "word": "earnings",
-        "zh": "收益、獲利。指公司在經營活動中實際賺到的錢。公司賺越多錢，收益就越高。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-04-25",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDdhTHVvQm1CUWhyZ1g2aHZHdzNEQmI1TnRhUnVhWkNNcUJpc29uWFNTcTg5UWxUSUZmcTFqREI5aHhpaVFtaXBjWW1Tbm5ncE0tSklpdWRqVjVPcjZEVll1a1dXbS1TMjBkaVhDeVB4cEV4bG5uSHBqTmFDRXNkYXQ4ZXJ6M3pxN2hldk9FLUc1MVVNYXVqYTZ3QklJVFR2QUJ5VEtfTG9Jdm8tclp1NTRQcjlEYTVfUnJZ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "福克蘭群島：英國的「心頭重擔」，美國也心知肚明！",
-    "zhSummary": "福克蘭群島是英國在南大西洋的海外領土，但阿根廷長期宣稱擁有主權。這使得福克蘭群島成為英國一個高度敏感的「壓力點」。外媒指出，就連美國也清楚英國對此議題的重視程度和敏感性，這在國際外交上形成一個需要謹慎處理的局面。",
-    "zhContent": "<p>在地球遙遠的南大西洋上，有一群小島叫做福克蘭群島，對英國來說，它們可不是普通的海外領土，而是一個非常敏感的「壓力點」。為什麼會這麼說呢？原來，阿根廷這個國家一直以來都堅持福克蘭群島（他們稱為馬爾維納斯群島）是他們的領土。這種主權上的爭議，讓英國對這個群島的地位特別看重，甚至在歷史上還因此爆發過戰爭。所以，每當提到福克蘭群島，英國總是小心翼翼，深怕引發任何不必要的波瀾。</p><p>這個「壓力點」不只是歷史回憶，它對現在的英國也意義重大。對英國而言，福克蘭群島代表著國家榮譽、主權原則，以及居住在島上居民的自決權利——島上的居民曾明確投票選擇留在英國。同時，群島的地理位置也具有戰略意義，周邊可能蘊藏著豐富的天然資源。而美國作為英國的長期盟友，當然很清楚英國對福克蘭群島的這份執著與敏感。這意味著在處理與英國相關的外交事務時，美國會特別考慮到這個議題，避免觸碰到英國的痛處。</p><p>這場爭議的兩方各有堅持。阿根廷根據歷史主張，認為福克蘭群島是從西班牙繼承而來的馬爾維納斯群島，理應屬於他們。但英國則強調，島上的居民有權利決定自己的未來，並長期實施有效管理。在這樣複雜的背景下，美國的立場就顯得特別微妙。雖然美國與英國是堅定的盟友，但為了維持與拉丁美洲國家的關係，美國通常會在福克蘭群島的主權歸屬上保持中立，只承認英國對群島的實際管轄，並呼籲雙方透過和平方式解決爭端。</p><p>直到今天，福克蘭群島的主權爭議依然沒有完全解決。英國持續在群島上維持其行政管理和軍事存在，以確保其主權地位。而阿根廷方面也定期重申其對群島的主權主張。因此，這個議題就像一個隱形的「壓力點」，不時會在國際舞台上浮現，提醒著各方它仍然是一個高度敏感且重要的地緣政治因素。美國對此的了解，也讓它在國際關係的棋局中，面對英阿之間的舊帳，不得不更加謹慎權衡。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Falkland Islands: A Pressure Point for the UK, and the US Knows It",
-    "enContent": {
-      "basic": "The Falkland Islands are a group of islands in the South Atlantic Ocean. They are a British territory, but Argentina also claims them. This makes the islands a very sensitive issue, or 'pressure point,' for the UK. The BBC headline says that even the United States understands how important and sensitive this issue is for Britain. This means that when dealing with global politics, the US has to be careful about the Falklands because it knows how much the UK cares about them.",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "pressure point",
-        "zh": "壓力點：指一個國家或團體非常重視、敏感，容易因為外力觸碰而引發衝突或反彈的議題或地區。"
-      },
-      {
-        "word": "sovereignty",
-        "zh": "主權：一個國家對其領土、人民以及一切內政外交事務，擁有最高的、獨立的權力，不受其他國家干涉。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-04-25",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yNk93bWMwamFLTFVUd3NoMFpSdDBncmJYQjBSQ2ZUMFpuMTJYUndQekd2bURIaVRVVTRuMWNuSGgwWFR0SFdtc0tQSUJmeHZrU3c2UlhQMy1fdw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "查爾斯國王繼承女王傳統：鞏固英美特殊情誼，不畏國際挑戰！",
-    "zhSummary": "面對複雜的國際局勢，英國查爾斯國王決定延續已故女王伊麗莎白二世的路線，持續加強與美國的緊密關係，展現兩國之間深厚的友誼和合作。",
-    "zhContent": "<p>大家可能都知道，最近世界局勢有時候會有點緊張，像是新聞裡偶爾會提到伊朗那邊的狀況。不過，就在這種國際大環境下，英國的查爾斯三世國王做出了一個重要決定。他表示，會像他已故的母親伊麗莎白二世女王一樣，繼續努力加強英國與美國之間的「特殊關係」和深厚友誼。這代表，即使全球有其他需要關注的問題，英美之間這份緊密的連結，對英國王室來說仍然非常重要。</p><p>這份「特殊關係」可不是說說而已。英國和美國有著許多共通的歷史、文化和語言，兩國在國際事務上一直是關鍵的盟友。伊麗莎白二世女王在位期間，就非常重視並投入維繫這份情誼，她曾多次訪問美國，也接待過許多美國總統。透過國事訪問、外交會議和文化交流等方式，女王讓兩國關係保持活躍堅固。現在，查爾斯國王繼承這份心力，正是希望確保這份長久的夥伴關係能持續穩定發展。</p><p>新聞裡提到「儘管有伊朗局勢的緊張」，這其實想說明一個背景：就算國際社會正因為某些地區（例如伊朗）的政治或安全問題而感到不安，英國王室的重點仍放在維持與核心盟友的穩定關係上。這並不是說要忽略其他國際事件，而是強調在變動的世界裡，擁有像美國這樣可靠的夥伴非常關鍵。這樣的策略能確保英國在國際舞台上的影響力，並在需要時能與美國攜手，共同應對全球挑戰。</p><p>總之，查爾斯國王這次的宣示，清楚地傳達了一個訊息：英國對與美國的友誼和合作關係，是堅定不移的。這不只是對他母親遺產的尊重與繼承，也顯示了在當今複雜國際環境中，維持重要盟友關係的策略考量。這份一貫的立場，也讓大家看見了英國王室在外交政策上的穩定性和重要性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，查爾斯國王決定繼續「特殊關係」，這個「特殊關係」指的是什麼？為什麼對英國王室來說很重要？",
-      "生活與未來：你覺得國王選擇在「伊朗局勢緊張」時特別強調英美關係，對全球穩定會有什麼實際影響？",
-      "獨立思考提案：如果英國和美國是「最好的朋友」，你認為他們可以如何進一步合作，來幫助解決世界上的其他挑戰？"
-    ],
-    "enTitle": "King Charles III Follows Queen's Lead to Fortify US-UK Bonds Amidst Global Tensions",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "bonds",
-        "zh": "聯繫、情誼。就像一條看不見的線，把兩個國家、兩群人或兩個人緊緊連在一起，代表他們之間深厚的友誼或共同的利益。"
-      },
-      {
-        "word": "tensions",
-        "zh": "緊張局勢。當不同國家或團體之間有分歧、不滿或潛在的衝突時，就會形成一種緊繃、不安的狀態，這就叫做緊張局勢。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-04-25",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmtVUmtDcEFnQU5XY1RHTDRyMDVFRTNzTUFaRGJJMGtIZFk5bUxENkJzZVJPMV9TMmpZbmpRTENtd1JPM3VPNmhnQ2d1Nm9CR3VVU0tmc2ozT3ktUEhITEVjaDllUTVSUmFsZ19XX2w1c2ZxYkZvR1BVYUpUeWpKeWVPRHV3b2M5NUNFam5OY0NiSEpVQ2g1eG1CMktlRUdjTnhkR29R?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非企鵝挨餓大作戰：食物不夠，生存拉警報！",
-    "zhSummary": "南非的非洲企鵝正面臨嚴重的食物短缺危機，因為牠們的主要食物來源——沙丁魚和鯷魚數量大幅減少。這導致大量企鵝挨餓，族群數量銳減，保育團體和政府正努力尋找解決方案。",
-    "zhContent": "<p>南非的企鵝現在面臨大麻煩了。這些可愛又特別的非洲企鵝，本來是當地海岸線的標誌性動物，但最近卻傳出牠們大量挨餓的消息，整個物種的生存都出現了嚴重的危機。科學家和保育人士都非常擔心，因為許多企鵝都因為找不到足夠的食物而變得瘦弱不堪，甚至餓死。這讓本來就已經數量不多的非洲企鵝，情況變得更加危急。</p><p>為什麼這些企鵝會餓肚子呢？最主要的原因是牠們最愛吃的沙丁魚和鯷魚，數量在南非海岸附近大幅減少。這些小魚是企鵝重要的能量來源，少了牠們，企鵝就沒辦法捕到足夠的食物。專家們認為，除了氣候變遷導致海洋環境改變，影響魚群分佈外，人類過度捕撈這些小型魚類，也是造成企鵝食物短缺的關鍵因素之一。魚類捕撈船隊大量捕撈，讓企鵝在廣闊的海洋中更難找到填飽肚子的機會。</p><p>面對這樣的困境，許多保育組織和南非政府都繃緊神經。他們試圖透過各種研究，了解沙丁魚和鯷魚族群數量變化的真正原因，希望能找到解決辦法。有研究顯示，過去數十年來，非洲企鵝的數量已經銳減了超過七成，從曾經的數百萬隻到現在只剩下幾萬隻，是瀕臨滅絕的物種。為了保護這些企鵝，南非當局也考慮擴大海洋保護區的範圍，並且調整漁業捕撈的規定，希望讓魚群有機會恢復生長，好讓企鵝能有更多食物。</p><p>儘管已經有許多人投入心力，非洲企鵝的處境依然非常艱難。牠們的數量持續下降，許多小企鵝剛孵化出來就面臨生存威脅，因為父母可能沒有足夠的食物餵養牠們。這個問題的解決方案，並不是單一的措施就能見效，需要更長時間的努力和國際合作。目前，南非的企鵝危機仍持續存在，保育團體呼籲大家關注牠們的困境，希望透過科學研究和政策調整，能夠為這些南非特有的可愛生物找到一線生機。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Africa's Starving Penguins: A Crisis of Disappearing Food",
-    "enContent": {
-      "basic": "African penguins in South Africa are facing a serious problem: they are starving. Their main food, small fish like sardines and anchovies, are getting harder to find. This situation is making fewer and fewer penguins survive, and conservationists are very worried.",
-      "intermediate": "South Africa's iconic African penguins are in a dire crisis due to a severe shortage of their primary food sources, sardines and anchovies. Scientists believe overfishing and climate change are contributing to the decline of these fish populations, leading to widespread starvation and a drastic drop in penguin numbers, pushing the species towards extinction.",
-      "advanced": "An escalating ecological crisis is gripping South Africa as African penguin populations face unprecedented starvation. The species' survival is jeopardized by the scarcity of their staple diet, predominantly sardines and anchovies. Research indicates that a confluence of factors, including unsustainable fishing practices and climate-induced oceanographic shifts affecting fish distribution, has decimated the penguins' food supply. Conservation efforts are underway, involving stricter fishing regulations and the expansion of marine protected areas, yet the species' long-term viability remains precarious."
-    },
-    "vocabulary": [
-      {
-        "word": "iconic",
-        "zh": "標誌性的，代表性的。指某個地方或群體裡，很有特色、很有名，一眼就能認出來的代表性事物或角色。"
-      },
-      {
-        "word": "crisis",
-        "zh": "危機。指的是一個非常危險、緊急，需要立刻處理，不然可能會造成嚴重後果的狀況。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-04-25",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjNoV2tHanVsVnhLMHY4ZjlXOVRYeXBsMk9SM21zcWNiUWFodmdyZlRDTGl4enVWNFNSak1sV3BIakttS2lOTmtEZDF1SEhfTUJ5X04wSmxCaHFKUmEwYXFYMjgtaTdFM2VXUjFFZjRhbUxQcHpfa3dHR01fdFQ3WWczaFItTzZMVUpOaE5GcEUxRzFKcG90RQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中亞建築大變身：告別蘇聯時代，尋找自己的樣子",
-    "zhSummary": "隨著中亞各國努力擺脫俄羅斯的影響，許多蘇聯時期的建築物正在被拆除，取而代之的是具有現代或本土風格的新建築，展現這些國家尋求獨立認同的趨勢。",
-    "zhContent": "<p>你曾想過，一個國家的建築風格會說話嗎？在中亞地區，那些曾經屬於蘇聯時期的建築物，正悄悄地消失。這不只是一些舊房子被拆掉這麼簡單，它其實反映了這些國家正在努力擺脫過去，找到自己的新面貌，就像是一場靜默的革命，正在城市景觀中發生。</p><p>想像一下，你走在街上，看到一棟棟宏偉、方正的蘇聯式建築，它們的設計風格很統一，代表著那個時代的審美和意識形態。但現在，許多城市正在改變。在哈薩克、烏茲別克等國家，政府和開發商開始拆除這些舊建築，取而代之的是新潮的現代大樓、購物中心，或是帶有當地傳統元素的建築。例如，一些廣場上的蘇聯紀念碑可能被移走，換上紀念自己國家英雄的雕像，讓城市的面貌煥然一新。</p><p>這些中亞國家過去都是蘇聯的一部分，深受俄羅斯文化的影響。但隨著時間過去，他們越來越想證明自己是獨立的國家，有自己的文化和歷史。拆除蘇聯時期的建築，就是一種宣示自己與過去切割的方式。他們希望能展現出更現代、更國際化的形象，同時也重新找回屬於自己的民族認同。這也是一種發展經濟的表現，因為新的建築通常帶來新的商機和觀光客，讓城市更具活力。</p><p>因此，你會看到中亞城市的樣貌正在快速轉變。從過去充滿蘇聯印記的城市景觀，變成融合了現代設計和本土文化的新風格。這種建築上的改變，就像是這些國家在歷史進程中寫下的新篇章。它反映了他們正在積極地朝著與莫斯科漸行漸遠的方向發展，並且努力塑造屬於自己的未來，展現他們獨立自主的決心。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，中亞國家為何要改變城市景觀？它們拆除蘇聯建築後，又選擇建造什麼樣的新建築？",
-      "生活與未來：你覺得這種「拆舊建新」的改變，會對當地居民的日常生活帶來什麼實際的影響？對他們的歷史記憶會有什麼不同？",
-      "獨立思考提案：如果有一個地區的建築風格象徵著一段複雜的歷史，你認為除了完全拆除，還有沒有其他更折衷或創新的方式來處理這些建築，同時也能展現新的國家認同？"
-    ],
-    "enTitle": "Central Asian Architecture Undergoes Transformation: Bidding Farewell to Soviet Era, Discovering New Identity",
-    "enContent": {
-      "basic": "In Central Asia, old Soviet buildings are disappearing. Countries like Kazakhstan and Uzbekistan are replacing them with new, modern buildings. This shows they want to be more independent and have their own unique look, moving away from Russia's past influence.",
-      "intermediate": "As Central Asian nations increasingly seek to assert their independence from Moscow, Soviet-era architecture is gradually vanishing from their cityscapes. These buildings, once symbols of a shared past, are being replaced by modern structures or designs incorporating local cultural elements, signifying a deliberate move towards forging unique national identities and embracing economic development.",
-      "advanced": "The architectural landscape of Central Asian republics is undergoing a significant metamorphosis, as these nations progressively disentangle themselves from Russia's historical and cultural dominion. The systematic dismantling of Soviet-era structures and their replacement with contemporary, often indigenously-inspired, designs serves as a tangible manifestation of a broader geopolitical and cultural reorientation, reflecting a potent drive for national self-determination and economic modernization."
-    },
-    "vocabulary": [
-      {
-        "word": "architecture",
-        "zh": "建築學 / 建築風格 - 指的是蓋房子的學問，或是一棟房子、一個城市看起來的樣子和風格。"
-      },
-      {
-        "word": "drift",
-        "zh": "漂流 / 漸漸遠離 - 就像船隻在水上慢慢地飄走一樣，指某人、某事或某國家漸漸地離開原來的位置或影響。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-04-25",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmZDYlpMU0dWQTFvQnI5MldzMmpZcVdnakw3NXA1eTZVQS1ta01TdEVGcGNRazNXS3lxYzhnb25RZndvWnh2T0U5TWtIVWIwdHprMEZIaGVCbTlYVFVQdDVleXFGTnl4TGNETG0xSUZwU1M2MjNFdWNMd3RXaHdtMTEySUlkd1JubzQ4aW0wYjQ3Q05lbnZNWnpGUFZWRU5WZy1lWVZIdi1iQ1hRSi1V?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南韓前總統尹某涉「無人機案」 檢方求刑30年引關注",
-    "zhSummary": "南韓檢察官向法院要求，針對一宗與「無人機事件」相關的案件，判處前總統尹某長達30年的有期徒刑。此消息由韓聯社報導，並經路透社轉載，顯示即使是國家前領導人，也可能面臨嚴格的法律追究。",
-    "zhContent": "<p>「哇！南韓檢察官竟然要求判一位前總統坐牢30年！」這真是讓人瞪大眼睛的新聞。根據知名通訊社路透社報導，南韓檢察官目前正針對一宗與「無人機事件」有關的案件，向法院要求對前總統尹某判處長達30年的有期徒刑。這項消息最初是由韓聯社報導出來的。這不僅是一個嚴肅的法律案件，也顯示了即使是國家最高領導人，一旦卸任後，也可能面臨嚴格的法律審判。</p><p>新聞中提到的「無人機事件」，雖然標題沒有細說具體內容，但通常指的是涉及無人飛行載具（也就是我們常說的「空拍機」或「無人機」）的違法行為。這可能包含多種情況，例如非法使用無人機進行監控、洩露國家機密、違反飛行規定，甚至是用於不正當的軍事或安全相關活動。由於無人機技術發展迅速，各國對於其使用都有嚴格的法規，確保不會被濫用或危害公共安全及國家利益。</p><p>在這起案件中，「檢察官」的角色就像是政府的代表律師，他們負責調查犯罪、收集證據，並在法庭上提出指控，要求法官對被指控者處以適當的刑罰。當檢察官要求「30年有期徒刑」時，這代表他們認為這起無人機事件的嚴重性非常高，對社會或國家造成了巨大的損害。這麼重的刑期請求，在任何國家都是相當罕見且非常嚴厲的，這也突顯了此案的敏感性和重要性。</p><p>目前，檢察官提出的是量刑建議，最終的判決結果還需要經過法院的審理。法官會根據所有證據、證詞以及相關法律條文，獨立作出判斷。這則新聞的核心就在於檢察官對這位前總統提出的這項嚴厲求刑。它不僅是南韓法律程序的一個重要發展，也讓大家關注到前國家領導人所應承擔的責任，以及法律在社會中的公正性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korea Prosecutors Seek 30-Year Jail Term for Ex-President Yoon in Drone Case",
-    "enContent": {
-      "basic": "South Korean prosecutors want former President Yoon to go to jail for 30 years. This is because of something called a \"drone case.\" The news comes from Yonhap and was shared by Reuters. This shows that even people who were once very powerful can face serious legal problems. The \"drone case\" likely means something illegal involving drones, like using them the wrong way. Prosecutors are like government lawyers who ask judges for a punishment. A 30-year jail term is very long and shows how serious the case is. The court will decide the final punishment, but this news is a big deal in South Korea's legal world.",
-      "intermediate": "South Korean prosecutors have reportedly requested a 30-year prison sentence for former President Yoon in connection with a \"drone case.\" This significant development was first reported by Yonhap and then picked up by Reuters. The demand for such a lengthy sentence highlights the extreme seriousness of the allegations against the former head of state. While the specific details of the \"drone case\" remain undisclosed in the headline, it typically implies illegal activities involving unmanned aerial vehicles, such as misuse of technology or violations of national security regulations. Prosecutors act as the legal arm of the government, investigating crimes and proposing penalties. The severity of this proposed sentence underscores the accountability expected from even the highest officials. The courts will ultimately determine the outcome.",
-      "advanced": "In a notable legal proceeding that underscores the principle of accountability, South Korean prosecutors are reportedly seeking a substantial 30-year custodial sentence for former President Yoon. This highly publicized demand stems from a \"drone case,\" the specific intricacies of which have not been detailed in the initial reports from Yonhap, subsequently disseminated by Reuters. The invocation of such a severe penalty by the prosecution, acting as the state's legal representatives, signals the gravity with which the allegations surrounding the alleged misuse or illegal deployment of unmanned aerial vehicles are being treated. This development is particularly significant as it pertains to a former head of state, illustrating the rigorous application of legal frameworks irrespective of past official status. The ultimate verdict and sentencing will be rendered by the judiciary following a comprehensive trial process."
-    },
-    "vocabulary": [
-      {
-        "word": "Prosecutor",
-        "zh": "檢察官：就像是政府的律師，他們的工作是調查犯罪、收集證據，並在法庭上指控犯罪者，要求法官給予處罰。"
-      },
-      {
-        "word": "Drone",
-        "zh": "無人機：一種沒有人坐在裡面駕駛，而是從遠端遙控的飛機。我們常看到的空拍機就是無人機的一種，可以用來拍照、錄影，但如果亂用也可能會有法律問題。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-04-25",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVDNuVmVaemJOak1aTkJobVlRdXN3WHl1UHRFeGU5M1dVRU5xaDQ4ZFhKSHV0Z2tuZGxndG0yWjVycmFaSjdacm9wSzladXUyQnF3cGhMbzUwQ1ZpbVg1UUdnWTBCcVVBZ20yTENabHZHQUYzT3F0aDZ2all6QmJmeWxaUVNKdGs3ajRRR09BaDZsVjFGaUQ5dElEXzZ6V3BRM1BfLXZoQjVjb3J2UVc3bE5ETE43LVNQeDlyZUhYSTB1ckV2T0x1Z1lFTS1MR0FS?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "麻六甲困境：亞洲貿易的『生命線』與挑戰",
-    "zhSummary": "麻六甲海峽是亞洲最重要的航運要道，但其狹窄的特性也造成了「麻六甲困境」。這篇報導將解釋這個困境是什麼，以及亞洲國家如何努力尋找替代方案來確保貿易和能源安全。",
-    "zhContent": "<p>你聽過麻六甲海峽嗎？這條位在馬來西亞和印尼之間的水道，看起來好像只是地圖上一小條窄窄的線，但它卻是亞洲，甚至全世界，最重要的航運要道之一！每天有無數艘貨船和油輪，載著我們生活需要的石油、各種商品，從這裡進出。對許多亞洲國家來說，特別是那些很依賴進口石油的國家，麻六甲海峽就像是他們的「生命線」，攸關著能源和經濟的命脈。</p><p>然而，這條重要的航道也帶來了一個讓大家傷腦筋的問題，我們稱它為「麻六甲困境」。想像一下，如果這條又窄又長的海峽因為海盜活動、天災，甚至是不友善的國家故意阻擋，那麼大量的船隻就可能無法順利通過。這會讓許多國家的石油供應中斷，工廠停擺，商品也運不出去，對全球經濟造成巨大衝擊。因為它太重要又容易受影響，亞洲各國都在想辦法減少對它的依賴。</p><p>為了應對這個困境，亞洲各國提出了不少策略。有些國家正在積極發展陸路運輸，像是蓋新的鐵路或石油管線，讓物資可以不經過海運，直接從陸地運送。有的國家則考慮開發其他的航運路線，例如在泰國開鑿一條連接兩大海域的運河（也就是大家常聽到的克拉地峽運河），或者研究在北極冰層融化後，開闢新的北極航道。這些都是希望萬一麻六甲海峽真的出了狀況，還有其他的替代方案可以使用。</p><p>目前，這些策略都還在規劃和討論的階段，有些工程也正在進行中。各國都希望能找到最安全、最經濟又最有效的方法，來降低麻六甲困境可能帶來的風險。確保國際貿易暢通和能源穩定供應，對每個國家來說都是非常重要的任務。這個問題沒有一個簡單的答案，各方持續尋找解決之道，以維持亞洲地區的穩定與發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Understanding the 'Malacca Dilemma': Asia's Strategic Seaway Challenge",
-    "enContent": {
-      "basic": "The Malacca Strait is a crucial shipping route between Malaysia and Indonesia, vital for global trade, especially for oil and goods heading to Asia.",
-      "intermediate": "Known as the 'Malacca dilemma,' the strait's narrowness makes it vulnerable to disruptions like piracy or blockades, posing a significant risk to the energy security and economies of many Asian nations.",
-      "advanced": "To mitigate this strategic vulnerability, Asian countries are exploring alternative solutions such as developing land-based transport corridors, like pipelines and railways, or investigating new maritime routes, including the proposed Kra Canal in Thailand and potential Arctic shipping lanes."
-    },
-    "vocabulary": [
-      {
-        "word": "Dilemma",
-        "zh": "困境：指在兩種或多種選擇中難以決定，而且每種選擇都有不好的地方。就像你很餓，但冰箱只有你不想吃的蔬菜和你討厭的魚，你不知道該選哪個。"
-      },
-      {
-        "word": "Chokepoint",
-        "zh": "咽喉點：形容一個地理位置非常狹窄，但卻是交通或運輸上非常重要的關卡。就像人的喉嚨一樣，雖然很小，卻是呼吸和說話的關鍵部位。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-04-25",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUEc5WFdfcUYxWE1vLXVYSHhNQmZ3V1B2NXVsSTR0Z0o4YTBpVEE5TUJXZ2ZoaUd5TFJZckt0QV9rcTlhZzdEelVjTGZ3ZHduSGZFeXoyQldUdlpOM2RzbFVFQXVaTUJfNVBVeHZLTHJEN0hjajEyZWx2WkQ3VUk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋上的友情考驗？庫克群島總理這樣說：中國是好朋友，紐西蘭才是家人！",
-    "zhSummary": "庫克群島總理馬克·布朗最近公開表示，中國是他們的好朋友，但紐西蘭卻是像家人一樣的存在。這個發言讓外界看到了這個太平洋小島國在面對國際關係時，如何在發展機會和傳統情感之間取得平衡。",
-    "zhContent": "<p>最近，太平洋上一個美麗的小島國家——庫克群島的總理馬克·布朗，說了一段非常引人注目的話。他告訴大家，中國對他們來說是個「好朋友」，但紐西蘭卻像是「家人」一樣。這段話立刻引起了許多人的討論，因為它清楚地表達了庫克群島在複雜的國際舞台上，如何看待他們與不同國家的關係。</p><p>在太平洋地區，許多島嶼國家都會同時與幾個大國保持聯繫。有的提供經濟援助，有的則有深厚的歷史連結。這次，馬克·布朗總理的發言，特別強調了紐西蘭對庫克群島的重要性。紐西蘭和庫克群島之間有著長期的「自由聯合」關係，這代表著庫克群島雖然擁有獨立的自主權，但在某些關鍵事務上，例如國防和外交，會和紐西蘭緊密合作。這層關係讓他們之間的情感基礎非常深厚，就像一家人一樣互相支持。</p><p>然而，中國在太平洋地區的影響力近年來也越來越大。中國為許多太平洋國家提供了基礎建設的貸款和開發援助，幫助這些國家建造道路、港口或其他重要的設施。對庫克群島來說，中國是個願意提供幫助的夥伴，因此被稱為「好朋友」。這種友誼有助於庫克群島的經濟發展和生活改善，是他們無法忽視的機會。</p><p>馬克·布朗總理的這番話，其實是在對外界傳達一個清晰的訊息：庫克群島在追求發展的同時，也非常重視傳統的關係和長期建立的情感。這並不是要選邊站，而是要說明他們如何平衡不同的國際關係，確保國家的最大利益，同時也堅定自己的立場。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，庫克群島總理用「家人」和「好朋友」來形容兩個不同國家，你覺得這兩種形容詞各自代表了什麼樣的關係？",
-      "生活與未來：你覺得庫克群島總理為什麼需要特別出來說明他們與這兩個國家的關係？這會對他們國家未來的發展產生什麼影響？",
-      "獨立思考提案：如果有一個你很親近的人（像家人），同時又有一個給你很多幫助的朋友，你會怎麼平衡你和他們之間的關係？"
-    ],
-    "enTitle": "Cook Islands PM: China a 'Good Friend,' New Zealand is 'Family'",
-    "enContent": {
-      "basic": "Cook Islands Prime Minister Mark Brown recently made a statement about his country's relationships with China and New Zealand. He said China is a 'good friend,' but New Zealand is 'family.' This shows how the small Pacific island nation balances different international connections. New Zealand and the Cook Islands have a special historical bond, like family, where they help each other. China helps with building new things and economic projects, making them a 'good friend.' The Prime Minister's words clarify that while they welcome help from China, their deepest ties are with New Zealand.",
-      "intermediate": "Cook Islands Prime Minister Mark Brown recently expressed his nation's foreign policy stance, stating that China is a 'good friend' while New Zealand is 'family.' This declaration highlights the Cook Islands' approach to managing its international relations, balancing strong historical and cultural ties with New Zealand—a relationship of 'free association'—against the growing economic engagement and development assistance from China. The Prime Minister emphasized that while China provides valuable friendship and development opportunities, the bond with New Zealand remains paramount, rooted in shared history and mutual support, akin to a family relationship.",
-      "advanced": "In a nuanced articulation of the Cook Islands' geopolitical strategy, Prime Minister Mark Brown recently drew a distinct line between his nation's rapport with China and New Zealand. Describing China as a 'good friend' and New Zealand as 'family,' Brown underscored the dual nature of the Cook Islands' foreign policy. The 'family' designation for New Zealand reflects a deeply embedded, constitutionally sanctioned relationship of 'free association,' where shared heritage and mutual assistance, particularly in areas like defense and foreign affairs, form an unbreakable bond. Conversely, China's role as a 'good friend' acknowledges its significant contributions in economic development and infrastructure projects across the Pacific, which are vital for the Cook Islands' growth. This statement is a diplomatic maneuver to affirm foundational alliances while judiciously engaging with emerging economic partners, ensuring national sovereignty and strategic interests are maintained amidst evolving regional dynamics."
-    },
-    "vocabulary": [
-      {
-        "word": "Diplomacy",
-        "zh": "外交：就是指不同國家之間，互相溝通、談判，以及處理彼此關係的方式。想像一下，就像不同學校的班級代表互相交流，討論怎麼合作或解決問題。"
-      },
-      {
-        "word": "Sovereignty",
-        "zh": "主權：這是一個國家自己做主、管理自己的權力，不受其他國家控制。就像你的家有你自己的規矩，其他家庭不能隨便干涉一樣。庫克群島就是一個擁有自己主權的國家。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-04-25",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXQ5bUJLenpDUlByM1I0OFhLbzJtUjJmSzVOVW9fQnFqTG9vQTBCN0RGVTJzc0t0WlNST1pSZ2JqU2dKOF9rd25sMDFlTDBvWWNpN2YwN1RJVFJQdk1OajI4NjI5eEVRaWNSemhtY3R2UVBXRTNORlRBTExJRlFXNklqQkJQR1MzTkxUTHBYVXNrcE1YaGNYWHZzbEM3ZmM5T0R6eG1yQmtwMXg5TFZ4LXJB?oc=5",
     "isFeatured": false
   }
 ]
