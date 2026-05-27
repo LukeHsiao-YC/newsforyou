@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "淡江大學熊貓講座：英王室雙封爵史學大師 5/28來台開講慈善與憲政史",
+    "zhSummary": "淡江大學將在5月28日舉辦「淡江熊貓講座」，邀請到一位兩度獲得英國王室封爵的頂尖歷史學家，暢談全球慈善事業與憲政制度的歷史發展。",
+    "zhContent": "<p>嘿，同學們！最近淡江大學將舉辦一場很特別的講座，邀請到一位來頭不小的英國歷史學家。這場名為『淡江熊貓講座』的活動，將帶我們一窺全球歷史上關於慈善和國家制度的演變。</p><p>這位即將登場的大人物，就是曾經兩次獲得英國王室授勳的史學大師。他將在5月28日這天，跟大家深入聊聊全球慈善事業的發展，還有各國憲政制度的歷史。簡單來說，就是我們會聽到關於人們如何互相幫助，以及國家如何建立規則來運作的故事。這不只是一場普通的演講，更像是一趟穿越時空的知識旅程。</p><p>這位史學大師之所以能兩度獲英國王室封爵，代表他在歷史研究領域有著非常卓越的成就與貢獻。能夠獲得這樣的肯定，可不是件容易的事。他的專業背景讓他對『全球慈善』和『憲政史』這兩個聽起來有點嚴肅，但其實跟我們生活息息相關的領域，有著獨到且深刻的見解。他將分享的是那些影響了世界走向的重要觀念和事件。</p><p>總之，這場由淡江大學主辦、中央社也特別報導的『淡江熊貓講座』，預計在5月28日登場。屆時，這位重量級的史學大師將會在現場，帶領大家一起探索全球慈善與憲政史的奧秘。這是一個難得的機會，能直接聽聽頂尖學者怎麼看這些重要的歷史議題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，那位史學大師的「雙封爵」對他的講座內容或個人聲望有什麼樣的影響？",
+      "生活與未來：你覺得聽一位研究全球慈善與憲政史的學者講課，對於我們理解現在的社會有什麼幫助？",
+      "獨立思考提案：如果由你來策劃一場講座，你會想邀請哪種專業背景的人，來分享什麼樣的主題給同齡的朋友？"
+    ],
+    "enTitle": "Tamkang Panda Lecture: Double-Knighted British Historian to Discuss Global Philanthropy and Constitutional History",
+    "enContent": {
+      "basic": "Tamkang University is holding a special lecture on May 28. A famous historian from Britain, who has been honored by the British Royal Family twice, will talk about world charity and how countries are governed. This 'Tamkang Panda Lecture' will be a chance to learn about big historical ideas in a simple way.",
+      "intermediate": "Tamkang University's upcoming 'Panda Lecture' on May 28 will feature a distinguished British historian, twice knighted by the Royal Family. The lecture will explore the evolution of global philanthropy and constitutional history, offering insights into how societies have developed systems for aid and governance over time.",
+      "advanced": "On May 28, Tamkang University is set to host a significant installment of its 'Panda Lecture' series, featuring an eminent British historian. This scholar, notably twice honored with knighthoods by the British Royal Family, will deliver a comprehensive discourse on the intricate development of global philanthropy and the trajectory of constitutional history, providing an expert perspective on these pivotal societal frameworks."
+    },
+    "vocabulary": [
+      {
+        "word": "Knighthood",
+        "zh": "封爵。在英國，這是指國王或女王授予某人「騎士」的榮譽稱號，通常是因為他們對國家或社會有特別大的貢獻。被封爵的人會在名字前加上「Sir」（爵士）的尊稱。"
+      },
+      {
+        "word": "Constitutional",
+        "zh": "憲政的、憲法的。指跟一個國家的基本法律或制度有關的事物，這些法律和制度規定了政府的權力、公民的權利和國家的運作方式。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-05-27",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ODdRbDF4T2JraFBEaktlbS1oNUN1Tk5IeGpPY1ZtTEtlcU95Z2ZUelBVQVlTdkZfVFFMVS1nUjg1NFZMNlFKNmZlRnlwTks4X1h0eURn?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "地球「燒」起來了！氣溫不只破紀錄，還被「徹底粉碎」？",
+    "zhSummary": "科學家發現，全球氣溫升高速度與幅度超乎預期，不只連連刷新歷史紀錄，更將這些舊紀錄「粉碎」，主因是人類活動造成的地球暖化加上聖嬰現象的雙重影響。",
+    "zhContent": "<p>這幾個月，你是不是也感覺到天氣異常的熱，熱到讓人很難好好過日子？不只是我們，全球的科學家和氣候專家都發現一個驚人的現象：地球的氣溫不只是打破了過去的紀錄，而是把這些紀錄「徹底粉碎」了。這是什麼意思呢？簡單來說，就是我們正經歷的氣溫，比之前測量到的所有高溫紀錄都還要更熱、熱得更誇張！</p><p>所謂「粉碎」紀錄，指的不僅是「最高溫紀錄」被刷新，而是這些新紀錄的溫度值，遠遠超出了科學家們原本的預期。舉例來說，根據歐洲的「哥白尼氣候變遷服務中心」的數據，去年七月是地球有史以來最熱的一個月，而且這個熱度，是以前從來沒有出現過的。不只七月，緊接著的八月、九月，甚至是今年的好幾個月，都陸續創下了各自月份的最高溫紀錄。這代表熱浪不再是偶爾發生，而是變得更頻繁、更強烈。</p><p>為什麼會這樣呢？科學家們解釋，最主要的原因是人類活動造成的「地球暖化」，我們燃燒石油、煤炭等化石燃料，排放出大量的溫室氣體，讓地球就像穿上了一件越來越厚的毛衣。除此之外，今年還有一個自然現象來「助攻」，那就是「聖嬰現象」。聖嬰現象會讓太平洋東部的海水異常變暖，進而影響全球的氣候模式，使本來就已經很熱的地球變得更加炎熱。當人類造成的暖化和聖嬰現象這兩股力量疊加在一起時，氣溫就會像失速列車一樣飆升，打破紀錄也就不再是「稍微高一點點」而已了。</p><p>這些被粉碎的溫度紀錄，正在全球各地帶來實際的影響。從歐洲、北美到亞洲，許多國家都面臨前所未有的熱浪，導致森林大火頻傳，農作物生長受影響，有些地方甚至出現水資源短缺的危機。全球氣象組織也持續發布監測報告，顯示目前的地球正處於一個前所未有的「火熱」階段。這些科學數據都明確指出，我們正在經歷一個地球氣候系統的巨大變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，氣溫不只是「打破」紀錄，而是「粉碎」紀錄，請問這兩者有什麼不同？",
+      "生活與未來：你覺得這種持續升高的極端高溫，會對我們日常生活中哪些方面造成實際影響？",
+      "獨立思考提案：針對新聞中提到的地球暖化問題，除了減少碳排放，你還聽過或想過哪些減緩或應對極端高溫的方法呢？"
+    ],
+    "enTitle": "Global Temperatures Not Just Broken, But 'Smashed'",
+    "enContent": {
+      "basic": "Scientists are saying that temperatures around the world are not just breaking old records, but 'smashing' them. This means it's much hotter than ever before. It's like the Earth has a big fever! This is happening because of global warming, where human activities make the Earth warmer, and also because of a natural event called El Niño, which makes the ocean water hotter.",
+      "intermediate": "Recent reports from meteorological services confirm that global temperatures are experiencing an unprecedented surge, consistently surpassing previous records by significant margins. The term 'smashed' highlights the alarming extent of these new highs, indicating a departure from expected climatic variations. Experts attribute this phenomenon primarily to anthropogenic climate change, exacerbated by the current El Niño event, which collectively amplify global warming trends.",
+      "advanced": "The latest climate analyses underscore a critical juncture in Earth's temperature trajectory, with global averages not merely exceeding, but fundamentally 'smashing' historical benchmarks. This dramatic acceleration in warming, as detailed by leading climate observatories, points to a profound systemic shift rather than incremental changes. The scientific consensus implicates the cumulative impact of anthropogenic greenhouse gas emissions, compounded by the significant radiative forcing of the ongoing El Niño cycle, as the primary drivers behind these extreme and rapidly escalating thermal anomalies."
+    },
+    "vocabulary": [
+      {
+        "word": "Smashed",
+        "zh": "粉碎 (fěn suì) – 通常用來形容把東西打碎或破壞。在這裡，它被用來形容氣溫升高得非常誇張，不只是稍微打破舊紀錄，而是大大超越，讓舊紀錄看起來微不足道。"
+      },
+      {
+        "word": "Greenhouse gases",
+        "zh": "溫室氣體 (wēn shì qì tǐ) – 像二氧化碳這種氣體，它們在大氣中會吸收地表發出的熱能，讓地球保持溫暖。但如果溫室氣體太多，就會讓地球變得太熱，就像穿了一件太厚的棉襖一樣。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-05-27",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOXpUZDdCQ0x5ZXYxRzN6SEtsbFZOSjhmOTU4QXUwY1JZRXdMTlRnTXBKd0x5QnRyblhRZzlnRkdpV0p5X2RVWF80X0RnckNBUlgxNUV0MXFrQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "州教育官員親訪校園！密西根斯嘉蕾特中學迎接重要貴賓",
+    "zhSummary": "密西根州教育部門的高級官員，特別前往安娜堡學區的斯嘉蕾特中學參觀，了解學校的運作與學生學習狀況。",
+    "zhContent": "<p>最近，美國密西根州的教育界有件引起注意的事。密西根州教育部門的一位高階官員，專程來到安娜堡學區（Ann Arbor Public Schools, 簡稱AAPS）的斯嘉蕾特中學（Scarlett Middle School）進行了一場校園參訪。這場訪問讓學校師生都非常期待，因為這代表著他們學校的努力，有機會被州政府層級的教育主管看見。這位官員的到訪，主要是想親身了解這所學校的日常運作，以及學生們的學習環境和各種活動。</p><p>在參訪當天，這位來自州教育部門的官員，在學校校長和行政團隊的陪同下，仔細走訪了斯嘉蕾特中學的許多角落。他們不僅參觀了不同的教室，觀察老師們如何上課，也特地去了圖書館、科學實驗室和體育館等設施。據校方表示，官員還特別花了時間與一些學生和老師交流，直接聽取他們對於學校教育的看法和建議。這次訪問的重點，是希望能夠從實地觀察中，深入了解學校的教學方法、學生的學習參與度，以及學校在支援學生方面所做的努力。</p><p>斯嘉蕾特中學一直以來都以其多元的教學計畫和對學生全面的照顧聞名。這次州教育官員的來訪，其中一個重要的原因，就是想親自看看學校在推動特定教育項目上的成效，例如可能包含STEM（科學、科技、工程、數學）課程的創新、藝術教育的發展，或是如何幫助有特殊學習需求的孩子。學區的發言人提到，這種來自州政府層級的實地考察，對於評估教育政策在基層學校的實際執行情況，並收集第一手回饋，是不可或缺的環節。這也有助於州教育部門未來制定更貼近需求的政策。</p><p>這次參訪在一個積極的氛圍中結束，州教育官員對斯嘉蕾特中學的辦學成果和師生們的熱情留下了深刻印象。儘管官方沒有立即公布具體的政策改變或直接的經費承諾，但校方相信，這次高層次的關注，對於提升學校的知名度，並可能為未來的資源爭取帶來正面影響。這場拜訪再次強調了密西根州教育部門對於各級學校的重視，以及對學生學習體驗的關心，讓斯嘉蕾特中學的師生們感到備受鼓舞。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Michigan Education Official Visits Scarlett Middle School",
+    "enContent": {
+      "basic": "An important person from Michigan's education department visited Scarlett Middle School. They looked at classrooms and talked to students and teachers.",
+      "intermediate": "A high-ranking official from the Michigan Department of Education conducted a detailed tour of Scarlett Middle School. The visit aimed to observe the school's daily operations, teaching methods, and student engagement in various programs, including STEM and arts education.",
+      "advanced": "A key representative from the Michigan Department of Education undertook an extensive site visit to Scarlett Middle School within the Ann Arbor Public Schools district. The objective of the tour was to gain firsthand insights into the institution's pedagogical approaches, student support systems, and the efficacy of its specialized programs, such as those in STEM and the arts. This initiative underscores the state's commitment to evaluating and enhancing local educational frameworks based on on-the-ground observations and stakeholder feedback."
+    },
+    "vocabulary": [
+      {
+        "word": "Department",
+        "zh": "部門：就像一個大公司或大政府裡的小組，負責處理某個特定的事情。"
+      },
+      {
+        "word": "Official",
+        "zh": "官員：在政府裡面工作，有權力做決定或管理事情的人。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-05-27",
+    "sourceName": "AAPS District News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNjRrSzlYUEpsMHI3OW9ocnhJZnUzaHlHUEdKZFBUUGItMWstN01pNXpGanVjYXZBYUJJV3hzZkpZMEZOSE5hWERQMFhSbjBTZWVvWndUSXlBd216M0F0a296UkZUejA5V245QmdaT1JySHdNR3JVak82RG9TMF9WcWFKMFpEeE9RYy1JUg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "吉姆·克拉莫的AI投資小提醒：買股前先問對問題！",
+    "zhSummary": "知名財經節目主持人吉姆·克拉莫最近給了一個實用的建議：如果你想投資那些被視為「人工智慧（AI）贏家」的公司，在下手之前，最好先問自己一個關鍵問題，才能挑出真正有潛力的好公司，而不是只會跟風炒作的公司。",
+    "zhContent": "<p>如果你對最近很熱門的「人工智慧」有點興趣，或者有聽過爸媽在聊投資，你可能也好奇那些跟AI有關的公司到底在做些什麼？在美國，有個很受歡迎的財經節目主持人，叫做吉姆·克拉莫（Jim Cramer）。他最近給了大家一個簡單卻很重要的建議：當你想找出哪些AI公司最有機會成功、值得投資時，不要只是看大家都在討論哪些公司，或是股價漲得有多高，而是要先問自己一個很實際的問題。</p><p>那麼，這個問題到底是什麼呢？吉姆·克拉莫說，你應該問：「人工智慧對這家公司來說，到底解決了什麼問題，或是帶來了什麼實際的好處？」他強調，重點不是一家公司有沒有提到AI，而是AI到底有沒有真的讓這家公司的產品、服務，甚至他們的經營方式，變得更好、更有效率、更有競爭力。這就像是買一台新手機，你要問的不是它有沒有「智慧功能」，而是這些智慧功能有沒有真的讓你的生活更方便。</p><p>克拉莫解釋說，在現在這個AI熱潮下，很多公司都喜歡把自己跟AI扯上關係，好像只要說自己有AI，股價就會跟著上漲。但實際上，有些公司可能只是把AI當成一個宣傳口號，並沒有真正把AI融入到他們的核心業務中，也沒有因為AI而變得更強大。而那些真正的「AI贏家」，它們會利用AI來解決客戶的痛點，或是創造出以前辦不到的新服務，讓它們在市場上脫穎而出。</p><p>所以，吉姆·克拉莫的這番話，其實是提醒大家，在面對任何新的科技趨勢時，都要保持一點清醒和理性。不是所有打著AI旗號的公司都一樣有價值，真正的價值來自於AI能不能實際地幫助公司成長，能不能為客戶帶來有意義的改變。他的建議就是一個簡單的判斷工具，幫助大家在眾多資訊中，找到那些真正有實力的「AI好學生」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，吉姆·克拉莫建議大家問的「關鍵問題」是什麼？他為什麼認為這個問題很重要？",
+      "生活與未來：你覺得如果一家公司真的能用AI解決問題或帶來實際好處，對消費者或他們自己的員工會有什麼實際影響？",
+      "獨立思考提案：除了吉姆·克拉莫提到的這個問題，你覺得當我們聽到一個新科技（比如AI）時，還可以問哪些問題來判斷它是不是真的很有用，而不只是流行語？"
+    ],
+    "enTitle": "Jim Cramer's AI Investment Tip: Ask the Right Question Before Buying Stocks!",
+    "enContent": {
+      "basic": "Jim Cramer, a well-known financial TV host, recently shared a helpful tip for anyone looking to invest in AI companies. He says it's important to ask a key question before you buy stocks: What problem does AI actually solve for this company, or what practical benefits does it bring? He warns against just following trends and emphasizes looking for real value. Companies that truly use AI to improve their products, services, or operations are the real winners. This advice helps people make smart choices instead of just buying into hype.",
+      "intermediate": "Renowned financial commentator Jim Cramer offered crucial advice for identifying promising AI investment opportunities. He urges investors to move beyond the hype and ask a fundamental question: 'What problem does artificial intelligence genuinely solve for this company, or what concrete advantages does it deliver?' Cramer highlights that mere association with AI is insufficient; true success lies in how AI fundamentally enhances a company's offerings, operational efficiency, or competitive edge. This approach helps differentiate firms leveraging AI for substantive growth from those merely capitalizing on the AI buzz.",
+      "advanced": "In the midst of the burgeoning AI investment landscape, veteran financial analyst Jim Cramer has provided a pivotal heuristic for discerning potential 'AI winners.' He advocates a disciplined approach, instructing prospective investors to critically assess: 'What tangible problems does AI address for this entity, or what verifiable benefits does it accrue?' Cramer posits that genuine value creation, rather than superficial alignment with AI trends, is the ultimate determinant of sustained corporate success. By focusing on AI's substantive integration into core operations—leading to enhanced products, services, or operational efficiencies—investors can navigate market exuberance and identify enterprises with durable competitive advantages."
+    },
+    "vocabulary": [
+      {
+        "word": "Artificial Intelligence",
+        "zh": "人工智慧 (AI)：一種讓電腦或機器能像人類一樣思考、學習、解決問題的技術，例如能辨識圖像、理解語言、自動駕駛等。"
+      },
+      {
+        "word": "Investor",
+        "zh": "投資者：指把自己的錢投入到股票、房地產或其他項目中，希望能賺取更多錢的人。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-05-27",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkN1ZktoRFhIbGtJRGpXcWRwdnNucmNDazJ1SVNnWi1xMnlBWm1DeUpvaTZtdl95bEhYczFnUU9UYV9lQVNXWm81S2I1OS1sSG00QldmZ2NoV1RwLU5seDFBQVJ1TmQxem5YMXlwZ0VhZUZjWTFIQWtiUDFkUmdpSGJlUjJKZVJIcDhQNEszN2k5Q0NiTDI0aVJqT2hoamo2Uk8wdXV4WENFaDJpZjhhYXNuRGnSAboBQVVfeXFMTm5BbDI3dzVuTnZYZWpEQjBPZU5kOXdZazdnNmZmVHQ5QTl5Zm85M01NbzVOU3Zwd0RuS1o4U2RXOUtTOXFBeVNyQ1phVWlyMDlYWUpqSHZTZlMzVzFhbzUzWG13ZG5fZGxXSDB0WU9Ib1BYRjFJOWJvZ0oyclpBWVhEa05hbzRyZ0RnZVl5dDIwQk95Y3B3dEhCNlZGZXpSb04xdDBEQmhmeEJ2bFBGdmhjLXV4cmtJVU5n?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "你家後院的聰明鄰居！澳洲喜鵲竟然認得出你的臉？",
+    "zhSummary": "澳洲《衛報》報導指出，澳洲最常見的鳥類之一——喜鵲，不僅唱歌動聽，還能像人類一樣辨識出不同的臉孔。這項發現揭示了牠們驚人的智慧與社會行為，也讓人類對身邊的野生動物有了更深的理解。",
+    "zhContent": "<p>澳洲最常見的鳥類之一，黑白相間的澳洲喜鵲，最近登上了新聞版面，因為牠們的聰明才智再次讓人驚訝。根據《衛報》的報導，這些在公園和後院隨處可見的鳥兒，不僅僅是會唱歌的可愛小動物，牠們竟然有辦法認出人類的臉孔，就像我們認得朋友一樣清楚！這個發現讓許多人對身邊的野生動物有了全新的認識。</p><p>那麼，喜鵲是如何做到這一點的呢？研究指出，喜鵲會透過觀察人類的臉部特徵、動作甚至衣著來建立「個人檔案」。這表示如果你經常在牠們的領地出現，牠們會把你當作一個獨立的個體來記住。除了認人，喜鵲還有其他令人驚訝的特點。牠們是極為社會化的鳥類，擁有複雜的叫聲，甚至能模仿其他鳥類和環境的聲音。牠們還以其在繁殖季節保護鳥巢的行為而聞名，有時會俯衝下來「攻擊」靠近的人，但這其實是牠們保護幼鳥的本能。</p><p>科學家們透過長期的觀察和實驗，證實了喜鵲這些特別的能力。例如，有些實驗會讓特定的人餵食喜鵲，然後觀察牠們對陌生人的反應。結果顯示，喜鵲能清楚區分友善的人與潛在的威脅。這種高超的辨識能力，被認為是牠們在複雜環境中生存的重要技能。牠們強烈的領地意識和對周遭環境的敏銳度，也讓牠們成為澳洲生態系中一個不可忽視的存在。這也解釋了為何在每年特定的時間，會有喜鵲「俯衝」的狀況，那正是牠們將人類誤認為威脅的反應。</p><p>所以，下次你在澳洲的公園裡看到一隻喜鵲時，或許可以試著想像，牠可能正在默默地把你記錄下來。牠們的聰明和行為模式，讓人類與野生動物之間的互動多了一層奇妙的連結。這項研究提供了一個有趣的視角，讓我們了解到這些日常生活中常見的鳥類，其實比我們想像的還要智慧與複雜，牠們的生活充滿了許多我們仍未完全理解的奧秘。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，澳洲喜鵲有哪些特別的能力？牠們如何展現這些能力？",
+      "生活與未來：你覺得如果動物能認得人類，這對我們和動物之間的相處會有什麼實際影響？",
+      "獨立思考提案：針對喜鵲在繁殖季節會保護鳥巢而俯衝的行為，你覺得人類在牠們的領地附近可以怎麼做，才能減少這種衝突發生？"
+    ],
+    "enTitle": "Australian Magpies Can Recognize You – And More Fun Facts",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Magpie",
+        "zh": "「喜鵲」一種聰明又常見的鳥，通常是黑白色的，會發出響亮的叫聲。"
+      },
+      {
+        "word": "Recognise",
+        "zh": "「辨識、認出」指能夠分辨出某個人或某件事物是誰或什麼。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-05-27",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnpYQjNmcFpNSHpPQkJqc0h6eDVVRWhVU0hpa0g5MTFPVGNxRVVqb2lrRDFHWjhGSmpRb0tpclNyQ0dybENsN2pNRDNjU2hSVFVJaVdhLXNDa0hNOWJzUk1LQ3RpYWJ6RlVOLVFoQ3NqWG1wWXNxMjBfMnhMbjJTeXVXM2pXM0c2ZzE1TlBYR1g5azNfVG1IelNEd3AzQWVpVHRLZDJES0wyRXNSeGV3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "奧勒岡州就業市場「不動如山」？失業率一年多來沒變，到底怎麼回事？",
+    "zhSummary": "美國奧勒岡州的失業率在過去一年多都維持在同一個水準，引起了大家的好奇。這背後的原因可能有很多，也讓經濟學者開始討論這對當地經濟到底代表什麼意義。",
+    "zhContent": "<p>最近美國西岸的奧勒岡州傳來一個特別的經濟觀察：當地失業率已經超過一年沒有明顯變化了。一般來說，失業率會隨著時間起起伏伏，但奧勒岡州卻像按下了暫停鍵一樣，讓不少人都好奇這究竟是怎麼一回事。這個現象不只讓當地居民想知道，也引發了經濟學者們的好奇心，他們正在努力分析，這份「穩定」的成績單，究竟是好消息，還是值得進一步觀察的訊號。</p><p>根據奧勒岡州當地媒體「NPR for Oregonians」的報導指出，該州的失業率從去年的某個時間點開始，就一直維持在一個特定的百分比，沒有大幅上升，也沒有顯著下降。這不代表就業市場沒有任何變化，而是說，儘管可能還是有人找到工作或失去工作，但整體計算下來的失業人數和勞動人口比例，卻一直保持著微妙的平衡。這種長時間的穩定性，在經濟數據中其實並不常見，因此格外引人注意。</p><p>關於奧勒岡州失業率長期穩定的原因，目前有幾種可能的解釋。有部分專家認為，這可能代表奧勒岡州的經濟目前處於一個緩慢但穩定的成長期，新的工作機會雖然不是爆炸性增加，但也能補上部分職位的空缺。另一種說法則是，這或許也反映出當地勞動市場的人力供需達到了一個平衡點。不過，究竟這種「穩定」是因為經濟表現良好，還是因為勞動參與率下降等其他因素，仍需要更深入的數據分析才能確認。這就像是考卷的總分一直沒變，但裡面的各科分數可能有漲有跌一樣。</p><p>總體來說，奧勒岡州失業率長時間保持不變的狀況，目前仍是當地經濟討論的熱門話題。州政府和經濟分析師們正密切關注相關數據，試圖從中解讀這份穩定對未來經濟趨勢可能帶來的影響。目前為止，還沒有官方或權威機構明確指出這代表奧勒岡州的經濟是「非常健康」或是「存在隱憂」，大家都在等待更多資訊，以便對這種不尋常的穩定現象做出更全面的判斷。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到奧勒岡州的失業率「不動如山」，你認為報導想讓大家注意什麼？",
+      "生活與未來：你覺得失業率長期穩定不變，會對當地居民找工作或生活造成什麼樣的實際影響？",
+      "獨立思考提案：如果這是你所居住的城市，針對這個現象，你覺得還有哪些面向的資訊是大家需要知道的？"
+    ],
+    "enTitle": "Oregon's Job Market Stands Still: Unemployment Rate Unchanged for Over a Year, What's the Story?",
+    "enContent": {
+      "basic": "In Oregon, USA, a strange economic trend has been noticed. The unemployment rate there has stayed the same for more than a year. This is unusual because normally, unemployment rates go up and down. People are wondering what this means for the state's economy. Is it a good sign, or something to watch closely?",
+      "intermediate": "For over a year, Oregon's unemployment rate has held steady at a specific percentage. This means the number of people looking for jobs who can't find them, relative to the total number of people in the workforce, hasn't changed much. While some individuals might have found new jobs or lost old ones, the overall balance remained surprisingly constant. This long period of stability is quite rare in economic data, making it a key point of discussion for economists and local residents.",
+      "advanced": "The sustained stability of Oregon's unemployment rate for more than twelve months has prompted considerable analysis among economists. One hypothesis suggests it could reflect a period of slow but consistent economic growth, where job creation effectively offsets job losses. Alternatively, it might indicate a balanced equilibrium between labor supply and demand, or possibly even a plateau in workforce participation. Further granular data analysis is required to ascertain whether this stability signifies underlying economic health or masks potential challenges, such as a declining labor force or skill mismatches."
+    },
+    "vocabulary": [
+      {
+        "word": "unemployment",
+        "zh": "失業率 (shī yè lǜ) - 指的是在一個國家或地區裡，想找工作卻找不到工作的人，佔所有想工作的人口中的比例。"
+      },
+      {
+        "word": "steady",
+        "zh": "穩定 (wěn dìng) - 表示事物維持在一個固定的狀態，沒有大的變化或波動。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-05-27",
+    "sourceName": "NPR for Oregonians",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHZCRjNtRGdwZ1ZGSENFOE1NRjVzTXE2S251RzhBcFVob3pIeWMtSWJ6SHBIQjNFdXFJOElRZ2xIbE1nZWtJcndWemhkM0xsWFlGZlRILWZqOVFEYVh6Y3RmVHF5SFZQSVBSZTliZEo0Wjh1bmRwM25xS2ZDVENEbjFHQjJKMHNxY0ttVjVLNlM3R0NDa2dSYmJRME5ocktLaXp1bGx6MEJuQlh0bTZ6UFpvLU9yelBjQjdsa29pQnZGNmRQNWZaaFcyenlpbUtGZzBZZjhFM1pac0FrSUVOalVSZ0JKRWJM?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "遠在祕魯利馬！南美穆斯林社群的「宰牲節」盛典",
+    "zhSummary": "這則報導揭露了在南美洲國家祕魯的首都利馬，當地穆斯林社群如何遵守傳統，熱鬧地慶祝他們每年最重要的節日之一——宰牲節（又稱忠孝節或古爾邦節）。這場活動不僅展現了信仰的凝聚力，也讓外界一窺穆斯林在世界各地的文化傳承。",
+    "zhContent": "<p>秘魯的首都利馬，最近氣氛很不一樣。在陽光普照下，一群人聚集在一起，他們不是在慶祝什麼嘉年華，而是在進行一個非常重要的宗教儀式—宰牲節。等等，你可能會想，宰牲節不是穆斯林的節日嗎？秘魯這個國家似乎跟我們印象中的中東國家很不一樣啊！沒錯，這正是我們這次新聞的焦點：利馬的穆斯林社群如何在地球的另一端，也熱熱鬧鬧地慶祝這個全球性的盛大節日。</p><p>「宰牲節」，在阿拉伯語中叫做「古爾邦節」，是全球穆斯林每年最重要的兩個節日之一，通常會持續好幾天。這個節日主要是紀念先知易卜拉欣（即聖經中的亞伯拉罕）對真主的忠誠與服從。在節日這天，穆斯林會早起沐浴，穿上最體面的衣服，然後到清真寺或戶外的大廣場進行隆重的集體禮拜。在秘魯利馬，當地穆斯林社群也依循傳統，共同聚集，向真主祈禱，展現他們虔誠的信仰。</p><p>禮拜結束後，許多家庭會按照傳統宰殺牲畜，比如羊、牛或駱駝，然後將肉分成三份：一份留給自己家裡享用，一份分送給親朋好友，最後一份則捐贈給貧困的人，這也體現了宰牲節強調的分享與奉獻精神。雖然秘魯的穆斯林人口相對較少，但他們仍努力保留並傳承著這些重要的文化習俗，讓遠在異鄉的後代也能感受到節日的意義與溫暖。這種跨越地理限制的信仰凝聚力，非常引人注目。</p><p>這場在利馬舉行的宰牲節慶祝活動，不只是一場宗教儀式，更像是當地穆斯林社群的一次大型聚會。透過集體禮拜、分享美食和互相拜訪，他們加強了彼此之間的連結，也向外界展示了他們的文化與信仰。隨著慶典的圓滿結束，這些利馬的穆斯林們帶著節日的祝福與喜悅，回歸日常生活。這則新聞單純地記錄了在秘魯利馬這個南美洲國家，穆斯林社群如何和平且有組織地完成這場年度盛事。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，秘魯的穆斯林社群在慶祝「宰牲節」時，主要進行了哪些活動？你覺得這些活動背後想傳達什麼樣的精神？",
+      "生活與未來：你覺得在一個穆斯林人口不多的國家裡，像這樣的大型傳統節日慶祝活動，會對當地穆斯林社群的成員產生什麼實際影響？",
+      "獨立思考提案：針對這類跨文化、跨地域的宗教慶典，如果媒體想讓更多不同信仰背景的人理解其意義，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Eid al-Adha Celebration in Lima, Peru: A Glimpse into the South American Muslim Community",
+    "enContent": {
+      "basic": "In Lima, Peru, the local Muslim community recently celebrated Eid al-Adha. This important holiday, also known as the Festival of Sacrifice, is one of the two most significant annual festivals for Muslims worldwide. Despite being in South America, far from traditionally Muslim regions, the community gathered for prayers and traditional customs. Families shared food and gave to the needy, showing the spirit of giving and devotion. This celebration brought the community closer and showcased their culture.",
+      "intermediate": "Lima, the capital of Peru, recently hosted a vibrant celebration of Eid al-Adha, a major Islamic holiday. This event highlighted how the Muslim community in South America observes their traditions, despite being a minority. Eid al-Adha, or the Festival of Sacrifice, commemorates Prophet Ibrahim's (Abraham's) devotion to God. Celebrations included communal prayers at large outdoor spaces, followed by the traditional sharing of meat with family, friends, and the less fortunate. This act emphasizes charity and community solidarity. The event served as an important gathering for the local Muslims, strengthening their bonds and preserving their cultural heritage.",
+      "advanced": "The recent observance of Eid al-Adha in Lima, Peru, offered a compelling illustration of cultural and religious continuity across geographical boundaries. This significant Islamic festival, colloquially known as the Festival of Sacrifice, commemorates the unwavering devotion of Prophet Ibrahim. For the Muslim community in Lima, the celebration entailed a series of traditional rituals, beginning with communal prayers conducted in open spaces, followed by the customary distribution of sacrificial meat—a practice symbolizing generosity and social responsibility. Despite their demographic minority status in Peru, the community's steadfast commitment to these customs underscores their efforts to maintain cultural identity and foster intergenerational transmission of faith. The event not only reinforced internal communal bonds but also provided a public demonstration of their cultural presence and religious adherence in a predominantly non-Muslim nation."
+    },
+    "vocabulary": [
+      {
+        "word": "Pilgrimage",
+        "zh": "朝聖：指前往某個具有宗教或歷史意義的聖地進行的旅程。對穆斯林來說，到麥加朝聖是他們一生中重要的宗教義務之一。"
+      },
+      {
+        "word": "Community",
+        "zh": "社群：指一群因為共同的興趣、信仰、背景或地理位置而連結在一起的人。在這篇報導中，指的是在利馬生活的穆斯林群體。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-05-27",
+    "sourceName": "Reuters Connect",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUQ3Vm9xcEFnNEpKR0hULWE0OWExckxKNC1qUEdsRjVocEZvdk85cEotLVR1RVBaLTNqUnU3bDdKVGxna2thYk9ybW1neGJ5YnJrUXJWcTJxV3BXSFVYZlJ5RXBIdkhkc0F5NV9mNVM0ZDZzMVFRQy1NUHJRamFFUXBNUHFqaVp6UHI3cDd1clBqZlB2dHZwb0ZTR1Y3YTd4NHVITVpCbjZkTXJyM3JKcXZQSVlFSlpRNXJQUjNB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "加拿大與德國達成天然氣大協議：加拿大不再只依賴美國了！",
+    "zhSummary": "加拿大和德國最近簽署了一項液化天然氣協議，這代表加拿大希望將其能源出口市場擴展到美國以外的其他國家，而德國也能獲得穩定的能源供應。",
+    "zhContent": "<p>最近有個大新聞，跟能源有關！加拿大和德國簽了一份很重要的協議，內容是關於「液化天然氣」的買賣。這聽起來可能有點複雜，但其實這代表加拿大希望未來把他們的天然氣賣給更多國家，而不是只靠美國一個買家。這項舉動被看作是加拿大希望能讓自己的能源市場「多樣化」的策略。</p><p>所謂的「液化天然氣」就是把天然氣經過特別處理變成液體，這樣就更容易用船運到很遠的地方。加拿大以前大部分的能源貿易都跟美國有關，但現在他們想開拓新的市場，而德國就是他們看中的新夥伴之一。這次的協議，讓加拿大有機會把他們豐富的天然氣資源，送到大西洋對岸的德國。</p><p>為什麼加拿大會想這樣做呢？想像一下，如果你做生意，所有產品都只賣給同一個人，那風險就很大。萬一那個人哪天不買了，你的生意就會很麻煩。所以，加拿大希望透過跟德國這樣的國家合作，讓自己的能源出口有更多選擇，這樣可以更穩定地發展經濟，也減少對單一市場的依賴。</p><p>這次加拿大與德國達成的液化天然氣協議，標誌著兩國在能源領域建立起了新的合作關係。對加拿大來說，這是一個實現能源市場多樣化的重要一步；而對德國來說，這則代表他們能從加拿大獲得新的能源來源。這就是目前這個能源合作大事件的最新進展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Canada and Germany make liquefied natural gas deal as Carney looks to diversify from US - AP News",
+    "enContent": {
+      "basic": "",
+      "intermediate": "",
+      "advanced": ""
+    },
+    "vocabulary": [
+      {
+        "word": "Liquefied Natural Gas",
+        "zh": "液化天然氣。就是把天然氣經過特別處理變成液體，這樣就能更容易地用船運到很遠的地方，方便儲存和運輸。"
+      },
+      {
+        "word": "Diversify",
+        "zh": "多樣化。意思就是增加不同的選擇，不要只專注在一種事物上。例如，加拿大希望把天然氣賣給更多不同的國家，而不是只賣給美國，這樣風險比較小。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-05-27",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHZOV3ZwN3RHUkdRaDVQYVJrUzlwN1duR1NGa0hrM0hpaWMxTXpOZFZHa2p3UUZNa2RWR2ZnWjdDYVNoS0Z6TGp0eFJrZ0tJOFlkbXFpMUtzSW5DR09MV2Y0QmxxRS12bld3WFVqM2E3dUIzV3M0cTVCb3NROUMwZy1QR3VleUZWZXIwTU1Vckd0VlNfazl1MVFXRQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非排外示威引發動盪，迦納伸援手歡迎避難者",
+    "zhSummary": "因為南非當地爆發了排外示威，許多外籍人士被迫離開。迦納成為第一個伸出援手的國家，迎接了首批逃離南非的避難者。",
+    "zhContent": "<p>最近，一則由知名國際媒體Al Jazeera發出的消息引起了全球關注：遠在非洲西部的迦納，正伸出援手，歡迎第一批從南非撤離的民眾。為什麼會這樣呢？原來，南非當地近期爆發了一些針對外來移民的抗議活動，這讓許多在那裡工作或生活的外籍人士感到不安，甚至被迫離開家園。這股不穩定的情況導致不少人急需尋求庇護，而迦納則率先採取行動，展現了人道關懷。</p><p>根據報導，南非最近數週出現了反對外來移民的示威活動。這些抗議事件通常源於當地居民對就業機會減少、社會資源（例如住房和醫療服務）分配不均等問題的不滿，因此將矛頭指向了外國籍居民。這些示威有時會伴隨著暴力，不僅對在南非生活的外籍人士造成實質威脅，也讓他們的財產面臨風險。許多人為了自身安全與家庭的未來，決定放棄他們在南非的一切，尋找新的安身之處。</p><p>在南非，這樣的排外情緒並非首次浮現。過去也曾發生過類似的大規模攻擊事件，顯示當地社會在面對經濟壓力時，對外來移民的接納度存在挑戰。當示威和暴力事件升級時，許多外籍人士感到不再安全，不得不打包行李，離開他們原先居住和工作的環境。這些離開南非的人，有些是尋求母國協助的公民，有些則是希望到其他國家避難。迦納這次的舉動，為這些身陷困境的人們提供了一條重要的生路。</p><p>迦納政府這次的接收行動，主要是透過空運的方式，將第一批避難者從南非安全地接到國內。據了解，這批獲准進入迦納的民眾，許多原本就是迦納公民，他們只是在南非工作或生活，現在因為當地情勢不穩才被迫返鄉。迦納的這項舉措，不只讓這些國民得以安全回國，也向國際社會展現了其作為一個主權國家，對國民提供保護以及對受難者伸出援手的人道關懷立場。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Ghana Welcomes First Group Fleeing South African Anti-Immigration Protests",
+    "enContent": {
+      "basic": "Many people are leaving South Africa because of protests against foreigners. Ghana is helping them and welcomed the first group. These protests make foreigners feel unsafe and lose their jobs. Ghana used planes to bring its citizens and others back home safely.",
+      "intermediate": "South Africa has recently seen anti-immigration protests, causing many foreign nationals to feel unsafe and leave the country. These demonstrations often stem from local frustrations over jobs and resources, leading to hostility. Ghana has stepped forward, becoming the first nation to officially welcome a group of individuals fleeing this unrest. Most of these returnees are Ghanaian citizens who had been working in South Africa, now returning home via arranged flights.",
+      "advanced": "Amidst escalating anti-immigration protests in South Africa, which have created a precarious environment for foreign nationals, Ghana has initiated a humanitarian response. Al Jazeera reported that the West African nation welcomed the inaugural group of individuals fleeing the unrest. These demonstrations, frequently fueled by perceived competition for employment and resources, compel many expatriates to depart. Ghana's intervention, primarily through coordinated airlifts, facilitated the safe repatriation of its citizens and others, showcasing a commitment to national protection and humanitarian principles."
+    },
+    "vocabulary": [
+      {
+        "word": "Protest",
+        "zh": "抗議 (kàngyì) - 當一群人對某件事不滿意，大聲表達意見或集體行動，希望事情能有所改變。就像是學生覺得考試太難，一起向老師反映一樣。"
+      },
+      {
+        "word": "Immigration",
+        "zh": "移民 (yímín) - 指人們搬到另一個國家或地方居住，通常是為了工作、生活或尋求更好的機會。這些搬來的人就叫做『移民』。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-05-27",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnkwQ3VUczFZX0d5VzhlYkdVVVgwajFjQ01peEhSUWd5TnF6UHlxU21Hd1d3S0pQNXNNQVhGcFdYLTJEMXlvelR2WVUxWTFLdG9QUWFYT29IQ1FrZjh2TWVqb0ZjNWc4dkhfYnYwd0RkWTR3cVBEeFFreXNGWGNnbUtGcjdmQXRDbjF6N01qWXJ1aVNDem9iWkZSWVdYRTN3R3ZBRXM2LTFuRTRHMnFHQ0RwSHjSAboBQVVfeXFMTkI4aEM3N21CdHE0NGVmTm90UXFxYmJ4YjNxUVhUeU5PeHI5Y0FwaFBwQTVsV0pwcHFPcEhzM3BVRFBtMjBNWEJLNldxTmpfeWNzZ3hFeUFrMGkyS2xaQk0yckFYbkZXWHpDMzVld1VQZUJDZXhsRVNFODJ1RlpEODhjZFRkTGlOb3NCRy1ZajJ5UnBoM1ZkcHlmLTEwNlNUNjJYRDNEbnVqd040X2pFdDF6S0hiTzd4WjhB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東局勢升溫：巴基斯坦派遣軍隊與戰機支援沙烏地阿拉伯",
+    "zhSummary": "路透社獨家報導，巴基斯坦在伊朗戰爭期間，向沙烏地阿拉伯部署了一支噴射機中隊及數千名士兵，顯示中東地區的緊張局勢與軍事合作。",
+    "zhContent": "<p>嘿，各位青少年們！最近中東地區有個超級受矚目的獨家新聞，震驚了國際社會。根據權威媒體路透社的報導，一個重要的軍事變動正在發生：巴基斯坦決定要送一批規模不小的軍隊到沙烏地阿拉伯，其中包括了一整個戰鬥機中隊，還有好幾千名士兵！</p><p>這可不是小數目喔！想想看，幾千名士兵加上噴射戰鬥機，這是非常龐大的軍事部署。這些部隊和飛機浩浩蕩蕩地前往沙烏地阿拉伯，顯示出這兩個國家之間的軍事合作關係非常密切，也或許代表著某種戰略上的考量。</p><p>這個舉動最引人注意的地方，就是它發生的時間點。路透社的報導特別強調，這次的派兵行動是在「伊朗戰爭期間」。雖然報導沒有詳細說明這場「伊朗戰爭」具體指的是什麼，但光是聽到「戰爭」兩個字，就能感受到該區域的緊張氣氛，暗示著該地正處於一個不穩定的衝突時期。</p><p>目前，路透社的這篇獨家報導，僅僅揭露了巴基斯坦派兵前往沙烏地阿拉伯的這項事實。至於這些部隊將會執行什麼任務，以及這個部署行動對中東地區的未來局勢會產生什麼影響，新聞中並沒有給出更多的細節或官方解釋。一切都還在發展中，值得我們繼續關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Middle East Tensions Rise: Pakistan Deploys Troops and Jets to Saudi Arabia",
+    "enContent": {
+      "basic": "According to a Reuters exclusive, Pakistan has sent a jet squadron and thousands of soldiers to Saudi Arabia during a conflict involving Iran. This move highlights the tense situation and military cooperation in the Middle East.",
+      "intermediate": "An exclusive report by Reuters reveals a significant military development: Pakistan is deploying a jet squadron and thousands of troops to Saudi Arabia. This deployment takes place amidst what the report describes as 'Iran war,' suggesting heightened regional tensions and a strong military partnership between Pakistan and Saudi Arabia.",
+      "advanced": "Reuters' exclusive divulges Pakistan's substantial military deployment to Saudi Arabia, involving a jet squadron and thousands of personnel. This strategic move occurs against the backdrop of an 'Iran war,' underscoring the escalating geopolitical complexities and bilateral defense alignments within the volatile Middle Eastern landscape. Specific operational mandates and broader regional ramifications remain undisclosed in the initial report."
+    },
+    "vocabulary": [
+      {
+        "word": "deploy",
+        "zh": "部署 (動詞)：把軍隊、武器或其他重要設備安排到一個特定地點，準備執行任務。"
+      },
+      {
+        "word": "squadron",
+        "zh": "中隊 (名詞)：軍隊中的一個單位，通常是由數架飛機或幾艘船組成的編隊，一起執行任務。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-05-27",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXQ0ZGZRZEVoWXNYN1ExempBZ1Ata245ellOQ0JVNTdnNTRyc2oxZWUzakNEZWllaEs1T0F2cktHVUVqUGJWeW80LU5LT3g1LVJZY3RaMDBsNnpyX09sRXRQOENWZktYT0dCRC02R1o2LTBxV2dEcldNT1V1TXpRRjNQcWFHSkE2Y0tRX0V4NDBfdVpoXzRvSXlrdVNVMk9IeDVTaVRRSDhLZFl2Q3dGa0VfVGlMOTk1VjdHd3lzUzd2OVBwOVQ0VnlB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "北韓宣布成功測試新型彈頭、技術和導航系統",
+    "zhSummary": "北韓官方表示，他們最近進行了一系列重要的武器發射，目的是為了測試新研發的彈頭、技術以及導航系統，並宣稱這些測試都已成功達成預定目標。",
+    "zhContent": "<p>最近，朝鮮（又稱北韓）宣布進行了一系列重要的武器發射活動。他們對外表示，這些發射主要是為了測試最新研發的「新型彈頭、新技術和新的導航系統」。這個消息是由朝鮮官方媒體報導出來的，目的是讓外界知道他們在國防科技上的最新進展。</p><p>根據朝鮮中央通訊社（KCBS）的說法，這些測試活動內容很豐富。其中一項是針對一種「超大型彈頭」進行了威力檢測，他們聲稱這證明了這種彈頭的強大破壞力。另外，他們還試射了一種新型的防空導彈，來確認其性能和準確性。這些實驗被朝鮮官方視為非常成功，並且達到了預期的效果。</p><p>朝鮮進行這些測試的原因，據他們自己解釋，是為了持續提升國家的防衛能力。他們提到，面對當前的地區安全環境，加強國防力量是必要的自衛措施。朝鮮一直強調，發展這些武器系統是為了保護自己，並且確保國家的主權和安全，並不是要主動挑釁。他們認為這是每個主權國家都應該做的。</p><p>朝鮮官方最終宣稱，這次一系列的發射測試已經完全達成所有預定目標。所有經過測試的新型彈頭、技術和導航系統，都已被證明符合要求，並且運作良好。這代表著朝鮮在發展新一代武器方面又向前邁進了一步。他們也明確表示，將會繼續按照計劃，推動國防科技的進步。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，朝鮮測試了哪些種類的武器或技術？他們這麼做的官方理由是什麼？",
+      "生活與未來：你覺得如果一個國家不斷測試新武器，對周圍的國家或人民可能會產生什麼樣的影響？",
+      "獨立思考提案：如果有一個國際組織想要減少這類武器測試，他們可以提出什麼樣的建議或方案呢？"
+    ],
+    "enTitle": "North Korea Claims Successful Tests of New Warheads, Technology, and Navigation",
+    "enContent": {
+      "basic": "North Korea recently announced it tested new weapons, including warheads and anti-aircraft missiles, to boost its defense.",
+      "intermediate": "North Korea's state media reported recent launches were aimed at testing new warheads, improved technology, and navigation systems. They claim these tests, including a 'super-large warhead' and new anti-aircraft missiles, were successful and part of strengthening their self-defense capabilities.",
+      "advanced": "According to North Korean state media, the Democratic People's Republic of Korea (DPRK) conducted a series of launches designed to verify the performance of newly developed warheads, enhance existing technologies, and refine navigation systems. Official reports from KCNA detailed the successful testing of a 'super-large warhead' and a new type of anti-aircraft missile, asserting these activities are crucial for bolstering national defense in response to regional security dynamics and represent achievements in the nation's strategic military development program."
+    },
+    "vocabulary": [
+      {
+        "word": "warheads",
+        "zh": "彈頭：飛彈或炸彈最前端，裝有炸藥或核子材料的部分，用來攻擊目標。"
+      },
+      {
+        "word": "navigation",
+        "zh": "導航：指引交通工具（例如飛機、船隻、飛彈）找到正確方向和路徑的技術或過程。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-05-27",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDV2R1o5T1JOU2hHNmR0R0Q4Sksxb1VTc2ZvS3NuWXBVOUJTbUtkUElqdUtXblMtYkEydGlIRUNORG03Y09ucUdLTUhPVFVfdV9oS1lMVzgtVnkxY25EVF9VVFVzek1Fd19xcEtrb0hCdE16UFoxWFJ5QURjZFFNeFVKY3lsQ1NfOTJHbWRRQ1hPNWQ5U2t0YnZGc1JwY25uelNja0lCTUo5RkNJTnc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "新加坡外交部長「破冰之旅」：罕見訪問北韓",
+    "zhSummary": "新加坡的外交部長進行了一趟很少見的北韓訪問，這趟旅程也包含了南韓，引起了國際社會的廣泛關注。",
+    "zhContent": "<p>嘿，你有聽過新加坡的外交部長去北韓嗎？這可不是每天都會發生的事喔！根據路透社的報導，新加坡的外交部長最近進行了一趟非常特別的訪問，他不但去了北韓，還同時拜訪了南韓。這樣的跨國行程非常少見，特別是能夠同時踏上南北韓這兩個國家，因此引起了國際媒體的廣泛關注。</p><p>這趟出訪之所以特別，是因為北韓在國際上是個比較封閉的國家，很少有其他國家的重要官員能自由進出。雖然新加坡與北韓其實一直都有保持著正式的外交關係，也有互相設立大使館，但在高層次的官員之間，像這樣直接的訪問卻並不常發生。一般來說，北韓與國際社會的交流機會相對較少，因此每一位重要外國官員的到訪，都會被大家仔細觀察，而這次部長同時造訪南北韓的行程，更是外交上的一種特殊安排。</p><p>新加坡長期以來都以其中立、穩定的國際形象聞名，經常在複雜的國際關係中扮演溝通者的角色。這次部長能夠在短時間內接連拜訪南北韓，可能也顯示了各方對於新加坡在區域事務上的信任。這樣的安排，或許是為了傳遞某些訊息，或是促成某些對話，讓原本比較緊張的區域氣氛，能有一點點緩和的機會。當然，這也是新加坡在全球舞台上展現其外交影響力的一種方式。</p><p>根據路透社的報導，這次行程確實如期進行，新加坡外交部長順利地完成了他在北韓和南韓的訪問。這趟特別的旅程，在國際上引起了不少討論，但具體的談判內容或達成的協議，新聞中並未詳細說明。目前為止，我們只知道這趟罕見的訪問已經順利結束，而後續會對兩韓關係產生什麼影響，則有待國際社會的進一步觀察。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Singapore Foreign Minister's 'Ice-Breaking Journey': A Rare Visit to North Korea",
+    "enContent": {
+      "basic": "Singapore's foreign minister made a very rare trip to North Korea, and also visited South Korea. This kind of visit, especially to both Koreas, doesn't happen often. Singapore is known for being a neutral country. The trip aimed to help improve talks between countries and was watched closely by the world. The visit finished, but what they talked about in detail was not shared.",
+      "intermediate": "A significant and rare diplomatic event recently occurred as Singapore's foreign minister embarked on a unique trip, visiting both North Korea and South Korea. Given North Korea's typically reclusive stance in international relations, a high-level official visit like this is uncommon and attracts considerable global attention. Singapore, known for its neutral and stable international standing, often acts as a facilitator in complex geopolitical situations. This dual visit likely served to convey messages or foster dialogue, potentially easing regional tensions. The trip was completed successfully, though the specific details of discussions or agreements were not disclosed by Reuters.",
+      "advanced": "The foreign minister of Singapore recently concluded a highly unusual and closely watched diplomatic mission, making rare visits to both North Korea and South Korea. This itinerary stands out given North Korea's generally isolated position on the global stage, making high-level foreign engagements infrequent. While Singapore and North Korea maintain diplomatic ties, such direct interactions at a ministerial level are exceptional. Singapore, consistently lauded for its neutral and stable international role, often leverages its position to facilitate dialogue and mediate complex geopolitical issues. This dual-nation visit likely underscored Singapore's role as a trusted intermediary, potentially aiming to de-escalate regional tensions or advance specific diplomatic objectives. According to Reuters, the mission was completed as scheduled; however, the precise details of the discussions or any outcomes were not made public, leaving the long-term impact on inter-Korean relations open to further observation."
+    },
+    "vocabulary": [
+      {
+        "word": "foreign minister",
+        "zh": "外交部長：一個國家的「外交部長」就像是這個國家的「國際代表」，主要負責處理和協調國家與其他國家的關係，例如談判、簽署協議、代表國家出訪等等。"
+      },
+      {
+        "word": "rare",
+        "zh": "罕見：意思是很不常見、很少發生或很特別的事物。就像看到流星雨一樣，不是每天都有的。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-05-27",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3ZmUktmMHhpUDRySnk2VGZETE80bVB0RGkwVjdYNlVTVExOam16d2xDNi00S3ZIb2lHNC14dkluQzZqM1c0Z3JlYmNjblZsSlhPVW4tbk93ZUR2TkZ0dWNkeWwzSWxDUTlEN0FBSEI3ZVlRTm11WXNDOTFsRVFYMkFyNkFKaW1mS1FTYkdjYzI3UnFXOGtCWWRlVUtmQjNLMC1TUFEzYTJDa2RwczlGUWd6SkQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "庫克群島登革熱「清零」！太平洋其他地區卻仍有疫情傳出",
+    "zhSummary": "來自紐西蘭廣播電台（RNZ）報導指出，南太平洋的庫克群島已經成功擺脫登革熱病例，達到「登革熱清零」的狀態。然而，同一個太平洋區域的其他島嶼和國家，卻仍然陸續有新的登革熱病例被通報出來。",
+    "zhContent": "<p>在廣闊的南太平洋上，有一串美麗的島嶼叫做庫克群島。最近，來自紐西蘭廣播電台（RNZ）的消息指出，庫克群島已經成功地擺脫了登革熱的困擾，當地居民目前都沒有新的登革熱病例被通報，可以說達到了「登革熱清零」的狀態。這對這個以熱帶風情著稱的島嶼國家來說，是個相當令人振奮的消息。</p><p>登革熱是一種透過蚊子傳播的疾病，患者會出現發燒、頭痛、肌肉痠痛等症狀，嚴重時甚至會危及生命。對於位處熱帶地區的太平洋島嶼來說，由於氣候溫暖潮濕，蚊子容易滋生，所以登革熱一直是個需要嚴加防範的公共衛生挑戰。庫克群島能夠達到「清零」，代表他們在病媒蚊控制、疫情監測以及民眾衛教宣導等方面，可能都投入了相當多的努力，才能有效阻斷病毒傳播鏈。</p><p>然而，這份報告也同時提醒我們，雖然庫克群島暫時安全了，但太平洋的其他國家和地區卻並非如此。新聞中提到，太平洋區域內仍然有許多地方持續有新的登革熱病例被通報出來。這意味著在這些地方，登革熱的威脅依然存在，當地政府和居民仍然需要保持警惕，加強防蚊措施，避免病毒進一步擴散。</p><p>總體來看，庫克群島的成功經驗，證明了只要積極應對，登革熱是可以被有效控制的。但同時，太平洋地區的整體情況仍然不容樂觀，其他受影響的島嶼正持續努力應對疫情。這則報導客觀呈現了兩種不同的抗疫結果，也顯示了區域內公共衛生狀況的差異。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，庫克群島和其他太平洋地區在面對登革熱疫情時，有什麼明顯的差異？",
+      "生活與未來：你覺得庫克群島能夠「登革熱清零」，對當地居民的生活和他們的觀光產業會造成什麼實際影響？",
+      "獨立思考提案：針對太平洋其他地區仍有登革熱疫情傳出的情況，你覺得他們可以從庫克群島的經驗中學習到什麼？"
+    ],
+    "enTitle": "Cook Islands Achieve Dengue-Free Status, But Cases Persist Elsewhere in the Pacific",
+    "enContent": {
+      "basic": "The Cook Islands have successfully eliminated dengue fever, meaning there are no new reported cases of the disease. However, other parts of the Pacific region are still struggling with new dengue cases. This shows a big difference in how well different places are controlling the illness.",
+      "intermediate": "The South Pacific nation of the Cook Islands has achieved a significant public health milestone by becoming dengue-free, according to a report from RNZ. This success indicates effective measures in disease control. In stark contrast, various other areas across the Pacific continue to report new instances of dengue fever, highlighting ongoing challenges in battling the mosquito-borne illness within the region.",
+      "advanced": "RNZ reports a notable public health triumph for the Cook Islands, which has successfully eradicated indigenous transmission of dengue fever, thereby achieving a dengue-free status. This accomplishment underscores robust public health interventions and community engagement. Concurrently, other Pacific island nations and territories are still contending with persistent dengue outbreaks, with new cases consistently being reported, indicating regional disparities in vector control and epidemiological surveillance capabilities."
+    },
+    "vocabulary": [
+      {
+        "word": "Dengue",
+        "zh": "登革熱：登革熱是一種由蚊子傳播的疾病，會讓人發燒、頭痛、身體痠痛，嚴重時像很重感冒，需要特別注意。"
+      },
+      {
+        "word": "Reported",
+        "zh": "通報：通報就是把發生的事情（比如生病、意外）告訴相關的負責單位，讓大家知道或處理。例如，醫生發現有人得了特別的病，就會向衛生局通報。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-05-27",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dQUlozbkQxMkUwY2Ftb3gyRkV5ajdTaWh5ZEQyMVNOUWtneTByemhKZXFGbEsxOU0yTzZxMkdERmlHZkczbkdLb3dkdHU3S0xEWTBub1U2VFcwYmZtdzhMRXUtTGs3U2czQkhWekRhNE9aSWhGNW5XaU5Ybk5FaGlPbTNBemhJMUk4Z0tjYTJjQ01kZ2daWDBYc2I3OVM0aWJfdWpBNWhfREVmOUZKZ25qT0M2d0lFR050X0U0TkpNcERaTE1scFYybE9RZw?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "哇！英王室認證的超強史學大師，來淡江聊全球大事！",
     "zhSummary": "淡江大學即將舉辦一場特別的「熊貓講座」，邀請到一位兩度獲得英國王室封爵的頂尖歷史學家，他將在5月28日與大家分享全球慈善事業與憲政歷史的精彩故事，這是一個難得能親炙國際大師智慧的機會。",
     "zhContent": "<p>嘿！各位同學，最近淡江大學要辦一個超酷的「熊貓講座」，邀請到的講師可不是一般人喔！他是一位獲得英國王室「兩次」頒授爵位的歷史學家，是不是聽起來就很厲害？這位史學界的大師，預計會在5月28日這天，跟我們聊聊全球的慈善事業發展，還有各國憲法演變的有趣歷史。想想看，能親耳聽到這麼有分量的學者分享，是不是超難得的機會啊！</p><p>這位「兩封爵」的歷史學家，簡單來說，就是因為他在學術研究上特別傑出，獲得了英國女王或國王頒發的最高榮譽，等同於被授予「爵士」稱號，而且還是兩次喔！這代表他在史學領域的貢獻是世界級的。講座上，他將深入探討全球慈善事業，也就是人們如何幫助弱勢、推動社會進步的歷史，以及「憲政史」——也就是各國怎麼建立和發展一套保障人民權利、規範政府運作規則的過程。這些主題聽起來可能有點嚴肅，但由大師來講，一定會變成很精彩的故事。</p><p>淡江大學的「熊貓講座」系列，一直以來都以邀請國際級的知名學者來分享新知聞名。這次能請到這麼一位重量級的英國史學家，顯然也是希望能帶給台灣學子和社會大眾一個難得的學習機會，了解更多國際視野和深度的人文知識。透過他的分享，大家將有機會了解全球社會運作的深層邏輯，以及這些看似遙遠的歷史背後所蘊含的意義。</p><p>所以呢，如果你對世界歷史、慈善公益或是各國的治理方式充滿好奇，這場在5月28日舉行的「淡江熊貓講座」絕對值得你關注！它提供了一個能讓你直接接觸國際頂尖智慧的窗口，而這位大師的見解想必會非常獨到。這場講座是一個深入了解全球趨勢與歷史脈絡的獨特機會。</p>",
@@ -11573,461 +12028,6 @@
     "tagClass": "tag-nature",
     "region": "大洋洲",
     "date": "2026-04-27",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlluOFdERWNNTFdQRVR2cGZjUFhGYkw1R0J0VERoZVlFTU02VzJyWC0wbGljZ2F1SVZXcXRtLWd2Q2xzQ0hMYXZLR29qbWtuazBjVDhKZDNGaWVldzc4ZmJFU1g5WE5jV2VhcTNWb2ZBVmxGZVJzNzRuWklfSGJtUWppeDhlUk5fUXY4U2s1MTN2VFdaR3o0MEJicnV4QzNNMVlTQ25kajcxYkNLVXc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "德國派船地中海，關注荷莫茲海峽狀況",
-    "zhSummary": "德國決定將掃雷艦部署到地中海，以因應荷莫茲海峽未來可能出現的任務，顯示國際社會對重要航道的安全十分重視。",
-    "zhContent": "<p>最近，有個國際消息引起了大家的關注：德國決定派遣他們的掃雷艦隊前往地中海。這項行動主要是為了準備未來可能在荷莫茲海峽執行的任務。對於一個連結中東與世界的關鍵水域來說，德國的這項部署，讓全球的航運和安全問題再次浮上檯面。</p><p>你可能聽過「荷莫茲海峽」這個名字，它是連結波斯灣和阿拉伯海的狹窄水道，同時也是全球石油運輸最重要的咽喉之一，每天都有大量的油輪從這裡通過。而掃雷艦，顧名思義，就是一種專門用來清除水下地雷的船隻，確保航道暢通無阻。德國此舉顯示他們對維護這個區域海上航行安全的重視，也可能預示著國際社會對於該區域的安全穩定有更積極的參與意圖。</p><p>雖然新聞並沒有明確說明德國要參與的是什麼樣的「可能任務」，但過去荷莫茲海峽曾發生過一些與航運安全相關的緊張事件。因此，各國對這個海峽的穩定性一直保持高度警惕。德國這次將掃雷艦派往地中海，可以被看作是他們在為應對突發狀況做準備，確保自己能在需要時提供支援，以維持這條國際航運大動脈的正常運作。</p><p>目前，德國的掃雷艦已按照計畫部署到地中海區域，隨時待命。這項決定反映出他們對國際海上安全責任的承擔，也是為了讓船隻和貿易能在全球重要的水域中安全通行。這項行動的最終目標是確保當荷莫茲海峽有任何任務需要協助時，德國能夠及時地做出回應。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，德國為什麼要派掃雷艦去地中海？這對荷莫茲海峽來說意味著什麼？",
-      "生活與未來：你覺得如果像荷莫茲海峽這樣重要的航道發生狀況，會對我們日常生活中的哪些事情造成影響？",
-      "獨立思考提案：針對維護國際重要航道安全，除了派軍艦之外，你覺得各國還可以怎麼做會更好？"
-    ],
-    "enTitle": "Germany Deploys Minesweepers to Mediterranean for Potential Hormuz Strait Missions",
-    "enContent": {
-      "basic": "Germany is sending minesweeper ships to the Mediterranean Sea. This move is to prepare for possible missions in the Strait of Hormuz. The Strait of Hormuz is a very important waterway for oil transport around the world. Sending minesweepers means Germany wants to help keep this area safe for ships.",
-      "intermediate": "Germany has decided to deploy its minesweeper fleet to the Mediterranean Sea. This action is in response to potential future missions in the Strait of Hormuz. The Strait of Hormuz is a crucial international waterway, especially for global oil shipments. Germany's deployment highlights the ongoing international focus on maritime safety and the security of vital shipping lanes.",
-      "advanced": "Germany has announced the deployment of its minesweeper fleet to the Mediterranean Sea, in anticipation of potential future missions in the Strait of Hormuz. This strategic move underscores the international community's heightened awareness of maritime security in one of the world's most critical chokepoints for global oil transit. The presence of minesweepers signals a proactive stance to ensure the free flow of navigation and safeguard commercial shipping against potential threats in the region."
-    },
-    "vocabulary": [
-      {
-        "word": "minesweeper",
-        "zh": "掃雷艦：這是一種特別的船，專門用來找出並清除大海裡的水雷，讓其他船隻可以安全通過。"
-      },
-      {
-        "word": "strait",
-        "zh": "海峽：想像一下兩大塊陸地中間，有一條比較窄的水道把海連接起來，那就是海峽。船隻常常會經過這裡，因為這是最短的路徑。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-04-26",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZzJvTmR3Vk1QelNZWUNjOUZmTjRvSUVhcTJfNDk5UDdjUlpLZXRZTTBsR1hfMXNfMS1MYTFxLWRkbm9hN3pkUXNNV3hKODJyMzJ3RDV2U01malR3VVJv?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "美國國務院發全球警告：小心中國企業涉嫌竊取AI技術",
-    "zhSummary": "美國國務院發布全球警告，指控包括 DeepSeek 在內的中國公司涉嫌竊取人工智慧（AI）技術，提醒各國政府和企業提高警覺，防範智慧財產權盜竊風險。",
-    "zhContent": "<p>美國國務院最近發布了一項重要的全球警告，提醒世界各國和企業要注意一項嚴肅的指控：有部分中國公司，其中包括名為「DeepSeek」（深度探索）的公司，被指控涉嫌竊取美國的人工智慧（AI）技術。這項消息由路透社首次報導，並透過 CNBC 等媒體傳播開來。簡單來說，美國政府正在向全球發出訊號，提醒大家對於某些中國企業在AI技術方面的行為保持警惕。</p><p>根據這些指控，美國政府認為，這些公司可能正透過各種方式，試圖不當取得美國以及其盟友們所研發的尖端AI技術。這其中特別受到關注的是「大型語言模型」（LLMs）這類關鍵的AI發展，因為它們是許多現代AI應用程式的核心。美國國務院希望透過發布這項全球性的警告，讓各國政府、研究機構和私人企業都能提高警覺，審慎評估與這些被點名企業的合作關係，以避免智慧財產權被侵害。</p><p>美國政府之所以採取這項行動，主要是基於對國家安全和經濟競爭力的深切考量。人工智慧技術被視為未來科技發展的重中之重，也是各國在經濟和軍事領域取得領先地位的關鍵。如果這些寶貴的AI技術被不經合法途徑取得，美國擔心這不僅會損害其創新優勢，也可能對全球科技秩序造成影響。這些指控目前仍處於「涉嫌」的階段，意味著這是美國政府提出的疑慮和警告，而非最終定論。</p><p>因此，這項來自美國國務院的全球警告，實質上是要敦促各方在與相關實體進行技術轉移、合作研發或是商業投資時，必須格外小心謹慎，仔細評估潛在的風險。這代表國際社會對於AI技術保護的關注日益升高。目前，美國正持續密切關注這類跨國技術盜竊的行為，並呼籲其全球夥伴們能共同加強防範，以維護智慧財產權的完整性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "U.S. State Department Issues Global Warning Over Alleged China AI Thefts",
-    "enContent": {
-      "basic": "The U.S. State Department has issued a global warning. They are concerned that some Chinese companies, like DeepSeek, might be stealing advanced Artificial Intelligence (AI) technology. The warning asks countries and companies worldwide to be careful when dealing with these firms. The U.S. government wants to protect its AI innovations because this technology is very important for the future.",
-      "intermediate": "A global alert has been issued by the U.S. State Department, cautioning against alleged AI technology theft by certain Chinese companies, including DeepSeek. Reports suggest these companies may be acquiring advanced AI, particularly large language models, through improper means. The U.S. government's move aims to raise awareness among international governments and businesses about the risks associated with intellectual property infringement in the AI sector, driven by concerns for national and economic security.",
-      "advanced": "The U.S. State Department has disseminated a global advisory regarding alleged illicit acquisition of Artificial Intelligence (AI) technology by Chinese entities, specifically citing DeepSeek among others. This directive, reported by Reuters and CNBC, underscores U.S. concerns that these firms may be employing various methods to unlawfully obtain sophisticated AI advancements, notably large language models (LLMs). The initiative is rooted in national security and economic competitiveness considerations, urging international stakeholders to exercise heightened vigilance in technological collaborations and investments to mitigate intellectual property theft risks."
-    },
-    "vocabulary": [
-      {
-        "word": "alleged",
-        "zh": "被指控的：意思是「別人說某人做了某件事，但這件事還沒被正式證實或判決是真的」。就像新聞裡說「涉嫌」做了什麼事一樣。"
-      },
-      {
-        "word": "large language model",
-        "zh": "大型語言模型：這是一種很厲害的電腦程式，可以像人一樣理解、分析和生成文字。你現在看到的AI聊天機器人，很多就是用這種技術做的，像一個超級聰明的寫作和對話助手。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-04-26",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJhb2VhdlFXWTBCVUZQa3ZLQ2ZfTjJFUE9lbzRQNmJGYzhFZXJFLTJ3RWdDb0NPT1hQZkdwcW5wMjFfalUzSHNzdWM2dkpLa25vbG1XMXd2Tmo0SmpFZWUxMkU5U2hCcy1xY1RpNmpSMUxPLURFaTZYVVFSUWlSU1dvUdIBiAFBVV95cUxOQ0kwYjI1eHhaVjRuaGtiNGRldGRNLVFLRXpaQnc1MVhlMkZodm1iRlQ2U2pyWndzUnJwRW5pS0hHTVpWR1puM0Z2dnN2clg1V19IeWFVbkZTWnR0eTRuV3g3Nm9iVXVQMnRrUUlMVDNzc0VpX1d2QXZoZEJCZGFnNjF0djVaTTZk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "校園標籤是助力還是阻力？美國特教分類「情緒困擾」的兩難",
-    "zhSummary": "美國學校中為幫助有心理健康問題學生設立的「情緒困擾」特教類別，原意是提供專業支援，卻也帶來被貼標籤、資源不足等問題，引發各界討論這項分類的利弊。",
-    "zhContent": "<p>你或許聽過，有些同學因為在學習或情緒上遇到困難，會被歸類到「特殊教育」中，獲得額外的協助。在美國校園，有一個常被討論的特教類別，叫做「情緒困擾」。這個分類原本是為了幫助那些因長期情緒或行為問題影響學習的學生，但現在卻被視為一把「雙面刃」，既能提供幫助，也可能帶來新的困境。</p><p>「情緒困擾」分類的目的，是確保學生能得到需要的專業支援。例如，若學生常感憂鬱、焦慮，或情緒失控，導致無法專心上課、與師生處不好，甚至有自我傷害或攻擊行為，校方可能透過此分類，為他們安排心理諮商、行為輔導，或轉入人數較少的特殊班級，接受更有針對性的教育方式。這些支援的目標，是讓學生能更好地管理情緒，重回學習軌道。</p><p>然而，這把「雙面刃」的另一面，是學生可能面對的挑戰。有些被歸類為「情緒困擾」的學生，可能會覺得被貼上「有問題」的標籤，產生自卑感或被排擠。此外，專家指出，學生可能只是經歷創傷、家庭變故，或患有過動症等，卻被錯誤歸類，導致無法得到對症下藥的幫助。學校資源不足，也常使協助未能到位。</p><p>目前，在美國教育體系中，「情緒困擾」仍是一個存在的特教類別。儘管它在幫助學生方面有其作用，但同時也引起許多關於其適用性、潛在負面影響的討論。許多家長、教育工作者和倡議團體都在努力，希望能找到更好的方法，確保這些學生獲得最適合的幫助，並減少因分類帶來的負面影響，讓教育真正支持每一個孩子。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Why emotional disturbance, a special ed category, is a double-edged sword for students",
-    "enContent": {
-      "basic": "Emotional disturbance is a special education category in U.S. schools for students who have long-term emotional or behavioral problems that affect their learning. It's meant to help them by providing special support, like counseling or smaller classes. But it's also like a \"double-edged sword\" because it can make students feel singled out or misunderstood. Sometimes, students who are just going through a tough time or have other issues might be put in this category, which doesn't always give them the right help. People are trying to find better ways to support these students without making them feel bad.",
-      "intermediate": "In the United States, \"emotional disturbance\" is a specific classification within special education designed to assist students whose consistent emotional or behavioral challenges significantly impair their academic performance. While the intention is to provide essential interventions, such as therapy, behavior management plans, and tailored educational settings, the category is considered a \"double-edged sword.\" On one hand, it can unlock crucial resources. On the other hand, it can lead to social stigma for students, who might feel labeled or isolated. There's also concern about misdiagnosis, where students with trauma, anxiety, or conditions like ADHD might be incorrectly placed in this category, hindering their access to more appropriate support. Educators and advocates are debating how to refine this system to maximize benefits and minimize negative impacts.",
-      "advanced": "The classification of \"emotional disturbance\" (ED) within the U.S. special education system, defined by the Individuals with Disabilities Education Act (IDEA), presents a complex dilemma for students. Intended to identify and support students whose persistent emotional or behavioral issues adversely affect their educational performance, the ED category theoretically provides access to specialized services, individualized education programs (IEPs), and supportive learning environments. However, its application is widely debated as a \"double-edged sword.\" Critics highlight the potential for stigmatization, where students labeled with ED may face social isolation, lowered expectations from peers and educators, and restricted access to general education curricula. Furthermore, the diagnostic criteria can be broad and subjective, raising concerns about racial disparities in identification and the misclassification of students whose behaviors stem from trauma, socio-economic factors, or co-occurring conditions like ADHD or autism, rather than a primary emotional disturbance. Stakeholders, including parents, educators, and policy reform advocates, are continuously striving to balance the imperative of providing necessary support with the critical need to prevent detrimental labeling and ensure equitable, effective interventions that address the root causes of student struggles."
-    },
-    "vocabulary": [
-      {
-        "word": "disturbance",
-        "zh": "困擾／擾亂：指某些事物打斷或改變了原本的正常狀態，常常會造成擔憂或問題。"
-      },
-      {
-        "word": "stigma",
-        "zh": "污名／標籤：因為某種狀況、特質或身分，而讓人感到羞恥或不光彩的印記。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-04-26",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXRsbElxdEs3RnBLVW1QYmdfMEVDMEcyYXU0M0FGWUd5Z1VrQ0RqNGZwYkZDd0x1OTU3YzVtSThFSktfSzhHUElIUzE4MVRrdlp0cWdwUVdrXzdOZ1J4STE1SnVIMWRncWtNalVTSWtINURyWVZacng3YXRRc3U0UlpPNnlFS0lxSklCZUxqZEg0aEtNWDBLWWYwanRkUm9wUUd6bFBPZE1mXzlM?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "重返月球大競賽：美國與中國的太空龜兔賽跑",
-    "zhSummary": "一場新的月球競賽正在展開！美國和中國都計畫要重返月球，展開科學探索與資源開發，這場「太空龜兔賽跑」備受全球矚目。",
-    "zhContent": "<p>嘿，太空迷們！大家有沒有聽過龜兔賽跑的故事？在童話裡，烏龜憑藉著努力和堅持贏得了比賽。現在，地球上也正上演著一場真實版的「太空龜兔賽跑」，主角就是美國和中國，而終點站則是我們熟悉的月球！這不再是科幻電影情節，而是兩大國家真槍實彈地投入，目標是再次將人類送上月球，甚至在那裡建立基地，探索更多未知的可能。</p><p>這次重返月球的計畫可不是隨便說說。美國有「阿提米斯計畫」（Artemis program），目標是要在幾年內讓太空人再次踏上月球，而且這次還要送一位女性太空人上去，這是史上第一次！他們還打算在月球南極尋找水冰，因為水冰對未來的月球基地和太空旅行非常重要。而中國也不落人後，他們正積極發展自己的探月工程，派出無人探測器登陸月球背面，並計畫在未來建造一個國際月球研究站，最終也希望送中國太空人登陸月球。</p><p>為什麼大家對月球突然這麼有興趣呢？原因有很多！首先是科學研究，月球上可能藏著很多地球上找不到的寶藏，比如稀有的礦物或能源，可以幫助我們更了解宇宙的奧秘。其次，這也是一種國家實力的展現，誰能率先重返月球，並在那裡站穩腳跟，就代表著在科技和創新上的領先地位。同時，月球也可能成為未來前往更遠星球，像是火星的中繼站。</p><p>這場新太空競賽的結果還沒有出來。美國的「阿提米斯計畫」正在一步步推進，而中國也展現了驚人的發展速度。這不再是單純的旗幟插上月球表面就結束，而是關於誰能更有效率地建立長期存在、開發資源，並為未來的太空探索鋪路。究竟誰會是這場「月球龜兔賽跑」的贏家？全世界都在屏息以待。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國和中國重返月球的主要目的分別是什麼？你覺得哪個國家的方法比較吸引你？為什麼？",
-      "生活與未來：你覺得這個太空競賽的發展，會對我們未來的生活，甚至在地球上的資源利用，造成什麼實際影響？",
-      "獨立思考提案：針對這場競賽，如果讓你來規劃一個國際合作計畫，你覺得可以怎麼做會更好？"
-    ],
-    "enTitle": "The Tortoise and the Hare: Will China Beat the US in the Race Back to the Moon?",
-    "enContent": {
-      "basic": "A new space race is heating up as both the United States and China aim to send humans back to the moon. The US has its Artemis program, planning to land astronauts, including the first woman, by the mid-2020s. China is also rapidly advancing its lunar exploration, with robotic missions and plans for a future international research station. This competition is driven by scientific discovery, resource potential, and national prestige.",
-      "intermediate": "The global space community is observing a renewed 'race to the moon' between the United States and China, reminiscent of the Cold War space race. The US, with its Artemis program, aims to establish a sustainable human presence on the moon, focusing on the lunar south pole for water ice resources. China is pushing forward with its ambitious Chang'e missions and a proposed International Lunar Research Station, signaling its intent for a long-term lunar foothold. This escalating competition has significant implications for future space exploration and geopolitical influence.",
-      "advanced": "Drawing parallels to the classic 'tortoise and hare' fable, a contemporary lunar race between the US and China is intensifying, as highlighted by The Guardian. The US, through its multi-phase Artemis program, seeks to return astronauts to the moon and establish critical infrastructure for sustained presence and Mars exploration. Concurrently, China's rapidly progressing lunar program, including advanced robotic missions and plans for a human-crewed International Lunar Research Station, presents a formidable challenge. The stakes involve not only scientific breakthroughs and resource acquisition, particularly water ice, but also geopolitical dominance and the shaping of future space governance."
-    },
-    "vocabulary": [
-      {
-        "word": "Artemis",
-        "zh": "阿提米斯計畫：這是美國太空總署（NASA）目前正在進行的一個太空探索計畫，目標是再次將人類送上月球，並建立長期探測的基地。這個名字取自希臘神話中太陽神阿波羅的雙胞胎妹妹，象徵著新的月球探險時代。"
-      },
-      {
-        "word": "Lunar",
-        "zh": "月球的；與月亮有關的：這個字用來形容跟月亮有關的事物，例如『lunar exploration』就是指『月球探索』。就像太陽是『solar』，月亮就是『lunar』喔！"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-04-26",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBicksybTgyMmpjYl82RFo5WWVFc1d4TGEtZXZ2TGE4ZDE1a0dLWTdPMzdPUkpOU1hHSWhOMWc1SzhlZjB4UHNxdGU2QTJ5SjRDVHlENGVpbFYxa0ZYdTMxUm9TbE1XOUZ0cmRFeHVFWnpHLVc2enJFOWd6RE8?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "週末去哪玩？TAPinto 幫你整理好在地活動！",
-    "zhSummary": "這則新聞報導了在地媒體 TAPinto 如何在特定週末（4月24日至4月26日）為讀者整理並發布一份豐富的當地活動清單，幫助社區居民，特別是青少年，找到好玩的去處。",
-    "zhContent": "<p>你是不是也常在週末煩惱要去哪裡玩呢？在美國，像 TAPinto 這樣的地方媒體，就扮演著「週末去哪玩」的情報站角色。他們會細心蒐集當地大大小小的活動資訊，然後在自家網站上發布一篇像「這個週末，4月24日至4月26日，在你家附近有哪些好玩的活動？」這樣的報導，讓大家一目瞭然，輕鬆規劃週末行程。</p><p>這類的報導通常會列出許多適合不同年齡層，特別是青少年和家庭參與的活動。內容可能包含了戶外探險，像是附近公園的健行路線導覽、社區舉辦的迷你運動會，或是可以讓大家一起動手做的藝術手作坊。有時候，當地的博物館、圖書館或表演團體也會有特別的展覽或演出，這些實用的資訊，TAPinto 都會幫忙整理進去，確保每個人都能找到自己喜歡的活動。</p><p>TAPinto 之所以會固定提供這類型的服務，主要是希望能夠促進社區的活力。透過分享這些在地活動的資訊，他們鼓勵居民走出家門，參與社區生活，同時也間接支持了舉辦活動的商家或團體。這樣不僅讓大家的生活增添樂趣，也能讓當地經濟動起來，可以說是一舉兩得，成為社區居民不可或缺的資訊來源。</p><p>所以，對於那個週末在當地的人們來說，TAPinto 的這份「週末去哪玩」清單，就像是一份貼心的導覽指南，讓大家不用傷腦筋就能輕鬆找到精彩的活動。而像這樣的地方媒體，也持續在美國許多社區裡扮演著重要的角色，不斷地為居民提供最新、最實用的生活資訊，方便大家規劃每一週的休閒時光。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，TAPinto 提供了哪些類型的資訊？這些資訊對當地居民有什麼幫助？",
-      "生活與未來：你覺得如果台灣的媒體也能提供類似的「週末去哪玩」在地活動資訊，對你有什麼實際的影響？",
-      "獨立思考提案：針對這類地方媒體提供的資訊服務，你覺得還可以怎麼做，才能吸引更多青少年關注並參與這些活動？"
-    ],
-    "enTitle": "Weekend Fun Guide: TAPinto Helps Locals Discover Activities",
-    "enContent": {
-      "basic": "TAPinto, a local news website, publishes a guide called \"Fun Things to do in and Around our Local Area This Weekend.\" It lists many activities happening from April 24th to April 26th. This helps people, especially young people and families, find fun things to do near them. The guide includes things like outdoor adventures, craft workshops, and events at local museums or libraries. TAPinto does this to help the community stay active and to support local businesses. It's like a helpful map for weekend plans.",
-      "intermediate": "Local media outlet TAPinto regularly compiles and publishes a comprehensive list of community activities, titled \"Fun Things to do in and Around our Local Area This Weekend,\" specifically covering April 24th to April 26th. This initiative serves as a valuable resource for residents, particularly teenagers and families, seeking leisure options. The guides often feature diverse activities, ranging from guided nature walks in local parks to hands-on art workshops and special events hosted by museums or libraries. TAPinto's objective is to foster community engagement and support local organizations by making these opportunities easily accessible, thereby enriching the social fabric and contributing to the local economy. This consistent effort positions TAPinto as an essential information hub for its community.",
-      "advanced": "TAPinto, a prominent local news platform, curated and disseminated a detailed compendium of community-centric activities under the banner 'Fun Things to do in and Around our Local Area This Weekend,' specifically for the period spanning April 24th to April 26th. This publication functions as a critical informational asset, enabling residents, notably adolescents and families, to efficiently identify and engage with recreational opportunities within their vicinity. Such guides frequently encompass a spectrum of engagements, from guided ecological excursions and interactive art workshops to cultural exhibits and performances hosted by local institutions. The strategic intent behind TAPinto's consistent provision of this service is multifaceted: to invigorate community participation, bolster local enterprises and organizations, and enhance the overall quality of life by facilitating access to diverse leisure pursuits. Through this ongoing effort, TAPinto solidifies its role as an indispensable conduit for local civic and recreational information."
-    },
-    "vocabulary": [
-      {
-        "word": "Local",
-        "zh": "在地：指一個地方或區域內的事物，通常離你住的地方不遠，像是在地的店家、學校、活動等等。"
-      },
-      {
-        "word": "Resource",
-        "zh": "資源：指可以被利用的東西或能力。在這裡是指資訊被整理成一份清單，成為大家可以拿來用的「資訊資源」。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-04-26",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUVWTHBQdTQ1NDU5Z05NWmpaWDhRRVVOYXdqbGFzM3dxNmozemtpUlNPUmJTek5SdzdZcFFVS1I3Q3RKR3JxS3preUU5c0l3d0x0Q1dxcFZtVm5jUDg3cjZrazY1bXVyeEcwWXh2aDBZR0hqdF90MmlYVHBRakdYaWFWTTFORXRlajUxWmYtclFMZnhibG1fc3VSeW9Sb21nRnJ0ekJhUFotOFZoSDVtanMxUnFhREZEbnJkYllqR1R6NG40dUl3WW5UcUNYV3JHaTFRaElCVE1FLWJKU0FCSFFZQmY4VmJCbGNNSDg1ZE9WMVNpelBvaFM3TFoxaVdqOWQ2aUlvWktFcFBMMjV0SnJjUzdTeXNEQVJMY3M1aHhHWG1lNGc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "國王查爾斯訪美維安升級：華盛頓槍擊案敲響警鐘",
-    "zhSummary": "英國國王查爾斯三世計畫訪美，但華盛頓特區發生槍擊案後，他的安全維護措施正被重新評估，以確保訪問期間的最高安全。",
-    "zhContent": "<p>喂，大家知道英國國王查爾斯三世嗎？他呀，本來計畫要去美國訪問的。但最近呢，華盛頓那邊卻發生了一件讓人心驚膽跳的槍擊案。就因為這件事，現在國王查爾斯三世去美國的安全計畫可要重新被好好檢視一番了。這個消息是從知名的《衛報》傳出來的，可見事情真的不小喔！</p><p>你想想看，國王去訪問這麼重要的地方，維安本來就是頭等大事。但華盛頓的這起槍擊事件，就像是敲響了一記警鐘，讓大家不得不更加謹慎。維安團隊會重新評估所有可能的威脅，確保國王在美國的期間，能夠百分之百地安全。他們會檢查所有細節，從國王的行車路線、會經過的場所，到所有與他接觸的人，都要再三確認，把潛在的危險降到最低。</p><p>所謂「重新檢視維安」，可不是隨便看看而已。這代表英國和美國的情報與安全單位會坐下來，把所有的安全措施和應變計畫全部拿出來，一個一個地檢查。他們會仔細分析這起華盛頓槍擊案的影響，看看有沒有什麼新的威脅模式出現，或者現有的防護有沒有需要加強的地方。這不只是一次性的事件，而是一次全面的安全總體檢，目的是為了確保像國王這樣的重要貴賓，在異地能有最周全的保護。</p><p>所以，現在英國國王查爾斯三世的美國訪問行程，其維安計畫仍然在緊鑼密鼓的評估與調整中。相關的安全單位正在盡一切努力，期望能夠制定出最完善、最堅不可摧的保護方案。這一切都是為了確保國王能夠安全順利地完成他的訪問，讓大家不用為他的安危擔心。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "King Charles's US Visit Security Under Review After Washington Shooting",
-    "enContent": {
-      "basic": "King Charles wants to visit the United States. But security plans are being checked again. This is because there was a shooting in Washington. The Guardian newspaper reported this. Security teams want to make sure the King is safe. They will look at all the plans. They need to make sure there are no dangers. Both UK and US security people are working together. They want to make sure everything is perfect for the King's trip.",
-      "intermediate": "King Charles III has a planned visit to the United States. However, his security arrangements are now under review. This re-evaluation comes after a recent shooting incident in Washington. The news, reported by The Guardian, highlights the importance of royal security. Security teams are carefully reassessing potential threats and vulnerabilities. They aim to ensure the King's absolute safety during his stay in the US. British and American security agencies are collaborating to strengthen protective measures and refine contingency plans.",
-      "advanced": "The proposed state visit of King Charles III to the United States has prompted an immediate re-evaluation of his security protocols. This comprehensive review was initiated in the wake of a recent and unsettling shooting incident that occurred within Washington. As reported by The Guardian, the incident has underscored critical considerations for safeguarding a head of state. Security apparatuses from both the United Kingdom and the United States are currently engaged in a meticulous collaborative effort. Their objective is to thoroughly scrutinize existing protective measures, anticipate emergent threats, and implement any necessary enhancements to guarantee the monarch's impeccable safety throughout his forthcoming itinerary."
-    },
-    "vocabulary": [
-      {
-        "word": "security",
-        "zh": "「維安、安全」。就是指為了保護某個人或某個地方，不讓他們受到傷害或危險所做的各種防護措施和安排。想像一下保鑣保護明星，或是學校警衛保護學生，這些都屬於維安工作喔。"
-      },
-      {
-        "word": "review",
-        "zh": "「重新審視、評估」。意思就是把某件事情、計畫或情況，再拿出來仔細地看一次、檢查一次。可能是為了找到更好的方法，或是確認有沒有什麼地方需要改進。就像老師改作業一樣，也是一種審視。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-04-26",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW5iNmNRWTBqY3J6b1AxVS1qd20wak1IYWlvVVhmbHJOWnhtYU1YaXlFc0tpOGQ4QVc2QjJidXdja2o0UHlyWVJyMU9KZUVtZVVldlhGRTNsLXR0S0c5RnI5djJ6Y1RaZk5LNWdBTV9WMXp5X3hmMjZZSnF0NHRZR1c0OHpoakdyTTU1U3BnWTJPTmlXVDBjQ3ZreTh1S2x6dDlTQUVueTB5M2Nsa2FWeFprbw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "福克蘭老兵的懇求：英王出面能讓川普收回成命？",
-    "zhSummary": "一位曾經參與福克蘭戰爭的退伍老兵，公開表達了他的一個願望：希望英國國王查爾斯三世能夠出面，說服美國前總統川普，在未來若重掌大權時，能對一些國際議題，特別是與福克蘭群島有關的立場上，採取較為溫和或改變的態度。",
-    "zhContent": "<p>最近，來自英國的一則新聞引起了大家的注意。一位曾經在福克蘭戰爭中作戰的老兵，公開說出了他心中的一個期待。這位老兵希望英國的國王查爾斯三世，能夠運用他的影響力，去「說服」一位大家都很熟悉的美國政治人物——那就是美國前總統唐納·川普，希望他未來在一些重要的國際問題上能「退讓」或改變他的看法。這個願望背後，其實隱藏著老兵對福克蘭群島未來地位的深深憂慮。</p><p>這位老兵之所以會這麼想，主要是因為福克蘭群島對於英國有著非常特殊的意義。在四十多年前，英國曾為了這個位於南大西洋的小群島與阿根廷發生了一場戰爭，也就是福克蘭戰爭。許多英國軍人，包括這位老兵，都曾為捍衛這片領土而戰。當時的勝利確立了福克蘭群島屬於英國的事實。然而，隨著美國政局的變化，特別是川普若可能再次當選美國總統，他過去一些關於國際關係的言論和潛在的外交政策，讓這位老兵感到不安，擔心可能會影響到福克蘭群島現有的地位。</p><p>這位老兵期待英王查爾斯三世能夠發揮作用，並不是指國王會直接下達政治指令，而是希望國王能透過他作為國家元首的身份、個人魅力和外交影響力，在與川普的互動中，溫和地傳達英國對福克蘭群島主權的堅定立場，並勸說川普不要採取可能破壞現狀或引起爭議的行動。畢竟，英國國王在國際場合上，雖然不直接參與政府決策，但他的存在和言行，仍具有一定的軟性外交影響力。</p><p>目前，這仍是這位老兵個人的心願與呼籲，國王查爾斯三世方面並未對此公開回應，而川普方面也未就此事發表任何評論。這則新聞單純地呈現了一位曾經為國家奮戰的老兵，對於國家重要領土未來走向的關切，以及他希望透過國家元首的力量來確保和平與穩定的期望。整個情勢會如何發展，仍然有待觀察。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，那位福克蘭老兵最擔心的事情是什麼？為什麼他會希望國王出面而非其他政府官員？",
-      "生活與未來：你覺得如果一位老兵對某件事情感到非常憂心，他除了對國王喊話之外，還可以透過什麼方式來表達或尋求幫助？",
-      "獨立思考提案：你認為國家元首在國際關係中，除了政策制定，還能透過哪些非正式的方式來影響國際事務？請舉例說明。"
-    ],
-    "enTitle": "Falklands Veteran Hopes King Can Persuade Trump to 'Back Down'",
-    "enContent": {
-      "basic": "A veteran from the Falklands War recently shared a wish. He hopes King Charles III of the UK can talk to former US President Donald Trump. The veteran wants the King to convince Trump to change his mind on some global issues, especially if Trump becomes president again. The veteran is worried about the future of the Falkland Islands.",
-      "intermediate": "A British news report highlighted a unique hope from a Falklands War veteran. This veteran expressed his desire for King Charles III to use his influence to 'persuade' former US President Donald Trump to 'back down' or modify his stance on certain international matters, particularly those concerning the Falkland Islands, should Trump return to power. The veteran's concern stems from the historical significance of the islands to the UK.",
-      "advanced": "A poignant appeal has emerged from a Falklands War veteran, expressing a profound hope that King Charles III might leverage his diplomatic influence to 'persuade' former US President Donald Trump to 'back down' on potential policy directions, particularly those affecting the Falkland Islands, should Trump be re-elected. The veteran's concerns are rooted in the enduring legacy of the 1982 conflict and the geopolitical stability of the islands, fearing that a potential shift in US foreign policy under a future Trump administration could destabilize their sovereign status."
-    },
-    "vocabulary": [
-      {
-        "word": "Veteran",
-        "zh": "退伍軍人 (退伍軍人，就是那些曾經為國家打仗或服務，現在已經退休的軍人。他們為國家奉獻過，所以我們應該尊敬他們。)"
-      },
-      {
-        "word": "Persuade",
-        "zh": "說服 (說服別人，就是用講道理或各種方法，讓對方改變心意，同意你的看法或去做某件事。就像你說服爸媽讓你晚一點睡覺一樣。)"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-04-26",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zbGhiNDIwUTVjdDJWcTNXNDUtaVFRcHF1amh5bEdGYXJzV2N2X2dURFVZdlVBSnFTUDhEZkdtVHI4dHFFNEo0a2p0M2pJdy1kTTRQdjFXb3NLUQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "歐盟動真格？「制裁」名單添中國企業，北京怒斥不公",
-    "zhSummary": "歐洲聯盟（EU）決定將部分中國企業納入對俄羅斯的制裁方案，此舉立即引發中國政府的強烈不滿與譴責，指責歐盟此舉無理且將損害國際關係。",
-    "zhContent": "<p>「喂，大家有沒有注意到最近國際上又發生了什麼事啊？」最新的消息是，歐洲聯盟（EU）決定，要把一些中國的公司或團體列入對俄羅斯的「制裁」名單裡。這讓中國政府非常不滿意，立刻公開表示強烈反對。這件事讓本來就有點複雜的國際關係又多了一層緊張。</p><p>你知道什麼是「制裁」嗎？簡單來說，就是一些國家或組織，為了表達不滿或施壓，對另一個國家、公司或個人採取的一些限制措施。這次歐盟會這麼做，是因為他們認為這些被點名的中國實體，可能在某些方面幫助了俄羅斯，特別是在俄羅斯和烏克蘭的衝突期間。歐盟懷疑，這些中國公司可能提供了俄羅斯可以用來製造武器或軍事相關設備的技術或物品，或者協助俄羅斯繞過已經存在的國際限制。</p><p>對於歐盟這個決定，中國方面可說是氣炸了。他們認為歐盟的做法完全沒有根據，是在「抹黑」中國，而且是針對中國的不公平行動。中國外交部發言人公開表示，這些指控都是捏造的，中國和俄羅斯之間的合作是正常合法的，任何國家都無權干涉。他們還說，歐盟這種行為不僅會損害中國公司的利益，也會破壞全球貿易的秩序。中方已經要求歐盟立刻撤銷這個不合理的決定。</p><p>所以，目前的情況就是，歐盟堅持他們的制裁決定，而中國則是嚴厲譴責，要求歐盟收回成命。雙方各執一詞，互不相讓，這場口水戰仍在持續中。這也顯示了在複雜的國際關係中，不同的國家或聯盟之間，很容易因為利益或立場不同而產生摩擦。這就是這次新聞事件的最新進展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "China Condemns EU's Inclusion of Chinese Entities in Sanctions Package Against Russia",
-    "enContent": {
-      "basic": "The European Union (EU) has put some Chinese companies on a list of sanctions against Russia. This means the EU thinks these companies might be helping Russia. China is very angry about this. They say it is unfair and wrong. China wants the EU to take these companies off the list. This has made things tense between China and the EU.",
-      "intermediate": "The European Union has included several Chinese entities in its latest package of sanctions targeting Russia. The EU suspects these entities are providing support to Russia, possibly by supplying technology or goods that could aid its military efforts or help circumvent existing restrictions. China has strongly condemned the EU's decision, calling it baseless and an act of unfair targeting. Beijing asserts that its cooperation with Russia is legitimate and demands the EU revoke the sanctions, warning of damage to global trade relations.",
-      "advanced": "In a move that has escalated geopolitical tensions, the European Union has proceeded with the inclusion of specific Chinese entities within its newest tranche of sanctions against Russia. These entities are believed by the EU to be contributing to Russia's military and industrial complex, potentially by facilitating the acquisition of dual-use technologies or by assisting in the circumvention of established international embargoes. Beijing has vehemently denounced the EU's unilateral action, describing the accusations as unsubstantiated and an unwarranted imposition on China's sovereign trade relations. China's Ministry of Foreign Affairs has called for an immediate reversal of the sanctions, positing that such measures undermine global economic stability and perpetuate an environment of international mistrust."
-    },
-    "vocabulary": [
-      {
-        "word": "Sanctions",
-        "zh": "制裁 (zhìcái)：制裁就像是學校對學生違規會給的懲罰，但在國際上，就是國家或國際組織對另一個國家、企業或個人，採取一些限制或禁止的措施，例如不准買賣某些商品、不准進行金融交易等，目的是要讓對方改變行為或達到某種目的。"
-      },
-      {
-        "word": "Condemns",
-        "zh": "譴責 (qiǎnzé)：譴責就是非常非常嚴厲地批評或指責某個行為不對。當一個國家「譴責」另一個國家的行為時，意思就是他們公開表示強烈的不滿和反對，認為這個行為是錯誤的、不可接受的。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-04-26",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw4TzhDc2pscGczTnNLUy1TNHFha3B2a3YzREhINlJlN2pzTkJDMlliZVVydEoyU2VLd0tyOFBfWEVFNUMyTUh4YWxRbWV4NlZKZVl0UktNNjVIMENONzJwRXB6aWhDWndMUzVITlVCaFo5SXhZOXcxUDJWN1NBUEM2NDFxOVhkVGxsdVFOcjVaUWg0dkFDeG5XTjdLY05NZF9GcFJua1duT1BTNl9tQ011Y3BWZkpkZDFaVjBEaXEwRXNR?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "開普敦的夢幻家園：為什麼這座城市讓人心動？",
-    "zhSummary": "南非開普敦因其獨特的自然美景、多元文化與理想生活方式，吸引越來越多人在這裡尋找或打造他們心目中的夢幻家園，成為全球熱門的宜居城市之一。",
-    "zhContent": "<p>開普敦，這個位於南非南端的城市，一直以來都是許多人心目中的「夢幻家園」所在地。它不只擁有壯麗的山脈和迷人的海岸線，還結合了豐富的文化歷史與現代生活的便利。近年來，越來越多來自世界各地的人，被開普敦獨特的魅力吸引，選擇在這裡尋找或打造他們理想中的居住空間，讓這座城市成為一個充滿希望與憧憬的安居之地。</p><p>這些被稱作「夢幻家園」的房子，通常都有一些共通的特色。它們可能擁有無敵的海景，或是能俯瞰到著名桌山（Table Mountain）的景色，有些設計更是融入了當地的自然環境，強調開放空間與採光。居民們在這裡不僅能享受到城市便捷的生活機能，還能隨時親近大自然，像是衝浪、登山或在海邊散步。這種結合了城市活力與悠閒步調的生活方式，正是吸引許多人選擇開普敦的主因。</p><p>開普敦之所以能成為「夢幻家園」的熱門地點，除了它得天獨厚的自然美景，如植物園、國家公園等，也與它多元的文化氛圍有關。這座城市融合了歐洲、非洲等多種文化，形成獨特的藝術、美食與社群風貌。對於那些尋求生活品質，同時也看重居住環境與文化體驗的人來說，開普敦提供了一個相對高價值的選擇，讓他們能在預算內，實現對理想居住環境的想像。</p><p>正因為這些獨特的優勢，開普敦持續吸引著全球各地的買家和居民，他們在這裡找到或建造屬於自己的「夢幻家園」。無論是退休人士、遠端工作者，還是尋求新生活體驗的家庭，開普敦都展現了它作為理想居住地的強大吸引力。這股對理想家園的追求，讓開普敦的房地產市場保持活力，也證明了這座城市在全球宜居城市中的獨特地位。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，開普敦被描述成一個怎樣的城市？吸引大家前往的原因有哪些？",
-      "生活與未來：你覺得如果一個地方吸引很多人去買房或定居，會對當地帶來什麼樣的實際影響？",
-      "獨立思考提案：針對一個城市變成「夢幻家園」的熱點，你覺得當地政府或居民可以怎麼做，才能讓這種發展既有活力又能維持原有的特色？"
-    ],
-    "enTitle": "Cape Town: Finding Your Dream Home",
-    "enContent": {
-      "basic": "Cape Town in South Africa is a popular place where many people want to live. It has beautiful mountains and a lovely ocean. People from all over the world are coming here to find their perfect home. They like the mix of city life and nature. Homes often have great views of the sea or Table Mountain. Living here means you can enjoy surfing, hiking, and walking by the beach. Cape Town is special because of its natural beauty and different cultures. It's a good place for people who want a nice home and a good lifestyle. This city keeps attracting many people looking for their dream house, making it a well-known place to live.",
-      "intermediate": "Cape Town, situated at the southern tip of South Africa, has become a highly sought-after destination for individuals pursuing their ideal 'dream home.' This vibrant city blends stunning natural landscapes, including majestic mountains and captivating coastlines, with a rich cultural tapestry and modern amenities. An increasing number of people globally are drawn to Cape Town's unique charm, choosing it as the location to establish their perfect living space. These coveted 'dream homes' often feature spectacular ocean views or overlook the iconic Table Mountain, with designs that frequently integrate with the surrounding natural environment, emphasizing open spaces and abundant natural light. Residents enjoy the convenience of urban living while having immediate access to outdoor activities like surfing, hiking, and seaside strolls. Cape Town's appeal stems from its exceptional natural beauty—boasting botanical gardens and national parks—and its diverse cultural scene, which blends European and African influences in its art, cuisine, and communities. This offers a high-value proposition for those prioritizing quality of life, environment, and cultural experiences, allowing them to realize their residential aspirations. Consequently, Cape Town continues to attract a diverse range of buyers and residents, from retirees and remote workers to families seeking new experiences, solidifying its reputation as a prime location for finding one's dream home globally.",
-      "advanced": "Nestled at the confluence of the Atlantic and Indian Oceans, Cape Town, South Africa, has firmly established itself as a premier global destination for those aspiring to own a 'dream home.' This iconic metropolis captivates with its dramatic topographical features, including the imposing Table Mountain and expansive, pristine coastlines, seamlessly integrating a vibrant cultural narrative with sophisticated urban infrastructure. A burgeoning influx of international and domestic individuals is increasingly selecting Cape Town as the canvas upon which to construct or acquire their idyllic residences, drawn by the city's unparalleled allure and promise of an enhanced lifestyle. The quintessential 'dream homes' in this region are frequently characterized by panoramic ocean vistas or commanding views of Table Mountain, often showcasing innovative architectural designs that harmonize with the indigenous landscape, prioritizing spacious interiors and an abundance of natural illumination. The residential experience transcends mere dwelling, offering residents a unique symbiosis of urban convenience and immediate immersion in outdoor pursuits such as surfing, mountaineering, and littoral exploration. Cape Town's enduring magnetism is further amplified by its ecological endowments, exemplified by its renowned botanical gardens and national parks, alongside a rich, multicultural ethos that synthesizes European and African influences across its artistic expressions, culinary landscape, and communal fabric. This confluence presents a compelling value proposition for discerning individuals who place a premium on an elevated quality of life, environmental integrity, and profound cultural engagement, enabling the tangible realization of aspirational living within a competitive global market. As a direct consequence of these multifaceted advantages, Cape Town persistently garners interest from a diverse cohort of global purchasers and inhabitants—ranging from retirees and digital nomads to families embarking on new life chapters—thereby reinforcing its esteemed standing as an exemplary locale for discovering one's ultimate dream abode."
-    },
-    "vocabulary": [
-      {
-        "word": "picturesque",
-        "zh": "風景如畫的 (feng jing ru hua de) - 形容一個地方的風景非常漂亮，就像畫一樣美。"
-      },
-      {
-        "word": "architectural",
-        "zh": "建築的 (jian zhu de) - 形容與建築設計、風格或結構有關的事物。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-04-26",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelJ2b0FlWl9Qc0xVb1V1elVlUlRXYWVzckVfeVdEOGlrS2NZaGlBcGYtajl3alpPMFAyV0tVd1h3NXFpLURWaEZvTDd1Um0zY2NudTNLWkItQjBHamtEdTJhaEJsVzRDLWpUTVRUUk5rZDFKUU1JaC1XU2hVeXRvOA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中亞城市大變身：蘇聯老建築，掰掰！",
-    "zhSummary": "中亞地區的國家，為了展現他們的獨立和新氣象，正在拆除或改造許多蘇聯時期的舊建築物。",
-    "zhContent": "<p>中亞地區，這個曾經是蘇聯一部分的地方，現在正在進行一場「城市大改造」。原本矗立在街頭巷尾的蘇聯時期建築物，無論是政府機關、紀念碑，還是一些大型住宅區，都開始慢慢消失了。這些獨立近三十年的國家，正努力擺脫過去莫斯科的影響，希望透過拆除或改造這些舊建築，展現他們全新的國家面貌和獨立自主的精神。</p><p>走在中亞的城市街頭，你會發現很多熟悉的蘇聯痕跡正在被抹去。例如，在哈薩克、烏茲別克或吉爾吉斯，過去那種粗獷的水泥大樓、帶有共產黨符號的巨型雕塑，或是密密麻麻的「赫魯雪夫式」公寓，現在正被拆除改建。有些被直接推倒，原地蓋起嶄新的玻璃帷幕大樓或現代購物中心；有些則是被大規模翻修，去除蘇聯風格的裝飾，換上更符合當地民族特色或國際潮流的設計。這不只改變了城市景觀，也讓居民們感受到時代的巨變。</p><p>為什麼會有這樣的改變呢？這要從三十多年前蘇聯解體說起。當時，中亞的國家紛紛宣布獨立，開始建立自己的國家。對他們來說，那些蘇聯時期留下的建築，就像是過去被統治的象徵。為了強化自己的國家認同、推廣獨特的民族文化，並且向世界證明他們已經徹底擺脫過去，移除這些舊建築就成了非常重要的宣示。這是一個國家在尋找自己定位的過程中，不可或缺的一個環節。</p><p>目前，這股拆除與改造蘇聯建築的風潮還在中亞地區持續著。許多城市的天際線不斷更新，一座座現代化的建築物拔地而起，取代了昔日的蘇聯風格。這反映出這些中亞國家正積極向前看，努力描繪屬於自己的未來藍圖，同時也向國際社會展示他們獨特的發展方向。這就是今天在中亞地區，關於建築與國家認同的故事。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，中亞國家移除蘇聯時期建築的主要目的是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對於老一輩的人，或是新一代的青少年會有什麼不同感受？",
-      "獨立思考提案：針對中亞國家這種「移除過去象徵」的做法，你覺得還有哪些其他的處理方式，可以兼顧保留歷史記憶和展現國家新面貌？"
-    ],
-    "enTitle": "Soviet Architecture Vanishes as Central Asia Drifts from Moscow",
-    "enContent": {
-      "basic": "Central Asian countries are tearing down old buildings from when they were part of the Soviet Union. They want to show they are independent now and build new, modern cities, moving away from Moscow's past influence.",
-      "intermediate": "In Central Asia, nations that were once part of the Soviet Union are actively replacing or demolishing Soviet-era architecture. This effort is driven by a desire to assert their independence and forge distinct national identities, moving away from symbols of Moscow's historical influence. These changes are transforming cityscapes and reflecting a shift in national focus.",
-      "advanced": "Post-Soviet Central Asian states are undergoing a significant architectural transformation, systematically dismantling or redeveloping structures from the Soviet era. This deliberate cultural and urban renewal reflects a profound geopolitical shift, as these nations endeavor to solidify their sovereignty and cultivate unique national identities, deliberately distancing themselves from the vestiges of Moscow's historical hegemony. The vanishing architecture symbolizes a broader re-evaluation of national heritage and future trajectory."
-    },
-    "vocabulary": [
-      {
-        "word": "Vanish",
-        "zh": "消失 (xiāo shī)：指某個東西不見了，看不到了，或是再也找不到了。"
-      },
-      {
-        "word": "Architecture",
-        "zh": "建築 (jiàn zhú)：指人類為了居住、工作或特殊用途而蓋出來的各種房子、大樓、橋樑等等構造物。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-04-26",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmZDYlpMU0dWQTFvQnI5MldzMmpZcVdnakw3NXA1eTZVQS1ta01TdEVGcGNRazNXS3lxYzhnb25RZndvWnh2T0U5TWtIVWIwdHprMEZIaGVCbTlYVFVQdDVleXFGTnl4TGNETG0xSUZwU1M2MjNFdWNMd3RXaHdtMTEySUlkd1JubzQ4aW0wYjQ3Q05lbnZNWnpGUFZWRU5WZy1lWVZIdi1iQ1hRSi1V?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI發威！台灣、韓國股市在全球榜單超前",
-    "zhSummary": "台灣和韓國受惠於人工智慧產業的強勁表現，使得兩國股市在全球排名中大幅向前推進，展現其科技實力。",
-    "zhContent": "<p>最近，全球金融市場傳來一個讓許多人關注的消息！亞洲的兩個重要經濟體——台灣和韓國，在最新的全球股市排名中表現亮眼，成功向上攀升。這項進步不是偶然，它的背後有一個非常關鍵的原因，那就是目前炙手可熱的「人工智慧」（AI）技術的快速發展和應用。</p><p>這次的股市排名上升，主要是因為台灣和韓國在人工智慧相關的產業中扮演了舉足輕重的角色。舉例來說，許多製造高科技晶片、或是提供人工智慧解決方案的公司，大部分都集中在這兩個國家。隨著全球對AI技術的需求越來越大，這些公司的業績跟著水漲船高，進而推動了它們的股票價值，讓整個國家的股市表現都更加突出。</p><p>全球股市排名就像是一個國際間的經濟成績單，它顯示了各國股市的活躍程度和吸引力。當台灣和韓國的排名往前進時，代表國際上的投資者對這兩個地方的未來發展，特別是在科技和人工智慧領域，都抱持著高度的信心和期待。他們相信這些國家在AI浪潮中，能夠持續帶來創新的產品和服務，創造更多價值。</p><p>因此，這份最新的報告明確指出，台灣和韓國能夠在全球股市的競爭中脫穎而出，直接歸因於它們在人工智慧產業上的深厚實力與卓越貢獻。這是一項客觀的經濟數據，顯示了AI技術如何實質地影響國際間的財經格局，也讓這兩個國家在全球科技版圖中的地位更加穩固。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到，台灣和韓國股市排名上升的原因是什麼？你覺得「人工智慧」對日常生活的影響有哪些？",
-      "生活與未來：你覺得這個改變會對相關產業（例如科技業）的人造成什麼實際影響？一般民眾是否也會間接受到影響？",
-      "獨立思考提案：針對這類因科技發展帶來的經濟變動，你覺得一個國家還可以怎麼做，才能讓經濟成長更穩定、更有利於大眾？"
-    ],
-    "enTitle": "Taiwan, South Korea Climb Global Equity Ranks on AI Boom",
-    "enContent": {
-      "basic": "Taiwan and South Korea have recently seen their stock markets rise significantly in global rankings. This happened because of the fast growth of Artificial Intelligence (AI). Many companies in these countries make important parts for AI, like computer chips, or create AI software. As more people need AI, these companies do very well, which makes their stocks go up and helps their country's stock market. Investors around the world are confident in Taiwan and South Korea's role in the future of AI. This shows how AI is changing money markets and making these two countries more important in technology.",
-      "intermediate": "Taiwan and South Korea have recently made notable advancements in global equity rankings, primarily driven by the escalating development and application of Artificial Intelligence (AI). Both nations house critical players in the AI industry, including leading manufacturers of advanced computer chips and innovative AI solution providers. The surging global demand for AI technologies has significantly boosted the performance and market value of these companies, consequently elevating the overall stock market performance of Taiwan and South Korea. This upward movement signifies strong international investor confidence in their technological prowess and their pivotal role in the AI revolution, reshaping the global financial landscape.",
-      "advanced": "Taiwan and South Korea have markedly ascended in global equity rankings, a trajectory predominantly attributed to their integral contributions to the burgeoning Artificial Intelligence (AI) sector. These economies are home to an intricate ecosystem of AI-centric enterprises, ranging from pioneering semiconductor manufacturers to developers of sophisticated AI software and applications. The unprecedented global demand for AI infrastructure and solutions has propelled the financial performance of these corporations, thereby bolstering their respective national stock markets. This demonstrable climb in global standing underscores heightened investor optimism regarding Taiwan and South Korea's sustained innovation and strategic positioning within the AI technological paradigm, thereby recalibrating their influence in the global financial and technological spheres."
-    },
-    "vocabulary": [
-      {
-        "word": "Equity",
-        "zh": "股市/股票：簡單來說，『股市』就是買賣公司股票的地方，而『股票』則代表你擁有一家公司的一小部分。這則新聞裡的『equity ranks』就是指各國股市的表現排名。"
-      },
-      {
-        "word": "Artificial Intelligence",
-        "zh": "人工智慧（AI）：這是一種讓電腦或機器能夠像人類一樣思考、學習和解決問題的技術。像是手機裡的語音助手、推薦影片的演算法，都屬於人工智慧的應用。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-04-26",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ycGdlcnlkOW1MTE1rSjB5RFJENzF1SkZuelFYaGZyOFJONVU0VnRhUG9MY2kwbTd4bkRmZ0FvZFluOE52OEdzNDJMdl9OMkhqdWFJSFV5UGg0OU5tN0MzcnhkbndlbzI4NTZBVzNKX2JrNkx6Rmc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中國高層外交官訪緬甸，與軍政府領導人會面",
-    "zhSummary": "中國一位負責外交事務的高級官員，在一次地區訪問中，與緬甸目前由軍方支持的政府領導人見了面。這場會談旨在討論兩國關係與緬甸地區穩定。",
-    "zhContent": "<p>最近，中國一位非常重要的外交官，他負責處理中國對外關係事務，進行了一場前往東南亞地區的訪問。其中一站是緬甸，而他在當地與緬甸目前由軍方支持的政府領導人會面了。這場會議之所以受到關注，是因為緬甸的政治情勢比較特別，自從幾年前發生變化後，這個國家一直處於外界持續觀察的狀態。</p><p>這場高層級的會談，是中國這位外交官在忙碌的區域行程中的一部分。我們知道緬甸的現任政府是在2021年發生政變之後成立的。當時，緬甸軍方推翻了原本透過選舉選出的政府，並逮捕了許多政治人物。從那時起，緬甸國內就陷入了動盪不安的局面，經常出現抗議活動和衝突，引起了國際社會的廣泛擔憂。正是在這種複雜的背景下，中國外交官的這次訪問顯得格外引人注目，外界普遍認為雙方可能討論了如何穩定緬甸局勢以及兩國間的合作項目。</p><p>中國長期以來一直把緬甸視為一個重要的鄰國，不僅因為兩國有著很長的邊界線，也因為緬甸在地理位置上，是中國通往印度洋的關鍵通道之一。因此，中國非常關心緬甸的穩定和雙邊關係的發展。在這次會面中，據外媒報導，中方強調了希望緬甸能夠早日恢復穩定，並促進整個區域的和平與發展。而緬甸軍政府的領導人，也表達了希望進一步加強與中國在經濟發展和國家安全等方面的合作意願。</p><p>這次會談結束後，雙方都對外發布了訊息，表示會繼續保持溝通管道暢通，並承諾努力推動兩國關係在未來有更好的發展。儘管新聞中沒有提到當場簽署任何新的重大協議，但這次中國最高層級外交官與緬甸軍方支持政府領導人的直接會面，本身就傳遞了一個訊號：中國與緬甸目前的執政方仍然維持著密切的互動。這次會面，也讓外界看到了中國在東南亞區域外交事務上，持續扮演著積極的角色，對緬甸情勢的關注也絲毫沒有減少。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，中國外交官為何特別前往緬甸會見軍方支持的領導人？從新聞內容來看，雙方主要討論了哪些事情？",
-      "生活與未來：你覺得像這樣的國家高層會面，可能會對緬甸當地人民的生活帶來什麼樣的實際影響？（正面或負面，請說明理由）",
-      "獨立思考提案：如果由你來建議，除了會面和合作，還有什麼其他方式可以幫助緬甸恢復穩定並促進和平發展？"
-    ],
-    "enTitle": "China's Top Diplomat Meets Myanmar's Military-Backed Leader on Regional Tour",
-    "enContent": {
-      "basic": "China's top diplomat met with the leader of Myanmar's government, which is backed by the military. This meeting happened during a trip to countries in the region. Myanmar's government took power after a military coup in 2021. China wants Myanmar to be stable because they share a long border and Myanmar is important for trade routes. Both sides talked about improving their friendship and working together, especially in money matters and safety. They agreed to keep talking and try to make their relationship better in the future.",
-      "intermediate": "China's most senior diplomat conducted a regional tour, during which he held a meeting with the leader of Myanmar's military-backed government. This engagement is notable given Myanmar's complex political situation, stemming from a military coup in 2021 that overthrew the democratically elected government. China views Myanmar as a strategically important neighbor, essential for regional stability and as a gateway to the Indian Ocean. Discussions reportedly focused on stabilizing the situation in Myanmar and enhancing bilateral cooperation in areas such as economy and security. Both parties expressed a commitment to continued dialogue and strengthening their relationship moving forward.",
-      "advanced": "A high-level Chinese diplomat embarked on a regional diplomatic tour, culminating in a significant meeting with the leader of Myanmar's military-backed administration. This encounter underscores China's ongoing engagement with Myanmar amidst its protracted political instability, which originated from the 2021 military coup that ousted the democratically elected government. China emphasizes the paramount importance of stability in Myanmar, a key geopolitical neighbor due to its extensive shared border and its strategic position as a vital corridor to the Indian Ocean. Official statements indicate discussions centered on fostering stability within Myanmar and reinforcing bilateral collaboration across economic and security sectors. Both sides affirmed their intent to maintain open channels of communication and work towards fortifying their relationship."
-    },
-    "vocabulary": [
-      {
-        "word": "Diplomat",
-        "zh": "外交官 - 處理國家之間關係的人。他們就像一個國家的代表，去其他國家開會、談判，目的是讓兩個國家能好好相處、合作。"
-      },
-      {
-        "word": "Coup",
-        "zh": "政變 - 指一個國家的政府在短時間內，被軍隊或其他武力推翻的事件。通常不是透過選舉或正常程序改變政權，所以會引起很大的動盪。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-04-26",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObVdFWlRYOTEwWm53WUVZVGZ3Z1dxcXNoczJ4clVpLVEwTTNlc0NxMGNRcDJSMkJBVmZxR3FwbmdhcHRaMUdTQ3J5cUluZWRIYThpLTlUSm84UDBoYVluWWdhOVlwd0hWUS11ZVJmYkFMVU9GWTliaDREZGR4MnhyalNPR3dGUGpwVU5Cc2gyYnBBVXhabXJjdXJHajBfUlVFdlRJSXN1SmNObmhB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美屬薩摩亞女足大躍進！FIFA世界排名狂升17名",
-    "zhSummary": "美屬薩摩亞女子足球隊在國際足球總會（FIFA）公布的最新世界排名中表現亮眼，一舉提升了17個名次，引起國際體壇關注。",
-    "zhContent": "<p>嘿，喜歡足球的朋友看過來！最近有個超棒的消息傳來，讓太平洋上的小島嶼國家美屬薩摩亞（American Samoa）開心不已。她們的女子足球隊在國際足球總會（FIFA）公布的最新世界排名中，表現簡直是驚人的大躍進，一口氣提升了17個名次，讓大家對這個默默努力的隊伍刮目相看。</p><p>這次排名的更新，讓美屬薩摩亞女足從原本的低位，大幅攀升。雖然具體的名次沒有詳細公布，但一下子跳了17個位置，對於任何一個國家隊來說，都是非常值得慶祝的里程碑。這不僅僅是數字上的進步，更代表著球隊在過去一段時間的訓練和比賽中，肯定付出了許多努力，並且取得了不錯的成績，才能讓國際足總的評分有所提升。</p><p>來自紐西蘭廣播電台（RNZ）的報導指出，這樣的大幅進步，通常是綜合考量了球隊在國際比賽中的表現、勝負記錄、對手強度以及比賽重要性等多項因素。對於一個資源相對有限的小型島嶼國家來說，要在競爭激烈的國際足壇中脫穎而出，哪怕只是名次上的提升，都是全隊上下長期堅持與熱愛的成果。這也展現了她們即使面對挑戰，也從不放棄的精神。</p><p>總之，美屬薩摩亞女足這次在FIFA世界排名中的亮眼表現，已經是正式的官方結果。這個進步不只讓球隊充滿信心，也為整個國家帶來了一份榮耀。這個消息也讓更多人看到了美屬薩摩亞在國際體育舞台上的潛力與決心。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "American Samoa Women's Football Team Makes a Significant Leap in FIFA World Ranking",
-    "enContent": {
-      "basic": "American Samoa's women's football team has made a big jump in the latest FIFA World Ranking. They moved up 17 places, which is great news for the small island nation.",
-      "intermediate": "The American Samoa women's national football team has achieved a remarkable feat in the recently released FIFA Women's World Ranking. According to reports, the team climbed an impressive 17 spots, indicating significant progress and improved performance on the international stage. This development is a source of pride for the small Pacific island nation.",
-      "advanced": "In an inspiring development for the Oceania region, the American Samoa women's national football team has registered a substantial ascent in the latest FIFA Women's World Ranking. The team's leap of 17 positions underscores a period of heightened competitive activity and improved results, as noted by RNZ. Such a significant rise in ranking for a developing football nation like American Samoa not only reflects dedicated training and strategic advancements but also boosts their profile within the global football community."
-    },
-    "vocabulary": [
-      {
-        "word": "FIFA",
-        "zh": "國際足球總會（Federation Internationale de Football Association），它是管理全世界足球運動的國際組織，負責舉辦像世界盃足球賽這樣的大型比賽，也會定期公布各國家隊的世界排名。"
-      },
-      {
-        "word": "Ranking",
-        "zh": "排名，就像學校考試的榜單一樣，是按照一定的標準，把不同的隊伍或個人從高到低排列出來的順序。數字越小，表示排得越前面，表現越好。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-04-26",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlluOFdERWNNTFdQRVR2cGZjUFhGYkw1R0J0VERoZVlFTU02VzJyWC0wbGljZ2F1SVZXcXRtLWd2Q2xzQ0hMYXZLR29qbWtuazBjVDhKZDNGaWVldzc4ZmJFU1g5WE5jV2VhcTNWb2ZBVmxGZVJzNzRuWklfSGJtUWppeDhlUk5fUXY4U2s1MTN2VFdaR3o0MEJicnV4QzNNMVlTQ25kajcxYkNLVXc?oc=5",
     "isFeatured": false
