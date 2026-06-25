@@ -1,5 +1,285 @@
 [
   {
+    "zhTitle": "台灣直飛美國首都！長榮航空開航華盛頓D.C.，超方便新選擇！",
+    "zhSummary": "長榮航空宣布從26日起，開通台灣直飛美國首都華盛頓D.C.的航線。這條直飛航班不僅縮短了旅行時間，也被美國在台協會處長谷立言視為兩地關係發展的「空前里程碑」，象徵台美交流將更緊密。",
+    "zhContent": "<p>嗨，各位飛行小達人！有沒有聽說最近航空界有個大消息？我們台灣的長榮航空，宣布從這個月26號起，要開一條全新的航線了！這可不是一般的航線喔，它是直接從台灣飛往美國的首都—華盛頓D.C.，而且還是中途不落地、一路直達的「直飛航班」呢！連美國在台協會（AIT）的處長谷立言先生都特別提到，這是一件「空前的里程碑」，意思是說，這可是前所未有的重要發展喔！</p><p>到底什麼是直飛呢？想像一下，你和家人或朋友要出國，過去可能得先飛到別的城市，然後在那裡下機、等待，再換搭另一班飛機才能抵達目的地，整個旅程既費時又麻煩。但有了直飛航班，就像搭上一輛不停站的特快車，直接從起點抵達終點，大大節省了寶貴的時間和精力。長榮航空選擇開通華盛頓D.C.這條線，不僅讓旅程更順暢，也顯示出這條航線對於台灣與美國之間交流的重要性。</p><p>為什麼谷立言處長會這麼看重這條新航線呢？原因很簡單，華盛頓D.C.不只是美國的首都，更是整個美國的政治、外交和文化中心。有了這條直飛航線，以後不論是台灣的政府代表、商務人士，或是遠赴美國讀書的台灣學生，甚至是想來台灣體驗風情的美國朋友，往返兩地都會變得超級方便。這不僅大幅縮短了兩地的距離感，也象徵著台灣和美國在各方面的互動和聯繫將會更加緊密。</p><p>所以，從這個月26號開始，如果你有機會或計畫前往華盛頓D.C.，就能體驗到長榮航空這條嶄新的直飛服務了。這對於經常需要往返兩地的人來說，絕對是個令人興奮的好消息。這條直飛航線的啟用，確實為台灣與美國首都之間的關係，開啟了一個充滿潛力的新篇章，讓彼此的連結變得更加直接與快速。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "EVA Air Launches Non-Stop Flights to Washington D.C., Hailed as \"Unprecedented Milestone\"",
+    "enContent": {
+      "basic": "EVA Air is starting new direct flights from Taiwan to Washington D.C. on the 26th of this month. This means you can fly straight to the U.S. capital without stopping. A U.S. official called it a \"milestone,\" which means it's a very important step. These flights will make it easier for people to travel between Taiwan and Washington D.C.",
+      "intermediate": "Taiwan's EVA Air is set to inaugurate a new non-stop service to Washington D.C. on the 26th of the month. This direct route will connect Taiwan with the U.S. capital, eliminating the need for layovers. James Moriarty, Chairman of the American Institute in Taiwan (AIT), highlighted this development as an \"unprecedented milestone.\" The new flight path is expected to enhance travel convenience for various groups, including government officials, business travelers, and students, thereby strengthening bilateral ties.",
+      "advanced": "Commencing on the 26th of the current month, EVA Air, a prominent Taiwanese carrier, will launch its inaugural non-stop flight service to Washington D.C. This direct air link between Taiwan and the U.S. capital has been lauded by James Moriarty, Chairman of the American Institute in Taiwan (AIT), as an \"unprecedented milestone.\" The introduction of this route signifies a substantial enhancement in connectivity and efficiency for travelers, encompassing government officials, business executives, and students. Its strategic importance extends beyond mere convenience, portending a bolstered platform for deepened political, economic, and cultural exchanges between Taiwan and the United States."
+    },
+    "vocabulary": [
+      {
+        "word": "Milestone",
+        "zh": "里程碑：一個重要的時刻或事件，代表事情發展到一個新的階段或成就，通常具有紀念意義。"
+      },
+      {
+        "word": "Non-stop",
+        "zh": "直飛/不間斷：指飛機從起點直接飛到終點，中途不停靠其他機場或轉機，讓旅程更快速方便。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-06-25",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51SjVyRl9Da0t1V3REZHZ3R05KOUxyTms4X0Z6WUE3bTJUcXJnb2Fjb1drYWxKZkFWZWFuWFBUSkVNd21YRDJfNVRBemFYcEZfbXo1OXFCTWotMWJnelE0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "晶片股嗨翻天！AI旋風再起，美光報喜！",
+    "zhSummary": "晶片大廠美光（Micron）公布了超乎預期的亮眼財報，這股好消息讓全球的晶片公司股價大幅上漲，同時也重新點燃了大家對人工智慧（AI）相關產業投資的熱情，讓科技市場瀰漫著一股樂觀的氣氛。",
+    "zhContent": "<p>嘿，大家有沒有注意到最近科技新聞有點熱鬧？全球很多生產電腦晶片的科技公司，他們的股票價格最近都像坐上火箭一樣，咻—地往上衝！原因是什麼呢？原來，是有一家超級有名的晶片公司叫做「美光」（Micron），他們公布了上一季度的「成績單」，結果好到讓所有人都跌破眼鏡，遠遠超出大家的預期。這個好消息不只讓美光自己股價大漲，還像一顆火種一樣，重新點燃了大家對「人工智慧」（AI）相關科技公司投資的熱情，讓整個市場都嗨了起來！</p><p>說到美光這次的「成績單」有多厲害，他們主要是做一種叫做記憶體晶片的產品，這種晶片就像電腦的大腦，負責儲存資料，對各種科技產品都非常重要。特別是現在很紅的AI技術，需要大量的記憶體晶片來運算和學習。美光這季的銷售額和賺到的錢，都比分析師們原本預測的還要多很多，代表他們的產品賣得非常好，而且大家對他們的記憶體晶片需求超大，尤其是用於AI的晶片訂單特別旺。</p><p>美光的好消息就像一塊投入湖中的石頭，激起了層層漣漪。當投資人看到美光這家大公司因為AI而賺大錢時，他們就會開始想：「哇，既然美光能因為AI做得這麼好，那其他跟AI有關的晶片公司，是不是也會跟著賺錢呢？」這種想法一傳開，很多跟AI技術相關的晶片製造商、或是供應鏈上的公司，他們的股票就跟著一起往上漲。這就是所謂的「AI熱潮再起」，代表大家對AI未來的發展又更有信心了。</p><p>總之，美光這次超乎想像的亮眼業績，讓全球的晶片產業都感受到一股強大的正面能量。許多主要的晶片公司股票都跟著大幅上揚，再次證明了人工智慧技術目前對全球科技市場的巨大影響力。投資人對晶片產業的信心也因此回溫，讓整個科技市場瀰漫著一股樂觀的氣氛。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Micron's Strong Earnings Report Fuels Global Chip Stock Surge and AI Rally",
+    "enContent": {
+      "basic": "Micron, a big company that makes computer chips, shared some really good news about how much money they made. This was much more than people expected. Because of Micron's good news, many other companies that make chips also saw their stock prices go up all around the world. People are very excited about chips that help with Artificial Intelligence (AI) because AI needs a lot of special chips. This event made everyone even more hopeful about AI technology and the companies involved in it.",
+      "intermediate": "Global chip stocks experienced a significant surge following an impressive earnings report from Micron Technology. The memory chip giant announced financial results that far exceeded market expectations, driven by strong demand for its products, particularly those essential for Artificial Intelligence (AI) applications. This positive outcome from a key player in the semiconductor industry reignited investor optimism and a broader rally across the AI sector, as market participants anticipate similar robust performance from other chip manufacturers benefiting from the growing adoption of AI technology.",
+      "advanced": "The global semiconductor sector witnessed a substantial rally, primarily fueled by Micron Technology's surprisingly strong quarterly results. The memory chip manufacturer reported earnings and revenue figures that significantly surpassed analyst consensus, largely attributed to robust demand for its high-bandwidth memory (HBM) and other advanced memory solutions crucial for accelerating Artificial Intelligence workloads. This blowout performance from Micron has re-energized investor confidence in the broader AI-driven technology market, sparking a widespread increase in stock valuations across the entire chip industry as analysts foresee sustained growth and increased profitability for companies positioned to capitalize on the escalating AI boom."
+    },
+    "vocabulary": [
+      {
+        "word": "Stock",
+        "zh": "股票 (gǔpiào) – 想像你跟很多人一起合資開一家公司，如果你出的錢代表公司的一小部分，那這一小部分就是「股票」。當公司賺錢，股票的價值可能就會增加。"
+      },
+      {
+        "word": "Artificial Intelligence (AI)",
+        "zh": "人工智慧 (réngōng zhìhuì) – 簡單來說，就是讓電腦或機器像人一樣會思考、學習和解決問題的技術。例如：幫你推薦影片、下棋的電腦程式，都是AI的一種。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-06-25",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFBHSXFQaTN2c1FjOUE4aURpWERKWWVrcU9IOG5mY1BzNlo1SkxYdDViMF8xRzdGNUluZ1BaRFVsZzNWRlZQcGhnclBjY3JJOUx2S2owYW9EY0FUakt3dU1SWVY0cFRLU3o2eVBtMmhZNDJrT1EySU52Y3FiZlBSUnUyOFRCc3FlX0dXeWxzd3ZtX3RIY0RJam1idXdRYVRQX2djd1lyYm52Q2Rwa0VEdmJVVFI1Zw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "厄瓜多爾爆冷勝德國 驚險晉級世界盃下一輪",
+    "zhSummary": "在最新一場世界盃足球賽中，南美洲的厄瓜多爾隊以2比1的成績，出乎意料地擊敗了傳統強隊德國隊，成功挺進世界盃32強，繼續他們的足球旅程。",
+    "zhContent": "<p>最近國際足球賽事傳來令人驚訝的消息！在世界盃的激烈角逐中，來自南美洲的厄瓜多爾隊，竟然以2比1的成績，驚險擊敗傳統足球強權德國隊，成功晉級到世界盃的下一階段比賽。這場比賽不僅讓球迷們心跳加速，也寫下了賽場上的新篇章。</p><p>根據外電報導，這場世人矚目的關鍵戰役，雙方都展現極高水準。厄瓜多爾隊憑藉堅韌防守和把握進攻機會，成功在德國隊猛烈攻勢中取得領先。他們展現團隊合作精神，每位球員奮力拼搏。德國隊雖也奮力反擊，並踢進一球，試圖扭轉局面，但最終未能扳平比數，讓厄瓜多爾隊將領先保持到終場。</p><p>這場勝利對厄瓜多爾隊意義重大，讓他們能從競爭激烈的分組賽中脫穎而出，確保在世界盃「32強」中的席位，得以繼續他們的足球夢想。這場結果再次證明，足球場上任何事情都有可能發生，即使面對強勁對手，只要堅持到底，就有機會創造奇蹟。德國隊的失利讓他們晉級之路面臨更大壓力，能否繼續留在世界盃賽場，也因此更具挑戰性。</p><p>總之，厄瓜多爾隊以2比1擊敗德國隊的這場比賽，不只是比數上的勝利，更是他們憑藉不懈努力和出色表現，成功闖進世界盃下一輪賽事的證明。他們驚險地保住了在32強中的位置，繼續為爭奪最高榮譽而戰。這場比賽的結果，也讓全球足球迷們對接下來的世界盃賽程充滿更多期待。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Ecuador Stuns Germany 2-1, Edges into World Cup Last 32",
+    "enContent": {
+      "basic": "Ecuador beat Germany 2-1 in a World Cup match. This win means Ecuador will go to the next part of the tournament. Germany, a very strong team, was surprised by this loss. It was a very close game.",
+      "intermediate": "In a surprising turn of events at the World Cup, the Ecuadorian national football team secured a narrow 2-1 victory over football powerhouse Germany. This crucial win allowed Ecuador to 'squeeze into' the last 32 teams of the competition, advancing past the group stages. The match was tightly contested, with Ecuador's resilience ultimately overcoming Germany's efforts to equalize.",
+      "advanced": "Al Jazeera reports that Ecuador has managed a significant upset, defeating Germany 2-1 in a World Cup fixture. This hard-fought victory was pivotal for the Ecuadorian squad, as it confirmed their progression into the Round of 32, securing their continued participation in the prestigious tournament. The defeat places considerable pressure on the German team, potentially jeopardizing their future in the competition."
+    },
+    "vocabulary": [
+      {
+        "word": "edge",
+        "zh": "險勝；以微弱優勢擊敗。當一個隊伍或選手「edge」另一個隊伍時，意思是他們贏得非常接近，只比對手好一點點。"
+      },
+      {
+        "word": "squeeze",
+        "zh": "擠進；勉強進入。想像你試著把一個大東西放進一個小空間，要很用力才能「squeeze」進去。在這裡，指厄瓜多爾隊很努力，才驚險地取得晉級資格。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-06-25",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFc4SlRoVWtaVGhGdlk1XzBYN2hMemdhcUFoUXIyZ19mbjBnZS1NazZsYUZFYmZJSDRRMkhQekYtNmdHd3ZPSzAzbkM5VHhlck41OUw2M2g4eHNhZlFzbG1yZUp2VlNCZzZvd0JDalM3RjRXT0VDMHdnT0UzV19pc1dFdlhQdk14bzFTRDhPMkpTdEZnUVlTM2UzQl9yWmVGaENj0gGoAUFVX3lxTFBpWloya1o1NFItTHNfQ21VTkJENlgzMFFBV1UzbzZGVUhSOGJGdWg3RUVSaW1CMFgzUnloMHpxNFpxWlY3SEx4ck1vSHI3a0JIMEwxNGVidTBlSG1zSGZqRkZuLU9Jc3V2TDBKSHhETjJPdlMxU2w5LVZnalpJWUtQMTk2UUZlQjJMb1djOFBtNnlWUDFhWGtTYjladnZsLXI2M3lyaVhuag?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "世界盃足球賽爆冷門：南非「娃娃臉」擊敗南韓，積分榜大洗牌！",
+    "zhSummary": "一場在世界盃足球賽中備受矚目的比賽，南非國家隊（Bafana Bafana）靠著球員塔佩洛·馬塞科（Thapelo Maseko）的關鍵進球，成功擊敗了南韓隊，這場勝利對兩隊在世界盃積分榜上的排名產生了重要影響。",
+    "zhContent": "<p>最近，國際足壇傳來一則讓許多球迷感到意外的消息。在萬眾矚目的國際足總世界盃賽場上，南非國家隊與南韓隊進行了一場激烈對決。這場比賽的結果，最終由被稱為「娃娃臉」（Bafana Bafana）的南非隊，以一球擊敗了實力不容小覷的南韓隊，為自己在世界盃的旅程中寫下重要一頁。</p><p>這場讓南非隊全隊歡慶的勝利，最大功臣無疑是隊上的球員塔佩洛·馬塞科（Thapelo Maseko）。正是他踢進了那顆決定性的進球，讓場上的比分不再膠著，也徹底扭轉了戰局。馬塞科的精彩表現，不僅為南非隊帶來了寶貴的勝利，更讓這場比賽成為了許多球迷口中津津樂道的話題，也讓大家看見了南非隊的潛力。</p><p>對於兩支球隊來說，這場世界盃賽事的重要性不言而喻。每一場比賽的勝負，都直接關係到球隊在分組或晉級階段的積分累積，進而影響他們能否繼續走下去，爭奪最終的冠軍榮譽。南非隊在與南韓隊的交鋒中取得勝利，無疑讓他們在目前的積分榜上取得了有利位置，為未來的比賽增添了更多信心。</p><p>總體而言，南非隊成功擊敗南韓隊，這項消息在國際足球界引起了不小的關注。塔佩洛·馬塞科的關鍵進球，讓南非隊在這場比賽中脫穎而出，證明了他們在世界盃的舞台上，絕對是一支值得被關注的隊伍。這場勝利將直接反映在最新的世界盃積分榜上，改變了原有的排名。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "FIFA World Cup Upset: South Africa's Bafana Bafana Beat South Korea, Shaking Up Standings!",
+    "enContent": {
+      "basic": "South Africa's national football team, nicknamed Bafana Bafana, won a big game against South Korea in the FIFA World Cup. Thapelo Maseko scored the winning goal, which helped South Africa beat South Korea. This win is very important because it changes how the teams are ranked in the World Cup standings. It means South Africa is in a better spot for future games.",
+      "intermediate": "An unexpected result emerged from the FIFA World Cup as South Africa's 'Bafana Bafana' football team secured a significant victory over South Korea. Thapelo Maseko was the hero of the match, scoring the decisive goal that clinched the win for his team. This outcome is crucial for both nations, as every match result directly impacts their positions in the World Cup standings, determining their progression in the tournament.",
+      "advanced": "In a notable turn of events at the FIFA World Cup, the South African national football team, affectionately known as 'Bafana Bafana,' achieved a pivotal victory against South Korea. The decisive moment came courtesy of Thapelo Maseko, whose crucial goal ultimately secured the win. This triumph holds considerable weight for South Africa's campaign, significantly influencing their standing in the fiercely competitive World Cup group tables and bolstering their chances of advancing to subsequent stages of the prestigious tournament."
+    },
+    "vocabulary": [
+      {
+        "word": "standings",
+        "zh": "積分榜／排名：在運動比賽中，用來記錄各隊伍勝負、得分，並且根據這些成績來排名的表格。就像學校考試成績的排名表一樣，讓你知道誰表現比較好。"
+      },
+      {
+        "word": "decisive",
+        "zh": "決定性的／關鍵的：指某個事物或行動非常重要，直接影響到最終的結果或結局。例如，一個「決定性的進球」就是那個改變勝負的關鍵一球。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-06-25",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtMHlNSkZWRjVIYTFwd3JfVlhoM0Qtb0ktdlI2THVnWHVKdW1XcGZ1Wk0tcTBKQTJhNUNlYUpNUlJjaUFZRVoxQm9XSkZGQW1fdlppTkFjX2V6a1Jx0gFiQVVfeXFMT0loQXpkbjVjUkdvTF9WeWtwcDNKT1E2bC1mOE5YYXhYLTl5cFpQRHpueGhvZEd5X09ieF9Rd1lSY2JrcklSbHVMMDZfX1k0cDBINk44ZXdxcjZiOTQtSUlSV3c?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東大和解？阿聯酋傳出將為伊朗解凍數十億美元！",
+    "zhSummary": "路透社報導指出，阿拉伯聯合大公國（阿聯酋）據可靠消息，準備解除對伊朗數十億美元資金的限制，象徵兩國關係可能正持續改善。",
+    "zhContent": "<p>嘿，同學們！最近在中東那邊有件大事，可能很多人沒注意到。阿拉伯聯合大公國（簡稱阿聯酋）和伊朗，這兩個國家之前關係一直有點緊張，常常因為不同的政治立場和區域影響力問題而有摩擦。但現在，有國際媒體路透社的消息指出，阿聯酋準備要「解鎖」一大筆錢，把數十億美元交給伊朗。這聽起來是不是很像從前吵架的朋友突然開始和好，甚至還拿出禮物呢？這可是一件對中東局勢可能產生大影響的新聞喔。</p><p>根據路透社的報導，一些可靠的消息來源指出，這筆即將「解鎖」的資金數額非常龐大，是以「數十億美元」計算的。這筆錢很可能是之前因為某些國際制裁、金融規定或是長期的政治因素，導致伊朗的資產被凍結或無法自由動用。現在，隨著兩國關係出現變化，阿聯酋似乎願意採取行動，協助伊朗重新取得這些長期受限的資金。這對伊朗的經濟來說，無疑是一劑強心針。</p><p>為什麼會在這個時間點出現這樣的改變呢？其實，阿聯酋和伊朗在地理位置上是鄰居，都位於波斯灣沿岸。過去，雙方在許多區域問題上立場對立，導致關係一度降到冰點。然而，近年來，許多中東國家都在努力緩和彼此的緊張關係，希望促進地區的和平與穩定。因此，這種「解鎖資金」的行動，可以被看作是阿聯酋向伊朗伸出橄欖枝，是兩國關係逐漸回暖、走向正常化的重要訊號。</p><p>雖然這項關於資金解鎖的消息，目前還只是「消息來源」的說法，並沒有任何官方機構或政府正式宣布確認，但它已經引起了國際社會的廣泛關注。如果這筆數十億美元的資金真的成功移交，將對伊朗的國內經濟發展產生不小的助益，同時也象徵著中東地區國家間的和解進程又邁出了一步。這就是目前根據路透社報導所知的最新進度，我們也將持續留意後續的任何官方公告和發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，阿聯酋為什麼會「解鎖」數十億美元給伊朗？",
+      "生活與未來：你覺得這個改變會對相關的人（例如伊朗的普通民眾）造成什麼實際影響？",
+      "獨立思考提案：如果資金解鎖代表關係改善，你覺得除了經濟援助外，國家之間還可以怎麼做來促進和平？"
+    ],
+    "enTitle": "UAE to Unlock Billions for Iran, Sources Say",
+    "enContent": {
+      "basic": "News from Reuters indicates that the United Arab Emirates (UAE) is preparing to release billions of dollars to Iran. This move, reported by unnamed sources, suggests a positive shift in relations between the two Middle Eastern countries. Previously, their relationship has often been tense due to political differences. The released funds are believed to be assets that Iran could not access before, possibly due to sanctions. This development could help Iran's economy and promote regional stability.",
+      "intermediate": "According to Reuters, the United Arab Emirates is reportedly set to unlock billions of dollars for Iran, signaling a significant improvement in their previously strained bilateral relations. Sources close to the matter suggest these funds are likely frozen assets or financial holdings that Iran has been unable to access due to international restrictions or long-standing political disputes. This action by the UAE is seen as a diplomatic gesture aimed at fostering greater stability and normalization within the Persian Gulf region, potentially boosting Iran's economy.",
+      "advanced": "Reuters reports that the United Arab Emirates is poised to release several billion dollars to Iran, as indicated by anonymous sources, marking a potentially pivotal moment in the complex geopolitical landscape of the Middle East. This substantial financial maneuver is understood to involve the unfreezing of Iranian assets or the lifting of banking restrictions that have long hindered Tehran's access to its capital. Such a move by Abu Dhabi underscores a clear intent to de-escalate regional tensions and advance a policy of rapprochement with Tehran, with significant implications for both Iran's economic recovery and broader regional stability."
+    },
+    "vocabulary": [
+      {
+        "word": "Unlock",
+        "zh": "解鎖：本來被鎖起來或被限制的東西，現在把它打開或解除限制。就像你手機鎖住了，要輸入密碼才能解鎖一樣。"
+      },
+      {
+        "word": "Billions",
+        "zh": "數十億：一個非常非常大的數字，一後面有九個零。想像一下，十億個一塊錢疊起來有多高，這筆錢就是它的好幾倍！"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-06-25",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU8xSkdDSVRGOXhzQTVoemlTUi1GaFEyMzFNSUFXdGdQd21pbUNENTdfX01KaGFXdGQ5RklfMVNiSDlBRzRvb0xZVkU1dVd6Q0NTakI1WmxVaXZMMlVtUHVEZ2I1d3NkbExTQXU4RlRSQVhueHE0RU9sbTg5VjJWU0VwUjRMeGJtRmhXbzBQM013T3p4Y05JU2JnZkt1d0k?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "全球股災後大翻身！亞洲科技股強勢反彈，三星電子股價飆升9%！",
+    "zhSummary": "最近全球股市經歷一波大跌後，亞洲的科技公司股票表現亮眼，特別是三星電子股價大幅回升9%，顯示市場信心正在恢復。",
+    "zhContent": "<p>最近啊，全球的股市有點像坐雲霄飛車，經歷了一段驚險的大跌。不過，在這一片緊張的氣氛中，亞洲的科技公司股票卻傳來了好消息，上演了一場漂亮的「逆轉勝」！許多重要的科技股價格都快速回升，讓投資人鬆了一口氣。</p><p>根據財經媒體CNBC的報導，前陣子因為一些全球經濟因素，許多國家的股票市場都受到了影響，股價普遍下跌，我們稱它為「全球性的下跌」。但在這波下跌之後，亞洲的科技股很快就展現了強勁的恢復力。其中最引人注目的就是韓國的三星電子公司，它的股價在短時間內竟然大幅上漲了百分之九，這個數字讓很多人都嚇了一跳。</p><p>為什麼亞洲科技股能這麼快地反彈呢？通常這種情況代表市場對這些公司的未來發展重新充滿了信心。投資者們可能認為之前的股價下跌已經到底了，現在是買入的好時機，所以大家又開始踴躍地買進這些科技公司的股票，推動了股價再次上漲。</p><p>這次亞洲科技股的大幅回升，特別是像三星這樣的大型企業，對整個區域的經濟來說都是一個好消息。它顯示出儘管全球市場曾遭遇挑戰，但亞洲的科技產業依然充滿活力，並且有能力快速調整並重新獲得市場的認可。目前來看，市場的緊張情緒有所緩解，投資者們也對未來的發展抱持更樂觀的態度。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致了亞洲科技股的「大跌」？「反彈」又是什麼意思呢？",
+      "生活與未來：你覺得科技公司的股價漲跌，會對一般人的生活造成什麼實際影響？",
+      "獨立思考提案：如果未來再次發生類似的「全球性下跌」，你覺得科技公司可以怎麼做來保護自己或更快地恢復？"
+    ],
+    "enTitle": "Asian Tech Stocks Rebound After Global Market Rout, Samsung Jumps 9%",
+    "enContent": {
+      "basic": "Good news for Asian tech companies! After a big drop in markets around the world, Asian tech stocks are going up again. Samsung, a big company from Korea, saw its stock price jump by 9%. This shows that investors are feeling more positive about these companies now.",
+      "intermediate": "Asian tech stocks have shown a strong recovery following a recent global market downturn. CNBC reported that after a period where many stock prices fell significantly, major tech companies in Asia are now seeing their values rise. Notably, Samsung Electronics experienced a significant 9% increase in its stock price, signaling renewed investor confidence.",
+      "advanced": "Asian technology stocks have demonstrated a robust rebound in the wake of a considerable global market rout. According to CNBC, following a substantial downturn across international equity markets, key Asian tech firms are now witnessing a notable resurgence. Samsung Electronics, a prominent South Korean conglomerate, recorded an impressive 9% surge in its share value, indicating a significant restoration of investor confidence in the sector."
+    },
+    "vocabulary": [
+      {
+        "word": "rebound",
+        "zh": "反彈：指的是東西跌下去之後，又快速地升回來。在股市中，就是指股票價格下跌後又迅速回升。"
+      },
+      {
+        "word": "rout",
+        "zh": "大跌、潰敗：指股票市場或某種資產的價格突然快速地、大幅度地往下跌，就像一場潰敗一樣。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-06-25",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHpMTnFWdjQ4cW82OXRMRmpRcXdma0VublBhRW0xVnllTWtPYUk1VnVVZllIM1ZVc0RnNkQxR3I1bjgybnZoTmZRZ0s0eUF0N0MyN1N4OEdIZEdEZHFZMk1QeHNaOU8wRkxIUVB3eVRvOXI3U2s0WS00MUpKWUlJT2xxWjJIQVR3VkxB0gGLAUFVX3lxTE1UekxOcVZ2NDhxbzY5dExGalFxd2ZrRW5uUGFFbTFWeWVNa09hSTVWdVVmWUgzVlVzRGc2RDFHcjVuODJudmhOZlFnSzR5QXQ3QzI3U3g4R0hkR0RkcVkyTVB4c1o5TzBGTEhRUHd5VG85cjdTazRZLTQxSkpZSUlPbHFaMkhBVHdWTEE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "印尼地熱能源大升級！Geo Dipa 攜手 SAP 打造綠色未來",
+    "zhSummary": "印尼的國營地熱能源公司 Geo Dipa Energi，最近決定導入德國軟體大廠 SAP 的「RISE with SAP」數位解決方案。這項合作主要目的是要讓印尼的地熱發電管理更有效率、更智慧，藉由科技的力量，推動國家邁向更永續的綠色能源未來。",
+    "zhContent": "<p>嘿，大家知道印尼嗎？他們除了海島風光，現在正努力發展一種很酷的能源！有一家叫做「Geo Dipa Energi」的公司，專門把地球深處的熱能變成電，這就是「地熱發電」。最近，他們決定跟全球知名的軟體公司SAP合作，導入一套叫做「RISE with SAP」的系統。簡單來說，他們想讓地熱發電更聰明、更有效率，為印尼的綠色能源未來打下基礎。</p><p>為什麼Geo Dipa Energi需要這套系統呢？地熱發電需要精確管理大量數據，從地底熱能探測、設備運作，到最終把電送到家戶，每個環節都重要。這套「RISE with SAP」系統就像幫他們打造了超級大腦，能整合所有資料，讓Geo Dipa Energi的員工更清楚看到整個發電流程，快速掌握狀況。這樣一來，他們就能更快判斷，讓電廠營運更順暢。</p><p>Geo Dipa Energi 期望透過這套新系統，更有效規劃資源，例如預測地熱井產能，或最佳化發電廠維護排程。這不只減少浪費，讓資源運用更精準，也能確保發電穩定。這間公司希望能提升能源管理效率，讓印尼這個擁有豐富地熱資源的國家，更好地利用天然寶藏，轉化成更乾淨、永續的電力。</p><p>簡單來說，這項合作的最終目標，就是幫助印尼發展更可靠、更環保的地熱能源。當「RISE with SAP」系統成功上線後，Geo Dipa Energi就能以更先進的方式管理發電事業，讓整個國家在邁向綠色能源的路上走得更穩健。這不只是Geo Dipa Energi的大進步，也為印尼的能源發展寫下新頁。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Geo Dipa Energi Powers Indonesia’s Geothermal Future with RISE with SAP",
+    "enContent": {
+      "basic": "Geo Dipa Energi in Indonesia is partnering with SAP to use a new system called \"RISE with SAP.\" This helps them make geothermal energy (power from the Earth's heat) more efficient and smarter. They want to use technology to manage their energy better for a green future.",
+      "intermediate": "Indonesia's Geo Dipa Energi, a state-owned company focused on geothermal energy, is adopting SAP's \"RISE with SAP\" solution. This strategic move aims to enhance the efficiency and operational intelligence of its geothermal power generation. By integrating this advanced system, Geo Dipa Energi seeks to streamline data management and optimize resource planning, contributing to Indonesia's sustainable energy goals.",
+      "advanced": "Geo Dipa Energi, an Indonesian state-owned enterprise focused on geothermal energy development, has announced its strategic adoption of the \"RISE with SAP\" platform. This initiative is designed to fundamentally transform its operational landscape, enabling a more agile, data-driven approach to geothermal power generation. By leveraging SAP's cloud ERP capabilities, Geo Dipa Energi intends to optimize resource allocation, enhance predictive maintenance, and bolster overall efficiency, thereby accelerating Indonesia's transition towards a robust and sustainable energy future."
+    },
+    "vocabulary": [
+      {
+        "word": "Geothermal",
+        "zh": "地熱 – 利用地球內部的熱能來發電或提供暖氣的一種清潔能源，是很環保的發電方式。"
+      },
+      {
+        "word": "Solution",
+        "zh": "解決方案 – 針對某個問題或需求，提出一套完整的處理方法、計畫或系統。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-06-25",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcktjTF9EUXNyN2FYeHMtR285bmk2U2M2RE9PSjJmc3dNcjEwN1Y3Tmtidk9PRlNzSWszYTZJSUNDVXFGemk2MVdJRnEzZUNBZ2FGY25lcWdaSHVXMFFBQVViUktrRGNHYlVGQy1CLXNfang0NnZ3SVBleFhsUzgzX1hYVWpGZ2ttdU40RnFoMEFDUEppQTZ5VDlLQ19BN3Y3Y2NOZU5NQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "庫克群島喊卡！宗教團體申請全面暫停，司法部長要查清楚！",
+    "zhSummary": "庫克群島司法部長近期宣布，所有新的宗教團體申請案將暫時停止，目的是為了全面檢視並更新管理宗教組織的相關法規，確保其符合現代社會需求且公平公正。",
+    "zhContent": "<p>庫克群島的司法部長最近做出了一個相當引人注目的決定，讓當地的宗教界掀起了一陣討論。部長正式宣布，從現在開始，所有想要成立或註冊的新宗教團體，他們的申請案件都將被暫時停止處理。這項突如其來的舉動並非無故，而是因為政府認為，現有管理宗教團體的相關法律和規章，確實需要好好地進行一次全面且仔細的重新審查，以確保一切合乎時宜。</p><p>這項暫停措施的背後，主要是為了給庫克群島政府充裕的時間，去深入檢視目前用來管理各種宗教團體的法律條文。司法部長明確表示，他們需要確保這些法規不僅在現在是公平、公正且有效的，同時也能夠充分反映當前社會不斷變化的需求和現況。畢竟，宗教團體的數量、種類和運作方式都在持續演變，過去制定的規章制度，可能已經無法完全應對今日的挑戰與要求了。</p><p>這次大規模的審查，其核心目標是希望能夠建立一套更完善、更透明的制度，確保未來所有宗教團體都能在一個清晰、合法且受監督的框架下運作。政府可能會重新評估現行宗教團體申請註冊的標準、他們日常運作應遵守的規範，以及如何更有效地預防和解決潛在的問題或爭議。這就像是學校在一段時間後，發現某些校規可能不再適用或需要更新，於是決定召集大家來討論修改一樣，旨在讓整體環境更好。</p><p>根據司法部長的說明，這項針對所有宗教團體申請的暫停政策，將會持續到這次全面的法規審查和可能的修訂工作完成為止。這意味著在審查期間，任何新的宗教組織都無法向政府提交新的申請文件，而所有已經提交但尚未處理的申請案也將會被擱置。因此，在庫克群島，直到新的法規正式公布實施之前，新的宗教團體數量將會維持現狀。司法部長目前並未給出這次審查將耗時多久的明確時間表，大家只能繼續關注後續的發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，庫克群島的司法部長為什麼要暫停宗教團體的申請？",
+      "生活與未來：你覺得這個改變會對庫克群島想要成立新宗教團體的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得政府在審查法規時，還可以考慮哪些面向，才能讓新的規定更完善？"
+    ],
+    "enTitle": "Cook Islands Justice Minister Halts Religious Applications Pending Review",
+    "enContent": {
+      "basic": "The Justice Minister in the Cook Islands has stopped all new requests from religious groups. This is because the government wants to check and update the rules for these groups. They want to make sure the rules are fair and work well for everyone in today's society. All new applications are on hold until this review is finished.",
+      "intermediate": "The Cook Islands Justice Minister has announced a temporary halt to all applications from religious groups. This decision was made to allow the government to conduct a thorough review of existing legislation governing religious organizations. The aim is to ensure that the laws are up-to-date, fair, and effective in the current social environment, reflecting the evolving nature of religious practices. The moratorium will remain in effect until the review and any potential revisions are completed.",
+      "advanced": "In a significant move, the Cook Islands Justice Minister has imposed a moratorium on all new religious applications. This measure is intended to facilitate a comprehensive review of the current legal framework that regulates religious entities within the nation. The objective is to modernize and rationalize the legislation, ensuring it remains equitable, efficient, and relevant to contemporary societal dynamics and the evolving landscape of religious practice. The suspension will persist until the completion of this detailed review and the implementation of any subsequent regulatory amendments."
+    },
+    "vocabulary": [
+      {
+        "word": "halt",
+        "zh": "暫停 (zàntíng) - 像公車暫時停下來，不繼續往前開。或是學校運動會因為下雨，暫時中止比賽。"
+      },
+      {
+        "word": "review",
+        "zh": "審查 (shěnchá) - 仔細檢查一份文件、一個計畫或一個情況，看看有沒有需要改進或確認的地方。就像老師檢查你的作業一樣。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-06-25",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHpOVHBLQ1lfaktjMTRWTEVxSmh6X1NiTnpTUEFBek5tb2Q2VjR6djhhVjZqaVpKZ3B0YU9odURPX3pUd1VRWHBmOTRPbGdLdFZTU19rbFFSR3RMWkFCX2VEV2hWaTA4cVEzNmxsay1iTmVrUEVRdUVpTDZhMEdnNGVpY2x2U2M3WGlRSTJXWVkwRkNvR0Z4bHhFamZ6bDBoTnBJS2VCNHBIaTR0d21WNUg1dGNmQQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "新竹空軍基地驚傳火警氣爆 一名人員受傷",
     "zhSummary": "新竹空軍基地近日發生火警，疑似因設備故障引發氣爆，導致一名人員受傷。目前相關單位正積極調查事故原因。",
     "zhContent": "<p>大家好！最近在新竹空軍基地發生了一件引起大家關注的事情。幾天前，基地裡傳出了火警，更讓人擔心的是，據說還發生了疑似設備故障引起的氣爆意外，導致一名人員在這次事件中受傷。</p><p>這起事件發生在2026年6月23日。根據公視新聞網的報導，火警地點就在新竹的空軍基地。當時，基地內部突然冒出火光和濃煙，接著便有爆炸聲響傳出。初步懷疑，會發生這樣的狀況，可能是基地裡的某些設備突然故障，才導致氣體外洩並引發了氣爆。</p><p>消息一出，基地內的相關單位立刻展開了緊急處理。他們迅速控制住火勢，並對現場進行了初步勘查。空軍司令部也發出聲明，表示對於這起意外非常重視，目前已經成立了專案小組，正在全面調查事故的詳細原因，以釐清是哪部分設備出了問題，以及氣爆發生的確切過程。</p><p>令人遺憾的是，這場突如其來的火警與氣爆，造成基地內一名人員在過程中受傷。受傷人員已經立即被送往醫院接受治療，目前情況穩定。空軍方面強調，會持續關注傷者的復原狀況，並會依照相關規定提供必要的協助。至於事故的確切原因和後續處理，都還在進一步調查與釐清當中。</p>",
@@ -10113,461 +10393,6 @@
     "date": "2026-05-26",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dQUlozbkQxMkUwY2Ftb3gyRkV5ajdTaWh5ZEQyMVNOUWtneTByemhKZXFGbEsxOU0yTzZxMkdERmlHZkczbkdLb3dkdHU3S0xEWTBub1U2VFcwYmZtdzhMRXUtTGs3U2czQkhWekRhNE9aSWhGNW5XaU5Ybk5FaGlPbTNBemhJMUk4Z0tjYTJjQ01kZ2daWDBYc2I3OVM0aWJfdWpBNWhfREVmOUZKZ25qT0M2d0lFR050X0U0TkpNcERaTE1scFYybE9RZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "伊朗無人機生產再啟動 美情報：軍力重建超乎預期",
-    "zhSummary": "美國情報單位最近發布報告指出，中東國家伊朗已經重新開始生產無人機，並且其軍事力量的重建速度比大家原先預料的還要快很多。",
-    "zhContent": "<p>最近，美國情報單位發出了一份重要報告，內容指出中東國家伊朗已經重新啟動了無人機的生產線。這項消息引起了國際間的關注，因為報告中特別強調，伊朗在軍事力量上的重建速度，遠遠超出了美國情報單位原本的預期。這意味著伊朗在加強防衛和攻擊能力方面，取得了比外界想像更快速的進展。</p><p>所謂的「無人機」，就是不需要飛行員在飛機裡操控，而是透過遙控或預設程式來執行任務的小型飛行器。它們可以用來偵察、監視特定區域，或是在必要時發動攻擊，是一種在現代戰場上越來越普遍的武器。美國情報單位指出，伊朗在一段時間後重新開始大量製造這些無人機，顯示他們正積極強化自身的軍事科技與武器庫，特別是在空中偵察和打擊能力方面。</p><p>這份情報報告的重點，不僅僅是伊朗重新開始生產無人機這件事本身，更在於他們軍事力量「重建」的速度和規模。美國情報單位表示，他們過去對伊朗的軍事發展有過評估，但目前的進展卻是超乎他們的預期，比他們原先估計的要來得更快、更有效率。這代表伊朗在短時間內投入了大量資源，加速提升自己的軍事實力，讓國際社會對該地區的未來局勢有了新的評估。</p><p>目前，美國情報單位持續密切關注伊朗在軍事發展上的每一個動向，特別是這些無人機的生產和部署情況。這份報告主要客觀地呈現了伊朗在無人機生產和軍力重建上的最新情況，並指出其進展超乎預期，對於國際安全情勢是一個正在發生的重要變化。這項發現將會影響未來各國對中東地區情勢的判斷和策略。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Intelligence: Iran Restarts Drone Production, Military Rebuild Exceeds Expectations",
-    "enContent": {
-      "basic": "US intelligence reports that Iran has restarted producing drones. This military rebuilding is happening much faster than expected. Drones are planes without pilots, used for spying or attacks. Iran is quickly making more of these, which means they are building up their military power faster than the US thought. This news is important for how countries see the situation in the Middle East.",
-      "intermediate": "According to a recent US intelligence report, Iran has resumed the production of unmanned aerial vehicles, commonly known as drones. This development is significant because the report indicates that Iran's military reconstruction efforts are proceeding at a pace far exceeding initial expectations. Drones are remotely controlled aircraft used for surveillance, reconnaissance, and offensive operations. Iran's accelerated production highlights a rapid enhancement of its military capabilities. This unexpected speed in military buildup will likely influence international assessments of stability in the region.",
-      "advanced": "A recent assessment from US intelligence agencies reveals that Iran has recommenced the production of unmanned aerial vehicles (UAVs), a move that underscores a rapid and extensive military reconstruction. The report specifically highlights that the pace of this military revitalization significantly surpasses prior expectations. UAVs are critical assets in modern warfare, deployed for intelligence gathering, surveillance, and precision strikes. Iran's intensified production efforts signal a strategic enhancement of its defense and offensive capabilities. This unforeseen acceleration in military development is poised to recalibrate geopolitical analyses and strategic responses concerning regional stability in the Middle East."
-    },
-    "vocabulary": [
-      {
-        "word": "Drone",
-        "zh": "無人機 (一種小型飛機，可以不用人駕駛，用遙控或預設程式飛行，常常用來拍照或偵察，有時候也會用來執行軍事任務。)"
-      },
-      {
-        "word": "Intelligence",
-        "zh": "情報 (指從各種管道收集來的重要資訊，通常是政府或軍方用來了解其他國家狀況的秘密消息，有助於他們做決策。)"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-05-25",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSUVKbUptYzM2b3lnT1ZvdzlPVzhOZmlJbzkxM0JjRjVzRXAtNW0td3BsaHQwNUlVZjNEQTZ3dGpaaWJMMmQydmhZQ2ZkMUlPeFlNem9Qa3BBa1FBakRv?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "中巴攜手預報天氣，全球氣候變遷新榜樣？",
-    "zhSummary": "中國與巴基斯坦兩國正在氣象預報領域展開深度合作，期望共同應對氣候變遷的挑戰，並為全球應對氣候問題樹立一個「開創性」的典範。",
-    "zhContent": "<p>「喂，你今天出門有沒有看天氣預報啊？」這句話是不是常常聽到？天氣預報對我們的生活非常重要，特別是當極端天氣事件越來越多時，準確的預報就顯得更關鍵了。最近，有兩個國家——中國和巴基斯坦，決定要攜手合作，一起來面對全球氣候變遷帶來的挑戰。他們在氣象領域加強了合作關係，不只希望能讓各自的國家更精準掌握天氣變化，甚至被看作是全球在應對氣候問題上的一個「開創性」典範。</p><p>這項氣象合作可不是隨便說說而已。它包含了很多實際的行動，像是兩國會互相分享天氣資料、交換氣象科技，還有培訓專業的氣象人員等等。想像一下，當預測暴雨或乾旱的能力大大提升，國家就能提前做好準備，減少災害帶來的損失。對巴基斯坦來說，他們經常受到洪水和乾旱的影響，所以能夠獲得中國在氣象方面的技術和經驗支援，對他們而言非常寶貴，可以幫助他們更好地保護人民和農田。</p><p>為什麼這兩國會特別選擇氣象合作呢？其實，這背後的原因很簡單。中國和巴基斯坦都是幅員廣大的國家，也都面臨著嚴峻的氣候挑戰。從近年來不斷加劇的極端天氣事件就可以看出，無論是強烈的熱浪、異常的降雨，還是突然出現的沙塵暴，都對兩國人民的生活和經濟造成了不小的衝擊。因此，雙方都意識到，單打獨鬥不如互相幫助，透過共享資源和技術，才能更有效地建立起應對氣候變遷的防線。</p><p>這項合作目前仍在持續進行中，它的目標不僅是提升兩國自身預測和應對氣候變化的能力，更希望能藉由他們成功的經驗，為其他同樣面臨氣候挑戰的國家提供一個參考模式。這種跨國的氣象合作，讓大家看到原來透過互助和共享，可以共同提升我們對抗氣候變遷的韌性。這項計畫的進展和成果，將會是未來大家持續關注的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，中國和巴基斯坦的氣象合作具體包含哪些行動？你覺得這些行動對他們國家來說有什麼幫助？",
-      "生活與未來：你覺得氣象預報的準確性提高後，對我們日常的生活會有什麼實際影響？請舉一個例子。",
-      "獨立思考提案：針對氣候變遷這個全球性問題，除了新聞中提到的氣象合作，你覺得還有哪些跨國合作方式可以幫助我們更好地應對？"
-    ],
-    "enTitle": "China and Pakistan Forge New Path in Weather Cooperation for Climate Resilience",
-    "enContent": {
-      "basic": "China and Pakistan are working together on weather forecasting. This cooperation helps them deal with climate change. They share weather information and technology. This is important because both countries face extreme weather. People think this partnership can be a good example for other countries too. It shows how nations can help each other prepare for climate challenges.",
-      "intermediate": "China and Pakistan have joined forces in meteorological cooperation to enhance their ability to combat climate change. This collaboration involves sharing crucial weather data, exchanging advanced meteorological technologies, and training professional staff. For Pakistan, which frequently experiences floods and droughts, this support from China is vital for better protecting its citizens and agricultural lands. Both nations recognize that by combining their resources and expertise, they can build stronger defenses against the increasing threats of extreme weather events.",
-      "advanced": "In a groundbreaking initiative, China and Pakistan have significantly deepened their meteorological cooperation, establishing what is widely regarded as a pioneering model for global climate resilience. This comprehensive partnership encompasses a broad spectrum of activities, including the systematic exchange of real-time weather data, transfer of cutting-edge meteorological technologies, and the implementation of joint training programs for climate scientists and forecasters. For Pakistan, a nation particularly vulnerable to the devastating impacts of climate change such as severe floods and prolonged droughts, this technical and experiential support from China is instrumental in enhancing early warning systems and disaster preparedness mechanisms. Both countries, cognizant of their shared susceptibility to intensifying extreme weather phenomena, are leveraging this collaborative framework to fortify their respective capacities to adapt to and mitigate the effects of a changing climate, while also offering a replicable blueprint for other nations confronting similar environmental challenges."
-    },
-    "vocabulary": [
-      {
-        "word": "Cooperation",
-        "zh": "合作：兩個國家或個人之間，為了共同的目標而一起努力、互相幫助。就像你跟同學分組完成報告一樣。"
-      },
-      {
-        "word": "Resilience",
-        "zh": "韌性：當遇到困難或災害時，能夠快速恢復、重新站起來的能力。有點像彈簧，被壓下去後能再彈回來。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-05-25",
-    "sourceName": "| Associated Press Of Pakistan",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdVpWellpMzB1Mnctekg4dEUyMjlVWEtCY0ltNWpGSjlUUFJLZjVLOENCSjY3WG5lSmtVWWMtckRPb1hhNFB1RjJGNDJuaHVJcS02ODBTTGYxbHFiU05vWGlTX3N4U2pBMDJBcDl2ZVQ2T3o1VUNEa09sX010bFBQTVM3RGg5TWxDT3FodkNwaU9Yc1E3SnFvaTdpdldjbHdOUEQ3OGxjOHVfTnVPT1NWN0RGWFVNbVhtM0RUQk94UzFGNTJFOTl3eV9weXg1eU9MZ1RYVQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "深入紐約藝術週：PAPER雜誌帶你「潛入」藝術現場！",
-    "zhSummary": "PAPER雜誌以獨特「臥底」方式，深入紐約藝術週，帶讀者體驗藝術界最真實、不為人知的一面，揭開這場文化盛事的幕後風景。",
-    "zhContent": "<p>你或許聽過記者「臥底」採訪新聞，通常是為了揭發一些不為人知的事件。不過，有本專門報導時尚與文化的美國雜誌《PAPER Magazine》，最近也玩了一把類似的「潛入」行動。他們不是去調查什麼秘密，而是為了紐約一年一度的「藝術週」。這場藝術界的大活動，每年都會聚集來自世界各地的藝術家、畫廊和收藏家，展出各種最新潮、最有趣的藝術作品。而《PAPER Magazine》決定要用一種特別的方式，帶讀者看遍這場藝術盛會。</p><p>這次，《PAPER Magazine》的記者們並沒有大張旗鼓地表明身份，而是低調地「混入」藝術週的各個角落。他們穿梭在琳瑯滿目的畫廊與展覽空間之間，仔細觀察每件作品，感受現場的氣氛，甚至和其他藝術愛好者、參觀者自然地交流。他們的目標是要捕捉那些平常新聞報導中較少提及的細節，可能是某位年輕藝術家作品背後的故事，或是某個不為人知的獨立展區所散發出的獨特魅力，試圖從群眾的角度，體驗藝術最真實的樣貌。</p><p>為什麼《PAPER Magazine》會選擇這樣特別的「臥底」報導方式呢？其實，很多時候大型的藝術展覽或活動，往往會有很多官方的宣傳和既定的路線。而雜誌希望透過這種貼近人群、不帶任何預設立場的「潛入」手法，來呈現紐約藝術週更自然、更生活化的一面。他們想讓讀者感覺就像自己也在現場，和記者一起發現那些隱藏在光鮮亮麗藝術品背後的創意與感動，而不是只看到那些最主流、最熱門的焦點。</p><p>透過這次特別的「臥底」體驗，《PAPER Magazine》成功地為讀者呈現了一系列關於紐約藝術週的深度報導和影像紀錄。這些內容不只包含了那些藝術界重量級人物的作品，更深入挖掘了許多新興藝術家和非傳統展覽的獨特之處。雜誌將這些觀察與發現整理成專題，讓所有讀者都能從一個全新的角度，感受這場藝術盛事的脈動，並對紐約的藝術文化有更貼近生活的認識。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "PAPER Magazine's Undercover Journey into New York Art Week",
-    "enContent": {
-      "basic": "PAPER Magazine went undercover at New York Art Week. Reporters secretly explored galleries and talked to artists. They wanted to show readers the real side of art, not just the famous parts. They found many new artists and unique shows, sharing a fresh view of the art scene.",
-      "intermediate": "Known for its coverage of fashion and culture, PAPER Magazine adopted an 'undercover' approach for New York Art Week. Journalists discreetly navigated various galleries and exhibitions, engaging with artists and attendees without revealing their identities. The goal was to capture the authentic spirit of the art world, spotlighting emerging talents and unconventional showcases often overlooked by mainstream media, offering readers an insider's perspective.",
-      "advanced": "In a distinctive journalistic endeavor, PAPER Magazine dispatched its reporters 'undercover' to chronicle the vibrant tapestry of New York Art Week. Eschewing overt declarations of their affiliation, the team immersed themselves in the myriad galleries and ephemeral installations, seeking an unvarnished perspective. This clandestine approach aimed to circumvent the typical official narratives, instead unearthing grassroots artistic expressions and the genuine interactions within the art community, ultimately curating a more visceral and relatable portrayal of the week's cultural effervescence for their readership."
-    },
-    "vocabulary": [
-      {
-        "word": "Undercover",
-        "zh": "臥底 (wòdǐ) - 偷偷地進行偵查或採訪，不讓別人知道真實身份，就像秘密警察一樣，目的是為了獲得真實的情報或訊息。"
-      },
-      {
-        "word": "Art Week",
-        "zh": "藝術週 (yìshù zhōu) - 指在特定城市或區域，於某一個星期內集中舉辦各種藝術展覽、表演、講座等活動的盛會，通常會吸引許多藝術愛好者參與。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-05-25",
-    "sourceName": "PAPER Magazine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GMDV0RlNhQ0llWnRHdVZJcGVZTm1KdHg4ZXJPVnYtR0RCamt3eHpMeWNBdXhFenktak5xS2JSeVdLY19OUjh0NGJCRWVjY1JWYkhjUA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "華爾街點名！不想追AI股？高盛建議這些「非AI」潛力股",
-    "zhSummary": "投資銀行高盛針對目前股市熱門的AI趨勢提出建議，認為如果想分散風險或避開AI相關股票，可以考慮投資一些與人工智慧無關、但有穩定表現的公司股票。",
-    "zhContent": "<p>最近這陣子，全球股市吹起了一股超強的「AI風潮」。許多投資人都在搶著買跟人工智慧（AI）有關的公司股票，像是開發AI晶片的啦，或是做AI軟體的公司，這些股票的價格都漲得很高，簡直是超級熱門。不過，就在大家瘋狂追逐AI股的時候，華爾街一家很有名的投資銀行——高盛（Goldman Sachs）卻提出了不一樣的看法。他們給了一份特別的建議，告訴大家如果不想繼續跟著AI熱潮走，或者想找點不同的投資方向，他們有另外一套「非AI」股票清單可以考慮。</p><p>高盛的分析師們觀察到，雖然AI領域充滿了機會，但也有些投資人可能會擔心，這麼熱門的AI股票是不是已經漲得太高了，會不會有風險？或者他們只是單純想分散投資，不要把所有雞蛋都放在同一個籃子裡。所以，高盛特別點名了一些跟AI完全沒關係，但同樣具有成長潛力、經營穩定、獲利表現不錯的公司股票。這些公司可能是在傳統產業，或是提供日常生活所需的服務，雖然不像AI概念股那麼有「未來感」，但勝在基礎紮實。</p><p>這份建議背後的主要考量，是希望幫助投資人建立一個更平衡的投資組合。當某個特定產業像AI這樣快速成長時，通常會吸引大量資金湧入，這會推高股價。但如果哪天熱度稍微降溫，或是產業發展不如預期，這些股票的價格波動可能會比較大。高盛的用意是提醒大家，除了追逐當下的熱門話題，也別忘了市場上還有許多默默耕耘、有穩定獲利能力的「好學生」。這些公司通常有比較穩定的現金流和成熟的商業模式，即使沒有AI的光環，也能為投資人帶來不錯的回報。</p><p>因此，高盛這份「非AI」股票名單，並不是要否定AI的價值，而是提供另一種投資策略的選擇。他們建議那些覺得AI股票有點「過熱」的投資人，可以將目光投向那些與AI技術沒有直接關聯，但在各自領域表現優秀的公司。這份名單代表的是一種多元配置的思維，讓投資人即使不跟風，也能在股市中找到適合自己的機會。這也顯示了在投資世界裡，總是有許多不同的門路可以選擇，聰明的投資人會依據自己的判斷和風險承受度來做出決策。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Goldman Sachs Suggests Non-AI Stocks for Those Eyeing Alternatives to the AI Trend",
-    "enContent": {
-      "basic": "The AI stock market is very popular now. Many people are buying shares of companies that work with AI. But a big bank, Goldman Sachs, has a different idea. They told investors about other stocks that are not about AI. These are for people who want to stop buying AI stocks or want to try something new. Goldman Sachs believes these non-AI stocks can also be good investments.",
-      "intermediate": "Lately, the stock market has been heavily focused on Artificial Intelligence (AI). Investors have been eager to purchase shares in AI-related companies, driving their prices up significantly. However, a major investment bank, Goldman Sachs, has offered alternative advice. They suggest that investors who wish to step away from the current AI boom, or those looking to diversify their portfolios, should consider buying stocks that are unrelated to AI technology. These recommendations aim to provide stable investment options outside the popular tech trend.",
-      "advanced": "The ongoing surge in Artificial Intelligence (AI) related stocks has captured significant market attention, with valuations reflecting robust investor enthusiasm. Amidst this fervent activity, Goldman Sachs has issued a strategic recommendation for investors contemplating a departure from, or diversification beyond, the prevailing AI trade. The prestigious investment bank has identified a selection of equities that bear no direct correlation to AI, proposing them as viable alternatives for portfolios seeking stability and growth outside the currently amplified tech sector. This guidance underscores a prudent approach to mitigating concentration risk within highly specialized, rapidly appreciating market segments."
-    },
-    "vocabulary": [
-      {
-        "word": "Trade",
-        "zh": "交易 / 買賣。在股市裡，當大家買賣股票或某種商品，就叫做交易。新聞中提到的「AI trade」則是指投資人大量買賣跟人工智慧相關的股票，形成的一股熱門風潮。"
-      },
-      {
-        "word": "Diversify",
-        "zh": "分散投資 / 多元化。意思是不要把所有錢都投資在同一個地方，而是分開投資到不同種類的資產或不同產業，這樣可以減少風險。就像你不只準備一種考試，而是同時準備好幾種，增加成功機會。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-05-25",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0VIMWhtTE5PNnRaSnZZeUlPSE9yQmtwRlc4TXVjbjg2UW9KMmxuMmhlVVI5WGNEOTc1eVdZYm9DaVEzOUw3RnNUN1BGM1pRdnFySGFELU5GTWFfQmVoNUYydVhKWHZtQmJGM1BZZEhUOUdiVEQ0LXhpR2xjV0NmdkpyeUhzcTRseWRwWUYtc2hjZ0xjT1VVOGttR25oUXY1YldlREE3UVM5NlBBc3FDMXpCcGR1QWdIUlRVTW5ZRllBUUZLVWc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "澳洲喜鵲：牠們認識你，還有更多你不知道的超酷秘密！",
-    "zhSummary": "澳洲喜鵲不只聰明，還能認出人類！這篇報導將揭露這種澳洲常見鳥類不為人知的五個有趣事實，讓你對牠們刮目相看。",
-    "zhContent": "<p>各位喜歡小動物的朋友們，你們有沒有想過，身邊的鳥兒可能其實認識你？在澳洲，有一種非常常見的鳥，叫做喜鵲（Magpie），牠們不只常常出現在公園或後院，科學家們還發現，這些聰明的鳥兒竟然能夠記住人類的臉，甚至分辨得出誰是誰！這可不是隨便說說，牠們真的有這種驚人的能力。</p><p>喜鵲的辨識能力非常驚人，研究顯示，牠們能記住多達一百張人類的面孔。這也解釋了為什麼在繁殖季節，有些喜鵲會對特定的人比較友善，對另一些人則可能表現出防衛性。除了這個之外，澳洲喜鵲還有一些特別的技能。首先，牠們是出色的歌手，擁有多變且悅耳的鳴唱聲，會用歌聲來標記自己的地盤。其次，牠們是社會性很強的鳥類，通常會形成小的群體，彼此之間有複雜的交流方式，就像人類的小團體一樣。再者，喜鵲非常聰明，有解決問題的能力，例如牠們會用石頭敲開堅硬的螺殼，找到裡面的食物。牠們的智力在鳥類中數一數二，讓許多專家都感到驚訝。</p><p>這些發現主要來自於長期的觀察與研究。科學家們透過在鳥類身上做標記，並持續記錄牠們的行為，才一步步揭開了喜鵲的神秘面紗。喜鵲之所以能在人類環境中如此成功地生活，部分原因就是牠們的適應能力和超強的學習能力。牠們會觀察周遭環境，記住哪些地方有食物，哪些人類比較友善。尤其是在繁殖季節，為了保護巢中的幼鳥，牠們會特別留意周圍的人事物，這時候牠們的辨識能力就顯得更為重要了。</p><p>總之，澳洲喜鵲是個充滿驚喜的鄰居。牠們不只是澳洲最常被看見的鳥類之一，更是擁有高度智慧與社會行為的生物。下次你在公園看到喜鵲的時候，不妨多觀察一下牠們，說不定你已經在牠們的「記憶清單」裡了呢！了解這些常見鳥類的獨特之處，能讓我們對身邊的自然生態有更深的認識。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Australian Magpies: They Know You, Plus Four Other Cool Secrets!",
-    "enContent": {
-      "basic": "Australian magpies are smart birds. They can remember people's faces. They sing nicely and live in groups. They are very common in Australia.",
-      "intermediate": "Australian magpies, one of Australia's most common birds, possess remarkable intelligence. Research indicates they can recognize individual human faces, remembering up to a hundred different ones. Beyond their facial recognition skills, magpies are known for their beautiful songs, complex social structures within their groups, and impressive problem-solving abilities, like using tools to open food.",
-      "advanced": "Hailing as one of Australia's most ubiquitous avian species, the Australian magpie consistently astounds researchers with its sophisticated cognitive capacities. Empirical studies have demonstrated their remarkable ability to discern and recall individual human faces, reportedly recognizing up to a hundred distinct individuals. This advanced recognition system is complemented by other intriguing traits, including their elaborate vocalizations used for territorial demarcation, highly structured social dynamics within their communal groups, and innovative problem-solving techniques, such as employing implements to access sustenance."
-    },
-    "vocabulary": [
-      {
-        "word": "Magpie",
-        "zh": "喜鵲 (Xǐquè) - 一種常見的黑白色鳥類，牠們的叫聲通常清脆響亮。"
-      },
-      {
-        "word": "Recognition",
-        "zh": "辨識 (Biànshí) - 能夠分辨出某人或某物的能力，就像你的手機用臉部辨識來解鎖一樣。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-05-25",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnpYQjNmcFpNSHpPQkJqc0h6eDVVRWhVU0hpa0g5MTFPVGNxRVVqb2lrRDFHWjhGSmpRb0tpclNyQ0dybENsN2pNRDNjU2hSVFVJaVdhLXNDa0hNOWJzUk1LQ3RpYWJ6RlVOLVFoQ3NqWG1wWXNxMjBfMnhMbjJTeXVXM2pXM0c2ZzE1TlBYR1g5azNfVG1IelNEd3AzQWVpVHRLZDJES0wyRXNSeGV3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "伊朗與美國談判：有進展，但協議「還沒那麼快」拍板！",
-    "zhSummary": "這則新聞指出，伊朗和美國針對一項重要協議的談判雖然有進展，但伊朗官方表示，最終協議並不會「馬上」達成。這項協議可能涉及伊朗的核子計畫與美國的經濟制裁。",
-    "zhContent": "<p>「伊朗說，跟美國的協議還『沒那麼快』搞定，但其實已經有進展囉！」這是最近從國外媒體傳來的最新消息。聽起來有點像你跟同學在討論一個重要專案，雖然大家都有努力，但距離完成還是需要一點時間。這份「協議」主要是關於伊朗的核子計畫，還有美國對伊朗的一些制裁。簡單來說，他們正在談判，希望能找到一個平衡點。</p><p>這場談判並不是兩國代表直接坐下來面對面談，通常是透過其他國家或外交官員來傳話，有點像在玩傳聲筒。他們討論的內容很複雜，核心問題是：伊朗願意如何限制自己的核子活動，以換取美國解除對它的經濟制裁。伊朗一直希望能擺脫這些制裁，因為這會嚴重影響他們的經濟和人民的生活；而美國和其他國際社會則擔心伊朗的核子技術可能被用在非和平的用途。</p><p>儘管報導提到「有進展」，但伊朗的官員明確表示，協議「還不確定會馬上達成」。這表示在談判桌上，雙方可能都還有些堅持的部分。伊朗可能覺得美國解除制裁的速度不夠快，或是不夠徹底；而美國可能認為伊朗在核子計畫上的承諾還不夠明確或不夠持久。總之，雙方都有自己的立場和要求，所以要達成一個讓大家都滿意的共識，需要更多時間和協商。</p><p>目前的情況是，對話仍然持續進行中，但距離最終的協議簽署，看起來還有一些距離。伊朗和美國之間的關係一直很緊張，所以任何協議的達成都不會是輕而易舉的事。這份新聞傳達的訊息很清楚：雖然大家都在努力推進，但我們還不能說這份重要的協議會很快拍板定案。接下來，國際社會還會繼續關注這場拉鋸戰的發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Iran-US Deal: Progress Made, But Not Imminent",
-    "enContent": {
-      "basic": "Iran and the United States are having talks about a potential deal, likely concerning Iran's nuclear program and US sanctions. While there has been some progress in these discussions, Iran has stated that a final agreement is 'not imminent,' meaning it won't happen very soon. Both sides have different demands and concerns, which is making the negotiations take longer. The talks are ongoing, but a quick resolution isn't expected.",
-      "intermediate": "Officials from Iran have indicated that while discussions with the United States regarding a significant agreement have seen 'progress,' a final deal is 'not imminent.' These negotiations primarily revolve around Iran's nuclear activities and the lifting of economic sanctions imposed by the US. The report suggests that despite some forward movement, significant hurdles remain due to the differing demands and expectations from both parties. The current status is one of continued dialogue without an immediate breakthrough expected.",
-      "advanced": "Al Jazeera reports that Iran has stated a deal with the United States is 'not imminent,' despite acknowledging 'progress' in the ongoing negotiations. These indirect talks largely focus on the potential restoration of the 2015 Iran nuclear deal, formally known as the Joint Comprehensive Plan of Action (JCPOA), which the US unilaterally withdrew from in 2018. Key sticking points include the scope of Iranian nuclear concessions, the extent and sequencing of US sanctions relief, and guarantees for future adherence. Iranian officials' remarks underscore the complex and protracted nature of these diplomatic efforts, suggesting that a comprehensive agreement remains some distance away despite incremental advancements."
-    },
-    "vocabulary": [
-      {
-        "word": "Imminent",
-        "zh": "即將發生的、迫在眉睫的。用在這裡是指某件事並不會「馬上」發生，還有一些時間。"
-      },
-      {
-        "word": "Progress",
-        "zh": "進展、進步。意思是在某件事情上，已經往前邁進，有了一些正面的發展。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-05-25",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzcxNmRCZVp5TVcwMjFveUJFczlPc2l3SWc5bHRudGQyN1RQNDJwUmgtX2xZUkdlREJkS1hsNHdTVTQ3Rk1yS2syWnpEN0JlSk15YnlvbW0tcU92T25iNnJVQkk0NFdZY0ItbmQxS3JaZzlPSktPSG5ickRYTGU4dTBMemxfQlFDWjV4UXdyQ0JJYUJ0X2lwS2xiNHVxTUZJX0NiMXpUdmczdnfSAasBQVVfeXFMUGM3MTZkQmVaeU1XMDIxb3lCRXM5T3Npd0lnOWx0bnRkMjdUUDQycFJoLV9sWVJHZURCZEtYbDR3U1U0N0ZNcktrMlp6RDdCZUpNeWJ5b21tLXFPdk9uYjZyVUJJNDRXWWNCLW5kMUtyWmc5T0pLT0huYnJEWExlOHUwTHpsX0JRQ1o1eFF3ckNCSWFCdF9pcEtsYjR1cU1GSV9DYjF6VHZnM3Z3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南卡羅來納特奧會盛大慶祝，為美國特奧運動會代表隊喝采！",
-    "zhSummary": "南卡羅來納州特奧會為即將參加美國特奧運動會的代表隊舉辦了一場盛大的歡送慶典，表彰這些運動員的努力與成就，並期待他們在比賽中發光發熱。",
-    "zhContent": "<p>最近，美國南卡羅來納州的特奧會（Special Olympics South Carolina）舉辦了一場非常特別的慶祝活動，就是為了要歡送和表揚他們即將參加「美國特奧運動會」（USA Games）的代表隊。這場盛會聚集了所有準備好出征的運動員、教練、家人和支持者，現場氣氛非常熱鬧，大家都在為這些了不起的運動員加油打氣，期待他們能在接下來的全國性賽事中展現最棒的自己。</p><p>這次的慶典不僅僅是一場單純的歡送會，它更像是一場大型的表彰大會。南卡羅來納特奧會的負責人親自向每一位入選的運動員頒發了代表榮譽的徽章，並感謝他們在訓練過程中的堅持和付出。這些運動員來自南卡州的不同城市，他們將在田徑、游泳、籃球、保齡球等多個項目中與來自美國各地的選手一較高下。每一位運動員都經過了長時間的辛苦訓練和選拔，才獲得了這次代表南卡羅來納州參賽的寶貴機會。</p><p>特奧會的宗旨一直都是鼓勵有智能障礙的選手參與體育運動，讓他們能夠透過比賽建立自信、發展技能並結交朋友。這次的美國特奧運動會不僅是這些運動員展現體育才能的舞台，更是他們體驗獨立、挑戰自我極限的重要里程碑。許多運動員在接受採訪時都提到，能夠代表家鄉參賽，讓他們感到無比的驕傲和興奮，也激勵他們在未來的訓練中更加努力。</p><p>隨著慶典的圓滿落幕，南卡羅來納州特奧會的代表隊將在不久的將來啟程前往比賽地點。他們會帶著家鄉的祝福和所有人的期待，在美國特奧運動會的舞台上盡力拼搏。這場比賽的結果不僅僅是獎牌的得失，更重要的是運動員們在比賽過程中獲得的成長和快樂。我們一起為這些勇敢的運動員們喝采，期待他們凱旋歸來，帶著滿滿的收穫分享給南卡羅來納州的所有人。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Special Olympics South Carolina Celebrates USA Games Team",
-    "enContent": {
-      "basic": "Special Olympics South Carolina had a big party to say goodbye to their team for the USA Games. Many athletes, coaches, and families came. Everyone cheered for the team. These athletes will go to the USA Games to play sports like running and swimming. They worked very hard to get ready. Special Olympics helps people with intellectual disabilities play sports and feel good about themselves. The athletes are proud to play for South Carolina. Soon, they will leave for the games. We hope they have fun and do their best!",
-      "intermediate": "Special Olympics South Carolina recently hosted a joyful celebration for its team heading to the USA Games. The event brought together athletes, coaches, and their families, all filled with excitement and pride. Each team member was recognized for their dedication and hard work during training. These athletes, from various parts of South Carolina, will compete in a range of sports, including track and field, swimming, and basketball, against other teams from across the United States. The Special Olympics program aims to empower individuals with intellectual disabilities through sports, fostering confidence and valuable life skills. The athletes expressed immense pride in representing their state. Soon, the team will depart for the national competition, carrying the support and hopes of their community.",
-      "advanced": "Special Olympics South Carolina recently held a significant celebratory event to honor and send off its delegation preparing for the upcoming USA Games. The gathering was a vibrant display of camaraderie, uniting athletes, coaches, and their supportive families, all brimming with enthusiasm. During the ceremony, each chosen athlete received a special commendation, acknowledging their rigorous training and unwavering commitment. These diverse athletes, hailing from various regions within South Carolina, are poised to compete in numerous disciplines such as track and field, aquatics, and team sports, against formidable competitors from across the nation. The core mission of the Special Olympics is to provide a platform for individuals with intellectual disabilities to develop self-esteem, enhance physical abilities, and forge meaningful friendships through athletic participation. Many athletes voiced their profound sense of honor and excitement at the prospect of representing their home state. The team is scheduled to embark for the national competition shortly, carrying with them the collective aspirations and encouragement of the entire South Carolina community."
-    },
-    "vocabulary": [
-      {
-        "word": "Special Olympics",
-        "zh": "特奧會：一個專為有智能障礙人士舉辦的國際性體育賽事和組織，目標是讓他們能透過運動建立自信、培養技能。"
-      },
-      {
-        "word": "Representative",
-        "zh": "代表：被選出來代表一個團體、國家或地區的人或隊伍。他們會出席會議、參加比賽或執行任務。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-05-25",
-    "sourceName": "WRDW",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3NjMElfNFlaWjdVRlBCTHlUcHowWVpmUThTQ3liSFdQYXlrbVVQcTROWXRoZU9xZy1IT0Fvbkpjc3BpR1cwZ1FXbWh5MUs3NmZpZkI4dFotZ1gxRGxFV1c4ZlVmQWw3ckRuYUFTUjBlVXJBdkxRb0JwbU9rbVJMYXUwa0hTdDY1bkJvelhDWTM4MDRv0gGoAUFVX3lxTE4zeFNmNTVNWERoSDM4QlVfOGZwQVAwVkpFQk5CczhzTHhyLXhIN0ttZkxqMU9YMk16ZDNxWFNvcWd2VTZtUWZ0dWdXQWdYRGZQMTRWb1NRajJDQ1RSTGpyYTFZUm5jQV9KelZWU0JIRldYUG4xV3NaVVNXekoxWjlBRURoaFVVR2tsN2R3ZGtRUzYtR1JqdW04RWJYVXdMc0dMOENINkI3bw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "歐盟盯上科技巨頭Google！傳將開出「數億歐元」天價罰單",
-    "zhSummary": "歐盟正計劃對Google處以一筆數億歐元的巨額罰款，這項消息由德國《商報》率先報導，並由路透社轉述。這顯示歐盟持續對大型科技公司的反壟斷和公平競爭行為進行嚴格監管。",
-    "zhContent": "<p>最近有一個很震撼的消息傳出來：歐洲聯盟（簡稱歐盟）正計劃對全球最大的科技公司之一 Google 開出一張超級巨額的罰單！這筆錢可不是小數目，根據德國權威商業報紙《商報》（Handelsblatt）的報導，金額可能高達「三位數的百萬歐元」，也就是數億歐元，這消息後來也被國際媒體路透社（Reuters）轉述，引起了大家的關注。</p><p>想像一下，這張罰單的數字至少是數百萬歐元起跳，甚至可能上看將近十億歐元！歐盟之所以會考慮對 Google 祭出這麼高的罰款，通常都跟「反壟斷」或「公平競爭」有關。簡單來說，歐盟希望市場上的所有公司都能在公平的環境下競爭，不希望有任何一家公司因為太大、太強，就去欺負或排擠其他小公司，導致市場不健康。</p><p>雖然這次新聞標題沒有直接點明這筆「計劃中」的罰款具體是因為 Google 的哪一個行為，但回顧過去，Google 曾多次因為涉嫌利用其在搜尋引擎、手機作業系統（像是 Android）或線上廣告市場的巨大優勢，來壓制競爭對手，而遭到歐盟的調查與罰款。歐盟的態度一直很堅定，就是不能讓任何公司建立「數位帝國」，影響市場的活力和消費者的選擇。這顯示歐盟正持續密切監管大型科技公司在歐洲市場的行為。</p><p>目前這項對 Google 的高額罰款仍然停留在「歐盟計劃中」的階段，並不是最終的正式決定，但它已經顯示歐盟有非常強烈的意圖要採取行動。如果這項計畫最終確認並執行，這將再次給所有在歐洲營運的大型科技公司一個明確的信號：無論你的公司有多大，在歐洲做生意就必須遵守當地的市場規則，確保公平競爭，不能隨意運用自己的影響力來造成不公平的結果。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，歐盟計劃對 Google 處以鉅額罰款的原因是什麼？金額大約是多少？",
-      "生活與未來：你覺得這個改變會對網路世界，或我們使用 Google 相關服務的經驗，造成什麼實際影響？",
-      "獨立思考提案：針對歐盟監管大型科技公司的做法，你覺得還可以怎麼做會更好？為什麼？"
-    ],
-    "enTitle": "EU Plans High Triple-Digit Million Euro Fine for Google, Report Says",
-    "enContent": {
-      "basic": "The European Union is planning to fine Google a very large sum of money, potentially hundreds of millions of euros. This news was first reported by the German newspaper Handelsblatt and then shared by Reuters. The EU often fines large tech companies for unfair competition.",
-      "intermediate": "The European Union (EU) is reportedly preparing to impose a substantial fine on Google, amounting to a 'high triple-digit million euro sum.' This means the fine could be hundreds of millions of euros, possibly close to a billion. The report, initially from Handelsblatt and relayed by Reuters, highlights the EU's ongoing efforts to ensure fair competition among big tech firms. While the specific reason for this planned fine isn't detailed in the headline, the EU has previously penalized Google for abusing its market dominance in areas like search and mobile operating systems.",
-      "advanced": "The European Union is reportedly planning to levy a significant financial penalty against Google, described as a 'high triple-digit million euro sum' by German business daily Handelsblatt, a report subsequently picked up by Reuters. This proposed fine underscores the EU's continued commitment to enforcing antitrust regulations against dominant technology companies. Historically, Google has faced multiple investigations and fines from the EU Commission for alleged anti-competitive practices, particularly concerning its leverage in search, Android, and digital advertising markets. This latest development signals the EU's unwavering resolve to ensure a level playing field and prevent market abuse, regardless of a company's size or influence, in the European digital economy."
-    },
-    "vocabulary": [
-      {
-        "word": "Fine",
-        "zh": "罰款 (fá kuǎn)：因為違反了某些規定或法律，所以必須繳交給政府或相關單位的一筆錢。"
-      },
-      {
-        "word": "Monopoly",
-        "zh": "壟斷 (lǒng duàn)：指一間公司在某個市場中佔有絕對的優勢，幾乎沒有其他競爭對手，導致它可以控制價格或規則，讓其他小公司很難生存。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-05-25",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVVoxT2R4b1ZVbWxvSXU2aEstYTV1R2VqcEZZLWNDNE4xeXNwSjNWMU9nbUd4djY3Qlg5SUpCWHdaMHNiQ0pEcWhNWmJiZ2g1bkFHZkxyM09xU29oeXZUTzk2aWptX3RZUnhUbkE0MHVoNHFjWV9zX1RldUhwaWdqZ3lmM1AyRl9EYklLZ0RiMi1RVTJybVExUERYYkdHdmFuMlpLNHU3NmliamFTOTVPcWdiX0t5R0gtclQ1V3daWWoyT3M?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非的「金融心臟」怎麼了？錢從哪裡來，錢又往哪去？",
-    "zhSummary": "根據外媒報導，南非的資本市場，也就是他們國家裡幫公司籌錢、讓人投資的地方，面臨了巨大的挑戰，甚至被形容為「死亡」。這讓南非的經濟發展和企業成長都受到影響。",
-    "zhContent": "<p>你聽過「市場」嗎？市場是我們買賣東西的地方。在一個國家裡，還有個特別的「市場」叫做「資本市場」。簡單來說，這裡就像是個超級大的「資金交換中心」，公司可以在這裡找到錢來擴大生意、蓋工廠、發明新產品；而有錢的人或銀行，也可以在這裡投資這些公司，希望能讓自己的錢變多。最近，非洲的知名媒體CNBC Africa報導，南非這個國家的資本市場，卻遇到大麻煩，嚴重到被形容是「死了」！</p><p>那麼，這個「錢的市場」是怎麼「死」掉的呢？報導指出，這個過程不是一夕之間發生的。過去這些年，許多原本在南非交易所上市、尋求資金的大公司，開始慢慢地離開，或者選擇到其他國家去尋找投資。而一些新的、有潛力的小公司，也發現很難從南非本地的資本市場募到足夠的資金來發展。這讓整個市場顯得越來越冷清，活力也大不如前。</p><p>造成這種情況的原因很複雜。其中一個主要因素是投資人對南非這個國家的經濟前景信心不足。當投資人覺得一個地方未來可能發展不好，或是投資風險太高時，他們就不太願意把錢投進去。這可能跟當地的政府政策、經濟狀況不穩定，或者是一些關於經營環境的擔憂有關。當公司得不到足夠的資金支持，就更難擴張、創新，甚至會影響到創造更多工作機會。</p><p>最終的結果就是，南非的資本市場變得越來越不活躍，就像報導說的「死了」。雖然並不是真的完全停止運作，但它的規模和影響力都大幅縮減。這意味著南非的企業要找到資金變得很困難，國家經濟發展也缺乏動力。這個事件提醒了大家，一個國家健全的金融系統對於它的經濟成長有多麼重要，而信心的流失，則可能帶來深遠的影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到南非的「資本市場」面臨了什麼樣的困境？它如何影響到公司和投資人？",
-      "生活與未來：你覺得如果我們身處的國家也發生類似的情況，會對我們的日常生活和未來發展造成什麼實際影響？",
-      "獨立思考提案：針對新聞中提到的「投資人信心不足」這個問題，你覺得一個國家可以怎麼做，才能重新獲得投資人的信任？"
-    ],
-    "enTitle": "The Decline of South Africa's Capital Markets: A Teen's Guide to 'Dead' Money Markets",
-    "enContent": {
-      "basic": "South Africa's 'capital markets' are like a big money hub where companies get funds and people invest. Recently, CNBC Africa reported that this market is in trouble, even described as 'dead'. This means it's harder for South African businesses to grow and for the economy to develop. Companies are leaving, and new ones can't find enough money to start. This is happening because investors don't feel confident about South Africa's future, possibly due to economic worries or unclear government rules. When investors are scared, they pull their money out. This makes it hard for companies to create jobs. The market isn't truly dead, but it's much weaker, slowing down the country's economy.",
-      "intermediate": "CNBC Africa highlighted a severe decline in South Africa's capital markets, crucial platforms where businesses raise capital and investors buy and sell financial instruments. The report suggests these markets are effectively 'dying'. Over time, major companies have delisted from local exchanges, opting to seek investment elsewhere. Concurrently, emerging enterprises struggle to secure adequate funding within South Africa. This stagnation is largely attributed to a significant erosion of investor confidence. Concerns about the national economy, governmental policies, and overall business environment have deterred both domestic and international investors. Consequently, the reduced capital flow impedes corporate expansion, innovation, and job creation, severely impacting the nation's economic vitality and future growth prospects.",
-      "advanced": "The narrative from CNBC Africa paints a stark picture of the South African capital markets, characterizing them as being in a state of severe decline, if not outright 'death.' This critical assessment refers to the significant weakening of a financial ecosystem vital for channeling investment into the real economy. The reported 'demise' is a cumulative process marked by a substantial exodus of listed companies from domestic exchanges, which now favor international capital markets for fundraising. Simultaneously, indigenous nascent businesses face formidable challenges in securing local venture capital, leading to a palpable contraction in market activity and liquidity. The principal driver behind this downturn is identified as a pervasive loss of investor confidence, stemming from a confluence of macroeconomic uncertainties, perceived policy inconsistencies, and a generally unfavorable business climate. The resulting capital flight and investment dearth profoundly inhibit corporate expansion, technological innovation, and ultimately, job creation, thus impeding South Africa's broader economic development trajectory and future prosperity."
-    },
-    "vocabulary": [
-      {
-        "word": "Capital Markets",
-        "zh": "資本市場：一個國家裡，讓公司可以向大家（例如：有錢人、銀行）借錢來發展，投資人也可以買賣股票和債券，希望賺錢的地方。它就像一個巨大的資金交換中心，幫助經濟成長。"
-      },
-      {
-        "word": "Investor",
-        "zh": "投資人：把自己的錢投入到某些事業或產品上，希望未來這些錢能夠變多、賺更多利潤的人。他們可能是個人、公司或基金會。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-05-25",
-    "sourceName": "CNBC Africa",
-    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZDBoVDI0MVZtR2xWZzQ1cVhjN3otV0NOdnh5NkI1RlJhc2ZkLVJmUndZU2s5T1pYU2U1V2txS0NlVWJBbmV2SEYwa1U1bDJlbjAxMGdUSjB4cHJYZHpwNmdBTDQ0aW90NnZYUjh3alJHeDk3aXJtd0kyNA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "半島研究中心新書登場！四本力作簽書會熱鬧舉行",
-    "zhSummary": "半島電視台研究中心最近推出四本新書，並為此舉辦了作者簽書會。這些新作品主要聚焦中東及國際事務研究，吸引不少讀者到場支持。",
-    "zhContent": "<p>嘿，同學們！最近，知名的「半島電視台研究中心」（Al Jazeera Centre for Studies，簡稱AJCS）有個特別的活動。他們一口氣推出了四本新書，還特別舉辦了簽書會，讓讀者有機會跟作者面對面交流，了解書中的精彩內容。這場活動吸引了許多對國際事務和研究有興趣的人參與。</p><p>這次發表的新書涵蓋的主題很廣泛，主要都圍繞著中東地區的政治發展、社會變遷，以及重要的國際關係議題。據了解，這些書都是由AJCS旗下的研究員和學者們花費心思完成的。在簽書會現場，不只作者們分享了寫書的心路歷程，讀者們也把握機會提問，大家討論得非常熱烈，氣氛相當活潑。</p><p>半島電視台研究中心一直以來都致力於深入研究中東及周邊區域的各類議題，希望能為大眾提供更多元的視角和分析。他們出版這些書籍的目的，是希望將最新的研究成果分享出來，不只對學術界有貢獻，也能幫助一般民眾更清楚地理解這個複雜的世界，同時激發更多人對這些全球性議題的關注。</p><p>這次的四本新書簽書會活動順利地劃下句點，不只讓這些重要著作成功地推向讀者，也再次展現了半島研究中心在學術出版上的努力和影響力。他們未來預計還會繼續推出更多研究作品，希望持續為國際議題的討論，提供更多有價值的思考材料。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Al Jazeera Centre for Studies Launches Four New Books with Signings",
-    "enContent": {
-      "basic": "The Al Jazeera Centre for Studies (AJCS) recently held book signings for four of its new publications. These events allowed authors to meet readers and discuss their new research. The books focus on topics related to the Middle East and international affairs.",
-      "intermediate": "The Al Jazeera Centre for Studies (AJCS) has announced the release of four new book titles and hosted book signing events. These publications delve into various aspects of Middle Eastern politics, social changes, and international relations. The events provided a platform for authors to interact with readers and share insights from their research.",
-      "advanced": "The Al Jazeera Centre for Studies (AJCS) successfully launched four new book titles, commemorating the achievement with a series of well-attended book signings. The newly released works encompass a range of critical topics pertaining to regional political developments, societal transformations, and salient international relations. These events served as a vital forum for scholarly exchange, fostering direct engagement between the authors and an eager readership."
-    },
-    "vocabulary": [
-      {
-        "word": "Centre",
-        "zh": "中心：通常指某個地方、組織或活動的核心位置。例如，研究中心就是專門做研究的機構。"
-      },
-      {
-        "word": "Titles",
-        "zh": "書名／作品：指書籍、電影、歌曲等作品的名稱。在這裡特指發表的『新書』。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-05-25",
-    "sourceName": "Al Jazeera Centre for Studies",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2xBNDRlUmhMRjczZldlTGpTaXdNVkpyal84d2hfaThOaTJmRnB2UnpGRGZramx2WXdGRktTRW9HOEFPSDZsUUJpWlh1M2VYVzhuMTUyd3lSVTFrMkduMEVlSzJzTXFTYkxqNmRuNHk1RFZxdWxDNFd5Q3ZiU0Nyb2N2VQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "亞洲股市的巨人遊戲：大公司如何又帶飛又「歪樓」？",
-    "zhSummary": "這篇報導揭露了亞洲一些超大型公司在股市中的巨大影響力，它們不僅推動了市場快速成長，同時也因為規模過於龐大，可能導致市場出現不均衡的狀況。",
-    "zhContent": "<p>嘿，同學們！你有沒有想過，在亞洲那些發展超快的股票市場裡，究竟是哪些公司在帶頭衝刺呢？最新觀察指出，原來是幾家「兆元等級」的超級巨頭，它們就像市場裡的超級英雄，擁有驚人的影響力，一下子就把整個股市的熱度帶起來。這些公司規模大到你難以想像，市值動輒破兆美元，它們的表現好壞，幾乎能左右整個市場的脈動。</p><p>不過，事情並沒有那麼簡單。雖然這些巨頭企業確實為亞洲股市帶來了耀眼的成長數字，讓市場看起來蓬勃發展，但同時也有另一種聲音指出，它們的規模實在太過龐大，導致市場出現了一種「歪樓」現象。這意思是說，因為這些巨頭太顯眼、太成功，它們幾乎佔據了大部分的市場目光和資金，讓其他比較小、但可能也很有潛力的公司很難被看見，甚至被邊緣化了。</p><p>專家們觀察到，這些亞洲巨頭公司通常來自幾個關鍵產業，比如科技、電子商務或金融服務等等，它們在全球市場上都擁有非常強的競爭力。當這些公司的股價持續飆升，它們的總市值就會變得非常驚人，甚至可以說，亞洲股市的成長表現，很大一部分就建立在這些少數幾家超級巨頭的成功之上。這樣的現象，在市場快速成長的同時，也引發了一些關於市場健康度和多樣性的討論。</p><p>因此，目前看到的亞洲股市，雖然總體數據亮眼，股價看起來氣勢如虹，但細究之下會發現，這種快速成長的背後，其實有著非常高的集中度。也就是說，市場的重心似乎都壓在了少數幾家超大公司身上，它們的漲跌幾乎就能決定整個市場的臉色。這也使得整個市場的風險，可能會比表面上看起來的更加集中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「兆元等級的超級巨頭」指的是什麼樣的公司？它們在股市中扮演了什麼樣的雙重角色？",
-      "生活與未來：你覺得如果市場的成長過度依賴少數幾家大公司，可能會對我們日常生活中的哪些產業或工作機會造成影響？",
-      "獨立思考提案：針對這種大公司主導市場的現象，如果你是負責市場健全的官員，你會有什麼建議或策略來讓市場發展得更平衡？"
-    ],
-    "enTitle": "Asia's Trillion-Dollar Titans: Powering and Distorting Stock Markets",
-    "enContent": {
-      "basic": "Big companies in Asia, worth trillions of dollars, are making stock markets grow fast. But because they are so big, they might also be making the market a bit unbalanced. These companies are very powerful and their success makes the overall market look strong. However, this also means smaller companies might not get as much attention or investment. Experts are watching to see how this affects the market's health.",
-      "intermediate": "Asia's rapidly expanding stock markets are significantly driven by a select group of 'trillion-dollar titans.' While these colossal companies are fueling impressive growth figures, their overwhelming size is also raising concerns about market distortion. Their dominant performance largely dictates market trends and valuation, potentially overshadowing smaller enterprises and concentrating market risk. This phenomenon highlights a complex interplay between robust growth and potential imbalances in the region's financial landscape.",
-      "advanced": "The surging performance of Asia's burgeoning stock markets is demonstrably powered by a handful of 'trillion-dollar titans,' whose immense valuations and market capitalization exert a profound influence. These corporate behemoths, predominantly in sectors such as technology and finance, are crucial drivers of regional economic expansion and investment inflows. However, this concentrated power also introduces an element of market distortion, where the disproportionate weight of these giants can skew overall market indices and divert capital and attention from promising smaller and mid-cap companies, thereby potentially hindering broader market diversification and resilience. Analysts are closely monitoring this dynamic, assessing its implications for long-term market stability and equitable growth within the region's fastest-developing economies."
-    },
-    "vocabulary": [
-      {
-        "word": "Titans",
-        "zh": "巨頭：指非常巨大、力量強大或影響力極廣的事物，在這裡用來形容那些市值非常大的公司。"
-      },
-      {
-        "word": "Distorting",
-        "zh": "扭曲：原本指把東西弄彎或變形，在這裡是說這些大公司的影響力太大，可能讓市場的真實面貌變得不平衡或不那麼公正。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-05-25",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0xXZEFYTnlPVWgyRDdBZzFWUGw1V0FmNkNxdlZOaFRIVlFsS1NCcjAzUW5DNWpIRWZ0TDlJT1BzRmNQMHFoZG5jVkRtLVRYY1I0RDR1MmdSTWZzN0F0YWpCZzJMSUFwcWNpRGotbzRibXgxRUlyeWxJVmRTSUh4UUFVRDBxcDhCOUJWRWRfVnh3TGMyWDl3YlRJTDlTOE9sam1pTFJEaUhCZHAwbnhwTEZtZWNoUHcyV3fSAb8BQVVfeXFMTi1aVEJnSmd0OVF1VFZjZmFsbnRXMThWa242czBSRmQ5UXBuQXd1VjJTTG5tTnFrU3Z4d0pKYmtVME5zc3l2dzNjRmg5ODFJLTM5aFk4eWhzQms2MmYya1lqVWdMeDF3TV9UdkRzaTZBZWRoTDZsXzRsbk1qRFpQNmNkdDhxbFFjbkZGeFpyUlRLNmdnQWJoNE5xZjJTbmQ1dFJzVWg3b09SaWU0RV9VYmVkX0dlZDcyUUNFa1lCU1E?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "航空公司升級大作戰！印尼航空搭上科技特快車",
-    "zhSummary": "印尼航空為提升營運效率與服務品質，啟動大規模數位轉型計畫，引進 SAP 的 RISE 解決方案，將核心業務系統搬遷至雲端，目標是打造更智慧、彈性的航空服務，為乘客帶來更好的旅行體驗。",
-    "zhContent": "<p>嘿，各位年輕的探索者們！你們可能都夢想過搭飛機去遠方旅行吧？今天我們要聊的是一家特別的航空公司——印尼航空（Garuda Indonesia）。這家航空公司最近有個超酷的計畫，他們決定要讓自己的「大腦」來個大升級，全面擁抱最新的數位科技，目標是讓未來的營運更有效率、更聰明。這聽起來是不是很像電影裡才會出現的未來科技？但它可是真實發生，而且會影響到每位乘客的旅行體驗喔！</p><p>這個大升級的關鍵詞叫做「數位轉型」，而具體做法是引進了全球知名軟體公司 SAP 的「RISE with SAP」方案。你可能會想，這到底是什麼意思？簡單來說，「數位轉型」就是把公司所有大大小小的工作，從員工管理、飛機維護、財務計算，到預訂機票和貨物運輸，全部都用更先進的電腦系統和網路科技來整合與優化。而「RISE with SAP」就像是專為企業量身打造的超級智慧系統，能把這些原本可能各自獨立的部門和資料，通通串聯起來，讓資訊流通更順暢，決策也更快速準確。想像一下，飛機的班表、機組人員的安排、燃油的採購，甚至是你行李的去向，未來都能在這個智慧系統中一目了然。</p><p>印尼航空之所以投入這麼大的心力進行這項轉型，背後有幾個重要的原因。首先，航空業在全球經歷了前所未有的挑戰，特別是在疫情期間，快速應變和成本控管變得比以往任何時候都更加重要。透過 SAP 的新系統，印尼航空希望能更精準地分析市場變化，預測乘客需求，並有效管理開支。這不僅能幫助他們在財務上更穩健，也能讓整個營運流程更加靈活。此外，他們也希望透過更先進的技術，提升客戶服務品質，讓每位選擇印尼航空的旅客都能享受到更便捷、更舒適的旅程體驗。這套系統就像是為航空公司裝上了一對強大的「智慧翅膀」，幫助他們在競爭激烈的市場中飛得更高更遠。</p><p>總結來說，印尼航空的這次「數位轉型」計畫，是一項規模龐大且意義深遠的策略行動。他們預計透過引進「RISE with SAP」解決方案，逐步將公司的核心業務系統搬遷到雲端，實現更現代化、更具彈性的運營模式。這項計畫的推動，不僅展現了印尼航空追求創新和改善服務的決心，也為其未來的永續發展打下了堅實的基礎。對於乘客來說，這意味著未來可能會體驗到更流暢的預訂流程、更可靠的航班服務，以及整體升級的旅行體驗。印尼航空的這場數位升級之旅，已經正式啟航。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Garuda Indonesia Advances Digital Transformation Through RISE with SAP",
-    "enContent": {
-      "basic": "Garuda Indonesia, an airline from Indonesia, is making its operations more modern by using new computer systems. They are working with a company called SAP to help them with this change. This will help the airline manage things like flights, money, and customer service better. They hope to become more efficient and offer better experiences for people who fly with them.",
-      "intermediate": "Garuda Indonesia is undergoing a 'digital transformation' to improve its business. They have chosen 'RISE with SAP' as their solution partner. This means they will move their key business operations, such as finance, supply chain, and human resources, onto a more integrated, cloud-based platform provided by SAP. The goal is to make their processes more efficient, reduce costs, and be more flexible in adapting to changes in the airline industry and customer needs.",
-      "advanced": "Garuda Indonesia has initiated a comprehensive digital transformation strategy, leveraging the RISE with SAP solution to modernize its core business processes. This strategic shift involves migrating critical systems to a cloud-based environment, aiming to enhance operational efficiency, financial management, and supply chain resilience. The airline seeks to optimize resource allocation, streamline decision-making through real-time data analytics, and ultimately improve the overall customer experience. This move is crucial for Garuda Indonesia to navigate a dynamic global aviation landscape and ensure long-term sustainability and competitiveness."
-    },
-    "vocabulary": [
-      {
-        "word": "Digital Transformation",
-        "zh": "數位轉型 (意思是一間公司或組織，把所有工作流程都改用最新的電腦科技和網路系統來處理，讓整個運作變得更聰明、更有效率。)"
-      },
-      {
-        "word": "SAP",
-        "zh": "企業管理軟體公司 (一家在全球很有名的公司，專門設計和開發大型電腦系統，幫助大企業管理財務、生產、人事、供應鏈等各種複雜的業務。)"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-05-25",
-    "sourceName": "SAP News Center",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2F0MkNxazhkbzFmVmV3TDRCb21Jc2hFV2haelNWY2pEYWU5VVJPU2RBZDNuSzFfVHFHTllab0tRN2pSRFVBcmRrUHhlZHN1VFZaNUpHWUhjc2F0WUx5WlNRYW5IQlZsNllHWGlSUHJtWmpUR2JqRVRqbm9RUDRzM1kwOG9Jb3RTVHAzMGk4RkFoSmE0NVdKSVF6UmJ1ZEg1SXJVbWh5Yw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "海底藍寶石現身！加拉巴哥群島深海發現全新生物",
-    "zhSummary": "一群科學家在加拉巴哥群島附近的深海，運用高科技潛水器，發現了一種通體發藍的全新生物，為地球的生物多樣性再添新成員。",
-    "zhContent": "<p>嗨，各位探險家預備軍！想像一下，在地球最深、最神祕的地方，一群科學家突然驚呼：「是藍色的！」沒錯，最近在遙遠的加拉巴哥群島附近，深海探險隊發現了一種全新的、閃閃發光的生物！這個消息讓整個科學界都沸騰了，因為每一次深海新發現，都像打開寶藏箱一樣令人期待。</p><p>這次的驚喜，要歸功於史密特海洋研究所和加拉巴哥國家公園管理局的科學家們。他們搭乘一台高科技的深海潛水器，深入到水下大約 600 公尺深的地方。在那個幾乎沒有光線、冷冰冰的海底世界，他們的攝影機捕捉到一個不可思議的畫面：一個通體發藍的生物，在漆黑的背景中顯得格外耀眼，彷彿是海底的藍色寶石。</p><p>雖然它究竟是什麼「東西」——是珊瑚、海綿，還是其他我們還不知道的生物？目前科學家們還在努力分析中。不過，能在這麼深的海洋找到新的生命，本身就是一件非常不容易的事。這片海域的環境非常嚴峻，水壓巨大、溫度極低，要進行探測簡直是挑戰極限。這次的發現，再次證明了加拉巴哥群島海域的生物多樣性遠超我們的想像。</p><p>目前，科學家們正忙著研究他們帶回來的影像資料和可能採集到的樣本，希望能盡快揭開這個藍色新物種的廬山真面目。他們也將依照國際規定，為這個新發現的生物正式命名，並向全世界公布這項重大成果。這不只讓地球的生物家族又多了一位成員，也提醒著我們，在廣闊的海洋深處，還有無數的祕密等著被揭開。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，科學家們是在什麼樣的環境下，如何發現這個全新生物的？",
-      "生活與未來：你覺得海洋深處持續有新物種被發現，對我們人類有什麼特別的意義嗎？",
-      "獨立思考提案：如果未來有機會參與深海探險，你最想探索什麼樣的海洋生物或現象？"
-    ],
-    "enTitle": "It's Blue! Deep-Sea Scientists Discover Exciting New Species in the Galápagos",
-    "enContent": {
-      "basic": "Deep-sea scientists found a new, blue animal in the ocean near the Galápagos Islands. They used a special submarine to go very deep, about 600 meters. The blue creature looked amazing in the dark water. Scientists are still studying what kind of animal it is. This shows there are many new things to find in the deep sea.",
-      "intermediate": "An exciting discovery was made by deep-sea scientists exploring the waters around the Galápagos Islands. Using advanced submersibles, researchers from the Schmidt Ocean Institute and the Galápagos National Park Directorate descended to depths of approximately 600 meters. There, they spotted a vibrant blue, previously unknown species. The extreme conditions of the deep sea make such discoveries rare and significant, highlighting the rich biodiversity of this unique ecosystem.",
-      "advanced": "In a remarkable feat of marine exploration, deep-sea scientists have announced the discovery of a new, vividly blue species in the biodiverse waters surrounding the Galápagos Islands. An expedition spearheaded by the Schmidt Ocean Institute and the Galápagos National Park Directorate utilized sophisticated submersibles to navigate the abyssal depths, approximately 600 meters below the surface. This striking new organism, whose exact classification is still under investigation (possibly a coral or sponge), underscores the vast unexplored biological wealth of deep-sea environments and the unique ecological significance of the Galápagos archipelago. The find promises to expand our understanding of marine biodiversity and deep-ocean ecosystems."
-    },
-    "vocabulary": [
-      {
-        "word": "species",
-        "zh": "物種 (指生物學上，一群有共同特徵，能互相繁殖並產生有生育能力後代的生物。)"
-      },
-      {
-        "word": "expedition",
-        "zh": "探險 (一次有特定目的的遠行，通常是為了研究、探索未知之地或進行冒險。)"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-05-25",
-    "sourceName": "BBC Wildlife Magazine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHlRM1NzQ3Ewb1pndnpyZklFbGtPdFhpR01RM0owdEplNjE0Y0JycGx6R25FS0tVTGdWVFl1UGRKbUtNMFZIR3Jsd3d6Zi1IMV81a3l5RDdhenJtRmszWU15MmgwMDkydXlRdkJXQXl4UTZtWW5Kbi15SEgwMWphbEt0bmcwN2tSRFBJdGFmNmpuWWNkcnV3TnVPQWRmMldEZk1hZng5aUJKUDRnbUE?oc=5",
     "isFeatured": false
   }
 ]
