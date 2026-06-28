@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "委內瑞拉百年強震來襲：家園成廢墟，全球援手伸！",
+    "zhSummary": "2026年6月26日，南美洲國家委內瑞拉遭受一場百年來罕見的強烈地震，造成嚴重傷亡和大規模破壞。面對這場突如其來的災難，聯合國及多個美洲國家立即派遣救援隊與物資，共同投入搶救工作。",
+    "zhContent": "<p>2026年6月26日，南美洲國家委內瑞拉發生了一場百年來罕見的強烈地震。這次地震的威力非常大，造成了嚴重的破壞和大量人員受傷或不幸死亡。許多人因為突如其來的劇烈搖晃而措手不及，家園瞬間變成斷垣殘壁。這場突如其來的災難震驚了全球，也讓委內瑞拉的民眾陷入一片恐慌與悲傷之中。</p><p>地震發生後，委內瑞拉多個城市與鄉鎮傳出災情，許多建築物倒塌，道路也受到嚴重損壞，讓救援工作變得困難重重。倒塌的瓦礫堆下，可能還有許多受困的居民等待救援。當地電力與通訊系統也受到影響，使得外界難以完整掌握實際的受災情況，只能透過零星的報導和社群媒體上的求助訊息來拼湊現況。</p><p>面對如此嚴峻的局面，國際社會迅速伸出援手。聯合國與美洲多個國家，例如美國、哥倫比亞、巴西等，都立刻派遣了專業的搜救隊伍、醫療人員以及運送緊急物資的飛機前往委內瑞拉。這些國際救援隊帶著專業儀器和醫療用品，爭分奪秒地投入到災區，希望能幫助更多被困的民眾脫困，並為傷者提供及時的治療。</p><p>目前，大規模的搜救行動仍在持續進行中，救援人員正努力在倒塌的建築物中搜尋生還者。同時，大量物資也陸續運抵災區，協助受災民眾度過難關。官方正在統計這次地震造成的確切傷亡人數和經濟損失，並呼籲國民保持冷靜，配合政府與國際團隊的救援指示。這次的強震對委內瑞拉而言，是一次巨大的考驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，地震發生後哪些重要的基礎設施受到了影響？這會對救援工作帶來什麼挑戰？",
+      "生活與未來：你覺得國際社會在這種大型自然災害中扮演了什麼角色？這種跨國的救援行動對受災國家有什麼實際意義？",
+      "獨立思考提案：如果類似的強烈地震發生在我們居住的地方，除了等待救援，你覺得我們可以提前做好哪些準備來保護自己和家人？"
+    ],
+    "enTitle": "Venezuela's Century-Scale Earthquake: Homes in Ruins, Global Aid Pours In",
+    "enContent": {
+      "basic": "On June 26, 2026, a very strong earthquake hit Venezuela, a country in South America. Many buildings fell down, and people were hurt or died. Other countries like the US, Colombia, and Brazil, plus the UN, sent help like rescue teams and food. They are still looking for people and helping those who are hurt.",
+      "intermediate": "On June 26, 2026, Venezuela experienced a powerful earthquake, described as the strongest in a century. This natural disaster caused significant damage, with many buildings collapsing and roads becoming impassable. It led to a large number of casualties and injuries. The United Nations and several American countries, including the United States, Colombia, and Brazil, swiftly dispatched professional search and rescue teams, medical staff, and emergency supplies to assist Venezuela. Rescue efforts are ongoing to find survivors and provide aid to those affected.",
+      "advanced": "Venezuela, a South American nation, was struck by a devastating earthquake on June 26, 2026, an event described as the most powerful in a century. The seismic activity resulted in widespread destruction, claiming numerous lives and causing extensive injuries. Critical infrastructure, including buildings and roadways, suffered severe damage, impeding initial relief efforts. In response to the crisis, the international community, led by the United Nations and several American countries such as the United States, Colombia, and Brazil, promptly mobilized and deployed specialized search and rescue units, medical personnel, and vital humanitarian aid. Current operations are focused on locating survivors amidst the rubble and delivering essential assistance to the affected populations."
+    },
+    "vocabulary": [
+      {
+        "word": "Earthquake",
+        "zh": "地震 (dì zhèn) - 指的是地球內部因為地殼變動或板塊擠壓，突然釋放出能量，導致地面晃動的自然現象。就像你的桌子突然被大力搖晃一樣，地上的一切也會跟著晃動。"
+      },
+      {
+        "word": "Casualty",
+        "zh": "傷亡 (shāng wáng) - 指的是在災難、意外或戰爭中，受傷或死亡的人數。當新聞說「造成重大傷亡」，就是指有很多人受傷甚至不幸去世了。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-06-28",
+    "sourceName": "公視新聞網PNN",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BbmNlVUIxbTlJRTJCbXZFU2tjc0M4bXlwZEMwNFVteDZfczR1bDZXOWlHZW9BcE50RDIxMmNuMTF6QkF5dXA5UjVmRQ?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "歐洲熱爆了！極端高溫下的挑戰",
+    "zhSummary": "歐洲正經歷一場前所未有的高溫熱浪，氣溫屢創紀錄，對當地人的生活、交通、農業和基礎設施帶來了巨大衝擊。科學家認為這是氣候變遷的結果，各國政府正積極尋找應對措施，準備長期抗戰。",
+    "zhContent": "<p>「歐洲熱爆了！」這句話最近成了當地新聞的焦點。你可能覺得夏天熱很正常，但這次歐洲遇到的高溫很不一樣。根據《經濟學人》的報導，整個歐洲大陸正經歷一場前所未有的「熱浪」，氣溫屢次突破歷史紀錄，許多地方甚至熱到讓人難以忍受。這不只影響了人們的日常生活，也讓歐洲各國政府和民眾面臨了巨大考驗。</p><p>這場熱浪影響非常廣泛。在許多歐洲城市，柏油路面熱到變軟，鐵路軌道因高溫變形，導致火車延誤停駛。農作物也受衝擊，農田乾裂，收成銳減。家家戶戶冷氣開到最大，電力需求飆升，部分地區出現限電危機。乾燥炎熱天氣助長森林大火，南歐多國山林屢傳火警。此外，一些重要河流如萊茵河，水位因乾旱大幅下降，影響貨物運輸和發電。</p><p>對於這類極端高溫，科學家們普遍認為是全球氣候變遷導致的結果之一。他們指出，地球大氣中溫室氣體的累積，使全球平均氣溫持續升高，導致熱浪發生的頻率和強度都增加。這不僅考驗著歐洲人的耐熱程度，更考驗著各國政府應對氣候變遷的策略和能力。許多國家緊急採取措施，例如開放公共冷卻中心、呼籲民眾節約用水，並加強對易受熱浪影響人群的關懷。</p><p>面對持續酷熱，歐洲各國政府和民間機構積極尋找對策。有些城市推動「綠色屋頂」和增加公共綠地，希望能透過自然方式降低市區溫度；也有國家投入更多資源研究耐熱農作物，確保糧食供應。雖然短時間內氣溫可能起伏，但氣象專家警告，極端高溫將是未來歐洲必須長期面對的挑戰。目前，各方努力規劃，希望能為接下來的夏天做好準備。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Europe Can't Stand the Heat: The Challenge of Extreme Temperatures",
+    "enContent": {
+      "basic": "",
+      "intermediate": "",
+      "advanced": ""
+    },
+    "vocabulary": [
+      {
+        "word": "Heatwave",
+        "zh": "熱浪：指一段時間內，氣溫異常高且持續炎熱的天氣。想像一下夏天連續好幾天都熱到不行，就是熱浪來襲。"
+      },
+      {
+        "word": "Infrastructure",
+        "zh": "基礎設施：一個國家或城市運作所需的各種基本設施，像是道路、橋樑、水電系統、通訊網路等。它們就像城市的骨架一樣重要。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-06-28",
+    "sourceName": "The Economist",
+    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVB3WEJsd3ROc1JIRU45WHRDaGtsU1dIMXBGMnkxMWV0MkU3LTdmVTdBdGFzbWUzdGhtUkVWV1M3TnFkaHZUVGZkZzlTT3VZXzFLYmNEM0lZNG1OVnZJRnB0bXRiV0QyS1NQOFo5Y2l3eVRIMHp5RVNrNjNMUTZBOV80WGk0N0gzbEx0QWh5TXpCNHROWElSVFplaGRSWG5N?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "肯亞學校的大考驗：母語還是英語，哪個才是最好的上課語言？",
+    "zhSummary": "肯亞的教育系統正面臨一項艱難的選擇：究竟該用學生從小習慣的母語教學，還是國際通用的英語？這兩種語言各有優點，也帶來不同的挑戰，讓政府與家長們傷透腦筋，希望能找到最適合孩子學習的方案。",
+    "zhContent": "<p>肯亞，這個位在東非的國家，最近在教育界遇到一個大難題。他們的學校到底該用什麼語言來教書呢？是孩子們從小在家裡習慣說的「母語」，還是國際上廣泛使用的「英語」？這聽起來像是個選擇題，但其實背後牽涉到孩子們的學習效果、國家文化傳承，甚至是他們未來的發展機會。對肯亞的教育官員、老師和家長來說，這兩種語言各有優點，也帶來不同的挑戰，讓他們難以抉擇。</p><p>長久以來，由於過去的歷史因素，英語在肯亞的教育體系中一直扮演著非常重要的角色，尤其在大學和升學考試時更是不可或缺。但近年來，許多人提出，小學生剛開始學習，如果能用最熟悉的母語上課，會學得更快、理解更好。這樣不只讓孩子們更容易愛上學習，也幫助他們更認識自己的文化。然而，另一些人則認為，英語是通往高等教育和國際工作市場的鑰匙，若從小不打好基礎，孩子們未來恐難跟國際接軌。而且，肯亞境內有超過四十種不同的地方語言，英語反而成了各族群之間溝通的共同語言。</p><p>為了這個語言問題，肯亞政府也傷透腦筋，嘗試推出一些新政策。例如，讓小學一、二年級的學生先用當地母語學習，等到三年級之後再慢慢轉為英語教學。這樣做的目的是希望孩子們能在學習初期建立穩固基礎，同時不失學習國際語言的機會。不過，這樣的做法也面臨不少實際困難。例如，如何為這麼多種不同的母語訓練足夠的老師？還有，編寫出適合各種母語教學的課本和教材，也是一項非常龐大且耗時的工程。這些都是政府在推動這項政策時，必須仔細考量的細節。</p><p>所以，肯亞的教育語言問題到現在還沒有一個「完美」的答案。這是一個持續進行中的討論，大家都在努力尋找一個平衡點，希望既能幫助孩子們打好學習基礎，又能保存豐富的文化特色，同時也為他們開啟通往世界的道路。這項挑戰，還會繼續考驗著肯亞的智慧，期盼每個肯亞的孩子，都能在最好的語言環境中成長學習。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Kenya's Education Language Challenge: Mother Tongue or English?",
+    "enContent": {
+      "basic": "Kenya has a big problem in schools. Should kids learn in their home language, called mother tongue, or in English? Some people think mother tongue is better for young kids. They learn faster because they know the language. It also helps keep their culture. But other people say English is very important. It helps kids go to good colleges and get good jobs later. English is also a common language in Kenya because many different groups of people live there.",
+      "intermediate": "Kenya's education system faces a significant challenge regarding the language of instruction. There's a debate between using local mother tongues and English. Supporters of mother tongue education argue that it helps younger children grasp concepts more easily and preserves their cultural identity. However, English is seen as crucial for higher education and access to global job markets. It also serves as a unifying language in a country with over 40 distinct ethnic languages. The government is trying to find a balance, often starting education in local languages and transitioning to English later, but this path comes with difficulties like training enough teachers and providing sufficient learning materials in various local languages.",
+      "advanced": "The Republic of Kenya is grappling with a complex linguistic conundrum within its national education policy: the optimal balance between instruction in indigenous mother tongues and English. Historically influenced by its colonial past, English has served as the primary medium for higher education and professional advancement. However, pedagogical research and cultural preservation advocates highlight the benefits of early childhood education in a child's familiar mother tongue, arguing it enhances cognitive development and reduces dropout rates. Conversely, proponents for English emphasize its role as a lingua franca in an ethnically diverse nation and its indispensable value for global competitiveness. The Kenyan Ministry of Education is exploring hybrid models, such as initial instruction in mother tongue followed by a gradual transition to English, yet challenges persist in resource allocation, teacher training, and curriculum development for a multitude of local languages. This ongoing dilemma underscores the intricate interplay between national identity, educational equity, and global aspiration."
+    },
+    "vocabulary": [
+      {
+        "word": "dilemma",
+        "zh": "兩難 / 進退兩難的處境，就是當你有兩個選擇，但兩個都不太好，或各有優缺點，讓你很難決定。"
+      },
+      {
+        "word": "mother tongue",
+        "zh": "母語 / 你從小在家裡，爸爸媽媽或家人跟你說話的那個語言，通常是你最熟悉、最會用的語言。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-06-28",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1NMSVR3SDROaHJQWVBiSXk5U1pEZEpJeldmZlNJY0VrcHd5S19rTVdaU1pYUXpwSnJKcG5aVU5uUHdRVGl5d0JFNV8wUmFMSXVKVDRFMUhERW1tS2J0akg5MVB2NXNMajFwT19GMHVpdlhrcGlKMGM3MkJCR253Z2txeUNyVk1zeUp5YklYbWZSYW5nMW90eFNxWU1ER2xNcWRCRk51WkQzdWhx0gGyAUFVX3lxTE1QeDBWb21mbWlQQVk2bVVyX3FNUlR6SUFqaDJrNE5yNm5wakxNWEhJdl9ETUV6azUxNURuRHNzQWo1QUVwNDNremlGM0p1Qmx1QnU2bmhMN2hrMTRVTWFqaWJiYkgwX0F4Wm5XQXlaSFdTeTVSbU5PRmkwM3pzeS0xR3NDdVd4TC1JQmVMVVlxY2xsRzBFVU5RTjlXODJmWHZEVHhYRUtneEF2NWx3c2plYWc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "全球經濟拉警報！國際清算銀行點名債務、AI 和經濟脆弱性是三大風險",
+    "zhSummary": "全球各國中央銀行的銀行「國際清算銀行」最近發出警告，指出當前世界經濟面臨三大風險：居高不下的債務、人工智慧的快速發展，以及既有的經濟不穩定因素，呼籲各國政策制定者應提高警覺並提早準備。",
+    "zhContent": "<p>「國際清算銀行」最近發出了一個重要的提醒。這個機構就像是世界各國中央銀行的銀行，他們說，目前全球有三大隱憂正在讓世界經濟面臨更大的風險。這三個隱憂分別是：各國政府和企業的龐大債務、人工智慧（AI）科技的快速發展，以及現有的一些經濟不穩定因素。他們認為，這些狀況綜合起來，可能會讓全球的經濟環境變得比較脆弱和難以預測。</p><p>首先，「債務」問題就像是各國和許多公司借了太多錢，現在這些錢要還，而且隨著利率升高，還錢的成本也變高了。當債務太多時，不僅可能影響政府提供公共服務的能力，也可能讓企業經營變得困難。再來是「AI 的蓬勃發展」，雖然人工智慧帶來很多便利和創新，但也可能引發一些預料之外的問題，例如市場過熱、對工作型態造成衝擊，或是新的資安挑戰等。這些都是新的變數，需要大家仔細去觀察。</p><p>第三個提到的「經濟不穩定因素」，指的是當前世界經濟中一些本來就存在的弱點，像是通膨壓力仍然存在，或者某些地區的經濟復甦不如預期。國際清算銀行作為一個全球重要的金融機構，他們的工作就是監測這些經濟數據和趨勢，然後向各國提出警告和建議，幫助維持金融體系的穩定。他們的報告指出，這些因素都不是單獨存在，而是相互影響，讓整體情況變得更複雜。</p><p>因此，國際清算銀行希望各國政策制定者能正視這些問題，並提早做好準備，以應對未來可能出現的經濟挑戰。這份報告重點在提醒大家，必須對這些潛在風險保持警惕，並採取謹慎態度管理經濟。他們呼籲，各國政府和金融機構都應該要更仔細地規劃，確保經濟能夠穩定發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Global Economic Alert: BIS Points to Debt, AI, and Economic Fragilities as Major Risks",
+    "enContent": {
+      "basic": "The Bank for International Settlements (BIS) has warned that high debt, the rise of AI, and economic weaknesses are increasing global risks.",
+      "intermediate": "The Bank for International Settlements (BIS), often called the 'central bank of central banks,' says that significant debt levels, the rapid expansion of Artificial Intelligence, and existing economic fragilities are collectively elevating global risks.",
+      "advanced": "The Bank for International Settlements (BIS) has issued a comprehensive warning, highlighting that the confluence of substantial global debt, the accelerating boom in artificial intelligence, and inherent economic fragilities are contributing to a pronounced increase in global systemic risks, urging policymakers to enhance preparedness."
+    },
+    "vocabulary": [
+      {
+        "word": "Debt",
+        "zh": "債務 (zhàiwù)：就是你向別人借的錢，以後需要還給對方的。像是政府為了建設或公司為了營運，都可能會向銀行或其他機構借錢，這些借來的錢就叫做債務。"
+      },
+      {
+        "word": "AI",
+        "zh": "人工智慧 (réngōng zhìhuì)：英文是 Artificial Intelligence 的縮寫，簡單來說就是讓電腦或機器可以像人類一樣思考、學習和解決問題的技術。像手機裡的語音助理或推薦你看什麼影片的系統，都用到AI技術。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-06-28",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN25UVVNUaFFfTHE4YTZ4Q1Y2aTVUWV9jUnZZWmJGcUM0c3RxeG5lSVY5RVVGelFaRHZXVktuSjRxY1AycWcwcGF0VkNWTjZjaGlLSTdCRUFWaGdpVGY3OVNYYXFlenJ4MWhTZ3d2UUhCYndSbEs2dnJzMnU2a2RDRkk1Q2ZSTjJUek1FMVJGdncyMm51LVZsS0h3SThXMFk0RU8wSNIBqgFBVV95cUxORVdJdTNsMzhPR0x5a2ZYa282NnNqeHctQUVucmhLLXhWLW9aMTJ2RFJnM3RDS2pKWWJpaHNpLU96d25DQno5ZTVxdFBqVFFlVE5JcGxva3cyM1pac3dDaEhaQ0Z0U0hRUUFSWEk4YmtZYl9Wd2lzbGFmVkhlZmw0U1FJR05IZjNlczdlcmQ4Y1JNcTVCOTZ4aWVtVXl3bWU1VUs5dmNhZ1FXQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "加州「不殺生」動物之家驚傳百隻犬隻死亡，多隻身中槍傷",
+    "zhSummary": "美國加州一個號稱「不殺生」的動物收容所，被發現竟有上百隻狗死亡，其中許多屍體上還有槍傷，引發當地軒然大波。",
+    "zhContent": "<p>最近在美國加州，發生了一件令人震驚的動物虐待事件。當地一個原本宣稱「不殺生」、專門拯救流浪動物的收容所，竟被發現裡面有高達117隻狗已經死亡。更令人心痛的是，這些狗狗的屍體不只腐爛，其中很多還被發現身上有槍傷，這讓「不殺生」的招牌顯得格外諷刺。</p><p>這起事件是當地警長辦公室在調查一宗動物福利投訴時意外揭露的。當執法人員進入這家名為「貧困邊緣的犬隻救援」（Edge of the World Dog Rescue）的機構時，才發現了這駭人的景象。狗狗的屍體被隨意棄置在多處，有些埋在淺淺的土裡，有些甚至就散落在園區內。現場環境非常惡劣，到處都是廢棄物和腐臭味，與一般動物收容所應有的乾淨整潔完全不符。</p><p>根據調查人員的說法，這些死亡的狗隻看起來長期處於被忽略的狀態，許多已經嚴重脫水或營養不良。收容所負責人是一名叫做安德魯·班納特（Andrew Burnett）的男子。他聲稱收容所的設立是為了給那些找不到家的狗狗一個避風港，並且強調他們奉行「不殺生」政策，也就是除非狗狗病重到無法醫治，否則絕對不會安樂死。然而，現場發現的大量槍傷和狗狗死狀，明顯與他的說法大相徑庭。</p><p>目前，班納特先生已經被警方逮捕，並面臨多項動物虐待的指控。當地檢察官正在積極收集證據，準備對他提起訴訟。這起事件引起了當地社會的極大關注，許多民眾都對這種假借救援之名，行虐待之實的行為感到憤怒。相關單位也正在持續清理現場，並試圖找出是否有其他受害動物，同時呼籲大眾提高警覺，慎選捐助的動物救援機構。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "117 Dead Dogs Found at California 'No-Kill' Animal Rescue - Many with Gunshot Wounds",
+    "enContent": {
+      "basic": "A shocking discovery was made at a dog rescue in California. 117 dead dogs were found, and many had been shot. The rescue was supposed to be a 'no-kill' shelter. The owner was arrested and faces animal cruelty charges.",
+      "intermediate": "In California, authorities investigating an animal welfare complaint found 117 deceased dogs at an organization called Edge of the World Dog Rescue. Despite its 'no-kill' policy, many of the dogs showed signs of neglect and gunshot wounds. The owner, Andrew Burnett, was taken into custody.",
+      "advanced": "Californian law enforcement, responding to an animal welfare report, uncovered a horrific scene at the purported 'no-kill' Edge of the World Dog Rescue. A total of 117 deceased canines were discovered, many exhibiting advanced decomposition and gunshot wounds, starkly contradicting the facility's stated mission. The owner, Andrew Burnett, has been apprehended and is now facing multiple charges of animal cruelty as the investigation continues."
+    },
+    "vocabulary": [
+      {
+        "word": "rescue",
+        "zh": "救援組織：指一個專門幫助處於危險或困難中的動物或人的機構，例如動物收容所。"
+      },
+      {
+        "word": "negligence",
+        "zh": "疏忽：意思是沒有好好照顧、粗心大意，導致某件事情沒有被妥善處理或造成不好的結果。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-06-28",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaHBtX3VvSE1pRGM2NFUzQlFQZDNJcDdoakZZU3h0RkhIc1BvY0k4bGFfVXJaWWpBR3BrM0U3WVhYVy1oanV4ME1zYXJXeWltMHp5ZjFOc1IxZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "改革英國黨在威爾斯議會：初登場就超吸睛！",
+    "zhSummary": "英國的「改革英國黨」在威爾斯議會首次擔任反對黨，他們一登場就以強硬、直接的方式挑戰政府政策，成功吸引了大量關注，讓議會氣氛變得更加活躍。",
+    "zhContent": "<p>英國的「改革英國黨」最近在威爾斯議會（Senedd）擔任反對黨，初次亮相就非常引人注目。他們一登場，就以非常直接和強硬的方式，讓大家感受到一股新的政治力量，成功打破了過去議會裡相對平靜的氣氛，讓許多人都嚇了一跳。</p><p>改革英國黨這次的「戲劇性」初登場，主要體現在他們對議會內某些長期存在的規定提出了挑戰。例如，他們在第一次參與重要辯論時，就公開質疑了政府在環境政策上的一些細節，語氣非常堅定，甚至引發了一些議員的側目。他們也直接點名了執政黨的一些做法，要求更清楚的解釋和更透明的程序，展現出毫不妥協的態度。</p><p>這樣的舉動讓許多觀察家和媒體都感到意外。改革英國黨的發言人表示，他們這樣做是為了「真正代表人民的聲音」，並希望「打破威爾斯政治的沉悶」。他們認為過去的反對黨不夠有力，所以他們決心要用更積極、更直接的方式來監督政府，確保政府對民眾負責。</p><p>截至目前，改革英國黨的這些舉動確實成功吸引了大量的媒體關注，也讓威爾斯議會的氣氛變得更加活躍。他們的強勢表現，讓其他政黨開始重新審視自己的策略，也預示著未來議會內部的討論可能會更加激烈。這場「初登場」無疑為他們接下來在議會的工作，埋下了令人期待的伏筆。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Reform UK Makes Dramatic First Impression in Welsh Parliament Opposition Role",
+    "enContent": {
+      "basic": "Reform UK has made a big splash as a new opposition party in the Senedd, which is Wales' parliament. They spoke very strongly and challenged the government's plans right away, making many people notice them and changing the usual quiet atmosphere.",
+      "intermediate": "Reform UK has made a significant and attention-grabbing entry into its new role as an opposition party within the Senedd, Wales' national parliament. Their initial actions involved a direct and assertive challenge to existing governmental policies and parliamentary norms, attracting considerable media attention and prompting reactions from other political groups.",
+      "advanced": "The political landscape within the Senedd, Wales' devolved parliament, has been notably stirred by the Reform UK party's dramatic and impactful debut in its newly assumed opposition capacity. Their initial foray into parliamentary proceedings was characterized by an outspoken and unconventional approach, directly scrutinizing established governmental policies and challenging traditional decorum, thereby immediately capturing widespread media focus and eliciting diverse responses across the political spectrum."
+    },
+    "vocabulary": [
+      {
+        "word": "Senedd",
+        "zh": "威爾斯議會。這是英國威爾斯地區的立法機構，有點像一個小國家的國會，負責制定威爾斯當地的法律和政策。"
+      },
+      {
+        "word": "Opposition",
+        "zh": "反對黨。在國會或議會中，不是執政的一方，主要職責是監督執政黨、提出不同意見，並挑戰他們的政策。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-06-28",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3k1QU1OTzdOSHZ2VXZaZmptTFpnVjZWUWlEVnVHaDhtMVh6QndmNDNwNzBCd19Xc21NWjROYzRXQmVnWHlnemEyMUd3anpaZFRUSXNqamJsUTBDX18zdUFnZVJ6VTlkYjlCZFpJSjNmaTBKRDRUZXJOODFGeHU2NzBtMGFMeXNZZWI3U295OUNZeW5iSVo5RE5pN1hJTFIteERGZUpaMWhMNzd1MVlucExLQnBhLWM?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "阿根廷足球迷的「烤肉之戰」：世足賽期間，在德州遇到的美食大挑戰！",
+    "zhSummary": "阿根廷足球迷為了世足賽湧入美國德州，卻因為當地牛肉的種類與烹調方式和家鄉大不相同，意外引發了一場關於「牛肉」的文化衝突與美食困擾。",
+    "zhContent": "<p>最近全球足球盛事如火如荼，不少阿根廷的熱情球迷們，為了支持自己心愛的國家隊，特別遠道飛到美國德州來觀看比賽。對於阿根廷人來說，除了足球，最讓他們驕傲和享受的，莫過於他們獨特的「烤肉文化」。然而，這些滿懷期待的球迷們很快就發現，要在德州吃到他們習慣的道地阿根廷烤肉，可不是一件容易的事，甚至引發了一場另類的「牛肉」美食爭議。</p><p>究竟問題出在哪裡呢？原來，阿根廷的烤肉（Asado）有著非常特定的傳統和習慣。他們會選擇特定部位的牛肉，像是肋排、牛小排或橫膈膜，並且多半是用木炭或柴火直接慢烤，講究的是牛肉的原汁原味，只配上簡單的鹽和特色醬料。但在美國德州，雖然牛肉也是當地飲食的重頭戲，但主流卻是美式燒烤（BBQ）。德州燒烤更偏好煙燻的方式，常見的部位是厚實的牛胸肉（Brisket），口感和風味都與阿根廷的傳統烤肉截然不同。這讓許多阿根廷球迷在找尋美食時，感到相當困惑與不適應。</p><p>對阿根廷人來說，「烤肉」不只是一種食物，更是一種重要的社交儀式，是家人朋友團聚和慶祝的方式。所以當他們在德州發現很難找到他們習慣的肉品和烹調方式時，許多球迷感到有些失落，甚至有些人在社群媒體上開玩笑說，德州的牛肉不是「真正的」烤肉。當地的一些餐廳和肉舖也開始注意到這種有趣的文化差異。有些店家為了這些遠道而來的球迷，甚至開始嘗試提供不同切法的牛肉，或是調整烹調方式，希望能稍微滿足他們對家鄉味的渴望。</p><p>目前，這場因文化差異而起的「牛肉大戰」仍在熱烈上演。有些阿根廷球迷選擇入境隨俗，樂於嘗試德州風味的BBQ，享受不同的美食體驗。但也有不少人仍然堅持尋找最接近家鄉味道的替代方案，甚至自己動手準備食材，努力重現那份熟悉的滋味。這場關於牛肉的討論，不只凸顯了不同國家飲食習慣的差異，也為這場全球盛事增添了不少趣味與文化交流的機會。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，阿根廷球迷和德州當地人在「牛肉」的哪些方面產生了文化差異？你覺得為什麼這些差異會造成球迷的困擾？",
+      "生活與未來：你覺得這個事件會對德州的餐飲業者，或是未來到訪的其他國家球迷，造成什麼實際影響？",
+      "獨立思考提案：針對阿根廷球迷在德州遇到的「牛肉困擾」，你覺得還可以怎麼做會更好？除了飲食，你認為還有哪些文化差異在旅途中可能遇到，又該如何應對？"
+    ],
+    "enTitle": "Argentina Fans' 'Beef About Beef' in Texas During World Cup",
+    "enContent": {
+      "basic": "Argentina soccer fans traveling to Texas for the World Cup found themselves in a 'beef about beef'. They missed their traditional 'asado' barbecue. Texas BBQ, with its smoked brisket, is very different from Argentina's grilled meat cuts. This cultural food clash caused some fans to feel disappointed, while local businesses started to notice and adapt.",
+      "intermediate": "During the World Cup, a large contingent of Argentine soccer fans poured into Texas, leading to an unexpected culinary friction. Argentine 'asado' emphasizes specific cuts of beef, slow-grilled over open flames, a key part of their social gatherings. However, in Texas, the prevailing barbecue culture involves different cuts like brisket, slow-smoked for hours, creating a distinct flavor and texture. This stark contrast left many Argentine fans longing for their familiar tastes and preparation methods, sparking discussions about cultural food differences and local adaptation.",
+      "advanced": "The influx of Argentine soccer supporters into Texas for the World Cup has brought to light a significant cultural divergence in culinary preferences, specifically concerning beef. Argentine 'asado' is not merely a meal but a deeply ingrained social ritual, characterized by the precise grilling of select beef cuts over direct heat. This contrasts sharply with Texas's renowned BBQ tradition, which favors slow-smoking cuts like brisket. The resultant 'beef about beef' highlights the challenges faced by fans seeking authentic tastes of home, prompting local eateries to consider catering to these specific cultural demands while also showcasing the fascinating interplay of global gastronomies."
+    },
+    "vocabulary": [
+      {
+        "word": "Asado",
+        "zh": "阿根廷烤肉；這是一種南美洲傳統的烤肉方式，通常指用木炭或柴火慢烤各種牛肉部位，是當地非常重要的社交飲食文化。"
+      },
+      {
+        "word": "Brisket",
+        "zh": "牛胸肉；這是牛的一個部位，通常比較結實，在德州美式燒烤中很常用來煙燻慢煮，吃起來會有獨特的軟嫩口感和煙燻香氣。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-06-28",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95cEs1WktyalF5WUJTSVlYSVFVeTdyVjEzSFZzMVk1bkpueHRULWpHNzJDamRrR1ZjTUY0bGNsT2M5YTdIM0NwNkVhSjNQdlNGaDBTTVYxQlNPaFFoUnpldWYxVUF6WFRFSUpVVFp1VEMwRzEySHhBRy1R?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國東北部空難悲劇：11人罹難，家屬心碎",
+    "zhSummary": "一架飛機在法國東北部地區發生墜毀事故，造成機上11名人員全數罹難。目前相關單位已展開調查，試圖釐清墜機原因。",
+    "zhContent": "<p>我們從路透社那邊收到一則令人難過的消息。法國東北部發生了一起嚴重的飛機墜毀事故，總共有11個人在這次事件中不幸喪生。這個消息震驚了當地，也引起了國際社會的關注。每當這樣突如其來的意外發生，都讓人們感到生命是如此脆弱，也提醒著我們要珍惜身邊的人。</p><p>根據初步的報導，這起悲劇發生在法國的東北部地區。雖然目前還沒有公布墜毀的具體地點和飛機型號等詳細資訊，但確定的是，機上所有11名乘客與機組人員，都沒能從這場意外中倖存下來。這次事件導致11條寶貴的生命畫下句點，可以想像罹難者家屬得知這個消息時，會有多麼地心碎和難過。</p><p>這麼嚴重的飛機事故發生後，相關的法國航空安全調查單位已經緊急介入，並準備啟動全面的調查。他們的任務是仔細檢視所有可能的線索，包括天氣狀況、飛機的機械問題，甚至是人為操作因素等等，希望能夠找出導致這次墜機事件的確切原因。不過，這些深入的調查通常需要一段時間才能釐清真相，無法在短時間內就給出明確的答案。</p><p>目前，法國當局的重點放在處理事故現場，以及協助罹難者家屬。他們正在盡力提供必要的支持，並處理後續的事宜，確保每位受影響的人都能得到適當的幫助。隨著調查的進行，我們也會持續關注這起不幸的事件，希望未來能有更清楚的說明，讓大家了解事故發生的來龍去脈。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，你覺得最重要、最想知道的「事件細節」是什麼？為什麼？",
+      "生活與未來：你覺得這起飛機事故，除了對罹難者家庭造成直接的影響，還可能對法國的航空業或當地社區帶來什麼影響？",
+      "獨立思考提案：如果未來有機會，你認為可以怎麼做，才能盡量減少這類型的航空事故發生？"
+    ],
+    "enTitle": "Eleven Killed in Northeastern France Plane Crash",
+    "enContent": {
+      "basic": "This is a placeholder for the basic English content of the story. The news reports a plane crash in northeastern France, killing eleven people. Authorities are investigating the cause of the accident.",
+      "intermediate": "This is a placeholder for the intermediate English content of the story. A tragic plane crash occurred in northeastern France, resulting in the deaths of all eleven individuals on board. Investigations have been launched by French aviation safety authorities to determine the exact cause of the incident, which remains unknown at this time. The focus is now on site management and supporting the victims' families.",
+      "advanced": "This is a placeholder for the advanced English content of the story. Reuters has reported a devastating plane crash in northeastern France, claiming the lives of eleven people. Details regarding the exact location of the crash, the aircraft type, and the identities of the victims are yet to be fully released. French aviation safety bodies have immediately initiated a comprehensive inquiry to ascertain the factors contributing to the tragedy, which could include meteorological conditions, mechanical failures, or human error. Efforts are currently concentrated on accident site management and providing support to the bereaved families, with further updates anticipated as the investigation progresses."
+    },
+    "vocabulary": [
+      {
+        "word": "crash",
+        "zh": "墜毀 (指飛機、汽車等交通工具因意外而撞擊地面或物體，導致損壞或毀滅。)"
+      },
+      {
+        "word": "fatality",
+        "zh": "罹難者 (指在意外或災難中失去生命的人，通常用來統計死亡人數。)"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-06-28",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZMNHNzVl9SVGxoSFJ1U1JGZWZpTzlUeEhuaVhMUUlzSkdGTHAwUUJoLWF4dEl1LVFnTXhRME5ib25na3dzcnN3N0RqMHNHUmJHbnlyNUZwY2dUbXh5Vm9PSUhaM09kOThUazFCQ25KX3NYdk10dG1ET3lHSnR1SXJTeldHRFZ1RGVNZ2ZCV3NUUGdMbmZrWm5BWk5qLTJZVzBuRkhxaHQ0V2FFX0M1dV9pRHBSZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "驚險絕殺！加拿大世足賽首場淘汰賽靠關鍵一球勝南非1:0晉級",
+    "zhSummary": "在最近的世界盃足球賽中，加拿大隊在一場緊張刺激的首場淘汰賽中，憑藉球員史蒂芬·尤斯塔奎奧在比賽尾聲的關鍵進球，以1比0擊敗南非隊，成功晉級下一輪。",
+    "zhContent": "<p>最近的世界盃足球賽可說是精彩連連，而其中一場特別扣人心弦的比賽，發生在加拿大與南非之間。這場比賽不僅是本屆世界盃的第一場淘汰賽，更在最後關頭才分出勝負。最終，加拿大隊憑藉球員史蒂芬·尤斯塔奎奧（Stephen Eustáquio）在比賽尾聲踢進的關鍵一球，以1比0的成績擊敗了南非隊，成功挺進下一輪。這場勝利讓加拿大的球迷們興奮不已，也為這場足球盛事增添了更多話題。</p><p>這場加拿大對南非的比賽，從一開始就充滿了緊張氣氛。兩支隊伍都展現了極強的防守實力，讓對方的攻勢屢屢受挫。整場比賽大部分時間，雙方都未能成功破門，比數一直維持在0比0的僵局。在世界盃的淘汰賽階段，每一場比賽都至關重要，因為只要輸掉一場，就意味著要打包回家，無法繼續參與比賽爭奪冠軍。因此，球員們在場上都卯足了全力，不敢有絲毫鬆懈。</p><p>直到比賽的後半段，當大家幾乎都以為這場比賽可能要進入延長賽甚至點球大戰時，奇蹟發生了。加拿大隊的明星中場球員史蒂芬·尤斯塔奎奧，在一個關鍵的時刻把握住了機會，精準地將球踢進了南非隊的球門。這顆「遲來的進球」不僅打破了比賽的僵局，更像是一道閃電，瞬間點燃了加拿大隊的士氣，也讓所有觀眾為之沸騰。這顆球的出現，徹底改變了比賽的走向，也讓加拿大隊看到了勝利的曙光。</p><p>隨著史蒂芬·尤斯塔奎奧的這記進球，比賽的最終結果也塵埃落定。加拿大隊以1比0的微弱優勢，成功地從這場艱難的淘汰賽中脫穎而出，贏得了寶貴的勝利。這意味著他們將會繼續留在世界盃的賽場上，向著更高的目標邁進。而南非隊則因這場失利，不得不告別了本屆世界盃的旅程。這場比賽的結果，清楚地展示了足球賽事中，一個關鍵時刻的表現是如何決定勝負的。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，加拿大隊在比賽中取勝的關鍵人物是誰？他做了什麼？",
+      "生活與未來：你覺得在足球比賽中，一個關鍵的「遲來進球」會對球隊和球迷帶來什麼樣的心情或影響？",
+      "獨立思考提案：如果比賽一直打平，沒有在正規時間內分出勝負，你認為哪種方式（例如延長賽或點球大戰）對選手的心理壓力會更大？為什麼？"
+    ],
+    "enTitle": "Thrilling Last-Minute Win! Canada Advances in World Cup's First Knockout Match, Beating South Africa 1-0 with a Decisive Goal",
+    "enContent": {
+      "basic": "Canada won its first World Cup knockout match against South Africa 1-0. Stephen Eustáquio scored a late goal to secure the victory. This means Canada will continue in the tournament, while South Africa is out.",
+      "intermediate": "In a tense opening knockout match of the World Cup, Canada defeated South Africa by a score of 1-0. The decisive moment came late in the game when Stephen Eustáquio found the back of the net, breaking a long-standing deadlock. This crucial goal ensured Canada's progression to the next round, marking a significant win in their World Cup journey, while South Africa's tournament run concluded.",
+      "advanced": "The recent World Cup witnessed a nail-biting encounter as Canada faced South Africa in the tournament's inaugural knockout fixture. The match remained a scoreless draw for much of its duration, reflecting robust defensive efforts from both sides. However, the deadlock was ultimately broken by a late, decisive goal from Canadian midfielder Stephen Eustáquio. This pivotal moment secured a 1-0 victory for Canada, propelling them into the subsequent stages of the competition and simultaneously ending South Africa's World Cup campaign. The outcome underscores the high stakes and dramatic potential inherent in single-elimination tournament play."
+    },
+    "vocabulary": [
+      {
+        "word": "Knockout",
+        "zh": "淘汰賽 (解釋：在體育比賽中，只要輸掉一場就會被淘汰，無法繼續晉級的賽制。)"
+      },
+      {
+        "word": "Goal",
+        "zh": "進球 (解釋：在足球、曲棍球等比賽中，把球成功踢入或打入對手球門，從而得分。)"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-06-28",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEpib3l6bzZEZWhpN1BXc3d3NnpCR2lTVWtDVTBBVjVueTIyU0hJVG1RRVhhV2ZTM1NPQzVHMmRyVHFGQ0ZXTGptMWhOZnFFZ1BrVEJqWURxVnU2ajhnLXlZcTlTQjR2S3ZNYUwydGwtRGFkdWRjb0FndFQydFBPbjNHOFNILUh4T09ZMzEwWEhJWnRoWENTYVhpZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "沙烏地阿拉伯石油公司直升機意外，14人不幸罹難",
+    "zhSummary": "路透社報導指出，沙烏地阿拉伯國家通訊社證實一架屬於沙烏地阿拉伯石油公司的直升機發生墜毀事故，導致機上所有14名乘客與機組人員全數罹難。",
+    "zhContent": "<p>最近，一則來自沙烏地阿拉伯的悲劇新聞，透過路透社的報導引起了關注。根據沙烏地阿拉伯國家通訊社的證實，一架隸屬於當地大型石油公司「沙烏地阿拉伯石油公司」（Saudi Aramco）的直升機，不幸發生了墜機意外。這起意外非常嚴重，機上所有人員都不幸罹難，總共有14位本國籍人士因此失去寶貴的生命。</p><p>這起直升機墜毀事故的細節，目前還沒有完全公開。我們知道，失事的直升機是沙烏地阿拉伯石油公司用於執行任務的飛行器。這家公司是全球數一數二的能源巨頭，他們的業務範圍非常廣泛，經常需要使用直升機來運送員工或物資到偏遠的油田和設施。這次的意外，也讓許多人對於空中運輸的安全再次產生擔憂。</p><p>沙烏地阿拉伯的國家通訊社在報導這起事件時，明確指出機上的所有14位乘客和機組人員都是沙烏地阿拉伯的國民。他們在這次悲劇中全數遇難。目前，關於直升機墜毀的具體原因、事故發生的時間地點，以及當時的天候狀況等更多詳細資訊，都還在進一步調查當中，國家通訊社的初期報導並未提供這些資訊。</p><p>這起意外帶走了14條生命，為許多家庭帶來了巨大的悲痛。對於沙烏地阿拉伯石油公司來說，這也是一次沉重的打擊。目前，官方已經證實了這起不幸的墜機事件和罹難人數。後續是否會有更深入的事故調查報告，或是針對飛行安全的檢討措施，仍有待觀察。新聞報導目前就停留在這裡，確認了這起悲劇的發生和所造成的傷亡。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，哪家公司的直升機發生了意外？總共有多少人因此罹難？",
+      "生活與未來：你覺得直升機墜毀這樣的新聞事件，可能會對罹難者家屬、直升機所屬公司或該國社會帶來什麼樣的影響？",
+      "獨立思考提案：為了避免類似的飛安事故再次發生，你覺得航空公司或政府可以考慮採取哪些措施來提升安全性？"
+    ],
+    "enTitle": "Saudi Aramco Helicopter Crash Kills 14 Nationals, State Agency Confirms",
+    "enContent": {
+      "basic": "A helicopter belonging to Saudi Aramco, a big oil company, crashed, killing 14 people. This was reported by Saudi Arabia's official news agency and then by Reuters. All 14 people who died were Saudi nationals.",
+      "intermediate": "Recent reports from Reuters have confirmed a tragic incident in Saudi Arabia. The Saudi state news agency announced that a helicopter operated by Saudi Aramco, one of the world's largest energy companies, crashed. This unfortunate accident resulted in the loss of all 14 people on board, who were identified as Saudi nationals. Specific details about the cause of the crash were not immediately released.",
+      "advanced": "In a somber report via Reuters, it has been confirmed by the Saudi state news agency that a helicopter belonging to Saudi Aramco, a prominent global energy corporation, has tragically crashed. The incident led to the immediate demise of all 14 individuals aboard, all of whom were confirmed to be Saudi nationals. Specific details regarding the cause, timing, or precise location of the crash have not yet been released, with investigations likely underway to determine the contributing factors to this aviation disaster."
+    },
+    "vocabulary": [
+      {
+        "word": "Aramco",
+        "zh": "沙烏地阿拉伯國家石油公司（簡稱沙特阿美），是沙烏地阿拉伯的國家級石油和天然氣公司，也是全球最大的原油生產商之一。想像它就像一個國家最大的能源供應商。"
+      },
+      {
+        "word": "nationals",
+        "zh": "國民或本國籍人士。意思是指屬於某個國家的人民，就像我們都是台灣的國民一樣。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-06-28",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTl9QcUZ1VHdxdmRSYXhWRC0yWkdKMFhJYXNlM0JVMFEwR1BTeDA4djNxVjgtTnJPcVlTT0xGTDBlRE5FSllaLTdjcnFidVkwdDZKdlB6SmhKazhabUlvckNEaTF3VUdLTkgzUnZXbzB6MUZ3QkFBV09NVEZDSFpJTkkxUTlsekhMdlNsb0oxbl9QcEp3ZFZWYktvZ3dhTUNDVEJHSg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「記憶體新星」SK 海力士，靠一片神秘晶片成功逆襲三星？",
+    "zhSummary": "南韓科技公司 SK 海力士因為專注研發一種特殊的記憶晶片，在市場上表現突出，甚至在公司市值方面一度超越了長期以來的競爭對手三星電子。",
+    "zhContent": "<p>你可能聽過三星這家大公司，它手機做得好，電視也很棒。但在南韓，最近有另一家叫做 SK 海力士（SK Hynix）的科技公司，做了一個讓大家都很驚訝的決定。他們把資源集中投入到一種「特別的記憶晶片」上，結果不只讓公司大大賺錢，更在市場價值上，一度超越了大家以為很難撼動的三星電子，變成科技界討論的焦點。</p><p>那這個讓 SK 海力士一鳴驚人的「特別的記憶晶片」到底是什麼呢？想像一下，如果一般的記憶體是條普通的高速公路，那他們投入研發的，就像是記憶體界的「超級跑車專用道」。這種晶片叫做 HBM，它不像一般記憶體追求容量大就好，而是非常強調資料傳輸的速度和效率，就像專門為超級快的電腦或人工智慧（AI）運算打造的。在大家都還在猶豫要不要投入大筆資金時，SK 海力士就下了一個大賭注，決定要專攻這塊看起來比較「小眾」的市場。</p><p>為什麼這個策略會成功呢？因為近幾年，人工智慧（AI）的發展速度快到不行，從你的手機語音助理到幫忙分析大數據的超級電腦，都需要處理大量的複雜資訊。而 HBM 這種特殊的記憶晶片，正是讓這些 AI 電腦能高速運作、快速學習的關鍵零件。因為它能讓資料以驚人的速度被存取和處理，所以市場對它的需求突然暴增，變成一個「超級熱門」的產品。</p><p>由於 SK 海力士很早就看準了這個趨勢，並且提前投入了大量資源去研發和生產 HBM 晶片，所以當市場需求爆發時，他們就成為了主要的供應商，幾乎沒有人能跟他們競爭。這讓 SK 海力士的收入和公司價值像火箭一樣往上衝，即使三星這樣的大廠也因為起步較晚，在這一塊領域稍微落後。這整個事件，就這樣讓 SK 海力士成功證明了他們當初「下賭注」的眼光是正確的。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，SK 海力士是如何「下賭注」的？他們賭的是什麼？",
+      "生活與未來：你覺得未來還會有什麼樣的「小眾」或「特殊」科技產品，可能會像新聞中的記憶晶片一樣，突然變得非常重要呢？為什麼？",
+      "獨立思考提案：如果一家公司想要在市場上取得成功，你覺得是應該盡量開發各種產品（像三星那樣），還是專注在某個特定領域（像 SK 海力士那樣）會比較好？請說明你的理由。"
+    ],
+    "enTitle": "How SK Hynix's Bet on a Niche Memory Chip Made It More Valuable Than Samsung",
+    "enContent": {
+      "basic": "SK Hynix, a company from South Korea, made a smart choice. They focused on making a special kind of computer chip called a memory chip. This chip is not for everyone, it's for very fast computers, like those used for AI. Because of this good decision, SK Hynix became more valuable than Samsung for a while. It shows that sometimes, focusing on something unique can lead to big success.",
+      "intermediate": "SK Hynix, a South Korean tech firm, successfully challenged industry giant Samsung by strategically investing in a specific type of memory chip known as High Bandwidth Memory (HBM). While many companies might focus on broad markets, SK Hynix made an early bet on this niche product designed for high-performance computing, especially in the rapidly expanding field of Artificial Intelligence. This foresight positioned them as a dominant supplier when the demand for such specialized chips surged, temporarily boosting their market valuation above Samsung's.",
+      "advanced": "The narrative surrounding SK Hynix's recent market surge, briefly surpassing Samsung in valuation, centers on its prescient strategic pivot towards High Bandwidth Memory (HBM) chips. In an era where AI-driven computing demands unparalleled data throughput, SK Hynix's early and substantial investment in HBM technology, a niche but critical component for AI accelerators, proved to be a decisive competitive advantage. While competitors like Samsung were slower to ramp up HBM production, SK Hynix's calculated risk allowed it to capitalize on the explosive demand, solidifying its position as a market leader in this specialized, high-growth segment and demonstrating the profound impact of focused innovation on corporate valuation."
+    },
+    "vocabulary": [
+      {
+        "word": "Niche",
+        "zh": "利基 (ㄌㄧˋ ㄐㄧ)：指的是市場上一個比較小眾、特別的領域或產品。它可能不是很多人都需要，但對某些特定的人來說卻非常重要或有價值。"
+      },
+      {
+        "word": "Memory chip",
+        "zh": "記憶晶片 (ㄐㄧˋ ㄧˋ ㄐㄧㄥ ㄆㄧㄢˋ)：像電腦或手機的「短期記憶」一樣，用來暫時儲存資料，讓機器可以快速讀取和處理資訊的電子零件。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-06-28",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzZyMHVEbFBPMjFsTEx3UG01MUF3MnduN2RTbGlhQkdHM1pNYWJtbkNUb0JIc3VfdTMwNFRfOVo2MWhTc09HLTBqdUJjX1NKYnVWbDh1WEdVZ2JBZG5VcW15Yk9hWHpDWHh5UmlwM3VySFk1YzIzX1FzUHlldUJlSklUODJFMnotelN1UVZwbVMyR1YxNXM1LUtTY09Dd0ZscWF2RXk4RFhWaXhqUmZwb01Eb0FtMVdVVXRKTUZUSmhNbEE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "泰國行李箱命案震驚社會：17歲青少年遺體被發現，澳洲男遭逮捕",
+    "zhSummary": "泰國警方近期發現一起離奇命案，一名17歲青少年遺體被藏在行李箱內。警方迅速展開調查，並逮捕了一名澳洲籍男子，目前案件仍在偵辦中。",
+    "zhContent": "<p>泰國近期發生了一起震驚當地社會的案件。泰國警方在一個地點發現了一只可疑的行李箱，沒想到裡面竟然藏有一具年約17歲青少年的遺體。這起事件立刻引起了警方的全面關注與調查，新聞很快傳開，讓許多人都感到非常震驚與不安。警方隨後鎖定了一名澳洲籍男子，並將他逮捕歸案，事件的真相正逐步被揭露。</p><p>根據外國媒體《衛報》的報導，這起令人不安的發現發生在泰國境內。警方在接獲報案後，在指定地點找到了這個藏有遺體的行李箱。警方小心翼翼地處理現場，並初步確認了受害者的身份，是一名年僅17歲的青少年。由於這起案件的性質特殊且受害者年紀輕輕，泰國當局非常重視，並動員大量警力來追查可能的嫌疑人，希望能盡快查明青少年的死因與整起事件的來龍去脈。</p><p>在初步的現場勘查與線索追蹤後，泰國警方很快將嫌疑目標鎖定在一名澳洲籍男子身上。這名男子隨後被警方逮捕。據悉，警方正在調查他與這名17歲青少年之間的關聯，以及他在這起案件中扮演的角色。目前，關於這名澳洲男子的具體身份細節以及他被捕時的情況，警方都保持謹慎，沒有公開太多資訊，但已證實他涉嫌與此案有關。</p><p>目前，這名澳洲籍男子已受到泰國警方的拘留，並將面臨法律的調查與審判。泰國當局表示，他們將會徹底調查此案，釐清所有細節，確保正義得以伸張。警方也將持續收集證據，並在適當的時機向大眾公布更多訊息。整個案件的後續發展，都將依照泰國的法律程序嚴格進行，以期給予受害者家屬一個交代。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Thailand Suitcase Mystery: 17-Year-Old's Body Found, Australian Man Arrested",
+    "enContent": {
+      "basic": "Thai police discovered a 17-year-old's body in a suitcase, leading to the arrest of an Australian man. Investigations are ongoing to determine the full circumstances of the case.",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "arrested",
+        "zh": "逮捕 (dài bǔ) - 警察依法把犯了錯或有嫌疑的人抓起來。"
+      },
+      {
+        "word": "suitcase",
+        "zh": "行李箱 (xíng lǐ xiāng) - 一種旅行時用來裝衣服和物品的箱子，通常有輪子可以拉。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-06-28",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdlJsaFJzRG0xcnNjcERjZ25ibUl2VnktVUlIVi1mNEttSHpFY0JOM25EQXUzTnVPbS14dlJkRWVwcnpmSUJuZEtYcDBydkp5cGQ2cVozNU5SRGRCYlpPT09xc3NkNDduZ0pLR0djU3Z2ZVJPSjFaY3ZCLTkwa2xDTW5TVTc0TmxrWkRtRFQ2czN6V0xaY0JFdVNXTmZKUDh5c0N0dzg4b2cta1Q5LVcycXRsQVlQWWU1SGFGLWZ3NDg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "新喀里多尼亞的「選擇題」：各地區對法國關係態度大不同！",
+    "zhSummary": "太平洋島嶼新喀里多尼亞最近的選舉結果出爐，展現出明顯的區域差異：南方省份的居民多數傾向支持法國，而北部省份及離島地區則更傾向獨立。",
+    "zhContent": "<p>想像一下，如果你住的地方要決定以後是自己當家作主，還是繼續跟一個很遠的國家保持關係，你會怎麼選？最近在一個叫做「新喀里多尼亞」的太平洋群島，就上演了這樣的故事。根據國外媒體RNZ的報導，他們最新一次的選舉結果非常特別，清楚地顯示出當地居民對於未來走向有著明顯的分歧。</p><p>這次的選舉結果揭示了一個很有趣的地理分布。在「南方省」，也就是新喀里多尼亞最發達、人口也最密集的區域，支持繼續留在法國的政黨表現非常強勢，得到了很多選民的青睞。這表示這個地區的居民，普遍希望新喀里多尼亞能維持現狀，繼續作為法國的一部分。</p><p>相較之下，位在新喀里多尼亞的「北方省」以及「忠誠群島」區，情況就完全不一樣了。在這些區域，傾向尋求獨立的政黨則佔據了上風，贏得了多數的支持。這表示在這些相對比較鄉村或傳統的地區，許多居民對於脫離法國、建立一個屬於自己的獨立國家抱持著更大的期望與意願。</p><p>總的來說，這次選舉結果清楚劃分了新喀里多尼亞的政治版圖：南部地區對法國的歸屬感較強，而北部和離島地區則傾向獨立。這樣的結果，凸顯了新喀里多尼亞社會內部對於未來走向的重大分歧，是這次選舉最直接且客觀的事實呈現。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，新喀里多尼亞的哪些地區傾向支持法國？哪些地區傾向獨立？",
+      "生活與未來：你覺得如果一個國家內部有這麼大的意見分歧，會對當地人的生活造成什麼實際影響？",
+      "獨立思考提案：針對這種地區性的政治分歧，你覺得可以如何確保不同意見的居民都能被公平對待？"
+    ],
+    "enTitle": "New Caledonia's Regional Divide: Pro-France in the South, Pro-Independence in the North",
+    "enContent": {
+      "basic": "Recent election results in New Caledonia show a clear divide. In the South Province, parties that support staying with France are strong. But in the North Province and Loyalty Islands, parties that want independence are on top. This means different parts of the country have different ideas about its future.",
+      "intermediate": "New Caledonia's latest election results highlight a significant regional split regarding its relationship with France. Pro-France political parties demonstrated strong support in the South Province, indicating a preference for remaining part of France. Conversely, pro-independence parties secured the majority in the North Province and the Loyalty Islands, showing a clear desire for self-governance in those areas. This outcome reflects the differing political sentiments across the archipelago.",
+      "advanced": "The recent electoral outcomes in New Caledonia underscore a distinct geographical polarization concerning its sovereignty. Analysis of the results indicates a robust showing for pro-France political factions within the economically developed South Province, signaling a prevailing inclination towards maintaining ties with the métropole. In contrast, the North Province and the Loyalty Islands exhibited a strong mandate for pro-independence movements, revealing a significant aspiration for self-determination among their electorates. This dichotomy presents a complex socio-political landscape for the French overseas territory."
+    },
+    "vocabulary": [
+      {
+        "word": "Pro-France",
+        "zh": "親法：意思就是支持法國，希望跟法國維持緊密的關係，或者繼續作為法國的一部分。"
+      },
+      {
+        "word": "Pro-independence",
+        "zh": "親獨立：意思是支持獨立，希望脫離現在的管轄，自己成立一個國家。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-06-28",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNE03Zk5zTExnRjBwWjRqYXV4ZXNJTHpoMnlqTjJQNldQMXJPMlRMWHQ5Y3Q1NGtBZm5VQldILXhSYzJrZDJuNnNxZFJoSUREUmtkYjdUUXJiREVvRzhPSjZJWkwwbUdLUHFoR1FramRDWEhzV0UwamRJT3h0Ry11MUkzQURUZi14VUtsN3lTSzdLSWJfVVRUWXo4azBwbzFnbTB5YWpCYkYwS3RhVVk5b3RiTXBpMUZaTjBPZENhZzZwaHhFMHRZNGlDc0lweVoxQUkycVlaYkEzSVVTNTFXQnAwaks4NTdsbmVv?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "太猛了！TVBS連續九年被評為「全台最值得信任」電視台！",
     "zhSummary": "TVBS連續第九年獲得國際研究機構認證，蟬聯「全台最受信賴商業電視台」的稱號，這項殊榮由《天下雜誌》報導。",
     "zhContent": "<p>哈囉！各位同學，我是你們的專欄作家。最近有個很酷的消息，要跟大家分享。在台灣，有間電視台叫做TVBS，它連續九年都被一個國際大調查評選為「全台灣最值得信任的商業電視台」！這可不是隨便說說的，這個調查是由一個跟英國牛津大學有關的國際研究機構進行的，結果還被《天下雜誌》報導出來，聽起來是不是很厲害呢？</p><p>這個讓TVBS獲得肯定的大調查，其實每年都會進行。它主要是想了解大家對不同新聞媒體的看法，尤其是在數位時代，我們每天接觸到的資訊超級多，哪些新聞來源是大家覺得可以相信的呢？調查會訪問很多人，請他們評價台灣各個商業電視台在提供新聞資訊時，是不是公平、準確，而且不會亂傳假消息。TVBS就是在這樣的嚴格評比中，脫穎而出，而且是連續九年都保持領先，這真的不容易。</p><p>那麼，為什麼TVBS能在這麼多電視台中，一直被大家覺得「最值得信任」呢？從調查的標準來看，通常一個值得信任的新聞媒體，代表它在報導新聞時，會很注重事實的查證，確保內容的真實性；而且，它會盡量保持中立，不會只報導單一方面的聲音，讓觀眾可以聽到不同的觀點，自己去判斷。這樣一來，大家在看新聞的時候，才會覺得放心，相信自己看到的是真實且全面的資訊。</p><p>總結來說，根據這個由國際研究機構每年舉辦的調查，TVBS確實連續第九年蟬聯了「全台最受信賴商業電視台」的頭銜。這代表它在台灣眾多電視台中，持續獲得了廣大觀眾的肯定，在大家心中建立了穩固的信任感。這個結果清楚地說明了，TVBS在過去九年裡，在新聞報導方面，都表現得相當穩定，並且持續受到民眾的信賴。</p>",
@@ -10078,286 +10533,6 @@
     "date": "2026-05-29",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDVQa3JobW1odFQ1eDR0RjZxOHRadG9mLVN4Z0YyRGVMdmpnSWZwSUU0N2ZDamR1bEtzbTlEYzRHM3hMUnpaaDA0YWdGUjNDTWZWbFRsTVROSEtMRWtVVGpQQ0lpelowbEhNbGhrZ2lWbFpxVEJwb0tLN3Bkd2gtVFJtUzFyYzRlTEpsV1I0b1ctZUctcWdxQ3JzRGhjZ3NrYUEwSFpGSVRyRGlPa2VwRWE1Ul9fX00?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "歐洲五月就飆39度！熱浪來襲，居民喊「撐不住」考慮裝冷氣",
-    "zhSummary": "歐洲在五月份就經歷了罕見的熱浪，氣溫可能飆升到攝氏39度，許多當地居民因為家裡沒有冷氣而感到非常不適，紛紛開始考慮安裝冷氣機以應對提早且異常的高溫。",
-    "zhContent": "<p>歐洲最近可說是熱得發燙！你知道嗎？根據外電報導，五月份歐洲竟然就出現了像夏天一樣的熱浪，氣溫甚至可能飆到攝氏39度。對於很多住在歐洲的人來說，這實在是個很不尋常的現象，因為通常五月的天氣會比較涼爽舒服，很少會這麼早就出現這麼高的溫度，讓不少民眾大感吃不消。</p><p>這種熱度可不是開玩笑的，當氣溫一路往上衝，許多歐洲民眾都表示真的快要受不了了。想像一下，如果你家裡沒有冷氣，外面卻像烤箱一樣熱，那種感覺一定很難熬。許多家庭開始考慮一個之前可能很少想過的問題：是不是該裝一台冷氣機了？這跟亞洲地區家家戶戶幾乎都有冷氣的習慣很不一樣，歐洲許多老房子甚至一開始就沒有考慮冷氣的設計。</p><p>為什麼這次的熱浪會引起這麼大的討論呢？主要是因為歐洲大部分的住宅，特別是那些比較舊的房子，以前建造時並沒有預期會有這麼熱的天氣，所以通常沒有安裝冷氣的習慣。他們可能更習慣用開窗通風、或是依靠建築本身的設計來保持涼爽。但面對這次五月就提早報到的「高溫警報」，大家才發現，以前那些方法可能已經不太夠用了。</p><p>因此，現在歐洲的家電市場上，冷氣機的詢問度和銷售量都開始增加。許多過去從未考慮過裝冷氣的家庭，現在為了應付提早來到的高溫，都認真思考起這個「消暑大作戰」。這股熱浪不只讓大家覺得熱，也悄悄地改變了歐洲人對於居住舒適度和家電配置的看法，讓他們不得不開始為可能越來越熱的夏天做準備。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，為什麼歐洲民眾會覺得五月飆高溫很「不尋常」？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Europe Faces Early May Heatwave, Residents Consider Air Conditioning as Temperatures Hit 39°C",
-    "enContent": {
-      "basic": "Europe experienced an unusual heatwave in May, with temperatures possibly reaching 39°C. Many Europeans are struggling with the heat as their homes often lack air conditioning, leading them to consider installing it for the first time.",
-      "intermediate": "An unexpected heatwave struck Europe in May, pushing temperatures to potentially extreme levels of 39°C. This unseasonable heat is causing significant discomfort for residents whose homes are typically not equipped with air conditioning, prompting a growing number to explore installing cooling systems.",
-      "advanced": "Europe has been grappling with an unprecedented heatwave for May, with forecasts indicating temperatures could soar to 39°C. This early onset of intense heat is challenging the traditional residential cooling methods prevalent across the continent, particularly as many older European homes are not designed for such conditions, compelling a surge in demand and consideration for air conditioning installations among the populace."
-    },
-    "vocabulary": [
-      {
-        "word": "Heatwave",
-        "zh": "熱浪：指的是一段時間內，天氣比平常熱非常多，溫度高到讓人感到很不舒服。"
-      },
-      {
-        "word": "Air conditioning",
-        "zh": "冷氣：一種電器設備，能把室內的熱空氣抽走，吹出涼爽的風，讓房間變得舒服涼快。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-05-28",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VLXpNaDJ6SDBuNFZ4dWUycmJSbTFCWDZnaklkWEZPOTkzYTNJR2w2MWNqenhfaXJzc0d1RlVEUGMwMXFrTW9HZ0pZc1V1aUJXd1YzclZGRjV5b0ozNThz?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "巴西稀土大決定：Viridis 礦業優先供應歐美，不賣中國？",
-    "zhSummary": "巴西一家重要的稀土礦業公司 Viridis 宣布，他們開採的稀土將優先銷售給美國和歐洲的買家，而非中國。此舉旨在為西方國家建立更穩定的稀土供應鏈。",
-    "zhContent": "<p>巴西有一間叫做 Viridis 的礦業公司最近有個大決定！他們專門挖一種叫做「稀土」的珍貴礦物。最近，他們公司的執行長（就是老闆）宣布，未來他們挖出來的稀土，會優先賣給美國和歐洲的買家，而不是中國。這聽起來好像很簡單，但其實背後藏著一些特別的考量喔！</p><p>稀土是什麼呢？它其實是一群特殊的金屬元素，在現代生活中扮演非常重要的角色。想像一下你的手機、電腦、電動車，甚至是一些綠能發電設備，裡面都少不了稀土。沒有稀土，這些高科技產品就沒辦法順利運作。因為稀土的用途很廣，很多國家都希望能穩定拿到稀土的供應。而巴西的 Viridis 公司，就是目前發現新稀土礦藏的其中一家重要公司。他們的執行長說得很清楚，他們的目標是建立一個「西方的」稀土供應鏈。</p><p>Viridis 公司之所以這樣決定，是希望能確保美國和歐洲等地的科技產業有足夠的稀土可以用。目前全球大部分的稀土加工和供應都集中在中國，所以其他國家都希望能有更多元的稀土來源。Viridis 執行長特別提到，他們不想讓中國成為唯一的買家，而是希望分散風險，讓產品可以送到更多不同地區的製造商手上。這不只是單純的商業買賣，也牽涉到各國在重要資源上的策略佈局。</p><p>所以，現在 Viridis 公司正積極規劃，要跟美國和歐洲的廠商談合作，把他們開採的稀土賣出去。這項策略意味著，未來在這些高科技產品的製造上，美國和歐洲可能會多了一個重要的稀土供應夥伴。這就是這則新聞事件的核心，公司已經表明了他們的銷售方向和策略。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Brazil rare earths miner Viridis to sell to US, European buyers, not China, CEO says - Reuters",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "Rare earths",
-        "zh": "稀土：稀土不是指很稀有的泥土喔！它是一組很特別的金屬元素，雖然名字叫「稀土」，但其實它們在地底下沒那麼稀有。只是它們很難單獨分離出來，而且加工過程比較複雜。我們的智慧型手機、電動車和許多高科技產品，都少不了它們。"
-      },
-      {
-        "word": "CEO",
-        "zh": "執行長：CEO是Chief Executive Officer的縮寫，可以想像成一家公司的總經理或是最大的負責人。他主要的工作是幫公司做最重要的決定，規劃公司的發展方向和策略，就像學校的校長或班級的班長一樣，是帶領大家前進的那個人。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-05-28",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzREZnkxTEUtSVNjaVJ3eTRYMjMydnhERnJrb3RWX01uVVdJVjJneEU5VEtNVk10dWFSS25lVk9uemtKcEdKd0NrdG1kTzV1VXZ1YnJfZHU1S0xoSTdCbFZXMEFUcXc2NFRmMDFyY0hGRzRKM3RpYWhXNHpacUFTdVV0NzBCWm9BdjM5b24zYmlVUGk4ZXVGMTJuUlA2M3RqOW5acjRNMVl5Q2ExdHYwS25oWW5WNVNaNEZpeW1GRmM?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "法國終於修改老舊法律，確保每個人都是「人」！",
-    "zhSummary": "法國最近做了一個重要的改變，他們推翻了一條存在已久的法律條文。這條法律在某種程度上，仍然將人視為「財產」，而不是完全獨立的個體，儘管法國早在 178 年前就廢除了奴隸制度。",
-    "zhContent": "<p>你相信嗎？法國這個聽起來很現代的國家，最近才剛修改了一條存在非常久、有點奇怪的法律！這條法律的內容，在某種程度上，竟然還把人當成「財產」來看待。雖然法國早在很久很久以前，也就是 178 年前就正式廢除了奴隸制度，但這條老舊的法律卻一直悄悄地藏在他們的法典裡，直到最近才被正式推翻，確保每個人都能被視為完全平等的個體。</p><p>究竟是怎麼回事呢？原來，這條法律條文源自法國以前的一些殖民地規範，它把生活在法國某些海外領土上的人，定義得比較模糊，讓他們沒有辦法像一般公民那樣，擁有完整的「人」的地位。這不是說現在法國還有奴隸，而是指在法律文書上，這些特定人群的地位沒有被清楚地確立為一個絕對的「人」，而是帶有財產的影子。這樣的條文，在現代社會看來當然是非常不合理的，也讓許多人權團體一直努力想要改變它。</p><p>會拖這麼久才修改，主要可能是因為這些條文實在太老舊了，而且影響的範圍相對較小，加上法律體系龐大複雜，所以才沒有被及時注意到。直到最近，法國政府與相關法律專家重新檢視法規，發現這類殘留的、帶有奴隸時期色彩的法律條文後，才意識到問題的嚴重性。他們認為，即使只是文字上的定義，也必須徹底修正，以免造成任何誤解或不公義的暗示。</p><p>現在，法國政府已經正式行動，徹底推翻了這條有爭議的法律條文。這個改變意味著，在法國的所有法律文件裡，不再有任何模糊不清的定義，所有人都將被明確且無條件地視為擁有完整權利和尊嚴的獨立個體。法國希望透過這個舉動，讓他們的法律體系能夠更完整地反映現代人權的普世價值，也讓所有人都能真正感受到被平等對待。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "France Finally Overturns Law Classing People as Property",
-    "enContent": {
-      "basic": "France changed a very old law. This law used to say some people were like property, even though France stopped slavery 178 years ago. Now, everyone is officially seen as a full person.",
-      "intermediate": "France has overturned an outdated legal clause that, in some instances, still classified individuals as property. This change comes 178 years after the nation abolished slavery. The obscure law originated from colonial regulations and was recently identified and rectified to ensure all people are unequivocally recognized as complete human beings within the French legal system.",
-      "advanced": "Decades after its formal abolition of slavery, France has finally moved to overturn a vestigial legal provision that, remarkably, continued to classify individuals as property within certain contexts, particularly concerning its overseas territories. This archaic clause, embedded within historical legislative frameworks, has long been a point of contention for human rights advocates. Its recent repeal signifies France's commitment to ensuring its legal codification unequivocally reflects universal human rights, definitively recognizing every individual as a full and independent legal person, free from any remnants of commodification."
-    },
-    "vocabulary": [
-      {
-        "word": "overturns",
-        "zh": "推翻 (tuī fān) - 中文意思指改變一個決定或法律。就像法官說一個之前的判決不算數了，或是政府決定不再遵守某個舊規定，把它取消掉。"
-      },
-      {
-        "word": "abolished",
-        "zh": "廢除 (fèi chú) - 中文意思指正式終止一個系統、法律、習俗或制度。例如，一個國家決定徹底取消某種舊的法律，讓它不再存在。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-05-28",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VGUUUxQTB0TEdhaXhfT0VmbXRiZk53MVBwTHVLcXlUUUQ1dmRiZ2hpSTFNVWVscHdDZldfbThGcWRVOHN0SFJvN2FJQ242TllFWEN3dC1IeFhVNFlSSW5pb05iQ2k0cmkzX3IxSHdENTIwR1Btanl0bVp3dFNyVzNSRXRVc3JjbU85ellLUlBlN2FUQzJn?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非排外情緒升溫：迦納啟動撤僑行動",
-    "zhSummary": "因南非當地排外情緒加劇，迦納政府已開始將其公民從南非接回，以確保國民安全。",
-    "zhContent": "<p>最近，在非洲的南非國家，發生了一件讓許多外國居民感到不安的事情。迦納（Ghana）這個國家已經開始把他們的國民從南非接回自己的國家。這是因為南非當地出現了一股越來越強烈的「排外情緒」。簡單來說，就是一些南非居民對住在那裡的外國人越來越不滿，甚至會產生敵意或攻擊行為，讓外國人覺得很不安全。</p><p>這股排外情緒在南非其實並不是第一次出現，但最近似乎變得更嚴重了。一些在南非工作或生活的其他非洲國家人民，包括迦納人，都面臨著被當地人排擠、騷擾甚至攻擊的風險。為了保護自己的國民，迦納政府決定採取行動。他們安排了特別的交通工具，比如飛機，讓那些想要離開南非的國民可以安全地返回迦納，希望能讓他們脫離危險的環境。</p><p>那麼，為什麼南非會出現這種排外情緒呢？新聞報導指出，這可能跟當地的一些經濟問題有關，例如失業率高、貧富差距大。當經濟狀況不好的時候，有些當地人可能會把不滿的情緒發洩到外國人身上，覺得是外國人搶走了他們的工作機會或資源。這讓許多外國人感到無辜受牽連，因為他們也是為了更好的生活才來到南非。</p><p>截至目前為止，迦納政府的撤離行動仍在進行中。第一批選擇回國的迦納國民已經安全抵達家鄉。迦納政府表示，他們會持續關注南非的狀況，並提供必要的協助給他們的國民，確保所有選擇返回的國民都能順利回家。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，你覺得「排外情緒」是指什麼樣的狀況？它對在南非的迦納人造成了什麼影響？",
-      "生活與未來：你覺得如果一個國家出現嚴重的「排外情緒」，對居住在那裡的外國人或當地社會會造成什麼實際影響？",
-      "獨立思考提案：如果類似的狀況發生在你居住的地方，你覺得政府或個人可以怎麼做，來幫助那些受到影響的人？"
-    ],
-    "enTitle": "Ghana Begins Repatriating Citizens as Xenophobia Surges in South Africa",
-    "enContent": {
-      "basic": "Ghana has started bringing its citizens home from South Africa because of rising 'xenophobia'. Xenophobia means some South Africans are hostile towards foreigners, making foreign residents feel unsafe. This is not a new problem, but it has recently worsened, leading to risks of harassment or attacks for foreigners. Ghana's government arranged special flights to bring its people back to safety. The issue is possibly linked to South Africa's economic problems like high unemployment. Ghana's repatriation efforts are ongoing, and the first group of citizens has already returned home.",
-      "intermediate": "The nation of Ghana has initiated the repatriation of its citizens from South Africa, a move prompted by a significant surge in xenophobia within the latter country. This escalating anti-foreigner sentiment, characterized by hostility and potential attacks against non-South Africans, has created an increasingly insecure environment for foreign residents, including Ghanaians. While xenophobic incidents are not unprecedented in South Africa, recent reports indicate a worsening trend, putting foreign communities at risk. In response, the Ghanaian government has organized flights and other logistical support to facilitate the safe return of its nationals. Underlying causes often cited for this xenophobia include economic challenges such as high unemployment, leading some locals to blame foreigners for resource scarcity. The repatriation process is underway, with initial groups of Ghanaian citizens having already arrived back in Ghana, as the government continues to monitor the situation and provide assistance.",
-      "advanced": "Ghana has commenced the repatriation of its citizens from South Africa amidst a pronounced surge in xenophobic sentiment within the host nation. This decision by the Ghanaian government underscores the growing concern for the safety and well-being of its nationals, who have reportedly faced heightened hostility, harassment, and potential violence from elements of the local population. While episodic xenophobic outbreaks have historically characterized South Africa's post-apartheid era, recent escalations have rendered the environment increasingly precarious for foreign residents. The Ghanaian authorities have thus activated emergency protocols, including the arrangement of dedicated transportation, to facilitate the voluntary return of their citizens. Analysts frequently attribute the re-emergence and intensification of xenophobia to underlying socio-economic pressures in South Africa, such as persistent high unemployment rates and perceived competition for resources, leading to the scapegoating of foreign nationals. The repatriation initiative is currently in progress, with initial cohorts of Ghanaian citizens having successfully returned, as the Ghanaian government maintains close surveillance of the situation and extends ongoing support to its diaspora."
-    },
-    "vocabulary": [
-      {
-        "word": "xenophobia",
-        "zh": "排外情緒：指一個人或一個群體對來自其他國家或文化的人感到害怕、不信任，甚至產生敵意或歧視的態度。"
-      },
-      {
-        "word": "repatriate",
-        "zh": "遣返／撤僑：指一個國家把自己的公民從外國安全地接回國內，通常是因為外國發生了緊急狀況或危險。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-05-28",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObWZOSGdBbUgxSXlPUnV6ZlExdFlONnNJZmw3MWkta0dBN3RKSU9ydzd3T2k0dlVYLVNNN1BHa2laZlM1dTJaUEZTQzREZzIyejlmT0kzQ3MtX2xWRjJUSWpaVHluUHR3S0RydUkzYlpuam4wLUVqekNPNTlBeWQ5ZWZwZXVuak9XWkpGVEpGbWdJY3VPeURuQ2tDSGZtUUVzRFRPbVZYenpJcjI0QXg5Mk9kQUs4dXU3LVBuZmRITdIBxAFBVV95cUxPaGN3b3Y0WmxpQzhocUZkY0NOX0UwLTZmRFZLVUFKZXQtSnJJQ2JpendJeWFXUTNVWE1ndzd5VF96RFptaURtbmlVMDl4WGVkbnprNVc3cEF2Ym04UFNURmtkV0tlZ2Q4YUdrSTlqZTEwaC1tRmROZEt6YUhINFFKckNJeFdJdXRmRXMwQURpQmtQbXh1ZUdZSHlEZ3ZFRGU3SVRhNVhoenhYN1RCZllYcVRRbVdMX01tUEZOMVFtRzlxWGpq?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "盟友出手？巴基斯坦派戰機與大軍馳援沙烏地阿拉伯",
-    "zhSummary": "路透社獨家報導指出，在伊朗戰爭的背景下，巴基斯坦已向沙烏地阿拉伯部署了一支戰機中隊和數千名士兵，這項軍事行動引發了國際關注。",
-    "zhContent": "<p>最近有一則來自路透社的獨家報導震驚了許多人，內容指出，在伊朗戰爭的背景下，巴基斯坦竟然派出了戰機部隊和數千名士兵前往沙烏地阿拉伯。這項重大的軍事部署，讓中東地區原本就存在的緊張局勢，更加引人注目，也讓國際社會對於區域的未來發展感到好奇。</p><p>根據這則獨家消息，巴基斯坦這次調動的規模並不小。他們不僅送出了一個完整的戰機中隊，這意味著有多架高性能戰鬥機和相關的飛行員、地勤人員都已經抵達沙烏地阿拉伯，同時還有成千上萬的地面部隊也一同部署。這樣的行動顯示出，這是一項大規模且有明確目標的軍事合作，主要就是為了支援沙烏地阿拉伯。</p><p>這次大規模部署之所以會引起廣泛關注，主要原因就是它發生在報導中提到的「伊朗戰爭」期間。雖然新聞沒有具體說明這場戰爭的詳情，但這暗示著伊朗和區域內其他國家之間的衝突或對峙正在持續或升溫。沙烏地阿拉伯與伊朗是中東地區長期的競爭對手，因此巴基斯坦的這項支援行動，可以被看作是沙烏地阿拉伯為了鞏固自身安全、強化地區影響力所採取的重要一步。</p><p>目前，這些巴基斯坦的戰機和士兵都已到位，準備好執行預期的任務。這項行動本身，已經代表著中東地區軍事佈局的一個重要變化，可能對未來的區域平衡產生影響。至於後續會如何發展，以及會對中東地區的穩定造成什麼樣的連鎖效應，國際社會都在密切關注這項新的進展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Ally Steps In? Pakistan Deploys Jets and Troops to Saudi Arabia",
-    "enContent": {
-      "basic": "Reuters reported that Pakistan sent a jet squadron and thousands of troops to Saudi Arabia during a war with Iran. This move makes the Middle East situation more tense. Saudi Arabia and Iran are rivals, so Pakistan's help could change the balance of power there. The world is watching what happens next.",
-      "intermediate": "An exclusive Reuters report revealed that Pakistan has deployed a jet squadron and thousands of troops to Saudi Arabia amidst an ongoing 'Iran war'. This significant military maneuver is intensifying an already tense situation in the Middle East. As Saudi Arabia and Iran are long-standing regional rivals, Pakistan's support could significantly alter the balance of power and security dynamics. International observers are closely monitoring the implications of this development.",
-      "advanced": "A recent exclusive by Reuters sheds light on a substantial military deployment: Pakistan has dispatched a jet squadron and thousands of ground troops to Saudi Arabia, occurring 'during the Iran war'. This move is poised to escalate tensions in the Middle East, a region already marked by complex geopolitical rivalries. Given the historical animosity between Saudi Arabia and Iran, Pakistan's strategic support could have profound implications for regional security architecture. The international community remains vigilant, assessing the potential ramifications of this alliance."
-    },
-    "vocabulary": [
-      {
-        "word": "squadron",
-        "zh": "中隊。這是一個軍隊的單位名稱，通常指由幾架飛機組成的飛行隊伍，或者是一群人數較少但編制完整的軍隊單位。"
-      },
-      {
-        "word": "deploy",
-        "zh": "部署。意思是指有計劃地將軍隊、武器或其他重要資源，分配到特定的地點或位置，為某項行動或任務做好準備。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-05-28",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXQ0ZGZRZEVoWXNYN1ExempBZ1Ata245ellOQ0JVNTdnNTRyc2oxZWUzakNEZWllaEs1T0F2cktHVUVqUGJWeW80LU5LT3g1LVJZY3RaMDBsNnpyX09sRXRQOENWZktYT0dCRC02R1o2LTBxV2dEcldNT1V1TXpRRjNQcWFHSkE2Y0tRX0V4NDBfdVpoXzRvSXlrdVNVMk9IeDVTaVRRSDhLZFl2Q3dGa0VfVGlMOTk1VjdHd3lzUzd2OVBwOVQ0VnlB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "汽車世界大變動：傳統車廠怎麼跟中國隊比拼？",
-    "zhSummary": "全球知名的汽車製造商正發現，面對中國車廠的快速崛起，競爭變得越來越困難。",
-    "zhContent": "<p>很久很久以前，當我們想到汽車，腦中浮現的可能都是那些來自德國、日本或美國的大牌子，像是賓士、BMW、豐田或是福特。它們不只歷史悠久，技術也一直走在世界前端，幾乎是全球汽車市場的代名詞。但是，最近這個由西方國家主導的汽車世界，卻悄悄地起了變化。根據英國BBC的報導，現在連這些過去的汽車巨頭們，都發現自己要跟來自中國的汽車品牌競爭，變得越來越困難，甚至有些力不從心了。</p><p>中國汽車產業的崛起，尤其是在電動車（EV）領域，可說是來勢洶洶。他們推出的電動車款不只價格通常比國際品牌更具優勢，在電池續航力、充電技術，以及車內的智慧娛樂系統等科技配備方面，都展現出強大的競爭力。這些中國品牌的電動車，常常能用更實惠的價格，提供差不多的功能，讓傳統車廠在創新和成本控制上，都面臨巨大壓力，感覺很難跟上快速發展的中國車廠。</p><p>這種局面並非偶然。背後的原因很複雜，其中一個關鍵是中國龐大的國內市場。巨大的需求量讓中國車廠可以快速累積生產經驗，並且透過大規模生產來有效降低成本。此外，中國在電動車關鍵技術，像是電池研發和智慧駕駛系統方面，投入了大量的資源和人才。更重要的是，他們從產品設計到上市的速度非常快，能迅速根據市場反饋調整和更新產品，讓新科技更快應用到車上，推出符合年輕族群喜愛又實用性的新車款。</p><p>面對中國車廠的強力挑戰，全球汽車產業正經歷一場前所未有的轉型。許多來自歐美日等地的傳統汽車製造商，都在積極調整他們的策略。例如，他們開始加速電動車的研發與生產，投入更多資源在電池技術和智慧化功能上，甚至尋找新的合作夥伴，希望能提升競爭力。這場全球汽車市場的板塊變動，才剛剛開始，未來各大車廠如何應對，將會是全球關注的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Global Car Giants Face Tough Competition from China",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "Carmakers",
-        "zh": "車廠：製造汽車的公司，例如福特、豐田或特斯拉。"
-      },
-      {
-        "word": "Compete",
-        "zh": "競爭：和別人比拚，看誰比較厲害或做得更好，通常是為了搶奪市場或資源。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-05-28",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDdnhkREltSVZfTEI1M01oTFE5YzZXV0tJd2dvdzhKaFhtenJUTzVJdWFPYmpzTzlIalBXc2NSMHNSMVJDVE1SVzVKZFBYLTFQNzlxT29TczA0Zw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞女性重拾古老皮影戲：讓傳統藝術重新發光",
-    "zhSummary": "在東南亞，曾經由男性主導的古老皮影戲藝術，正由一群女性重新找回並注入新生命。她們透過創新表演和教學，打破傳統性別限制，讓這項珍貴文化遺產煥發新光彩。",
-    "zhContent": "<p>在東南亞，皮影戲是一種有著數百年歷史的古老藝術，它不只是一種表演，更是當地文化和故事的寶庫。過去，這種精緻的皮影偶戲大多是由男性大師傳承和演出的。然而，最近有一股新的趨勢正在興起，越來越多東南亞的女性開始投入皮影戲的世界，她們不只是學習這項傳統技藝，更積極參與製作、編劇甚至登台演出，讓這門曾經被認為是男性專屬的藝術，重新展現了不同的風貌。這就好比是女性們在重新「找回」這項寶貴的文化遺產，並為它注入了新的生命力。</p><p>這些女性皮影戲師傅們，不畏傳統觀念的挑戰，用她們的巧手和創意，讓皮影戲不再只是老故事的重現。她們開始在劇本中加入現代元素，或是用全新的視角來詮釋經典故事。從雕刻精細的皮偶、設計舞台佈景，到掌握光影變化和說故事的技巧，她們展現出絲毫不遜於男性同行的專業水準。有些女性甚至成立了自己的皮影戲團，或是開設工作坊，教導更多對這門藝術有興趣的年輕人，特別是鼓勵更多女性加入。她們的努力，讓這項古老藝術不再只是博物館裡的文物，而是活生生地走進了年輕世代的生活中。</p><p>為何會有這樣的「找回」現象呢？一方面，這是因為現代社會性別平權意識的抬頭，讓更多女性有機會嘗試和挑戰過去被限制的領域。另一方面，這些女性藝術家們也深深體認到，皮影戲是承載著她們文化根源的重要載體，如果因為缺乏新血而逐漸凋零，將是巨大的損失。她們認為，藝術的傳承不應該有性別的限制，每個人都應該有權利去學習和發揚自己民族的文化。透過女性特有的細膩與創新思維，她們不僅延續了皮影戲的生命，也為其帶來了更多元的可能性和觀眾群。</p><p>在這些女性藝術家的努力下，東南亞的皮影戲正重新獲得各界的矚目。她們的創新表演和教學活動，成功吸引了許多新一代的觀眾和學習者。同時，許多文化機構和社區團體也開始給予支持，提供培訓機會和表演平台，讓更多女性得以參與其中。這項由女性主導的「重拾」行動，不僅為皮影戲這門古老藝術帶來了新的生命力，更打破了長期以來的性別藩籬，展現了文化傳承可以有多元的面貌。皮影戲不再只是歷史的記憶，而是充滿活力的進行式。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Southeast Asian Women Reclaim Ancient Shadow Puppet Art",
-    "enContent": {
-      "basic": "In Southeast Asia, shadow puppetry is a very old art. For a long time, men mostly did it. But now, more and more women are starting to learn and perform it. They are bringing new ideas to this old art. They make the puppets, write new stories, and perform on stage. This helps keep the art alive and makes it fresh for new audiences.",
-      "intermediate": "Shadow puppetry, a centuries-old art form deeply rooted in Southeast Asian culture, was traditionally dominated by male performers. However, a significant cultural shift is underway as women across the region are actively 'reclaiming' this ancient tradition. They are not just learning the craft but are also innovating by creating contemporary narratives, designing intricate puppets, and mastering the complex art of storytelling. This female-led movement is vital for preserving the heritage while also challenging gender norms within the artistic community.",
-      "advanced": "A profound cultural resurgence is transforming the landscape of shadow puppetry in Southeast Asia, an art form historically presided over by male virtuosos. Women throughout the region are now at the vanguard of a movement to 'reclaim' and revitalize this ancient theatrical tradition. By engaging in every facet of the craft—from the meticulous carving of puppets and the scripting of modern narratives to the nuanced manipulation of light and shadow—these female artists are not merely preserving a heritage; they are reimagining its future. Their pioneering efforts are dismantling long-standing gendered barriers, injecting contemporary relevance into timeless storytelling, and ensuring the continued vibrancy of this treasured cultural artifact for future generations."
-    },
-    "vocabulary": [
-      {
-        "word": "reclaim",
-        "zh": "重新找回/取回。把原本屬於自己或一度失去的東西，透過努力再次拿回來。"
-      },
-      {
-        "word": "ancient",
-        "zh": "古老的。年代非常久遠，歷史很長的事物。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-05-28",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaQW5FSFFwMnVwWnJNSTBDdGozNFdrbXNXbzFIX05vckw1Mm81Wlo5QndRYVpxWG50ejRtN05HZzU0QXZGTGpEOW1FWHFOUXhZME5MdFNsQkNjYTlILUJfZkVoN1pTQjA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "庫克群島登革熱清零！太平洋鄰居們仍在努力中",
-    "zhSummary": "南太平洋的庫克群島傳出好消息，已經成功擺脫登革熱疫情，但鄰近的其他太平洋地區，卻仍持續有登革熱病例傳出，顯示這個區域的防疫挑戰仍在。",
-    "zhContent": "<p>「庫克群島登革熱疫情清零了！」這個消息對於位於南太平洋的庫克群島來說，真的是個天大的好消息。過去這段時間，許多地方都受到登革熱的困擾，但庫克群島終於成功擺脫了這個棘手的疾病，當地居民和準備前往觀光的遊客都可以鬆一口氣了。</p><p>登革熱是一種由蚊子傳播的疾病，會讓人發燒、全身痠痛，嚴重時甚至可能危及生命。庫克群島能夠達成「登革熱清零」，代表他們的公共衛生工作做得非常到位，很可能是在防治蚊蟲滋生、疫情監測和民眾宣導方面都下了不少功夫，才讓這種病不再造成威脅。</p><p>然而，儘管庫克群島成功戰勝了登革熱，但他們周邊太平洋地區的其他島嶼和國家，卻仍然持續傳出登革熱的病例。這表示登革熱的問題並沒有在整個區域消失，仍然是許多國家必須面對的挑戰。這也提醒了大家，在太平洋地區旅行時，還是要保持警覺，做好防蚊措施。</p><p>目前，庫克群島將持續保持對登革熱的嚴密監控，確保疫情不會再度捲土重來。而太平洋其他地區的國家，也還在努力控制當地的疫情。這則新聞清楚地呈現了在同一大區域內，不同地方在應對公共衛生挑戰時，可能會有截然不同的結果和進度。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Cook Islands Declared Dengue-Free, Other Pacific Areas Still Report Cases",
-    "enContent": {
-      "basic": "The Cook Islands in the Pacific Ocean are now free of dengue, a disease spread by mosquitoes. This is good news for people living there and for tourists. However, other countries near the Cook Islands are still reporting dengue cases.",
-      "intermediate": "The Cook Islands have successfully eliminated dengue, a mosquito-borne illness that causes fever and body aches. This achievement reflects strong public health efforts in controlling mosquito populations and monitoring the disease. Despite this success, the wider Pacific region continues to face challenges, with other areas still reporting new dengue cases.",
-      "advanced": "The Cook Islands have officially achieved dengue-free status, a significant public health milestone following concerted efforts to control the mosquito-borne disease within its borders. While this provides a reprieve for the island nation and boosts its tourism prospects, the broader Pacific region continues to grapple with ongoing dengue transmissions, underscoring persistent regional epidemiological challenges. Vigilance remains paramount for the Cook Islands to prevent reintroduction of the virus, even as neighboring territories contend with active case reporting."
-    },
-    "vocabulary": [
-      {
-        "word": "Dengue",
-        "zh": "登革熱 (Deng-gé-rè) – 一種會讓人發高燒、全身痠痛，由蚊子傳播的疾病，如果沒好好處理可能很危險喔！"
-      },
-      {
-        "word": "Vigilance",
-        "zh": "警覺 (Jǐng-jué) – 意思是要保持小心、隨時注意周遭的狀況，特別是可能帶來危險或問題的事情，才能及早發現和預防。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-05-28",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVZyaHpHQUdaMTg4czBMczFWOUVucUtOejcyM3AtclFFUXlzV21UVUZ3Y2hwN2VKQURpZzRiblVUdXJ4cGJCT0dhWGdHR2xQTExiNC1vQzROblk0cVE0TkNmd0NrOVA0ZEFIa1ZKemhpNmRNV1JkLUtmSDdUdXQxV3l5Si1xWnFON09lSW9Bb1g2V0ptTTNTXzV0MVc0SUJDVFBsX2xweVJlcEx0OEY2Q0dwa2dudGdWWHoxRg?oc=5",
     "isFeatured": false
   }
 ]
