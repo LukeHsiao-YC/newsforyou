@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "超級颱風「巴威」狂掃羅塔島！通訊塔倒塌，全島聯絡大中斷！",
+    "zhSummary": "強大的超級颱風「巴威」直接襲擊了美屬羅塔島，造成嚴重的破壞。島上關鍵的通訊塔被吹倒，導致整個島嶼的通訊幾乎完全中斷，讓居民們面臨巨大挑戰。",
+    "zhContent": "<p>哈囉！同學們，最近在太平洋發生了一件大事，一個威力超猛的「超級颱風」名叫巴威，直接朝著美國的羅塔島橫掃過去。這個颱風不只帶來了狂風暴雨，還造成了非常嚴重的災情，其中最讓人擔心的是，島上負責對外聯絡的通訊塔幾乎全部倒塌了！</p><p>羅塔島是美國在太平洋上的一個小島，雖然不大，但上面住著許多居民。當超級颱風巴威來襲時，它的風速非常驚人，強勁的風力就像巨人的手一樣，把島上好幾座高大的通訊塔都吹倒在地。這些通訊塔就像我們平常用的手機基地台，負責傳送網路訊號和電話線路，一旦它們都壞了，島上的人就沒辦法打電話，也上不了網了。</p><p>想像一下，如果我們突然沒辦法用手機、沒辦法上網，是不是會覺得很不方便？羅塔島的居民們現在就面臨著這樣的困境。因為通訊系統幾乎全面停擺，島上發生的具體災情消息，像是房屋損壞、人員受困等等，很難即時傳達出來，這也讓外面的救援行動變得更加困難重重。</p><p>目前，羅塔島正努力應對這場突如其來的自然災害。居民們在風災後開始清理家園，而當地政府和相關單位也正想辦法，希望能夠盡快修復受損的通訊設施，讓島上的居民可以恢復對外聯繫，並盡早重建家園。這次颱風帶來的衝擊，對羅塔島來說，無疑是一場巨大的考驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，超級颱風「巴威」對羅塔島造成的最主要影響是什麼？這個影響會帶來哪些連鎖反應？",
+      "生活與未來：你覺得通訊設備在我們日常生活中有多重要？如果我們居住的地方也像羅塔島一樣，通訊突然中斷，會對你的生活造成什麼實際影響？",
+      "獨立思考提案：如果羅塔島在未來面對類似的超級颱風威脅，你覺得他們除了修復通訊塔之外，還可以怎麼做來提升防災能力，減少通訊中斷的風險？"
+    ],
+    "enTitle": "Super Typhoon Bavi Devastates Rota Island, Knocking Out Communication Towers",
+    "enContent": {
+      "basic": "Super Typhoon Bavi hit Rota Island, a U.S. territory. Strong winds blew down communication towers. This caused major problems for people on the island. They couldn't make phone calls or use the internet. It was hard to get help or share news about the damage.",
+      "intermediate": "Rota Island, a U.S. territory, was directly hit by Super Typhoon Bavi. The powerful storm caused significant damage, particularly to the island's crucial communication infrastructure. Many communication towers were toppled by the fierce winds, leading to widespread outages in phone and internet services. This isolation made it challenging for residents to contact loved ones or report ongoing damage.",
+      "advanced": "Super Typhoon Bavi unleashed its full force upon Rota Island, a U.S. commonwealth in the Pacific. The intense hurricane-force winds severely compromised critical infrastructure, most notably toppling numerous communication towers. This catastrophic failure of the island's telecommunication network resulted in a near-complete information blackout, isolating residents and significantly impeding both the assessment of damages and the coordination of initial disaster relief efforts. The incident underscores the vulnerability of island communities to extreme weather events and the vital role robust infrastructure plays in disaster resilience."
+    },
+    "vocabulary": [
+      {
+        "word": "Typhoon",
+        "zh": "颱風 (tái fēng)。這是一種發生在熱帶海洋上的巨大風暴，會帶來非常強大的風、大量的雨水，還有海浪，常常會對土地造成很大的破壞。"
+      },
+      {
+        "word": "Communication",
+        "zh": "通訊 (tōng xùn)。指的是人們用電話、網路、廣播或電視等方式，來互相傳送訊息和交流的過程或技術。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-07-10",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Vcjdvb0xUY3luTG80VmNScTF5N2hyMGtzdkNsS3NxcDE2d0JxRzQ0OVYxN01xMGFLMXg5T1MwXzljUlA5VWxyS0t0bDlfRS1FY1k3bE1Jd1o0MFF4aFhr?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "環保機構呼籲企業：愛地球也要顧社區！",
+    "zhSummary": "奈及利亞的環保組織OGEPA，正積極推動企業更嚴格遵守環保法規，並主動承擔企業社會責任（CSR），以保護環境和提升社區福祉。",
+    "zhContent": "<p>非洲奈及利亞的一個環保組織——OGEPA，最近向當地的各行各業發出了一項重要的呼籲。他們希望所有公司都能更認真地遵守環保規定，並且更積極地實踐「企業社會責任」。這個消息讓大家重新關注到，在追求發展的同時，保護環境和社區的重要性。</p><p>OGEPA強調，所謂「遵守環保規定」，就是指企業在生產和營運過程中，必須嚴格按照政府制定的法律和標準，處理廢水、廢氣和廢棄物，不能隨意排放造成污染。而「企業社會責任」（CSR）則更進一步，它不只是守法而已，更鼓勵企業主動關心周遭環境和社區居民。比如，可以參與環保活動、支持當地教育或提供社區服務等，讓公司的發展也能為社會帶來正面效益。</p><p>OGEPA指出，這樣做的目的，是為了確保環境能夠永續發展，讓我們的空氣和水源保持乾淨，也讓居民的生活品質不被破壞。他們認為，當企業願意主動負起環境責任，不僅能提升自己的良好形象，也能避免未來的環境問題和可能的罰款。這樣一來，企業、環境和社區居民三方都能從中受益，創造一個更好的共存環境。</p><p>因此，OGEPA這次的呼籲，是希望各行各業都能把環境保護和社會責任，當作經營中不可或缺的一部分，而不是只把重點放在賺錢上。他們正積極推動這個觀念，鼓勵更多企業加入這個行列，共同為奈及利亞的環境和社會福祉努力。新聞只到這裡，至於後續企業將如何響應，就讓我們一起來關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Environmental Agency Urges Industries: Protect the Planet and Your Community!",
+    "enContent": {
+      "basic": "OGEPA, an environmental agency in Nigeria, is asking companies to follow environmental rules more strictly and practice Corporate Social Responsibility (CSR). This means businesses should not only make money but also protect the environment and help their local communities. They want companies to handle waste properly and contribute to society, ensuring a clean environment for everyone.",
+      "intermediate": "The Nigerian environmental protection agency, OGEPA, has issued a crucial call to local industries, urging them to enhance environmental compliance and embrace Corporate Social Responsibility (CSR). The agency emphasizes that businesses must adhere to regulations concerning waste management and pollution control. Beyond mere compliance, CSR encourages companies to proactively engage in community welfare, such as supporting education or environmental initiatives, to ensure sustainable development and mutual benefit for all stakeholders.",
+      "advanced": "The Ogun State Environmental Protection Agency (OGEPA) in Nigeria has intensified its appeal to various industries to robustly reinforce environmental compliance and commit to Corporate Social Responsibility (CSR). The directive underscores the imperative for businesses to rigorously conform to waste management and emission control protocols, transcending mere regulatory adherence. OGEPA advocates for active corporate participation in community development and environmental stewardship, positing that such engagement not only cultivates a positive corporate image but also mitigates future ecological liabilities, thereby fostering a symbiotic relationship between industry, environment, and societal well-being."
+    },
+    "vocabulary": [
+      {
+        "word": "compliance",
+        "zh": "「遵守、符合規定」。意思是按照規定或法律去做事。就像學校規定上學要穿制服，你穿了就符合「制服規定」的 compliance。"
+      },
+      {
+        "word": "CSR",
+        "zh": "「企業社會責任」的縮寫。意思是公司不只賺錢，也要對環境、社會和員工負起責任，例如保護環境、幫助社區、善待員工等。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-07-10",
+    "sourceName": "The Guardian Nigeria News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUU9GV0hxTk1MdU9DbTZiN195OE5zcE9raHVRV3VBY2ZnRkZYNzBWS25felV6Qi12X1ROdnp4LVB2UlJDeDNoWld4N3JmRkFQMWxRY2VOaEo5b1oxcjBLenpOSnRZZkctbjhPcktITVd5ejM2MlJWQVdLVXZyTDJ4b1ZZVmVMa09iWnB6Y2daZXpWRS1QdlE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "私下會談踢鐵板？美國教育部想安撫身障團體卻失利",
+    "zhSummary": "美國教育部最近在一場私下通話中，試圖向一群長期關注身障學生權益的團體保證某些事，但似乎沒有成功讓對方安心。",
+    "zhContent": "<p>美國教育部最近與一群關注身障學生權益的代表們進行了一場私下通話。這次通話的目的，是希望能夠安撫這些團體對現行或未來政策的擔憂，確保身障學生的權益不會受到影響。然而，根據報導，這場努力最終未能成功，教育部沒能讓這些倡議團體感到安心。</p><p>這次私下會談的背景，是美國社會對於如何確保身障學生能獲得公平教育機會的持續討論與關注。教育部可能希望透過這場對話，向這些代表說明他們在支持身障學生方面的立場和措施，例如關於特殊教育服務的資源分配、學習環境的包容性，以及在政策執行上的細節，以回應外界的疑問或批評。而身障權益團體則可能提出他們觀察到的實際問題與學生的具體需求。</p><p>然而，從結果來看，這次溝通並沒有達到預期的安撫效果。身障權益倡議者在通話後，仍然對教育部的保證感到不滿意或不信任。這可能代表教育部提出的方案不夠具體，或者未能完全回應團體最核心的憂慮，例如他們擔心某些政策的改變可能對身障學生的學習權益產生負面影響，或是相關資源不足的問題未獲有效解決。</p><p>總之，這場被寄予厚望的私下通話最終以失敗告終，身障團體的擔憂並未解除。這也意味著，美國教育部與身障權益團體之間，在如何保障身障學生權益這個重要議題上，可能還需要更多公開且深入的對話與協商，才能真正找到雙方都能接受的解決方案。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國教育部為什麼要和身障團體開「私下」通話？他們想達到什麼目的，最終卻為什麼沒有成功？",
+      "生活與未來：你覺得這類「私下溝通」沒有達成共識，會對身障學生的教育權益造成什麼實際影響？",
+      "獨立思考提案：針對這個情況，你覺得除了私下溝通外，還可以怎麼做，才能讓身障團體感受到被尊重，並真正解決問題？"
+    ],
+    "enTitle": "In private call, Education Dept. tried, but failed, to reassure disability advocates - NPR",
+    "enContent": {
+      "basic": "The U.S. Education Department recently held a private call with groups that support students with disabilities. The goal was to make these groups feel better about how policies affect disabled students. But, the department was not able to convince them or make them feel at ease. The groups still have concerns after the call.",
+      "intermediate": "In a recent private conference call, the U.S. Education Department attempted to address and alleviate the concerns of disability advocacy groups regarding policies impacting students with disabilities. Despite the department's efforts to provide reassurance, the call concluded without successfully convincing the advocates that their concerns were adequately addressed or that the students' interests were fully protected.",
+      "advanced": "The U.S. Education Department recently engaged in a private consultation with prominent disability advocacy organizations, ostensibly to assuage their anxieties surrounding current and prospective policies affecting students with disabilities. Despite the department's purported efforts to offer reassurances and clarify its stance, the confidential discussions ultimately failed to placate the advocates, leaving their fundamental concerns regarding equitable educational access and support unresolved."
+    },
+    "vocabulary": [
+      {
+        "word": "advocates",
+        "zh": "倡議者／擁護者：為了特定團體、想法或議題，大聲說話、爭取權益的人。他們會替那些可能無法自己發聲的人努力。"
+      },
+      {
+        "word": "reassure",
+        "zh": "安撫／讓…安心：當別人感到擔心、害怕或焦慮時，你給予他們信心、保證或解釋，讓他們感覺比較平靜、不再那麼煩惱。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-07-10",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0xKVHdEOE1rcWlNaWVnWTY0SnoyQ2FGQXVGOXg2N2JFTUYyLXZFdWFKdWpweFhrcWpGSmt4Xy1TYW1MdEFNSnhNLXI2LUk2WG4zWTdyc1ZxTkpFUTl2MEtOUWlYcGZuQXhhUnlKTDJEZWw5WnNRdTN1akJhN3BlNmg2OE9uLXc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI照片抓得到？Meta自家偵測器竟認不出「被剪裁」的AI圖！",
+    "zhSummary": "路透社最近發現，社群媒體巨頭Meta公司用來辨識AI生成圖片的工具，在面對自家AI工具製作、但經過簡單裁切的照片時，竟然常常失效，無法正確標示這些是AI圖。",
+    "zhContent": "<p>嘿，各位！有沒有想過我們在網路上看到的那些超酷或超逼真的圖片，到底是不是真人拍的，還是AI做的呢？現在很多大公司，像是Facebook和Instagram的母公司Meta，都有特別的AI工具來幫忙分辨。他們會幫AI生成的圖片加上一些「隱形記號」，或是直接標示「AI生成」。但最近，一件有點讓人跌破眼鏡的事被路透社發現了：Meta自己的AI圖片偵測器，竟然認不出一些它自己家AI工具做出來，但被簡單裁切過的圖片！</p><p>路透社是怎麼發現的呢？他們進行了一個小實驗。首先，他們利用Meta內建的AI圖片生成工具，創造出一些圖片。這些圖片一開始都有Meta特有的「AI生成」標籤。然後，路透社的記者把這些圖檔拿去簡單地裁切，有時候甚至只是剪掉邊邊一小部分，或是只改了一點點像素。接著，他們再把這些裁切過的AI圖，上傳回Meta的平台，看看那些「AI圖片偵測器」還能不能認出它們是AI做的。</p><p>結果出乎意料！路透社發現，經過這麼簡單的裁切處理後，Meta的偵測工具常常就會「失靈」，無法再辨識出這些原本有標籤的AI圖片。也就是說，即便圖片的內容還是原本AI生成的那張圖，但只要邊框被稍微動過，偵測器就可能會搞不清楚狀況，無法正確地告訴大家「這是一張AI圖」。Meta方面也承認，當AI生成的圖片經過編輯或裁切，的確會讓偵測變得更加困難。</p><p>這項發現其實很重要，它提醒我們，即使有最先進的AI偵測工具，AI生成的內容還是有可能透過一些小小的改變，就變得難以追蹤。現在，Meta仍舊在努力改進這些AI偵測技術，希望讓這些工具能夠更聰明、更精準地辨識出各種形式的AI圖片，不論它們是否被編輯過。這也顯示了，在科技發展的同時，我們對於資訊的判斷力也變得越來越重要。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Meta的AI圖片偵測器在什麼情況下會失效？為什麼這個發現很重要？",
+      "生活與未來：你覺得這個情況會對我們在網路上看到圖片時的判斷造成什麼實際影響？你以後會怎麼做？",
+      "獨立思考提案：針對這個偵測器失效的問題，你覺得除了Meta自己改進技術之外，我們身為網路使用者還可以怎麼做來保護自己，不被假圖片誤導？"
+    ],
+    "enTitle": "Meta AI Image Detector Fails to Recognize Its Own Cropped AI Images",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Detector",
+        "zh": "偵測器（ㄌㄜˋ ㄗㄜˋ ㄑㄧˋ）：一種專門設計來找出或辨識特定東西的工具或裝置，就像一個小偵探。"
+      },
+      {
+        "word": "Cropped",
+        "zh": "裁切（ㄘㄞˊ ㄑㄧㄝ）：把圖片或照片多餘的邊緣剪掉，只留下你想要的部分，讓畫面更集中。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-07-10",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFhDN2xpWkkxOUxmT0V6VXVRclktUGVBWW01V1M3dFlZbFRGM1o1bjNVVlI4a09ZdVBPak15S0JXVFFWVXFOckJZVE5oYklpTDNQMjdudmVPU281dmRyMzlwNmJBMm9LRTJQY292UXZURGhYUl83Vl9fTW5iTzVyX0RQMG5mUm1vTXZnYUNpd3hBYzdlYzZXdFc3bTVQVmhhTHFQNzRXNE4wWFhQNGh1UHcwSkEzQUFJQU9tYXNR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "週末好去處報你知！TAPinto 精選活動讓你玩翻七月",
+    "zhSummary": "美國地方媒體TAPinto在七月初發布了一篇週末活動指南，列出七月十日至十二日期間，當地可以參與的有趣活動，為居民提供豐富的娛樂選擇。",
+    "zhContent": "<p>美國有個地方新聞網站叫做TAPinto，他們總是很熱心地為社區居民整理各種實用資訊。最近，在七月初的時候，TAPinto就為大家帶來了一篇超棒的「週末去哪玩」特輯，準備要讓七月十日到十二日這個週末充滿歡笑與活力！這篇報導就像是一本活動手冊，專門介紹在當地和周邊區域可以參加的各種有趣事情。</p><p>這份指南的內容非常多元，從戶外探險到室內體驗，應有盡有。雖然報導沒有具體列出每一項活動，但我們可以想像，它可能包含了像是社區市集、音樂會、藝文展覽，甚至是適合全家大小一起參與的親子活動等等。TAPinto的目標很明確，就是希望當地居民，特別是青少年和家庭，能更輕鬆地找到適合自己的休閒娛樂，讓週末時光不再無聊。</p><p>像TAPinto這樣的地方媒體，之所以會定期推出這類型的活動專欄，背後的原因很簡單。他們不僅是提供新聞，更希望能拉近社區成員之間的距離，鼓勵大家走出家門，參與周圍發生的精彩事件。透過這樣的方式，不僅能支持當地的商家和活動主辦單位，也能讓大家更認識自己居住的環境，發現更多生活中的小確幸。這也是一種促進社區活絡、讓大家更有歸屬感的做法。</p><p>總之，TAPinto這篇在七月十日至十二日期間發布的「週末活動指南」，就是為了幫助當地居民輕鬆規劃他們的自由時間。它成為了一個實用的資訊平台，讓大家可以快速瀏覽有哪些值得一去的選擇，進而讓每個週末都變得充實又難忘。這類型的報導，定期為社區生活注入了滿滿的活力，讓當地人能好好享受屬於自己的悠閒時光。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Fun Things to Do in and Around Town This Weekend: TAPinto's July 10-12 Guide",
+    "enContent": {
+      "basic": "TAPinto, a local news source, published an article called 'Fun Things to Do in and Around Town This Weekend.' It listed different activities for people to do from July 10 to July 12. This guide helps people in the community find interesting events and places to go during their free time.",
+      "intermediate": "TAPinto, a community-focused news platform, released a comprehensive weekend activity guide covering July 10th to 12th. The article aims to inform local residents about various enjoyable events and attractions available in their area. By compiling these suggestions, TAPinto assists families and individuals in planning their leisure time and engaging with their local community.",
+      "advanced": "TAPinto, a prominent local media outlet, recently disseminated a curated 'Fun Things to Do in and Around Town This Weekend' feature, specifically for the period of July 10th through July 12th. This publication serves as an invaluable resource, offering residents a detailed compendium of local events, cultural attractions, and recreational opportunities. The initiative underscores TAPinto's commitment to fostering community engagement and providing actionable information for weekend planning."
+    },
+    "vocabulary": [
+      {
+        "word": "TAPinto",
+        "zh": "這是一個美國的地方新聞網站或社群平台，會報導當地的大小事，像是新聞、活動、商家資訊等等，幫助居民了解自己社區發生的事情。"
+      },
+      {
+        "word": "Weekend Guide",
+        "zh": "週末指南，指一份整理好週末可以做什麼、去哪裡玩的資訊清單或建議。它通常會列出活動、地點、時間等，讓大家更容易安排週末計畫。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-07-10",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVFJXU2taaE5XelM2MTc2dVNvdEVodzdxT2NjeTctb2JkRGRiZXBrMjVwQU9ROTJ2bUx1TkpXR3ZVZGtDanV2bDg5LXJudm92dE9BWGhqOFpDMERGWk45REtycWxNZUpybDhzZTBvcW1SNkNzRHo0SWd3Ul81VlRjZkZoSEZybW54TE9VQXFFV3YtMWFDYXpTcDVMNDk5Z0RSeXpIOEVLX1FLUnM3dGhLQWFOaEJCSF95TUgyMXBwYTRWZlYzZW92azRuLTVnN281bGJDQjctT2dUZWdfd0NrcU1vdGhISGQ4Y0V1V3RSWFFJRVhhRmJkbDlDdGRVVzZfbzVjMXJ1eDhUdEU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國最高法院的「獨立」考驗？一起看看最近的熱議話題！",
+    "zhSummary": "最近，美國最高法院的法官們因為一些收受禮物和豪華旅行的報導，引發了外界對法院是否能保持公正獨立的大討論。大家都在問，法官們有沒有一套清楚的行為規範呢？",
+    "zhContent": "<p>嘿，各位少年偵探們！你有沒有想過，當社會上出現重大爭議，需要一個公正的裁決時，誰能做出最終的決定呢？在美國，這個重責大任就落在了「最高法院」的法官們身上。他們負責解釋法律，確保所有人都受到公平對待。但是，最近卻出現了一些聲音，讓大家開始思考：這些大法官們，真的能一直保持百分之百的獨立嗎？</p><p>這個問題之所以會浮上檯面，是因為有一些媒體報導指出，部分最高法院的法官們曾接受過一些「特別的禮物」或「豪華旅行」，而這些禮物或旅行的提供者，有些甚至是與法庭案件有利害關係的富商或團體。這讓很多人開始擔心，法官們在做判決的時候，會不會因此受到一些無形的影響，讓他們的判斷不再那麼客觀與公正？</p><p>對於這些報導，各方的看法很不一樣。批評者認為，法官收受這些好處，即使法官本人覺得不會影響判決，但對外人來說，很難不聯想到是否有利益衝突，這會讓民眾對法院的信任度下降。他們要求最高法院應該有一套更嚴格、更透明的「道德行為準則」，就像其他政府官員一樣，讓所有法官都必須遵守。但也有人認為，這些只是私人的友情往來，不應無限上綱，而且法官的獨立判斷不該因此被質疑。</p><p>面對外界的質疑和壓力，美國最高法院在去年底公布了他們有史以來第一份正式的「行為準則」。這份準則明確列出了法官們在言行、財產申報等方面需要遵守的規範，希望能提升透明度並回應民眾的期待。不過，這份準則的實際執行方式以及是否足夠嚴格，目前仍然是各界持續討論的焦點，未來還會有什麼發展，大家都等著看。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼會有人質疑美國最高法院的法官們「獨立性」受到考驗？",
+      "生活與未來：你覺得如果法院的法官被認為不夠獨立公正，會對社會造成什麼實際影響？",
+      "獨立思考提案：針對法官們收受禮物或好處的爭議，除了制定行為準則之外，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Can the US Supreme Court Stay Independent? A Look at Recent Debates!",
+    "enContent": {
+      "basic": "Recently, there's been a lot of talk about the independence of the US Supreme Court. Some reports said that Supreme Court justices received gifts and luxury trips. This made people wonder if judges can always make fair decisions without being influenced. Critics say this could make people lose trust in the court. The Supreme Court recently made its first official set of rules for judges to follow to be more open. But people are still talking about if these rules are enough.",
+      "intermediate": "The independence of the US Supreme Court has come under scrutiny recently, following media reports that some justices accepted expensive gifts and luxury travel from individuals with potential interests before the court. This has sparked a debate about whether these actions could compromise the judges' impartiality and the public's trust in the judiciary. While proponents argue that existing disclosure rules are sufficient or that these are personal friendships, critics call for a stricter, enforceable code of ethics. In response, the Supreme Court adopted its first formal code of conduct, aiming to enhance transparency and address public concerns, though its effectiveness is still being evaluated.",
+      "advanced": "The perceived independence of the U.S. Supreme Court has recently been challenged amid reports detailing instances of justices receiving substantial gifts and luxury accommodations from benefactors, some of whom have direct or indirect interests in cases before the court. These revelations have ignited a robust public and political discourse concerning judicial ethics and the potential for perceived conflicts of interest. Critics argue that the absence of a clearly enforceable code of conduct for Supreme Court justices, unlike other federal judges, erodes public trust and the judiciary's legitimacy. Proponents, conversely, often maintain that personal relationships do not influence judicial decisions and that existing disclosure mechanisms are adequate. In a significant development, the Supreme Court has since adopted its inaugural formal Code of Conduct, a move intended to address transparency concerns and bolster confidence, though its scope and enforcement mechanisms remain subjects of ongoing debate and scrutiny."
+    },
+    "vocabulary": [
+      {
+        "word": "Independent",
+        "zh": "獨立：指一個人或一個團體，在做決定或判斷的時候，不受別人影響或干預，自己做主。就像你在考試時，要自己獨立思考答案，不能抄別人的。"
+      },
+      {
+        "word": "Ethics",
+        "zh": "倫理／道德：指一個人或一個職業團體在做事時，應該遵守的行為標準和原則，判斷什麼是對的、什麼是錯的。例如，醫生有醫生的倫理，不能洩漏病人的秘密。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-07-10",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHZyOUQ1bW8ySEZBQnhiSnV1OERMbWJOLWQ4YVozQ1ZEV2xVS3hBMExWNmx2MEpJOVkteEpLUXpMXzBYNEM4djhObGpVeHhYd1BNbTkwTUQ2VkpKWlNRM1Y5VDFyTE5CN0VvUVZ1d3N5Y2lEenZPSmY2N3oxOU1vMml5WEFaa2QxZ1lkSTQ2WHB2Q1FwUHVV0gGcAUFVX3lxTE1kQUVsLVhmeEF3WVVRVkhmb0JTdGd5aTh6cndtUktNOFVhTVdhSlZVUmRzVHNhMU1wY25leng3UjRXZS00VGhySmU5ZTFkTGZJUjhOd1prRTJMN2ZMV0VNRHk2UVRGVEdGeFVXMkVlRDRkNjd3cVhUemZCcHVpUmRGbTJwRDlELTZ0R0Jud0czTVFUS1M1bzZseElqYQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "威爾斯橄欖球隊挑戰阿根廷：要在足球狂熱國度搶頭條！",
+    "zhSummary": "在阿根廷這個舉國瘋足球的國家，威爾斯橄欖球隊參加了「國家錦標賽」，他們的目標不只是贏球，更想讓橄欖球這項運動在當地登上新聞頭條，挑戰阿根廷人對足球的熱愛。",
+    "zhContent": "<p>最近在阿根廷，一場名為「國家錦標賽」的體育賽事吸引了大家的目光。特別的是，來自威爾斯的橄欖球隊這次造訪阿根廷，可不只是單純要比賽而已。他們懷抱著一個特別的目標：要在這個對足球超級狂熱的國家，讓橄欖球成為大家討論的焦點，甚至登上各大新聞版面。這對威爾斯隊來說，無疑是個充滿挑戰的任務。</p><p>阿根廷人對足球的熱愛簡直是家喻戶曉，幾乎可以說是全國上下都為足球瘋狂。在這裡，足球明星的名字比任何人都響亮，足球賽事更是所有媒體追逐的焦點。在這樣一個環境下，其他運動要出頭天，尤其要搶到新聞的「頭條」，那可真不是一件容易的事。威爾斯隊深知這點，但他們仍然希望透過在「國家錦標賽」上的表現，證明橄欖球的魅力。</p><p>威爾斯橄欖球隊的這次「搶頭條」行動，不僅是體育競技，更像是一場文化的挑戰。他們不僅要面對球場上的對手，還要試圖贏得場外阿根廷民眾的關注，讓大家放下手中的足球資訊，轉而來看看橄欖球的精彩。這需要的不僅是球技，還需要一種策略，讓橄欖球的熱血與激情，能夠突破足球文化的重重包圍。</p><p>因此，威爾斯隊在這次國家錦標賽的表現，將被外界放大檢視。他們能不能在阿根廷這個足球世界中，成功為橄欖球劃出一個屬於自己的空間，讓更多年輕人認識並愛上這項運動，將是這次旅程的重點。這次的比賽結果，以及他們能否成功吸引媒體的注意力，將會是這次威爾斯隊阿根廷之旅的「新聞」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Wales Rugby Team Takes on Football-Mad Argentina",
+    "enContent": {
+      "basic": "Wales's rugby team is in Argentina for the Nations Championship. They want to make rugby famous in a country where everyone loves football. It's a big challenge to get people to pay attention to rugby instead of soccer.",
+      "intermediate": "The Welsh rugby team is currently competing in Argentina's Nations Championship. Their primary goal extends beyond winning matches; they aim to capture media attention and make rugby a headline sport in a nation famously obsessed with football. This presents a unique cultural and sporting challenge for the team.",
+      "advanced": "Participating in the Nations Championship in Argentina, the Welsh rugby squad faces a distinctive objective: to generate significant media coverage for rugby within a country profoundly dedicated to football. This endeavor represents not only a sporting contest but also a strategic attempt to penetrate and shift cultural attention, compelling a football-centric populace to engage with and appreciate the sport of rugby."
+    },
+    "vocabulary": [
+      {
+        "word": "headline",
+        "zh": "頭條：新聞報紙或網站上最醒目、最重要的消息。通常是字最大、最吸引人的標題。"
+      },
+      {
+        "word": "obsessed",
+        "zh": "狂熱的、著迷的：指對某件事或某種興趣非常非常投入，甚至有點過度喜歡，一心只想著它。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-07-10",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wQmlwQjBFZkRiR3VnSzdQUzVwRFA5bnlQTm51MnFoc1ZESmw0SlNBck5tLVg0OXh0QUNYY1kwN0RmUEpFWUczc3BzTXUzV0VUWkE4LTdwWDh6bmt6WFo0TElqX0tiWmhjSzVn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "歐盟盯上Meta：社群軟體太好玩，要罰錢了！",
+    "zhSummary": "歐盟對Meta旗下的Instagram和Facebook祭出警告，認為它們的設計會讓人沉迷，可能違反新的數位服務法規，並面臨巨額罰款。這項調查主要關注「上癮設計」對用戶（特別是青少年）的潛在負面影響。",
+    "zhContent": "<p>最近，歐洲聯盟（簡稱歐盟）對我們每天都在用的社群平台Meta（就是Facebook和Instagram的母公司）發出嚴正警告囉！歐盟認為Meta旗下的這些社群軟體，設計方式會讓人太容易「上癮」，導致用戶長時間沉迷，一直滑一直看停不下來。他們懷疑這種設計可能違反了歐盟新訂的「數位服務法」（Digital Services Act）。如果經過調查查證屬實，Meta可能會被罰一大筆錢呢。</p><p>歐盟關注的「上癮設計」具體是指什麼呢？他們覺得，像是Instagram或Facebook上那種怎麼滑都滑不完的「無限滾動」功能，以及手機螢幕上不停跳出來的通知提醒，還有軟體背後利用大數據分析你的喜好、不斷推薦內容給你、讓你覺得很有趣的演算法，都可能讓人深陷其中。這些精心設計的功能，會讓我們不知不覺花費更多時間在社群軟體上，很難放下手機，甚至影響到日常生活。</p><p>為什麼歐盟會對這種現象這麼在意呢？他們主要是擔心這些「上癮式設計」可能會對用戶，特別是青少年和兒童的心理健康和發展造成負面影響。長時間過度使用社群軟體，可能會讓人產生焦慮、憂鬱的情緒，影響專注力，甚至干擾正常的學習和睡眠時間。因此，歐盟希望這些大型科技公司能更負責任地設計他們的產品，確保用戶在使用時是安全且健康的，而不是被演算法操控或過度吸引。</p><p>目前，歐盟已經正式啟動了對Meta的調查程序。這表示他們將會仔細檢視Meta旗下的社群軟體（包括Facebook和Instagram）的設計細節，看是不是真的違反了「數位服務法」中保護用戶的規定。如果最終發現Meta確實有問題，它可能會面臨相當嚴重的懲罰。根據規定，罰款金額最高甚至可以達到公司全球年營業額的百分之六！這可是一筆非常龐大的天文數字，所以這件事對Meta來說，無疑是一場非常重大的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "EU Threatens Meta Over 'Addictive Design'",
+    "enContent": {
+      "basic": "The European Union (EU) has warned Meta, the company behind Facebook and Instagram, about its social media apps. The EU believes Meta's app designs are too 'addictive,' making people spend too much time on them. This might break a new law called the Digital Services Act (DSA). If Meta is found guilty, it could face a large fine. The EU is worried about features like endless scrolling and constant notifications. They think these designs can hurt young people's mental health. The EU wants tech companies to make sure their apps are safe. An investigation has started, and Meta could be fined up to 6% of its yearly income.",
+      "intermediate": "The European Union (EU) has issued a serious warning to Meta, the parent company of Facebook and Instagram, regarding the 'addictive design' of its social media platforms. The EU suspects that features like infinite scrolling, persistent notifications, and algorithms that continuously recommend engaging content might violate the newly implemented Digital Services Act (DSA). The primary concern is the potential negative impact of these designs on users, especially adolescents and children, leading to excessive screen time, anxiety, and disruption of daily life. The EU emphasizes that large tech companies should be held accountable for designing products that ensure user safety and well-being. A formal investigation has been launched, and if Meta is found non-compliant, it faces substantial fines, potentially up to 6% of its global annual turnover.",
+      "advanced": "The European Union has initiated formal proceedings against Meta, the tech giant behind Facebook and Instagram, citing concerns over the purportedly 'addictive design' elements within its social media platforms. These design choices, including infinite scroll functionality, pervasive notification systems, and sophisticated algorithmic content recommendation, are under scrutiny for potentially violating the Digital Services Act (DSA). The EU's apprehension stems from the documented adverse effects of prolonged engagement on user mental health, particularly among minors, encompassing heightened anxiety, diminished concentration, and disrupted sleep patterns. This action underscores the EU's commitment to holding major digital service providers accountable for fostering a safe and healthy online environment. The ongoing investigation could culminate in significant financial penalties for Meta, with potential fines reaching up to 6% of its global annual revenue, marking a critical test of the DSA's enforcement capabilities."
+    },
+    "vocabulary": [
+      {
+        "word": "addictive",
+        "zh": "上癮的。形容某樣東西讓你很難停止使用或去做，就像社群軟體讓你一直滑不停，或是吃零食讓你一口接一口停不下來。"
+      },
+      {
+        "word": "fine",
+        "zh": "罰款。政府或機關因為某人或某公司違反規定、犯了錯而要求支付的一筆錢，作為懲罰。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-07-10",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS28wUTJyVXAySmtMV0NoYUxOeTQycndBSEhoSE0zSjU4NUFYdk11ODlmV2ZoNkRrOHd5ck9SU3N2eTZKUGt4NnpzTUdtV1BESE5nckF6ZW1JenpIWF9NYWIwb2FBR0Q1NlVWbUZZTzFyRUpCUm13OGktOExrLW5TdjN4MlJjSHlHS2VnckVCOVJmQdIBkgFBVV95cUxNNHRLMDJMWkRGUS1xN3hKbC04cjY5bUJzVUZKQVp2ZjhpdjhTWWZNVkZBVl84SF9NNlpEcGRFUUxUR3cwNXVuUF9tODBPZVNvUzlVaENUU3JGZWVES0dpbnpzOS04NzFTRzdyYXFPMDB4YjF3WGhyM0Q1ZGlWRzAzM3pwakJuX1p5ZFdzeUNUWWV1Zw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非排外情緒升溫：尼日利亞人搭機返家",
+    "zhSummary": "近期，南非爆發了針對外來移民的排外事件，讓當地許多尼日利亞僑民的人身安全受到威脅。一家名為 Air Peace 的航空公司因此特別安排了撤離航班，協助數百名尼日利亞人安全回到他們的國家。",
+    "zhContent": "<p>最近，在非洲南部的國家南非，發生了一件讓許多人擔憂的事情：當地出現了針對外來移民的排外情緒。這種情緒讓在南非居住、工作的尼日利亞人感到不安，因為他們擔心自己的安全。為了幫助這些受影響的尼日利亞人，一家叫做 Air Peace 的航空公司特別行動起來，派遣飛機把他們接回自己的國家。</p><p>這次的事件，讓尼日利亞僑民的生活受到影響，一些人遭遇了攻擊或財產損失。為了避免更多危險，尼日利亞政府與航空公司合作，緊急安排了撤離計畫。Air Peace 的飛機飛往南非，準備將那些希望能安全離開的尼日利亞人載回家。許多人帶著簡單的行李，前往機場準備搭機。</p><p>事實上，南非過去也曾發生過類似的排外衝突，主要是當地人和外來移民之間，在工作機會和生活資源分配上出現了緊張關係。這種緊張情緒偶爾會演變成針對外國人的暴力行為，讓許多移民感到自己不受歡迎。這也促使了尼日利亞政府決定介入，確保其公民在面臨威脅時能有安全的去處。</p><p>目前，Air Peace 航空公司已經出動了好幾架班機，成功地將數百名尼日利亞僑民從南非安全地接回了家。這些航班將持續運作，直到所有想回家的人都能順利搭上飛機。這項撤離行動，正是為了確保在這次排外事件中，尼日利亞公民的人身安全能得到保障。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，尼日利亞人從南非撤離的『原因』是什麼？這對他們造成了什麼樣的影響？",
+      "生活與未來：你覺得這個撤離行動，對於這些搭機返家的尼日利亞人來說，會對他們的生活和未來造成什麼實際影響？",
+      "獨立思考提案：如果類似的排外衝突不幸發生在你的國家，你認為政府或社會應該怎麼做，才能更好地保護受影響的群體？"
+    ],
+    "enTitle": "Xenophobia in South Africa: Nigerians Evacuated by Air Peace",
+    "enContent": {
+      "basic": "Nigerians in South Africa are facing problems. There are strong feelings against foreigners, which makes many Nigerians unsafe. An airline called Air Peace is helping them. Air Peace sent planes to South Africa to take Nigerians back to their home country. Many people have already flown home safely. This is happening because of past problems between locals and foreigners over jobs and resources.",
+      "intermediate": "Recent xenophobic incidents in South Africa have prompted the evacuation of numerous Nigerian nationals. This anti-foreigner sentiment has led to concerns for their safety and, in some cases, property damage. Air Peace, a Nigerian airline, has stepped in to facilitate their return home by arranging special flights from South Africa. This action is a direct response to the escalating tensions and previous occurrences of similar conflicts.",
+      "advanced": "A surge in xenophobic sentiment across South Africa has necessitated the organized repatriation of Nigerian expatriates. Citing significant security concerns and previous instances of violence targeting foreign nationals, the Nigerian government collaborated with Air Peace airline to implement evacuation flights. This strategic humanitarian effort is designed to ensure the immediate safety and long-term well-being of its citizens amidst heightened societal tensions, which have historically stemmed from economic competition and resource allocation disputes between local populations and immigrant communities."
+    },
+    "vocabulary": [
+      {
+        "word": "Xenophobia",
+        "zh": "排外情緒：這是一種對外國人或與自己國家、文化不同的人產生不信任、害怕甚至敵意的感覺。"
+      },
+      {
+        "word": "Evacuates",
+        "zh": "撤離：當一個地方變得不安全時，政府或組織會幫助人們離開那個地方，去到更安全的地方。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-07-10",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0R5bFJJRlFTck5vUUhmVnVlWEVkWDBLRmh3Yy0xeUhDOGJrVjJLODVUM0V2a2NxYUFFc1YyYVRqRWNRUjE3a2lWYWlIZl9TRkVCRVczckl3YVNwbkNEWUZUNmlHYV9EeFEzeTVXNjdXNHhnWGM0a3o2MmNDcHZGMURRM2JPVUs0dFZxdg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "石油界大震撼！沙烏地阿拉伯大砍油價，市場都在問：夠不夠力啊？",
+    "zhSummary": "全球主要的石油輸出國沙烏地阿拉伯最近宣布調降原油價格，特別是針對亞洲市場的買家。這個舉動引起了全球關注，大家都在猜測這次降價是否足以應對市場需求，並確保沙烏地阿拉伯的市場地位。",
+    "zhContent": "<p>最近，石油市場有個大新聞！大家知道全球有很多石油是從中東運出來的嗎？其中一個超級重要的石油輸出國——沙烏地阿拉伯，他們國家的石油公司「沙烏地阿美」（Saudi Aramco）突然宣布，要降低他們賣給其他國家的原油價格。這個消息一出來，立刻讓全球市場沸騰起來，很多人都在討論，他們這次的降價幅度，到底夠不夠力呢？</p><p>具體來說，沙烏地阿美針對下個月要出口的原油，設定了新的價格。特別是對於亞洲地區的買家來說，這次的降價幅度會讓他們下個月買到更便宜的石油。這就像是他們給客戶打了一個折扣，希望能在競爭激烈的市場中，讓自己的石油更有吸引力。想像一下，如果你是個大買家，當然會想用最划算的價格買到需要的東西，對吧？</p><p>那麼，沙烏地阿拉伯為什麼要這樣做呢？專家們分析，這可能跟全球的石油需求狀況有關。有時候，市場上石油的供應量可能比大家實際需要的還要多，或是大家對未來的經濟發展比較保守，所以對石油的需求可能不會那麼旺盛。在這種情況下，主要供應商透過降價，通常是為了刺激買氣，確保他們的石油能夠順利賣出去，同時也能維持自己在市場上的主要地位。</p><p>這次沙烏地阿拉伯的降價行動，確實讓很多人都注意到了。不過，就像新聞標題問的：「到底夠不夠？」，許多分析師還在持續觀察。他們想知道，這次的降價能不能真正刺激全球的石油需求，或是成功地應對市場上的各種挑戰。畢竟，石油價格的變動，對全球經濟和每個國家的能源政策都有很大的影響，所以這個消息的後續發展，大家都還在密切關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，沙烏地阿拉伯為什麼要降低石油價格？他們降低價格後，主要的買家是哪裡的國家？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對買油的國家來說會發生什麼？對沙烏地阿拉伯來說又會發生什麼？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Saudi Arabia Slices Crude Oil Prices: Is It Enough?",
+    "enContent": {
+      "basic": "Saudi Arabia, a big oil producer, has cut the price of its crude oil. This is a big news in the oil world. Many people are wondering if this price cut is enough to make a difference in the market. Saudi Aramco, their oil company, made the announcement. This means countries buying oil from them, especially in Asia, will pay less next month. Experts think they did this because global oil demand might be slow. They want to make sure their oil still sells well. Everyone is watching to see what happens next.",
+      "intermediate": "Saudi Arabia, a key global oil exporter, recently announced a significant reduction in its crude oil prices. This decision by the state-owned oil giant, Saudi Aramco, has sparked considerable debate among market analysts regarding whether the extent of this price cut will be sufficient to achieve its intended goals. Specifically, the price reduction targets next month's crude oil shipments, with a notable cut for buyers in the Asian market. This strategic move is likely a response to uncertain global oil demand and increased market competition, aiming to secure sales and maintain market share.",
+      "advanced": "Saudi Arabia, a pivotal player in the global energy market, has implemented a notable reduction in its Official Selling Prices (OSPs) for crude oil, a move that has immediately drawn widespread market scrutiny. This decision by Saudi Aramco, the kingdom's national oil company, primarily targets its crude oil shipments for the upcoming month, with particularly sharper cuts observed for customers in the key Asian market. Industry analysts posit that this strategic adjustment is a proactive response to evolving global demand dynamics and heightened competitive pressures, signaling an effort to stimulate purchasing activity and solidify its market position amid potential oversupply concerns. The effectiveness of this price adjustment, however, remains a central question for observers, who are closely monitoring its impact on global oil consumption and market equilibrium."
+    },
+    "vocabulary": [
+      {
+        "word": "Crude oil",
+        "zh": "原油。這是還沒經過加工處理的石油，直接從地底下或海底開採出來的液體。它需要送到煉油廠提煉，才能變成我們日常用的汽油、柴油、柏油等不同的產品。"
+      },
+      {
+        "word": "Slices",
+        "zh": "削減/大砍。在這裡不是指切食物，而是像新聞標題那樣，用來形容「大幅度地降低」或「大量地減少」價格、費用或數量，讓某個東西變得更便宜或更少。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-07-10",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekFPUU1Sd0FkaW9fa2UyYi1yT3hVSERZczVuVWVCcEpRQWowc0d3ZXp5LW5FbW1uLWhDYjRtMk0xcU0tdGo3OXV3NXB6WlZILXVPdFBUTVd0TXhEWU9Nd2ZOWHRpS3QyckhzMGlVeWN2amFySVhXR2N3eUFkSW0tNjUwWC1jQjJCbGJ5aU1ZcG1zb1BTSFhyQ2NoNXNkZldGNFd3SlNKdEhkOG9JSUhVd0tiVGpEQ05GelE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "颱風「巴威」威脅東亞，菲律賓土石流已奪走15條生命！",
+    "zhSummary": "一個名為「巴威」的颱風正朝著台灣、日本和中國東南部逼近，各地正繃緊神經準備應對。而在同時，菲律賓已經因為土石流而造成了15人死亡的嚴重災情。",
+    "zhContent": "<p>嘿，同學們，最近太平洋地區的天氣很不平靜。根據英國廣播公司BBC的報導，一個名為「巴威」的颱風正在逼近，預計會對台灣、日本和中國東南部地區造成影響，這些地方現在都繃緊神經在戒備。而另一方面，菲律賓卻已經發生了嚴重的土石流災情，不幸造成了15人死亡。</p><p>巴威颱風目前正持續發展，被預期會帶來強風豪雨。新聞指出，台灣、日本和中國的相關單位都已開始採取預防措施，例如發布了天氣警報，提醒民眾要注意防颱。當地居民也正在為颱風的到來做準備，加固房屋、儲備物資，以減少可能發生的損害。</p><p>在巴威颱風即將來襲的同時，菲律賓卻已面臨了另一場天氣浩劫。當地因為連日大雨，導致多處發生嚴重的土石流。這些土石流沖毀了房屋和道路，造成了重大的財產損失，更令人難過的是，已經有15條寶貴的生命在這場災難中逝去。搜救人員正努力在受災區進行救援工作，希望能找到失蹤的人員，並協助災民度過難關。</p><p>總結來說，這個地區目前正承受著極端天氣的考驗。一方面是巴威颱風的潛在威脅讓台灣、日本與中國東南部地區嚴陣以待，另一方面則是菲律賓已發生的土石流災情，導致了嚴重的生命與財產損失。各地政府和人民都在密切關注天氣變化，並持續進行防範與救援。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，有哪些地方受到颱風或土石流的影響？",
+      "生活與未來：你覺得如果颱風來襲，對我們的日常生活可能會造成什麼樣的實際影響？",
+      "獨立思考提案：針對新聞中提到的「戒備」和「準備應對」，你覺得除了個人準備，政府還可以怎麼做來幫助民眾更安全？"
+    ],
+    "enTitle": "Typhoon Bavi Threatens East Asia, Landslides Kill 15 in Philippines",
+    "enContent": {
+      "basic": "Taiwan, Japan, and southeast China are getting ready for Typhoon Bavi. Meanwhile, a sad event happened in the Philippines, where landslides have killed 15 people. This news comes from the BBC. The typhoon is expected to bring strong winds and heavy rain. People in the affected areas are preparing their homes and getting supplies. In the Philippines, heavy rains caused mudslides that destroyed homes and roads. Rescuers are looking for missing people and helping those affected. Both areas are dealing with very bad weather, one preparing and the other recovering.",
+      "intermediate": "Taiwan, Japan, and south-eastern China are currently preparing for the arrival of Typhoon Bavi, as reported by the BBC. This powerful storm is expected to bring significant wind and rainfall to these regions, prompting authorities to issue warnings and residents to take precautionary measures like securing properties and stocking up on essentials. Concurrently, the Philippines has tragically experienced severe landslides, resulting in the deaths of 15 individuals. These landslides, likely triggered by previous heavy rains, have caused extensive damage to infrastructure. Search and rescue operations are underway to locate missing persons and provide aid to the affected communities. The region faces a dual challenge: bracing for an impending typhoon and recovering from a recent natural disaster.",
+      "advanced": "Drawing from a BBC report, Taiwan, Japan, and south-eastern China are currently in a state of heightened alert, preparing for the imminent impact of Typhoon Bavi. This meteorological event is projected to deliver considerable wind speeds and precipitation, necessitating comprehensive preparatory actions from both governmental bodies, which are issuing advisories, and the populace, engaged in securing dwellings and accumulating provisions. Simultaneously, the Philippines has been struck by a devastating series of landslides, which have regrettably claimed 15 lives. These catastrophic events, attributed to antecedent heavy rainfall, have resulted in substantial infrastructural damage. Emergency response teams are actively conducting search and rescue missions and extending humanitarian assistance to the affected populations. The broader region is thus contending with a complex scenario involving pre-emptive disaster mitigation for an approaching typhoon and post-disaster recovery efforts."
+    },
+    "vocabulary": [
+      {
+        "word": "brace",
+        "zh": "戒備、嚴陣以待。這個字通常用在形容一個人或一個地方在面對危險或困難之前，做好準備、繃緊神經的狀態。"
+      },
+      {
+        "word": "landslide",
+        "zh": "土石流。當土壤、岩石和水因為大雨等原因混在一起，從山坡上快速滑落，就會形成土石流，破壞力很大。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-07-10",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2cjdFbUxhMTVFbC1sV3RuOXhxRmlkVjJzeE9VSk4wRE5CSk9YalhzVGxHZ2E5MGZFVVJSaFFaYlpocllmVmt0VVhzNzZaS3dpcVB1WEN2d2pudw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "哇！泰國發現超長脖子新恐龍，脖長跟板球場一樣！",
+    "zhSummary": "泰國古生物學家最近挖到了一種全新的恐龍物種，牠最驚人的特色是擁有一個超級長的脖子，長度竟然跟一個板球場差不多，讓全世界的恐龍迷都嗨翻了！",
+    "zhContent": "<p>嗨！有沒有人喜歡恐龍啊？最近泰國的古生物學家們，在一塊塵封已久的大地上，挖到了一個超級驚人的新發現！他們找到了一種從來沒見過的新恐龍，最特別的是，牠的脖子長得像板球場一樣長，這也太酷了吧！這個消息一出來，讓全世界的恐龍迷都沸騰了，大家都在好奇這隻史前巨獸到底長什麼樣子。</p><p>這隻全新恐龍是在泰國東北部的普考（Phu Kao）地區發現的，那裡本來就是出產恐龍化石的寶地。這次，科學家們從土裡小心翼翼地挖出了一塊塊巨大的骨頭。經過仔細的研究和拼湊，他們發現這不是任何一種我們已經認識的恐龍。更讓人眼睛一亮的是，根據推算，這隻恐龍的脖子竟然有大約一個板球場那麼長，大概是20公尺左右，簡直就是個行動巨塔！</p><p>科學家們把這種新恐龍歸類為「蜥腳類」恐龍，牠們都是草食性的，也就是說只吃植物。蜥腳類恐龍的特色就是脖子很長，身體也很龐大，所以牠們可以吃到很高很高的樹葉。不過，這次在泰國發現的這種新物種，牠的骨骼結構跟其他蜥腳類恐龍有些不一樣，這代表牠可能代表了這個家族裡一個新的分支，對於我們了解恐龍的演化過程非常有幫助，也讓大家對牠的生活方式有更多想像。</p><p>目前，科學家們還在對這隻新恐龍進行更深入的研究，包括給牠一個正式的科學名稱。未來，這些研究成果會陸續發表在專業的科學期刊上。這次的發現不僅為泰國增添了一項世界級的古生物資產，也再次證明了地球上還有很多未知的生物等著我們去探索，每一次的發現都像在閱讀地球的古老日記呢！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "New Long-Necked Dinosaur Species Discovered in Thailand, Neck as Long as a Cricket Pitch!",
+    "enContent": {
+      "basic": "A new type of dinosaur with a very long neck has been found in Thailand. Its neck is as long as a cricket pitch.",
+      "intermediate": "Paleontologists in Thailand have discovered a new species of long-necked dinosaur, estimated to have a neck about 20 meters long, similar to the length of a cricket pitch. This exciting discovery occurred in the Phu Kao region.",
+      "advanced": "A novel sauropod species, characterized by an exceptionally elongated neck comparable to a cricket pitch (approximately 20 meters), has been unearthed by paleontologists in the Phu Kao region of northeastern Thailand. This finding contributes significantly to understanding dinosaur evolution and biodiversity within the region, indicating a new branch within the sauropod family."
+    },
+    "vocabulary": [
+      {
+        "word": "species",
+        "zh": "物種：一群長得很像、可以互相生小寶寶的動物或植物，牠們有共同的特徵。"
+      },
+      {
+        "word": "cricket pitch",
+        "zh": "板球場：板球是一種在草地上進行的運動，板球場就是比賽時中間那一塊長方形的場地，通常長度大約是20公尺。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-07-10",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GX2YyY19CaUxhT054clNCX0tsczBnRWJhM2VVeXg4LTFKMi1NTk9yR3A3eFdCTnJFSjVsTXIxTDFQaEU2TDlyZzRjT01vcXMwUmt3c1QtWkZCTVFl?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋體壇新星閃耀國際！破紀錄、簽大約，讓世界看見小島國家的體育能量",
+    "zhSummary": "澳洲廣播公司報導指出，來自太平洋地區的運動員們，在過去一年裡成績斐然，不僅打破多項紀錄，簽下重要的職業合約，更在全球體育舞台上取得了許多令人矚目的成就，證明了小島國家的巨大潛力。",
+    "zhContent": "<p>「太平洋運動員太厲害了！」最近來自澳洲廣播公司（ABC Pacific）的報導指出，太平洋地區的選手們在國際體壇大放異彩，他們不僅打破多項紀錄，還簽下重要的職業合約，並在全球大賽中取得許多值得驕傲的成就。這一年對這些來自太平洋島嶼國家的運動員來說，絕對是豐收的一年。</p><p>這些年輕的體壇新星們在多個領域都表現出色。例如，在田徑賽場上，他們展現了驚人的速度與耐力，不少選手跑出了個人最佳成績，甚至刷新了區域或國家的紀錄，讓許多觀眾都為之振奮。此外，在橄欖球、籃球等團體運動項目中，太平洋選手也憑藉他們強健的體魄和高超的技巧，成功進入了國際頂級聯賽，獲得了許多專業球隊的青睞，簽下了具歷史意義的合約。</p><p>這些來自太平洋國家的運動員們，儘管有些可能面臨訓練資源相對不足的挑戰，但他們依然展現了驚人的毅力和潛力。他們在各大國際賽事中，例如世界錦標賽、區域運動會等，都取得了優異的成績，為自己的國家贏得了獎牌和榮譽，讓世界看到了太平洋地區在體育方面的巨大能量。他們不僅是選手，更是家鄉的驕傲，激勵了無數當地年輕人投身運動。</p><p>總的來說，太平洋地區的運動員們在過去的一年裡，確實透過他們的汗水與努力，在全球體育舞台上畫下了濃墨重彩的一筆。他們的故事證明了只要有決心和天賦，無論出身何處，都能憑藉自己的實力站上世界巔峰，成為備受矚目的焦點。他們的亮眼表現，無疑讓太平洋群島在全球體壇的聲量和影響力持續提升。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pacific Powerhouses: Island Athletes Conquer Global Sports Stage!",
+    "enContent": {
+      "basic": "Pacific athletes had a fantastic year! They broke records and signed big deals in sports, making their islands proud.",
+      "intermediate": "Athletes from the Pacific Islands achieved significant success globally. They set new records and secured historic professional contracts, elevating their nations' presence in international sports.",
+      "advanced": "The Australian Broadcasting Corporation highlighted the remarkable year for Pacific athletes. Their unprecedented success includes breaking numerous records, securing landmark professional contracts, and achieving significant international recognition across various sporting disciplines, profoundly elevating the global profile of the Pacific region."
+    },
+    "vocabulary": [
+      {
+        "word": "Athlete",
+        "zh": "運動員：那些參加體育比賽，用身體能力或技巧去競爭的人。"
+      },
+      {
+        "word": "Achievement",
+        "zh": "成就：透過努力或技能成功完成某件事，得到的好的結果或表現。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-07-10",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HdnZGbkU1R1FPVGwyVnJoZ0dXVlFfcE5qNWY4QXRSYUFsWWIzVklmanotOEhURTk3aFg2N3Y4LVVqcEU5Z1hWa1ZFX0pKU1ctMl9ac0hZN2JCWXdzU3dyaEJDZ294MlFQcWtSZjlGdFVLZWZNek5jZHZscw?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "超級颱風巴威重創羅塔島！通訊中斷，災情傳出",
     "zhSummary": "美屬羅塔島日前遭到超級颱風巴威正面襲擊，強風豪雨導致島上多座通訊塔倒塌，造成全島通訊中斷，災情嚴重，救援工作面臨挑戰。",
     "zhContent": "<p>美屬羅塔島最近被一場超級颱風「巴威」狠狠掃過。這場颱風威力非常驚人，直接導致島上好幾座重要的通訊塔被吹倒。可以想像嗎？通訊塔倒了，就等於整個島的電話、網路都斷了，想對外求助都變得超級困難，當地居民現在可能面臨很嚴重的問題。根據外媒報導，這場風災帶來了「重大災情」。</p><p>颱風巴威登陸羅塔島時，帶來了非常可怕的強風和大量的雨水。這些風有多強呢？足以把堅固的通訊鐵塔都連根拔起或吹斷。羅塔島是美國的一個屬地，位於太平洋上，島嶼面積不大，人口也不多。當這樣等級的超級颱風直接穿過，可想而知，島上的建築、樹木，甚至基礎設施，都會受到非常巨大的破壞。居民們可能經歷了一個非常漫長又恐怖的夜晚。</p><p>為什麼這次颱風會造成這麼大的破壞呢？主要原因就是「超級颱風」這個名字不是隨便取的。它代表著極高的風速和龐大的風暴範圍，具有非常強大的破壞力。通訊塔倒塌是這種強風的直接結果。一旦通訊中斷，就意味著島上居民很難與外界聯繫，救援隊也很難即時掌握災情，這讓後續的救援和物資運送工作變得更加複雜和緊急。</p><p>目前，羅塔島正處於與外界幾乎隔絕的狀態。通訊中斷是最大的難題，因為這不僅影響了居民的生活，也直接阻礙了緊急應變和災情評估。相關單位正在努力設法重建通訊，並將救援物資送往島上。這是一場艱鉅的挑戰，需要時間和大量的資源才能讓羅塔島從這次風災中慢慢恢復過來。</p>",
@@ -10953,461 +11408,6 @@
     "date": "2026-06-10",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEJOak9XV0JHWmh2T2VtZW5wTVNrNURfTW9zZ3laMm4tazlmQnZCZkttblpGTXBrMHJrRndMRzFJZzlUX0NOd2ZpRnZJbWprcGFRQktDMEtRM1FnRDRhMm5KRzdVUmFyOXlIZnEyZ2l6ZGpEN2poZXpSSWRWcTZEM1R2YzdTZWZVbW85QjlRaVBBUFJjREhnU1loYV9TTEI4bHBRbktwR1RpVjc0d2pISlJkMA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "全球學術盛事！第七屆唐獎得主六月中旬即將揭曉",
-    "zhSummary": "全球矚目的第七屆唐獎，將在今年六月中旬陸續公布得獎名單。這個每兩年一次的國際級大獎，旨在表彰在永續發展、生技醫藥、漢學及法治領域有卓越貢獻的學者專家。",
-    "zhContent": "<p>嘿，同學們！你們知道「唐獎」嗎？這可是個在全球學術界和社會上都響噹噹的大獎！最近有個消息，第七屆唐獎的得主，也就是那些厲害的贏家們，就要在六月中旬公布了。每年到了這個時候，國際上許多人都會特別關注，看是哪些在各領域有傑出貢獻的人物會獲得這份殊榮。</p><p>唐獎可不是一般的獎項喔。它每兩年頒發一次，主要是為了表揚在「永續發展」、「生技醫藥」、「漢學」和「法治」這四個領域做出卓越貢獻的人。想想看，這幾個領域都和我們地球的未來、人類的健康、文化的傳承以及社會的公平正義息息相關，超級重要的！</p><p>設立唐獎的目的，就是希望能夠鼓勵全世界的學者專家們，繼續投入這些重要領域的研究與實踐。創辦人希望透過這個獎項，讓更多人看見那些默默付出、努力改善世界的人，讓他們的光芒被看見，也激勵更多年輕人未來也能投身這些有意義的工作。所以，這個獎項不僅僅是表揚個人，更是鼓勵整個社會向前進步的力量。</p><p>據中央社的報導，這屆得主揭曉的確切時間就在六月中旬。屆時，唐獎基金會將會陸續舉辦線上記者會，公布每一獎項的獲獎人，並說明他們獲獎的具體成就。雖然正式的頒獎典禮要等到九月才會舉行，但大家現在就已經很期待，想知道究竟是哪些超級英雄會站上世界的舞台，接受這份國際級的肯定了！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Global Academic Event: 7th Tang Prize Winners to Be Announced Mid-June",
-    "enContent": {
-      "basic": "The winners of the 7th Tang Prize, a highly respected international award, are set to be announced in mid-June. This biennial prize recognizes significant contributions in four key areas: Sustainable Development, Biopharmaceutical Science, Sinology, and Rule of Law.",
-      "intermediate": "Often dubbed the 'Asian Nobel Prize,' the Tang Prize is awarded every two years to celebrate individuals who have made outstanding achievements that benefit humanity. The upcoming announcement in mid-June will reveal the laureates across its four distinct categories, highlighting their impactful work on global challenges and cultural understanding.",
-      "advanced": "The Tang Prize, established with a vision to inspire future generations and promote global progress, is gearing up for its seventh recipient announcement in mid-June. This prestigious international award honors leading minds in Sustainable Development, Biopharmaceutical Science, Sinology, and Rule of Law, underscoring the critical importance of these fields to the well-being and advancement of human society. The foundation will hold online press conferences to detail the laureates' specific achievements, leading up to the official award ceremony in September."
-    },
-    "vocabulary": [
-      {
-        "word": "Prestigious",
-        "zh": "有聲望的，享有盛譽的：形容一個獎項、學校或工作，因為它的高品質或重要性，而受到大家的尊敬和高度評價。"
-      },
-      {
-        "word": "Laureate",
-        "zh": "得主，獲獎人：指那些因為在某個領域表現非常出色，而獲得重要獎項或榮譽的人。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-06-09",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3QWdNNVdTNXVveGpPSWIyWlB0Ym82TjRUb3BFSU03N0pwWThsU2Jyb050ckJBY08tOXIyTHR2X1pqb0k5NGVIZmtJcWFYVXZVQnVnbnRfYS1lcjBEaGthc0JIb2w?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "海洋大作戰：全球聯手解鎖藍色潛力，對抗氣候變遷！",
-    "zhSummary": "全球科學家和環保團體正積極展開一場「競賽」，探索如何增強海洋吸收碳、減緩氣候變遷的能力。從保護海岸生態到開發新技術，海洋作為地球最大的碳吸納庫，正成為對抗全球暖化的關鍵角色。",
-    "zhContent": "<p>你或許知道地球越來越熱，這叫氣候變遷。空氣中二氧化碳太多是主因，但你知道海洋其實是吸收這些二氧化碳的大功臣嗎？最近全球各地的科學家和研究人員，就像在參加一場「大競賽」，他們都在絞盡腦汁，想辦法讓海洋發揮更大的潛力，幫助我們對抗氣候變遷，讓地球重新涼快起來。</p><p>這場「海洋作戰」有很多種策略。其中一個重要的方向是保護「藍碳生態系」。想像一下，紅樹林、海草床、鹽沼這些海岸邊的濕地，它們就像是海洋裡的超級海綿，能高效地把二氧化碳吸收到泥土裡。因此，很多國家都在努力復育這些濕地，或是在這些地方推動大型的海藻養殖計畫，因為海藻生長快速，也能吸收大量的碳。目標是透過這些自然的方式，讓海洋能鎖住更多的碳。</p><p>之所以會稱作「競賽」，是因為時間非常緊迫。全球暖化的影響越來越明顯，大家都想盡快找到有效、而且能大規模實施的解決方案。所以，不同團隊、不同國家都在研究各種可能性，有些在研究如何精準地監測海洋的碳吸收能力，有些則在探索更創新的技術，比如調整海洋的化學性質，讓它能吸收更多的大氣中的碳。這些努力都是為了盡可能地利用海洋的天然優勢。</p><p>目前，這些計畫大多還在研究、測試或初步實施的階段。科學家們正在仔細評估各種方法的效益和可能帶來的影響，確保它們在幫助地球的同時，不會對海洋生態造成傷害。這是一項長期而艱鉅的任務，需要全球共同努力才能看到成效，但海洋確實為人類對抗氣候變遷帶來了新的希望。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到，全球正在「競賽」解鎖海洋的潛力，請問其中有哪些具體的方式，被提到可以幫助海洋對抗氣候變遷？",
-      "生活與未來：你覺得如果這些保護海洋、利用海洋潛力的方式成功了，可能會對我們的日常生活或是地球環境帶來什麼樣的實際影響？",
-      "獨立思考提案：新聞中提到科學家在評估這些方法，並確保不會對海洋生態造成傷害。如果你是其中一位科學家，你會特別注意哪些潛在的風險，以及如何避免？"
-    ],
-    "enTitle": "The race to bolster the ocean’s potential to combat climate change - Reuters",
-    "enContent": {
-      "basic": "Scientists around the world are in a hurry, like a race, to find ways the ocean can help fight climate change. The ocean naturally soaks up carbon dioxide, which is a gas that makes the Earth hotter. People are trying to make the ocean even better at this. They are looking at things like protecting wetlands along the coast, which are great at storing carbon. They are also thinking about growing more seaweed in the ocean because seaweed grows fast and takes in a lot of carbon. The goal is to use the ocean's power to make our planet cooler.",
-      "intermediate": "A global effort is underway, often described as a 'race,' to enhance the ocean's capacity in combating climate change. The ocean is Earth's largest natural carbon sink, absorbing significant amounts of atmospheric carbon dioxide. Researchers and environmental groups are exploring various strategies. One key approach involves safeguarding and restoring 'blue carbon ecosystems' such as mangrove forests, seagrass meadows, and salt marshes. These coastal wetlands are highly effective at sequestering carbon in their soils. Additionally, there's growing interest in large-scale seaweed cultivation, as seaweed rapidly absorbs CO2 during its growth. These initiatives aim to leverage natural processes to mitigate rising global temperatures.",
-      "advanced": "A concerted global endeavor is intensifying, characterized by a 'race' to unlock and bolster the ocean's intrinsic potential in mitigating climate change. Functioning as the planet's paramount natural carbon sink, the ocean plays a critical role in sequestering atmospheric carbon dioxide. Scientific communities and environmental organizations are actively pursuing multifaceted strategies to amplify this capability. Prominent among these is the preservation and rehabilitation of 'blue carbon ecosystems,' including mangroves, seagrass beds, and salt marshes, recognized for their superior carbon sequestration efficiency within their sedimentary layers. Furthermore, significant research and pilot projects are focused on expanding macroalgae (seaweed) cultivation, leveraging its rapid biomass accumulation and associated carbon uptake. The urgency of these initiatives underscores the escalating imperative to identify scalable, ecologically sound solutions for climate change adaptation and mitigation, with careful consideration given to potential ecological impacts."
-    },
-    "vocabulary": [
-      {
-        "word": "bolster",
-        "zh": "增強、支持：想像你要給一個快要倒下的東西加固，讓它更堅固、更強壯，這就是bolster的意思。在這裡是指增強海洋對抗氣候變遷的能力。"
-      },
-      {
-        "word": "combat",
-        "zh": "對抗、打擊：就像戰士在打仗一樣，努力地去面對一個困難或敵人。新聞裡是指人類「對抗」氣候變遷這個大挑戰。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-06-09",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdzJOQ0tnQy1lODJ3MzJwYk1BSGpjWDExOE1KbUZDOW14RXBCbmliZDhJajVXQWw2WTBvTktVcHVWemlKMWhUcWJXdmJ5R1Z1RFNQZUVzYUZBOVFQc2pjY1JLZzJVdGJIUEd1S3RNSWtGM2oyTk0yRWNJak5XSnZoelZ3Z2xUSDlOTjlKaHhSZVh0emxkY19rdzlWb3htcXEyekR3WkMyUHdSSjhrQTQzNEtLQlI3am83THBFSVpwbGY1ZWV4UV9BR3NDdw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "專家解密：讓產品安全可靠的「品質文化」是怎麼煉成的？",
-    "zhSummary": "這篇報導探討國際監管事務專業人士協會 (RAPS.org) 專家提出的「品質文化」概念，解釋了為何醫療、製藥等產業需要讓公司全員都重視產品品質，以及如何透過領導、培訓和溝通來打造這種文化，確保消費者使用的產品安全有效。",
-    "zhContent": "<p>近期在國際的監管事務專業人士協會 (RAPS.org) 網站上，一篇由專家分享的文章引起了許多關注。這篇文章主要談論的是，對於那些製造藥品、醫療器材或是其他對人體健康有重要影響產品的公司來說，如何建立一種充滿活力的「品質文化」。專家強調，讓公司內部所有人都將產品品質視為最重要的事情，是確保我們日常使用的產品安全可靠的關鍵。這不只是一句口號，而是一種深入公司每個角落的實際做法。</p><p>所謂的「品質文化」，簡單來說，就是讓公司裡從上到下，每一位員工都真心相信並實踐高品質的工作標準。專家指出，這不光是品管部門的責任，而是從產品設計、原料採購、生產製造到最終銷售，每個環節都必須將品質擺在第一位。文章提到的建議包括：高層領導要以身作則，明確傳達品質的重要性；還要確保員工獲得足夠的培訓，了解如何達到高標準；並建立開放的溝通管道，讓大家能隨時提出品質相關的建議。</p><p>為何這樣的品質文化如此重要？在醫療、製藥等高度規範的產業，產品若有任何瑕疵，都可能帶來嚴重後果，輕則影響使用體驗，重則危害生命安全。專家普遍認為，光靠事後檢驗產品不足夠，必須從源頭就將品質意識融入整個生產流程。這種積極預防的態度，能幫助企業減少錯誤、避免產品召回，並贏得消費者信任。這不僅是保護企業，更是對廣大使用者的承諾。</p><p>這類來自專業組織的討論與建議，旨在幫助全球相關企業持續改進其品質管理系統。透過專家分享，業界能學習更多實用方法，讓「高品質」不僅是生產線的檢查項目，更成為企業日常運作不可或缺的一部分。最終目標是確保送到消費者手中的產品，無論是藥物或醫療器材，都能達到最高標準的安全與效能。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Expert Offers Tips on Developing a Thriving Quality Culture",
-    "enContent": {
-      "basic": "An expert from RAPS.org shared advice on how companies can make sure their products are good and safe. They talked about something called a 'quality culture.' This means everyone in a company, from the boss to the newest worker, cares about making high-quality things, especially medicines or medical devices. It's not just about checking products at the end; it's about thinking about quality every step of the way, from making the first design to selling the final product. Experts say this helps stop problems before they happen and keeps people safe.",
-      "intermediate": "A recent article on RAPS.org highlighted an expert's insights into cultivating a 'thriving quality culture' within organizations. This concept is particularly crucial for companies manufacturing products that impact human health, such as pharmaceuticals and medical devices. The expert emphasized that true quality assurance extends beyond final product inspection; it requires every employee to be deeply committed to upholding high standards throughout the entire product lifecycle—from design and procurement to manufacturing and distribution. Recommendations included strong leadership commitment, comprehensive employee training, and fostering open communication channels where quality concerns can be freely discussed. This proactive approach aims to prevent errors, avoid recalls, and build consumer trust, ensuring product safety and efficacy.",
-      "advanced": "The Regulatory Affairs Professionals Society (RAPS.org) recently featured an expert's counsel on establishing a robust quality culture. This discourse underscores the imperative for firms operating in highly regulated sectors—notably pharmaceuticals and medical devices—to embed a pervasive commitment to quality across all organizational strata. The expert elucidated that a 'quality culture' transcends departmental responsibilities, necessitating a holistic integration of quality-centric principles from initial product conception through to post-market surveillance. Key recommendations encompassed visible leadership endorsement of quality objectives, continuous professional development for personnel, and the institutionalization of transparent feedback mechanisms. Such an anticipatory paradigm is deemed essential for mitigating product deficiencies, averting costly recalls, and reinforcing public trust in critical healthcare commodities, thereby upholding stringent safety and efficacy benchmarks."
-    },
-    "vocabulary": [
-      {
-        "word": "Quality",
-        "zh": "品質。指產品、服務或工作流程達到一定標準的好壞程度。例如，一個「高品質」的玩具，代表它很耐用、玩起來很安全。"
-      },
-      {
-        "word": "Regulatory",
-        "zh": "監管的；法規的。指政府或特定機構為確保產品或服務符合安全、效能等標準而制定的規則和管理。例如，藥品生產需要遵守很多「監管」規定，以確保藥物安全有效。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-06-09",
-    "sourceName": "RAPS.org",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFFoM2NqTmNoNVV3Y2pITmNEdGs4X0FQVTFpOWJHZEN1anhFY1lUVXM2cGVHMHJYeFRHNVRMbTVMQW51dmRqRGZXUGhxNUIxTE5lb3ZvaVJLd3kyNkpZWXZFTDdLb01wVmxfNXk3YUQxczYwdzdQRXl6MG9fTzctMlE4anJ4WEVPWUdkMVpDV0RoZ0tIRlpGOG9n?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "小心AI假影片！英格蘭銀行警告：深偽詐騙正在流行",
-    "zhSummary": "英格蘭銀行發出緊急警告，提醒民眾要小心運用人工智慧（AI）製作的「深偽」（deepfake）假影片和音檔。這些超逼真的假內容可能會被詐騙集團用來騙錢，大家得特別留意！",
-    "zhContent": "<p>英國的中央銀行，也就是英格蘭銀行，最近發出了一個很重要的警告：大家要小心那些利用人工智慧（AI）來騙錢的詐騙手法。他們特別提到，市面上出現了一種用AI做的假影片，內容是英國政治人物奈傑爾．法拉奇（Nigel Farage）和英格蘭銀行總裁安德魯．貝利（Andrew Bailey）在吵架。這段影片看起來很真，但其實是完全假的。</p><p>這種假影片我們叫做「深偽技術」（deepfake）。簡單來說，就是用AI技術把一個人的臉或聲音，完美地合成到另一個影片或聲音上，讓它看起來就像是真人說的或做的。這次傳播的法拉奇和貝利的「吵架」影片，就是這種技術的產物。詐騙集團很可能會利用這種超級逼真的假影片，來冒充名人或權威人士，誘騙大家相信一些假的投資機會，或是要求轉帳，目的就是騙取金錢。</p><p>英格蘭銀行之所以會發出這項警告，是因為他們觀察到AI技術越來越進步，使得製作這類以假亂真的詐騙內容變得非常容易。他們擔心，這些假影片和假音檔會讓一般民眾很難分辨真偽，進而更容易上當受騙。銀行方面的官員指出，詐騙集團的手法越來越高明，民眾需要提高警覺，尤其是當遇到一些聽起來好得不像真的「投資機會」時，更要特別小心。</p><p>因此，英格蘭銀行呼籲所有民眾，在收到任何可疑的訊息、電話或影片時，一定要再三確認其真實性。如果有人聲稱自己是銀行或金融機構的人，並且要求你提供個人資料或轉帳，務必先透過官方管道查證。他們的重點就是提醒大家要提高警覺，保護好自己的財產，不要因為這些看起來很真實的假訊息而蒙受損失。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，英格蘭銀行為什麼要發出警告？具體提到了哪些詐騙手法？",
-      "生活與未來：你覺得「深偽技術」在生活中還有可能被用在哪些地方？對我們的未來會造成什麼實際影響？",
-      "獨立思考提案：針對這類利用AI進行的詐騙，你覺得除了銀行發出警告，政府或科技公司還可以怎麼做會更好？"
-    ],
-    "enTitle": "Bank of England Warns of AI Deepfake Scams Amid Spreading Fake Videos",
-    "enContent": {
-      "basic": "The Bank of England has warned people about new scams using artificial intelligence (AI). They are worried about \"deepfakes,\" which are fake videos or audio created by AI to look or sound real. For example, a fake video showing two important people, Nigel Farage and Andrew Bailey, arguing has been spreading. Scammers might use these fake videos to trick people into giving away money or investing in fake schemes. The Bank wants everyone to be careful and check if things are real before believing them.",
-      "intermediate": "The Bank of England recently issued a serious warning regarding the increasing threat of AI-powered financial scams. This alert was prompted by the circulation of \"deepfake\" videos, such as one falsely depicting a confrontation between politician Nigel Farage and Bank of England Governor Andrew Bailey. Deepfakes are sophisticated AI-generated media that can realistically mimic a person's appearance and voice. The concern is that fraudsters could leverage these highly convincing fake videos to impersonate officials or create deceptive investment opportunities, thereby defrauding the public. The Bank urges vigilance, particularly when encountering unsolicited financial offers.",
-      "advanced": "The Bank of England has sounded the alarm on the escalating sophistication of AI-driven financial scams, citing the proliferation of deepfake content as a significant concern. Specifically, the central bank highlighted a widely circulated deepfake video purporting to show a contentious exchange between politician Nigel Farage and Governor Andrew Bailey. Deepfakes, which utilize advanced artificial intelligence to create hyper-realistic fabricated audio and visual media, pose a substantial risk. The Bank fears that these convincing fakes could be deployed by fraudsters to impersonate authoritative figures or legitimize fraudulent investment schemes, thereby extracting funds from unsuspecting individuals. Consequently, the Bank is advising the public to exercise extreme caution and verify the authenticity of all unsolicited financial communications and opportunities."
-    },
-    "vocabulary": [
-      {
-        "word": "Deepfake",
-        "zh": "深偽技術 (shēnwěi jìshù)。這是一種利用人工智慧技術，把某個人的臉或聲音合成到另一個影片或音檔上，讓它看起來或聽起來跟真的一樣，但其實是假的。"
-      },
-      {
-        "word": "Scam",
-        "zh": "詐騙 (zhàpiàn)。指的是一種欺騙行為，通常是為了騙取別人的錢財或個人資訊。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-06-09",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVl92X0JPaFlCdFR1Tk9kd0tWamd1bWNzVkhYdUE5U09KNm1xVnJvSnNiMEQxU1U0UF81RkNBZTBrU2lNOTA3X1AzNXQxa3Nud2RZSUNLVUdQOEtDV216a3E3bVhtckUwTzJFejA0SldFejZrRzlXN3pEbWY3YlU4bk13ckZlRlF4dVRuUDdrT0tLWWlveTRmYlM3Y2I0TTNHOFhKSkt2aU5fS1lwbmpMTTJjdDFteWNVR1Z2YXpYWkJDaW1MTDZIeHRiU3M?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "海上英雄現身！無人機驚險救援美國直升機組員",
-    "zhSummary": "美國一架直升機意外迫降海上，幸好一架設計特殊的「海上無人機」即時趕到，為受困組員提供關鍵協助，最終所有人平安獲救。",
-    "zhContent": "<p>想像一下，你乘坐的直升機突然發生了意外，墜落在廣闊的大海上，四周只有冰冷的鹹水。這時候，如果有一個意想不到的「英雄」出現，把你從危險中救出來，是不是很神奇？最近，美國海軍的直升機組員就經歷了這麼一場驚險萬分的考驗，而讓他們脫險的，竟然不是傳統的救生艇或大型船隻，而是一艘特別的「海上無人機」！這場成功的救援行動，讓大家對這種新科技刮目相看。</p><p>根據外國媒體報導，這起事件發生在一次例行任務中。當直升機因故必須迫降海面時，機上的組員立即面臨了生命威脅。緊急救援小組收到訊號後，迅速派遣了一架名為「海上無人機」的特殊載具前往現場。這種無人機跟我們常見的空中無人機不一樣，它設計成能在海上航行，可以承受波濤洶湧的環境。抵達現場後，它能夠靠近遇險的組員，提供初步的協助，例如作為浮力支援，或者投遞求生裝備。</p><p>這艘海上無人機的厲害之處在於，它不需要有人駕駛，可以在危險或人難以到達的區域執行任務。在這次救援中，它展現了高度的機動性和穩定性，讓救援人員可以更有效率地評估狀況並規劃後續的救援步驟。它就像一個小型的移動平台，為等待救援的組員提供了寶貴的臨時庇護。這類無人機通常配備有先進的導航系統和通訊設備，能夠即時傳送現場影像和資訊回指揮中心。</p><p>多虧了這架海上無人機的即時協助，受困的直升機組員才能夠在救援人員抵達前保持安全，最終全部被成功救起，沒有人因此受到嚴重傷害。這次的事件清楚地證明了，在高風險的海上救援任務中，像海上無人機這樣的創新科技，確實能發揮關鍵作用，為救援行動增添了一層額外的安全保障。這也讓我們看到了未來救援工作更多元的可能性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，海上無人機在救援任務裡扮演了哪些重要角色？",
-      "生活與未來：你覺得如果有一天，像這樣的高科技無人載具也能應用在我們的日常生活中，會帶來哪些方便或需要注意的地方？",
-      "獨立思考提案：針對這類無人機的應用，你覺得還有哪些潛在的危險或挑戰，是我們在開發時需要考慮的？"
-    ],
-    "enTitle": "Sea Hero Appears! Drone Dramatically Rescues US Helicopter Crew",
-    "enContent": {
-      "basic": "A US helicopter crashed into the sea. Luckily, a special \"sea drone\" arrived quickly. It helped the crew until other rescuers came. Everyone was safe! This shows how new technology can save lives.",
-      "intermediate": "A recent incident saw a US helicopter crew stranded at sea after an unexpected landing. A unique \"sea drone,\" an uncrewed vehicle designed for maritime environments, was dispatched to the scene. It provided crucial initial support, acting as a temporary platform and aiding in the crew's safety until traditional rescue units arrived. This successful operation highlights the growing role of advanced uncrewed technology in high-stakes search and rescue missions.",
-      "advanced": "In a remarkable demonstration of emerging maritime technology, a US helicopter crew found themselves in a perilous situation after an unforeseen incident necessitated an emergency landing at sea. Rapid deployment of a sophisticated \"sea drone\"—an autonomous surface vessel engineered for robust operation in challenging marine conditions—proved instrumental in their rescue. The uncrewed platform effectively provided immediate on-site assistance, offering stability and communication capabilities that were critical in maintaining the crew's safety and facilitating the subsequent successful retrieval by conventional rescue assets. This event underscores the transformative potential of autonomous systems in enhancing the efficiency and safety of search and rescue operations."
-    },
-    "vocabulary": [
-      {
-        "word": "Drone",
-        "zh": "無人機（一種不需要有人坐在裡面操控，卻能透過遠端遙控或設定程式來執行任務的機器，像空中無人機或海上無人機。）"
-      },
-      {
-        "word": "Rescue",
-        "zh": "救援（在危險或緊急情況下，幫助受困或受傷的人脫離困境、獲得安全。）"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-06-09",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVkpkVTlWNjVDTThVbVhoMmJLVjVjSmhYcUlBQ1ppSjdQdHExa2ZLQk9ONTV2cHZ4dlRMcmZoOVZCZUFDMm1KRGcta0VKMHJQTllaTzZaVDdwaGZYbk9mLTdFNEY2SldydEZMSXdBSGVnOFk5azN6M1RjSXZOU3Q1RklOamhnOEhSS3labWNFM3hEcjZLQnllcHNNWGdBMGpVekFtRg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "2026年LGBTQ+權利現況：NPR報導揭示美國各州的複雜局面",
-    "zhSummary": "NPR在2026年發布一份報導，指出美國LGBTQ+權利現況在各州之間呈現出複雜且不一致的發展，部分州擴大了保護，另一些州則推出了限制性措施，顯示權利鬥爭仍持續進行。",
-    "zhContent": "<p>美國全國公共廣播電台（NPR）最近發布了一份報導，主要探討了2026年美國國內LGBTQ+（女同性戀、男同性戀、雙性戀、跨性別及酷兒等）權利的現狀。這份報導指出，全國各地在保障這些群體權益的法律與政策上呈現出相當複雜且不一致的局面，反映了不同州份之間的顯著差異。它不僅僅是一個單一事件，而是一份全國性的趨勢分析，概述了這些權利在政治環境中的起伏。</p><p>根據NPR的報導，到2026年為止，美國部分州份在保護LGBTQ+群體權益方面取得了明顯進展，例如通過了禁止基於性傾向和性別認同的歧視法律，涵蓋了就業、住房和公共服務等領域。然而，同時也有不少州份推出或加強了限制性措施。這些措施有的針對跨性別青少年，例如限制他們參與體育賽事或獲取性別肯定醫療服務；有的則試圖縮減校園內對LGBTQ+議題的討論空間。這些不同的法律方向，使得不同州的LGBTQ+人士面臨截然不同的生活環境和法律保障。</p><p>報導進一步分析，這種複雜的現狀主要源於美國社會內部持續的文化和政治分歧。支持者認為，擴大LGBTQ+權利是實現平等和公正的關鍵，他們不斷透過訴訟和倡議來推動立法進步。而反對者則常以宗教自由、家庭價值觀或保護兒童為由，主張維持現有秩序或推動更嚴格的法規。最高法院的一些裁決雖然為部分權利提供了聯邦層面的保護，但許多具體政策的制定權仍掌握在各州手中，這導致了州與州之間巨大的差異。</p><p>總體來說，NPR的報告描繪了一個權利保障既有進展也有挑戰的2026年。沒有一個統一的「最終結果」，而是持續不斷的法律鬥爭和政策調整。一些群體在某些地區獲得了更多認可和保護，但在另一些地區，他們的權利則面臨威脅甚至倒退。這項報導的結論是，對於LGBTQ+群體而言，權利的「狀態」並非靜止不變，而是一個持續演變且充滿變數的政治戰場。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The State of LGBTQ+ Rights in 2026: An NPR Report Reveals a Complex Landscape Across US States",
-    "enContent": {
-      "basic": "NPR reported in 2026 that LGBTQ+ rights in the US are complicated. Some states have new laws to protect these groups, while other states have laws that limit their rights. It's a mixed situation across the country.",
-      "intermediate": "According to an NPR report from 2026, the landscape of LGBTQ+ rights across the United States is highly varied. While some states have enacted progressive legislation to enhance protections against discrimination, other states have implemented restrictive policies, particularly concerning transgender youth and educational content. This diverse political environment reflects ongoing debates and legal challenges.",
-      "advanced": "NPR's 2026 comprehensive analysis highlights a fragmented and contentious environment for LGBTQ+ rights across the American states. The report details a dual trajectory where certain jurisdictions have advanced legislative frameworks to bolster non-discrimination protections, even as others have legislated significant limitations, notably impacting gender-affirming care and public discourse for transgender individuals. This heterogeneous evolution underscores the deep political and social divisions influencing policy at the sub-national level."
-    },
-    "vocabulary": [
-      {
-        "word": "LGBTQ+",
-        "zh": "女同性戀、男同性戀、雙性戀、跨性別及酷兒等群體的簡稱。這些詞彙代表了不同性傾向和性別認同的人，像男生喜歡男生，女生喜歡女生，或者覺得自己身體的性別和內心認同的性別不一樣。"
-      },
-      {
-        "word": "Rights",
-        "zh": "權利。指的是法律或社會給予每個人的基本保障和自由，像是受教育的權利、表達意見的權利，或者不被歧視的權利。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-06-09",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUpSbUtxd21FOThFSk0tTFg3Q0NJZHdLWVY2N09nZE80WEd4SFkybDFCWGM1bHBuTWduTl9mYk9rU2VqS3dpbF9SdmFzYnVDRmRmdUtoYlphbUpPVUJMNGdScE5ZSjAwSnVMeTFBMFNVcWVWcnZNbXQ3MUFGcnFQdzItcFIzWTh3RE1iMTB0TUE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "秘魯大選結果膠著難分 總統寶座懸而未決",
-    "zhSummary": "南美洲國家秘魯的總統大選結果異常接近，導致目前無法立刻宣布最終勝選者，整個國家正經歷一段充滿不確定性的漫長等待期。",
-    "zhContent": "<p>秘魯大選結果難產，全國進入漫長等待。最近，南美洲國家秘魯舉行了一場非常重要的總統選舉，全國人民都希望能選出一位新的國家領導人。然而，這次選舉的過程卻出乎意料地緊張刺激，因為兩位主要候選人的得票數實在太接近了，讓選舉結果遲遲無法確認，整個國家因此陷入了一段充滿問號的等待期。</p><p>這場被形容為「太過接近而難以宣布結果」的選舉，意味著選票的差距小到幾乎可以忽略不計。當大部分選票開出來後，兩位領先的候選人，他們的得票率幾乎是打平的狀態。這種情況下，選舉委員會必須非常小心地處理剩下的每一張選票，確保每個投票都被精準計算，甚至可能需要檢查一些有爭議的選票。這不僅僅是數數那麼簡單，還涉及到法律程序。</p><p>這麼接近的選舉結果，通常會讓雙方陣營的支持者感到焦慮。在這種狀況下，選舉委員會的工作壓力非常大，他們需要時間去核對所有數據，包括海外選票，並處理可能出現的申訴。有些時候，微小的差距甚至會導致重新點票的要求，讓最終結果的公布時間一再延後。這對於國家治理來說，會帶來一段不穩定的時期，因為新的政府團隊無法馬上到位。</p><p>因此，秘魯人民和全世界關注這場選舉的人們，都必須有心理準備，這次的總統大選結果可能不會在短時間內揭曉。依照外國媒體的報導，這種膠著的狀況可能還會持續好幾個星期，直到所有的選票都經過仔細確認，並且任何潛在的法律爭議都得到解決後，我們才能知道秘魯的下一任總統究竟是誰。目前，大家都在等待官方的最終確認。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，秘魯選舉結果「太過接近而難以宣布」具體是什麼意思？這會造成哪些困難？",
-      "生活與未來：你覺得這種長時間無法確定國家領導人的情況，會對秘魯人民的日常生活造成什麼實際影響？",
-      "獨立思考提案：針對這次選舉的膠著狀況，你認為選舉委員會除了重新點票和處理申訴外，還可以怎麼做來提高透明度或加快進度？"
-    ],
-    "enTitle": "Peru's Election Too Close to Call, Weeks of Uncertainty Ahead",
-    "enContent": {
-      "basic": "Peru recently held a very important election to choose its new president. But the results are incredibly close. Two main candidates have almost the same number of votes. This means it's 'too close to call,' and no winner can be announced yet. People might have to wait for weeks to know who won.",
-      "intermediate": "Peru's presidential election has plunged the South American nation into a period of prolonged uncertainty. With votes meticulously tallied, the leading candidates are separated by an extremely narrow margin, rendering the outcome officially 'too close to call.' This situation necessitates a careful review of all ballots, potentially including recounts and legal challenges, delaying the announcement of the definitive winner for several weeks.",
-      "advanced": "The recent Peruvian presidential election has culminated in an unprecedentedly tight race, precipitating a period of significant political uncertainty. Both front-running candidates have garnered almost identical vote percentages, leading electoral authorities to declare the contest 'too close to call.' This precarious equilibrium mandates an exhaustive verification process, encompassing the review of every ballot, the adjudication of potential irregularities, and the resolution of any legal challenges, thereby extending the final declaration of the presidential victor for an anticipated several weeks. The nation now faces an interim of administrative limbo while awaiting the definitive official confirmation."
-    },
-    "vocabulary": [
-      {
-        "word": "Uncertainty",
-        "zh": "不確定性：指事情的結果還不清楚、沒有定論的狀態，讓人不知道接下來會發生什麼。"
-      },
-      {
-        "word": "Election",
-        "zh": "選舉：一種讓人民投票選出代表或領導人的過程，通常是選總統、市長或民意代表。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-06-09",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QRENFdVBicC02WHVUbUVaaTM4aktvdDJ3aHpTVFoyWEdlQVgwT0NXdjBsZV9YQkxhZlRCV3Vqa1dhZ2hEeXloRzVwMDdOaHNhamZEUzg0T3ZZdw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "「強人」看歐洲攏係誤會？《經濟學人》點破歐洲真面目",
-    "zhSummary": "這則報導探討為何有些國家領導人對歐洲不滿，以及《經濟學人》雜誌如何從經濟實力、民主穩定等角度，解釋歐洲並非他們想像中那麼弱勢或愛管閒事。",
-    "zhContent": "<p>最近，國際上有些國家，他們的領導人（我們姑且稱他們為「強人」）對於「歐洲」抱持著一些特別的看法。這些領導人，有些人覺得歐洲太軟弱、太愛說教，或是太過強調某些他們不認同的價值觀。這讓他們經常對歐洲抱持著質疑甚至是不滿的態度。但一本很有名的外國雜誌《經濟學人》最近發表了一篇文章，特別針對這種現象進行了分析，指出這些「強人」可能對歐洲有些誤解，而且他們對歐洲的厭惡其實沒有必要。</p><p>根據這篇文章的觀察，這些「強人」通常認為歐洲，特別是歐盟這個龐大的組織，是一個不夠團結、反應太慢的政治實體。他們可能覺得歐洲國家常常因為內部意見不合而難以快速做出決定，導致在國際事務上顯得沒有足夠的力量和影響力。此外，這些領導人也可能不喜歡歐洲強調的那些「自由開放」的價值觀，像是對人權、民主、多元文化的重視，因為這和他們自己國家比較保守或集權的治理方式很不一樣，甚至感覺歐洲在「干涉」他們的內政。</p><p>不過，《經濟學人》則提出了不同的角度，認為這些觀點有些偏頗。文章指出，雖然歐洲表面上看起來有許多挑戰和內部爭議，但它其實擁有巨大的經濟實力，光是單一市場的規模，就讓歐洲國家即使面對全球競爭，仍然具有很強的議價能力和影響力。而且，歐洲的民主制度和穩固的法治基礎，其實讓社會和經濟能夠保持長期的穩定性，這份穩定性是很多新興強權國家都還難以實現的。</p><p>這本雜誌還強調，歐洲這種由多元國家組成的特性，雖然有時會帶來政策上的協商遲緩，但同時也證明了不同背景的國家能夠在共同的原則下合作，共同解決問題。儘管外界的批評聲浪不斷，歐洲仍在國際舞台上扮演著不可或缺的關鍵角色，持續影響著全球的政治、經濟與社會發展方向。所以，《經濟學人》的看法是，那些「強人」領導人可能需要更全面地看待歐洲，而不是僅僅看到他們不喜歡的部分。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，為什麼有些「強人」領導人會對歐洲感到不滿？他們批評歐洲的點主要有哪些？",
-      "生活與未來：你覺得《經濟學人》提出的反駁觀點，像是歐洲的經濟實力和穩定性，對這些「強人」的批評會造成什麼樣的影響？",
-      "獨立思考提案：針對「強人」與歐洲之間的這種觀點差異，你認為雙方可以如何增進理解、減少誤解？"
-    ],
-    "enTitle": "Why strongmen are wrong to loathe Europe",
-    "enContent": {
-      "basic": "Some powerful leaders don't like Europe, thinking it's weak or too preachy. The Economist magazine says they are wrong. Europe has a strong economy and stable governments, even with different countries working together. It's a big player in the world, despite ongoing challenges.",
-      "intermediate": "Certain authoritarian leaders often criticize Europe, viewing it as slow, disunited, or too liberal. However, The Economist argues that these \"strongmen\" misunderstand Europe's strengths. The continent boasts a huge single market and robust democratic institutions, providing significant economic power and stability. Despite internal debates, Europe remains a crucial global influencer, challenging the critics' perceptions.",
-      "advanced": "The Economist challenges the narrative propagated by certain authoritarian \"strongmen\" who frequently express disdain for Europe, perceiving it as a weak, overly liberal, and indecisive entity. The publication contends that such leaders overlook Europe's enduring strengths, particularly its formidable economic single market and deeply entrenched democratic and rule-of-law institutions, which foster remarkable stability and influence. Despite internal complexities inherent in a multi-state union, Europe continues to exert significant global political and economic leverage, suggesting its detractors misjudge its true resilience and impact."
-    },
-    "vocabulary": [
-      {
-        "word": "strongmen",
-        "zh": "強人 (qiángrén) - 通常指那些擁有強大權力，以果斷甚至專制方式治理國家的領導人，他們常常強調國家主權和秩序，不太喜歡被干預。"
-      },
-      {
-        "word": "loathe",
-        "zh": "厭惡 (yànwù) - 意思是『非常討厭』、『極度憎恨』。就像你對某件事感到非常非常不喜歡，完全不想接觸它，甚至想到就覺得不舒服。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-06-09",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWpKOGhzUUZlbWltbUZGb21sbHVxU0hKbm85ajRGTmdGREhoakpZc0oxdXNaTEhvM20tZ0dkYWFlSWxlckQ5clV5WXRZRGdHRm82LU5xRXk4Q2ZZclNjTU5UYTJMb0hEb3NGd0lGazUyeFpIWlBMZWJUSHN5aWtrd3NVbnBEUEpNUmlYZHBGd282NHpURHc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非農場變毒窟：墨西哥集團的跨國冰毒工廠驚魂",
-    "zhSummary": "一則國際新聞揭露，墨西哥的販毒集團將南非的農場秘密轉變成冰毒製造中心。這些集團利用當地環境進行偽裝生產，最終被警方與國際合作夥伴查獲，揭示了跨國犯罪的新模式。",
-    "zhContent": "<p>最近一則新聞讓許多人感到震驚：遙遠的南非，本該是農作物生長的地方，竟被發現成為墨西哥販毒集團大規模製造冰毒的秘密基地。這些犯罪集團運用巧妙的手法，將原本單純的農場變成了隱密的化學工廠，讓南非當局面臨了前所未有的挑戰。</p><p>根據報導，這些墨西哥的販毒集團並非直接在南非公開活動，而是透過當地代理人，悄悄地租用或買下偏遠地區的農場。他們對外宣稱是在經營農業生產，實際上卻從國外走私大量的製毒化學原料和專業設備進入這些農場。在這些看似普通的農舍和倉庫裡，他們訓練當地人進行冰毒的合成與提煉，將農場轉變為高效運作的毒品生產線。</p><p>專家分析，墨西哥販毒集團之所以選擇南非，主要有幾個原因。首先，南非幅員遼闊，偏遠農村地區的監管相對困難，提供了絕佳的隱蔽性。其次，南非作為非洲大陸的門戶，擁有便捷的海空運輸網絡，使得生產出的冰毒可以更容易地被運往歐洲、亞洲等國際市場，擴大其銷售版圖。此外，當地部分地區的經濟困境，也可能讓一些人更容易被高薪誘惑，參與製毒活動。</p><p>面對這樣的跨國犯罪挑戰，南非警方並沒有坐視不理。在國際刑警組織和其他國家情報機構的協助下，他們展開了深入的調查。最終，警方成功鎖定了數個被用作冰毒工廠的農場，並進行了突擊搜查。行動中，不僅查獲了數噸的冰毒成品和半成品，還逮捕了多名涉案人員，包括來自墨西哥的製毒專家，有效打擊了這些集團在南非的擴張計畫，並將這些農場重新奪回，結束了毒品生產的惡夢。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，墨西哥犯罪集團選擇在南非農場製造冰毒的原因有哪些？",
-      "生活與未來：你覺得這個事件對南非當地農場的聲譽和經濟會造成什麼實際影響？",
-      "獨立思考提案：針對這類跨國販毒利用偏遠地區設廠的問題，你覺得除了警方查緝外，還可以怎麼做會更好？"
-    ],
-    "enTitle": "How Mexican cartels turned South African farms into meth production hubs",
-    "enContent": {
-      "basic": "Mexican drug cartels have found a new way to make and sell drugs. They secretly used farms in South Africa to produce meth, also known as crystal meth. These farms were disguised as normal farming businesses. Police in South Africa, with help from other countries, found these secret drug factories. They arrested people involved and stopped the meth production.",
-      "intermediate": "Mexican crime organizations have expanded their operations by converting remote South African farms into clandestine meth production sites. They would lease or purchase properties, import chemical precursors and equipment, and then employ locals, training them to manufacture methamphetamine. This strategy allowed cartels to exploit South Africa's vast rural areas for secrecy and its strategic location as a gateway to international drug markets in Europe and Asia. Authorities launched investigations in response to this alarming development.",
-      "advanced": "A significant international investigation has revealed how sophisticated Mexican drug cartels established complex methamphetamine production facilities disguised as agricultural operations within South Africa. Leveraging the continent's extensive and often less regulated rural landscapes, these cartels systematically procured farms, imported essential chemical precursors and specialized equipment, and orchestrated large-scale meth synthesis. The strategic choice of South Africa was influenced by its expansive transport infrastructure, facilitating distribution to lucrative markets, and the potential for exploiting local socio-economic vulnerabilities. Collaborative efforts between South African law enforcement and international intelligence agencies ultimately led to the dismantling of these covert hubs, resulting in substantial seizures and arrests of key operatives."
-    },
-    "vocabulary": [
-      {
-        "word": "Cartel",
-        "zh": "卡特爾：指一群為了控制某種商品或服務的價格和市場，而秘密合作的商業組織，通常是指非法的販毒集團或犯罪組織。"
-      },
-      {
-        "word": "Meth",
-        "zh": "冰毒：一種會讓人上癮的強力毒品，科學名稱是「甲基安非他命」。吸食後會嚴重損害身體和精神健康。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-06-09",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmJCRk5Jc2VQeTZhb1cyUzdOTXdvcjJXVWEwWXEtOXBlbWVSOGdjRk9JVXJtbk5YVW1XWmx4cnNBajRfWEs4ZU1QaVNrVjhQUVJYQ3lCSkRGR3FOUmJCWTVKSll5bFcwTUV5UlQ5MG5qTlBWaE9DbmpDQW9DS1VXNkY4bTlkQXBYZTRtWXpiZUVwYU9WVTJXZ2tla2ZuUElTOEpvZ3lxNEdDcWJNU2U2M0Rn0gG3AUFVX3lxTE83a3E3N1JuUGNMTjBGNTRjQktvbVFZSWs1aXhDTHhZeGlSVmYxbEtOU1A4UFNNS3lRbm94SkQ2enZSNjhidDdXeVNNUDItU0U2Ykc2eEZZY1FZUVo0TUZaUlJvMmVfRHpxMzlGVm5aaWtKSGR1bnlZT2dmNHRMT1JXSUZtYkdJam02MDkzRUZhZWowYU1ILVkzdExGbktBSm9odWxZemNJR2UwZHhpSHc4SUhTQ0k2TQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "沙烏地阿拉伯七月石油可能降價？亞洲買家有機會省一筆！",
-    "zhSummary": "全球主要的石油生產國沙烏地阿拉伯，傳出可能在七月份調降賣給亞洲客戶的石油價格，主因是市場需求變弱。這對亞洲的石油買家來說，可能意味著能以更划算的價格購入原油。",
-    "zhContent": "<p>最近有條關於石油市場的消息引起了注意。全球重要的石油生產國——沙烏地阿拉伯，可能會在七月份的時候，調降他們賣給亞洲客戶的石油價格。這項潛在的改變，主要是因為市場上對石油的整體需求似乎正在減弱。</p><p>根據路透社的報導，這項潛在的價格調整，意味著在亞洲地區的石油買家，像是大型煉油廠等，在七月向沙烏地阿拉伯採購原油時，可能會支付比過去更低的費用。沙烏地阿拉伯通常會每個月根據全球市場的變化，來評估並決定他們的石油售價。這次可能調降的動作，暗示著目前亞洲市場的石油買氣確實不如之前的強勁。</p><p>市場上常說的「需求變弱」，意思是整體而言，想要購買或使用石油的國家或公司變少了。當消費者或企業對某項產品的購買意願下降時，供應商為了讓產品順利賣出，並維持他們的市場佔有率，就可能會考慮調低價格，來吸引更多的買家。這也是市場供需法則的一個常見現象。</p><p>總結來說，沙烏地阿拉伯預計在七月份銷往亞洲的石油價格，很有可能會出現調降。不過，這項消息目前仍然是來自市場分析的預期，最終實際的價格調整幅度與細節，通常會由沙烏地阿拉伯的國家石油公司，例如沙烏地阿美石油公司等，正式對外公布後才能完全確認。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Saudi Arabia May Lower July Oil Prices to Asia Amid Weak Demand",
-    "enContent": {
-      "basic": "Saudi Arabia, a big oil producer, might lower its oil prices for Asian buyers in July. This is because fewer people and businesses in Asia are buying oil. If prices go down, it means countries in Asia that buy oil, like those with big factories that make gasoline, might pay less money. Saudi Arabia checks the market every month to decide its prices. This possible change shows that people aren't buying as much oil as before. When fewer people want to buy something, sellers often lower prices to attract customers.",
-      "intermediate": "Reports indicate that Saudi Arabia, a major global oil producer, is considering lowering its crude oil prices for Asian customers in July. This potential adjustment is primarily driven by a observed weakening in overall oil demand across the Asian market. For oil purchasers in Asia, such as large refineries, this could translate into more favorable pricing for their July crude oil imports. Saudi Arabia typically reviews and sets its oil prices monthly based on global market conditions, and this prospective reduction suggests a current softness in Asian oil purchasing activity.",
-      "advanced": "Saudi Arabia, a pivotal player in global crude oil production, is reportedly contemplating a downward revision of its oil prices for Asian-bound shipments in July. This strategic consideration stems from a perceived abatement in regional demand, a development corroborated by market analyses. For Asian crude oil importers, including significant refining entities, this potential adjustment signals a more advantageous pricing landscape for their July procurements. The monthly pricing mechanism employed by Saudi Arabia, which is responsive to evolving global market dynamics, underscores the current deceleration in Asian oil consumption and buying impetus."
-    },
-    "vocabulary": [
-      {
-        "word": "oil prices",
-        "zh": "石油價格：指的是石油這種能源的買賣價錢。就像你買飲料有價錢一樣，國家或工廠買石油也有價錢。這個價錢會影響很多東西，比如開車的汽油費、發電的成本等等。"
-      },
-      {
-        "word": "demand",
-        "zh": "需求：簡單來說，就是「大家想買多少東西」的意思。當很多人想買某樣東西，需求就高；如果沒什麼人想買，需求就低。新聞裡說「需求變弱」，就是指想買石油的人或國家變少了。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-06-09",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVRpNGJnczdUQm9CTDF0QUlvTnZXbkFNc1Fjdnl2RUlxNjZGNzhPYmlGeDU4cmF1SWdJekM0M2tUbmVoUVBUOTc3ZEIzTi1pU0EzcldzZmRxQlpaaXEybXVWcHJ5eGp5b0paa2IyYXMyUDZsU0w0RGVfMWltdFBGV05CQVh1bExCMTh6VmVKNDV3dFQ5a2g5ZkVXcVF3a1M3SmVYVmUtRVppRjNGOWVJ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "科技股大降價！日本軟銀股價跌了6%",
-    "zhSummary": "日本知名投資公司軟銀，最近因為亞洲科技類股普遍遭到拋售，導致自家股價一天內下跌了6%。",
-    "zhContent": "<p>大家有聽過「軟銀」嗎？它是一間日本非常大的投資公司，在全世界投資了很多高科技公司，像是網路服務、人工智慧等等。最近有個大消息，那就是軟銀的股價在一天之內突然跌了6%。這個數字聽起來可能有點抽象，但對這麼大的公司來說，股價下跌6%可不是小事。</p><p>會發生這樣的情況，主要是因為整個亞洲市場最近吹起了一股「科技股拋售潮」。什麼是科技股呢？簡單來說，就是那些跟科技相關的公司的股票，像是軟體公司、網路平台或手機製造商等等。當投資人覺得這些公司的股票價格可能太高了，或是對未來的發展沒那麼樂觀時，就會開始大量賣出手上的股票。這就叫做「拋售」。</p><p>隨著越來越多投資人賣出科技公司的股票，這些股票的價格自然就會開始往下跌。這個趨勢在亞洲地區特別明顯，而且速度還越來越快。由於軟銀本身就投資了數不清的科技公司，當這些被投資的科技公司股價跟著下跌時，軟銀自己的股價也會受到影響。</p><p>所以，軟銀股價下跌6%，直接反應了亞洲科技市場這一波強勁的股票拋售現象。這對公司來說是一個挑戰，因為它反映了市場上對科技產業整體信心的變化。目前，這就是市場對科技股表現出的最新反應。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到了什麼重要的公司，以及什麼樣的市場現象？",
-      "生活與未來：你覺得像軟銀這樣的大公司股價下跌，對它所投資的其他科技公司或對市場會造成什麼影響？",
-      "獨立思考提案：針對這種科技股普遍下跌的現象，如果你是軟銀的老闆，你會怎麼思考和應對？"
-    ],
-    "enTitle": "SoftBank's Stock Takes a Hit as Tech Shares Slide in Asia",
-    "enContent": {
-      "basic": "Have you heard of SoftBank? It's a big company from Japan that invests in many tech companies around the world. Recently, its stock price dropped by 6% in just one day. This happened because investors in Asia started selling their shares in many tech companies. When people sell a lot of stocks, their prices usually go down. SoftBank's stock fell because the tech companies it invests in also saw their share prices drop. This is a big deal for such a large company.",
-      "intermediate": "SoftBank, a prominent Japanese investment firm with significant stakes in numerous global technology companies, recently experienced a 6% decline in its stock value. This decline occurred amidst a broader \"sell-off\" of technology stocks across Asian markets. A sell-off happens when a large number of investors decide to sell their shares in particular companies, often leading to a rapid decrease in stock prices. As investors expressed less optimism about tech companies' future prospects, they began liquidating their positions, directly impacting SoftBank's own valuation due to its extensive portfolio of tech investments.",
-      "advanced": "SoftBank, the multifaceted Japanese conglomerate known for its expansive investment portfolio in global technology enterprises, witnessed a considerable 6% slump in its share price during a single trading day. This downturn is primarily attributed to an accelerating \"tech stock sell-off\" observed across various Asian markets. A sell-off denotes a significant liquidation of shares by investors, often driven by concerns over valuations, macroeconomic shifts, or perceived risks within the sector. Given SoftBank's substantial holdings in numerous technology ventures, the widespread divestment of tech equities directly exerted downward pressure on its own stock, reflecting a broader shift in investor sentiment regarding the performance and outlook of the technology sector in the region."
-    },
-    "vocabulary": [
-      {
-        "word": "Stock",
-        "zh": "「股票」（ㄍㄨˇ ㄆㄧㄠˋ）\n解釋：你可以把股票想像成是「公司的股份」。當你買了一家公司的股票，就代表你買了它的一小部分。如果公司賺錢，股票價值可能就上升；如果賠錢，股票價值可能就會下降。"
-      },
-      {
-        "word": "Sell-off",
-        "zh": "「拋售」（ㄆㄠ ㄕㄡˋ）\n解釋：當很多人同時決定賣掉他們手上的某種股票或其他資產時，就叫做「拋售」。這種情況通常會讓這些股票的價格快速下跌。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-06-09",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2U3a1o3VWZFRndoc2NFbzZTVXZ5ZWVuVUUxbmFycVo0MWtNWjdrODk2RzRlRVJxQTJsY1I5SmVWVW5FbjBqZklCdS1hdllUWkR6TFFPOXI0M1hmNC1GMXRFTXo2MFRKcmlMeFNZV3FoZlNGY3NCS1VlRlZJaWVTZk5ETErSAYoBQVVfeXFMT3FtTmRTWVR2VV9xMVoyaEg3WVJMNnBsT2EtVXhmWkpIQWpmN2cxSFViRzNsblZlTmNteW9IZm4zU2E3eEllUlFHVEVUWHhZc0plR0pNN0ZLM3VfSGRndkVUMjVJNWdlMmxsdC05U3k1ejlhY2Y4Q2M3Rm5vUm9lLWgxWXJRUVJKRU13?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "科技巨頭鴻海攜手布魯克菲爾德，越南投資再生能源新計畫！",
-    "zhSummary": "全球電子製造大廠鴻海（富士康）與知名投資公司布魯克菲爾德聯手，將在越南投入資金發展太陽能、風力等環保的再生能源，為當地的工廠提供更乾淨的電力。",
-    "zhContent": "<p>最近有個大消息，大家常聽到的「鴻海」公司，它其實是全球最大的電子產品製造服務商，很多我們常用的手機、電腦裡面的零件都跟它有關。現在，鴻海和另一家全球知名的投資管理公司「布魯克菲爾德」（Brookfield）決定攜手合作，準備在東南亞的國家越南，展開一項重要的投資計畫。這項計畫的重點，就是要把資金投入到對地球環境友善的「再生能源」發展上。</p><p>這兩家大公司之所以會合作，是看中了再生能源在未來的潛力。再生能源指的就是那些來自大自然，而且幾乎用不完的能源，像陽光發電的太陽能、風吹動的風力發電，或是水流驅動的水力發電等等。他們的目標是在越南建立新的能源設施，希望能產生更多乾淨的電力。這不僅能幫助當地減少對傳統石化燃料的依賴，也能為鴻海自己在越南的龐大生產線提供更環保的電力來源。</p><p>鴻海之所以積極投入這項計畫，是因為他們在越南設有很多大型工廠，這些工廠為了生產大量的電子產品，每天都需要消耗非常多的電力。如果能使用再生能源來供應這些工廠的電力，一方面可以確保電力供應的穩定，另一方面也符合了全球企業越來越重視的環保趨勢，讓企業的運作更具「綠色」形象。而布魯克菲爾德作為投資專家，則能提供資金和專業知識，共同推動這些再生能源項目。</p><p>總結來說，這項由鴻海與布魯克菲爾德聯手在越南投資再生能源的計畫，是一項重要的商業合作。它代表了大型企業對於永續發展的承諾，也顯示了越南在再生能源領域的發展潛力。透過這類型的投資，我們可以看到企業在追求經濟效益的同時，也開始考量如何為環境盡一份心力，讓能源使用變得更加乾淨、環保。這就是這次新聞報導的核心內容。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Hon Hai and Brookfield to Invest in Renewable Energy in Vietnam",
-    "enContent": {
-      "basic": "Hon Hai (Foxconn), a big electronics maker, and Brookfield, a global investment company, are teaming up. They plan to put money into clean energy projects in Vietnam. This means building things that make electricity from the sun or wind. Hon Hai has many factories in Vietnam and needs a lot of power. This investment will help them get clean power and be more eco-friendly.",
-      "intermediate": "Hon Hai, also known as Foxconn, a leading electronics manufacturer, has announced a partnership with Brookfield, a major global investment firm. Together, they intend to invest significantly in renewable energy initiatives within Vietnam. This collaboration aims to develop sustainable power sources, such as solar and wind energy, primarily to supply Hon Hai's extensive manufacturing operations located in the country. The move also aligns with growing global corporate environmental responsibility trends.",
-      "advanced": "Foxconn Technology Group (Hon Hai Precision Industry Co.) and Brookfield Asset Management have forged a strategic alliance to commit substantial capital to renewable energy infrastructure development in Vietnam. This initiative is designed to establish and expand sustainable power generation assets, including solar and wind farms, primarily for meeting the energy demands of Hon Hai's considerable manufacturing footprint across Vietnam. This joint venture not only fortifies Hon Hai's operational resilience through diversified energy sourcing but also underscores a proactive approach to environmental stewardship and a commitment to Vietnam's green energy transition."
-    },
-    "vocabulary": [
-      {
-        "word": "renewable energy",
-        "zh": "再生能源 (zài shēng néng yuán) - 這種能源來自大自然中用不完的資源，像是太陽、風和水，它們不會像燒煤那樣製造很多污染，對地球比較好。"
-      },
-      {
-        "word": "invest",
-        "zh": "投資 (tóu zī) - 就是把錢投入某個計畫、公司或建設，希望未來這個計畫能成功，幫你賺到更多錢，或者帶來一些有用的成果。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-06-09",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuMkNmN3ZQVlJ6SFJrdS13ZjAwdVFHTHByTlktLU9qRFlWVWxtMVAwQ2N2UktWdjlyN1hhZDBjLTU1UkJTb2NIM3h0cVB3c2lOTGZBaUtITlZOSkdUVnI5MWtOXzhUNldjUEhWMW11R0F4cG1jeHc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "菲律賓強震！太平洋多地發布海嘯警報，大家要留意！",
-    "zhSummary": "菲律賓發生規模7.8強震，太平洋部分地區因此發布海嘯警報，提醒沿海居民保持警惕並做好應變準備。",
-    "zhContent": "<p>嘿，最近在太平洋那邊發生了一件大事，讓許多國家都繃緊了神經！菲律賓經歷了一場規模高達7.8的強烈地震，震感十分劇烈，讓當地居民經歷了一段驚慌不安的時刻。這場地震不只影響了菲律賓本身，它的巨大能量也引發了太平洋部分地區的關注，讓相關單位不得不發布海嘯警報，提醒大家隨時提高警覺。</p><p>這場7.8級的強震，威力真的非常驚人，屬於災害級別的地震。雖然RNZ的報導標題沒有具體指出地震發生的精確地點，但我們知道它是在菲律賓。通常，當海底發生這麼強大的地震時，海水可能會被震動而產生巨大的波動，進而形成海嘯。為了確保沿海居民的安全，太平洋海嘯預警中心才會針對太平洋的特定區域，發出海嘯警報，告訴大家可能有危險。</p><p>那麼，發出海嘯警報到底代表什麼意思呢？這表示根據科學家的判斷和數據監測，這些地區有「可能」會受到海嘯的威脅，雖然不代表一定會有大型海嘯來襲，但風險是存在的。這時候，住在沿海的居民就必須特別留意廣播和手機的緊急通知，並且準備好撤離到地勢較高、比較安全的地方。這是一個預防性的措施，讓大家有足夠的時間應變。</p><p>截至目前為止，各個被發布海嘯警報的太平洋地區，都已經收到相關訊息，並且正在密切監測海面狀況，評估接下來的發展。RNZ的報導並沒有詳細說明地震在菲律賓當地造成了什麼樣的損害，也沒有提到人員傷亡的具體數字，所以我們目前只能知道警報已經發出，並且相關地區正處於高度戒備狀態。大家需要持續關注官方發布的最新消息，才能掌握最完整的狀況。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Tsunami Advisories Issued for Parts of Pacific After 7.8 Philippines Earthquake",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "earthquake",
-        "zh": "地震 (指地球內部突然釋放能量，造成地表震動的現象，就像地球在搖晃一樣。)"
-      },
-      {
-        "word": "tsunami",
-        "zh": "海嘯 (指海底地震或火山爆發等引起的大型海浪，它會以驚人的速度衝向海岸，破壞力很大。)"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-06-09",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUtkd2Z1QkRvM2l3c01NdnZOanVYS2lsQ0Y0ODZjNmtVMGRrZjMyQl9GVHZ4RXktd25hOHdmMmtENzY4WjNsNV9FdTRJV0plYjlMZDRyaDFQTXZId21xRWJKcmd4UXRGdGVGeU9NRlJibnVreHZ3Zzl6VkdOOVZOUU5TaTVGYmUwTzFJcUhNNHVrandHSmszYzE1Y3FxMXJJXzd0N0dCa1lxcEs5UnZ4MEc0Ui1PNEVuQUxDWmY1QlpsdUNHT01ETmJR?oc=5",
     "isFeatured": false
   }
 ]
