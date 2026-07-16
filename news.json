@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "曼谷酒吧火警悲劇：逃生口堵死，奪走至少27條人命",
+    "zhSummary": "泰國曼谷一間酒吧發生嚴重火災，造成至少27人死亡。泰國總理嚴厲指責業者堵塞逃生出口，並且沒有標明消防通道，導致救援困難。",
+    "zhContent": "<p>2026年7月13日，泰國曼谷發生了一起令人難過的重大火災意外，一間夜間酒吧突然起火，猛烈的大火迅速吞噬了建築物，造成至少27人不幸罹難。這場悲劇震驚了當地社會，也讓許多家庭陷入哀傷。消防人員和救援隊伍在接獲通報後，立即趕往現場進行搶救，但火勢之大、現場狀況之複雜，讓救援工作變得異常艱鉅。</p><p>泰國總理在事發後，針對這場火災公開表達了強烈的不滿和批評。總理指出，初步調查顯示，發生火災的這間酒吧業者，涉嫌違反了重要的消防安全規定。其中最關鍵的問題，就是他們竟然堵塞了建築物的逃生出口，導致許多在火災發生時試圖逃生的民眾，無法順利離開現場。除此之外，總理也提到，酒吧內並沒有清楚標明消防通道的位置，這使得消防員在進入火場時，難以快速找到最佳路徑進行滅火和救援。</p><p>這些被指出的問題，都指向了業者在經營場所時，對於公共安全的嚴重疏忽。逃生出口是火災發生時，保障人們生命安全的最重要通道，一旦被堵塞，就等於斷絕了人們逃生的希望。而消防通道的標示不明確，不僅會影響到消防隊員的救災效率，更可能讓受困民眾錯失寶貴的逃生時間。這些違反規定的行為，都讓這場火災的傷亡人數大幅增加。</p><p>截至目前，這場曼谷酒吧大火已經確認造成至少27人死亡，還有數十人受傷。泰國政府正對這起事件展開全面調查，並表示將會嚴懲任何涉及違規的業者和相關責任人。總理也重申，政府將會加強對全國所有營業場所的消防安全檢查，確保類似的悲劇不會再次發生。火災現場的清理和受害者的身份確認工作仍在持續進行中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Bangkok Bar Fire Tragedy: Blocked Exits Lead to 27 Deaths",
+    "enContent": {
+      "basic": "A big fire happened at a bar in Bangkok, Thailand, killing at least 27 people. The Prime Minister of Thailand said the bar owners blocked emergency exits and didn't mark fire escape routes. This made it hard for people to get out and for firefighters to help. The government is now checking other places for safety.",
+      "intermediate": "On July 13, 2026, a major fire broke out at a bar in Bangkok, Thailand, resulting in the deaths of at least 27 individuals. The Thai Prime Minister criticized the bar operators, stating that emergency exits were obstructed and fire escape routes were not clearly marked. These safety violations are believed to have contributed significantly to the high casualty count. The government has launched a full investigation and plans to tighten safety regulations across all businesses.",
+      "advanced": "A devastating fire at a Bangkok bar on July 13, 2026, claimed the lives of at least 27 people, with many more injured. The Thai Prime Minister publicly condemned the bar's management, citing critical safety breaches including blocked emergency exits and unmarked fire escape routes. These infractions severely hindered timely evacuation and emergency response efforts. Authorities have initiated a comprehensive investigation, promising strict penalties for those responsible and pledging to enhance fire safety inspections nationwide to prevent future tragedies."
+    },
+    "vocabulary": [
+      {
+        "word": "Emergency Exit",
+        "zh": "逃生出口：這是建築物裡面，當發生火災或其他危險時，讓大家可以快速跑出去的門或通道。它通常會用綠色的牌子標示出來，而且絕對不能被東西擋住。"
+      },
+      {
+        "word": "Prime Minister",
+        "zh": "總理：這是一個國家的政府最高領導人，就像一個班級的班長，但管的是整個國家的大事。他們負責制定政策、處理國家重要的事務。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-07-16",
+    "sourceName": "公視新聞網PNN",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14ekZ5YTduNVh2YW5heW1lZHlPMTRqQ3pKRXR3RkxqZGxNaTMzay1UTlpiaS1RV0I4TVB6SjZzTnVIcDVVZTVQNVc4RQ?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "清理空氣，地球卻更熱？《經濟學人》揭露「全球昏暗」的秘密",
+    "zhSummary": "《經濟學人》報導指出，全球氣溫升高不只因溫室氣體，也與「全球昏暗」現象減弱有關。過去空氣污染物曾像遮陽傘般阻擋部分陽光，減緩暖化。然而，當人類努力淨化空氣，移除這些污染物後，陽光直射增加，導致地表溫度感受更強烈。",
+    "zhContent": "<p>「怎麼又是大熱天！熱到爆炸啦！」你是不是也常這樣抱怨？全球各地近年都熱到不行，夏天好像越來越長、越來越燙。最近《經濟學人》這本厲害的雜誌就提出了一個有點顛覆想像的觀點。他們說，天氣這麼熱，竟然可能跟一種叫做「全球昏暗」（Global Dimming）的現象有關。這聽起來很奇怪對不對？「昏暗」不是應該比較涼嗎？</p><p>所謂的「全球昏暗」指的是，因為人類活動，像是工廠排放的廢氣、汽機車排出的黑煙等等，讓空氣中充滿了很小的懸浮微粒，我們稱它們為「氣溶膠」或「懸浮粒子」。這些小小的粒子飄在空中，就像一把巨大的「遮陽傘」一樣，會把一部分的陽光擋住，讓陽光沒辦法直接照到地球表面。所以過去幾十年來，雖然地球因為溫室氣體而一直在變暖，但這些空氣中的髒東西反而幫忙「遮擋」了一些熱度，讓地球沒有熱得那麼快。</p><p>不過，大家開始發現空氣污染對健康很不好，也對環境造成破壞，所以很多國家都努力推動環保政策，減少廢氣排放，讓天空變藍、空氣變好。這當然是好事！但有個意想不到的副作用。當我們把空氣中的髒東西都清乾淨了，那些原本會擋住陽光的「遮陽傘」也就不見了。這樣一來，更多的陽光就能直接照射到地球，原本被「遮住」的暖化效應就全部跑出來了。</p><p>因此，我們現在感覺到的特別高溫，不僅是溫室氣體累積的結果，也有一部分原因來自於我們成功清理了空氣中的污染物。這情況揭示了地球氣候系統的複雜性，當人類努力改善一項環境問題時，有時也可能引發原先未預期的氣候反應，使得整體的溫度變化更加明顯。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cleaner Air, Hotter Earth? The Economist Explains Global Dimming's Paradox",
+    "enContent": {
+      "basic": "The Economist says it's super hot partly because of something called \"global dimming.\" This is when pollution in the air blocks some sunlight. As we clean the air, less sunlight is blocked, making Earth feel hotter.",
+      "intermediate": "According to The Economist, the recent extreme heat partly stems from the reduction of \"global dimming.\" This phenomenon, caused by airborne pollutants (aerosols), previously acted like a shield, reflecting sunlight and masking some of the warming from greenhouse gases. As air quality improves globally, this reflective shield diminishes, allowing more solar radiation to reach the Earth's surface and intensifying the perceived warming.",
+      "advanced": "The Economist highlights that alongside greenhouse gas emissions, the recent surge in global temperatures is also influenced by the decline of \"global dimming.\" For decades, atmospheric aerosols, primarily from industrial pollution, had a cooling effect by scattering and absorbing incoming solar radiation, thereby mitigating a portion of anthropogenic warming. However, stringent air quality regulations have significantly reduced these aerosols, consequently diminishing their radiative forcing effect and revealing the full extent of warming previously masked, leading to more intense surface temperatures."
+    },
+    "vocabulary": [
+      {
+        "word": "Dimming",
+        "zh": "昏暗、變暗：想像陽光被雲或灰塵遮住，光線變弱、變暗的感覺。在這個新聞裡，指的是地球因為空氣中的髒東西，陽光變少、變暗的現象。"
+      },
+      {
+        "word": "Aerosol",
+        "zh": "氣溶膠、懸浮粒子：空氣中漂浮著非常細小的固體或液體顆粒，像是工廠排出的煙、火山灰或海鹽等，它們肉眼可能看不見，但會影響光線。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-07-16",
+    "sourceName": "The Economist",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWNkN19KT1M0dHJyZTlSUy1EcmtQbjNMZnItbWFiaDNDcG42WHZTaWVZTUJZNTk5ck1LU01NbElrdl9VWnZYZ0FaV2x0UGsxVjUxTDNqYWtNSzV2aGMzdEJWc0hMN0xpNjc3LURiWGJhSEhVdmdFMnZrRTJDVi0zSl9LaUJROV91a0E?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "喬治亞州彩券「財」力助學！一年募得15.4億美元教育基金",
+    "zhSummary": "喬治亞州彩券在最近一個財政年度中，成功為當地教育計畫籌集了高達15.4億美元的資金，這筆巨款將用於支持州的各種教育項目。",
+    "zhContent": "<p>美國喬治亞州彩券（Georgia Lottery）最近傳來一個好消息！根據外媒WRDW的報導，喬治亞州彩券在剛結束的財政年度中，為當地的教育計畫成功募集了一筆天文數字般的資金：高達15.4億美元（約新台幣490億元）。這筆驚人的款項，全部都會投入到喬治亞州的教育系統，幫助那裡的學生和學校。</p><p>彩券通常是政府或特定機構用來籌集資金的一種方式。民眾購買彩券，一部分的錢會成為獎金，另一部分則會撥給政府，用於特定的公共項目。在喬治亞州，彩券的收益主要就是為了教育。這15.4億美元的巨額資金，將被用來資助許多重要的教育專案，像是提供給大學生的獎學金、資助學齡前兒童的教育，以及其他協助學校運作的計畫。</p><p>「財政年度」指的是政府或企業計算收入和支出的特定一年期間，不一定跟一般日曆年完全相同。彩券為教育籌集的這筆錢，對喬治亞州來說意義重大。這代表著數十萬名學生有機會獲得更好的教育資源，無論是學費補助、更好的教學設備，或是更完善的學習環境，都能因此受益。這也顯示彩券作為一種特別的募資管道，在當地教育領域扮演了重要的角色。</p><p>這項成果證明了喬治亞州彩券在持續為教育提供穩定資金支持方面的成效。彩券銷售所帶來的收入，已經成為該州教育預算的重要來源之一。這筆15.4億美元的款項，將在未來的教育發展中發揮作用，直接影響到喬治亞州許多孩子的學習路徑。報導僅指出彩券已募得此筆款項，並未提供後續其他細節。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Georgia Lottery Raises $1.54 Billion for Education in Fiscal Year",
+    "enContent": {
+      "basic": "The Georgia Lottery raised a huge amount of money for education. In the last fiscal year, it collected $1.54 billion. This money will help students and schools in Georgia by funding various educational programs.",
+      "intermediate": "The Georgia Lottery has successfully generated a significant sum for the state's education initiatives. For the recent fiscal year, the lottery contributed $1.54 billion, which will be allocated to various educational programs to support students and institutions across Georgia, including scholarships and pre-kindergarten programs.",
+      "advanced": "In its latest fiscal year, the Georgia Lottery has reported a substantial contribution of $1.54 billion towards educational funding. This considerable sum is earmarked to bolster a diverse range of scholastic programs, including scholarships and pre-kindergarten initiatives, thereby significantly impacting the educational landscape for students throughout the state. The lottery's proceeds serve as a vital revenue stream for Georgia's education budget."
+    },
+    "vocabulary": [
+      {
+        "word": "fiscal year",
+        "zh": "財政年度：這不是指我們一般從1月1日到12月31日的那一年，而是政府或公司計算收入和支出的一段「會計年度」，通常是固定的12個月，但開始日期可能不同。"
+      },
+      {
+        "word": "lottery",
+        "zh": "彩券：一種機會遊戲，大家買有號碼的券，如果你的號碼被抽中就可能贏得獎金。通常彩券收入除了發獎金，還會有一部分拿去資助一些公共事務，像是這次新聞提到的教育。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-07-16",
+    "sourceName": "WRDW",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG5XOWZmb3VocndMd196cWdQbzFVT28tUGVzZmdNbndSMTN2eG15QTVUSXVSUDkxcmNYOElUUEFtWUpwNWFNS3R5LTZpNXdTOWpsWHZ5b3FYekcxTWZhNG96UjhHdGppTFU0M1hweUEyNTl3Nmt4THhkZHl5Rk9LM2pXT3ctaXl1QzNrVUtKUnVjaGfSAacBQVVfeXFMTTVPaUdLUmNSMUd3bGhPak5FaUtwT3UyWjNqcmdyV0xkSGlDSFMwTm0xQ1lMQjMyN3ZOWFhXYTJxajMwV3RtbWlMVG9xN082TzBnUkctZmM5UHFaZ1hxeWdXWWNLam1pYVNjTTNFY3hkWDUwRklIYXJQQTJ5aEs2MkNCem1UbDFPVVJnVDhmaGdwTzhULU9ueGJiWkJUX3ZvUFlHLXpnNWc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "藥品管理大變革：美國CDER計畫用AI和電子報告，讓藥物更安全！",
+    "zhSummary": "美國藥品評估與研究中心（CDER）正準備推出新的指引，將會針對人工智慧（AI）在藥品領域的應用，以及如何以電子方式提交藥品安全報告等議題，提供更明確的規範，確保藥品從開發到上市都能更嚴謹、更有效率。",
+    "zhContent": "<p>各位關心最新消息的朋友們，美國有一個很重要的機構，叫做「藥品評估與研究中心」（英文簡稱CDER），他們最近正在規劃一套全新的規則，這套規則對我們未來用藥的安全性和效率，可能會有很大的影響喔！簡單來說，CDER打算針對兩個非常重要的部分發布新的指引：一個是關於「人工智慧」（AI）怎麼應用在藥品管理上，另一個則是未來藥廠要怎麼用「電子方式」來提交藥品安全報告。</p><p>這兩個新方向聽起來有點複雜，但其實都跟我們的健康息息相關。首先是AI的部分，現在人工智慧越來越厲害，藥廠和研究人員也開始嘗試用AI來加速新藥的研發，甚至用AI來監測藥品上市後的反應。CDER看到這個趨勢，所以想要制定清楚的規範，確保AI在藥品開發和安全監控的過程中，是可靠、準確而且不會出錯的。他們希望透過這些指引，讓大家都能知道怎麼正確、安全地運用AI這項新科技。</p><p>再來是電子安全報告的提交。過去，藥廠在發現藥品有任何不良反應或安全疑慮時，可能需要用比較傳統的方式來提交報告。但CDER認為，現代科技可以做得更好！如果改用電子系統來提交這些關鍵的安全報告，不僅能大大提高效率，讓資訊傳遞更快速，也能減少人為錯誤，讓重要的安全資訊能夠更快地被分析和處理，這對於需要緊急應對的藥品安全事件來說，是特別重要的改進。</p><p>總體來說，CDER這次的計畫，是為了讓藥品從研發、試驗到最終上市後的監測，都能跟上時代的腳步，用更先進、更有效率的方式來把關。他們希望透過這些新的指引，確保我們日常使用的藥品，無論是在安全還是效果方面，都能達到最高的標準。目前這些都還在規劃階段，CDER將會持續與相關單位溝通，逐步完善這些新的規範。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，CDER（藥品評估與研究中心）主要打算針對哪兩個方面發布新的指引？",
+      "生活與未來：你覺得這些關於AI和電子報告的改變，會對未來製藥公司或病患帶來什麼實際影響？",
+      "獨立思考提案：針對藥品安全報告從傳統方式改為電子提交這項規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US CDER Plans New Guidance on AI and Electronic Drug Safety Submissions",
+    "enContent": {
+      "basic": "The US Center for Drug Evaluation and Research (CDER) is planning new rules. These rules will help guide how Artificial Intelligence (AI) is used in making and checking medicines. They also want drug companies to send in safety reports using computers, not paper. This is to make medicines safer and processes faster.",
+      "intermediate": "The US Center for Drug Evaluation and Research (CDER) is setting out to establish new guidelines. These upcoming rules will address the use of Artificial Intelligence (AI) in drug development and monitoring, as well as standardize the electronic submission of drug safety reports. The goal is to modernize how medicines are regulated, ensuring greater safety and efficiency throughout their lifecycle.",
+      "advanced": "The Center for Drug Evaluation and Research (CDER) within the U.S. Food and Drug Administration is poised to issue forthcoming guidance documents designed to address critical advancements in pharmaceutical regulation. These initiatives will primarily focus on establishing clear parameters for the application of Artificial Intelligence (AI) in drug development, evaluation, and post-market surveillance, alongside mandating and streamlining electronic submissions for comprehensive drug safety reports. This strategic move aims to enhance regulatory oversight, improve data integrity, and accelerate the processing of vital safety information in an increasingly technology-driven landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "Guidance",
+        "zh": "指引：這是一份由專業機構發布的建議或規定，告訴大家在特定情況下應該怎麼做，才能符合標準或達到更好的結果。想像成是老師給你的參考答案，讓你寫作業時有個方向。"
+      },
+      {
+        "word": "Submissions",
+        "zh": "提交：指的是把文件、報告或申請等東西交出去給對方。就像你把完成的功課交給老師，或把信件投入郵筒一樣。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-07-16",
+    "sourceName": "RAPS",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGFhOXk3dU9QRGVDNXNMdjNZbjZvYXVzWnBXYlI3T0VyYWN6RFViakdMNUl2VXNQVDFfRkRwRzZ3Wm9JaG0zcTdkTVJWRVA0MjhaZEhaLU1INUhRemxleW1JTUcyQ0tLY2c5blNoVUsxa3pLVFZ5Yzh5UnlnRU5oSDRIdWpCNzlZVzVTQ3hCdk5tVUlMN3N1eVJMNFg1SVYyaUVfelJWUzF4S3NRS2FB?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "足球熱潮來襲？《衛報》貼心提案：別只盯著球，這些地方也能玩翻天！",
+    "zhSummary": "在英國足球盛事期間，許多人被比賽迷得團團轉。但《衛報》卻逆向操作，發布了一份「五件趣事」清單，鼓勵大家把目光從球場移開，體驗更多不一樣的城市活動。",
+    "zhContent": "<p>最近，如果你在英國，大概很難不注意到一股強烈的「足球熱」正在蔓延。整個國家似乎都被一場重要的足球賽事牽動著神經，尤其是當他們的國家隊，也就是被稱為「三獅軍團」的英格蘭隊出場時，大街小巷都充滿了對比賽的討論和期待。大家不是在看球賽轉播，就是在討論球員表現，感覺全世界都圍繞著足球轉。</p><p>就在這股強勁的足球旋風中，知名的英國媒體《衛報》（The Guardian）卻決定做點不一樣的事。他們沒有加入足球戰況的分析，也沒有預測哪隊會贏，反而是發布了一篇標題很有趣的報導，叫做「別管『三獅軍團』了：五件好玩的事，讓你暫時忘掉足球」。這篇文章的目的很簡單，就是想提醒大家，就算足球賽再精彩，生活中還有很多其他的樂趣值得去發掘。報導中列出了一些非常實用的建議，例如可以去參觀美術館，看看那些平時被忽略的藝術品；或是找個陽光普照的午後，到公園裡散步野餐；甚至可以去逛逛當地市集，發現一些獨特的手工藝品或美食，這些都是在球賽之外，能讓心情放鬆的好選擇。</p><p>《衛報》之所以會發表這樣的報導，背後其實有個很貼心的考量。他們知道並不是每個人都是足球迷，也不是所有人都喜歡花好幾個小時緊盯著電視螢幕。有些人可能只是想找個清靜的空間，暫時擺脫比賽的喧囂；有些人則可能想利用這段時間，去體驗一些平常沒機會做的事情。這篇文章就像是一個小小的提醒，告訴大家，在這個被足球佔據的時光裡，其實還有很多不同的面向值得去探索，讓大家有機會跳脫主流的熱潮，找到屬於自己的樂趣。</p><p>所以，《衛報》這篇文章的最終目的，就是為那些希望從足球狂熱中抽身的人提供一些具體的方向。它明確地指出，即使全國上下都沉浸在足球賽的氣氛中，城市裡依然充滿了各種精彩的文化活動、戶外體驗或休閒去處。報導沒有多做評論，只是單純地提供資訊，讓讀者知道，除了球賽之外，還有其他同樣值得花時間去享受的事物。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The Guardian Suggests Fun Alternatives to Football Frenzy",
+    "enContent": {
+      "basic": "During a major football event in the UK, many people are very focused on the games. But The Guardian newspaper offered a different idea. They published a list of \"five fun things to do.\" This list was for people who wanted to take their minds off football. It reminded readers that there are other enjoyable activities beyond watching the matches.",
+      "intermediate": "With a significant football tournament captivating the United Kingdom, the national mood has largely revolved around the sport, especially with the England team, known as \"the Lions,\" in action. Amidst this widespread football enthusiasm, The Guardian newspaper decided to provide an alternative perspective. Instead of focusing on match analyses or predictions, they published an article titled \"Forget the lions: five fun things to do or see to take your mind off the football.\" This piece aimed to guide readers towards other cultural and leisure activities, suggesting options like visiting museums, exploring parks, or browsing local markets, offering a break from the intense focus on the games.",
+      "advanced": "As a major football tournament gripped the United Kingdom, public attention largely converged on the sport, particularly whenever the England national team, affectionately dubbed \"the Lions,\" took to the pitch. Recognizing this pervasive football frenzy, The Guardian newspaper took an unconventional approach. Eschewing traditional match commentary or predictions, the publication released an article provocatively titled, \"Forget the lions: five fun things to do or see to take your mind off the football.\" This initiative sought to present readers with a curated list of alternative cultural and recreational pursuits. The piece gently nudged individuals to explore options beyond the pitch, such as engaging with local art galleries, enjoying serene park strolls, or discovering unique offerings at community markets, thus providing a respite from the dominant sporting narrative and broadening the scope of leisure during this period."
+    },
+    "vocabulary": [
+      {
+        "word": "Lions",
+        "zh": "獅子（這裡指的是英格蘭足球國家隊的綽號「三獅軍團」，因為他們的隊徽上有三隻獅子，常用來代表這支隊伍。）"
+      },
+      {
+        "word": "frenzy",
+        "zh": "狂熱、熱潮（形容一種非常激烈、興奮到有點失控的狀態。像足球狂熱就是指大家對足球比賽非常投入、情緒高漲的樣子。）"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-07-16",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFFLUTZGdEhKT0tVYzRYc2Q5SXV6bXNLOFJhTWpCM2xuZE1EVk1neEJBNlV3TzVVdDhxXzVFT0Z2SE1mbUhId1psYkhRdmwyWDZheFhaWXloT1M4UTd5ZXRDei1ONGtteHdFcjRUSmJpN09YZmRBWFEwYlBib1NaXzE1M0dPODIwVWJ0c2VFaXp6VzhhSks2MWphbEVjNjl2Y1E?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "川普鎖定「選舉安全」！美國中期選舉話題升溫，他想掌握話語權？",
+    "zhSummary": "前美國總統川普正試圖影響即將到來的中期選舉討論方向，他將焦點放在「選舉安全」上，希望透過此議題，讓他的觀點在選戰中獲得更多關注，並掌握選民的討論重點。",
+    "zhContent": "<p>前美國總統川普最近又有新動作了！眼看美國即將迎來重要的「中期選舉」，這場選舉會決定國會裡誰說了算，對美國政治影響很大。川普先生現在正試圖掌握大家對這場選舉的討論方向。他選擇了一個特別的重點，那就是「選舉安全」這個話題，希望透過這個方式，讓更多人注意到他想表達的聲音。</p><p>所謂的「選舉安全」，聽起來好像有點嚴肅，但對川普來說，這指的是確保選舉過程公平、沒有舞弊。他之前就曾多次對美國的選舉結果提出質疑，特別是關於投票過程中的一些問題。現在，他再次把這個議題搬上檯面，是希望大家重新審視投票制度，確保每一次的投票都能讓人放心。這也成了他在公開場合和社群媒體上頻繁提到的一個主要話題。</p><p>川普之所以這麼做，主要目的是為了「掌握話語權」，也就是他希望自己和他的政黨對中期選舉的看法，能成為大家討論的主流。他想讓自己的支持者更有熱情，也可能想藉此引起大家對現有選舉制度的思考。在中期選舉中，選民會選出新的國會議員，這些人將決定未來美國的許多政策。因此，誰能主導選舉話題，誰就能在政治上取得優勢。</p><p>目前看來，川普的這項策略，已經讓「選舉安全」這個詞彙，再度成為美國政治討論中的熱門關鍵字。隨著中期選舉的時間越來越近，預計這個話題還會持續延燒，影響著選民的思考方向，以及不同政黨候選人的競選策略。這代表著，關於投票公平性的討論，將會是這場選舉中非常重要的一環，持續受到各界關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，川普希望透過什麼策略來影響中期選舉？他為什麼會選擇「選舉安全」這個議題？",
+      "生活與未來：你覺得選舉過程的「安全」和「公平」對一個國家的影響是什麼？如果大家對選舉結果不信任，可能會造成什麼樣的狀況？",
+      "獨立思考提案：你認為一個國家要如何才能確保選舉的公平性，同時又能讓所有選民都對結果有信心？除了新聞中提到的，你還能想到哪些方法？"
+    ],
+    "enTitle": "Trump Focuses on 'Election Security' to Control Midterm Narrative",
+    "enContent": {
+      "basic": "Former U.S. President Trump is trying to influence the discussion around the upcoming midterm elections. He's doing this by focusing on 'election security'. This means he wants to make sure people are talking about how fair and safe the voting process is. He hopes this will help his party and his ideas get more attention as the elections get closer.",
+      "intermediate": "Former President Donald Trump is actively seeking to shape the narrative surrounding the crucial U.S. midterm elections. His strategy involves prominently featuring 'election security' as a central theme in public discourse. By emphasizing the integrity and fairness of the voting process, Trump aims to rally his base and influence how voters perceive the upcoming contests that will determine control of Congress.",
+      "advanced": "Amidst the approaching U.S. midterm elections, former President Donald Trump is strategically endeavoring to regain control of the political narrative. His chosen approach involves a concentrated focus on 'election security,' a tactic designed to redirect public attention towards the perceived vulnerabilities or strengths of electoral processes. This emphasis aims to galvanize his supporters and position his preferred interpretations of election integrity at the forefront of the public consciousness as the pivotal legislative races unfold."
+    },
+    "vocabulary": [
+      {
+        "word": "Midterms",
+        "zh": "中期選舉：這是在美國總統任期中間舉行的全國性選舉，主要目的是選出國會議員（例如參議員和眾議員）和一些地方官員，而不是選總統。它對執政黨的影響很大，因為會改變國會的權力分配。"
+      },
+      {
+        "word": "Narrative",
+        "zh": "話語權/說法：指的是對於某件事情，大家普遍在討論或相信的「主要說法」或「故事」。掌握話語權，就是讓你的觀點成為大家討論的中心，影響大家的想法和看法。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-07-16",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYzd4UWFSd1drTi1IdWt0ZHZza1ZsS0JuVE9VR2lxekExTDJiUWg2VXc4amQxVjZFT1dIbTdoMjU3UUlvS3pNM2ZETDBoVWM0OFBmOHFINXlBSTBhVnZJOHgyeHRiZDRwTzByUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "英格蘭世界盃夢碎！索福克球迷心碎目送阿根廷晉級",
+    "zhSummary": "英格蘭足球隊在最近的世界盃比賽中，不幸輸給了阿根廷隊，提前結束了他們的奪冠之旅，這讓許多英格蘭的球迷，特別是索福克郡的民眾，感到非常心碎與失望。",
+    "zhContent": "<p>根據英國廣播公司（BBC）的報導，對於英格蘭全國，尤其是索福克郡的足球迷來說，最近的世界盃足球賽帶來了一場巨大的心碎。英格蘭國家隊在關鍵的淘汰賽中，與宿敵阿根廷隊正面交鋒，這場比賽的結果讓所有支持英格蘭的球迷們心情盪到谷底，因為這代表著他們的世界盃之旅已經畫下句點。</p><p>這次的賽事，英格蘭隊在球迷們的殷切期待下奮力拼搏，希望能一路挺進，甚至抱走冠軍獎盃。然而，在與阿根廷隊的對決中，儘管球員們在場上使出渾身解數，展現了高超的球技和不屈不撓的精神，最終仍然不敵對手。比賽哨聲響起的那一刻，勝負已定，英格蘭隊遺憾地輸掉了比賽。</p><p>這場敗仗對球迷們的打擊相當大。在索福克郡，許多家庭和朋友聚集在一起，共同觀看這場攸關國家榮譽的比賽。他們原本抱持著希望和興奮，期待能看到英格蘭隊繼續前進。然而，隨著比賽結果的出爐，現場的歡呼聲變成了嘆息，許多人臉上寫滿了失落。對於這些從小便熱愛足球、將國家隊視為驕傲的球迷來說，輸球的滋味尤其難受。</p><p>最終，英格蘭隊在這場與阿根廷隊的比賽中落敗，無緣繼續參與本屆世界盃。這意味著他們的奪冠夢想只能等到下一個四年。阿根廷隊則憑藉著這場勝利，順利晉級到下一輪賽事。這就是這場萬眾矚目的世界盃淘汰賽的最終結果，也讓英格蘭球迷們的心情跌到了谷底。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，球迷們因為英格蘭隊輸球而『心碎』。你覺得這裡的『心碎』是比喻還是真的心臟碎掉？你覺得他們會有什麼樣的反應或情緒？",
+      "生活與未來：你覺得一支你很支持的隊伍在重要的比賽中輸了，會對你造成什麼樣的影響？你曾經有過類似的經驗嗎？",
+      "獨立思考提案：如果有一群人跟你一樣，為了支持的隊伍輸球而感到難過，你覺得大家可以怎麼做來互相安慰或面對這個結果？"
+    ],
+    "enTitle": "England Fans in Suffolk Heartbroken by World Cup Exit to Argentina",
+    "enContent": {
+      "basic": "England's football team lost to Argentina in the World Cup. This made many fans, especially in Suffolk, very sad. They had hoped England would win, but the team had to leave the competition. Argentina won and moved on. Fans watched the game and were disappointed when England lost.",
+      "intermediate": "According to the BBC, England's national football team was eliminated from the World Cup after a defeat by Argentina. This news caused great heartbreak among fans across the nation, particularly in Suffolk. Supporters had high hopes for their team, gathering to watch the crucial match. However, despite their efforts, England was unable to secure a victory, bringing their World Cup journey to an end and leaving many fans deeply disappointed.",
+      "advanced": "The BBC reported that fans in Suffolk, England, were left utterly heartbroken following the national football team's exit from the World Cup at the hands of Argentina. The highly anticipated knockout stage match saw England's aspirations for championship glory dashed. Despite a valiant effort from the players, the team ultimately succumbed to their formidable opponents, leading to their premature elimination from the tournament. This outcome left a profound sense of sorrow and disappointment among the dedicated supporters who had keenly followed their team's journey."
+    },
+    "vocabulary": [
+      {
+        "word": "heartbroken",
+        "zh": "心碎的 (形容詞，當一個人感到極度悲傷或失望時，就像心被打破了一樣，常用來形容失去摯愛或重大期望落空的情緒。)"
+      },
+      {
+        "word": "elimination",
+        "zh": "淘汰 (名詞，指在比賽中因為失敗而被移除或排除，無法繼續參與接下來的賽程。)"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-07-16",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYUdSWmJyUWNtMTV6VkkxOFhfRVBoMzI5RTlfSERNMWp0R3N0UWd0dHRIdVNteEtiVzBBdjAxZGNrZWN2NjM5Nzl4bVpBN3VsUDN1a3U3dzVKRXZGcF9hUDdKTTktZDRoLW9hQlg5aTZJaHZJUDh5MGtOMS1UdzZXbERGVTJpY3JoMTBtTDVzT1V4YTBIelhUblFqaWlWZThxSFctX19kTG9rYnhpYXhzYVB1THIzcE9sNXNuX1pDeVB3bFFrQllfaC1oV2QwZDlsZHpwUm1mQUFnQlJXMHEzZkhR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "華爾街大賺錢，歐洲銀行業也想「跟上」！",
+    "zhSummary": "美國華爾街的銀行最近獲利表現非常亮眼，讓歐洲的金融界感到壓力。因此，歐洲正在重新檢視並可能修改他們的銀行業法規，希望能讓自己的銀行也能像美國一樣賺錢。",
+    "zhContent": "<p>最近，美國華爾街的銀行業可是風光得很，賺進了非常可觀的利潤，可以說是「大豐收」。這股強勁的獲利表現，讓大西洋另一端的歐洲看在眼裡，心情就有點複雜了。歐洲各國的金融主管機關和政府官員們，開始認真思考一個問題：為什麼美國銀行能賺這麼多，而我們歐洲的銀行卻好像沒那麼出色呢？</p><p>面對華爾街這種「獲利狂潮」，歐洲的決策者們決定不能再觀望下去了。他們現在正忙著「翻修」他們現行的銀行業法規，就像在拆開一本舊書、準備修改裡面的條文一樣。他們認為，可能是目前歐洲的某些銀行規定太過嚴格，導致歐洲的銀行在國際競爭上綁手綁腳，沒辦法像美國銀行那樣放開手腳去大展身手、創造高額利潤。</p><p>這種情況的背後，有些分析認為，可能是美國與歐洲在銀行監管的方式上有所不同，或是美國經濟在某些方面的復甦速度較快。歐洲現在的目標很明確，就是希望透過放鬆一些不合時宜的規定，或是讓法規變得更有彈性，好讓歐洲的銀行也能夠更有機會去追求更高的收益，提升整體競爭力，不再居於下風。</p><p>這項「修改銀行業規則」的討論和行動，目前正在歐洲內部熱烈進行中。雖然具體的改變細節還在研擬，但他們已經展現出積極的態度，準備好調整策略，讓歐洲的金融體系能夠更有效率、更有活力。這一切，都是為了讓歐洲的銀行也能在國際市場上，跟華爾街的強勁對手一較高下。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Wall Street's Profit Surge Pushes Europe to Rethink Banking Rules",
+    "enContent": {
+      "basic": "Wall Street banks in the U.S. have been making a lot of money. Europe saw this and wondered why their banks weren't doing as well. So, Europe is now looking at its banking rules. They think some rules might be too strict, making it hard for their banks to earn big profits like the U.S. ones. They want to change these rules to help their banks compete better and make more money. This change is still being talked about in Europe.",
+      "intermediate": "The significant profit boom experienced by Wall Street's banking sector in the United States has caught the attention of European financial authorities. European leaders are now scrutinizing their current banking regulations, believing that some existing rules might be too restrictive, hindering their own banks' ability to generate comparable profits and compete effectively on a global scale. The aim is to revise these 'rulebooks' to foster a more dynamic and profitable environment for European banks, allowing them to better contend with their highly successful American counterparts. Discussions and actions to modify these regulations are actively underway.",
+      "advanced": "The sustained profit boom within Wall Street's financial institutions has become a critical catalyst for Europe's re-evaluation of its banking regulatory framework. European policymakers are keenly observing the divergence in financial performance, hypothesizing that stringent domestic regulations may be constraining the competitiveness and profitability of European banks relative to their American peers. Consequently, a comprehensive review and potential overhaul of existing banking rulebooks are being undertaken, driven by the imperative to cultivate an environment conducive to enhanced capital generation and global market participation for European financial entities. This strategic recalibration, aimed at fostering parity and stimulating growth, is a pivotal ongoing initiative within European financial governance circles."
+    },
+    "vocabulary": [
+      {
+        "word": "Profit boom",
+        "zh": "獲利狂潮 (huòlì kuángcháo) - 指的是公司或整個產業在短時間內賺到非常多錢，獲利就像爆炸一樣快速成長的現象。"
+      },
+      {
+        "word": "Rulebook",
+        "zh": "法規 (fǎguī) - 指的是政府或特定機構為了管理某件事情或某個行業所訂定的一系列規則和法律，大家必須遵守。想像成是玩遊戲之前要看清楚的說明書。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-07-16",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0VrUGQ0d09GTHdNb291SzF4VndhQ0VhU1htSm5UTWpYYzYyOEdYaWl1ZzdlOVEyTkhZX3d2dGdjNkNuWlA1YTkxNV8xWGRBR1VjRXlIbXd0WXgyTFRVNTJjYjliaGNqd1pQMnNiN25tRWFRQ2k1S3pCdmFMYnRNTFl2UjgwNUlrdExRZThFVFrSAZYBQVVfeXFMTjdsWWV6dVMtckJTWWFvTW00bm9uOVpud2J6eEMxeHEyRW95a2pHcC1sNXRRUHdvVzdzamJ2T1RwaHRsZF9FR0pXVEF5Y01tNy01alBPdzZPQkVtVnRaaU9waWlQNEEzLTl0YjlHTjRZbUdVaGdYVGNUdzdLTDFCbDREQ01WN2lfWUZIV1JqSUlnc0pRN1Bn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非排外情緒升溫：數千外國人因擔憂暴力被迫離鄉",
+    "zhSummary": "數千名居住在南非的外國人，因擔憂遭受排外攻擊，選擇離開南非。這波人口流動凸顯了該國日益嚴重的社會問題。",
+    "zhContent": "<p>近期，南非正面臨一場嚴峻的人道挑戰。由於當地對外國人的排斥情緒日益高漲，並伴隨而來的暴力威脅，成千上萬住在南非的外國居民不得不放棄他們原有的生活，離開這個國家。這場大規模的人口遷徙，引起了國際社會的廣泛關注。</p><p>這些被稱為「排外攻擊」的事件，主要針對來自非洲其他國家或亞洲地區的移民。部分本地居民認為這些外國人搶走了工作機會，或是造成了社會問題，進而產生敵意。受害者可能會面臨言語上的侮辱、財物被破壞，甚至身體上的傷害。由於過去曾發生過嚴重的暴力衝突，許多外國人為了自身安全，只能做出離開的決定。</p><p>專家分析指出，南非長期存在的失業率高、貧富差距大等問題，是助長排外情緒的重要原因之一。在經濟困頓時，一些本地居民更容易將不滿轉嫁到外國人身上。儘管南非政府和多個社會組織已多次呼籲停止暴力，強調南非是一個多元共存的國家，但這類針對外國人的威脅與攻擊事件仍然時有耳聞。</p><p>面對不斷升級的威脅，許多外國人別無選擇，只能打包行囊，回到自己的國家，或轉往其他相對安全的地區尋求庇護。這不僅對個人生活造成巨大衝擊，也對南非的社會穩定帶來嚴峻考驗。目前，選擇離開南非的外國人人數持續增加，而南非當局正努力尋找有效的方法來處理和改善這些排外情緒與暴力問題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致南非的排外攻擊不斷發生？",
+      "生活與未來：你覺得這些被迫離開家園的外國人，未來的生活會面臨哪些實際的挑戰？",
+      "獨立思考提案：針對南非這種因為經濟困境而產生的排外衝突，你覺得除了政府呼籲，還可以怎麼做會更好？"
+    ],
+    "enTitle": "Thousands Flee South Africa Amid Threats of Xenophobic Attacks",
+    "enContent": {
+      "basic": "Thousands of foreigners are leaving South Africa. They are worried about getting attacked because of xenophobia. Xenophobia means disliking people from other countries. These attacks are often against migrants from other parts of Africa or Asia. People are scared for their safety and are going back to their home countries or finding new places to live.",
+      "intermediate": "A significant number of foreigners in South Africa are departing the country due to growing threats of xenophobic attacks. These attacks are fueled by local residents' resentment, who often accuse migrants, particularly from other African nations or Asia, of taking jobs and creating social issues. While the South African government has condemned the violence and promoted diversity, incidents of threats and physical harm persist, forcing many to seek refuge elsewhere.",
+      "advanced": "South Africa is currently experiencing a mass exodus as thousands of foreign nationals depart the country, citing grave concerns over escalating xenophobic violence. These attacks predominantly target migrants from other African countries and parts of Asia, driven by local sentiments attributing high unemployment and economic struggles to the presence of foreigners. Despite government condemnations and calls for tolerance, persistent threats and violent incidents have compelled many to leave, creating a humanitarian challenge and further destabilizing social cohesion within the nation."
+    },
+    "vocabulary": [
+      {
+        "word": "xenophobic",
+        "zh": "排外的。這個字用來形容一個人或一個群體，因為不喜歡、不信任或害怕來自其他國家、文化的人，而產生敵意或排斥的行為。"
+      },
+      {
+        "word": "exodus",
+        "zh": "大批人遷徙。這個字的意思是指很多人同時離開一個地方，通常是因為戰爭、災害或威脅而不得不離開。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-07-16",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHNqbGMzZnRwakJPWEIzcUZPODFpSEkzZ0VHaEpKalNNaEdnRXJZOWJzR0dfdFpVV01LSUZxNlR1TDJFWHVVdkRCMDctV3NjNnRDaldCYWx4VkF5QVJrVlpNWkZZaUxUQTZxUjA3WDdRR1NkSnM1Ymk2ZndjMWI1dHJzRFk0RHU0by05eTdKR1hMdkZBV3ZveG1lWGg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "荷莫茲海峽：全球石油的超級高速公路，為什麼大家都盯著它？",
+    "zhSummary": "這篇文章將介紹位於中東的荷莫茲海峽，說明這個看似不起眼的狹窄水道，如何因為是全球大量石油運輸的必經之路，而成為國際上一個超級敏感的焦點，尤其是當伊朗與其他國家關係緊張時，這個海峽的重要性就會被放大。",
+    "zhContent": "<p>嘿，大家好！今天我們要聊一個地方，它名字聽起來有點繞口，叫做「荷莫茲海峽」。它在中東地區，夾在伊朗和阿曼之間，就像一條細細的水道，連接了波斯灣和外面的世界。這個地方可不只是地圖上的一小塊而已，它在國際新聞上常常出現，每次出現，就代表中東地區又有點緊張了。尤其當伊朗這個國家跟其他國家關係不太好的時候，大家就會把目光鎖定在這裡。</p><p>那這個荷莫茲海峽到底為什麼這麼重要呢？答案很簡單，因為「石油」。你家裡用的電、你搭的車、還有很多工廠運作，都需要石油。而全球每天有很大一部分的石油，都要搭船從這裡經過，才能運到世界各地。想像一下，全世界每天大約有五分之一到三分之一的石油量，都會擠在這條大約只有39公里寬的海峽裡航行。所以它就像是一條全球石油的「超級高速公路」一樣，一旦有什麼狀況，全球的石油供應都會受到影響。</p><p>正因為它太重要了，所以荷莫茲海峽也常常成為一些爭議的焦點。伊朗就曾經多次威脅說，如果他們因為一些國際因素（例如其他國家對他們實施制裁）而無法好好賣石油，那他們可能就會把這條海峽給「關起來」。聽起來是不是很嚇人？因為一旦海峽真的被封鎖，全球石油價格肯定會飆漲，各國經濟都會受到很大的衝擊。這讓荷莫茲海峽變成伊朗在國際上很強大的一個談判籌碼。</p><p>當然，目前荷莫茲海峽並沒有真的被封鎖，全球大部分的船隻還是可以安全通過。但因為這裡的戰略地位太重要，所以國際上許多國家，特別是那些依賴石油進口的國家，都會非常關注這裡的動態。他們甚至會派遣海軍在附近巡邏，確保航運的安全。所以，荷莫茲海峽一直都是一個高度敏感的地方，即使沒有實際的「戰爭」，這裡的緊張氣氛也從來沒有真正消失過，全球都在默默關注著這條「生命線」的每一個變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到「荷莫茲海峽」最關鍵的價值是什麼？為什麼各國對它的動態都如此關注？",
+      "生活與未來：你覺得如果荷莫茲海峽真的被完全封鎖，會對全球的日常生活和經濟造成什麼實際影響？請舉例說明。",
+      "獨立思考提案：針對荷莫茲海峽所帶來的國際緊張情勢，你覺得除了武力威懾和制裁之外，還有沒有其他更和平、有效的方式來解決或預防衝突？"
+    ],
+    "enTitle": "The Strait of Hormuz: Why This Crucial Waterway Matters",
+    "enContent": {
+      "basic": "The Strait of Hormuz is a narrow waterway in the Middle East, crucial for global oil transport. It connects the Persian Gulf to the open ocean, with a significant portion of the world's oil passing through it daily. This makes it a key strategic choke point.",
+      "intermediate": "Located between Iran and Oman, the Strait of Hormuz is one of the world's most vital maritime chokepoints. Approximately one-fifth to one-third of the world's daily oil supply transits through this 39km wide passage. Its strategic importance leads to frequent international tensions, especially involving Iran, which has previously threatened to close the strait in response to sanctions.",
+      "advanced": "The geopolitical significance of the Strait of Hormuz, a critical maritime chokepoint connecting the Persian Gulf to the Gulf of Oman, cannot be overstated. With an estimated 20-30% of global oil supplies passing through its narrow 39-kilometer channel daily, its unimpeded transit is paramount to global energy security and economic stability. Iran, bordering the northern shore, has historically leveraged the threat of closure—often in response to international sanctions or perceived aggression—as a coercive tool, prompting heightened vigilance and naval presence from international powers to ensure freedom of navigation."
+    },
+    "vocabulary": [
+      {
+        "word": "Strait",
+        "zh": "海峽：地理名詞，指連接兩片大水域（例如兩個海洋或海灣）的狹窄水道。想像一下，就像一個水上的「窄門」或「通道」。"
+      },
+      {
+        "word": "Geopolitics",
+        "zh": "地緣政治：意思是研究地理因素（像國家的位置、資源、地形等）如何影響國際關係和國家政策。簡單來說，就是地理位置如何決定或影響一個國家在世界上的重要性和它跟其他國家的互動。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-07-16",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tN3d3SGFFOS1kb0ctMnU0WDdib1hmYUVaLXQ3bm5vRUFlUjVhN05nLVBJOUozTXo2ZnpDZ0NHQUJzMXpBNkdqbHdJNy13bUF0aDJSLUdLR19OQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "哇！韓國科技巨頭SK海力士股價飆升，亞洲科技股掀起熱潮！",
+    "zhSummary": "知名記憶晶片製造商SK海力士的股價最近一天內飆升了8%，主要是因為整個亞洲的科技公司股票都出現了一波上漲的趨勢，顯示投資人對科技產業前景充滿信心。",
+    "zhContent": "<p>你或許沒聽過「SK 海力士」這個名字，但你每天用的手機、電腦裡，可能就藏著他們製造的零件喔！SK 海力士是韓國一間非常大的公司，專門生產記憶晶片，也就是讓你的電子產品能儲存資料、快速運作的關鍵零件。最近，這間公司的股票突然變得很受歡迎，股價在一天之內就大漲了百分之八，引起了大家的注意！</p><p>這波股價上漲並不是只有SK 海力士一家公司遇到。其實，整個亞洲地區的科技公司股票最近都表現得特別好，出現了一股「上漲潮」。想像一下，當很多好消息讓大家覺得某個產業未來會很有潛力時，投資人就會很想買這些公司的股票，希望能跟著公司一起成長。所以當大家都看好科技業的時候，許多科技公司的股價自然就跟著水漲船高。</p><p>特別是像SK 海力士這種生產記憶晶片的公司，在數位時代扮演著非常重要的角色。隨著越來越多新的科技產品問世，像是更厲害的手機、AI人工智慧裝置等等，大家對記憶晶片的需求也越來越大。當市場對晶片的需求旺盛，代表這些晶片公司的訂單會增加，收入也會變多，自然就會讓投資人對他們的未來發展充滿信心。</p><p>所以，這次SK 海力士的股價飆升百分之八，就是整體亞洲科技股表現強勁的一個縮影。這個消息是由知名的商業媒體CNBC報導出來的，它反映了投資人對科技產業前景的樂觀態度。簡而言之，這次事件就是市場對科技公司的一個肯定，而SK 海力士正好是其中一個搭上這波熱潮的代表。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "SK Hynix Shares Soar as Asia Tech Stocks Rally",
+    "enContent": {
+      "basic": "SK Hynix, a big South Korean company that makes computer memory, saw its shares go up by 8% recently. This happened because many technology companies in Asia also had their shares go up, which is called a rally. People are excited about tech companies right now.",
+      "intermediate": "SK Hynix, a prominent South Korean manufacturer of semiconductor memory, experienced an 8% surge in its share price. This notable jump occurred amidst a broader rally in Asian technology stocks, indicating a strong positive sentiment from investors towards the regional tech sector. The company's performance reflects the general market optimism surrounding advancements and demand in the technology industry.",
+      "advanced": "South Korean semiconductor giant SK Hynix witnessed an impressive 8% increase in its stock value, as reported by CNBC. This significant gain was observed in conjunction with a robust rally across Asia's technology sector, underscoring a period of heightened investor confidence. The upward movement in SK Hynix's shares is indicative of broader market dynamics, where strong demand for memory chips and a generally optimistic outlook for technological innovation are driving positive performance among regional tech equities."
+    },
+    "vocabulary": [
+      {
+        "word": "Shares",
+        "zh": "股票 (gǔpiào) - 想像一下，一間大公司就像一個大蛋糕，而股票就是把這個蛋糕切成很多小塊，讓大家可以買。你買了一小塊蛋糕（股票），就代表你是這間公司的「小股東」，可以分享公司賺的錢，或是當公司變更值錢時，你的小塊蛋糕也會變更貴喔！"
+      },
+      {
+        "word": "Rally",
+        "zh": "飆漲 (biāozhǎng) / 上漲潮 (shàngzhǎngcháo) - 當股票市場上，有很多公司的股價在同一時間快速上漲，就像一群人突然同時往前衝刺一樣，我們就會說這是一個「上漲潮」，或簡稱「飆漲」。這通常代表大家對整個市場或某個產業很有信心，覺得未來會賺錢。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-07-16",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Yb1lWM3daRzFqNjhOU0tqMkZQYmNTUFYtelBSWnkyeEdQVlR1dnI2Yl8wQUtHM1BydklndUsyVnVHMEdZOVRXeGxkMWhISUNDWjN4LVFacDhDT2l6dkZUdS1nZXVBZlVrSDcyZHlSZDh4eXVRUmhELdIBfkFVX3lxTE9vUjFSM0ZsUi1rOEVTNGVvUDlJMDlCQVBDN0o1b3laODRIc2otdFAwQ2s4X1ZFNWNhVHctS3h2NU8tc0s5WTIwOVhwRl84Y0FfcVFUZGVzY1VselhwQ2M3aG5nTWtadU83ek9uejlIeUxsZVFKQkpyR3U3SXppdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "為什麼投資人突然不想待在印尼了？",
+    "zhSummary": "曾經是投資熱點的印尼，最近卻面臨資金快速撤出的情況。這背後，有全球經濟環境的變化，也有印尼政府為了國家發展所做的新決定，讓投資人開始重新評估他們的選擇。",
+    "zhContent": "<p>最近，曾經被看作是新興市場明星的印尼，遇到了點麻煩。很多原本看好印尼發展潛力的外國公司和投資人，突然開始把他們投入的資金快速抽離，不再像以前那樣積極地在這裡做生意或購買股票。這讓印尼的經濟市場出現了一些震盪，也讓大家都在好奇，這個擁有豐富天然資源的熱帶國家，究竟發生了什麼事？</p><p>投資人會「逃離」一個國家，通常不是單一事件造成的。這次印尼面臨的狀況，原因其實相當複雜。其中一個重要因素是全球經濟的大環境改變了。例如，一些主要經濟體為了穩定自己的物價，會提高銀行的借貸利率。當這些國家的利息變高，投資人就會覺得把錢放在那裡更划算、風險更低，自然就會把原本放在印尼等其他國家的錢抽回來。</p><p>此外，印尼政府也推出了一些新的策略。為了讓國家能有更長遠的發展，印尼希望可以把國內生產的天然資源，像是鎳礦、錫礦等等，多留在自己國內加工成高價值的產品，而不是直接當作原物料出口。雖然這個目標是好的，但對於一些習慣只在印尼開採、然後運出去賣的投資公司來說，這些新規定可能會增加他們的成本，或是讓他們對未來的獲利產生不確定感。</p><p>當大量資金離開印尼，可能會導致印尼的貨幣「盧比」變得比較不值錢，進口商品也會因此變貴。面對這樣的局面，印尼政府正努力想辦法穩定經濟，例如透過調整政策、或是積極與外國投資人溝通，希望可以重新建立他們的信心。目前，外界都在關注這些政策的實際效果，以及印尼如何在發展國家經濟的同時，也能吸引並留住國際投資。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Why Investors Are Suddenly Pulling Money Out of Indonesia",
+    "enContent": {
+      "basic": "Indonesia, a country with many natural resources, used to be a favorite place for investors. But recently, many foreign companies and people who put their money there are quickly taking it out. This makes Indonesia's economy shaky. Why is this happening? One big reason is that the global economy is changing. Some rich countries are raising their interest rates to control prices. This makes it more attractive for investors to keep their money in those countries, so they pull funds from places like Indonesia. Also, Indonesia's government has new rules. They want to process their natural resources, like nickel, inside Indonesia instead of just selling them raw. This is good for Indonesia in the long run, but it makes some investors unsure about their profits. When a lot of money leaves, Indonesia's currency, the rupiah, can become weaker. This makes imported goods more expensive. The Indonesian government is now working hard to fix this. They are trying to make the market stable again and get investors to come back.",
+      "intermediate": "Indonesia, once considered a rising star in emerging markets, is currently facing a significant challenge: a sudden and rapid withdrawal of foreign investment. This exodus of capital is causing volatility in the Indonesian economy, prompting questions about what has triggered this shift in investor confidence. The reasons behind investors 'fleeing' Indonesia are multi-faceted. A key factor is the evolving global economic landscape. Major economies, for instance, have been increasing their interest rates to combat inflation. Higher returns in these developed markets make them more appealing for investors, leading them to reallocate funds from emerging economies like Indonesia. Furthermore, the Indonesian government has implemented new policies aimed at fostering domestic industrialization. Specifically, they are encouraging the in-country processing of natural resources, such as nickel and tin, rather than exporting raw commodities. While this strategy is intended to add value and boost local industries in the long term, it has created uncertainty for some foreign companies that previously operated under a different model, potentially impacting their profitability and prompting reconsideration of their investments. The substantial outflow of funds could lead to a depreciation of the Indonesian rupiah, making imported goods more costly for consumers. In response, the Indonesian government is actively working to stabilize the economy. They are exploring policy adjustments and engaging in dialogue with international investors to restore confidence. The current focus is on observing the long-term impact of these new policies and finding a balance between national development goals and maintaining an attractive environment for global capital.",
+      "advanced": "Indonesia, a nation long lauded for its burgeoning economy and rich natural resource endowment, is presently grappling with an abrupt and substantial flight of foreign capital. This significant investor divestment has introduced considerable volatility into Indonesian financial markets, raising critical inquiries into the underlying catalysts for this erosion of confidence. The precipitous withdrawal of investment from Indonesia stems from a confluence of both global macroeconomic shifts and domestic policy recalibrations. Globally, the tightening of monetary policy by leading economies, primarily through interest rate hikes designed to curb inflationary pressures, has rendered developed markets more attractive for capital. This phenomenon encourages investors to repatriate funds from higher-risk, higher-yield emerging markets, including Indonesia, in pursuit of more stable and competitive returns. Concurrently, Indonesia's strategic pivot towards resource nationalism, exemplified by policies mandating the in-country processing of key commodities like nickel and tin rather than direct raw material export, has reshaped the operational landscape for foreign enterprises. While these protectionist measures are designed to enhance domestic value addition and secure long-term industrial growth, they have, in the short term, introduced an element of regulatory uncertainty and potentially diminished profitability for international investors accustomed to previous operating frameworks. This has prompted a re-evaluation of their investment portfolios within the archipelago. The pronounced capital outflow carries tangible economic repercussions, including a potential depreciation of the Indonesian rupiah, which in turn elevates the cost of imports and contributes to inflationary pressures. In response to these challenges, the Indonesian administration is actively implementing measures aimed at market stabilization and the rejuvenation of investor appeal. This involves a careful recalibration of economic policies and robust engagement with the international investment community. The ongoing narrative centers on monitoring the long-term efficacy of these domestic strategies against the backdrop of an evolving global financial environment, striving for an equilibrium that fosters national development while simultaneously preserving a conducive climate for foreign direct investment."
+    },
+    "vocabulary": [
+      {
+        "word": "Investor",
+        "zh": "投資人：指那些把錢投入到公司、股票或各種計畫中，希望未來能賺更多錢的人。就像你把零用錢存起來買喜歡的東西一樣，投資人則是希望錢能生錢。"
+      },
+      {
+        "word": "Fleeing",
+        "zh": "逃離/撤離：通常指因為危險或問題而快速離開某地。在這裡，是說投資人快速地把他們投入印尼的資金抽走，離開印尼市場。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-07-16",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlBxTjBLUkZDQy1aM2RxTEUwQUVtVnVhWXM2RWhYLTFadnhVSVNMbm9KSnliS1pTMXZBdEI1Nl9IR0JVc210NjVkaG0zcGx4ZWxHcUFpdTc3VzZ4RW5BT1Y5d1M1emQ3Y1dpVjJYWms5alo2bHYxc1VqaDQ2dEwyUXlEc9IBgwFBVV95cUxNakZoWHIzTHlnRGVyczBlN25sdzhTekhzbkNFNjh2ay1XWGJCT2M5NE4yNzFxb3JVdmhaLVhpUHlUNWxCTlVLOG1pcFNKTGZ5ZWd4U3B1MmV3RVJNVmZDSG1tYkxWbm5ZMUNyTzJHS2RhdFVCOElhdHlTS0VETTZmV2FHTQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "紐西蘭警報響起！H5N1禽流感恐怕「落地生根」",
+    "zhSummary": "紐西蘭政府單位「初級產業部」發出警告，H5N1禽流感病毒已經抵達紐西蘭，並且很可能將在當地「落地生根」，成為長期威脅。",
+    "zhContent": "<p>嘿，大家注意囉！最近一個讓紐西蘭有點緊張的消息傳出來了。根據紐西蘭「初級產業部」（MPI）的最新說法，一種叫做「H5N1禽流感」的病毒，已經悄悄抵達紐西蘭。而且，他們還預估，這個病毒很有可能會在當地「落地生根」，變成長期存在的問題。這可不是個小事情，因為H5N1對鳥類來說，是很嚴重的疾病。</p><p>H5N1禽流感是一種主要影響鳥類的病毒，常常透過野生候鳥的遷徙傳播到不同的地方。當病毒在一個地區「落地生根」時，意思就是它不再只是短暫出現，而是有可能會長期在這個環境中傳播，影響當地的鳥類生態。這對紐西蘭來說，意味著他們可能要面對一個新的長期公共衛生和環境挑戰，尤其是對當地的野生鳥類群體，可能會造成不小的衝擊。</p><p>初級產業部（MPI）是紐西蘭負責管理農業、漁業和食品安全的政府部門。他們這次發出警告，是基於對病毒傳播模式和當地環境條件的評估。雖然目前新聞沒有提到詳細的傳播途徑或具體案例，但這份聲明顯示了政府對於這種新型病毒入侵的嚴肅態度。他們正在密切監測情況，並準備好應對可能發生的變化，因為保護當地獨特的生態環境是他們的責任之一。</p><p>總之，紐西蘭目前面臨的，就是H5N1禽流感可能成為當地常態性問題的風險。初級產業部已經清楚說明了這項潛在的威脅。現在，一切都在他們的觀察與控制中，而這則新聞的重點就是告訴大家，這是一個需要被關注的新進展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞提到了「H5N1禽流感」在紐西蘭可能「落地生根」，你覺得這個說法代表什麼意思？",
+      "生活與未來：H5N1禽流感主要影響鳥類。你認為這種病毒在紐西蘭長期存在，會對當地的野生動物或人類生活帶來哪些潛在影響？",
+      "獨立思考提案：當一種新的疾病威脅出現時，除了政府部門的應對，你覺得我們一般人可以如何協助保護環境或預防疾病擴散呢？"
+    ],
+    "enTitle": "New Zealand on Alert: H5N1 Bird Flu Likely to Take Hold",
+    "enContent": {
+      "basic": "H5N1 bird flu has arrived in New Zealand. The government, MPI, says it might stay for a long time. This flu usually makes birds very sick.",
+      "intermediate": "New Zealand's Ministry for Primary Industries (MPI) warns that H5N1 bird flu has been detected and is likely to become established in the country. This means the virus could become a permanent fixture, posing a risk to local bird populations.",
+      "advanced": "The Ministry for Primary Industries (MPI) in New Zealand has issued a significant alert regarding the newly arrived H5N1 avian influenza virus. MPI anticipates that the virus is highly likely to take hold and establish itself within the country, indicating a potential long-term endemic threat to New Zealand's native bird species and broader ecological systems."
+    },
+    "vocabulary": [
+      {
+        "word": "Bird Flu",
+        "zh": "「禽流感」是一種主要影響鳥類的病毒性疾病。就像人類會感冒一樣，鳥類也會因為這種流感而生病，嚴重的話甚至會死亡。"
+      },
+      {
+        "word": "Take Hold",
+        "zh": "「落地生根」在這裡的意思是，一種疾病或病毒不再只是短暫出現，而是長期地在某個地方存在、傳播下去，變成那個地方的「常客」。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-07-16",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzhwZjctZlo0X0tINHE0WVNLNG5aaHFoM00yVE9nUTNNU2pHRHcwRnc2MlFZUF8wVTh2Sk8tdXM4NHlsQzJIVmhTVC1RMmRrTGNaMGJpVFJIZE00b1I0UC14NG50UWh3eWk4UVllVXBUdGpxSE5sbTltRlpCN2tnREtuRUtqV2VqSmRDdGkwdVJFdlNubUpPdHJjdXFmWVhkMHlOYWtiR1A0ZFoyMmtkeFJhbnFtWXdP?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "曼谷酒吧火災悲劇：總理嚴批業者堵塞逃生口，至少27人罹難",
     "zhSummary": "泰國曼谷一家酒吧發生嚴重火災，造成至少27人死亡。泰國總理對此表達強烈不滿，嚴厲批評業者堵塞逃生通道且未標示消防出口，導致許多顧客無法順利逃生。",
     "zhContent": "<p>2026年7月13日晚間8點左右，泰國首都曼谷發生了一起令人心碎的重大火災事件。一家當地酒吧突然陷入火海，這場突如其來的意外，不幸奪走了至少27條寶貴的生命，造成了難以估量的悲劇。消息傳開後，全國都籠罩在悲傷的氣氛中。</p><p>對於這起嚴重火災，泰國總理迅速表達了高度關切，並嚴厲批評了相關業者。根據總理的說法，調查發現這家酒吧在安全方面存在嚴重疏失，特別是在緊急逃生通道的設計與維護上。業者不僅堵塞了部分逃生出口，讓顧客在危急時刻無路可退，更沒有明確標示出消防通道的位置，讓大家在慌亂中難以辨別正確的逃生方向。</p><p>想像一下，當火災發生時，如果唯一的出口被雜物擋住，或者你根本不知道哪裡才是安全的出口，那種無助感會是多麼可怕。總理指出，正是這些致命的安全問題，大大增加了火災中的傷亡人數。他強調，業者有責任確保顧客在店內的生命安全，而這次的事件顯然是因為業者沒有盡到這些最基本的責任。</p><p>目前，泰國政府已經承諾將針對這起事件展開全面且深入的調查，務必釐清所有相關責任。總理表示，將會對造成這次悲劇的業者追究到底，確保類似的疏失未來不再發生。這起事件也再次提醒了各界，公共場所的安全規定絕不是兒戲，而是保障每個生命最重要的防線。</p>",
@@ -11476,461 +11931,6 @@
     "tagClass": "tag-nature",
     "region": "大洋洲",
     "date": "2026-06-16",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFRSMVlBS3dqRnBYQmxnVlZiUlBkMG1jMzc5bkh3SGVuSnhhYUwxa0xmUFhvVE1PXzdHbHloSjN0cnVoUjYyQ3lYV1NWZHhRQlc0RTJZQjFVZHF1NmY5WjUtUWlJVk16TElQRHRGcVpQYThQNEVHQl9DaWY5Ti1OaFpBaWZXNS1xN1NGVlhIN1N5VlMyRmhIYXhwdXBZV1Yy?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "百年等待！聖家堂「高第夢想」實現中，獨家揭秘建築奇蹟！",
-    "zhSummary": "台灣TVBS與國際夥伴獨家紀錄西班牙聖家堂的最新進度，揭開這座蓋了一百多年的建築如何一步步實現傳奇建築師高第的夢想，讓全球觀眾一同見證這百年歷史時刻。",
-    "zhContent": "<p>各位熱愛歷史與建築的朋友們，你們知道在西班牙巴塞隆納，有一座蓋了一百多年還沒完工的教堂嗎？它就是大名鼎鼎的「聖家堂」！這座由天才建築師高第設計的教堂，一直以來都是大家非常關注的焦點。最近，一個讓全球期待的好消息傳來：台灣的電視台TVBS和國際夥伴們攜手合作，即將深入聖家堂，獨家記錄這座百年建築邁向完工的「夢想成真」歷史時刻！</p><p>這可不是一般的採訪喔！TVBS這次是與國際上的專業團隊合作，獲得了非常難得的機會，可以進入聖家堂最核心的區域，捕捉那些平時一般遊客看不到的建築細節和最新進度。想像一下，這座傳奇教堂的尖塔、雕塑和內部結構，在經過這麼多年的努力後，終於一步步實現高第最初的設計藍圖。TVBS的團隊將用鏡頭忠實呈現這一切，讓全世界的觀眾都能像是親臨現場一樣，感受這份跨越世紀的感動。</p><p>聖家堂的故事真的很有趣。高第在一百多年前開始設計它，但他來不及看到完工就過世了。從那以後，一代又一代的建築師和工匠接力，遵循著高第留下的設計圖和理念，一步一步地建造。這不僅僅是一座教堂，它更像是一件活生生的藝術品，承載著無數人的心血與期待。這次的獨家紀錄，就是要讓大家看見，高第當年那些看似遙不可及的偉大夢想，是如何在漫長的時間長河中，逐漸化為真實。</p><p>總之，TVBS與國際夥伴的這次合作，不僅僅是記錄一個建築工程的進度，更是見證人類毅力與藝術結合的百年奇蹟。他們將把聖家堂從未曝光的珍貴畫面和施工細節帶給觀眾，讓大家了解這座傳奇建築是如何一步步走向完成。這場獨家記錄，將成為聖家堂漫長歷史中一個重要的里程碑，讓更多人能一同感受高第夢想即將實現的興奮與榮耀。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Historic Moment! TVBS Reveals Sagrada Familia's Gaudi Dream Coming to Life",
-    "enContent": {
-      "basic": "TVBS, a Taiwanese media company, has partnered with international groups to document the ongoing construction of Sagrada Familia in Barcelona, Spain. This famous church, designed by architect Antoni Gaudí over a century ago, is slowly nearing completion. TVBS will provide exclusive access, showing viewers the progress of this historic project, which has been worked on by many generations of builders. This special report will let people worldwide witness how Gaudí's long-term vision is finally becoming a reality.",
-      "intermediate": "TVBS has announced an exclusive collaboration with international partners to document a significant historical milestone at the Sagrada Familia in Barcelona. This iconic basilica, conceived by the renowned architect Antoni Gaudí more than a hundred years ago, is celebrated for its intricate design and prolonged construction. The media team will gain unprecedented access to the church's core areas, capturing the latest developments and architectural details typically unseen by the public. This initiative aims to chronicle how Gaudí's ambitious dream is progressively being realized, allowing a global audience to experience this monumental journey through exclusive footage.",
-      "advanced": "In a testament to enduring architectural vision and collaborative journalism, TVBS, in conjunction with international media partners, is undertaking an exclusive documentary project on the Sagrada Familia in Barcelona. This venture aims to capture a pivotal moment in the basilica's century-long construction, bringing to light the culmination of Antoni Gaudí's intricate designs. With privileged access to the edifice's most crucial and recently developed sections, the documentary will meticulously detail the intricate craftsmanship and engineering advancements that are steadily bringing Gaudí's original blueprint to fruition. This initiative serves as a critical historical record, allowing a worldwide audience to witness the realization of one of humanity's most ambitious and sustained architectural endeavors."
-    },
-    "vocabulary": [
-      {
-        "word": "Cathedral",
-        "zh": "大教堂 (dà jiào táng) - 指的是規模很大、建築很宏偉的教堂，通常是一個地區主教的駐地。聖家堂雖然確切來說是「宗座聖殿」，但它雄偉的程度就像大教堂一樣，讓大家更容易理解喔！"
-      },
-      {
-        "word": "Architect",
-        "zh": "建築師 (jiàn zhù shī) - 專門設計房子、大樓、橋樑等建築物的人。他們不只會畫圖，還會思考結構、美感和實用性，就像聖家堂的設計師高第一樣厲害！"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-06-15",
-    "sourceName": "天下雜誌",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNUg1Uzd2VEN0cmxJYmp0dUVDOWFOZW1DaGt0ai16S21iREtpOVFpM1lnS0hZNzJqTC05T0R2LUUxVXBqbHlJUV93VVlUVlNoajFVNGZhNmZYN1E?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "地球發燒警報！人類活動讓全球暖化逼近1.5°C關卡",
-    "zhSummary": "最新消息指出，由於人類日常活動的影響，地球的氣溫正快速上升，已經非常接近科學家設定的「1.5°C」危險門檻，這顯示全球暖化的速度比預期更快。",
-    "zhContent": "<p>最近一份來自國際科學界的評估報告，讓大家更清楚地看到地球現在的狀況。報告指出，我們人類的各種活動，正不斷將全球氣溫推向一個關鍵的數字——比起工業化之前，地球平均溫度上升1.5°C的門檻。這個數字不是隨便說說，它是許多國家在《巴黎協定》中共同設定的目標，希望全球升溫不要超過這個界線，來避免更嚴重的氣候變化。</p><p>這次的評估主要是根據最新的科學數據與氣候模型推算出來的結果。報告特別強調，從1850年到2019年間，人類活動已經讓地球的平均溫度升高了大約1.1°C。這升高的溫度，大部分都是因為我們燃燒煤炭、石油、天然氣等化石燃料，以及大規模砍伐森林所造成的。這些活動排放了大量的溫室氣體，像是二氧化碳，它們就像一層層的棉被，把地球的熱量鎖住，導致氣溫持續上升。</p><p>研究發現，地球升溫的速度確實很快。在過去的幾十年裡，每十年地球的平均溫度就會上升大約0.2°C。這個升溫速度，讓科學家們推算，地球很可能在未來十到二十年內，就會達到或甚至超過升溫1.5°C的目標。這表示我們正面臨一個嚴峻的挑戰，如果氣溫持續上升，會對全球環境產生長期的影響。</p><p>這份報告的結論非常直接：目前地球的溫度已經明顯上升，而且主要的原因就是人類活動。如果我們維持現在的生活方式，地球溫度朝著1.5°C的目標前進是可預見的趨勢。報告詳細呈現了過去的數據和未來的推估，客觀說明了全球暖化目前的現況，並未對未來提出具體建議或預測。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到「1.5°C的門檻」是什麼意思？為什麼科學家會特別強調這個數字？",
-      "生活與未來：你覺得這個地球升溫的趨勢，可能會對你或身邊的人帶來哪些實際的影響？",
-      "獨立思考提案：如果人類活動是造成地球升溫的主要原因，你覺得有哪些事情是我們可以從自己身邊做起，來減緩這個狀況的？"
-    ],
-    "enTitle": "Human Activities Push Global Warming Towards Projected 1.5°C Threshold",
-    "enContent": {
-      "basic": "A new report says that because of what people do every day, the Earth's temperature is getting very close to a critical limit. This limit is called 1.5°C. Scientists say that human activities, like burning fuel and cutting down trees, are making the world warmer faster than before. The report shows that the Earth's average temperature has already gone up by about 1.1°C since the time before factories were common. It also warns that we might reach or go over the 1.5°C limit in the next 10 to 20 years if things don't change. This means the planet is warming up quickly because of us.",
-      "intermediate": "A recent scientific assessment highlights that global warming, driven by human activities, is rapidly approaching the critical 1.5°C threshold. This target, set by the Paris Agreement, aims to limit the increase in global average temperature compared to pre-industrial levels to mitigate severe climate change impacts. The report indicates that human actions, such as burning fossil fuels and deforestation, have already caused a rise of approximately 1.1°C since 1850. With temperatures increasing by about 0.2°C per decade, projections suggest the 1.5°C limit could be reached or exceeded within the next 10 to 20 years under current trends. The assessment objectively presents the current state of global warming, primarily attributed to human influence.",
-      "advanced": "A recent comprehensive scientific assessment has underscored that anthropogenic activities are precipitating a rapid acceleration of global warming, pushing average temperatures dangerously close to the aspirational 1.5°C limit enshrined in the Paris Agreement. This critical benchmark represents a collective international commitment to curtail global temperature increases relative to pre-industrial levels, thereby mitigating the most severe ramifications of climate change. The report meticulously details that human-induced emissions, primarily from the combustion of fossil fuels and extensive deforestation, have already contributed to an approximate 1.1°C rise since the mid-19th century. Alarmingly, the observed decadal warming rate of approximately 0.2°C suggests that the 1.5°C threshold is projected to be breached within the next one to two decades, based on prevailing trends. The assessment provides a factual overview of the current climate trajectory, attributing the accelerating warming trend predominantly to human influence without offering prescriptive solutions or future predictions beyond its observational scope."
-    },
-    "vocabulary": [
-      {
-        "word": "Global warming",
-        "zh": "全球暖化：指地球的平均氣溫越來越高，這會導致氣候變得不穩定，像是夏天更熱、颱風更強等。"
-      },
-      {
-        "word": "Projected",
-        "zh": "預計／預測：根據目前的資料和科學分析，推測未來可能會發生的情況。它不是百分之百確定的，但有很高的可能性。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-06-15",
-    "sourceName": "The Guardian Nigeria News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXBjTHFkd0FxdmVXWFE5b0dxdUxKenVWMlFrMFRZNUczb01KdDItWmxDU1lsNE0zeDZqRmptREJUcFc5SjFHM2QzSnlreWRmTzFqd0Q5QmFSN1Q2cm42MDIzVVRtRDV0RkhXR1Z2V3F0dlgzWENRTzhiLUtBc28xbmhacU5vVE03eDFCTDVB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "圖書館變身藝術殿堂：Percy Irons壁畫點亮莫羅阿社區",
-    "zhSummary": "藝術家Percy Irons在莫羅阿公共圖書館創作了一幅大型公共藝術壁畫，成功美化了圖書館，並使其成為社區居民都能隨時欣賞的文化新亮點。",
-    "zhContent": "<p>莫羅阿公共圖書館最近迎來了一項令人耳目一新的改變！當地藝術家Percy Irons運用他的創意，為圖書館的外牆增添了一幅獨特的公共藝術壁畫。這幅作品不只讓圖書館煥然一新，更成為社區裡一道亮麗的風景線，而且所有人都隨時可以前往欣賞這份藝術之美。</p><p>這項藝術計畫的目標很明確，就是要透過視覺藝術的力量，為公共空間注入更多活力與色彩。Percy Irons在創作這幅壁畫時，想必融入了許多對當地社區的觀察與情感。想像一下，當你走進圖書館，不只能沉浸在書本的世界，還能被這幅充滿細節與故事的壁畫所包圍，這無疑提升了圖書館作為文化中心的體驗。</p><p>NPR Illinois的報導指出，這類型的公共藝術計畫，除了美化環境，更重要的作用是鼓勵居民走進公共空間，增進社區互動與歸屬感。透過藝術家的創作，莫羅阿公共圖書館不只是一個借閱書籍的場所，它更轉變成了一個開放的藝廊，讓藝術不再遙不可及，而是日常生活中隨處可見的美好。這也是為什麼，這幅壁畫特別強調「公共性」，希望能與所有到訪的民眾產生連結。</p><p>目前，這幅由Percy Irons傾力完成的公共藝術壁畫，已經正式成為莫羅阿公共圖書館的常駐風景，並完全對外開放。無論是特地前來欣賞藝術的遊客，還是習慣到圖書館閱讀的常客，都能親身感受到這項計畫為社區帶來的實質改變。這不僅僅是牆面上的色彩，更是為當地文化生活增添了新的光彩與活力，讓每個人都能分享這份公共藝術的樂趣。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Percy Irons' Mural Beautifies Moroa Public Library",
-    "enContent": {
-      "basic": "Artist Percy Irons helped make the Moroa Public Library more beautiful. He painted a big public art mural on the library. Now, everyone can go and see this new artwork.",
-      "intermediate": "Percy Irons, an artist, has created a public art mural that has significantly improved the appearance of the Moroa Public Library. This new artwork is now a community highlight, freely accessible for all visitors to enjoy and appreciate.",
-      "advanced": "In a notable community initiative reported by NPR Illinois, artist Percy Irons has substantially contributed to the aesthetic enhancement of the Moroa Public Library. His creation of a captivating public art mural not only revitalizes the library's exterior but also establishes a vibrant cultural landmark, open for public visitation and appreciation."
-    },
-    "vocabulary": [
-      {
-        "word": "beautify",
-        "zh": "「美化」。就是讓某個地方或物品變得更漂亮、更吸引人的意思。"
-      },
-      {
-        "word": "mural",
-        "zh": "「壁畫」。畫在牆壁上的大型畫作。通常是直接畫在牆上，而不是掛上去的圖畫。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-06-15",
-    "sourceName": "NPR Illinois",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTUtab3dXSTBZRjEtMElIU1hNQ2t6SV9wZlYtOEtXRzZMM0RsaXd1WWNpbHV4dFIyejZyRjJKLVJrVHNYWkhaR0JJVzYxakZGeHRQY3d4THNKR0p2UV9PWnRiQUkyeUJyeUQ2VThMaEV3bnpQR3g3N1l0SDFhTDdQcnJLOTZVZjZMdUdDZXlCZEVRYldBT2RoRkZiOHk1M0NHVWctdU5CeFZyQVB1SmYyU0MtWVFpS3BWdklMVkZYdVpkSlhfcjllWFl3RFhzSTlkMWRKallrNVBhcDNpZkFn?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "頂尖經濟學家也瘋AI？全球財經巨頭掀起「AI經濟學」新浪潮！",
-    "zhSummary": "國際財經雜誌《經濟學人》報導指出，全球許多頂尖的經濟學家，現在都深深受到人工智慧（AI）的影響，積極運用AI技術來分析經濟趨勢，這正在徹底改變我們對金錢世界的理解方式。",
-    "zhContent": "<p>最近全球財經雜誌《經濟學人》報導了一個超有趣現象：一群世界上最頂尖的經濟學家，現在都深深受到人工智慧（AI）的影響，可以說他們是「AI迷」了！這不是說他們吃了什麼奇怪的藥，而是指他們現在看待世界經濟的方式，都離不開AI的幫忙。報導指出，這些經濟學家們正在掀起一場大變革，讓AI成為他們研究經濟不可或缺的超強工具。</p><p>報導中提到，這些聰明的專家不再只用傳統的數學模型和統計數據來預測經濟走勢。他們開始利用AI強大的運算能力，分析海量的資料，例如社群媒體上的發文、新聞報導，甚至是衛星圖像，來找出以前根本看不到的經濟線索。透過AI，他們可以更即時、更精準地掌握市場脈動和消費者行為，預測什麼商品會熱賣、或是股市可能會怎麼波動。</p><p>為什麼會有這麼大的轉變呢？原來，現代的經濟環境越來越複雜，變化速度也快到讓人跟不上。傳統的分析方法有時候會顯得有點慢。AI就像一個超強大、不知疲倦的助手，能處理的資訊量遠遠超過人類。這些經濟學家發現，透過AI，他們可以發展出全新的理論，甚至解決過去一直困擾經濟學界的難題，例如預測金融危機或了解通貨膨脹的真正原因。</p><p>總結來說，《經濟學人》這篇報導指出，經濟學界正在經歷一場科技革命。過去被視為非常需要「人腦」的經濟分析，現在正大步走向與人工智慧結合的時代。這代表未來我們對經濟的理解，可能將會因為AI的參與而變得很不一樣，而且這股趨勢正在全球頂尖的學者間快速蔓延，徹底改變經濟學研究的樣貌。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The World's Top Economists Are Hooked on AI, Says The Economist",
-    "enContent": {
-      "basic": "The Economist magazine recently reported that top economists are now heavily influenced by Artificial Intelligence (AI). They are using AI to analyze huge amounts of data, like social media posts, to better understand the economy. This is a big change from old methods. AI helps them see new trends and make better predictions. This shows how much technology is changing economics.",
-      "intermediate": "A recent report from The Economist highlights a significant shift among the world's leading economists: they are increasingly 'AI-pilled,' meaning deeply convinced by and reliant on Artificial Intelligence. These experts are moving beyond traditional mathematical models, leveraging AI's powerful computational abilities to process vast datasets—including social media, news, and even satellite imagery—to uncover previously unidentifiable economic indicators. This allows for more real-time and precise understanding of market dynamics and consumer behavior. The complexity of modern economies makes AI an indispensable tool for developing new theories and tackling long-standing economic challenges.",
-      "advanced": "The Economist's recent exposé, \"Meet the world’s top AI-pilled economists,\" illuminates a profound paradigm shift within the upper echelons of economic thought. Leading figures in the field are rapidly integrating Artificial Intelligence into their analytical frameworks, moving beyond conventional econometric models. This assimilation involves harnessing AI's unparalleled processing power to synthesize colossal, unconventional datasets—ranging from granular social media sentiment to geopolitical news feeds and even high-resolution satellite imagery—thereby unearthing nuanced economic signals previously beyond human or traditional computational grasp. The impetus for this embrace stems from the escalating complexity of global economic systems, where AI offers a potent mechanism for real-time market pulse readings, refined predictive modeling, and the potential to forge novel theoretical constructs capable of addressing intractable issues like financial contagion or inflationary drivers. This collective pivot underscores a technological revolution underway in economics, fundamentally reshaping the discipline's methodology and epistemic foundations."
-    },
-    "vocabulary": [
-      {
-        "word": "Economist",
-        "zh": "經濟學家：研究國家、社會或家庭如何生產、分配和使用金錢和資源的專家。"
-      },
-      {
-        "word": "Artificial Intelligence",
-        "zh": "人工智慧 (AI)：一種讓機器能夠像人類一樣思考、學習和解決問題的技術，簡稱AI。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-06-15",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2NBMEVVTG5NdjZjdkZGaGU5YV9fUHVnSktMcmdJU2lzSUQ3RTVXZTQtc3dXODAzSVROM1NSN041UDgyX01sQ0NVRTFqWXlicnZfREhJb3VBblFPM01zV3VBWFFaMDA1akh4dVo3TXhqWVFhSUo3RHhmYS0yVzJIb0Fuc0FfVkp4Mk5DTnJUUjlQVUU2YnVlZzVOWmVDNHVJ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "週末玩什麼？TAPinto 公布城鎮活動指南！",
-    "zhSummary": "美國在地媒體 TAPinto 為居民整理了六月十二日至十四日週末的活動清單，內容多元，鼓勵大家參與社區。",
-    "zhContent": "<p>TAPinto 作為一個專注於美國各城鎮地方新聞與社區資訊的媒體平台，近期為即將到來的六月十二日至六月十四日這個週末，精心編製並發布了一份名為「本週末城鎮內外有趣的活動」的專題指南。這份指南的核心目標，是為了幫助當地居民輕鬆地掌握當週所有值得參與、充滿樂趣的在地活動，提供一份便捷的參考清單，讓大家能夠更有效率地規劃並享受美好的週末時光。</p><p>這份特別的週末指南涵蓋了相當廣泛且多元的活動內容，旨在滿足不同年齡層和興趣愛好者的需求。其中可能包含了當地公園或綠地舉辦的戶外音樂會、藝術市集、社區手作工作坊，或是鄰里之間共同參與的體育賽事。此外，也可能推介了特定文化中心或博物館的限時展覽，甚至是當地餐廳或商店推出的週末優惠活動。這些項目從靜態的藝文欣賞到動態的親子娛樂，選擇十分豐富。</p><p>TAPinto 之所以持續發布這類型的週末活動指南，是基於其對於社區連結與在地發展的重視。透過集中提供這些資訊，媒體希望能夠激勵居民主動走出家門，積極參與到社區生活之中。這不僅有助於提升大家對地方的歸屬感，也能實質性地支持當地的藝文團體、中小型商家與非營利組織的運營。這份指南就像一座橋樑，連結了資訊與行動，讓居民更容易發掘並體驗到身邊的精彩。</p><p>最終，這份名為「本週末城鎮內外有趣的活動」的專題指南，已經在規定的六月十二日至六月十四日這個週末來臨之前，透過 TAPinto 的官方網站與其多媒體平台，向所有對此感興趣的讀者們正式發布。它成功地為尋求週末休閒娛樂與行程安排的當地民眾，提供了一個清晰、全面且實用的參考依據，確保大家都能在規劃中找到最符合自己期望的活動，度過一個愉快且充實的週末。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "TAPinto Releases Weekend Activity Guide for June 12-14",
-    "enContent": {
-      "basic": "TAPinto, a local news platform in the US, published a guide for the weekend of June 12th to June 14th. The guide is called \"Fun Things to Do in and Around Town This Weekend.\" Its goal is to help local residents find activities and plan their weekend. It lists many different kinds of events for all ages and interests.",
-      "intermediate": "TAPinto, a media platform focused on local news and community information in the United States, recently released a special guide titled \"Fun Things to Do in and Around Town This Weekend,\" covering June 12th to June 14th. This curated list aims to assist residents in discovering enjoyable local activities, offering a convenient reference for planning their weekend leisure effectively. The guide includes diverse options like outdoor concerts, craft markets, and cultural exhibitions, encouraging community participation.",
-      "advanced": "Serving as a dedicated local news and community information platform across various US towns, TAPinto has meticulously compiled and disseminated a comprehensive special guide for the upcoming weekend of June 12th through June 14th, titled \"Fun Things to Do in and Around Town This Weekend.\" This initiative's primary objective is to empower local residents with a streamlined, single-source compendium of engaging activities, thereby facilitating efficient weekend planning and fostering robust community engagement through diverse offerings that span cultural, recreational, and educational spheres."
-    },
-    "vocabulary": [
-      {
-        "word": "curate",
-        "zh": "「策劃、精選」。意思是指像博物館管理員一樣，仔細挑選、整理並呈現一系列東西，像是活動、藝術品或資訊。"
-      },
-      {
-        "word": "engagement",
-        "zh": "「參與、投入」。指一個人或一個群體積極地參與某項活動、事務或與某人、某團體建立連結的行為。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-06-15",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUVFNbmdaamIyOHBKd3ZITHM4bHNqejREWDhZS3pTUDl5WXRrNl9KVjNUdWtEOFFMLUV5c3JBYnM0dmxFYy03WU4xMUE0TjltSkJLREJtOV9hMm9JVGxYSFYwbWhpTWg5SjJJTHozeTU0dEY3QTRyQVl0Njk4ZkNuUS1vNjZFY2VGUjhaUFZxLVd1ZXlpVGZpWFB2MUJCR0kxaWtLaXVVdXJzN2hYSlJNYlBiZ1c0YTgzWFZZXzZObGFvMjVPU2FyaEpkQjZEd0ZJNktONUtkdzFGeXdCYWNDY0w4V1hxUTZ2NG16U0RpWGxidVEtMkJZSmtDMzZ5M3VUMElndi1laUlhdkE3aF9RZQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國和伊朗要「談判」？你吃的食物和石油價格可能都受影響！",
-    "zhSummary": "最近有消息指出美國與伊朗可能達成一項協議，這項協議如果成功，將會影響伊朗的石油出口量，進而可能改變國際油價，甚至影響到你我日常生活中食物的價格。",
-    "zhContent": "<p>最近，國際間有個大新聞，那就是美國和伊朗可能正在談一個重要的協議。這個消息聽起來好像離我們很遠，但其實它可能跟我們每天的生活息息相關，尤其是當你爸媽去加油、或者去超市買菜的時候，都可能感受到它的影響。簡單來說，這項協議如果談成了，可能會改變全球石油的價格，進而影響到我們吃的東西會不會變貴或變便宜。</p><p>大家可能知道，伊朗是個石油非常豐富的國家，擁有大量的原油儲備。不過，因為過去國際上一些政治和經濟上的考量，伊朗的石油出口一直受到嚴格的限制，能賣到國際市場的油量並不多。但如果美國和伊朗真的達成協議，這些限制就有可能放寬，那麼伊朗就能夠把更多原油賣到世界各地。這就像本來市場上的商品不多，突然間貨源大增一樣。</p><p>當國際市場上的石油供應量增加時，通常就會讓油價往下跌。想想看，如果生產汽油的「原料」——原油變便宜了，那麼加油站的油價就有可能跟著下降。這不只影響你家車子加油的費用，還會影響到貨運的成本。因為無論是把農產品從農場運到市場，還是把超市裡的商品從倉庫送到店面，這些都需要用到大量的卡車和油料。所以，如果運輸成本降低了，那麼食物和其他商品的價格也可能跟著有變化。</p><p>目前，這項協議還在討論階段，還沒有一個確定的結果。專家們都在密切關注事情的發展，因為最終會不會談成，會對全球經濟產生什麼樣的實際影響，都還是一個未知數。所以，現在就是看看兩邊的談判會如何進展，以及這是否會真的為國際市場帶來新的變數。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US-Iran Deal: How It Could Affect Oil and Food Prices",
-    "enContent": {
-      "basic": "News says the US and Iran might make a deal. This deal could change how much oil Iran sells. More oil from Iran could make global oil prices go down. Cheaper oil might make food cost less because it's cheaper to move food around. People are watching to see what happens.",
-      "intermediate": "A potential agreement between the United States and Iran is currently making headlines. If successfully negotiated, this deal could ease restrictions on Iran's crude oil exports. An increase in the supply of Iranian oil to the global market would likely lead to a decrease in international oil prices. This shift in oil prices could then affect the cost of transportation for goods, including food, potentially influencing consumer prices. The outcome of these negotiations is keenly observed by experts worldwide.",
-      "advanced": "Global attention is focused on ongoing discussions surrounding a prospective deal between the United States and Iran. Should an agreement materialize, it is anticipated to significantly impact Iran's capacity for crude oil exportation, which has historically been constrained by international sanctions. A substantial increase in Iranian oil supply to the global market would exert downward pressure on international oil benchmarks. This potential reduction in energy costs, particularly for fuel, could subsequently lower transportation expenses across various sectors, notably within the food supply chain, thereby influencing consumer food prices. The nuanced progression of these negotiations remains a critical point of observation for economic analysts."
-    },
-    "vocabulary": [
-      {
-        "word": "sanctions",
-        "zh": "制裁：是指一個國家對另一個國家施加限制，像是限制貿易或金融往來，目的是為了讓對方遵守某些規定或改變行為。想像成大人不給你零用錢，直到你把房間整理好為止。"
-      },
-      {
-        "word": "crude oil",
-        "zh": "原油：就是從地底下挖出來，還沒有經過加工的黑色油狀液體。它就像是汽油、柴油、塑膠等產品的「原始材料」，需要提煉後才能使用。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-06-15",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVEJCQ0l5azJ1U01CY3lsU3prYURucHVCX19jRU1NMEZQT0kxazVuTUVMMXdRNjhaQ1R0SWxUUnIyV3liQlV5Q0NZVkFIdGNDdHd0bW96TXNkZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "震驚樂壇！美籍音樂人Oliver Tree 於巴西直升機事故不幸身亡",
-    "zhSummary": "美國知名音樂人Oliver Tree在巴西一場直升機墜毀事故中喪生，年僅32歲。這項消息由英國《衛報》報導，震驚了全球樂壇。",
-    "zhContent": "<p>最近一則突發新聞震驚了全球音樂界，許多喜愛獨立音樂和流行文化的年輕人更是感到難以置信。根據英國《衛報》的報導，年僅32歲的美國知名音樂人Oliver Tree，在巴西發生的一場直升機墜毀事故中不幸身亡，這突如其來的悲劇讓無數歌迷和音樂人感到震驚與哀痛。</p><p>Oliver Tree是一位才華洋溢的藝術家，以其獨特的音樂風格和鮮明的個人形象聞名。他不僅是歌手、詞曲創作者，同時也身兼導演和喜劇演員等多重身分。他搞怪的髮型、復古的滑板風格，以及融合了另類流行、嘻哈和電子音樂的創新作品，讓他迅速在全球年輕族群中累積了大量粉絲，成為當代音樂界一股不可忽視的獨特力量。</p><p>報導中指出，這起令人惋惜的直升機墜毀事故發生在巴西。詳細的事故原因和具體情況目前尚未完全公布，但確認了這位年輕音樂人已在該事故中喪生。對於這樣一位正值創作巔峰、前途一片光明的藝術家來說，生命的驟然終結無疑是一大憾事，也讓全球樂迷深感惋惜。</p><p>這項來自《衛報》的報導，清楚地證實了Oliver Tree的死訊。許多歌迷都在社群媒體上表達哀悼，回顧他帶來的音樂作品和舞台魅力。這次突發事件對音樂界而言是巨大的損失，也為2024年開年蒙上了一層悲傷的陰影。目前為止，相關單位仍在調查事故的具體細節。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Musician Oliver Tree, 32, Dies in Brazil Helicopter Crash",
-    "enContent": {
-      "basic": "Sad news for music fans. Oliver Tree, a musician from the United States, has died. He was 32 years old. Oliver Tree was in a helicopter crash in Brazil. This news was reported by The Guardian. Many people are sad about this. Oliver Tree was known for his unique music. He had a special look too. His fans liked his songs. The crash happened in Brazil. It was a very sudden event. Now, he is gone. People who liked his music are sharing their feelings. It is a big loss for music. The reason for the crash is still being looked into. This is a very sad time for everyone who knew his music.",
-      "intermediate": "The music world is in shock after news broke of US musician Oliver Tree's sudden passing. The 32-year-old artist was reportedly killed in a helicopter crash in Brazil. The Guardian newspaper confirmed this tragic event. Oliver Tree was a well-known figure, celebrated for his distinct blend of alternative pop, hip-hop, and electronic music, as well as his memorable visual style and comedic persona. His unique approach had garnered a significant following among young audiences worldwide. The incident occurred in Brazil, and while details surrounding the helicopter crash are still emerging, his death has been confirmed. Fans and collaborators have expressed profound sadness across social media platforms, mourning the loss of a vibrant talent. This unexpected tragedy marks a significant loss for the music industry, and investigations into the cause of the crash are ongoing.",
-      "advanced": "The global music community is reeling from the unexpected news confirming the death of prominent American musician, Oliver Tree. At just 32 years old, Tree was reportedly killed in a helicopter crash that occurred in Brazil, a tragedy that was first brought to light by The Guardian. A multifaceted artist, Oliver Tree had carved a niche for himself through his idiosyncratic fusion of alternative pop, hip-hop, and electronic genres, complemented by a striking visual aesthetic and an often-comedic stage presence. His innovative approach and unique persona had cultivated a devoted international fanbase. The circumstances surrounding the fatal helicopter incident in Brazil remain under investigation, yet the untimely demise of such a prolific and youthful talent has sent shockwaves through the industry. Tributes and messages of grief have flooded social media, underscoring the profound impact Oliver Tree had on his listeners and peers. This devastating event represents a considerable void in contemporary music, with authorities continuing to delve into the specifics of the crash."
-    },
-    "vocabulary": [
-      {
-        "word": "Musician",
-        "zh": "音樂人：指會演奏樂器、唱歌或創作歌曲的人，也就是從事音樂相關工作的人。"
-      },
-      {
-        "word": "Crash",
-        "zh": "墜毀：指飛機、直升機或其他飛行器從空中掉下來，造成毀壞或人員傷亡的意外。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-06-15",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmZmaENDS2xtOVJoRmc4eHZEbTBMbl81dy1HaDZGU3BpWTJ4QnE5ZktIc1VoczVFenBsUnJoTzNkQWZVdTY0ZDBzbGhaUjQtSm9tMTRlbTVheEMwSVZOTDJSc1l4MWFvd3NaeWdvMThzWTZSRi1OUU9QdWYzTkktUWROYU5BTzc1WC1xTXFhOVVIVE4zdFJYejFObC10aklfckdWdFNyVFpCdw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "塞內加爾教練提亞的「圓滿」時刻：從球員到教練再遇法國！",
-    "zhSummary": "塞內加爾足球教練提亞，近期帶隊再次對陣法國，對他來說這不只是一場球賽，更是一個特別的「圓滿時刻」。他曾以球員身份在2002年世界盃爆冷擊敗法國，如今作為教練再次面對老對手，這段經歷讓他的人生軌跡劃出一個意義深遠的圓弧。",
-    "zhContent": "<p>塞內加爾足球，最近因為一場特別的比賽，讓一位名叫提亞（Pape Thiaw）的教練再次成為焦點。對他來說，這場比賽不只是一般球賽，更像是一次奇妙的「圓滿時刻」。為什麼會這樣說呢？因為他帶領的塞內加爾隊，即將在球場上再次對決強敵法國隊，而這段緣分，早在二十多年前就已結下。</p><p>時間回到2002年，當時提亞還是塞內加爾國家隊的一名年輕球員。那一年，塞內加爾隊首次闖入世界盃會內賽，並在開幕戰中，就遭遇了衛冕冠軍法國隊。當時，全世界都看好法國隊能輕鬆取勝，但塞內加爾隊卻爆冷以1比0擊敗了不可一世的法國隊，震驚了全球足球界。那場比賽被視為世界盃史上最大的冷門之一，提亞也親身參與了這段輝煌的歷史，與隊友們一起寫下了國家足球隊最光榮的一頁。</p><p>如今，歲月流轉，提亞已經從球員身份華麗轉身，成為塞內加爾國家青年足球隊的總教練。在最近的一場國際賽事中，命運之神再次安排他與法國隊相遇。雖然這次是青年隊之間的對決，而不是當年的成人世界盃舞台，但對於提亞而言，這無疑是一個意義深遠的時刻。他不再是場上奔跑的球員，而是站在場邊指揮調度的領袖，他的視角和角色都已不同，但面對的仍是當年那個強大的對手。</p><p>這場球賽對提亞來說，就像是走了一大圈又回到了原點，重新體驗這段特別的對戰關係。它不僅提醒了大家他昔日的球員榮光，也展現了他作為教練的新挑戰。比賽的結果，以及這次對決對年輕球員的影響，無疑都會成為提亞教練生涯中另一個值得記錄的章節。整個事件的發展，正是如此客觀地呈現在我們眼前。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Senegal Coach Thiaw's 'Full-Circle' Moment: From Player to Coach, Facing France Again!",
-    "enContent": {
-      "basic": "Senegal's football coach, Pape Thiaw, recently led his team to play against France again. For him, it wasn't just any game, but a special 'full-circle moment'. He once, as a player, caused an upset by beating France in the 2002 World Cup. Now, as a coach, he faces his old rival, completing a significant loop in his life's journey. This story shows how life can bring you back to where you started, but in a new role, facing familiar challenges.",
-      "intermediate": "Pape Thiaw, now the coach of Senegal's national youth football team, recently encountered France in a match, marking a profound 'full-circle moment' for him. Rewind to 2002, Thiaw was a player for the Senegalese national team when they famously defeated reigning champions France 1-0 in their World Cup debut—a monumental upset. Two decades later, he finds himself on the sidelines, leading a new generation against the very same formidable opponent, reflecting a significant personal and professional journey from player to coach.",
-      "advanced": "The recent fixture between Senegal's youth national team and France brought forth a poignant 'full-circle moment' for Senegalese coach Pape Thiaw. His personal narrative is inextricably linked to this rivalry, stemming from the iconic 2002 World Cup opener where, as a player, he contributed to Senegal's shock 1-0 victory over the then-defending champions France. Now, having transitioned from the pitch to the technical area, Thiaw faces the French once more, albeit in a different capacity and tournament. This encounter not only underscores his enduring connection to the sport but also highlights the cyclical nature of athletic careers, culminating in a reflective confrontation with a past rival through the lens of leadership."
-    },
-    "vocabulary": [
-      {
-        "word": "Full-circle",
-        "zh": "圓滿時刻 (回到原點，事情經歷一圈後又回到最初的狀態或情境。想像你從家裡出發去一個地方，然後又繞了一圈回到家，就是這種感覺，只是在人生或事件上更有意義。)"
-      },
-      {
-        "word": "Milestone",
-        "zh": "里程碑 (一個重要的階段或事件，標誌著某個過程中的重大進展或轉變。就像長途旅行中，經過一個重要的地標，代表你已經走到某個關鍵點了。)"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-06-15",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0JSelE2ZjI4QWdYeVlhN0N1TVNGb1AtT0o4YVlpMlRsSmJ5WUtMZlpvalZSQkJKTERQMWVQZEhRdkplMHlfWG9OaEUtVE5IMWRhNzRIV2RqQXhRd3VWSWdqeEF1V3lpTGN3SFJtdXQxUlNZa3VfU1U1ODlxMlhaNm1KYU5kbkdIS3pEY05GT1JyOFNvMVBkT2lnVUxBYUpTUDNRMGh0NWNKV3I2SW9mWWFCbzNkQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "再見了，爵士鋼琴的「安靜巨人」！阿卜杜拉·易卜拉欣享壽91歲",
-    "zhSummary": "南非傳奇爵士鋼琴家阿卜杜拉·易卜拉欣在91歲高齡離世，他以融合非洲與爵士樂的獨特風格，成為樂壇中一位深具影響力的「安靜巨人」，其作品將持續影響後世。",
-    "zhContent": "<p>最近，全世界的爵士樂迷們收到了一個令人惋惜的消息。被譽為「爵士鋼琴的安靜巨人」的阿卜杜拉·易卜拉欣（Abdullah Ibrahim）在享壽91歲後離開了我們。這位來自南非的傳奇音樂家，以他獨特的琴聲和深邃的音樂風格，影響了無數世代的樂迷與音樂人。他的離世，標誌著爵士樂壇一個時代的結束，也讓許多人開始回顧他非凡的一生。</p><p>阿卜杜拉·易卜拉欣的音樂生涯長達數十年，他不僅是一位出色的鋼琴家，更是作曲家。他的作品融合了南非的傳統音樂元素，如曼德拉音樂（Cape Town Goema），與美國的爵士樂巧妙結合，創造出既有非洲根源又充滿爵士自由精神的獨特聲音。他的演奏風格沉靜而富有力量，每一個音符都彷彿在講述著故事，充滿了情感與歷史的重量。</p><p>在許多樂評人眼中，易卜拉欣之所以被稱為「安靜的巨人」，是因為他雖然不像某些爵士樂手那樣外放或張揚，但他的音樂卻有著穿透人心的力量。他經常透過鋼琴傳達對家鄉的思念、對自由的渴望，以及對人類精神的探索。他的音樂不只是一種娛樂，更是一種文化的傳承與情感的寄託，深深感動著全球的聽眾。</p><p>阿卜杜拉·易卜拉欣的逝世，讓整個國際音樂界感到哀悼。儘管他已經離開，但他留下的豐富音樂作品，將會繼續影響未來的音樂家，並在爵士樂的歷史上佔有不可動搖的地位。他的旋律將永遠被傳唱，提醒著我們這位「安靜的巨人」曾帶給世界的音樂魔力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Abdullah Ibrahim, Quiet Giant of Jazz Piano, Has Died at 91",
-    "enContent": {
-      "basic": "Abdullah Ibrahim, a famous jazz pianist from South Africa, has died at 91. He was known as a 'quiet giant' in jazz. His music blended African sounds with jazz, creating a special style. He played for many decades and inspired many people with his calm but powerful music. His death is a big loss for the music world, but his songs and influence will live on.",
-      "intermediate": "The jazz world is mourning the loss of Abdullah Ibrahim, who passed away at the age of 91. Hailing from South Africa, Ibrahim was often referred to as a 'quiet giant' of jazz piano due to his profound yet understated musical presence. His distinctive sound was a fusion of traditional South African music, like Cape Town Goema, and American jazz, crafting a unique and deeply expressive style. Throughout his long career, his compositions and performances touched hearts globally, often conveying themes of longing, freedom, and human spirit. His legacy as a pioneer and influential figure in jazz music will continue to resonate for generations.",
-      "advanced": "NPR reports the passing of legendary South African jazz pianist and composer, Abdullah Ibrahim, at the age of 91. Revered as a 'quiet giant' of the genre, Ibrahim's illustrious career spanned decades, during which he masterfully blended indigenous South African musical traditions, such as Cape Town Goema, with the improvisational spirit of American jazz. His understated yet profoundly impactful style transcended cultural barriers, imbuing his compositions with a deep emotional resonance that often reflected themes of identity, struggle, and spiritual yearning. Ibrahim's passing marks a significant moment for the international music community, though his indelible contributions to jazz and world music ensure his enduring legacy as an influential and pioneering artist."
-    },
-    "vocabulary": [
-      {
-        "word": "Jazz",
-        "zh": "爵士樂，是一種起源於美國黑人社區的音樂類型，特色是即興演奏、切分音和搖擺節奏，聽起來自由奔放，充滿活力。"
-      },
-      {
-        "word": "Legacy",
-        "zh": "遺產；遺留。通常指前人留下的有價值的事物，像是一筆財富、一個傳統，或是像新聞中這位音樂家留下的音樂作品和影響力。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-06-15",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTk9qQ2VPeFc2UTdlMTRpMzdWUzBCOVZUSGpRMFNBNElwMTItRW5CWU1rLWlncm9hZ1g4LW5YUkVIcFVSSXFUZThqLUtRRjEwdXNiT0ZVMXkwNVdzd0ZzLXFDakQ1eXRsSTRFQ29WY1NqdDhhdUw2aWhZZFhRVlpUU1R4amNydw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "中東大和解？阿聯酋將解鎖數十億美元給伊朗",
-    "zhSummary": "阿聯酋據報將允許伊朗動用數十億美元資金，這些資金過去因國際制裁而難以觸及，此舉象徵兩國關係可能走向緩和，並對地區經濟產生影響。",
-    "zhContent": "<p>最近有個大消息在中東地區傳開，說阿拉伯聯合大公國（簡稱阿聯酋）準備讓伊朗動用好幾十億美元的資金。這筆錢並不是突然出現的，而是過去因為一些國際規定或關係緊張，伊朗一直都沒辦法好好使用的錢。現在阿聯酋的計畫，就是要把這些被「鎖住」的資金重新「打開」，讓伊朗可以拿來用。</p><p>說到這些錢為什麼會被鎖住，主要是因為國際社會過去對伊朗實施了一系列的經濟制裁。這些制裁限制了伊朗與其他國家進行貿易和金融往來，導致他們在國外的許多收入，包括賣石油賺來的錢，都沒辦法順利匯回國內或自由使用。現在，根據路透社的報導，一些熟悉情況的消息人士透露，阿聯酋將透過特定銀行或其他金融管道，逐步允許伊朗取用這些資金。</p><p>為什麼阿聯酋會在這個時間點做出這樣的決定呢？其實，阿聯酋和伊朗這兩個國家近年來一直在努力修復彼此的關係。過去他們之間有許多不信任和摩擦，但現在雙方似乎都希望能改善經濟合作，減少地區衝突。這次解凍資金的行動，可以被看作是他們關係改善的一個重要訊號，象徵兩國都希望能有更穩定、更友好的未來。</p><p>目前這個消息來自多位不願具名的消息來源，但如果真的實現，這對伊朗來說將會是一筆巨大的經濟助力，對阿聯酋與伊朗的關係發展也會有深遠的影響。這筆資金的解鎖，不只代表著金錢上的流動，更可能預示著中東地區權力平衡與外交關係上的新變化。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "UAE to Release Billions to Iran: A Major Middle East Shift",
-    "enContent": {
-      "basic": "The United Arab Emirates (UAE) is reportedly planning to let Iran use billions of dollars. This money was previously blocked due to international rules and tensions. This move could help make relations between the two countries better.",
-      "intermediate": "The United Arab Emirates (UAE) is expected to allow Iran to access billions of dollars in funds that were previously inaccessible due to international sanctions. This financial move, reported by Reuters from insider sources, suggests a significant shift in diplomatic relations between the two Middle Eastern nations, aiming to ease economic restrictions and foster improved cooperation.",
-      "advanced": "In a development reported exclusively by Reuters, the United Arab Emirates (UAE) is poised to unlock billions of dollars for Iran, according to informed sources. These funds, largely held abroad and rendered inaccessible by years of international sanctions, will now reportedly be made available to Tehran. This strategic financial maneuver underscores a broader regional diplomatic realignment, reflecting efforts by both nations to de-escalate tensions and enhance economic ties, potentially reshaping the geopolitical landscape of the Middle East."
-    },
-    "vocabulary": [
-      {
-        "word": "Unlock",
-        "zh": "解鎖 / 動用：原本被限制、不能用的東西，現在可以打開來用或拿到手了。像是打開手機鎖，就能用手機了。"
-      },
-      {
-        "word": "Sanctions",
-        "zh": "制裁：為了讓某個人或國家改變行為，其他國家對他們實施的經濟或其他限制措施，例如不跟他們做生意或凍結財產。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-06-15",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU8xSkdDSVRGOXhzQTVoemlTUi1GaFEyMzFNSUFXdGdQd21pbUNENTdfX01KaGFXdGQ5RklfMVNiSDlBRzRvb0xZVkU1dVd6Q0NTakI1WmxVaXZMMlVtUHVEZ2I1d3NkbExTQXU4RlRSQVhueHE0RU9sbTg5VjJWU0VwUjRMeGJtRmhXbzBQM013T3p4Y05JU2JnZkt1d0k?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "義大利與南韓攜手合作：兩國元首羅馬會談，承諾深化關係！",
-    "zhSummary": "義大利總理梅洛尼與南韓總統李，在羅馬會面並達成共識，承諾將加強兩國在各方面的合作與連結。",
-    "zhContent": "<p>最近，義大利的總理梅洛尼（Giorgia Meloni）和南韓的總統李（Lee）在義大利首都羅馬舉行了一場重要的會談。這兩位國家領導人見面的主要目的，就是要討論如何讓義大利和南韓之間的關係變得更緊密、更友好。經過一番交流，他們達成了一個共識，那就是要承諾「深化」兩國之間的連結與合作。</p><p>所謂的「深化關係」，其實就是指兩國願意在更多不同的領域互相幫助、共同努力。這次的羅馬會談，可以想成是兩位國家代表坐下來，討論未來要怎麼讓兩國人民有更多交流，企業有更多生意往來，甚至在文化、科技或是一些國際事務上，也能找到更多合作的機會。他們希望透過這次的會面，為兩國之間的友情與互助開啟新的篇章。</p><p>為什麼義大利和南韓會在這個時候決定要加強彼此的關係呢？通常，當兩個國家決定要「深化關係」時，背後都有希望能為自己國家帶來更多好處的考量。這可能包括促進貿易、吸引投資、交換技術、或者是在面對全球性挑戰時，能有更強大的盟友一起合作。這樣的合作，對雙方來說都能創造更多發展的機會。</p><p>這次義大利總理梅洛尼和南韓總統李的羅馬會談結果非常明確：兩國都同意未來將致力於建立更深厚的合作夥伴關係。這表示在不久的將來，我們可能會看到更多義大利與南韓之間的文化交流活動、商業合作計畫，或是更多層面的互動。這次的會面，為兩國未來的發展方向，畫下了一個重要的里程碑。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，義大利總理與南韓總統在羅馬會談後，達成了什麼樣的共識？",
-      "生活與未來：你覺得兩個國家加強合作，可能會對兩國人民的生活（例如：文化、商品）帶來什麼實際的影響？",
-      "獨立思考提案：除了新聞中提到的合作方向，你認為義大利和南韓還可以透過哪些方式來加深彼此的關係？"
-    ],
-    "enTitle": "Italy's Meloni and South Korea's Lee Agree to Deepen Ties in Rome Talks",
-    "enContent": {
-      "basic": "Italy's Prime Minister Meloni and South Korea's President Lee recently met in Rome. They talked about how to make their countries' relationship stronger. After their meeting, they agreed to \"deepen ties.\" This means they want to work together more on different things, like trade, culture, and technology. They hope this agreement will help both countries grow and cooperate more in the future.",
-      "intermediate": "In a recent meeting held in Rome, Italian Prime Minister Giorgia Meloni and South Korean President Lee discussed ways to strengthen the bond between their nations. Following their talks, both leaders reached a consensus to \"deepen ties,\" signifying a commitment to enhanced collaboration. This agreement aims to foster greater interaction in various sectors, including economic cooperation, cultural exchange, and technological partnerships, opening new avenues for mutual benefit and shared development.",
-      "advanced": "Italian Prime Minister Giorgia Meloni and South Korean President Lee convened for significant talks in Rome, focusing on strategies to bolster the bilateral relationship between their respective nations. The leaders successfully concluded their discussions with a mutual agreement to \"deepen ties,\" a commitment underscoring their intent to expand cooperation across a broad spectrum of areas. This initiative is expected to facilitate increased collaboration in trade, investment, cultural exchange, and technological innovation, thereby establishing a more robust and comprehensive partnership that addresses shared interests and global challenges. The outcome of these talks marks a pivotal step toward a more integrated and cooperative future for Italy and South Korea."
-    },
-    "vocabulary": [
-      {
-        "word": "ties",
-        "zh": "關係 (關聯)。想像兩個人手牽手，或兩條繩子綁在一起，這就是「關係」或「連結」。在國家之間，就是指他們在外交、貿易、文化等方面有著密切的互動。"
-      },
-      {
-        "word": "deepen",
-        "zh": "深化 (加深)。就像你挖土，挖得更深，就是「深化」。當國家關係「深化」時，就是讓彼此的連結從表面變得更深入、更緊密，合作的範圍更廣，程度也更高。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-06-15",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3I3N3FoV2E2R2tXa1VMNlpjeXZJVkctU01NLTNjZXdFejR6X3RsWTEzMGdUZm11VXNHcF8wSy1pU3hnMkp5Q2JhMXdjOXFmbjh4VGNSUTZnUG9xQnFBTWJTYkZiZ1l4LXo5YjlwUjl4M05kTFM3UzRDMEhqSjA3Y0lVY2lJU2FXd0JKRHUwb0N4aXh6Y2pMTnlCVWVpY2d3N0xtVVBQTkl5ckxiRTdiR0lzMXc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "聖嬰現象惹麻煩：東南亞生計拉警報",
-    "zhSummary": "聖嬰現象在東南亞造成異常天氣，導致當地農民和漁民的生計受到嚴重威脅，收入不穩定。",
-    "zhContent": "<p>嗨！你有沒有聽過「聖嬰現象」？最近在東南亞，這個特別的氣候變化正在讓許多人的生活變得有點緊張。簡單來說，就是聖嬰現象讓當地天氣變得怪怪的，許多人賴以為生的工作都受到了威脅，讓他們的日子過得比較辛苦。</p><p>聖嬰現象常常會讓某些地區變得異常乾燥、炎熱，甚至引發缺水問題。在菲律賓、印尼、越南這些國家，有好多人靠著種稻米、咖啡、棕櫚油，或是捕魚來賺錢養家。但當聖嬰現象發威，長時間不下雨，農作物就長不好，收成大減，漁獲也可能變少。這樣一來，這些農夫、漁夫的收入就直接少了好多。</p><p>聖嬰現象其實是一種每隔幾年就會發生的自然氣候模式，主要是太平洋赤道附近的海水溫度異常升高造成的。科學家們一直在觀察它，並預測它會帶來怎樣的影響。這次在東南亞，它帶來了比平常更少的雨水和更高的氣溫，這對當地主要依靠自然資源維生的社區來說，是個很大的考驗。</p><p>因此，現在東南亞許多地區的居民面臨著農作物歉收、水資源短缺的困難，他們的日常開銷和生計都受到了直接的衝擊。這讓許多家庭感到很擔心，因為原本可以維持生活的收入，現在變得不穩定，甚至大幅減少了，整個地區的狀況都需要密切關注。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，聖嬰現象主要影響了東南亞地區的哪些活動？",
-      "生活與未來：你覺得如果家裡的主要收入來源突然不穩定，會對生活造成什麼實際影響？",
-      "獨立思考提案：針對聖嬰現象對農業和漁業的影響，你覺得除了等待天氣好轉，當地人還可以怎麼做來減少損失？"
-    ],
-    "enTitle": "El Nino threatens livelihoods in Southeast Asia",
-    "enContent": {
-      "basic": "El Nino is a weather event that makes some places much hotter and drier. In Southeast Asia, this is causing big problems for people who work in farming and fishing. Crops are not growing well, and there are fewer fish. This means many families are earning less money, which makes it hard for them to live.",
-      "intermediate": "The El Nino phenomenon is bringing unusual and harsh weather to Southeast Asia, causing prolonged droughts and higher temperatures. This directly impacts major economic sectors like agriculture and fisheries. Millions of people in the region depend on these jobs for their income, and the extreme weather is now threatening their ability to make a living and support their families.",
-      "advanced": "The ongoing El Nino phenomenon has intensified climatic challenges across Southeast Asia, manifesting as prolonged droughts and elevated temperatures. This has significant repercussions for the region's predominantly agrarian and fishing communities, directly jeopardizing their livelihoods and economic stability. The reduction in crop yields and depletion of marine resources underscores a pressing concern for food security and the socio-economic well-being of these vulnerable populations."
-    },
-    "vocabulary": [
-      {
-        "word": "El Nino",
-        "zh": "聖嬰現象：這是一種發生在全球的氣候模式，太平洋赤道附近的海水溫度會異常升高，進而影響全球的天氣，讓某些地方變得更熱、更乾旱或雨量更多。"
-      },
-      {
-        "word": "livelihoods",
-        "zh": "生計：指人們用來維持生活的方式或收入來源。像是農夫靠種田、漁夫靠捕魚維生，這些都是他們的生計。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-06-15",
-    "sourceName": "DW",
-    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGxLalBQeXBtenNfa1EzVUZ6c2IzY0VnbTltQm1aVU1xY1BCMWU0WkdSR1dpcGdJSk0tdTBiNlRLMEFCNVdkQ3ZvQUF6MFQyTzZzZi1ldWdLQnZrUnFpeGcyNFNWLVl6cjRvTHI3N2RQOGJaTEMxNG1YUWVvWHNaSzRfUVcyNnfSAYcBQVVfeXFMTkRGRExXM29USUEwVmhBaUlHVEdBMnRQenNfVC1VbVZxcDg5eGV1UXNDRTl6UFdWU0dLNTZvU1haNTFjdHNnZU9ZTFVCRE9nbl9OcEZLOG83em1Ud2dMRkhrWDRCUHJ2M1k3R0otUEJqTTZhTVktYnVyS0hUQXhZMU8xMmROQnBF?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國隊伍整裝待發！格拉斯哥大英國協運動會名單公布",
-    "zhSummary": "太平洋地區的島國最近陸續公布了他們將派往蘇格蘭格拉斯哥參加大英國協運動會的代表隊伍名單。這表示這些運動員經過長期準備，即將在國際體育盛會上展現他們的實力與風采。",
-    "zhContent": "<p>最近，來自太平洋地區的島嶼國家，包括斐濟、巴布亞紐幾內亞、薩摩亞等，已經正式公開了他們將派往蘇格蘭格拉斯哥參加大英國協運動會的國家代表隊名單。這項大型國際體育盛事，將聚集來自世界各地的頂尖運動員，而這些太平洋島國的選手們，也已經準備好，要在比賽中奮力一搏，爭取榮耀。這次隊伍名單的公布，代表著各國選手們長期的訓練與努力即將迎來考驗，他們希望能為自己的國家爭光。</p><p>這次的運動會涵蓋多種體育項目，從田徑、游泳到舉重、拳擊等。每個國家都根據自身在不同項目上的優勢，挑選出最優秀的運動員。例如，有些島國在橄欖球和無板籃球等團體項目上擁有出色表現，而另一些則可能在個人項目如短跑或鉛球上有潛力新星。這些代表隊的選拔過程都相當嚴謹，選手們必須經過層層篩選，才能獲得這份代表國家的資格，這對他們來說是極大的肯定。</p><p>對許多太平洋島國來說，參加大英國協運動會不只是一場體育競技，更是一個向世界展示國家精神和文化的好機會。由於資源和訓練條件可能不如其他大國，這些島國的運動員往往需要付出更多的努力和堅持。他們的參與，也激勵著國內更多的年輕人投入體育運動，希望有一天也能像這些選手一樣，站在國際舞台上為國爭光。這次代表隊的確定，也讓各國的體育協會和政府能更具體地規劃後勤支援。</p><p>目前，太平洋島國的這些代表隊伍名單已確認並公開，所有被選中的選手們正積極進行最後階段的訓練和準備。他們將帶著國家的期望和自己的夢想，前往格拉斯哥，準備迎接這場體育盛宴的挑戰。接下來，大家就可以期待看到他們在比賽場上的精采表現，為自己的國家爭取榮譽，並證明他們多年的努力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Pacific Islands Name Teams for Glasgow Commonwealth Games",
-    "enContent": {
-      "basic": "Pacific Island nations like Fiji, Papua New Guinea, and Samoa have announced their teams for the Commonwealth Games in Glasgow. These athletes have been training hard and are ready to compete. The games include many sports like track and field, swimming, and boxing. Each country picked their best athletes for different events. Participating in these games is a big chance for these smaller nations to show their spirit and culture. They hope to make their countries proud. The teams are now doing their final training before heading to Glasgow.",
-      "intermediate": "Several Pacific Island nations, including Fiji, Papua New Guinea, and Samoa, have officially released their national team rosters for the upcoming Commonwealth Games in Glasgow, Scotland. This significant international sporting event will gather top athletes globally, and these Pacific Islander representatives are fully prepared to compete fiercely for glory. The announcement of these teams signifies the culmination of extensive training and dedication, as athletes aim to bring honor to their respective countries. The selection process was rigorous, ensuring only the most capable individuals earn the right to represent their nations. For many of these islands, participation is not just about competition but also an opportunity to showcase national identity and culture on a world stage.",
-      "advanced": "The Commonwealth Games in Glasgow are set to feature strong contingents from various Pacific Island nations, as Fiji, Papua New Guinea, and Samoa, among others, have formally unveiled their national squad selections. This global multisport event serves as a crucial platform for these athletes to demonstrate their prowess following prolonged periods of training and preparation. The meticulous selection process for these teams underscored the commitment to fielding the most competitive individuals across a diverse range of disciplines, from track and field to weightlifting. For smaller island nations, participation in such a high-profile international competition extends beyond athletic aspiration; it represents a significant opportunity for cultural representation and national pride, often inspiring younger generations to pursue sports despite resource limitations. With their teams now finalized, the focus shifts to intensive final preparations before their departure to Glasgow, where they will undoubtedly strive for excellence."
-    },
-    "vocabulary": [
-      {
-        "word": "Commonwealth",
-        "zh": "大英國協：這是一個由英國和許多曾是英國殖民地的國家組成的國際組織。他們會定期舉辦「大英國協運動會」，讓這些成員國的運動員互相競技。"
-      },
-      {
-        "word": "Rigorous",
-        "zh": "嚴謹：意思是要求非常嚴格、仔細，不馬虎。比如運動員的選拔過程非常嚴謹，就是要經過很多考驗才能被選上。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-06-15",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFRSMVlBS3dqRnBYQmxnVlZiUlBkMG1jMzc5bkh3SGVuSnhhYUwxa0xmUFhvVE1PXzdHbHloSjN0cnVoUjYyQ3lYV1NWZHhRQlc0RTJZQjFVZHF1NmY5WjUtUWlJVk16TElQRHRGcVpQYThQNEVHQl9DaWY5Ti1OaFpBaWZXNS1xN1NGVlhIN1N5VlMyRmhIYXhwdXBZV1Yy?oc=5",
     "isFeatured": false
