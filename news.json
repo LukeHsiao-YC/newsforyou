@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "美軍B-1轟炸機出動！中東情勢緊張升級",
+    "zhSummary": "美國軍方最近派出強大的B-1轟炸機前往中東地區，這個行動被外界視為美國和伊朗之間軍事緊張關係的「重大升級」，顯示該地區的局勢變得更加複雜與嚴峻。",
+    "zhContent": "<p>最近，國際新聞上出現了一則引人注目的消息：美國軍方派遣了多架B-1轟炸機飛往中東地區。這個行動立刻引起了全球的關注，因為它被認為是美國與伊朗之間軍事緊張關係的一個「重大升級」。如果你對B-1轟炸機有點陌生，它其實是一種非常巨大、飛行速度快，而且可以攜帶大量武器的遠程飛機，設計用來執行重要空襲任務。美軍這次把這些「空中巨獸」部署到敏感地區，背後肯定有特別的考量。</p><p>這些B-1轟炸機主要被部署在美國於中東的戰略基地。過去一段時間，美國和伊朗的關係一直都處於高度緊張的狀態，雙方在許多議題上都有摩擦，例如核子計畫、地區影響力以及海上安全等等。當一方做出較大的軍事動作時，通常會被另一方和國際社會解讀為一種「秀肌肉」的表現，也就是在展示自己的軍事力量和決心。這次轟炸機的調動，正是這種情勢下的一個具體行動。</p><p>根據美國官方的說法，這次的部署是為了「增強地區的穩定性」並「嚇阻潛在的侵略行為」。換句話說，美國希望透過展示這些先進的軍事裝備，來向伊朗傳達一個清楚的訊息：美國在中東地區有能力也有意願保護自己的利益和盟友。此舉也被視為對伊朗近期在該區域活動的回應，目的是避免局勢進一步惡化，並維持力量的平衡。</p><p>目前，這些B-1轟炸機已經到位，並且開始執行例行的空中巡邏和訓練任務。它們的存在，讓中東地區的軍事氣氛變得更加嚴肅。各方都在密切觀察，看這個「重大升級」的行動會對美國和伊朗的關係產生什麼樣的影響，以及該地區的未來發展。新聞事件就報導到這裡，實際的影響和後續變化，還需要持續關注國際情勢的發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國部署B-1轟炸機的行動，被媒體描述為對伊朗軍事行動的「重大升級」。你認為「升級」這個詞在這裡代表什麼意思？",
+      "生活與未來：你覺得軍事行動的「升級」對一般民眾的生活會帶來什麼實際影響？（例如：對當地的經濟、旅遊，或是人們的情緒會有什麼影響？）",
+      "獨立思考提案：如果有一個國際組織，它的目標是避免像美國和伊朗這種軍事緊張情勢「升級」，你認為這個組織可以採取哪些具體的措施來幫助雙方降低衝突？"
+    ],
+    "enTitle": "US Deploys B-1 Bombers to Middle East, Escalating Tensions",
+    "enContent": {
+      "basic": "The U.S. military recently sent big B-1 bombers to the Middle East. This is seen as a 'big step up' in military tension between the U.S. and Iran. A B-1 bomber is a large, fast plane that carries bombs for attacks. Sending these planes shows that the situation in the region is getting more serious. The U.S. says it's to keep things stable and stop bad actions. These planes are now flying missions there, and everyone is watching to see what happens next with the U.S. and Iran.",
+      "intermediate": "The United States military has recently deployed several B-1 bomber aircraft to the Middle East, a move widely interpreted as a 'significant escalation' in military tensions with Iran. The B-1 bomber is a long-range, supersonic aircraft designed to deliver a large payload of weapons. This deployment, situated at strategic bases in the region, is a clear demonstration of force. U.S. officials stated the action aims to 'enhance regional stability' and 'deter potential aggression,' signaling a firm stance against Iran's activities. The bombers are now conducting patrols, and the international community is closely monitoring how this development will impact U.S.-Iran relations and the region's stability.",
+      "advanced": "A notable development in international affairs involves the United States military's deployment of B-1 Lancer strategic bombers to the Middle East, an action widely characterized by observers as a 'significant escalation' in the ongoing military tensions between the U.S. and Iran. The B-1, a versatile supersonic heavy bomber, is engineered for long-range conventional payload delivery. Its strategic placement at key U.S. bases in the region serves as a palpable projection of power. Official statements from the U.S. Department of Defense assert that the deployment is intended to 'reinforce regional deterrence' and 'safeguard strategic interests' against perceived Iranian destabilizing actions. With the bombers now operational in the theater, the ramifications for U.S.-Iran diplomatic and security dynamics, as well as broader regional stability, remain under intense international scrutiny."
+    },
+    "vocabulary": [
+      {
+        "word": "bomber",
+        "zh": "轟炸機 (hōng zhà jī)。一種大型的軍用飛機，它的主要任務是攜帶炸彈或其他武器，飛到敵人的區域進行轟炸，攻擊地面或海上的目標。"
+      },
+      {
+        "word": "escalation",
+        "zh": "升級 (shēng jí)。意思是指一個情況、衝突或問題的程度或強度變得更高、更嚴重了。就像遊戲裡的關卡升級一樣，變得更難或更緊張。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-07-25",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RZEpHWFRaM1U3RU1XdkJFOWxrQ29KNnVHa3Vya1B2cEZVYmExZFctVm93eU5jTFBfZmJCTzBqdkpWWjlKREFCa3ZYelp1aTdiUkJpTDY4WFNSRzYyeWVV?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "法國野火肆虐，數千人急撤離：歐洲高溫下的「火藥桶」危機",
+    "zhSummary": "法國西南部近期爆發多起嚴重野火，由於歐洲高溫乾燥，火勢迅速蔓延，導致數千名居民被迫緊急撤離。消防員正全力撲滅，當局也展開安置與損失評估。",
+    "zhContent": "<p>近期，法國傳來一個讓人擔憂的消息：嚴重的森林大火在西南部地區迅速蔓延，導致數千名居民被迫緊急撤離家園。這波火勢來得又快又猛，讓當地許多城鎮和村莊都面臨威脅，居民們不得不放下一切，尋求安全避難所。</p><p>據報導，這些野火主要集中在法國西南部的幾個區域，特別是森林茂密的省份。由於歐洲近期經歷了一段異常漫長且炎熱的乾旱天氣，加上乾燥的植被和不斷變化的風向，使得整個環境變得像一個隨時會爆炸的「火藥桶」。一旦有火星點燃，火勢便難以控制地快速擴散，吞噬大片森林和農田。為了居民的生命安全，地方當局迅速組織了大規模的撤離行動，協助大家前往遠離火區的避難中心。</p><p>數百名消防員日夜輪班，駕駛消防車和飛機從空中灑水，奮力撲滅這些持續燃燒的火點。然而，持續的高溫、缺乏降雨，以及強風，都讓救火工作變得異常艱難。歐洲大陸在過去幾年裡，多次經歷破紀錄的高溫，導致許多地區的土壤變得非常乾燥，樹木和灌木叢都成了易燃物，這正是這次法國野火背後的主要原因之一。</p><p>目前，數千名被疏散的居民，有些暫住在政府設立的臨時收容中心，有些則投靠親友。他們都在焦急地等待火勢完全受到控制的消息，希望能盡快回到自己的家園。消防單位與相關部門正持續密切合作，全力以赴地控制火情，同時也開始評估這次野火對當地生態和居民生活所造成的具體影響和損失。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "France Wildfire Forces Thousands to Flee Amid Europe's 'Tinder Box' Conditions",
+    "enContent": {
+      "basic": "Big fires are burning in France. Many people had to leave their homes because of the smoke and flames. It's very hot and dry in Europe, which makes it easy for fires to start and spread fast. Firefighters are working hard to put out the fires and help the people who had to move.",
+      "intermediate": "France is currently battling severe wildfires, particularly in its southwestern regions, forcing thousands of residents to evacuate. The fires are fueled by extremely dry conditions, high temperatures, and strong winds across Europe, turning forests into a 'tinder box.' Emergency services are deployed to contain the blazes and assist displaced communities, with ongoing efforts to assess the damage.",
+      "advanced": "Extensive wildfires are raging across France, compelling thousands of inhabitants in the country's southwestern provinces to undertake urgent evacuations. These formidable blazes are exacerbated by prolonged drought, record-breaking temperatures, and persistent arid conditions characterizing a warming Europe, creating highly combustible environments. Emergency responders are deploying substantial resources, including aerial support, to combat the infernos and manage the widespread displacement, while authorities begin assessing the ecological and socioeconomic repercussions of the disaster."
+    },
+    "vocabulary": [
+      {
+        "word": "wildfire",
+        "zh": "「野火」或「森林大火」。指的是發生在森林、草原或其他野外地區，無法控制、快速蔓延的火災。"
+      },
+      {
+        "word": "tinder box",
+        "zh": "「火藥桶」或「易燃物堆」。這個詞本來是指裝引火材料的盒子，現在則是用來形容環境非常乾燥，只要一點火星就容易引起大火的危險情況。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-07-25",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEJlRVlNb1o1bHBLTFBtNi1aeUVCSTBHYTF1dUdWcV9pR3ZwaVZqQUdqYTdvZWNnSkZ4VS1kRVhsZ1loQWpLeTIxSTFVelFXeTh2eE9rRTdwY1NLcWRwVnZXbFk0MEVoOGoxaTFxLU1ZeWk2OG0tc0NBT3dWOUgxbVJwYjBrT0hSZ1cwSHZYQV9ZRVdIMkExVUl5Z3pHZUVIdTI2d215R2xlQ2MxbWlKRG1yMlRhZTlUcDNXczBGdUFMYmw2YzJKWFd3NFE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "印度青年怒吼！『蟑螂運動』逼退部長，展現驚人力量",
+    "zhSummary": "印度一群自稱「蟑螂」的年輕人發起抗議運動，成功迫使一位政府部長辭職，凸顯青年世代對社會議題的影響力。",
+    "zhContent": "<p>最近在印度，一股被稱為「蟑螂運動」的年輕世代力量，成功地讓一位政府部長被迫辭職，震驚了全國。這個運動的名稱聽起來有點特別，但它代表的是印度年輕人對社會現況的不滿與渴望改變的強烈心聲。他們透過集體行動，展現出驚人的團結與毅力，最終證明了即使是看似微小的聲音，也能匯聚成足以撼動高層的力量。</p><p>根據報導，這場「蟑螂運動」的參與者，多半是年輕學生與剛踏入社會的青年。他們之所以用「蟑螂」來比喻自己，可能是因為感到自己在龐大的社會結構中，就像無足輕重的昆蟲一樣，容易被忽視或踩踏。然而，正是這種被邊緣化的感受，激發了他們團結起來。他們透過網路串聯、發起線上請願，並組織了多場街頭和平抗議，要求政府對他們所關心的議題，特別是針對特定部長的失職指控，給出明確的回應與交代。</p><p>這次事件的爆發，並非單一原因造成，它其實反映了印度年輕世代長期累積的不滿。許多青年在尋找工作時面臨巨大壓力，對教育制度與國家發展方向也存在不少疑問。當政府官員的某些行為或政策，被認為未能回應民意或甚至損害公共利益時，這些潛在的不滿情緒就容易被點燃。這種情況下，「蟑螂運動」便成為一個出口，讓年輕人能夠集結力量，勇敢地站出來，為自己的權益和國家的未來發聲。</p><p>面對來自年輕世代的巨大民意壓力與持續不斷的抗議聲浪，涉事部長的處境變得越來越困難。最終，在全國上下的目光注視下，該名部長選擇辭去職務，為此事件劃下了一個句點。這次的結果清楚地傳達了一個訊息：公民社會，尤其是年輕人的積極參與和堅定立場，確實有能力影響政府的決策與人事安排。這場運動的勝利，證明了他們的力量不容小覷，也為未來的公共事務參與提供了重要的借鏡。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "India's Youth Roar! 'Cockroach Movement' Forces Minister Out, Showing Surprising Power",
+    "enContent": {
+      "basic": "A youth group in India, called the 'Cockroach Movement,' successfully forced a government minister to resign through protests, highlighting young people's influence.",
+      "intermediate": "In India, the 'Cockroach Movement,' composed mainly of young people, organized protests and online petitions to express their discontent, leading to the resignation of a minister accused of dereliction of duty. This event underscores the significant power of youth advocacy in shaping political outcomes.",
+      "advanced": "The 'Cockroach Movement' in India, a youth-led social phenomenon, has effectively mobilized public opinion and direct action to pressure the government, culminating in the forced resignation of a cabinet minister. This development reflects deeper societal frustrations among Indian youth concerning unemployment and governance, demonstrating their capacity to exert considerable influence on political accountability and decision-making within the nation's democratic framework."
+    },
+    "vocabulary": [
+      {
+        "word": "Oust",
+        "zh": "罷免、驅逐。簡單來說，就是把某個有權力的人趕下台，讓他不能再做現在的工作。"
+      },
+      {
+        "word": "Movement",
+        "zh": "運動、社會運動。指的是一群人因為共同的目標或理念，而組織起來，一起行動來推動某種改變或表達訴求。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-07-25",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVk9EcVIyVFFfTG1lbjdJWFN5ZXlYRGNBZVRldlE1b0kzOENTeWZNNnZpT0ZtMVV1ckJBYm02MUs3OWJ1ZTFSOWdoRUw5TERfSFJoR3JQejVkRjNTdEloTk1SUnI2NmVYTlpTYkVMWmdGVFdULVE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "輝達大手筆！為AI未來鎖定關鍵記憶體供應",
+    "zhSummary": "晶片巨頭輝達為了確保未來人工智慧技術的發展，與記憶體大廠SK海力士達成一項重要協議，提前鎖定了人工智慧晶片所需的核心記憶體供應。",
+    "zhContent": "<p>最近，在科技圈傳出了一則大消息，讓大家看到了人工智慧（AI）發展有多麼火熱。全球知名的繪圖晶片大廠輝達（Nvidia），為了確保它在人工智慧領域的領先地位，最近跟韓國的記憶體製造巨頭SK海力士（SK Hynix）達成了一項非常重要的協議。這個協議的重點就是，輝達將會『鎖定』SK海力士生產的關鍵記憶體供應，確保它未來在人工智慧相關的晶片生產上有足夠的元件。</p><p>這次的合作規模相當大，它被視為輝達價值數千億美元、約5000億美元的巨大人工智慧交易計畫中的一部分。簡單來說，人工智慧晶片就像超級大腦，而記憶體就是這個大腦的記憶倉庫。輝達的晶片因為處理大量人工智慧運算，需要非常快速、高效能的記憶體來配合。為了不讓未來生產因為記憶體不足而卡關，輝達選擇提早行動，和供應商簽下這份如同「預訂」般的長期供貨協議，確保自己能穩定拿到高品質的記憶體。</p><p>這個舉動背後其實反映了現在人工智慧技術的快速發展，以及晶片市場的激烈競爭。隨著越來越多公司投入人工智慧的開發，對高效能晶片的需求也直線上升，這也連帶推高了對關鍵零組件，特別是高頻寬記憶體（HBM）的需求。輝達這次鎖定記憶體供應，目的就是要在這場人工智慧競賽中保持優勢，確保自己的產品能夠持續、穩定地推出，滿足市場不斷增長的需求。</p><p>目前看來，輝達透過這項協議，已經成功為它未來的人工智慧晶片生產，奠定了一個穩固的基礎。這意味著，它在規劃下一代的人工智慧產品時，不需要太擔心關鍵記憶體供應不足的問題。這個戰略性的決定，將會讓輝達能夠更專注於技術創新和產品開發，繼續在人工智慧領域保持領先。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到輝達『鎖定記憶體供應』，你覺得這對他們公司會有什麼好處？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Nvidia Secures Key Memory Supply from SK Hynix for AI Future",
+    "enContent": {
+      "basic": "Nvidia, a big company that makes computer chips, has made a deal with SK Hynix, a company that makes computer memory. Nvidia wants to make sure it has enough special memory for its AI (Artificial Intelligence) chips. This deal is part of a very large plan by Nvidia to grow its AI business, which is worth around $500 billion. By securing the memory supply, Nvidia can continue to make its powerful AI chips without running out of important parts.",
+      "intermediate": "Global chip giant Nvidia has recently finalized a significant agreement with memory manufacturer SK Hynix to secure a stable supply of crucial memory components. This strategic move is integral to Nvidia's overarching $500 billion artificial intelligence initiative. The demand for high-performance memory, particularly High-Bandwidth Memory (HBM), has surged due to the rapid expansion of AI technologies. By 'locking down' this supply, Nvidia aims to mitigate potential supply chain disruptions and maintain its competitive edge in the fast-evolving AI market, ensuring consistent production of its advanced AI chips.",
+      "advanced": "Nvidia, a pivotal player in the high-performance computing sector, has proactively entered into a substantial supply agreement with SK Hynix, a leading semiconductor memory manufacturer. This arrangement explicitly 'locks down' a critical segment of memory supply, forming a strategic pillar within Nvidia's ambitious $500 billion artificial intelligence deal. The escalating demand for AI-driven processors necessitates a robust and dependable source of advanced memory solutions, such as High-Bandwidth Memory. This forward-looking procurement strategy by Nvidia is designed to fortify its supply chain resilience, secure key components for its next-generation AI accelerators, and sustain its market dominance amidst intense industry competition and the rapid advancements in AI infrastructure."
+    },
+    "vocabulary": [
+      {
+        "word": "AI",
+        "zh": "人工智慧：它是一種讓電腦學習和思考的技術，就像給電腦一個超級大腦，讓它們可以做很多複雜的事情，比如辨識圖片、翻譯語言等等。"
+      },
+      {
+        "word": "Memory",
+        "zh": "記憶體：電腦裡的記憶體就像我們大腦暫時存放資訊的地方。它負責快速儲存和讀取資料，讓電腦可以順暢地執行各種程式和任務，特別是人工智慧運算需要非常大的記憶體。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-07-25",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXdIVGF2aEhFZkd2RUt4cWJPYnRleXU3VVAwQmdzeFhkVFVLSTduM0FuUFhrR052VGNpLVAzLXo4cHo0NTM0NUR3bG94RGowSDFwZ2E2SjZHTG1SM3M1TVU4bkVJSTZteUc5U3JGZ0ZNTGpfamo2UEpfbk9Jdk9hbHVrMC0zUU9ITmdyNTY3VWtvejRRX282N0packdXaDRKeVRjOGhiTUR5d9IBrwFBVV95cUxQMlAtRUpKdjI3MjdkS0JIckxFdGY2MzVxSVN1eWVPMFFHLXVNUF9teGt1SXZPWG9XU24xZTdpUFk2V183UXdUSXE2SnUyR2NfbXBLX0dlOF96VE8wRXd6ekg3QkVJajlPcEE5Z18teXJ4dko3MktYelZmb1BlbGJjRU5ueTlkZ19CbUlMRnJaWVdXd2NjZ2l1VnVsenNJYng3bVVxdkp0bEV6LXg0ZnNz?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "週末熱門活動報到！當地媒體點亮你的七月週末！",
+    "zhSummary": "當地媒體TAPinto發布了最新的週末活動指南，內容涵蓋了7月24日至26日期間，城鎮內外一系列適合家庭參與的精彩活動，包括戶外電影夜、農夫市集與社區表演等，為居民提供豐富的休閒選擇。",
+    "zhContent": "<p>你是不是也常常在週末煩惱沒地方去、沒事做呢？別擔心！根據當地媒體TAPinto的報導，他們在7月24日至26日這個週末，特別為當地居民整理了一份「城鎮內外週末好去處」的活動指南。這份指南一直是社群裡的熱門焦點，讓大家能輕鬆找到各式各樣的有趣活動，為週末生活增添不少樂趣。</p><p>這次TAPinto精心挑選的活動琳瑯滿目，保證讓大家有個充實的週末。其中最受期待的，莫過於在中央公園舉辦的「星空電影夜」，邀請大家在週五晚上帶著野餐墊，一同欣賞經典電影。此外，週六上午在市政廣場還有熱鬧的「農夫市集」，不僅能買到新鮮的在地蔬果，還有許多手工藝品攤位可以逛。到了週日下午，則有社區中心舉辦的「才藝展示會」，讓在地表演者有機會展現他們的歌唱、舞蹈或樂器才華，氣氛相當活潑。</p><p>這份活動指南的編輯團隊表示，他們希望透過這樣的報導，能夠鼓勵更多居民走出家門，參與到社群活動中。他們認為，讓大家知道週遭有什麼新鮮事，不僅能豐富個人生活，也能促進鄰里之間的交流，讓整個城鎮更有活力。同時，這也是支持當地商家和藝文團體的好機會，讓他們的努力能被更多人看見。</p><p>這份詳盡的週末活動指南已經在TAPinto的網站上正式發布。所有居民都可以上網查詢這些活動的具體時間、地點以及相關費用，並根據自己的興趣提前規劃行程。如果你還沒想好這個週末要怎麼過，不妨參考看看這份指南，或許能找到意想不到的驚喜喔！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的活動，你覺得最吸引你的是哪一個？為什麼？",
+      "生活與未來：你覺得如果你的社區也有這樣的活動指南，會對你和你的家人帶來什麼實際影響？",
+      "獨立思考提案：針對這份活動指南，你覺得還可以怎麼做會更好，讓更多人想參與？"
+    ],
+    "enTitle": "TAPinto Unveils Weekend Activity Guide for July 24-26",
+    "enContent": {
+      "basic": "TAPinto shared a guide for fun weekend things to do from July 24 to 26. It helps people find local events. Examples include outdoor movies, a farmers market, and a talent show. You can find all the details online to plan your weekend.",
+      "intermediate": "Local media outlet TAPinto has published its latest guide to weekend activities, covering July 24th to 26th. The guide highlights various local events, such as a starlit movie night, a vibrant farmers market, and a community talent showcase. Its aim is to encourage residents to explore and engage with their local area. All event specifics are available on their website for planning.",
+      "advanced": "In its highly anticipated weekly feature, TAPinto has released a comprehensive guide detailing recreational opportunities for the upcoming weekend, spanning July 24th through July 26th. The publication spotlights a diverse array of community engagements, from a family-friendly outdoor cinema experience to a bustling local farmers' market and an inspiring talent exhibition. Editors articulate the guide's objective as fostering local participation and supporting communal cohesion. Full particulars, including schedules and venues, are accessible via their digital platform."
+    },
+    "vocabulary": [
+      {
+        "word": "Community",
+        "zh": "社區。指居住在同一區域的人們組成的團體，大家互相認識、一起生活。"
+      },
+      {
+        "word": "Activities",
+        "zh": "活動。指人們做的事情或舉辦的事件，例如運動、派對或看電影。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-07-25",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPV3pUWDItM3RaTGJZMC0td21lYkIyQ0xReDgySTNJekpXbXNtYWt1anR4TE94TWJFdS1BRFdDekxIZnFrTjdoN0VrQ0x6UVFNbkM2X0ZDWkFQNXNuRkxRMDZ5OW5oUGpyM2Y5RVY3V0d5NVF6ZzJSRy0xUU9ma21oQjdySkRUR2hfYkpKcVZuNmcwWWN0TjdwbUp3TUdkWFF0dTV1WmtXQV9paHFMMS03N0FGeWhlMmsxTlZQcGxBVzRYOG9yeE5lQWxMMWZxaEJ4SW5NQ2lGcXVHQXA1MzdsdjNOUkFFQnJWclNYOHB4QVpQRjlWaDM0THl5MWl1dVg3QVVSZWpNMG93NkRVM3JwOA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國政府坦承：取消特定州的乾淨能源補助",
+    "zhSummary": "美國前總統特朗普執政時的政府承認，他們曾取消提供給由民主黨領導的州份，用於發展乾淨能源計畫的補助金。這項決定影響了這些州推動環保能源的進度。",
+    "zhContent": "<p>嘿，大家有沒有聽過「乾淨能源」？就是那些對地球比較友善的發電方式，像太陽能或風力。最近，從英國一家很有名的媒體《衛報》傳來一個消息，說美國以前的特朗普政府親口承認，他們曾經取消了一些要給特定州的乾淨能源補助金。特別的是，這些被取消補助的州，大多是政治上比較支持民主黨的喔。</p><p>這些被取消的補助金，本來是用來幫助那些州發展更環保的能源計畫，比如蓋太陽能板或是風力發電機組，讓大家未來能用到更乾淨的電力。有了這筆錢，這些州就能更快地推動綠色能源轉型，減少對傳統發電方式的依賴。但現在，特朗普政府承認他們把這些錢收回了，這就等於讓這些州的乾淨能源計畫在資金上遇到困難，進度可能就會慢下來。</p><p>《衛報》的報導中，「承認」這個詞很重要。這代表特朗普政府並沒有否認他們確實做了這個決定。雖然新聞標題本身並沒有深入解釋為什麼會做出這個決定，不過因為這些被影響的州份，都是在政治上傾向或由民主黨主導的，所以很容易讓人聯想到，這項補助的取消可能和不同政黨之間的政策想法，甚至是一些政治上的考量有關。這讓這項決定變得更有討論空間。</p><p>所以，結果就是，原本那些滿心期待能靠這筆補助金來發展乾淨能源的民主黨州，現在必須面對失去這筆資金的現實。這也意味著他們必須趕快尋找其他的替代財源，或者可能得重新評估並調整他們原本雄心勃勃的再生能源發展目標，甚至可能導致一些環保計畫的啟動或完成時間被延後。這項政府的決定，確實對這些州的綠色未來產生了很直接的影響。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國政府為什麼會取消補助？補助的對象又是哪些州呢？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Trump Administration Admits Halting Clean Energy Grants to Democratic States",
+    "enContent": {
+      "basic": "The Trump administration admitted they stopped giving money for clean energy projects in states that mostly vote for Democrats. This news came from The Guardian. These projects help make power without harming the environment, like using sun or wind. Now, those states might find it harder to do their green energy plans.",
+      "intermediate": "The Guardian reported that the Trump administration acknowledged canceling grants intended for clean energy initiatives in states predominantly led by Democrats. These grants were vital for supporting renewable energy development, such as solar and wind power, in those areas. The administration's decision means these states will now need to find alternative funding or face delays in their environmental sustainability efforts.",
+      "advanced": "According to a report by The Guardian, the Trump administration conceded that it had rescinded clean energy grants allocated to states primarily aligned with the Democratic party. These financial allocations were designated to foster renewable energy projects, including solar and wind power development. The acknowledgment suggests a politically charged decision impacting the progress of environmental initiatives in the affected Democratic-led states, compelling them to reassess their funding strategies or anticipate significant project deferrals."
+    },
+    "vocabulary": [
+      {
+        "word": "grant",
+        "zh": "補助金 (政府或特定組織給予的錢，通常用來支持某些計畫或活動，而且通常不用還。"
+      },
+      {
+        "word": "administration",
+        "zh": "政府 (一個國家的管理機關或執政團隊，比如總統和他底下工作的人，或是整個政府單位。)"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-07-25",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWpkbWdTUW9ZRVlfVDlUcERobDV4dWpnLWhtNFN5MzdSTW9NdDk1RmdaU3FKQXFLOXdOM09MdUQ5OTkzS2tSMThSQ1p0YnJ2LURPQy1RZy1wVGpUNW1aMEs4Z1FUcGRQRHowRVN6VFRjandham5YOHdueUU1djltYUJVclAwY3ppQUVOWHpQZ1luLWlLMWlkbTl6aEFxekJodTJQcEo5SWZ3YkpfVlFzMg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "羅素·弗萊眾議員登記參選美國參議院：南卡羅來納州政壇新動向",
+    "zhSummary": "美國南卡羅來納州的現任聯邦眾議員羅素·弗萊已正式登記參選該州的美國聯邦參議院初選，準備角逐更高層次的政治職位，為當地選情投下震撼彈。",
+    "zhContent": "<p>美國南卡羅來納州傳出了一則和選舉有關的新消息！現任的聯邦眾議員羅素·弗萊（Russell Fry）正式登記參選，他準備角逐南卡羅來納州的美國聯邦參議院初選。對於可能不太熟悉美國政治的同學來說，美國國會有兩個重要的部分，分別是眾議院和參議院。眾議員代表的是他們選區的居民，而參議員則代表整個州的居民，通常任期比較長，權力也相對較大。這次弗萊議員選擇從眾議院轉戰參議院，顯示他希望在國家層面發揮更大的影響力。</p><p>弗萊議員是在南卡羅來納州當地時間向選舉委員會提交了必要的申請文件，正式成為這次參議院初選的候選人之一。所謂的「初選」，就是在同一個政黨中，如果有多位候選人都想爭取代表該政黨參加正式選舉的資格，他們就會先進行一場黨內的競爭。只有在初選中獲勝的人，才能代表該黨在之後的「大選」中與其他政黨的候選人一較高下。登記參選是所有政治人物爭取職位的第一步，代表著他已經完成了法律上的手續，正式投入這場政治賽局。</p><p>這項決定讓南卡羅來納州的政壇增添了許多話題。弗萊議員目前在眾議院表現活躍，是當地的代表人物。他選擇在現在這個時間點宣布參選參議院，意味著他將與現任的參議員或其他黨內競爭者展開一場激烈的選戰。在美國的政治體系中，參議院扮演著重要的角色，擁有許多決定國家重要政策的權力。因此，爭取參議員的職位通常競爭會非常激烈。</p><p>目前，弗萊議員已經成功完成參選登記，這代表他已經取得了參與南卡羅來納州聯邦參議院初選的資格。接下來，他將會投入競選活動，努力爭取選民的支持。直到初選結果出爐之前，這場選戰的最終贏家都還有待觀察。新聞報導就到這裡，我們將持續關注後續的發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Rep. Russell Fry Files for South Carolina U.S. Senate Primary",
+    "enContent": {
+      "basic": "Russell Fry, who is a representative, officially signed up to run for the U.S. Senate in South Carolina. This means he wants to get a new job as a senator. A primary election is when people from the same political group vote to choose who will represent them in the main election later.",
+      "intermediate": "U.S. Representative Russell Fry has formally filed the necessary paperwork to enter the South Carolina U.S. Senate primary election. Fry, currently serving in the House of Representatives, is seeking to transition to the Senate, a body with longer terms and broader state-wide representation. This filing marks his official entry into what is anticipated to be a competitive intra-party contest.",
+      "advanced": "Representative Russell Fry of South Carolina has officially submitted his candidacy paperwork for the upcoming U.S. Senate primary in the state. Fry, a current member of the House of Representatives, is challenging for a seat in the upper chamber of the U.S. Congress, indicating a strategic move to potentially assume a more prominent statewide role. His filing signals the commencement of a key internal party contest ahead of the general election."
+    },
+    "vocabulary": [
+      {
+        "word": "Representative",
+        "zh": "眾議員：在美國，聯邦眾議員是由特定選區的人民選出來的代表，他們在國會中為自己的選區發聲，任期通常是兩年。"
+      },
+      {
+        "word": "Primary",
+        "zh": "初選：在正式選舉之前，如果同一個政黨有好幾個人都想代表這個黨出來參選，他們會先舉辦一場「初選」，讓黨員或支持者投票選出一位代表，去參加最後的大選。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-07-25",
+    "sourceName": "WRDW",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemx5RGdsTmhjT2hmUkVpXzBKajBWckZkbDRpbGREQ09tbGVHLUwySWVFODhlVFI4UUFYeURFZE1jV1VIWUxGblNEVjBaLTBlWXl5NFk4UjJ6SHoxaFd1ZzRlZGFwcW15ZVFuWTl1QWRFdzJ2OEw0YngtcXpjY0w0S1M1VFp2N0Vvd1hvRjlGM1LSAaQBQVVfeXFMTVVyRWh6RUJPUlRPMURkU20xamptOFpiSFBLSEM4WUk1LXpJaGhkOUJsVmYtYVlRY25tQ3RTeFRaa2tXTGF5YnVqcUhfODNzUnNKelhBNVBQbHpYS09kRUUyTlplNzczOGN3clhkM0FHakpaZExIQlRoaVdQMnZ2dGpVakFLeUZ4eUQ3c3pxLWtVMU5JR2ZsQVB5aWxBTmg3TjZSRkU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國、西班牙野火肆虐：25萬人被迫撤離家園的緊急狀況",
+    "zhSummary": "近期，歐洲的法國和西班牙面臨嚴峻的森林大火考驗，火勢迅速蔓延，導致超過25萬居民必須緊急撤離家園，以確保生命安全。消防人員正全力投入滅火工作。",
+    "zhContent": "<p>最近，法國和西班牙正面臨一場嚴峻的考驗。大火在兩國境內迅速蔓延，造成了嚴重的破壞。截至目前，為了安全起見，已經有超過25萬人被迫離開他們的家園，尋求庇護。這場大規模的野火讓許多地區陷入緊急狀態，對當地居民的生活造成巨大影響。</p><p>這些野火主要發生在法國的西南部和西班牙的北部區域。由於持續的乾燥天氣、高溫，加上強勁的風勢助長，火勢一發不可收拾，迅速擴大。許多村莊和廣闊的森林被熊熊火焰吞噬，濃煙甚至遮蔽了天空，讓整個區域看起來灰濛濛的。為了保護民眾的生命安全，當地政府和緊急救援部門迅速組織了大規模的撤離行動。這些被迫離開家園的人們，有的被安排到臨時收容所，有的則前往親友家暫住。</p><p>在火災現場，數千名消防隊員不分晝夜地奮力撲滅大火，他們使用各種消防設備，包括消防飛機和直升機，從空中灑水壓制火勢，地面部隊則與火焰正面對抗，努力控制火勢蔓延。然而，由於受災面積實在太大，加上有些地區地形崎嶇不平，使得撲滅大火的工作變得異常艱難。政府也一再呼籲災區民眾保持警惕，並完全配合撤離指示，避免不必要的危險。</p><p>目前，雖然部分地區的火勢已經得到控制，但許多地方的災情仍然嚴峻，火勢尚未完全撲滅。許多家庭正面臨家園被毀的困境，短期內可能無法回到自己的住處。這次大規模野火不僅對環境造成了難以估量的傷害，也對當地居民的日常生活帶來了巨大的衝擊。許多受災民眾仍在焦急地等待火勢完全平息，以便能夠評估損失，並思考如何重建他們的家園和生活。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Wildfires Rage in France and Spain, Forcing 250,000 to Flee Homes",
+    "enContent": {
+      "basic": "Massive wildfires are burning in France and Spain. Over 250,000 people have had to leave their homes because of the danger. Firefighters are working hard to stop the fires, but it's very difficult due to hot, dry weather and strong winds. Many homes and forests have been destroyed. People are staying in shelters or with family, waiting for the fires to end.",
+      "intermediate": "France and Spain are currently battling extensive wildfires that have led to the forced evacuation of more than 250,000 residents. The blazes, intensified by dry conditions, high temperatures, and strong winds, are spreading rapidly across southwestern France and northern Spain. Emergency services are coordinating large-scale evacuations, with affected individuals seeking refuge in temporary shelters or with relatives. Firefighters are working tirelessly, utilizing aerial and ground resources, but the vast affected areas and challenging terrain complicate containment efforts. The fires have caused significant environmental damage and severely disrupted local communities, leaving many families displaced with uncertain prospects for returning home.",
+      "advanced": "France and Spain are grappling with an unprecedented wildfire crisis, compelling the displacement of over a quarter of a million individuals from their residences. Fueled by persistent drought, record-high temperatures, and powerful winds, these rapidly escalating infernos have devastated substantial tracts of land across southwestern France and northern Spain. Emergency response teams have initiated large-scale evacuations, directing affected populations to temporary accommodations and family residences. Despite the relentless efforts of thousands of firefighters, employing both aerial suppression techniques and ground operations, the sheer scale of the blazes and the challenging topography of the affected regions present formidable obstacles to containment. The environmental impact is profound, and the socio-economic disruption to local communities is severe, with a protracted period of recovery anticipated for displaced families assessing losses and contemplating reconstruction."
+    },
+    "vocabulary": [
+      {
+        "word": "Wildfire",
+        "zh": "野火：指在野外自然環境中發生的、蔓延迅速且難以控制的大火，通常會燒毀森林、草地等。"
+      },
+      {
+        "word": "Evacuate",
+        "zh": "撤離：為了躲避危險或災難，從某個地方離開到安全的地方去。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-07-25",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFdwNENnTmc5a0NsRzY4cjVhZ3VKUDlzOHFPWjZZZ1BuZ3hsV0FkbVlHVEhYSS0yS3gxMk1fN2t4bFI5aDZGY3ptQmU0emEtVTlBUVcyQVctck9fam40Rm5VTTVaX2ZmMEUxY29WQ2NqYzY3Tm9sLWZ6TnByNVFORERLTEdjc0FzazJiVXBUWWJtUU0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非總統『彈劾案』喊卡！法院介入，幕後原因大解密",
+    "zhSummary": "南非憲法法院介入，暫停了對總統拉瑪佛沙的彈劾程序。這項停擺起因於有人質疑彈劾程序的合法性，法院將審查其是否符合憲法規定，意味著對總統的指控調查暫時擱置，等待法院最終裁決。",
+    "zhContent": "<p>「南非法院暫停對總統的彈劾程序」— 這則來自半島電視台的新聞，相信讓不少關注國際時事的朋友們嚇了一跳。簡單來說，就是南非的最高權力機關之一 — 法院，決定暫時擋下一個針對現任總統的大動作。這個大動作就是「彈劾」，通常只有在非常嚴重的情況下才會啟動，目的是要審查總統是否有做錯事，甚至影響他的職位。所以，這條新聞代表著南非政壇正經歷一個關鍵的時刻。</p><p>那麼，「彈劾」到底是什麼呢？其實，它就像是給國家最高領導人的一個「大考驗」。當總統被懷疑可能做了不對的事情，例如濫用權力、貪污或者其他違反憲法的行為時，國家議會（立法機關）就會啟動彈劾程序，仔細調查這些指控。如果調查結果顯示總統確實有重大過失，他們就有權要求總統下台。在南非，針對現任總統拉瑪佛沙（Cyril Ramaphosa）的彈劾程序已經展開，因為有一些關於他涉嫌不當行為的指控。</p><p>然而，就在這個重要關頭，南非的憲法法院卻出面介入了。憲法法院的角色，主要是確保所有的法律和程序都符合國家的最高法律 — 憲法。這次，法院決定暫停對總統的彈劾程序，主要是因為有人對這個彈劾程序的「合法性」提出了質疑。他們認為，這個程序的某些環節可能不符合憲法的規定，或者在執行上有問題。所以，法院需要時間仔細審查這些質疑，看看彈劾程序是否真的站得住腳。</p><p>因此，目前對南非總統拉瑪佛沙的彈劾程序，已經被法院按下了「暫停鍵」。這並不代表總統就沒事了，也不是說他一定沒有錯。而是說，在法院沒有做出最終判決之前，這個彈劾程序必須先停下來，等待法院確認整個過程都是公平且合法的。簡單來說，就是法院要先檢查「考試規則」有沒有問題，才能讓「考試」繼續進行。這個事件的最終結果，還要看南非憲法法院後續的裁決。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South African Court Puts Presidential Impeachment on Hold",
+    "enContent": {
+      "basic": "A court in South Africa has temporarily stopped the process to remove the president from office. This means the president, Cyril Ramaphosa, will not face the removal process for now. The court will check if the rules for this process are fair and legal.",
+      "intermediate": "The South African Constitutional Court has intervened, suspending the impeachment proceedings against President Cyril Ramaphosa. The court's decision comes after challenges to the legality and fairness of the impeachment process itself. This pause allows the judiciary to review whether the procedural steps align with the country's constitution, effectively putting the investigation into the president's conduct on hold.",
+      "advanced": "In a significant development for South African politics, the Constitutional Court has ordered a temporary halt to the impeachment proceedings targeting President Cyril Ramaphosa. This judicial intervention stems from legal challenges raised concerning the constitutionality and procedural integrity of the parliamentary impeachment mechanism. The court will now undertake a thorough review of these legal arguments, ensuring adherence to the nation's supreme law before any further parliamentary action on the president's potential removal can proceed, thereby deferring the immediate outcome of the serious allegations he faces."
+    },
+    "vocabulary": [
+      {
+        "word": "impeachment",
+        "zh": "彈劾 (tán hé)：這是一種很嚴肅的程序，當國家或政府的高級官員（例如總統或部長）被懷疑做了非常嚴重的錯事，像是濫用權力或貪污，立法機關（像國會）就會啟動調查，甚至投票決定要不要把他們從職位上撤下來。"
+      },
+      {
+        "word": "constitution",
+        "zh": "憲法 (xiàn fǎ)：它是一個國家的「最高法律」，就像是所有其他法律的「老大哥」。憲法規定了一個國家如何運作、人民有哪些權利、政府有哪些限制等等。所有政府機關和人民都必須遵守憲法的規定。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-07-25",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmMxRUh2V2Z6eXZqN1JxaGZZS3V6ekFMRnRfckFlR3UyZDVqRXhnMEJEUkp0aHJ3czNDWXZLX2dSWlVnRGN2azlyeTJpZWRNeEVxYU1wNjhHRENwV1JyMEtUR1o1R255TDFpWjBWN0swcktRanZsZVJodTVkR3BaTVlZbExSdjEtQUhSODFtbGc0VWJmYkJZS0RFYzFxTVFGNURsNVMwMEjSAa4BQVVfeXFMTVFULTZoZkQtVnVsVGxPdVpoTmdTaTFkS3U4dzdqcC1CMHJENkVUV2t2N293R2dYTjYwNU5rVjNiWEVINXZva014T1pQSzFET1BMek5MY1BHa2xlbUt4aFhVZ1p4NTBvYkFnLWNuT2ZQbXdsUXdJTGdKSEJaaTRIaVo4eVdwNEpHZHI0SjlOMEppYUgzZmFpU2czVkxfb2RDNVd3aHJiSGQtYXI4RkdR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東風雲又起：沙烏地與胡塞交火不斷，美軍艦霍爾木茲海峽開火震驚國際！",
+    "zhSummary": "中東地區近日不安寧，沙烏地阿拉伯與葉門胡塞武裝組織再度互相攻擊，同時美國軍方也在重要的霍爾木茲海峽對一艘油輪開火，顯示該區域的緊張情勢仍未緩解。",
+    "zhContent": "<p>最近，中東地區發生了兩起讓人關注的事件。一方面，沙烏地阿拉伯和葉門的胡塞武裝組織再次互相攻擊。另一方面，美國軍方則在一個非常重要的海峽，也就是霍爾木茲海峽，對一艘油輪開火。這些事情雖然不完全相同，但都發生在同一個充滿挑戰的區域，顯示當地的局勢仍然相當緊張。</p><p>先來說說沙烏地阿拉伯和胡塞武裝組織之間的交火。胡塞武裝從葉門境內，向沙烏地阿拉伯發射了飛彈或無人機，作為回應，沙烏地阿拉伯也對胡塞武裝的目標進行了反擊。這場衝突已經持續了好一段時間，胡塞武裝聲稱這麼做是為了回應他們認為的敵對行動，而沙烏地阿拉伯則強調他們是在保護自己的國家安全。</p><p>同時間，在霍爾木茲海峽也發生了另一件事。美國軍方表示，他們在那裡對一艘油輪開火。霍爾木茲海峽是全球非常重要的航道，世界上很大一部分的石油都是從這裡運出去的。美國軍方常常在這個海峽巡邏，目的是為了確保船隻可以安全地通過，避免衝突或非法活動。這一次的開火行動，是美國軍方在這個關鍵水域執行任務的一部分。</p><p>目前來看，沙烏地阿拉伯與胡塞武裝之間的零星衝突仍在持續，雙方都堅稱自己的行動是正當的。至於美國軍方在霍爾木茲海峽對油輪開火的事件，美國軍方已證實有此行動。這些情況都清楚地表明，中東地區的緊張氣氛還沒有完全解除，各種勢力之間的互動和衝突仍然是該地區的日常。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Saudi Arabia and Houthis trade fire as US fires on tanker in Hormuz Strait",
+    "enContent": {
+      "basic": "Saudi Arabia and Houthi rebels recently exchanged attacks. At the same time, the US military fired at a tanker in the Hormuz Strait. These events show there are ongoing conflicts and tensions in the Middle East region. The Hormuz Strait is a very important waterway for oil transport.",
+      "intermediate": "Recent reports indicate that Saudi Arabia and Houthi rebels have engaged in cross-border attacks, reflecting the ongoing conflict in Yemen. Concurrently, the United States military intervened in the Strait of Hormuz, firing upon a tanker. This highlights the complex and volatile security situation in a crucial global shipping lane, particularly for energy supplies.",
+      "advanced": "In a display of persistent regional volatility, Saudi Arabia and Houthi forces have once again exchanged hostilities, a continuation of the protracted conflict in Yemen. Simultaneously, US forces reportedly engaged a tanker within the strategic confines of the Hormuz Strait. These distinct yet contemporaneously occurring incidents underscore the intricate geopolitical landscape and the heightened maritime security concerns in a critical global chokepoint for international trade and energy transport."
+    },
+    "vocabulary": [
+      {
+        "word": "Strait",
+        "zh": "海峽：指連接兩大片海洋或水域之間，比較狹窄的水道。想像一下，就像兩片大海中間的一條窄窄的河流，船隻常常會經過這裡。"
+      },
+      {
+        "word": "Tanker",
+        "zh": "油輪（或液體貨輪）：是一種專門用來運載大量液體貨物（像是石油、天然氣或化學品）的巨大船隻。牠們就像是海上的大型油罐車。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-07-25",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NYW5xNXNKbDBBV3Y2d0RCb1NKbG8yQzNXS2x3eTQ3cUdTcGxENE54Vk5icG43NnBoWWFJMVVVNDJqeVRrajI3Q3BrZkxtZWxkTDB4Qy13RnJCRm5N?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "韓國晶片雙雄攜手美國科技大廠：你的未來科技可能都跟他們有關！",
+    "zhSummary": "南韓政府證實，三星和SK海力士兩大晶片製造商將與美國科技公司簽訂重要晶片協議，預計將對全球科技產品的發展帶來影響。",
+    "zhContent": "<p>三星（Samsung）和SK海力士（SK Hynix）這兩個來自韓國的超級科技大公司，最近傳出一個讓全球科技界都眼睛一亮的大消息！南韓政府親自證實，這兩家公司準備和美國的科技巨頭們簽下超重要的「晶片大合約」。這就像是科技界的重量級比賽，兩個韓國強隊要和美國隊伍聯手，一起製造更厲害的科技產品，這讓很多人都超期待的！</p><p>這些「晶片大合約」可不是一般的小買賣喔！三星和SK海力士是全球數一數二的晶片製造商，他們做的晶片幾乎是用在各種高科技產品上。從我們每天用的手機、電腦，到更複雜的資料中心伺服器，都需要他們的晶片才能正常運作。跟美國科技公司合作，通常代表他們會提供最新、最厲害的晶片技術，目標是幫美國公司做出更棒、更先進的產品。</p><p>南韓政府出面證實這項消息，不只是因為這兩家公司在南韓非常重要，也顯示出南韓和美國在科技產業的合作關係越來越緊密。政府希望透過這樣的宣布，讓大家知道南韓在先進晶片製造領域的領先地位，以及他們在全球科技供應鏈中扮演的關鍵角色。這種國際間的強強聯手，對兩國的經濟發展以及未來的科技進步都有很大的好處。</p><p>目前，南韓政府已經公開這項重大訊息，表示三星和SK海力士即將正式公布這些與美國科技公司簽訂的晶片合作協議。雖然具體的合約內容和合作對象還沒有全部公開，但可以確定的是，這兩家公司將在全球晶片市場上繼續保持他們的影響力，並和美國的科技巨頭們攜手，共同推動未來的科技發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Korean Chip Giants Partner with US Tech Companies",
+    "enContent": {
+      "basic": "Samsung and SK Hynix, two big South Korean tech companies, are going to make major deals to provide computer chips to US tech companies. The South Korean government has confirmed this exciting news. This means that many of the electronic gadgets we use every day, like phones and computers, might have these special chips inside. This partnership shows how important South Korea is in making these advanced parts for technology.",
+      "intermediate": "South Korea's leading chipmakers, Samsung and SK Hynix, are set to announce significant agreements with US technology firms, according to the Seoul government. These deals are crucial as both companies are global leaders in producing semiconductors, which are vital components in everything from smartphones and computers to data center servers. The collaboration highlights strengthening economic ties and technological interdependence between South Korea and the United States, aiming to foster innovation and supply chain stability.",
+      "advanced": "The South Korean government has confirmed that its semiconductor titans, Samsung and SK Hynix, are poised to unveil substantial chip supply agreements with major US technology companies. This strategic announcement underscores South Korea's pivotal role in the global advanced semiconductor manufacturing landscape and its deepening technological alliance with the United States. These forthcoming deals are anticipated to bolster supply chain resilience and drive innovation in critical sectors, reflecting a concerted effort to strengthen bilateral economic ties amidst evolving global tech dynamics."
+    },
+    "vocabulary": [
+      {
+        "word": "Chip",
+        "zh": "「晶片」：一種非常小的電子零件，像是手機、電腦、遊戲機等各種電子產品裡面的「大腦」，負責處理和儲存所有資訊。沒有晶片，我們的智慧裝置就沒辦法運作喔！"
+      },
+      {
+        "word": "Deal",
+        "zh": "「協議」或「交易」：當兩間公司或國家決定一起合作，或是買賣東西時，他們會達成一個約定，這個約定就叫做「協議」或「交易」。通常會寫下來，確保大家都會遵守。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-07-25",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUU9hRHpSZjhTckdMMkZMcWVfX1pTWDFJNV9FWTllbi13MlJhZjZYUWVZOGpmblVpWE9ua3BjUHRaZ2Z5V2IxOGlGN1hrU0xQUFozc21rLXJiZ3p5NkpldnBoOUZ0aHhOOVJBOGxhRGVPYnVYVTBIMElLejJMWFN6cnB2LXpBMXhZQ2hGZVY2ZmhCNEJuaVI4REthQ2h5VkdWQlhSWWp0Smt3dWdxSC1GN3MxSGg1X0hzbU5POTNrVmowU21sNnduVEFnWQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "安聯保險豪擲20.9億美元！買下匯豐新加坡保險部門",
+    "zhSummary": "德國保險巨頭安聯最近宣布，將以20.9億美元的巨額資金，從匯豐銀行手中收購其在新加坡的保險業務，這將讓安聯在亞洲市場的影響力更加擴大。",
+    "zhContent": "<p>哇！最近在商業界發生了一件超大的事！你知道德國有一家很有名的保險公司叫「安聯」（Allianz）嗎？他們最近決定花一大筆錢，大概是20.9億美元，買下另一家銀行「匯豐」（HSBC）在新加坡的保險部門。想像一下，這筆錢有多驚人啊！這表示安聯在新加坡的業務會變得更龐大，而匯豐則把他們在新加坡的保險業務賣掉了。</p><p>簡單來說，「保險部門」就是負責幫大家規劃、銷售各種保險服務的部分，像是人壽保險啊、意外保險等等。匯豐銀行本來在新加坡也有提供這些保險服務給他們的客戶，但現在他們決定把這整個部門賣給安聯。這對兩家公司來說都是一個很重要的決定。安聯希望透過這次的收購，讓他們在亞洲，特別是新加坡的保險市場站得更穩、服務更多人；而匯豐可能想把更多精力放在他們銀行的核心業務上。</p><p>根據國外權威媒體CNBC的報導，這筆交易是金融界近期的一大新聞。當這樣的大公司進行合併或收購時，通常會經過很長時間的討論和評估，確保對雙方都有利。對原本匯豐新加坡保險部門的客戶來說，這代表他們的保單和服務，未來可能會改由安聯來負責。不過，這些變動通常都會在合法且保障客戶權益的前提下進行，所以客戶的保險權益是不會受影響的。</p><p>這項高達20.9億美元的交易，預計會讓安聯在全球保險市場的地位更加穩固，特別是在快速發展的亞洲地區。這也顯示了全球大型企業如何透過買賣不同的業務單位，來調整他們的發展策略，讓自己更有競爭力。總之，這就是一筆在新加坡發生的、非常大的公司買賣案，讓德國安聯公司變得更大，而匯豐銀行則把保險業務交棒出去。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Allianz Acquires HSBC's Singapore Insurance Unit for $2.09 Billion",
+    "enContent": {
+      "basic": "Allianz, a big company from Germany that sells insurance, is buying HSBC's insurance business in Singapore. They are paying a lot of money, about $2.09 billion. This means Allianz will be bigger in Singapore, and HSBC will not sell insurance there anymore.",
+      "intermediate": "Germany's Allianz has announced a significant acquisition, agreeing to purchase HSBC's insurance unit located in Singapore for a sum of $2.09 billion. This strategic move aims to expand Allianz's presence and market share within the rapidly growing Asian insurance sector, while HSBC will divest its Singaporean insurance operations.",
+      "advanced": "In a major strategic transaction reported by CNBC, German insurance giant Allianz is set to acquire HSBC's Singapore-based insurance unit for an impressive $2.09 billion. This divestiture by HSBC underscores a potential realignment of its regional focus, concurrently enabling Allianz to substantially bolster its footprint and competitive position within the dynamic Southeast Asian insurance market."
+    },
+    "vocabulary": [
+      {
+        "word": "Insurance",
+        "zh": "保險 (bǎo xiǎn) - 一種服務，你可以定期付一點錢，如果遇到意外、生病或未來需要用錢時，保險公司就會按照約定給你一筆錢，幫助你度過難關。就像是為生活買個保障。"
+      },
+      {
+        "word": "Unit",
+        "zh": "部門 (bù mén) - 一個大公司裡面，負責處理特定事務的小組或部分。例如，銀行裡面可能有負責貸款的部門，也可能有負責保險的部門。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-07-25",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTlMcm85Q2pLSzBsUXl2NXVTYnBFbFptSzFiazdYeDNiSnJHVWpVMnNzMEtPNkVPc0lqMVFIb3JtVkEwYW9wLU5FczNYTExWWUFZQXphMF9UOXM0elhiM2dobHVjdGItX3M4WlozRnE5bE9yb1U1WktIMFU1MVh6S3FsaU9PdnJMalBtd1l0U1UxWjNvZUpDTi00ONIBoAFBVV95cUxPVHpaT1B1UnYxdWRlNGN1a3ZBUjBkektiaklwbTBEa0ttWU9NMWN2Q2FWc2V3TFpMOGJZUE9TX2ZnRV9Ud2F2ODVKV05tNDBaWGszR205VUE5LThMQlp2VVVJeTJIUEpPaFBreWVacjNZcnFlUGJmVVQ3d29jYmhmWmZpTGFTekV0X2VMVUVTeDEwYVl0d0FucS1wUS1IRU12?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "索羅門群島的國際走鋼索！如何在美中之間「喬」出最佳位置？",
+    "zhSummary": "太平洋島國索羅門群島的領導人，正努力在美國和中國兩大強權之間維持巧妙平衡，希望為國家爭取最大利益，同時也引發了國際關注。",
+    "zhContent": "<p>嗨，大家好！我是你們的好朋友，小編阿信。今天我們要來聊一個太平洋上國家的大事。這個國家叫做「索羅門群島」，它雖然不大，但在國際舞台上卻超級活躍。最近，索羅門群島的領導人正在努力玩一場高明的「平衡遊戲」，那就是在兩個世界上最有影響力的國家——中國和美國——之間，找到最適合自己的位置。這可不是一件簡單的任務，因為兩個大國都想在這個重要的太平洋地區擴大自己的影響力。</p><p>事情是這樣的，過去幾年來，索羅門群島跟中國的關係變得越來越緊密。舉例來說，在2019年，索羅門群島宣布不再承認台灣，轉而跟中國建立了外交關係。之後，他們還簽署了一份「安全協議」，這讓許多國家，特別是美國和澳洲，對中國在太平洋地區可能部署軍事力量感到有點擔心。這份協議的內容包括允許中國警察和軍隊在索羅門群島協助維持社會秩序，以及保護中國在當地的投資項目。</p><p>但這並不代表索羅門群島就完全倒向中國喔。為了保持中立和國家的最大利益，索羅門群島的領導人也在積極地跟美國加強聯繫。美國為了回應中國在太平洋地區不斷增加的影響力，也開始加碼對索羅門群島的關注。美國總統曾派出高層官員拜訪，承諾提供更多經濟援助和發展支持，甚至重新在索羅門群島設立了大使館，希望能深化兩國之間的合作。</p><p>索羅門群島的總理馬內列（Jeremiah Manale）曾多次公開表示，他們只是想跟所有國家建立友好關係，爭取更多發展機會，改善當地人民的生活。所以，目前索羅門群島的領導人就是在這兩個超級大國之間小心翼翼地走鋼索。他們一方面歡迎中國的投資和基礎建設援助，另一方面也努力維持與美國的友好關係，以確保國家能從多邊外交中獲得最大好處。這場國際大戲還在繼續上演中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，索羅門群島領導人為了國家利益，分別從美中兩國獲得了哪些協助？這些協助對索羅門群島來說有什麼意義？",
+      "生活與未來：你覺得索羅門群島這種「平衡外交」策略，會對當地居民的生活帶來什麼實際影響？你認為他們這樣做，未來會遇到哪些可能的挑戰？",
+      "獨立思考提案：如果台灣也面臨類似的國際局勢，你覺得我們除了「平衡」之外，還可以考慮哪些外交策略來維護自身利益並促進發展？"
+    ],
+    "enTitle": "Solomon Islands Leaders Navigate Complex US-China Relations",
+    "enContent": {
+      "basic": "The Solomon Islands is trying to be friends with both China and the United States. Its leaders want help from both big countries for their island nation. China and the US both want more influence in the Pacific Ocean.",
+      "intermediate": "Leaders in the Solomon Islands are carefully managing their relationships with two global powers, China and the United States. This small Pacific island nation seeks to benefit from both countries' investments and aid while navigating their geopolitical competition. Recent actions include strengthening ties with China, which raised concerns in the US, and actively re-engaging with the US through high-level visits and the reopening of an embassy.",
+      "advanced": "The Solomon Islands is strategically positioning itself amidst the escalating geopolitical rivalry between China and the United States in the Pacific. Its leadership is engaged in a delicate diplomatic balancing act, aiming to secure optimal developmental advantages and infrastructure investment from both nations. While deepening economic and security ties with China, including a controversial security pact, the Solomon Islands concurrently seeks to bolster relations with the US, which has responded by increasing diplomatic presence and aid. This strategy underscores the nation's commitment to prioritizing national interests by leveraging bilateral engagements without aligning exclusively with either superpower."
+    },
+    "vocabulary": [
+      {
+        "word": "balance",
+        "zh": "平衡 (pínghéng) – 想像你在玩蹺蹺板，兩邊都想保持一樣重，才不會倒下來。在國際關係上，就是一個國家努力讓自己跟不同大國的關係都一樣好，不偏向任何一方。"
+      },
+      {
+        "word": "diplomacy",
+        "zh": "外交 (wàijiāo) – 就像兩個不同班級的班長坐下來談判，討論怎麼合作或解決問題。在國家之間，就是政府派代表去跟其他國家溝通、協商，處理各種國際事務。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-07-25",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnk2OFNMc0Z0MkRyRUpMR0htcVc4dklaalg2RG9iMW9zTnNMRDBNdjNKZjNLNUpKWHA1UW9rOHp6OTl6d1dZVDRzeEE5U2ktQkNEbDFzYUM5d1ZwTkZMc2RLaFlaRkxrTFVJQVRhejBObjZ4dDFOOTNEU080WUQtaXdnd3pOaFlPc0FCSG04X0d3dk43dGc?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "日本京都八幡「首位」休產假的女性市長！16週長假引全球關注",
     "zhSummary": "日本京都八幡市一位女性市長，因為決定請長達16週的產假，成為日本歷史上第一位這樣做的女性市長。這個消息不僅在日本國內引發討論，也吸引了國際媒體的注意，讓大家開始思考日本職場與性別平等的議題。",
     "zhContent": "<p>你知道嗎？在日本京都的八幡市，最近發生了一件非常特別的事情，讓整個日本社會，甚至是國際間都對此議論紛紛！這就是關於八幡市一位「女性市長」的故事。她做了一個在日本政壇前所未見的決定——她宣布將休長達16週的產假。這個舉動，讓她成為了日本史上第一位請這麼長產假的女性市長，因此快速地吸引了全球的目光。</p><p>這16週的產假，對於許多國家的職場女性來說，或許並不罕見。然而，在日本，尤其是對於擔任市長這樣高階的政府職務來說，卻是個創舉。過去，日本的政治人物或高階主管很少會選擇請這麼長時間的產假，這也讓這位女性市長的決定顯得格外突出。許多人都在關注，她將如何在兼顧家庭與市政工作之間找到平衡，並且確保市府運作不受影響。</p><p>之所以這則新聞會受到國際廣泛關注，主要原因在於它觸及了日本社會長期以來面臨的性別平等與職場文化議題。在日本，女性在職場上常被期望在事業與家庭之間做出取捨，尤其在政治或管理階層，要請長假更是不易。這位女性市長的行動，無疑是對日本傳統觀念的一大挑戰，也可能為其他有志於公職或高階管理職位的女性樹立了一個新的榜樣。</p><p>目前，這項決定已經正式實施，該市長也已開始她的產假。外界持續關注著這項「日本首例」的後續發展，它是否會推動日本其他地方政府或私人企業重新思考產假政策，或是鼓勵更多女性在追求事業的同時也能兼顧家庭，都成為了大家熱烈討論的焦點。而這一切的影響，都將直接呈現在未來的發展中。</p>",
@@ -12455,461 +12910,6 @@
     "tagClass": "tag-nature",
     "region": "大洋洲",
     "date": "2026-06-25",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHpOVHBLQ1lfaktjMTRWTEVxSmh6X1NiTnpTUEFBek5tb2Q2VjR6djhhVjZqaVpKZ3B0YU9odURPX3pUd1VRWHBmOTRPbGdLdFZTU19rbFFSR3RMWkFCX2VEV2hWaTA4cVEzNmxsay1iTmVrUEVRdUVpTDZhMEdnNGVpY2x2U2M3WGlRSTJXWVkwRkNvR0Z4bHhFamZ6bDBoTnBJS2VCNHBIaTR0d21WNUg1dGNmQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "新竹空軍基地驚傳火警氣爆 一名人員受傷",
-    "zhSummary": "新竹空軍基地近日發生火警，疑似因設備故障引發氣爆，導致一名人員受傷。目前相關單位正積極調查事故原因。",
-    "zhContent": "<p>大家好！最近在新竹空軍基地發生了一件引起大家關注的事情。幾天前，基地裡傳出了火警，更讓人擔心的是，據說還發生了疑似設備故障引起的氣爆意外，導致一名人員在這次事件中受傷。</p><p>這起事件發生在2026年6月23日。根據公視新聞網的報導，火警地點就在新竹的空軍基地。當時，基地內部突然冒出火光和濃煙，接著便有爆炸聲響傳出。初步懷疑，會發生這樣的狀況，可能是基地裡的某些設備突然故障，才導致氣體外洩並引發了氣爆。</p><p>消息一出，基地內的相關單位立刻展開了緊急處理。他們迅速控制住火勢，並對現場進行了初步勘查。空軍司令部也發出聲明，表示對於這起意外非常重視，目前已經成立了專案小組，正在全面調查事故的詳細原因，以釐清是哪部分設備出了問題，以及氣爆發生的確切過程。</p><p>令人遺憾的是，這場突如其來的火警與氣爆，造成基地內一名人員在過程中受傷。受傷人員已經立即被送往醫院接受治療，目前情況穩定。空軍方面強調，會持續關注傷者的復原狀況，並會依照相關規定提供必要的協助。至於事故的確切原因和後續處理，都還在進一步調查與釐清當中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「氣爆」和「設備故障」可能代表著什麼樣的危險？",
-      "生活與未來：你覺得軍事基地發生這樣的意外，對周圍的環境或居民會造成什麼實際影響？",
-      "獨立思考提案：針對這次事件，如果你是負責安全檢查的人員，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Hsinchu Air Force Base Reports Fire and Explosion, One Injured",
-    "enContent": {
-      "basic": "A fire and suspected gas explosion recently occurred at Hsinchu Air Force Base, resulting in one injury. Authorities are investigating the cause, believed to be equipment malfunction.",
-      "intermediate": "On June 23, 2026, Hsinchu Air Force Base experienced a fire and an apparent gas explosion, which is thought to have stemmed from equipment malfunction. One person was injured and received medical treatment. The Air Force Command Headquarters has initiated an investigation to determine the exact cause and prevent future incidents.",
-      "advanced": "Hsinchu Air Force Base, as reported by PNN, was the site of a fire and a suspected gas explosion on June 23, 2026. Preliminary findings suggest an equipment malfunction as the probable cause. One individual sustained injuries and is receiving stable medical care. The Air Force Command Headquarters has established a special task force to conduct a thorough investigation into the incident, focusing on pinpointing the faulty equipment and the precise sequence of events leading to the explosion. Measures for assistance to the injured and ongoing clarification of the accident's specifics are currently in progress."
-    },
-    "vocabulary": [
-      {
-        "word": "Malfunction",
-        "zh": "故障 (設備故障) - 指的是機器或設備突然壞掉，不能正常運作了。就像你的手機突然打不開，就是故障了。"
-      },
-      {
-        "word": "Explosion",
-        "zh": "氣爆 (氣體爆炸) - 指的是氣體因為某種原因（例如漏氣或火花）突然快速燃燒或膨脹，產生巨大聲響和破壞力。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-06-24",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41U05XbHNqN3VXcXpYeTJfNFJlb3BPc0Y2VkhNWEtuUmFPNWh0QjQ3R1FRaENvWS1fM1NTUEpURGtQX0QwOHliUUZUOA?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "歐洲燒燙燙！多國發布紅色高溫警報，大家怎麼應對？",
-    "zhSummary": "歐洲多個國家正遭受極端熱浪襲擊，包括英國、法國、西班牙和義大利都發布了紅色高溫警報，讓當地民眾和政府都面臨嚴峻考驗。",
-    "zhContent": "<p>歐洲最近真的熱炸了！新聞報導指出，整個歐洲正面臨一波前所未有的極端熱浪襲擊，讓好多國家都發出了最高級別的「紅色高溫警報」。像是英國、法國、西班牙和義大利，這些大家熟悉的國家，都因為這波來勢洶洶的熱浪而繃緊神經，全國上下都在努力應對。</p><p>所謂的「紅色高溫警報」，可不是開玩笑的，它代表氣溫將會非常非常高，已經達到可能對民眾健康產生嚴重威脅的程度。根據當地氣象單位的預測，一些地區的氣溫可能輕易飆破攝氏40度，甚至更高，熱到讓人根本不想出門。面對這樣的高溫，各國政府都趕緊發出緊急提醒，呼籲大家盡量待在室內、穿輕薄衣物、大量補充水分，並特別注意家中長輩和幼兒的身體狀況，避免中暑及熱傷害。</p><p>這次的極端熱浪為何如此猛烈呢？許多科學家和氣象專家分析，這和全球氣候模式的變化有密切關係。這麼高的溫度，不只讓人不舒服，也確實造成許多生活不便。例如，一些大型戶外活動被迫取消或延期，暑期旅行也可能受阻。高溫還會對基礎設施造成壓力，像是道路變形、鐵路速度減慢、電力供應吃緊。大家都在想辦法度過這段煎熬時期。</p><p>截至目前為止，歐洲這些被熱浪籠罩的國家，仍然持續努力地在和極端高溫搏鬥。政府與醫療機構都動員起來，提供必要的協助與資源，同時也持續監測最新的氣溫變化。當地民眾也盡可能配合，互相提醒、幫助，希望能平平安安度過這波熱浪。這場來自大自然的「熱情」考驗，還在持續進行中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，歐洲各國政府建議民眾如何應對極端高溫？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Europe Sizzles: Red Alerts Issued Across Multiple Nations Amid Extreme Heatwave",
-    "enContent": {
-      "basic": "Europe is facing a severe heatwave. Countries like Britain, France, Spain, and Italy have issued red alerts due to extremely high temperatures. People are advised to stay indoors and drink lots of water to stay safe.",
-      "intermediate": "Several European countries are currently battling an intense heatwave, prompting the issuance of \"red alerts\" in nations such as Britain, France, Spain, and Italy. Temperatures have soared, posing significant health risks and challenging daily life, with authorities urging citizens to take precautions against the extreme heat.",
-      "advanced": "Europe is currently contending with an unprecedented extreme heatwave, leading to the activation of \"red alerts\" across major countries including the United Kingdom, France, Spain, and Italy. This severe climatic event has pushed temperatures to critical levels, necessitating widespread public health advisories and operational adjustments to mitigate the impacts on infrastructure and public well-being."
-    },
-    "vocabulary": [
-      {
-        "word": "extreme",
-        "zh": "極端的。意思是非常、非常、非常…到了一個極限，超過一般情況。比如「極端高溫」就是熱到受不了的溫度。"
-      },
-      {
-        "word": "grapple",
-        "zh": "搏鬥、努力應對。意思是要很努力地去處理一個困難或問題，就像在跟它搏鬥一樣。新聞裡說歐洲正在「搏鬥」極端高溫，就是指大家都在很努力地想辦法對付它。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-06-24",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYThCQWwtaVRPb3owNmFDdnVDdWV4dHZHbDlJdXFiTGE2dF9iUGo3NENJSUxodHFjMUpWa1gyTUg2UU95WXoybmpORV9EeF9fNElMT2l3RFJ5UEptVGZBdnVCeGs0X1JBNk9KdE5ZSkJnVWF1UjNaQ0ZjekM2UUJramMyNNIBiAFBVV95cUxQdDRGOVB1S0gyQUYtQUJMek14ZE93aUtDOEJjV3d3c0UxTThfMHlRMHlEWTV0a1VuUmxHb2lOTDBVQTFWRW01ajBpaDR2MnN6NzluT2I4eUxuYm5yQ1dMSVpiaW9WLXRwMzFQaGxTTW1OU0RpdVI5eGI2Y1lVVVFKUlBOc3hQUFJO?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普政府調整教育部：特殊教育與公民權利監督權大搬風",
-    "zhSummary": "美國前總統川普任內，對教育部進行了組織調整，將原本負責特殊教育和公民權利的監督職責，轉移到不同的辦公室，引發各界關注此變動對學生權益的潛在影響。",
-    "zhContent": "<p>在美國前總統川普的執政期間，教育部進行了一項備受矚目的內部調整。他將原本負責監督特殊教育和公民權利的重要職責，從特定辦公室轉移到了另一個部門。這個變動引起了不少討論，因為特殊教育和公民權利，對確保所有學生都能享有公平的學習機會來說，都扮演著關鍵角色。</p><p>具體來說，根據當時的報導，過去負責處理這些事務的主要是「民權辦公室」以及「特殊教育和復健服務辦公室」。而川普政府的這項決策，將這兩者的一些監督權限，移交給了教育部內的「法律顧問辦公室」。這表示，未來針對特殊教育學生的權益保障，以及校園內預防各種歧視的相關規定，將會由不同的單位來進行管理與執行。</p><p>支持這項調整的觀點認為，這是為了讓教育部的運作能夠更有效率，並且能更好地協調所有法律事務。然而，許多持反對意見的人則擔心，這樣的組織變動可能會降低特殊教育和公民權利的重要性，甚至可能影響到對這些權利的保護強度。他們認為，將這些職責交由法律顧問辦公室，可能會讓決策過程更加偏重法律條文的解讀，而非直接關懷學生的實際需求。</p><p>總而言之，這次調整讓美國教育部的內部結構出現了變化，也改變了特殊教育和公民權利的監督方式。目前，這項行政決定已經生效，相關的法律執行與監督工作，將會依照新的組織架構來運作。這就是事件目前的客觀狀況。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump Administration Reshuffles Education Department's Oversight of Special Ed and Civil Rights",
-    "enContent": {
-      "basic": "During the Trump administration, there was a big change in the U.S. Education Department. The responsibility for watching over special education and civil rights was moved to a different office. This made many people wonder what it would mean for students. It caused concern because both special education and civil rights are very important for making sure all students get fair chances to learn. This shift means different parts of the government are now in charge of these important areas.",
-      "intermediate": "The Trump administration decided to shift the oversight of special education and civil rights within the U.S. Education Department. Previously, offices like the Office for Civil Rights and the Office of Special Education and Rehabilitative Services handled these responsibilities. The change moved some of these duties to the Office of General Counsel. Supporters of this move said it would make the department run better and coordinate legal matters more smoothly. However, critics worried that this shift might weaken the importance of special education and civil rights, potentially affecting how well these protections are enforced for students. They feared the focus might shift from students' needs to legal technicalities.",
-      "advanced": "The Trump administration enacted a significant restructuring within the Department of Education by reassigning oversight responsibilities for special education and civil rights. This move involved transferring duties previously held by entities such as the Office for Civil Rights and the Office of Special Education and Rehabilitative Services to the Office of General Counsel. Proponents of the reorganization argued it would streamline departmental operations and enhance legal coordination. Conversely, critics voiced concerns that this reallocation of authority could diminish the prominence of special education and civil rights, potentially impacting the robustness of their enforcement. The apprehension was that a legal counsel-led oversight might prioritize legalistic interpretations over the substantive needs and protections of students, thereby altering the landscape of educational equity."
-    },
-    "vocabulary": [
-      {
-        "word": "Oversight",
-        "zh": "監督 (jiān dū) - 意思是仔細地檢查、管理一件事情，確保它按照規定或計畫進行。就像老師監督學生做功課，確保大家都有完成一樣。"
-      },
-      {
-        "word": "Civil Rights",
-        "zh": "公民權利 (gōng mín quán lì) - 指的是所有公民都應該享有的基本權利，例如不被歧視、有受教育的權利、表達意見的自由等等。它保障每個人都能被公平對待。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-06-24",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFhTMVNfWExJbXh0RDUyallfQVhGRkY1aFdXNk44R2FWVzExUF9HX3FNVHc1UDdDdWRMOGxfMkotY1ZfbUFkZm92WmdDMkVtMXlkOWY5eklkMklQTlNzMkNXMjdJUWFscElwS24zOTlvcUh5MlBfeXpGb01QTGhTTGVndk1HVlZveEJ5XzhyRTFHWVE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "晶片大廠高通大手筆！40億美元買下新創公司，全力衝刺AI軟體",
-    "zhSummary": "知名晶片製造商高通（Qualcomm）宣布將以40億美元收購AI軟體新創公司Modular。此舉顯示高通正積極投入人工智慧領域，希望能讓他們的晶片在未來提供更強大的AI功能。",
-    "zhContent": "<p>嗨，各位科技迷們！最近有個大消息在科技圈傳開，大家熟知的晶片大廠高通（Qualcomm）做了一個大手筆的決定。這家公司，也就是我們手機裡常常會聽到處理器品牌的那個高通，宣布他們將花費高達40億美元，買下一間叫做Modular的新創公司。這筆交易的目標很明確，高通希望藉此大力推動他們在「人工智慧（AI）軟體」領域的發展，準備讓我們的未來裝置更聰明。</p><p>你可能會好奇，這Modular到底是何方神聖，讓高通願意花這麼多錢？其實，Modular專精於開發能夠讓AI應用程式跑得更快、更有效率的軟體工具和平台。簡單來說，他們的工作就是幫助工程師們，把複雜的AI模型更流暢地整合到各種硬體設備上。高通作為全球領先的晶片供應商，從智慧型手機、穿戴裝置到汽車系統，到處都有他們的晶片。買下Modular，等於是讓高通在硬體（晶片）和軟體（AI應用）兩方面都能更上一層樓。</p><p>高通會做出這個決定，背後其實是看到了人工智慧在未來科技中無可取代的地位。現在，無論是手機上的拍照優化、語音助理，還是車子的自動駕駛輔助系統，都越來越需要強大的AI能力來支援。隨著AI技術的發展，單純的硬體晶片已經不夠了，軟體怎麼搭配、怎麼發揮最大效率也變得同樣重要。高通希望透過Modular的技術，能讓自家晶片在執行AI任務時表現得更出色，提供更流暢、更智慧的使用體驗。這也代表科技巨頭們都在搶著站穩AI的領先地位。</p><p>這場40億美元的收購案，代表著高通在人工智慧領域的佈局又往前邁進一大步。目前看來，這項交易已經確認，Modular的團隊和技術將會併入高通。未來，我們或許會看到更多搭載高通晶片的裝置，在人工智慧應用上展現更驚人的效能。這筆交易也顯示了，在科技快速變化的時代，不斷投資新技術、提升軟硬體整合能力，是保持競爭力的關鍵。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Qualcomm's $4 Billion AI Software Acquisition: Boosting Smart Tech",
-    "enContent": {
-      "basic": "Qualcomm, a big company known for making computer chips for phones, is buying a smaller company called Modular for $4 billion. Modular helps make AI software run better. Qualcomm wants to use Modular's technology to make their chips even smarter for things like phones and cars. This big purchase shows how important AI is becoming in technology.",
-      "intermediate": "Qualcomm, a leading chipmaker for mobile devices, has announced its acquisition of Modular, an AI software startup, for $4 billion. This strategic move aims to significantly enhance Qualcomm's artificial intelligence software capabilities. Modular specializes in developing tools that optimize the performance and efficiency of AI applications across various hardware platforms. By integrating Modular's technology, Qualcomm intends to strengthen its position in the rapidly evolving AI landscape, enabling its chips to power more sophisticated AI features in smartphones, automotive systems, and other connected devices.",
-      "advanced": "Qualcomm, a dominant force in semiconductor design for the mobile and automotive sectors, has unveiled its intent to acquire the AI software startup Modular in a deal valued at $4 billion. This significant investment underscores Qualcomm's aggressive strategy to bolster its artificial intelligence software stack and capitalize on the burgeoning demand for on-device AI processing. Modular is recognized for its work in creating optimized software frameworks and tools that facilitate the deployment and performance enhancement of AI models across diverse hardware architectures. The integration of Modular's intellectual property and talent is anticipated to fortify Qualcomm's end-to-end AI solutions, allowing its Snapdragon platforms to deliver superior AI inferencing and learning capabilities, thereby cementing its competitive edge in the next generation of intelligent computing."
-    },
-    "vocabulary": [
-      {
-        "word": "Qualcomm",
-        "zh": "高通：一家美國的大型科技公司，主要設計和製造手機、平板電腦、智慧手錶等裝置使用的「晶片」，像是我們手機裡的處理器就常常是他們家的產品。"
-      },
-      {
-        "word": "Startup",
-        "zh": "新創公司：指剛成立不久、通常規模不大，但很有潛力、目標在快速成長並開發新產品或服務的公司。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-06-24",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "酷老爸的育兒魔法：專家揭露「有趣爸爸」的五大秘訣",
-    "zhSummary": "CNBC報導，一位專家指出「有趣老爸」在育兒上做得對的五件事，這些方法值得其他父母在父親節參考。",
-    "zhContent": "<p>CNBC最近報導，有位專家特別點出了「有趣老爸」們在育兒上做得非常對的五件事。這位專家認為，這些爸爸們掌握了一些很多家長可能忽略的秘訣，特別是在父親節這個時候，這些育兒方式很值得其他父母參考學習。報導提到，這些「有趣老爸」並非天生就有超能力，而是他們在日常生活中展現出的特定行為模式，讓孩子們感受到更多快樂與支持。</p><p>那麼，這些「有趣老爸」到底做對了哪五件事呢？根據專家的觀察，首先，他們很懂得「玩」：不只是陪玩，還會主動創造有趣又有點瘋狂的遊戲，讓親子互動充滿笑聲。其次，他們「真心投入」：會花時間認真聽孩子說話，了解他們內心的想法，而不是敷衍了事。第三，他們「鼓勵探索」：讓孩子有機會自己去嘗試、去解決問題，即使會犯錯也沒關係，從中學習成長。</p><p>再來，這類爸爸的第四個優點是「讓平凡變有趣」：即使是日常瑣事，他們也能想辦法加入一些創意或幽默感，讓孩子覺得生活處處有驚喜。最後，他們懂得「展現情感」：會大方表達愛與支持，讓孩子感受到被愛、被肯定，建立起堅固的情感連結。專家強調，這些行為模式不只讓孩子們覺得爸爸很酷，更能幫助孩子建立自信、學習社交技巧，並且擁有更正向的成長經驗。</p><p>這份報導的核心訊息是，所謂的「有趣老爸」並不是指那些每天都帶孩子去遊樂園的爸爸，而是在親子互動中，懂得用更積極、更有趣的方式來陪伴孩子成長的家長。專家提出的這五個觀察，提供了一個很實用的角度，讓所有父母都能思考如何在育兒的過程中，加入更多讓孩子感到開心的元素，進而建立更親密、更健康的親子關係。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The Parenting Magic of 'Fun Dads': Expert Reveals Five Key Secrets",
-    "enContent": {
-      "basic": "CNBC recently reported on an expert who highlighted five things 'fun dads' do exceptionally well in parenting. According to this expert, these dads have mastered certain secrets that many parents might overlook, especially around Father's Day. The report suggests that these 'fun dads' aren't born with superpowers; rather, their specific behaviors in daily life make their children feel more joy and support. These key actions include playing actively, listening genuinely, encouraging exploration, making everyday tasks fun, and openly showing affection. The expert emphasizes that these approaches help children build confidence, develop social skills, and have more positive growth experiences. The core message is that effective parenting involves active, engaging, and enjoyable ways to accompany children as they grow, fostering closer and healthier parent-child relationships."
-    },
-    "vocabulary": [
-      {
-        "word": "parenting",
-        "zh": "育兒方式，指的是父母照顧、教育和引導孩子成長的整個過程與方法。"
-      },
-      {
-        "word": "expert",
-        "zh": "專家，指在某個特定領域裡擁有豐富知識、經驗和專業技能的人。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-06-24",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWhrQzRfU1BPN0Jwc2dxekFwQzJrV3VlanJZakc0b08xRlRoUlYwSWFJVXdIVDlCYmpwdEQzckFRNDVGb1Q2ZXl0R2dGSi0wV0M1TVRyLXVBdmFCV0F6c2gzSjhkYVpiT2tjVnpxRnlYMlFuNnMyVExhcEI4bWFLVGtHdkdscUt0eGszYXNXR1hsWF9EZ0VxUWdvbmNCZ2pzZG9ZQXpZZTI3MmxyanlBMGh5MTJ5YnfSAbwBQVVfeXFMT1VhV3p5NWotUFhqbDJZWXpmcDZPR1RsOFFLQ25WNXdGbDE3VTUwQjEta2YtQzdwTUNtTGExbE41Q0NVbG5ReWdoRU1vTWd1MlNRQUZ2SDBETmcyNFdSSjQ1MXRZQ1JfSTR1ZXRrZlJxZnFPQmVsVV9IM1N4RUQ2TFljUEJtd3NucmlJby1wYVBRbC1NRU5XTEJXd0hUdlhBZ0tCTW5yRVEyeTZwSURUeGVSWm9hU05kWnlEMWw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "特朗普的「破壞」指控：倒影池究竟發生了什麼事？",
-    "zhSummary": "前美國總統特朗普曾指控華盛頓特區的林肯紀念堂倒影池遭到「惡意破壞」，但隨後他面臨各方壓力，要求他拿出證據來證明這項說法。這起事件引起了媒體和公眾的關注。",
-    "zhContent": "<p>前美國總統特朗普曾經丟出一個驚人的消息，他公開表示，美國首都華盛頓特區著名的林肯紀念堂倒影池（Lincoln Memorial Reflecting Pool）被「惡意破壞」。這個消息一出，立刻引起了大家的注意。不過，當他這樣說了之後，各方也紛紛要求他得提出具體的證據，來證明他的這個說法並非空穴來風。</p><p>據報導，當時倒影池的水位明顯下降，並且水質狀況不佳。針對這些情況，特朗普透過社群媒體發文，直接將問題歸咎於有人「故意搞破壞」。他認為這並非普通的設備故障或維護問題，而是有人蓄意造成損害。他的指控讓這起原本看似單純的公共設施狀況，瞬間變成了一場羅生門般的爭議。</p><p>然而，負責管理倒影池的美國國家公園管理局（National Park Service）很快就對此事做出了說明。他們表示，倒影池之所以看起來水量不足或水質不佳，主要是因為泵浦系統出現了機械故障，再加上當時正值進行例行性維護的調整期。管理局並沒有提到任何與「惡意破壞」相關的跡象或證據，他們的說法與特朗普的指控大相逕庭。</p><p>因此，特朗普的說法便受到越來越多人的質疑。媒體和公眾都密切關注，希望能看到他如何證明這項重大的指控。目前為止，特朗普並沒有針對國家公園管理局的聲明提出新的證據來支持他的「破壞」論點，而倒影池的維護工作也按照官方公布的程序持續進行著。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，特朗普總統的說法和國家公園管理局的說法有什麼不同？",
-      "生活與未來：你覺得如果一個重要人物發表了未經證實的言論，會對大眾產生什麼影響？",
-      "獨立思考提案：針對這類公共設施的問題，你覺得除了歸咎於人為破壞或設備故障外，還有哪些可能性？"
-    ],
-    "enTitle": "Trump's \"Sabotage\" Claim: What Really Happened at the Reflecting Pool?",
-    "enContent": {
-      "basic": "Former President Trump said the Lincoln Memorial Reflecting Pool was broken on purpose, calling it \"sabotage.\" But people wanted him to show proof. Park officials said it was just a broken pump and normal maintenance, not sabotage. Everyone is still waiting for Trump to show his evidence.",
-      "intermediate": "Former U.S. President Donald Trump made a notable claim, stating that the iconic Lincoln Memorial Reflecting Pool in Washington D.C. had been \"sabotaged.\" This accusation quickly drew attention and led to calls for him to provide evidence. However, the National Park Service, which manages the pool, countered his claim, explaining that the low water levels and poor water quality were due to a mechanical pump failure and routine maintenance, not intentional damage. The situation put pressure on Trump to substantiate his allegations, and the public continued to follow developments.",
-      "advanced": "Former U.S. President Donald Trump ignited controversy by asserting that the Lincoln Memorial Reflecting Pool in Washington D.C. had been subjected to \"sabotage.\" This declaration immediately prompted demands for substantiation of his significant claim. Conversely, the National Park Service, the entity responsible for the pool's upkeep, released a statement attributing the observed low water levels and diminished water quality to a mechanical pump malfunction and scheduled maintenance procedures. This direct contradiction placed considerable pressure on Trump to present concrete evidence for his allegations, as media and public scrutiny intensified regarding the divergent explanations."
-    },
-    "vocabulary": [
-      {
-        "word": "sabotage",
-        "zh": "破壞（名詞）或蓄意破壞（動詞）。意思是指故意破壞一些東西，讓它無法正常運作，通常是為了達成某個目的或表達不滿。想像一下有人偷偷把學校電腦的電源線拔掉，讓大家不能用，這就是一種 sabotage。"
-      },
-      {
-        "word": "reflecting pool",
-        "zh": "倒影池。是一種水池，通常設計成水面非常平靜，像鏡子一樣可以反射周圍的建築物或景色。最有名的大概就是華盛頓特區的林肯紀念堂前面的那個大水池，它能清楚地倒映出紀念堂。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-06-24",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWVobWJ6UGpMNHByM0wwdHZkdWtPVndJQU9Zd3ZSbmlIRnpqYVVSSzdUN05Qd1BLdW5ETGFSQnk2RVZPN3RmSXE4dHJWT2pmbzlXNlpHRlBQTXk3UXpULWdQaXQ5WU94U2xIS256ZW9vZFFGVUlDOHJlMWEtaXdUSDZPMlltNnA4SzhNQXUyQVZFUQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "世足賽第12天：阿根廷、法國順利晉級，晉級賽事更激烈！",
-    "zhSummary": "世界盃足球賽進入關鍵的第12天，兩支強隊阿根廷與法國表現亮眼，成功晉級淘汰賽階段，讓接下來的比賽更加引人期待。",
-    "zhContent": "<p>足球迷們注意囉！全球最熱鬧的世界盃足球賽在進入第12天時，戰況可是越來越白熱化了。這一天，有兩支重量級的國家隊伍，也就是大家非常熟悉的阿根廷隊和法國隊，都傳來了好消息。他們在這場全球盛事中，憑藉著精彩的表現和團隊合作，成功地搶下了晉級淘汰賽階段的門票，讓許多支持他們的球迷們都興奮不已！</p><p>在這關鍵的第12天賽程中，各隊都為了爭奪晉級資格而全力以赴。阿根廷隊在他們的關鍵分組賽中，展現了高超的球技和堅韌的鬥志。他們在場上奮力拚搏，最終戰勝了對手，確保了自己在小組賽中的領先位置。同樣地，上屆冠軍法國隊也毫不遜色。他們在自己的比賽中踢出了預期的水準，順利拿下勝利，也提早鎖定了進入下一輪淘汰賽的資格，展現出他們衛冕冠軍的實力與決心。</p><p>然而，有贏家自然也有失落者。在世界盃的激烈競爭中，並不是每一支隊伍都能夠一路走到最後。根據報導指出，在這一天賽事結束後，也有一支名為「喬丹」的隊伍確定被淘汰，無緣繼續角逐冠軍獎盃。這就是大型國際賽事的現實，每支隊伍都必須在有限的機會中盡力發揮，才能繼續留在場上，追逐他們的夢想。</p><p>隨著阿根廷和法國兩大強權的成功晉級，本屆世界盃足球賽也將正式邁向最刺激的淘汰賽階段。接下來，每場比賽都將是生死戰，勝者晉級，敗者回家。球迷們可以準備好迎接更多精彩、緊張又充滿變數的對決，看看最終哪支隊伍能夠捧起代表最高榮譽的大力神盃！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "World Cup Day 12: Argentina, France Advance, Jordan Eliminated",
-    "enContent": {
-      "basic": "On Day 12 of the World Cup, Argentina and France won their games. This means they can go to the next round, called the knockout stage. Sadly, a team named Jordan is now out of the competition.",
-      "intermediate": "Day 12 of the World Cup saw exciting matches with major results. Powerhouses Argentina and France secured their spots in the highly anticipated knockout stage after winning their crucial games. However, for a team known as Jordan, their World Cup journey has come to an end as they were eliminated from the tournament.",
-      "advanced": "The twelfth day of the World Cup brought significant developments as football giants Argentina and France successfully advanced to the coveted knockout phase. Both teams delivered strong performances in their respective group stage fixtures, clinching victories that guaranteed their progression. Conversely, the tournament concluded for the team referred to as Jordan, who faced elimination and will not proceed further in the competition."
-    },
-    "vocabulary": [
-      {
-        "word": "Knockout stage",
-        "zh": "淘汰賽階段。在足球或籃球等比賽中，淘汰賽階段是指如果輸掉一場比賽，就必須離開，不能再繼續比賽了。"
-      },
-      {
-        "word": "Advance",
-        "zh": "晉級。意思是在比賽中表現很好，贏得了足夠的分數或勝利，可以進入下一輪的比賽。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-06-24",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uaGlQSDM1bG11X0hSOS1rN3FpZVl3bUNlc04zOWRRLW4tMHd4V1h6SFFOZ05HbnE5WWtBd0k5clFfa01UTjdWdGFFZnFCRUdkdUNwUkt5QVVLbnhXU3VWNGpQeGZpb0RmV0VNSWN6Z2pmRzlDeDl4N3lHM0FiZ9IBgwFBVV95cUxQb1FiLThmZU9oTVRRN0pTa2sxLV9NZXRtTTNZMVVGRmF0YmlTYlpwa1VVQVJ5cl9uZ0hGek1lb2lMUjcxaTlobHFYdElvMFI0ZGdzWUk5SmY4dVY4Qko1bEhBM3FFR1laNzBMTUdBX0FPbF9xdnRIOWpLRHlfa1h4R2x3UQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "伊波拉首次現身法國！剛果疫情蔓延國際？",
-    "zhSummary": "法國衛生部門證實，境內出現首例與非洲剛果共和國伊波拉疫情相關的確診病例，引發國際對疫情擴散的關注。",
-    "zhContent": "<p>最近，法國的衛生單位公布了一則讓大家都很關心的新消息：法國首次出現了與非洲剛果民主共和國伊波拉疫情有關的確診病例。伊波拉病毒是一種會讓人發燒、出血，甚至危及生命的嚴重疾病。這個消息一出，也讓大家開始討論，這是不是代表伊波拉疫情可能會從非洲蔓延到其他國家呢？</p><p>根據報導，這名患者是從剛果共和國來到法國的。他在抵達法國後出現了類似伊波拉的症狀，經過檢查後證實感染了病毒。法國的衛生部門馬上採取了嚴格的應對措施，包括將這位患者隔離治療，並且找出所有可能與他接觸過的人，對這些人進行追蹤觀察，確保病毒不會繼續傳播出去。這些步驟都是為了要盡快控制住疫情，保護大家的健康。</p><p>剛果民主共和國在過去幾年一直受到伊波拉疫情的困擾，當地居民的健康和生活都受到了很大的影響。這次有來自疫區的確診病患在法國被發現，雖然是單一病例，但這也提醒了國際社會，病毒是沒有國界的，透過旅行和人員往來，疫情是有可能擴散到其他地方的。因此，各國的衛生機關都非常重視邊境的防疫檢查，希望能夠在第一時間發現並阻止病毒的傳播。</p><p>目前，法國的衛生單位正持續密切監測這名患者的狀況，並全面進行接觸者追蹤，以確保所有潛在的風險都能被掌握。他們也呼籲民眾不需要過度恐慌，但要信任並配合政府的防疫措施。這次的事件雖然讓人擔憂，但也凸顯了全球合作對抗傳染病的重要性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，法國當局在發現伊波拉病例後，採取了哪些具體的應對措施？",
-      "生活與未來：你覺得如果這樣的傳染病在你的國家出現，對大家的日常生活會造成什麼實際影響？",
-      "獨立思考提案：針對這次伊波拉病例顯示出的國際傳播風險，你認為國際社會還可以怎麼做，才能更有效地防範這類疾病的跨國蔓延？"
-    ],
-    "enTitle": "France Reports First Ebola Case Linked to Congo Outbreak",
-    "enContent": {
-      "basic": "France has reported its first case of Ebola. This person came from Congo, where there is an ongoing Ebola outbreak. Health officials are working to stop the virus from spreading.",
-      "intermediate": "France has confirmed its initial case of Ebola, directly linked to the ongoing outbreak in the Democratic Republic of Congo. The patient traveled from the affected region, prompting immediate isolation and contact tracing by French health authorities to contain any potential spread of the virus.",
-      "advanced": "French public health officials have announced the identification of their first documented Ebola case, with confirmed epidemiological links to the persistent outbreak in the Democratic Republic of Congo. The individual, who had recently travelled from the affected Congolese region, has been placed in strict isolation, and comprehensive contact tracing protocols have been initiated to mitigate the risk of secondary transmission within France. This case marks a significant point in the international monitoring of the Congo Ebola outbreak."
-    },
-    "vocabulary": [
-      {
-        "word": "Ebola",
-        "zh": "伊波拉。這是一種由病毒引起的嚴重傳染病，會讓人發高燒、身體不舒服，甚至可能會導致出血。"
-      },
-      {
-        "word": "Outbreak",
-        "zh": "疫情。當一種疾病在短時間內，在某個地區或群體中快速傳播開來，讓很多人都生病時，我們就說這是「疫情爆發」了。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-06-24",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZF9lOVYxNDFiUzJJell4STJTUzFTcVRhbnVFVk9VWTRGSzhsZlNjRzJFR2x6WjdmbVc3Z0hFVnUtZWRxUW5US28ydUdwYlV0SllyczRxcE83c1pRWVV1UndVX2JXNXd1LTRSOU5YWEpKTWJFVi1zTGV2QV9LeWtSMDBJZGd0dUozM3hOQzVCa9IBjwFBVV95cUxNVmdiallmMmFJOHE5dlprZVNLQmxyYWt1OTZDUm1GMkJNQUNNN3BubEhmN0NDd3h4RUhjOWJEVmJXUVVmUmNuRUpTZ1FQb3JMUEE1WmhSbW1ScXBsUGNBalVxMVZubDJsbmdlczBZa2JDaXloTTJxSjZKMC1nOGZ2UHpZZ3JhTi1uUW5YSXh5Zw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "世界盃賽場上的「南韓主場」：球迷熱情打造移動城堡",
-    "zhSummary": "南韓國家足球隊即將在世界盃迎戰南非隊，儘管比賽地點在海外，南韓球迷與媒體卻信心滿滿，預期現場將會營造出像主場一樣的熱烈氛圍，給予球隊強大的心理支持。",
-    "zhContent": "<p>南韓國家足球隊最近有一場備受矚目的世界盃小組賽，對手是南非隊。這場比賽還沒開打，就已經引起不少討論，原因很有趣：許多南韓球迷和媒體都預期，這場在海外進行的比賽，會讓南韓隊有種「主場」的感覺。這代表著儘管比賽地點可能不是在南韓本土，但現場將會有非常多熱情的南韓支持者，替自家球隊加油打氣，讓氣氛像是回到家一樣。</p><p>通常在大型國際賽事中，像世界盃這種全球性的比賽，各國隊伍都可能在不同國家進行比賽。如果能在自己的國家比賽，當然會有巨大的主場優勢，因為球迷可以輕鬆地到場支持。不過，如果比賽地點是在某些有大量僑民或移居海外的國民居住的地方，這些球迷也會湧入球場，形成一種「移動式主場」的氛圍。對於南韓隊來說，這次對上南非的比賽，就是他們期待複製這種「主場感受」的機會。</p><p>一支球隊如果在比賽中感受到強大的主場氛圍，對球員的士氣和表現會有很大的幫助。當球員們在場上聽到大量支持者的歡呼聲，看到滿場代表自己國家的旗幟，這會讓他們覺得自己不是在遙遠的地方孤軍奮戰。這種來自球迷的心理支持，有時候甚至比戰術調整更能激勵球員，讓他們發揮出更好的水準。南韓媒體會特別強調這一點，也顯示他們對自家球迷的動員能力充滿信心。</p><p>隨著比賽日期越來越近，南韓的球迷們已經準備好用他們最熱情的方式，在世界盃的賽場上為自己的球隊營造出一個充滿力量的主場環境。他們期盼用聲勢浩大的加油，為南韓隊在這場重要的分組賽中提供額外的動力，讓球隊能在場上發光發熱。這場對決南非的比賽，不僅是兩支隊伍的實力較量，也是一場球迷支持力量的展現。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，南韓球迷和媒體預期什麼？他們為什麼會有這種預期？",
-      "生活與未來：你覺得這種「移動式主場」的氛圍，對運動員或參賽隊伍可能造成什麼實際影響？",
-      "獨立思考提案：如果台灣球隊在國際賽事中遇到類似的情況，你覺得身為球迷可以怎麼做來支持他們？"
-    ],
-    "enTitle": "South Koreans expecting a home-game feel for World Cup group match against South Africa - AP News",
-    "enContent": {
-      "basic": "South Korea's soccer team is playing South Africa in a World Cup group match. Fans hope to make it feel like a home game, even though it's happening in another country.",
-      "intermediate": "South Korean fans are gathering in large numbers for their national team's World Cup group stage match against South Africa, aiming to create a 'home-game feel' despite the international venue. This strong fan support is expected to boost team morale.",
-      "advanced": "Anticipation is high among South Korean supporters for their national football team's World Cup group stage encounter with South Africa. Despite the match taking place on foreign soil, fans are mobilizing to cultivate an atmosphere akin to a home advantage, leveraging their fervent support to potentially uplift player performance and morale."
-    },
-    "vocabulary": [
-      {
-        "word": "expecting",
-        "zh": "期待。指希望或預料某件事情會發生。例如：大家都很「期待」週末的到來。"
-      },
-      {
-        "word": "group match",
-        "zh": "小組賽。在比賽中，會把參賽隊伍分成幾個小組，每個小組裡的隊伍互相比賽，通常是為了決定誰能晉級到下一階段。例如：世界盃足球賽一開始會有許多「小組賽」。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-06-24",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWN3ZVhUa2prYzVnMEIzWDYxZndybnozbXAwTG0yams1S280VEYyUWwzY1JZeHpEcEpIUXRRbEo0MWM5ZDNMM2kzcTE1cng3VHBBZmhzeGRELWdIbjV2aW5HZ3VJMmU2amRWT1pDVnhrNjdhTXRwZ1BYNW9SZGQxdG1ubnZZblYzcEFtQnJCUzdVZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "阿聯酋將解鎖數十億美元給伊朗，中東關係出現新變化？",
-    "zhSummary": "根據路透社消息，阿拉伯聯合大公國（阿聯酋）準備解除對伊朗數十億美元的資金限制，這代表兩國之間長期緊張的關係可能正在緩和，朝向更緊密的經濟連結前進。",
-    "zhContent": "<p>嘿，同學們！你們知道在中東地區，國家之間的關係有時候很複雜嗎？最近路透社報導了一則重磅新聞，說阿拉伯聯合大公國（簡稱阿聯酋）可能會讓伊朗動用一大筆錢，這筆錢的金額可能高達數十億美元！想像一下，這筆錢可不是小數目，它代表著兩國之間過去的一些「凍結」狀態，現在準備要解開了。</p><p>這筆錢會被「解鎖」，其實就像是你銀行帳戶裡有一些錢，但因為某些特殊原因，你暫時不能動用它。現在，阿聯酋準備撤銷這些限制，讓伊朗可以重新使用這筆資金。據消息人士透露，這不只是一筆錢的事情，更重要的是，這顯示出阿聯酋和伊朗這兩個中東重要國家，似乎正在努力修復過去有些緊張的關係，希望能夠變得更友好。</p><p>過去一段時間，阿聯酋和伊朗在政治上有些分歧，導致雙方的經濟往來也受到不少限制。而這次阿聯酋決定解開對伊朗的資金管制，被看作是一個非常積極的訊號。這意味著兩國可能準備好要放下過去的一些摩擦，開始在經濟和其他方面有更多的合作。據說，這背後是兩國都在尋找新的平衡點，希望整個區域能更穩定。</p><p>雖然這項消息是根據可靠的「消息來源」指出，還不是官方的正式公告，但如果實現，這將會是中東地區一個重要的發展。伊朗一旦能動用這筆資金，對於他們的經濟來說無疑是一大助益。而阿聯酋的這項舉動，也象徵著兩國關係將開啟新篇章，或許未來會有更多互相交流的機會。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「解鎖」數十億美元給伊朗，你認為這對伊朗的經濟會有什麼具體的幫助？",
-      "生活與未來：你覺得阿聯酋與伊朗關係的改善，對中東地區的和平穩定會產生什麼實際影響？",
-      "獨立思考提案：針對國家之間解除限制、改善關係的議題，你覺得還有哪些方式可以幫助不同國家之間建立更友善的連結？"
-    ],
-    "enTitle": "UAE to Unlock Billions of Dollars for Iran, Signaling Rapprochement",
-    "enContent": {
-      "basic": "The United Arab Emirates (UAE) is expected to release billions of dollars to Iran. This news comes from Reuters and suggests that the two Middle Eastern countries are improving their relationship. For a while, there were rules that stopped Iran from using this money. Now, the UAE is planning to remove these rules, allowing Iran to access the funds. This is a big step towards better economic ties and could mean fewer disagreements between them in the future. It shows that both countries want to work together more.",
-      "intermediate": "Sources familiar with the matter have indicated that the United Arab Emirates (UAE) is poised to unfreeze billions of dollars in assets for Iran. This move, reported by Reuters, is a significant indicator of improving diplomatic and economic relations between the two Middle Eastern nations. The funds, which were previously inaccessible to Iran due to various restrictions and geopolitical tensions, will now be made available. This decision suggests a deliberate effort by both countries to de-escalate past rivalries and foster greater cooperation, potentially opening new avenues for trade and regional stability.",
-      "advanced": "According to reliable sources cited by Reuters, the United Arab Emirates (UAE) is on the verge of unlocking billions of dollars in funds for Iran, a development poised to significantly recalibrate the often-strained bilateral relationship between the two Middle Eastern powers. This impending release of financial assets, previously held under various restrictions, signals a notable shift towards rapprochement and enhanced economic engagement. Analysts suggest that the move underscores a pragmatic approach from both Abu Dhabi and Tehran to navigate regional complexities, alleviate past geopolitical tensions, and potentially forge a more cooperative framework that could impact broader regional dynamics and stability. While an official announcement is still pending, the reported decision marks a pivotal moment in their evolving diplomatic trajectory."
-    },
-    "vocabulary": [
-      {
-        "word": "Unlock",
-        "zh": "解鎖：原本被限制、不能使用的東西，現在解除限制、可以開始使用了。就像你手機鎖住了，輸入密碼把它「解鎖」一樣。"
-      },
-      {
-        "word": "Sources",
-        "zh": "消息來源：指提供新聞資訊的人或單位。當新聞報導說「根據消息來源指出」，就是說資訊是從一些知道內情的人那裡得來的，通常這些人是可靠但不能公開身份的。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-06-24",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU8xSkdDSVRGOXhzQTVoemlTUi1GaFEyMzFNSUFXdGdQd21pbUNENTdfX01KaGFXdGQ5RklfMVNiSDlBRzRvb0xZVkU1dVd6Q0NTakI1WmxVaXZMMlVtUHVEZ2I1d3NkbExTQXU4RlRSQVhueHE0RU9sbTg5VjJWU0VwUjRMeGJtRmhXbzBQM013T3p4Y05JU2JnZkt1d0k?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI超夯！南韓晶片大廠SK海力士考慮赴美上市，目標290億美元！",
-    "zhSummary": "南韓科技巨頭SK海力士正考慮在美國股票市場上市，目標金額上看290億美元，主要原因是因為人工智慧（AI）技術發展快速，對其記憶體晶片的需求量大增。",
-    "zhContent": "<p>南韓一家專門製造先進記憶體晶片的科技公司「SK海力士」，最近傳出一個大消息！他們正在評估一個超重要的計畫：那就是把公司股票拿到美國的證券交易所公開上市，而且這個目標可能達到驚人的290億美元。為什麼會選在這個時候做出這麼重大的決定呢？主要就是因為全球對「人工智慧」（簡稱AI）技術的需求越來越高，連帶使得對他們家高性能晶片的需求也跟著水漲船高。</p><p>「上市」對一家公司來說，是件非常重要的事情。簡單來說，就是把公司的股票公開在市場上賣給大眾，任何人都可以買賣這家公司的股份。公司透過這種方式可以募集到一大筆資金，可以用來開發更厲害的新產品、蓋新的工廠，或是擴大公司的規模。SK海力士看準了AI技術發展需要超大量的記憶體晶片，而他們正好就是製造這些先進晶片的專家，特別是高頻寬記憶體（HBM），這在AI領域裡可是炙手可熱的寶貝。</p><p>這幾年，從可以跟你聊天的AI機器人，到越來越聰明的自駕車，各種跟AI有關的應用都快速發展，它們都必須仰賴非常強大的運算能力，以及速度超快的記憶體晶片來處理龐大的資料。SK海力士生產的HBM晶片，正好能滿足這些AI系統對高性能的需求，所以他們的產品在市場上非常搶手。公司高層認為，由於AI產業未來發展潛力巨大，到美國上市能吸引更多全球投資人的注意和資金，對公司的長遠發展會很有幫助。</p><p>路透社的報導指出，SK海力士目前確實正在積極研究和評估這個到美國上市的可能性。如果這個計畫最終能夠成功實現，不僅能讓他們在AI記憶體晶片的市場上，繼續保持領先地位，也能募得足夠的資金，持續投入新技術的研發。這也再次證明，AI這股熱潮，正在全球科技產業掀起一波又一波的巨大改變。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "SK Hynix Eyes $29 Billion US Listing Amid AI Boom",
-    "enContent": {
-      "basic": "SK Hynix, a big South Korean company that makes computer memory chips, is thinking about selling its shares on the stock market in the United States. They hope to raise a lot of money, maybe up to $29 billion. This plan comes because many new AI (Artificial Intelligence) products need more and more of their special chips. Listing in the US would help them get more money to grow and make even better chips for AI.",
-      "intermediate": "South Korean tech giant SK Hynix is reportedly exploring a potential US stock market listing, with an estimated valuation of up to $29 billion. This strategic move is largely driven by the surging global demand for Artificial Intelligence (AI) technologies, which heavily rely on advanced memory chips. By listing in the US, the company aims to attract a broader base of international investors and secure significant capital to further expand its research, development, and production capabilities in the highly competitive AI chip market.",
-      "advanced": "SK Hynix, a leading South Korean semiconductor manufacturer, is reportedly considering a US public listing, potentially valuing the company at $29 billion. This strategic initiative is directly linked to the burgeoning global demand for Artificial Intelligence (AI) and its associated high-performance memory solutions, such as High Bandwidth Memory (HBM), in which SK Hynix holds a significant market position. A US listing would enable the company to access deeper capital markets, enhance its global visibility, and secure substantial funding to accelerate its innovation and scale production to meet the rapidly escalating requirements of the AI sector. This move underscores the profound impact of AI proliferation on the semiconductor industry's strategic landscape."
-    },
-    "vocabulary": [
-      {
-        "word": "listing",
-        "zh": "上市：公司將股票公開在證券交易所交易，讓投資人可以買賣股票，公司也能藉此募集資金。"
-      },
-      {
-        "word": "AI",
-        "zh": "人工智慧 (Artificial Intelligence)：讓電腦像人一樣學習、思考和解決問題的科技。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-06-24",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHZpd3FfSXFqZWF1UlNscmxPUVJtSEhLMTNxNjhUYktCaWRWbmRjUzNGSzRKWEE5MklCWGU4cm8zN1RGeEhTWTgyV0pXR2ZVMFVUMXhWczFkNTRXTjlUU2ltLWFMbG9PbGhOdUNVRktKNXVOMVFDbnk5RkdXSnVEM01id1pNZDc2dWFPQkQ3OFRmYXZtbmNRQTdkdDNMbXN4d1FwRTVOTndDUjJpZ3c?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞國家練兵不結盟：強身健體，保持中立",
-    "zhSummary": "最近，東南亞的許多國家決定加強彼此之間的軍事合作，像是多辦一些聯合演習或情報交流，讓大家在面對安全挑戰時能更有力。不過，他們同時也小心翼翼，沒有簽訂那種規定大家要共同作戰的正式軍事同盟，希望在加強國防的同時，也能保有自己的外交彈性與獨立性。",
-    "zhContent": "<p>最近，在世界地圖上位於亞洲東南部的一群國家，像是新加坡、泰國、菲律賓等等，出現了一個重要的趨勢。根據DW.com的報導指出，這些東南亞國家正積極地提升彼此在國防方面的合作關係。這代表著，這些國家正在互相學習，分享軍事上的經驗，並且一起訓練，希望讓整個區域的安全防護網變得更緊密。</p><p>這些加強國防合作的具體方式有很多種。例如，他們可能會一起舉行海陸空軍的聯合軍事演習，模擬如何應對海盜、恐怖主義或自然災害等共同威脅。另外，情報交流也是很重要的一環，各國會分享一些可能影響區域安全的資訊，讓大家能更早做好準備。這些做法的目標，都是為了讓每個國家在面對困難時，都能得到更多來自鄰居的幫助。</p><p>不過，特別值得注意的是，雖然這些國家正在積極加強防禦合作，但他們卻刻意避開組成那種「堅固的軍事同盟」。所謂的軍事同盟，通常是指一些國家之間簽訂協議，承諾當其中一個國家受到攻擊時，其他國家都必須出兵幫助。東南亞國家選擇不結盟，可能是因為他們希望在國際事務上保持更靈活的立場，避免被捲入大國之間的紛爭，或是維持自己國家的獨立外交政策。</p><p>總結來說，目前東南亞國家正在走一條平衡的道路。他們一方面努力讓區域的國防力量更強大，透過互相合作來提高應對各種挑戰的能力；另一方面，他們也謹慎地不與任何一方簽下排他性的軍事契約，維持自身的戰略彈性。這顯示了他們在保護自己國家安全與維護區域和平穩定上，有著一套獨特的策略與考量。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Southeast Asia boost defense ties but avoids firm alliances",
-    "enContent": {
-      "basic": "Southeast Asian countries are working together more on defense. They are doing things like training together and sharing information. But they are careful not to form strong military alliances. They want to be safer without having to pick sides in bigger global conflicts. It's a way to protect themselves while staying flexible.",
-      "intermediate": "Countries in Southeast Asia, such as Singapore and Thailand, are increasing their defense cooperation. This involves joint military exercises and intelligence sharing to improve regional security against threats like piracy or terrorism. However, they are deliberately avoiding the formation of firm military alliances. This approach allows them to strengthen their defenses while maintaining an independent foreign policy and avoiding entanglement in major power rivalries.",
-      "advanced": "DW.com reports that Southeast Asian nations are enhancing their defense ties, pursuing greater military collaboration and intelligence sharing to bolster regional security. This strategy, however, is carefully calibrated to circumvent the formation of rigid military alliances. The intent appears to be a geopolitical balancing act: to empower collective defense capabilities against common threats while preserving strategic autonomy and avoiding entrapment in broader geopolitical competitions, thereby maintaining diplomatic flexibility amidst complex international dynamics."
-    },
-    "vocabulary": [
-      {
-        "word": "defense ties",
-        "zh": "國防關係：國家之間為了保護自己，互相幫助或合作的關係。像是軍隊一起訓練、分享情報等等，讓大家更安全。"
-      },
-      {
-        "word": "alliance",
-        "zh": "同盟、結盟：幾個國家之間達成協議，答應在某些特定情況下（例如遇到敵人攻擊時）會互相幫助，共同進退。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-06-24",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDkzUWxHdTFxV3VZemxDdzZlemV1Q2VKNDZtTWp0eXFQWDdkT1k3OFU5RGYtdWg1YlpTNVlubXBqQXJzbmdueVNrdmFnbGRVb1c3anp0dy1OdUprdmFFcUZOS2JFQ2VWYWdCTGZPR1hORlJ6dkR6Y09iZVk2SjFtX2loUXBiSzcyY1FrV1UweGxIYW1KaFYw0gGXAUFVX3lxTE9sOTNRbEd1MXFXdVl6bEN3NmV6ZXVDZUo0Nm1NanR5cVBYN2RPWTc4VTlEZi11aDViWlM1WW5tcGpBcnNuZ255U2t2YWdsZFVvVzdqenR3LU51Smt2YUVxRk5LYkVDZVZhZ0JMZk9HWE5GUnp2RHpjT2JlWTZKMW1faWhRcGJLNzJjUWtXVTB4bEhhbUpoVjA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "庫克群島：宗教申請暫停！司法部長要重新審視法規了！",
-    "zhSummary": "庫克群島的司法部長最近宣布，將暫停處理所有新的宗教團體申請，直到政府完成對現行法規的全面審查。",
-    "zhContent": "<p>庫克群島，一個太平洋上的美麗島嶼國家，最近發生了一件特別的事。他們的司法部長，也就是負責法律事務的重要官員，突然宣布暫停處理所有新的宗教團體申請。這可不是什麼小決定，因為這代表在他們重新檢視現有規定之前，任何想要在庫克群島成立的新宗教組織都得先等等。</p><p>這項暫停的決定，主要是針對那些希望能在當地合法註冊、展開活動的新宗教團體。過去，他們會向政府提交申請，說明他們的宗旨和運作方式。但現在，部長決定要先「踩剎車」，讓相關單位有時間好好評估目前的申請流程和相關法律。這不是永久禁止，而是暫時性的，直到審查完成為止。</p><p>司法部長這樣做的原因很明確，就是為了「重新檢視」（review）現有的法規。這可能意味著他們覺得目前的規定不夠完善，或者需要更新，才能更好地管理和了解申請在當地設立的宗教團體。政府希望確保一切符合當地社會的需求和法律精神，所以才決定先停下來，花時間把事情弄清楚。</p><p>所以目前的情況就是，庫克群島政府已經發布了這項暫停令。所有排隊等候的宗教團體申請都暫時不會被審核。接下來，政府的相關部門將會啟動一連串的檢視工作，研究如何改進或調整現有的政策。直到這個檢視過程結束，並公布新的決定或指導方針之前，這個暫停將會持續下去。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，庫克群島的司法部長為什麼要暫停處理新的宗教申請？這個「暫停」會對哪些人造成影響？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如：想要傳教的人、當地居民、政府等）",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？或者，如果你是當地的決策者，你會如何處理這類型的申請？"
-    ],
-    "enTitle": "Cook Islands Justice Minister Halts New Religious Group Applications Pending Review",
-    "enContent": {
-      "basic": "The Cook Islands Justice Minister has stopped new religious groups from applying to register. They want to check the rules first. This means no new churches or religious organizations can start until the government finishes looking at their old rules. They want to make sure everything is fair and works well for everyone.",
-      "intermediate": "The Cook Islands' Justice Minister has temporarily paused all new applications for religious groups. This decision was made to allow the government to conduct a thorough review of the existing laws and procedures for religious registrations. During this halt, no new religious organizations will be able to officially register or begin operations in the country until the review process is complete and any necessary updates to the regulations are made. The aim is to ensure that current policies align with community needs and legal standards.",
-      "advanced": "In the South Pacific nation of the Cook Islands, the Justice Minister has announced an indefinite moratorium on the processing of all new applications for religious organizations. This suspension is explicitly stated to be pending a comprehensive review of the current legislative framework governing the registration and operation of religious entities. The government's objective is to critically assess existing policies to ensure their efficacy, relevance, and alignment with contemporary societal values and legal principles. Consequently, no new religious groups will be granted official recognition or operational permits until this strategic review concludes and any revised regulations are implemented.",
-      "word": "Minister",
-      "zh": "「部長」：在政府裡，負責某個部門（例如：司法、教育、外交等）的最高長官。就像學校的校長管理學校一樣，部長管理一個國家的特定事務。"
-    },
-    "vocabulary": [
-      {
-        "word": "Minister",
-        "zh": "「部長」：在政府裡，負責某個部門（例如：司法、教育、外交等）的最高長官。就像學校的校長管理學校一樣，部長管理一個國家的特定事務。"
-      },
-      {
-        "word": "Review",
-        "zh": "「審查／檢視」：仔細地檢查、評估某件事情，看看有沒有需要改進或調整的地方。就像你寫完功課後，再檢查一遍有沒有錯誤一樣。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-06-24",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHpOVHBLQ1lfaktjMTRWTEVxSmh6X1NiTnpTUEFBek5tb2Q2VjR6djhhVjZqaVpKZ3B0YU9odURPX3pUd1VRWHBmOTRPbGdLdFZTU19rbFFSR3RMWkFCX2VEV2hWaTA4cVEzNmxsay1iTmVrUEVRdUVpTDZhMEdnNGVpY2x2U2M3WGlRSTJXWVkwRkNvR0Z4bHhFamZ6bDBoTnBJS2VCNHBIaTR0d21WNUg1dGNmQQ?oc=5",
     "isFeatured": false
