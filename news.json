@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "注意囉！機場服務費九月起要漲價了，為什麼會這樣呢？",
+    "zhSummary": "從今年九月開始，機場服務費將會調漲。學者認為，這筆額外收入將有助於機場改善軟硬體設備，讓大家有更好的搭機體驗。",
+    "zhContent": "<p>大家好！最近有個跟我們搭飛機出國玩有關的新消息喔。根據中央社的報導，從今年九月開始，大家在買機票時會發現多了一筆「機場服務費」。簡單來說，這就是你在搭飛機前，除了機票錢之外，還要付給機場的一小筆費用，這筆錢通常會直接加在你的機票總價裡。</p><p>這筆機場服務費確定將會往上調漲。也就是說，如果你計畫在九月之後搭飛機出國，那麼你的機票總費用就會比現在稍微多一點點。這個調整會直接加在你的機票帳單上，所以並不需要另外跑去櫃檯繳費，很像我們平常買東西會加的稅金一樣，只是這筆費用是給機場用來維護和提升服務的。</p><p>為什麼機場服務費要調漲呢？新聞提到，有學者認為，增加這筆費用有助於機場的「軟硬體建設」。你可以想像成，機場裡面的設施，像是候機室的椅子更舒服、廁所更乾淨、網路速度更快，或者是一些新的科技設備，這些都需要錢來維護和升級。所以，這筆多的錢就會用在讓機場變得更好，提升大家搭飛機的整體體驗。</p><p>總結來說，這個新的機場服務費調漲，將從今年的九月起正式實施。這表示未來大家出國旅遊時，在機票費用上會有一個小小的變動。這項政策的目的是為了讓機場的各項服務和設施可以持續進步，為搭機的旅客們提供更優質、更舒適的環境。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，機場服務費調漲的主要目的是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如：航空公司、旅客、機場工作人員等）",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Airport Service Fees to Rise in September, Scholars Say It Boosts Infrastructure",
+    "enContent": {
+      "basic": "Heads up, travelers! Starting this September, if you're planning to fly, you'll notice a small increase in something called an 'airport service fee.' This fee is usually added to your flight ticket and goes to the airport. News reports say that scholars believe this extra money will help improve the airport's facilities, both the physical buildings and the technology inside. So, while your ticket might be a tiny bit more expensive, the idea is to make your airport experience better with newer and more comfortable services.",
+      "intermediate": "Good news and a small change for anyone planning to travel by air! According to reports from the Central News Agency, an 'airport service fee' will see an increase starting this September. This fee, which is included in your airline ticket, is a charge collected by the airport. Experts suggest that raising this fee will significantly contribute to the enhancement of the airport's 'soft and hard infrastructure.' This means the funds could be used to upgrade everything from passenger lounges and restrooms to faster Wi-Fi and advanced security systems, aiming to provide a superior travel experience for all passengers.",
+      "advanced": "A significant adjustment for air travelers is on the horizon. Effective this September, the airport service fee, a standard charge incorporated into airline ticket prices, is set to undergo an increase. Citing analyses from academic circles, the Central News Agency reports that this increment is posited to bolster critical 'soft and hard infrastructure' developments within airports. The rationale behind this adjustment is to channel additional revenue towards the modernization and maintenance of airport facilities, encompassing everything from terminal improvements and technological upgrades to passenger amenities, ultimately enhancing the overall operational efficiency and user experience for air commuters."
+    },
+    "vocabulary": [
+      {
+        "word": "Infrastructure",
+        "zh": "建設 (jiànshè) - 指的是一個地方或城市裡，為了讓大家生活和使用更方便而蓋的各種基礎設施，像是道路、橋梁、機場、車站、水電管線等。"
+      },
+      {
+        "word": "Surcharge",
+        "zh": "附加費 (fùjiāfèi) / 調漲 (tiáozhǎng) - 指的是在原本的費用之外，額外增加的一筆費用，通常是為了特定的目的或服務而收取。這裡的調漲，就是指這筆附加費的金額增加了。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-08-04",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6cEFra2xuVkd0ZUFxTzllRExObFJ3X29YVDRiZWpvMHlRUUxsRVduVnMxS0o2YXhIVWRxN0pYbVR4dlkxV2tlbDhQekxaRk85dDZWOGJtcE9XRzBxczJLc2ZMMkU?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "太浩湖拉警報！最新報告指出：氣候暖化與野火濃煙是最大威脅",
+    "zhSummary": "一份來自外國媒體的報導指出，著名的太浩湖目前面臨兩大環境威脅，就是氣候持續變暖，以及隨之而來的野火濃煙，這些都嚴重影響著這片美麗湖泊的生態與環境。",
+    "zhContent": "<p>太浩湖，這個橫跨美國加州與內華達州邊界，以清澈湖水和壯麗山景聞名的度假勝地，最近傳出令人擔心的消息。根據一份最新的評估報告指出，讓太浩湖未來面臨最大挑戰的，是持續暖化的氣候，以及因野火產生的大量濃煙。這份由當地單位發布的報告，主要分析了各種環境因素對太浩湖生態系統可能造成的影響。</p><p>報告中提到，氣候暖化對太浩湖的影響非常直接。隨著地球溫度升高，太浩湖的水溫也跟著變暖，這不僅會影響湖中魚類和其他水生生物的生存環境，也可能改變湖水的循環方式，影響其清澈度。此外，高山地區的降雪量減少，融雪速度加快，也會打亂原本的水文系統，對湖泊的水位和供應造成不確定性。</p><p>除了氣候暖化，野火濃煙也成為另一個嚴峻的威脅。近年來，美國西部地區的野火事件越來越頻繁，規模也越來越大。這些野火產生的濃煙，不僅會嚴重降低空氣品質，對當地居民和遊客的健康造成危害，煙塵和灰燼也會隨著風雨飄落到太浩湖中，讓湖水變得混濁，影響水質和湖泊的生態平衡。</p><p>這份詳細的報告主要針對太浩湖的生態健康狀況進行了全面的分析和預測，清楚指出氣候變遷和野火煙霧是當地最需要關注的環境問題。報告的目的在於提醒相關單位和社會大眾這些潛在的危機，並提供詳細的科學數據，作為未來制定保護太浩湖相關政策的重要參考依據。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Report: Warming Climate and Wildfire Smoke Top Threats to Lake Tahoe",
+    "enContent": {
+      "basic": "Lake Tahoe, a famous lake in the US, is facing big problems. A new report says that a warming climate and smoke from wildfires are the two biggest dangers. Warmer weather makes the lake water hotter, which is bad for the fish and other animals living there. It also changes how clear the water is. Wildfires make a lot of smoke that pollutes the air. This smoke can also drop ash into the lake, making the water dirty. This report helps people understand these problems so they can work to protect Lake Tahoe.",
+      "intermediate": "A recent report highlights significant environmental threats to Lake Tahoe, a popular recreational area spanning California and Nevada. The primary concerns identified are a warming climate and the pervasive issue of wildfire smoke. A warming climate directly impacts the lake by increasing water temperatures, which can harm aquatic life and alter water clarity. Reduced snowpack and accelerated melting also disrupt the lake's natural water cycle. Furthermore, the increasing frequency and intensity of wildfires in the Western U.S. lead to thick smoke that degrades air quality and can deposit ash and soot into the lake, affecting water quality and ecological balance. This report serves as a critical assessment for stakeholders to understand the challenges and inform future conservation strategies.",
+      "advanced": "Lake Tahoe, an iconic transboundary freshwater lake in the Sierra Nevada, is reportedly facing unprecedented environmental challenges, with a comprehensive assessment identifying a warming climate and wildfire smoke as its foremost threats. The report, likely from regional environmental agencies, details how rising atmospheric temperatures contribute to increased lake surface temperatures, potentially disrupting critical aquatic habitats, altering stratification patterns, and reducing the lake's renowned clarity. Concurrently, the escalating prevalence and severity of wildfires in the Western United States pose a dual threat: direct particulate matter pollution from smoke compromises regional air quality and public health, while the deposition of ash and debris into the lake accelerates nutrient loading and impacts water quality and ecosystem dynamics. This authoritative scientific assessment aims to underscore the urgency of these issues, providing a robust evidentiary basis for adaptive management and conservation policy formulation to safeguard Lake Tahoe's ecological integrity."
+    },
+    "vocabulary": [
+      {
+        "word": "Climate",
+        "zh": "氣候 (qì hòu)：指一個地區長時間的天氣狀況，像是溫度、降雨量、風等等。跟「天氣」只說短時間的變化不一樣喔！"
+      },
+      {
+        "word": "Wildfire",
+        "zh": "野火 (yě huǒ)：指在野外（森林、草地）不受控制地燃燒的大火，常常會造成很大的破壞。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-08-04",
+    "sourceName": "NPR Las Vegas",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXhhZ3J1Vkg1T2U0c2RjNVJpY3ZvaF9PaVo1TU1GOWk2TTBBTVB3MHV5YkI2czNyWGpuUjUyMWVKbGthUGNjMFJhQ0ZGeUk1WWpLSUE1NHFfb0pkekJDN01nenA1Wkd3bnZQWDIyRFBMUmp3QzBCTnkxd1QzUWN2R21TLWZuNG9uOUNsejZycFFobWR5bjdlZWlBaFhFV3NYQTYxek5PbHlSVFg3cUxyMnd5RQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "英國教育大改造：安迪·伯納姆的「重新裝備」計畫行不行？",
+    "zhSummary": "英國政治人物安迪·伯納姆提出了一項旨在「重新裝備」教育體系，讓年輕人更具實用技能的計畫。這項計畫引發了社會廣泛的討論，人們對其成效與潛在影響持不同看法。",
+    "zhContent": "<p>嗨，各位少年讀者！今天我們要來聊一個在英國引發不少討論的話題。你知道嗎，一位名叫安迪·伯納姆（Andy Burnham）的政治人物，他提出了一個大膽的想法，想要對英國的教育方式進行一次「大改造」。這個計畫的目標很清楚，就是要讓年輕人在畢業後，能擁有更多實際的技能，更好地找到工作，適應社會的快速變化。聽起來是不是很酷？</p><p>這個「教育改造」計畫，用比較專業的詞來說，叫做「重新裝備」教育（retool education）。伯納姆先生認為，現在的教育體系可能沒有完全跟上時代的腳步，有些年輕人學到的知識，不一定能直接應用在現實職場上。所以，他希望將教育的重點，從只注重傳統學科，轉變為更強調實用技能和職業培訓。簡單來說，就是希望學校能教導更多像編程、設計、新興產業技能等，讓學生們畢業後就能立刻派上用場。</p><p>當然，這麼重要的教育改革，肯定會引起大家熱烈的討論。英國《衛報》就收到了許多讀者的來信，大家都在討論「安迪·伯納姆的教育改造計畫到底會不會成功？」有些來信支持這個想法，覺得這能幫助年輕人找到更好的出路，讓他們的未來更有保障。但也有不少人表達了他們的憂慮，像是擔心過度強調實用技能，會不會讓學生錯失了廣泛學習的機會，或者質疑這個計畫在推動上會不會遇到資金不足或執行困難的問題。</p><p>目前，這個關於教育改革的討論仍在持續進行中，不同的意見和觀點不斷地被提出和辯論。伯納姆先生的計畫是否能順利推行，以及它最終會帶來什麼樣的影響，都還有待觀察。不過，這場圍繞著教育未來方向的對話，確實讓很多人開始重新思考，我們希望我們的學校能培養出什麼樣的人才。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，安迪·伯納姆為什麼會提出「重新裝備」教育的計畫？這個計畫的重點是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對於學生、老師或是家長來說，他們可能會面臨哪些新的情況？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Will Andy Burnham’s plan to retool education work?",
+    "enContent": {
+      "basic": "Andy Burnham, a politician in the UK, has a new idea to change education. He wants to 'retool' it so young people learn more useful skills for jobs. People are writing letters to The Guardian newspaper to talk about if this plan will be good or not. Some people think it's a great idea to help students find work. Others worry if it will take away from other important school subjects or cost too much money. This big discussion about school changes is still happening.",
+      "intermediate": "Andy Burnham, a prominent UK politician, has proposed a significant overhaul of the education system, termed 'retooling education.' His aim is to equip young people with more practical, job-ready skills, believing the current system might not adequately prepare them for the modern workforce. The Guardian newspaper has received numerous letters discussing the viability of Burnham's plan. Supporters argue it could boost youth employment and future prospects. However, critics express concerns about potentially narrowing students' academic breadth or facing financial and logistical challenges in implementation. The debate over this educational reform is ongoing, with various viewpoints being considered.",
+      "advanced": "A notable proposition by UK politician Andy Burnham to 'retool education' has instigated a widespread public discourse regarding its potential efficacy and implications. Burnham's vision centers on reorienting the educational framework to prioritize practical and vocational skills, addressing perceived shortcomings in preparing young individuals for the contemporary job market. The Guardian's 'Letters' section has become a forum for diverse perspectives on this initiative. While proponents envision enhanced employability and economic resilience for the youth, a critical contingent raises concerns about the potential marginalization of traditional academic disciplines and the practicalities of funding and systemic integration. This pivotal debate on the future direction of education remains dynamic, with various stakeholders contributing to the ongoing evaluation of Burnham's ambitious plan."
+    },
+    "vocabulary": [
+      {
+        "word": "Retool",
+        "zh": "重新裝備（這個詞通常指的是針對某個東西進行大幅度的改造或調整，讓它變得更適合新的目的或需求，就像修理工具讓它更好用一樣。）"
+      },
+      {
+        "word": "Vocational",
+        "zh": "職業培訓（這個詞指的是那種專門為了某種工作或職業而設計的教育或訓練。它會教你實際操作的技能，讓你畢業後就能直接去工作。）"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-08-04",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmotdVAtMFJmZUpsVE5HUDctUzFqdnNZUFR2NWRhS2Z0X0xfQ2hIRkk4U3NSMFJuRmhUSjNSMVBYa3o3TUlSXzU2UldBOW9JRHloRG5rS2t0Yi14Z2Q1WnV6NVA4aWVBWEM1dG1aTDgwdS10TDFlM0RUUFhpTElKOGdLTTNSUndIR2FrX0c5VUk2MEZXekFRcVFvb181QQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "白宮與科技巨頭齊聚：AI安全，未來新焦點！",
+    "zhSummary": "美國白宮近日將與各大AI公司舉行會議，主要目的是討論如何確保最先進的人工智慧模型在使用上是安全無虞的，以應對AI科技快速發展可能帶來的挑戰。",
+    "zhContent": "<p>最近，外國媒體Al Jazeera報導了一則重要新聞：美國白宮，也就是美國政府的核心機關，準備要和一些頂尖的AI公司坐下來好好談談。他們這次會議的主題很明確，就是要針對那些「最先進的人工智慧模型」進行討論，確保它們在快速發展的同時，也能夠保持安全。這顯示出美國政府對於AI科技的未來發展，非常重視其可能帶來的影響。</p><p>這個會議的用意很清楚，就是希望在這些AI技術還在發展初期，就能先做好準備，避免未來可能發生的問題。想想看，現在的AI已經能寫文章、畫圖，甚至幫我們規劃很多事情，它的能力一天比一天強大。正因為AI的進步速度飛快，很多專家和政府都開始擔心，如果我們沒有好好管理，這些功能強大的AI會不會帶來一些預想不到的風險？所以，白宮才會主動找上這些開發AI的大公司，希望大家一起思考解決方案。</p><p>這次白宮的邀請，代表著政府想在AI產業發展的早期就介入，跟這些科技巨頭一起建立一些負責任的發展原則。他們不只是想聽取這些公司的意見，也希望能夠共同制定一些規範，讓AI技術在發展時能更透明、更可控。因為AI公司每天都在創新，推出更聰明的AI，所以政府認為有必要及早討論，確保這些高科技產品不會對社會造成傷害。像是那些研發最先進AI模型的公司，都有責任和義務共同面對這個議題。</p><p>這場由美國白宮主導的會議，目標是要為最先進的AI模型建立更穩固的安全基礎。雖然具體的討論內容和最終結果還沒有公布，但這次會面本身就傳達了一個明確的信號：AI技術快速發展的同時，如何確保它的安全和負責開發，已經成為政府和科技公司共同關注的重要課題。這次會議，就是朝這個目標邁出的重要一步。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國白宮為什麼要找AI公司開會？會議的目的是什麼？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如：AI公司的產品開發、一般大眾使用AI的經驗）",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "White House to Meet AI Firms on Advanced Model Safety",
+    "enContent": {
+      "basic": "The White House is meeting with AI companies to discuss the safety of advanced AI models. This aims to ensure responsible development as AI technology grows rapidly.",
+      "intermediate": "The US government is holding a meeting with leading AI firms to address potential risks and establish safety guidelines for cutting-edge artificial intelligence. This proactive step reflects growing concerns about AI's rapid evolution.",
+      "advanced": "In a pivotal move, the White House has convened a meeting with prominent AI firms, focusing on establishing robust safety protocols for advanced AI models. The initiative underscores a governmental emphasis on responsible innovation amidst escalating technological capabilities and potential societal impacts."
+    },
+    "vocabulary": [
+      {
+        "word": "advanced",
+        "zh": "先進的 (xiān jìn de) - 指的是技術或產品走在最前面，有最新、最厲害的功能，比一般的東西更厲害。"
+      },
+      {
+        "word": "firms",
+        "zh": "公司 (gōng sī) - 指的是企業或商業機構，特別是指生產、銷售商品或提供服務的大型公司。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-08-04",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3liVENKM2U5VGdZYThIMmNoSlFiU3ZzMk5fMEFCMnpLVVFXR0J6RjB0QWtLVTFHUDdWeUo5a0sxOE9mUDRMUWQzUTRobFhJbE1IZDlTQmtuQ1QtS3d6TVZYX05XRVZWRVBJZHVSdWhDOGQ5RmhuaEZyRE93Z21Bcks3TUxGaWk0Q3NWX2dEeFl6dzEtcXdUakprR1rSAaIBQVVfeXFMTmx3cEp6S0lyUDQ0ekVjUVFmS0Z2QWdoRk0zSVdETW1YTHo3bXVMVS1kMFdQdE83VS1PS1ByS3Zhb1UzRTNtY3Qwa09uN1QtUmluU0txRXVvR2I2eHVnX1ptSW90akR3bkxyVXNMaTZGSVNtZmh0d3g1T0xBWjQ1b1BLSTVicmdBY0hvRnRWdUpiOXVQdGxQdHBLbTBlcGlWVGZ3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "週末哪裡去？TAPinto 幫你整理好！",
+    "zhSummary": "一家地方新聞媒體在特定週末前，為當地居民整理了一份豐富的活動指南，幫助大家輕鬆找到娛樂消遣的好去處。",
+    "zhContent": "<p>嘿，同學們！你們有沒有那種，每到週末就想找點樂子，卻又不知道該去哪裡的煩惱啊？美國一家叫做 TAPinto 的地方新聞媒體，就非常貼心地為他們服務的城鎮居民解決了這個問題。在七月三十一號到八月二號這個週末前，他們特別整理了一份名為「這個週末，城裡城外有哪些好玩的活動？」的專題報導，就是要讓當地居民不用傷腦筋，也能輕鬆規劃週末行程。</p><p>據了解，這份報導羅列了非常多樣化的活動選擇。從戶外市集、公園裡的音樂表演，到適合全家大小一起參與的社區節慶，甚至可能包含一些當地藝廊的展覽或是手作體驗課程。這些活動通常都是由當地的社區組織、商家或是文化單位所舉辦，目的就是希望讓城鎮充滿活力，大家都能在閒暇時間找到自己喜歡的活動，享受美好的時光。</p><p>TAPinto 作為一家深耕在地的新聞媒體，他們很常會做這種貼近居民生活的報導。他們透過採集各方的活動資訊，再彙整成一份詳細又實用的指南，不只方便居民查詢，也等於是幫助這些活動的主辦單位做了宣傳，讓更多人知道有這些好機會可以參與。這就像是你們的班級幹部，會幫大家把校園社團活動或週末營隊的資訊集中整理一樣，非常實用。</p><p>這份週末活動指南，在七月底的那個週末之前就已經發布，並且確實地提供了當時城鎮居民豐富的娛樂選項。它成功地扮演了在地資訊交流的角色，讓大家能快速掌握當週的精采活動，也讓這個特別的週末充滿了各種有趣的可能。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，TAPinto 扮演了什麼角色？他們報導的內容有什麼特色？",
+      "生活與未來：如果你住的城鎮也有這種週末活動指南，你覺得對當地居民、商家和活動主辦單位會有什麼幫助？",
+      "獨立思考提案：如果從你的角度來看，除了列出活動，你還會想在這份指南中加入哪些內容，讓它變得更吸引人或更實用？"
+    ],
+    "enTitle": "Weekend Fun: TAPinto's Guide for Local Activities",
+    "enContent": {
+      "basic": "TAPinto, a local news website, made a list of fun things to do in town from July 31st to August 2nd. They helped people find activities like markets, music, and festivals. This guide made it easy for families and friends to plan their weekend and enjoy local events.",
+      "intermediate": "Local news outlet TAPinto published a comprehensive guide titled \"Fun Things to do in and Around Town This Weekend\" for July 31st to August 2nd. This initiative aimed to inform residents about various community activities, ranging from outdoor markets and musical performances to local festivals and art exhibitions. By compiling these events, TAPinto supported local organizations and provided a valuable resource for residents seeking entertainment.",
+      "advanced": "During the weekend of July 31st to August 2nd, the local media platform TAPinto curated and released an extensive guide detailing \"Fun Things to do in and Around Town.\" This publication served as a vital community resource, enumerating diverse leisure opportunities from local markets and open-air concerts to civic celebrations and cultural displays. The endeavor successfully facilitated engagement between residents and local event organizers, thereby enriching the social fabric and weekend planning for the community."
+    },
+    "vocabulary": [
+      {
+        "word": "Community",
+        "zh": "社區 (shè qū) / 指的是一群人住在一起，互相有連結的地方，可能是你的鄰居、學校周圍的區域，大家會一起參加活動、互相幫助。"
+      },
+      {
+        "word": "Guide",
+        "zh": "指南 (zhǐ nán) / 就像一本小冊子或一份清單，會告訴你怎麼做、去哪裡，或是提供一些實用的資訊，幫助你達成目標。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-08-04",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1lWVkxNU3VaRlRSS3Voclp4QV8wemJCVURTYkJ5dFhoSWRYTHg5enptSHc1V3dnSGkySnhPaTJVM05mbXROVnh5TGdkSVdkU25Fa3JYcUxzRFpSOGZUMUQ1Z0FRNTBncFYwdW5Ha1NzMEFPMENtQXVlUVNUTmM2akxFOVBIYUR4NmxSdVVzUDZzaWlPRWN0S2dwTVVmdUZ0UHZYUS1ybC1xUk43dTdtMnlERWpYTUJJVTVvX3BtWGNweDJyb3Azd0g2Wm01RkZZV2RiVVMyV3dQdkZ2Vno3S3lCNnlrN25IRC14Y3dNbTlQajBNTEtuNF93MUtnQkZ2cjRwLTdUWC1kaXkzcXc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "關稅是什麼？川普為什麼要用它？超白話解密國際貿易戰！",
+    "zhSummary": "美國前總統川普執政時期，頻繁使用的「關稅」是什麼？它如何運作？為什麼成為國際貿易戰的焦點？這篇報導將用最簡單的方式，帶你了解關稅這個看似複雜的經濟工具，以及它對國際貿易造成的影響。",
+    "zhContent": "<p>最近有件事大家可能聽過，就是美國前總統川普（Donald Trump）之前常用的一個經濟工具，叫做「關稅」。聽起來有點複雜，但其實就是一種對從國外買進來的商品收費的方法。為什麼他要這樣做呢？這是當時國際貿易上一個很受關注的大新聞。</p><p>關稅到底是什麼？簡單來說，關稅就是一個國家對從外國買進來的商品，額外徵收的一種稅金。想像一下，你平常買的玩具、衣服或手機，有些是從國外運來的。如果政府對這些「進口商品」加上關稅，那麼它們在國內販售時就會變得比較貴。這樣一來，外國商品賣得貴，大家可能就會更願意去買自己國家生產的商品。</p><p>那川普為什麼會這麼積極地使用關稅呢？當時他的主要想法是，他認為這樣可以保護美國自己國家的產業和工人。他希望鼓勵大家多買「美國製造」的產品，讓更多工廠留在美國，提供更多工作機會。同時，他也想利用關稅當作工具，去跟其他國家談判，希望他們能調整貿易政策，讓美國的產品在國外也能賣得更好。</p><p>所以，當時美國政府就對某些國家的商品徵收了更高的關稅，尤其是鋼鐵、鋁材和一些中國商品。這個做法在國際上引起了很多討論，有些國家也採取了類似的措施來反制。總之，關稅就是一種國家為了影響貿易、保護自己產業，或是跟其他國家「談判」時會用到的手段。這個故事的重點就是關稅的來龍去脈。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "What are tariffs, how do they work and why is Trump using them?",
+    "enContent": {
+      "basic": "Tariffs are taxes on goods imported from other countries. Former US President Donald Trump used them to protect American industries and push for fairer trade deals.",
+      "intermediate": "Tariffs are additional taxes imposed by a government on products brought in from other nations. Donald Trump's administration implemented these measures primarily to support domestic manufacturing, safeguard jobs, and gain leverage in international trade negotiations.",
+      "advanced": "Tariffs represent a protectionist trade policy tool, where duties are levied on imported goods, thereby increasing their price in the domestic market. Former President Trump's administration extensively utilized tariffs, notably on steel, aluminum, and various Chinese products, with the stated aim of safeguarding domestic industries, promoting local manufacturing, and addressing perceived trade imbalances with key trading partners."
+    },
+    "vocabulary": [
+      {
+        "word": "Tariff",
+        "zh": "關稅：關稅就是國家對從國外進口的商品收取的「額外稅金」。想像一下，你從國外買一個東西，政府為了保護自己國家的商家，會讓這個東西的價格稍微變高一點，多出來的錢就是關稅。"
+      },
+      {
+        "word": "Import",
+        "zh": "進口：進口就是指一個國家從其他國家買進商品或服務。比如說，台灣從日本買進汽車，這批汽車對台灣來說就是「進口」商品。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-08-04",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國大門緊閉，古巴人轉向巴西尋求庇護",
+    "zhSummary": "由於美國改變了對古巴移民的政策，過去許多古巴人前往美國尋求庇護的管道受阻。現在，越來越多的古巴人轉而選擇遠方的巴西，希望在那裡展開新生活。",
+    "zhContent": "<p>古巴人為了更好的生活，常常會想辦法離開家鄉。過去他們大多會前往美國尋求庇護，把美國當成是展開新生活的第一站。但最近情況有了很大的改變，讓許多古巴人不得不轉變方向，把目光投向了南美洲的巴西。</p><p>以前，美國有一項特別的政策，叫做「濕腳、乾腳」政策。意思是，只要古巴人成功踏上美國的土地（乾腳），就能合法留在美國並申請永久居留權；但如果他們在海上被攔截（濕腳），就會被送回古巴。這項政策讓許多古巴人把美國視為第一選擇。不過，在2017年1月，美國政府取消了這項政策。從此以後，古巴人如果沒有合法簽證，就不能輕易進入美國。</p><p>因為美國大門關閉，許多古巴人不得不尋找新的去處。巴西變成了一個新的目的地，因為相較於其他國家，巴西的庇護法規比較開放，而且過去在經濟發展好的時候，也曾對移民有較高的吸引力。雖然去巴西的路途遙遠且充滿挑戰，但對那些急於離開古巴的人來說，這是一個不得不做的選擇。</p><p>因此，現在巴西的移民局和相關機構面臨了越來越多的古巴庇護申請。這些古巴人帶著僅有的家當，穿越遙遠的路程，希望能從巴西獲得一個重新開始的機會。這是一個正在發生的趨勢，反映了古巴人尋求新生活的艱辛歷程。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cubans Seek Asylum in Brazil as U.S. Policy Shifts",
+    "enContent": {
+      "basic": "Cubans used to go to the U.S. for safety. Now, the U.S. isn't taking as many. So, Cubans are going to Brazil instead to find a new home.",
+      "intermediate": "Following a significant change in U.S. immigration policy, specifically the end of the 'Wet Foot, Dry Foot' policy, Cubans seeking refuge are now redirecting their efforts towards Brazil. Brazil's more open asylum laws have made it an alternative destination, despite the long journey and challenges involved.",
+      "advanced": "The termination of the longstanding U.S. 'Wet Foot, Dry Foot' policy in January 2017 has fundamentally altered migration patterns for Cubans seeking asylum. Historically, this policy offered a pathway to legal residency for those who reached U.S. soil. With this traditional route now largely closed, an increasing number of Cubans are turning to Brazil, where comparatively more liberal asylum laws provide a potential avenue for resettlement, despite the significant logistical and personal challenges of the journey."
+    },
+    "vocabulary": [
+      {
+        "word": "asylum",
+        "zh": "庇護。當一個人因為國家有危險，例如戰爭或迫害，而逃到另一個國家尋求安全和幫助時，那個國家給予的保護。"
+      },
+      {
+        "word": "rescind",
+        "zh": "取消。官方宣布停止某個法律、規定或決定，讓它不再有效。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-08-04",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83X1dXSk8zQW92dldGQzRwZzdPdWpRWDNFZ1RYdGJsTEVtVlZUNGhFYXg4LUJkRzFCbG1ONXlka2dMcXJlMHdfZjg0LXVLbmpHVnU2MEUybmtmUTVTSWxFMEVnRzZZYm80dkt4YUp5N0JMYnVK?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "歐洲野火燒出新問題：保險賠不夠，錢從哪來？",
+    "zhSummary": "歐洲地區的野火災情越來越嚴重，不僅摧毀大量財產，也暴露出現有保險制度在面對氣候變遷時的不足，許多受災戶可能拿不到足夠的理賠金重建家園。",
+    "zhContent": "<p>歐洲最近野火燒得特別厲害，不只毀了森林和房子，還讓很多人發現他們的保險可能根本不夠賠。這些火災越來越常發生，規模也越來越大，讓原本的保險制度面臨很大的挑戰，很多受災戶的損失可能沒辦法完全被保險公司補償。</p><p>科學家發現，氣候變遷讓歐洲的天氣變得更乾燥、更熱，所以野火發生的頻率跟強度都增加了。以前保險公司評估風險時，可能沒預料到會有這麼多、這麼嚴重的火災。當大火來臨時，受災的住戶或商家想要申請理賠，才發現他們的保險金根本不足以重建家園或恢復營業，形成一個不小的「保險缺口」。</p><p>這個「保險缺口」主要就是因為氣候變遷帶來的極端天氣事件，已經超出了傳統保險業過去的預期和風險模型。保險公司為了應付越來越高的理賠金額，可能會開始提高保費，或者在某些容易發生火災的地區，甚至會減少提供保險服務。這就表示，未來住在高風險區的人，可能更難買到足夠的保險。</p><p>目前，歐洲許多政府和保險業者都意識到這個問題很嚴重。他們正在想辦法，看是要修改保險規定，還是要跟政府合作，共同建立一套新的風險分擔機制，以應對不斷增加的氣候災害損失。這場野火季，清楚地揭示了現有保險制度在應對氣候變遷挑戰時的不足，顯示需要更全面的解決方案。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，歐洲的野火為何會讓保險出現「缺口」？這個缺口具體是指什麼？",
+      "生活與未來：你覺得這個保險缺口會對居住在歐洲的居民造成什麼實際影響？",
+      "獨立思考提案：針對這個問題，你覺得政府或保險公司還可以怎麼做會更好？"
+    ],
+    "enTitle": "Europe's Wildfire Season Exposes Climate Insurance Gap",
+    "enContent": {
+      "basic": "Europe's recent wildfires have been very bad, destroying forests and homes. Many people are finding their insurance might not cover all the damage. These fires are happening more often and are getting bigger, which is a big challenge for the current insurance system. People who lose things might not get enough money from their insurance companies to pay for everything.",
+      "intermediate": "Recent devastating wildfires across Europe, exacerbated by climate change, are revealing a significant flaw in existing insurance systems. As temperatures rise and droughts become more frequent, the scale and intensity of these fires are increasing beyond what traditional insurance models had anticipated. This 'insurance gap' means that many victims of these fires are discovering their coverage is insufficient to fully compensate for their losses, making it difficult to rebuild their lives and businesses.",
+      "advanced": "Europe's escalating wildfire season, a direct consequence of climate change-induced extreme weather, is exposing a critical climate insurance gap. The unprecedented frequency and severity of these blazes are overwhelming conventional risk assessment models, leading to a shortfall in coverage for affected individuals and businesses. This systemic vulnerability suggests that current insurance frameworks are ill-equipped to handle the escalating financial burdens imposed by climate-related disasters, prompting urgent calls for recalibrated policies and potentially public-private partnerships to address the growing uninsured losses."
+    },
+    "vocabulary": [
+      {
+        "word": "wildfire",
+        "zh": "野火。意思是指在森林、草原或其他野外地區發生的失控火災，通常會快速蔓延，造成很大的破壞。"
+      },
+      {
+        "word": "insurance gap",
+        "zh": "保險缺口。意思是指一個人或一個地區所擁有的保險保障，不足以完全彌補他們因災害或事故所承受的損失，造成的資金短缺或未受保障的部分。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-08-04",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHpKT0VIUTdYblVFSVNjMTNXdFR2TmMxRlN4ck1UTFJPUEJqbGV6RjhtVzlrMDRtcWU2YTRqZjZaMW02M0hLMlYzZElacmV2VmliOUNfOUx1TUZ4UUQwNnk3VWdIczBGQkxCRC1UZDBLdzV5MmcwczE3Z19zbzEtSjRIcXlQVnN5b2RVVm1fVEdUWHFXVVAzblRCY3d1dk1KRWg1a3RaSkNDUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非房地產的新趨勢：不再只看眼前，而是追求「長久價值」！",
+    "zhSummary": "南非的房地產界最近有個重要的討論，他們決定把重心放在如何讓建築物和土地的價值能夠維持很久，甚至越來越好，而不是只追求短時間的快速獲利。這個新方向希望能為南非帶來更穩定的發展。",
+    "zhContent": "<p>南非的蓋房子、買賣房子的這個產業，最近有個很重要的討論。大家不再只看眼前快速賺錢的機會，而是開始思考怎麼讓蓋出來的房子、辦公大樓或商場，能夠長期都有價值，而且越來越好。這表示他們想的不只是短暫的買賣，而是未來好幾十年這些建築物能為城市和居民帶來什麼，希望創造出能長久維持的良好效益。</p><p>為什麼會有這樣的轉變呢？簡單來說，如果只追求短期利益，可能蓋出來的品質不好，或是沒辦法真正幫助到城市和裡面生活的人，甚至可能造成資源浪費。所以現在，許多房地產專家都在強調「永續發展」和「高品質建築」的重要性。他們認為，投入更多心思去規劃、去建造，讓房子不只是居住的地方，還能是整個社區，甚至整個國家進步的動力，同時也要考慮到這些建築物對環境的影響。</p><p>參與這場討論的，除了開發商和投資者，還有一些政府官員。他們都發現，如果把眼光放遠，投資在好的建築和基礎設施上，不只能吸引更多人來這裡投資，創造更多工作機會，也能讓城市變得更穩定、更宜居。這就像種一棵樹，不是只為了摘今天的果實，而是希望它能長成大樹，以後提供遮蔭，甚至結出更多果實給更多人，帶來長遠的影響與好處。</p><p>所以現在南非的房地產界，這個「創造長期價值」的觀念已經變成主流想法了。大家都在努力把這個想法變成實際的行動，目標就是讓這個產業能夠健康地成長，為南非帶來長遠的繁榮和發展。整個產業的規劃和策略，都已經朝著這個方向調整，希望能為未來的城市樣貌和經濟發展打下穩固的基礎。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南非房地產界為什麼要從「快速獲利」轉變為「追求長久價值」呢？",
+      "生活與未來：你覺得如果一個城市的房子都只追求快速蓋好、快速賣出，而不是追求長久價值，會對這個城市造成什麼實際影響？",
+      "獨立思考提案：針對這個追求「長久價值」的策略，你覺得南非的房地產公司還可以怎麼做，才能更好地實現這個目標呢？"
+    ],
+    "enTitle": "South Africa's Property Sector Shifts Focus to Long-Term Value",
+    "enContent": {
+      "basic": "South Africa's property market is changing. People building homes and offices are now thinking about making them valuable for a long time, not just quickly making money. They want to build good quality buildings that help communities grow and last for many years. This new focus aims for steady growth and lasting benefits for the country.",
+      "intermediate": "The property sector in South Africa is shifting its focus towards long-term value creation. Instead of prioritizing quick profits, developers and investors are now discussing sustainable development and high-quality construction. This strategy aims to build properties that contribute positively to cities and economies for many years, considering their environmental impact and community benefits.",
+      "advanced": "In South Africa, the property sector is undergoing a strategic reorientation, emphasizing long-term value creation over immediate financial gains. Industry leaders, investors, and policymakers are advocating for sustainable development and superior construction standards, recognizing their pivotal role in fostering robust economic growth, environmental stewardship, and community well-being over extended periods. This collective commitment aims to ensure the sector's enduring prosperity and positive societal impact."
+    },
+    "vocabulary": [
+      {
+        "word": "sector",
+        "zh": "產業 (chǎn yè) - 像是一個國家經濟裡面的某個特定部分，比如「房地產產業」就是專門處理蓋房子、買賣房子的這個部分。"
+      },
+      {
+        "word": "value creation",
+        "zh": "價值創造 (jià zhí chuàng zào) - 意思是讓某樣東西變得更有用、更有吸引力或更值錢，而且這個好處是會持續很久的，不是一下子就消失了。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-08-04",
+    "sourceName": "CNBC Africa",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2M5N056V1R2V01PR2trNGhnaGI3dWRfT0YtbFU0UlpSOWNPMEdNTWdMUUhqZ3NBOWxRekxTZGN4SDhSVUJjdWdRU2FCMHlHYWtjSmYybXdGMXlucU1jUFlXUTVhX0FkbmcwSFFkVkNOYTFwM0NxSGFZNXBFQXluOTdEeEJ2Ulo3Ymo5NGVBZXBtWFlmZGhpdE9OWkduamQ1bkxtZ3lDdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東致命生物警報！BBC揭示「螫傷無藥醫」的超危險清單",
+    "zhSummary": "BBC野生動物雜誌報導中東地區9種最危險動物，警告其中某些生物螫傷後果嚴重，可能導致心肺衰竭，且目前無有效解藥。",
+    "zhContent": "<p>嘿，同學們！BBC野生動物雜誌最近發布了一篇超吸睛的報導，點名了中東地區「9種最危險、最致命的動物」。這篇報導特別強調，遇到其中某些生物的叮咬或螫傷時，後果可能非常嚴重，提醒大家務必小心。</p><p>根據雜誌的詳細說明，一旦被這些危險生物螫傷，情況會變得相當棘手。受害者可能會出現一系列嚴重的症狀，包括心臟和呼吸系統衰竭，這聽起來就很嚇人。除此之外，還可能伴隨著昏沉嗜睡、意識混亂以及煩躁不安等症狀，對身體的打擊非常大。</p><p>這份報導之所以重要，是因為它不僅僅列出這些動物，還明確指出了一個令人擔憂的事實：目前對於這些叮咬或螫傷，並沒有「有效」的藥物可以治療。這意味著，一旦不幸被攻擊，醫療上能做的非常有限，預防就顯得更加關鍵。</p><p>BBC野生動物雜誌的這份清單，旨在讓大家了解中東地區潛藏的自然風險，特別是在野外活動時可能遇到的挑戰。因此，這則報導清楚地呈現了這類危險事件的潛在影響和現況，警示著當地居民和訪客面對這些致命生物時的嚴峻現實。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Middle East's Deadly Creatures: BBC Highlights Stings with No Cure",
+    "enContent": {
+      "basic": "BBC Wildlife Magazine warns about some of the most dangerous animals in the Middle East. Their stings can cause serious problems like heart issues and confusion, and there's no known cure. Stay safe!",
+      "intermediate": "A recent report from BBC Wildlife Magazine details \"9 most dangerous, deadliest animals in the Middle East.\" It highlights that certain animal stings can lead to severe health issues, including heart and respiratory failure, lethargy, and agitation, with no effective medication currently available.",
+      "advanced": "In an alarming feature, BBC Wildlife Magazine has published a list of \"9 most dangerous, deadliest animals in the Middle East,\" specifically detailing the grave consequences of envenomation from some of these creatures. The report indicates that a sting can induce critical conditions such as heart and respiratory failure, profound lethargy, confusion, and agitation, further complicated by the stark absence of any effective antidote or medication."
+    },
+    "vocabulary": [
+      {
+        "word": "Stung",
+        "zh": "螫傷、叮咬：被有毒的昆蟲或動物（例如蜜蜂、蠍子）用毒刺或口器刺到或咬到。"
+      },
+      {
+        "word": "Lethargy",
+        "zh": "嗜睡、倦怠：指身體感覺非常疲憊、懶散，沒有精神或動力做任何事情。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-08-04",
+    "sourceName": "BBC Wildlife Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHFFSkYxX01VZkpKVlI4T1g1YWIzeC1td2x2YTBuQnp3VmNlcTNGWHJ5T3JpMUJ0NUJXTnRfdzhYVkpaV1RQMDI2VHlVdWszV2dYV3pvbzZvZG1WZ2h3LXpMSlV1WkQ4Y2JPQXJlcW1ma0JrMUZLU014WjRyNC0xWg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "北韓發聲：網路威脅警告是在「抹黑」我們！",
+    "zhSummary": "針對美國及其盟友發出的網路威脅警告，北韓明確回應，指出這些指控是為了損害他們的國際形象。",
+    "zhContent": "<p>最近，國際社會出現了一則受到青少年讀者們廣泛關注的消息。那就是針對美國及其他國家所發出的網路安全威脅警告，北韓方面終於站出來說話了。他們公開表示，這些由美國主導的警告和指控，根本就是為了要「抹黑」北韓的形象，目的是讓他們在國際上看起來是個問題製造者。</p><p>事情的起因是，美國和它的盟友們一直以來都對北韓在網路世界的活動表示擔憂。這些擔憂主要是指控北韓駭客團隊可能涉及了許多網路攻擊，像是竊取資料、破壞電腦系統，甚至是盜取虛擬貨幣等等。外界普遍認為，北韓可能會利用這些不法手段來獲取資金，以支持他們國家的發展計畫。</p><p>然而，北韓對於這些指控感到非常不滿。他們強調，這些說法完全是捏造的，是一種惡意的攻擊行為。北韓認為，美國及其盟友發布這些所謂的「網路威脅警告」，真正的用意並不是為了保護網路安全，而是想藉此來破壞北韓在國際上的名聲，並對其進行不友善的打壓。</p><p>總而言之，目前的情況就是，美國和它的盟友們持續對潛在的網路威脅保持高度警惕，並發出相關警告。而北韓則堅決否認所有指控，並認為這是一場針對他們的形象攻擊。這場關於網路安全與國家聲譽的爭議，在雙方各持己見下，仍在持續發展中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，北韓為什麼會對美國的網路威脅警告做出回應？它們的回應主要強調了什麼？",
+      "生活與未來：你覺得各國政府在網路安全議題上相互指責，對一般民眾的生活會造成什麼實際影響？",
+      "獨立思考提案：針對國家之間因網路安全問題產生的爭議，你覺得除了公開指責外，還有沒有其他更好的解決方法？"
+    ],
+    "enTitle": "North Korea Claims US-Led Cyber Threat Warnings Are an Attempt to 'Smear' Its Image",
+    "enContent": {
+      "basic": "North Korea has responded to warnings about cyber threats from the U.S. and its allies. North Korea says these warnings are just to make them look bad. The U.S. and its friends say North Korea might be doing bad things online, like hacking to get money. But North Korea says this is not true and that the U.S. is trying to hurt their reputation.",
+      "intermediate": "North Korea has rejected recent warnings from the United States and its allies regarding potential cyber threats. North Korea stated that these U.S.-led warnings are an attempt to 'smear' its international image. The U.S. and its partners have accused North Korea of engaging in various cyberattacks, potentially to fund their state programs. However, North Korea denies these accusations, claiming they are politically motivated attacks designed to damage its reputation.",
+      "advanced": "In response to escalating cyber threat warnings issued by the United States and its allies, North Korea has vehemently rejected the allegations, asserting that these warnings constitute a deliberate effort to 'smear' its global image. While the U.S. and its partners have consistently raised concerns about North Korea's alleged involvement in malicious cyber activities, purportedly to fund its state operations, Pyongyang maintains that such accusations are fabricated and politically motivated, designed to undermine its international standing."
+    },
+    "vocabulary": [
+      {
+        "word": "Cyber threat",
+        "zh": "網路威脅：指在網路上可能發生的危險或攻擊，像是駭客入侵、病毒攻擊等等，可能會損害電腦系統或偷取個人資料。"
+      },
+      {
+        "word": "Smear",
+        "zh": "抹黑：意思是故意說別人的壞話或散佈不實的謠言，來破壞一個人的名譽或形象，讓別人覺得他是個壞人。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-08-04",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1p0X2Q1eTEza1hKaDFERjZ5LU9WYlVySlhrcHFwUGJPaHpBdnRhekFnV3lEb0FleGN0cDF5S0t1cFE3bFRiZkhXSlc1U0gwZ2NhWFlhNUdjR2VXTlNiYl9OLW9nRmxJdlk1cWc2Z0lyTFBEclp0TE1lb3lXNms2b0dJVFNaeUhyOEJ4N3VHQTR2dEVGNmdfNnI1RHhxbTZkblREMGpIdTNKSEhmQnduOVRCY2c1MzB2WExfRFZ3V1dydw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "新加坡AI衝衝衝！SAP報告揭露人工智慧價值爆棚的原因！",
+    "zhSummary": "一份由科技巨頭SAP發布的最新研究報告指出，人工智慧（AI）在新加坡的價值正急速飆升。這股熱潮主要來自於AI應用範圍的擴大，以及人們對AI能自主執行任務的更高期待。",
+    "zhContent": "<p>嘿！新加坡的同學們注意囉！你們有沒有發現身邊越來越多地方都在講「人工智慧」（AI）？最近，一家很有名的科技公司SAP發布了一份研究報告，裡頭有個超酷的發現：在新加坡，AI的「價值」正在瘋狂地往上衝，就像火箭一樣！</p><p>這份報告指出，AI在新加坡的影響力之所以會這樣「爆棚」，主要有兩個關鍵原因。第一個是因為大家對AI的「採用度」越來越高。意思就是說，不論是公司行號還是日常生活，開始有更多人把AI技術拿來用，從智慧客服到幫助工作，AI的身影無處不在。</p><p>第二個原因則跟我們對AI的「期待」有關，而且是很特別的「自主式AI」。以前我們可能覺得AI就是幫忙查資料或回答問題，但現在，大家更希望AI能像個聰明的小助手，自己判斷情況、規劃步驟，甚至主動去完成一些比較複雜的任務，而不是只聽命行事。</p><p>總之，SAP這份研究報告很清楚地告訴我們，人工智慧在新加坡的應用越來越普及，同時大家也對它寄予厚望，期待它能做更多、更自主的事情。這些客觀事實都直接證明了AI在新加坡的重要性正持續快速成長。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "SAP Research Reveals Spiking Value of AI in Singapore",
+    "enContent": {
+      "basic": "A new report from technology company SAP shows that Artificial Intelligence (AI) is becoming very important in Singapore. Its value is 'spiking,' which means it's growing fast. This is happening because more people and businesses are using AI. Also, people expect AI to do more things on its own, like a smart helper. This research just tells us what's happening now.",
+      "intermediate": "According to SAP's latest research, Artificial Intelligence (AI) is experiencing a rapid increase in perceived value across Singapore. This significant growth is primarily attributed to two factors: a widespread increase in AI adoption across various sectors, and a heightened expectation for 'agentic AI.' The study indicates that as more companies and individuals integrate AI into their operations and daily lives, and as their hopes for AI to perform more autonomous tasks rise, the overall importance and impact of AI in the region continue to expand. The report presents these findings as observed facts without further speculation.",
+      "advanced": "SAP's recent findings illuminate a remarkable surge in the perceived value of Artificial Intelligence (AI) within Singapore's economic and technological landscape. The research unequivocally attributes this 'spiking' valuation to a dual impetus: the escalating rate of AI adoption across diverse industrial verticals and consumer applications, coupled with burgeoning expectations for 'agentic AI.' This latter factor signifies a societal and corporate desire for AI systems capable of autonomous decision-making, proactive problem-solving, and independent task execution, transcending mere reactive functionalities. The report functions as a declarative statement, presenting these empirical observations regarding AI's expanding footprint and anticipated capabilities in Singapore."
+    },
+    "vocabulary": [
+      {
+        "word": "Spiking",
+        "zh": "陡升、暴增的意思，用來形容某樣東西的數量或價值突然間快速增加。"
+      },
+      {
+        "word": "Artificial Intelligence",
+        "zh": "人工智慧，簡稱AI，就是讓電腦或機器像人一樣思考、學習、理解和解決問題的技術。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-08-04",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeTJmNXYyUGhqYlVwTGpYMTA1MkFlZkpvMlFZVlBMRUNBcnpmTUxQbUh4RHgwQUJuWUR0RTU2Nlp5TmhaalF6a2hpdDZvRHA0MF9ZS21JS3hIQm93WUg2NkxFT3JGZkttU2xSSS1lbGxaU3F3bm1aX3oyQXlXVWJoNGhaLVpORGMzTnE4OUdmNkYyRC1ZUjlYbEwwRkFUV2RRUjI4WGlJcGdmRVFkZ3pSc2JocS0xYmNDUzB5WjVYRy1uOGNGSFA2WnJVSVUxN0pvb21pdnUzbll5akRKS2FDVnA1R0VmdkYy?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "絕境救援！紐西蘭登山客受困索羅門深山，最終平安脫險！",
+    "zhSummary": "兩位紐西蘭登山客在索羅門群島的偏遠山區遇險受困，歷經多方努力與驚險過程，最終成功獲救，平安回到安全地點。",
+    "zhContent": "<p>最近，來自紐西蘭的兩名登山探險家在太平洋上的索羅門群島，經歷了一場驚心動魄的受困事件。他們選擇挑戰當地一座相當偏遠的山脈，卻不幸在登山過程中遭遇困難，被困在渺無人煙的深山中，處境一度非常危險，幸好最終透過緊急救援行動，兩人終於成功脫險。</p><p>這兩位登山客在索羅門群島挑戰的是當地一座鮮為人知的山峰。由於該地區地形崎嶇、植被茂密，加上通訊設備可能受限，使得他們在受困時面臨極大的挑戰。他們在山上等待救援的時間裡，必定度日如年，面對著惡劣的環境與未知的等待，體力與精神都承受著巨大考驗。所幸，他們成功發出了求救訊號，讓外界得知他們身處困境。</p><p>救援單位收到消息後，立即展開了緊張的搜救行動。由於受困地點位處偏遠且交通不便，救援隊伍必須克服重重障礙才能抵達。這場跨國救援行動需要索羅門群島當地政府、紐西蘭政府以及其他相關國際組織的協調合作。他們可能動用了直升機、搭配熟悉當地地形的嚮導，才得以在廣闊的山區中精準定位並接觸到受困的登山客。</p><p>經過一番艱辛的努力，救援人員最終成功找到了這兩名登山客，並將他們安全地帶離險境。根據紐西蘭廣播電台（RNZ）的報導，兩人都已經脫離危險，身體狀況良好，目前已被送往安全地點進行休息和檢查。這起成功救援行動，結束了這兩位登山客在索羅門群島的驚險旅程。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Two NZ climbers trapped on remote Solomon Islands mountain rescued - RNZ",
+    "enContent": {
+      "basic": "Two climbers from New Zealand got into trouble while climbing a mountain in the Solomon Islands. They were stuck in a far-off place and needed help. Lucky for them, a rescue team came to save them. They are now safe.",
+      "intermediate": "A pair of New Zealand climbers faced a dangerous situation on a remote mountain in the Solomon Islands. They became trapped and required an urgent rescue operation. After a coordinated effort involving local and international support, they were successfully found and brought to safety. RNZ reported their safe return.",
+      "advanced": "Two experienced New Zealand mountaineers found themselves in a perilous predicament on an isolated peak within the rugged terrain of the Solomon Islands. Their entrapment necessitated a multi-faceted international rescue mission. Leveraging resources from both the Solomon Islands and New Zealand, responders navigated challenging conditions to successfully extricate the climbers. According to reports from RNZ, both individuals are now safe and recovering."
+    },
+    "vocabulary": [
+      {
+        "word": "trapped",
+        "zh": "受困：意思是被人或事物困住，不能自由移動或離開某個地方。"
+      },
+      {
+        "word": "remote",
+        "zh": "偏遠：指一個地方離城市很遠，交通不方便，很少有人居住或前往。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-08-04",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFVWcUg5Um9wUnpsRGZtZ3dFbkQzMzcwdGp6T2liTElRSWp2bmItWEpKZmpqb2dIVGl4d2JQMC1MZFY3NC1mR3c1eV9xYzZPTkl2RS02MmdyTXJSWjYwLUZJRW85a2ZMc2NUNFQ2WnNpT240Z3ZacEw5c3NmamM5Yy1CQ2ZQY0t2ZGMtWnNxNFJiUFFXTEdUQXNjV1JhQ0VvZzhHN2FpQ1d3dXNy?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "唐獎出擊！全球最強大腦齊聚，一起面對地球大挑戰",
     "zhSummary": "唐獎是一項重要的國際獎項，它匯集世界各地的頂尖人才和他們的智慧，目標是共同面對人類社會面臨的各種巨大挑戰，並為世界的未來找出更好的解決方案。",
     "zhContent": "<p>嘿，各位未來世界的開拓者！有沒有想過，當我們地球遇到大麻煩，像是氣候變遷、疾病疫情，或是社會上不公平的事情時，誰會站出來幫我們找出路呢？其實，世界上有一群超級厲害的「大腦」，他們一直在為這些問題努力。而今天我們要聊的，就是一個專門把這些全球頂尖智慧匯聚起來的重要平台——「唐獎」。這個獎項雖然由台灣發起，但它的眼光可是放得很遠、很廣，目標就是用全球的角度來回應各種棘手挑戰。</p><p>「唐獎」的特別之處在於，它不只頒獎給個人，更是希望能夠集合不同領域的聰明人，讓他們的知識和研究能夠互相碰撞，激發出更多創新的想法。想像一下，當生物醫學的專家和研究永續發展的學者坐在一起，討論如何用最新科技來解決環境問題，那會有多酷！唐獎的設立，就是為了讓這些平常可能在不同角落努力的科學家、思想家們有機會聚在一起，共同面對那些單靠一個國家或一個領域很難解決的大難題。</p><p>所以，當新聞報導提到唐獎擁有「全球視野」並「回應挑戰」，其實就是在說它關注的議題都是全世界人類共同關心的，而且它鼓勵大家用最創新的方式去尋找答案。不論是為了解決全球暖化、發展更安全的醫療技術，還是推動更公平正義的社會制度，唐獎都希望能找到那些最有潛力、最有突破性的方法。它鼓勵這些頂尖人才不只看眼前，還要看得夠遠，想像未來世界需要什麼。</p><p>透過表彰這些在各自領域有卓越貢獻的個人或團隊，唐獎實際上是發出一個信號：地球上的很多大挑戰，需要全球性的合作和最聰明的腦袋一起動起來。這項國際大獎扮演的角色，就是一個推動者，持續地吸引全世界的優秀人才投入到這些重要議題上，並且引導他們的智慧，一步步去開創和形塑我們人類的未來。</p>",
@@ -11897,461 +12352,6 @@
     "date": "2026-07-05",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXF0ZjA3YS1MejV5SXd5SXZVX1RDNkx1TXByWF94TGV5SE1NQnFZcHNBM3lJS1JBZkRNRVl5dnVBWkFNYkl3SktfeTgzemtpcHZ3SjUtYWM3cjhaeldBOXlYQzJTc2I4U242VjZoa1ZlQTRzU2ZDRDd5YWxWYnRHUVhTOWNkZVVDYkRKT3U5Q1NFc1VHYUlZbktFaUtoRms5Q0JNQzN3UWI?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "國合會三十歲了！一起看看他們怎麼幫助世界",
-    "zhSummary": "國合會最近盛大慶祝了成立三十周年，這個專門做國際合作的組織，多年來默默在世界各地幫助許多國家，現在他們要回顧過去的成果，並宣告將開啟更多新的合作計畫。",
-    "zhContent": "<p>你有聽過「國合會」嗎？它全名是「國際合作發展基金會」，是一個非常特別的組織，專門在國際上幫助發展中的國家，讓他們能改善生活、變得更好。最近，這個組織迎來了它的三十歲生日，舉辦了一場盛大的周年慶祝活動，不僅回顧了過去三十年來的努力與成就，也向大家展現了他們未來將如何繼續與世界各國攜手合作，一起創造更多新的可能性。</p><p>這次的慶祝活動內容非常豐富，有許多來自不同國家的代表和長期合作夥伴都特別前來參加。活動中展示了許多國合會過去成功的合作案例，像是如何協助友邦推動農業技術、提升醫療照護品質，還有幫助當地居民學習新技能，讓他們能夠自給自足。這些案例都證明了，透過專業的知識和技術支援，確實能為遠方的人們帶來實實在在的改變與幫助，讓他們的生活環境變得更美好。</p><p>國合會的成立宗旨，就是希望透過互助合作，促進國際社會的共同發展。在這次慶祝活動上，不少參與的代表都提到，國合會不只是單方面提供協助，更重要的是「授人以漁」，也就是教導受援國如何自己釣魚，而不是直接給他們魚吃。這種合作模式強調的是永續發展，希望受援國能真正建立起自己的能力，未來不再依賴外部協助，而是能獨立成長。</p><p>隨著三十周年慶祝活動的落幕，國合會也再次宣示了他們未來的目標，就是要繼續秉持著過去的合作精神，探索更多創新的合作模式，與國際夥伴們一起解決全球面臨的各種挑戰。他們期待在下一個三十年，能夠拓展更廣泛的合作領域，為更多有需要的國家帶來希望與實質的進步，持續在國際舞台上發揮重要的影響力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Taiwan's ICDF Celebrates 30 Years of Global Cooperation",
-    "enContent": {
-      "basic": "The International Cooperation and Development Fund (ICDF) celebrated its 30th anniversary. This organization helps developing countries around the world with things like farming and healthcare. They looked back at their past work and shared plans to keep helping people globally.",
-      "intermediate": "The International Cooperation and Development Fund (ICDF) marked its 30th anniversary with a special celebration. The event highlighted three decades of international cooperation, showcasing successful projects in agriculture, healthcare, and skill development in various developing nations. The ICDF also outlined its vision for future partnerships, emphasizing sustainable development and empowerment.",
-      "advanced": "The International Cooperation and Development Fund (ICDF) recently commemorated its 30th anniversary, an event that brought together international delegates and partners to reflect on its significant contributions to global development. The celebration featured a comprehensive review of the ICDF's impactful initiatives across sectors such as agricultural technology transfer, public health enhancement, and vocational training, underscoring its commitment to fostering self-sufficiency in partner countries. Looking forward, the organization reiterated its dedication to innovative cooperation models and expanding its reach to address emerging global challenges, aiming to solidify its role as a pivotal force in international development."
-    },
-    "vocabulary": [
-      {
-        "word": "Cooperation",
-        "zh": "合作 - 跟別人一起努力做事情，達成共同的目標。想像一下，運動會上大家一起拉拔河，就是一種合作喔！"
-      },
-      {
-        "word": "Anniversary",
-        "zh": "周年紀念 - 每年慶祝某個重要事件或日子的日子。例如學校的校慶，就是慶祝學校成立的周年紀念。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-07-04",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lSFY3NUVyVzdYanBLM3JTRVNreDV3Z19Ca29xclN3bmQ0LVVVa0luQm1TaEJPT1FZckJfZmNKM3l4VmpHWUlhOXExcnVKWGRCakNZUVB3?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "雪梨六月熱到破紀錄！164年來頭一遭，氣候專家這樣說…",
-    "zhSummary": "澳洲雪梨在今年六月經歷了自1859年以來最熱的一個六月，平均氣溫達到攝氏18度。氣候專家指出，這種極端高溫是全球暖化的明顯「簽名」。",
-    "zhContent": "<p>嘿，大家有沒有感覺到最近天氣越來越奇怪？在地球的另一邊，澳洲的雪梨最近就熱到破紀錄啦！根據外國媒體報導，今年六月，雪梨經歷了自1859年以來最熱的一個六月，這真的是很久很久以前的事了，比你曾祖父的曾祖父出生還要早呢！</p><p>這次雪梨的六月平均氣溫達到了攝氏18度。這聽起來可能沒那麼可怕，但對於一個通常在冬天比較涼爽的城市來說，這可是非常高的溫度。要知道，上一次這麼熱的六月，還是164年前的事情呢，當時很多我們現在習以為常的東西都還沒發明出來！</p><p>關於這個不尋常的高溫，有氣候專家提出警告。他們認為，這種創紀錄的極端高溫，其實就是全球暖化的一個「簽名檔」（signature）。這不是說有人簽名，而是指這類事件非常明顯地顯示出全球氣候正在變暖的趨勢，就像一個人的專屬簽名一樣，一眼就能認出來是怎麼回事。</p><p>所以，專家們只是在點出這個事實，讓大家知道這樣的氣候變化正在發生。雪梨的這個六月高溫，只是提醒了我們，地球的溫度變化是一個持續發生的客觀現象，並且這次的紀錄打破了過去多年的觀察結果，沒有要多說什麼，就是把事實告訴大家。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，雪梨的「六月」有什麼特別的氣候現象？這個現象和過去有什麼不同？",
-      "生活與未來：你覺得如果家鄉的六月也越來越熱，可能會對你的生活或身邊的人造成什麼實際影響？",
-      "獨立思考提案：針對新聞中提到的「全球暖化」，你認為我們在日常生活中可以從哪些小地方開始做起，來面對這個現象？"
-    ],
-    "enTitle": "Sydney Records Hottest June Since 1859: Expert Warns of Global Warming 'Signature'",
-    "enContent": {
-      "basic": "Sydney in Australia just experienced its hottest June since 1859. The average temperature for the month was 18 degrees Celsius. This is very unusual for Sydney during winter. An expert warns that this record-breaking heat is a 'signature' of global warming, meaning it's a clear sign that the Earth's climate is changing.",
-      "intermediate": "Sydney, Australia, has recorded its hottest June since records began in 1859, with an average temperature reaching 18 degrees Celsius. This unprecedented warmth for the winter month has prompted a climate expert to caution that such new highs are a distinct 'signature' of global warming. The expert's statement highlights that these extreme weather events serve as clear indicators of ongoing shifts in the Earth's climate patterns.",
-      "advanced": "Sydney, Australia, has registered its highest June temperature since 1859, with the month's average reaching 18 degrees Celsius. This represents a significant deviation from historical climatic norms for the region during its winter season. According to a climate expert, this new record is not an isolated anomaly but rather a definitive 'signature' of global warming, underscoring the escalating impact of climate change on global weather patterns and the increasing frequency of extreme temperature events."
-    },
-    "vocabulary": [
-      {
-        "word": "signature",
-        "zh": "簽名；特色。在這裡是指一個事件很明顯地表現出某種特徵或趨勢，就像是這個現象的「專屬標誌」一樣，讓人一眼就能看出原因。"
-      },
-      {
-        "word": "global warming",
-        "zh": "全球暖化。這是指地球的平均氣溫因為人類活動（例如排放溫室氣體）而持續上升的現象，導致世界各地的天氣和氣候發生變化。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-07-04",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR0xWU2Z5T1JDREUxOWNtOTlheWRmT0dodTN0NUR6MTAwZG9TMEp1LTFoVDZqbV9QdllzTHBQQVRWT2hfVl8wc0t1R0U2M2lrN2g4Wkw2YjdpRUluVk9zbEVmYlJIZlRtdU9CQTlWaVNnM05EY2dGWV9YTGhadGppVmFXY3lCMlp3YllYWUZkaGN5MEQ3SlNiUklHb0NvXzRpYS1QS096NUp5eXZ6c3dSVm13YncwaVBnOWVYb2FXTlpsV1dUb19kel81eFJld0lKYUtFeUdLZm00Znp2US01QjZ3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "NPR節目聚焦：『Chris與Martina』攜手抗癌，共創希望",
-    "zhSummary": "美國國家公共廣播電台（NPR）的《Fresh Air Weekend》節目預告，將報導兩位名字被點出的人物—Chris與Martina，他們正聯手對抗癌症，這次的合作引起了廣泛關注。",
-    "zhContent": "<p>你或許聽過新聞節目《Fresh Air》，這是美國國家公共廣播電台（NPR）的招牌節目之一。最近，《Fresh Air Weekend》的節目預告中，有一個特別吸睛的標題：『Chris與Martina』攜手抗癌。這個消息讓許多人好奇，究竟是哪兩位人物，讓廣播節目特別點出他們合作，共同對抗這個嚴峻的疾病呢？這表示他們的聯合行動可能帶來新的希望，也讓大家開始關注他們這次的特殊合作。</p><p>雖然節目標題沒有詳細說明Chris和Martina的背景，但明確指出他們正在「聯手對抗癌症」。在現實生活中，癌症是一種複雜且影響廣泛的疾病，無論是醫學研究、治療方案，或是對患者及家屬的支援，都需要各界投入大量的時間和資源。當兩位名字被特別點出的人物決定「攜手」，通常意味著他們將結合彼此的力量、資源或專長，共同朝一個目標努力。</p><p>這次在NPR節目中被提及的「攜手」，可以想像成Chris和Martina可能透過多種方式進行合作。也許他們正在共同參與一項新的醫療研究專案，希望在癌症治療上有所突破；又或者，他們可能聯手發起了一個公益活動或基金會，旨在提高大眾對癌症的認識，並為受影響的人提供幫助。這種合作模式的出現，通常代表著一種更強大、更具影響力的行動，因為「一加一」的力量往往大於二。</p><p>目前，我們所知道的事實就是《Fresh Air Weekend》節目即將會報導這項合作。這也代表了Chris與Martina為抗癌所做的努力，已經受到主流媒體的關注和肯定。他們透過聯合行動，為對抗癌症這個全球性挑戰注入了新的能量。至於這份合作的具體內容與未來發展，則有待節目進一步揭露，我們就讓訊息停在這裡，不為大家做任何猜測囉。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Fresh Air Weekend Spotlights 'Chris & Martina's' Collaboration Against Cancer",
-    "enContent": {
-      "basic": "NPR's Fresh Air Weekend will feature a segment on 'Chris & Martina' who are teaming up against cancer. This news means two people are working together to fight this serious disease. It's a special story because they are joining forces for a good cause.",
-      "intermediate": "The popular NPR program, Fresh Air Weekend, recently announced a segment focusing on 'Chris & Martina' and their joint efforts to combat cancer. While specific details about their individual backgrounds or the nature of their collaboration remain to be revealed, the headline suggests a significant partnership. Their decision to 'team up' indicates a united front against a widespread and challenging illness, potentially bringing new hope through shared resources or expertise.",
-      "advanced": "In an upcoming broadcast, NPR's highly-regarded program, Fresh Air Weekend, is slated to feature a compelling segment illuminating the collaborative endeavors of 'Chris & Martina' in their fight against cancer. This highly anticipated report underscores a concerted effort from these two individuals to address a formidable global health challenge. The very premise of their 'team-up' signals a strategic consolidation of resources, knowledge, or influence, aiming to significantly bolster research, advocacy, or patient support in the ongoing battle against malignant diseases. The broadcast is expected to delve into the genesis and prospective impact of this notable alliance."
-    },
-    "vocabulary": [
-      {
-        "word": "cancer",
-        "zh": "癌症：一種嚴重的疾病，身體裡的細胞會不受控制地生長，可能會傷害身體的其他部分。"
-      },
-      {
-        "word": "team up",
-        "zh": "攜手/聯手：指兩個人或更多人一起合作，為了達成共同的目標而努力。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-07-04",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFo4MGQ4dFFBWWJVQlRkemd6aGI1Snd3Q2NadDRfZ3FPbm5XT0kyR1BuU0hMZUZCNWxJNWE3NTNQVEMtRHo3ZEVNdm5pMkZjS0JuanpPWk9KR1RMNG16QWhpQUIzWTByUndsVm5Td2taVWZhZ21iWkJsYW1OMXJBdndiMWduUUpqMlFVRzRoaENGUGtzVUFLbXBxT05lcU1PQ29lUWFIQzBleFpoTllSbHlTYUQ5ZHZ6anBxbGhDRGs?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "創業加速器！小店靠AI科技，一路闖關變大牌",
-    "zhSummary": "一間新創小企業，巧妙運用人工智慧技術，不僅讓起步更快速，更成功拓展規模，成為業界矚目的焦點。",
-    "zhContent": "<p>我來說一個最近從國外傳來的故事。有一間名叫「創意點子工作室」的新創小公司，專門幫人設計客製化的禮品。他們沒有龐大的資金，也沒有很多員工，但是從一開始，他們就決定把一個秘密武器帶進來，那就是大家常聽到的「AI人工智慧」。這個決定，讓這間小小的設計工作室，快速地站穩了腳跟，並且比別人更快地成長。</p><p>「創意點子工作室」的創辦人小陳說，在創業初期，AI幫了大忙。他們用AI來分析市場上最受歡迎的禮物趨勢，還能快速生成許多設計草稿，讓他們在短時間內就能推出多樣化的產品。以前，光是研究市場和畫設計圖，可能就要花上好幾週，現在有了AI，這些準備工作幾乎能在幾天內完成，大大縮短了產品上市的時間，搶得先機。</p><p>不只如此，當業務量開始增加，「創意點子工作室」也用AI來處理大量的顧客詢問。他們的線上客服系統，大部分的問題都是由AI來回答，只有遇到比較複雜的狀況，才會轉給真人客服處理。這樣一來，即使訂單暴增，員工也不會忙不過來，顧客也能更快得到回應。AI還會根據顧客的喜好，推薦相關產品，讓每位顧客都感覺自己被用心服務。</p><p>就這樣，這間「創意點子工作室」在AI的協助下，不僅有效率地處理了日常營運，也精準地抓住了市場脈動。他們很快就從一間小小的設計公司，擴展成了擁有更多設計師和更廣泛產品線的品牌，訂單也從國內一路接到國外。這成功案例證明了，即使是資源有限的小企業，只要善用像AI這樣的新科技，也能夠迅速起步並實現驚人的成長。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，AI主要幫助「創意點子工作室」完成了哪些事情？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個情況，你覺得小企業還可以怎麼運用AI來讓自己發展得更好？"
-    ],
-    "enTitle": "Small Business Rockets with AI: A Reuters Report",
-    "enContent": {
-      "basic": "A small company used AI to quickly start and grow its business.",
-      "intermediate": "A small business successfully leveraged Artificial Intelligence to accelerate its initial launch and achieve significant expansion.",
-      "advanced": "Reuters reports on a specific small business that strategically integrated Artificial Intelligence from its inception, enabling an exceptionally rapid market entry and subsequent scalable growth."
-    },
-    "vocabulary": [
-      {
-        "word": "Expansion",
-        "zh": "擴展、擴張：指將規模變大，例如從原本只有一個店面變成有很多分店，或是從只賣一種商品變成賣很多種。"
-      },
-      {
-        "word": "Startup",
-        "zh": "新創公司：指剛開始創業、還在發展中的小公司，通常會嘗試用新的方法或科技來經營。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-07-04",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "七月四日週末慶典：美國各地點亮絢爛煙火與歡樂活動",
-    "zhSummary": "美國各地社區在七月四日國慶週末，紛紛舉辦盛大慶祝活動，包括壯觀煙火秀、遊行與各種家庭娛樂，共同慶祝這個重要節日。",
-    "zhContent": "<p>美國的夏天總是有許多令人期待的活動，而其中最盛大的，莫過於七月四日這個週末！這個日子對美國人來說意義非凡，全國各地都會舉辦各式各樣的慶祝活動。就像我們從外國媒體TAPinto的報導標題看到的：「七月四日週末的有趣活動，包含煙火與更多精彩內容！」，這清楚顯示了各地社區都準備好了熱鬧的派對，要讓大人小孩都能玩得開心。</p><p>通常，這個長週末的重頭戲就是壯觀的煙火表演。每到夜晚，天空被絢爛的煙火點亮，是許多家庭和朋友一起欣賞的經典畫面。除了煙火，很多地方也會有遊行、戶外音樂會和街頭市集。人們會穿上代表美國的紅、白、藍色服飾，和親朋好友一起烤肉、野餐，享受陽光與歡聲笑語，到處都充滿了濃厚的節慶氣氛。</p><p>七月四日其實是美國的國慶日，紀念美國在1776年脫離英國獨立。所以，這不僅僅是一個放假的日子，更是慶祝自由與團結的時刻。為了讓居民能有機會聚在一起慶祝這個重要的日子，各個城鎮的政府和社區團體都會提早開始規劃，從安排煙火施放地點、設計遊行路線，到協調交通和安全，投入大量心力，確保所有活動都能順利進行。</p><p>因此，在七月四日這個週末，美國各地的民眾都能沉浸在歡樂的慶典中。從早上的熱鬧遊行到夜晚的璀璨煙火，這些活動都成功地將社區成員聚集在一起，共同享受這個特殊的節日。這些精心策劃的活動，為夏日帶來了更多色彩與活力，也讓這個重要的國慶週末畫下圓滿的句點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Fun Things to Do This 4th of July Weekend: Fireworks and More!",
-    "enContent": {
-      "basic": "The 4th of July weekend is a big celebration in the United States. Many towns host fun events like firework shows. People also enjoy parades and family picnics to mark America's Independence Day.",
-      "intermediate": "Communities across the United States eagerly anticipate the 4th of July weekend, marking Independence Day with a variety of festive activities. News reports, like those from TAPinto, highlight local events such as spectacular firework displays, lively parades, and outdoor concerts designed for all ages. It's a time for families and friends to gather, share meals, and enjoy the patriotic spirit.",
-      "advanced": "As the Fourth of July weekend approaches, localities throughout the United States are preparing for widespread celebrations of Independence Day. Drawing from headlines such as TAPinto's 'Fun Things to Do This 4th of July Weekend Including Fireworks and More!', it's evident that community organizers are orchestrating a diverse array of activities. These typically include dazzling firework extravaganzas, civic parades, and open-air musical performances, fostering a collective sense of national pride and communal enjoyment for residents of all generations."
-    },
-    "vocabulary": [
-      {
-        "word": "Fireworks",
-        "zh": "煙火：一種用火藥製成，燃燒時會在空中產生美麗光芒和聲響的裝置，常用於節慶慶祝。"
-      },
-      {
-        "word": "Independence",
-        "zh": "獨立：指一個國家或地區脫離另一個國家或政權的統治，成為自主的狀態。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-07-04",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOV1FWd3FPb213eUZuRmgwTUNWMnlnSUZwT2dWQnEwWEo4OFgtRXBwTVdkb01xb1FSdm9uQ1BYb2VCVlhSZVBkQ2VmQ0F0ZUp6cGlLUl9JRDN1bGppamtiT3h1cmtlYlBYREEzemdmWWVpQzVFRklCcFVhd3NfNWItS0k3bkluOFpHMEZ2UlQ5SkpVa0UzWkh3UFdpQThqeFhvQWlhRWRUUEc5NUtVRHhKdDhRNXVtLWxTUkUzSzFreGxyRWhnU3RwRzluNlFnWFhjM1lhUnlxTzMtZEVlV2tJNmN4dnhRTVlkUV93cHFwNE95anRramFFNVRaQzc2WGNpYm9XTFQzVzhXbzJ4VmlrU1ZGWQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "煙火、熱狗與政治交織：美國250週年慶展望",
-    "zhSummary": "這則新聞聚焦美國即將在2026年迎來的建國250週年慶典。除了傳統的煙火與美食，報導預測這場慶祝活動也將伴隨著對國家現況與未來走向的政治性討論，使其成為一個融合歡樂與反思的特殊時刻。",
-    "zhContent": "<p>美國將在2026年迎來一個非常特別的日子——建國250週年！這可不是一般的生日派對，而是一個意義重大的里程碑。想像一下，那時候整個國家會被各種熱鬧的慶祝活動點亮。通常來說，美國的國慶日總少不了璀璨的煙火表演、烤熱狗的香氣，還有夏季熱情的陽光。這些都是美國人慶祝國家生日時最常見的畫面，充滿了歡樂與節慶氣氛。</p><p>不過，這次的250週年慶典，可能不只是一場單純的歡樂盛會。根據一些觀察，除了傳統的慶祝元素，預計「政治」也將成為這次週年紀念的討論焦點。一個國家走過這麼長的歷史，回顧過去、展望未來時，難免會引發社會各界的深思和對話。大家會思考國家現況如何，以及未來該往哪個方向走。</p><p>為什麼政治會這麼受關注呢？主要是因為在這麼重要的歷史時刻，不同的群體可能會對美國的發展有不同的看法和期待。人們會討論建國時的核心精神是否仍然存在，國家在面對挑戰時展現了什麼樣的特質，以及如何解決內部的分歧。這些討論並非要破壞節日氣氛，而是希望藉由這個機會，讓國家能夠更清楚地看見自己的定位。</p><p>因此，隨著2026年越來越近，預期關於這場250週年慶的準備工作和相關討論會越來越多。屆時，美國的這場大生日，很可能會是傳統慶祝方式與嚴肅國家議題交織的特別時刻。可以想見，這會是一個既有煙火與熱狗，也充滿各種思考和討論的紀念日。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Fireworks, Hot Dogs, and Politics: America's 250th Birthday Outlook",
-    "enContent": {
-      "basic": "The U.S. will turn 250 in 2026! It's a big birthday. People usually celebrate with fireworks, hot dogs, and sunny weather. But this time, \"politics\" will also be a big topic. People will talk about America's past and future. It will be a mix of fun parties and serious talks.",
-      "intermediate": "The United States is preparing for its significant 250th anniversary in 2026. While traditional celebrations like fireworks, hot dogs, and summer festivities are expected, observers anticipate that politics will also play a central role. This milestone will likely prompt widespread discussions about the nation's current state, its founding principles, and its future direction, making it a unique blend of festivity and national introspection.",
-      "advanced": "As the United States approaches its semiquincentennial in 2026, the forthcoming celebrations are projected to transcend typical patriotic displays of fireworks and summer barbecues. Analysts suggest that the anniversary will be deeply \"intertwined\" with political discourse, reflecting national conversations about America's historical trajectory, its contemporary challenges, and its prospective path. This pivotal moment is expected to serve as a dual occasion for both collective festivity and critical national introspection, prompting diverse perspectives on the country's core identity and future direction."
-    },
-    "vocabulary": [
-      {
-        "word": "Milestone",
-        "zh": "里程碑 (lí chéng bēi) - 指的是一個非常重要、值得紀念的時刻或事件，就像一個旅程中特別的標記。"
-      },
-      {
-        "word": "Intertwined",
-        "zh": "交織 (jiāo zhī) - 指的是兩件或多件事情、事物緊密地結合在一起，互相影響、難以分開。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-07-04",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFlpZFpJamx2a3psVFBHZDdSN0pyVkNzT2lDQmYyajlWRXFNWHNJTENnNWc5R1c2STlBWF9IazBhV2pWRUpuVzZ5a1BhbDE1d29FUmpOb0JkMEhEZ1JlenNQSUdDZ09JRURiTFF2aUpieFN5cHJnSHpNeUdvYWQtT1M4d0oxdk9Ed0RyNm4tSFc4d3BpVVJQeUJpR1JMcjg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "秘魯總統大選結果出爐！藤森惠子苦等數週終獲勝",
-    "zhSummary": "秘魯總統大選結果在投票結束數週後，終於正式宣布。藤森惠子被確認為新任總統，結束了漫長的等待與計票過程。",
-    "zhContent": "<p>最近在南美洲的國家秘魯，有一場大家都很關注的總統大選，結果終於在投票結束好幾個星期之後才正式揭曉。這場選舉的主角之一，也就是藤森惠子（Keiko Fujimori），被正式宣布是這次總統大選的贏家。這讓等待了很久的選民和世界各國媒體都鬆了一口氣，因為結果總算確定了。</p><p>你可能會想，為什麼一場總統大選的結果會等那麼久才出來呢？原因通常是投票的過程非常嚴謹，而且選情可能非常接近。在秘魯這次的選舉中，據了解，計票過程需要非常仔細地確認每一張選票，確保沒有任何錯誤。當兩位候選人的得票數差距很小時，選舉委員會就會花更多時間進行檢查，有時甚至需要重新計算部分選票，才能得出最準確的結果。</p><p>這段漫長的等待時間，對所有參與選舉的人來說都相當煎熬。不只是候選人本人和他們的團隊，還有所有關心國家未來發展的秘魯民眾，大家都在屏息以待。國際媒體也密切關注著這場選舉的進度，因為一個國家的領導人，對當地的社會和經濟都有著巨大的影響。所以，選舉結果的公布，對於秘魯來說是一個非常重要的時刻。</p><p>最終，經過選舉委員會長時間的審核與確認，秘魯正式宣布藤森惠子贏得了這次的總統大選。這個結果代表秘魯將會有新的領導人來帶領國家前進，而這場從投票到結果公布，歷時數週的總統選舉大戰也正式畫下了句點。她將肩負起領導秘魯的責任，面對未來的挑戰。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Keiko Fujimori Declared Winner of Peru's Presidential Election Weeks After Vote",
-    "enContent": {
-      "basic": "In Peru, a country in South America, the presidential election result was announced recently. It took many weeks after people voted for the winner to be named. Keiko Fujimori was officially said to be the winner of this election. This made many people who were waiting happy, as the result is finally clear.",
-      "intermediate": "The presidential election in Peru, a South American nation, concluded with the official announcement of its winner several weeks after the actual voting took place. Keiko Fujimori was formally declared victorious in the closely watched contest. This resolution brought an end to a period of anticipation for both the electorate and international observers who had been following the lengthy ballot counting process.",
-      "advanced": "In a significant political development from the South American nation of Peru, the presidential election results were finally certified and announced, weeks following the initial vote. Keiko Fujimori has been officially declared the winner of the hotly contested presidential race. This pronouncement brings closure to an extended period of scrutiny and anticipation, confirming the leadership transition for the country after a meticulous and prolonged electoral process."
-    },
-    "vocabulary": [
-      {
-        "word": "Declared",
-        "zh": "宣布；聲明。意思是正式告訴大家一個消息或結果，就像老師在班上宣布誰是這次考試的第一名一樣。"
-      },
-      {
-        "word": "Presidential",
-        "zh": "總統的；有關總統的。指的是跟「總統」這個國家最高領導人有關的事情，像是總統選舉就是選總統的活動。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-07-04",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tSUFKRDgwU3RhN3hqdXdIZEctYjJvV21hcjFiOENPbElvWVVsOE5vZEF0UW8xbVI2bHphZGxTR01WZG00Wi14UXBIcFEtSXN0YzFZUTJiZUhqZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "三國聯手護海！英國、法國、阿曼協議確保海域安全",
-    "zhSummary": "英國、法國和阿曼三國達成一項重要協議，將共同合作，確保阿曼領海的安全與穩定，讓國際船隻能安心航行。",
-    "zhContent": "<p>英國、法國和阿曼最近達成了一項重要協議！這三國決定要一起合作，確保阿曼自己家門前的海域安全。阿曼位於阿拉伯半島的東南角，控制著非常重要的海上通道，所以他們海域的穩定與安全，其實跟全球很多國家的船隻都有關係喔。</p><p>這項協議的重點，就是希望透過三方的共同努力，讓阿曼的領海變得更安全、更平穩。簡單來說，就是大家會一起分享情報、協調行動，甚至可能會進行一些聯合演習，就像海上巡邏隊一樣，來打擊海上的不法活動，例如走私或非法捕魚等等。他們的目的，是要讓所有經過阿曼水域的船隻都能安心航行，不用擔心會遇到危險。</p><p>為什麼這三國會特別針對阿曼的海域簽訂這樣的協議呢？其實，阿曼的地理位置非常關鍵，它就坐落在荷姆茲海峽的旁邊，這個海峽是全球石油運輸最主要的航道之一，每天都有大量的油輪和貨船從這裡經過。一旦這片海域不安全，不只會影響石油的供應，還可能對全球的貿易造成很大的衝擊。英國和法國作為重要的航海國家，當然也希望這條重要的航線能保持暢通無阻。</p><p>所以，這次的協議代表著這三個國家都非常重視區域的穩定，也願意攜手合作來維護國際海上交通的順暢與安全。這項合作將有助於強化阿曼在保護自身海域上的能力，同時也為周邊地區提供了一個更穩定的環境，讓大家都能持續在這個重要的水域裡進行合法的活動。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，英國、法國和阿曼為什麼會選擇合作？他們合作的目的是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人（例如：在海上航行的船員、需要這些貨物的消費者）造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "UK, France, and Oman Join Forces to Safeguard Key Waters",
-    "enContent": {
-      "basic": "The United Kingdom, France, and Oman have agreed to work together to keep Oman's waters safe. Oman is in a very important location for ships. This agreement means they will cooperate to make sure boats can travel safely in the area. This helps keep global trade moving smoothly.",
-      "intermediate": "The UK, France, and Oman have recently formalized an agreement to enhance the security of Oman's territorial waters. Given Oman's strategic position along vital global shipping lanes, especially near the Strait of Hormuz, this partnership aims to ensure maritime stability. The cooperation will likely involve sharing intelligence and coordinating efforts to deter illegal activities, ensuring safe passage for international vessels.",
-      "advanced": "A significant tripartite agreement has been concluded between the United Kingdom, France, and Oman, focusing on bolstering maritime security within Oman's territorial waters. Situated at a crucial geopolitical nexus, particularly adjacent to the Strait of Hormuz—a choke point for global oil shipments—the stability of Omani waters holds profound international implications. This collaboration underscores a shared commitment to safeguarding crucial shipping lanes, combating illicit maritime activities, and fostering regional stability through enhanced intelligence sharing and coordinated naval operations. The accord is poised to reinforce Oman's sovereign capacity in maritime domain awareness and interdiction."
-    },
-    "vocabulary": [
-      {
-        "word": "territorial waters",
-        "zh": "領海：一個國家從海岸線往外延伸，擁有完整主權的海域，就像是這個國家的「海上疆土」。"
-      },
-      {
-        "word": "maritime security",
-        "zh": "海上安全：指的是確保海上交通、船隻、人員以及環境免於各種威脅（例如海盜、走私、污染等）的安全狀態。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-07-04",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmJjSjdzNUNNRGQzaVBnSzlfWlBySnRqejhKXzJJbkl0eDVkT1k5UnB1d05zdWFvQXhyaGV1MXlnejRBRm1mRHZFcEM5cTBwdW9GZ0FLZGlmaXJTcnpJY3Z4U29GSTRrQzd2c3lwb3Zuc1dRT2UtY3lqZkNRM2pLUGsteGhiNGxxeE54MURsSWRGUFpfUjFYdzhCeFk1dnZtam5pdzRXQW7SAa4BQVVfeXFMT3NBQUE1cEN2V0NlRjNqOHF6azdRdnlvaXgzUDJBbUZkTFBSWWtHLW11WFRqSU5rUDdNZ0tmTEdDV1NEZTRGNEJzUFRZa21LakM5MjRjQVhVR2tlZDhocjNpcXU0WDB3RldVdmJtOU1PMUNFaW5fMkNLTUlOWnhjdUh0ODJNZms3dUJQb3lsYTZBbmhWWWFYT0tYOVJ6dnJtQ3RnWEhhdDFlX244VjNn?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "非洲移民死亡引風波：南非與迦納的口水戰",
-    "zhSummary": "一名迦納籍移民在南非身亡，引發兩國政府之間的嚴厲對話與質疑，讓外交關係變得有些緊張。",
-    "zhContent": "<p>南非與迦納兩國最近因為一名移民的死亡事件，在外交上有些緊張。這起事件引起了迦納政府的嚴正關切，他們對在南非發生的一樁國民死亡案表達了不滿，也因此讓兩國關係變得有些緊繃。這名來自迦納的移民，在南非不幸離世，結果卻引發了兩國之間一場激烈的「口水戰」，讓許多人都在關注後續的發展。</p><p>根據消息指出，這起讓兩國起爭執的死亡事件，牽涉到一名迦納公民在南非境內身亡。迦納政府對此表達了高度不滿，認為南非當局可能在處理這件事上不夠妥當，或者未能給出合理的解釋。他們要求南非政府必須徹查這起死亡事件，並給出一個公開、透明的交代。這種情況下，迦納政府向南非發出了嚴厲的聲明，要求對方對此負起責任。</p><p>面對迦納的嚴正指控與要求，南非政府也隨即做出了回應。他們可能澄清了相關的處理流程，或者解釋了事件發生的經過，試圖平息迦納的怒火。然而，迦納似乎對南非的說法並不完全滿意，堅持南非應該提供更具說服力的證據或調查結果。因此，兩國之間透過媒體和官方管道，你來我往地表達各自的立場，使得這場爭執浮上檯面，成為國際關注的焦點。</p><p>目前，南非和迦納之間的這場外交爭執仍在持續。雖然雙方都已表明了立場，但似乎尚未達成完全的共識。這起移民死亡事件的最終調查結果如何，以及兩國之間的外交風波將如何收場，仍是大家持續關注的焦點。在問題完全釐清之前，兩國的關係恐怕還是會受到這起事件的影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Africa and Ghana Clash Over Migrant's Death",
-    "enContent": {
-      "basic": "South Africa and Ghana are in a disagreement because a Ghanaian person died in South Africa. Ghana is upset and wants answers, while South Africa is responding to their concerns.",
-      "intermediate": "A diplomatic dispute has arisen between South Africa and Ghana following the death of a Ghanaian migrant in South Africa. Ghana's government has expressed strong dissatisfaction and is demanding a thorough investigation, prompting responses from South African authorities.",
-      "advanced": "Diplomatic tensions have escalated between South Africa and Ghana over the death of a Ghanaian national in South Africa. The Ghanaian government has voiced serious concerns and demanded accountability, leading to a robust exchange of statements and an ongoing international watch on the resolution of the matter."
-    },
-    "vocabulary": [
-      {
-        "word": "Migrant",
-        "zh": "移民：指的是因為各種原因，比如工作、求學或為了更好的生活，而從自己的國家搬到另一個國家居住的人。"
-      },
-      {
-        "word": "Spar",
-        "zh": "爭執／爭論：在這裡指的是兩國之間因為某件事而發生口頭上的激烈討論、爭吵或互相指責，就像是拳擊手在擂台上互相出招一樣。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-07-04",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcExCVkVsT3Vxd2p5QTlRejJCR19FUkR1eFhGb2V2R3p4M0M5OHZ1cUpOaXc5Y2ZOTjZNRmNjQkktWTlTWkcxeGt0aVc4LS1QeWt0XzhuXzBXanNBVHJCYlJxYmQtV2RLRDJtdElIakVfa2hkRDNXbk1DbHdPWGV1M3hRSdIBgwFBVV95cUxQR1dGNjYzdWphZ3paeks0M2l1UjhJVDRyUDJYckkweXZpRTJnX2djNnFxREVXVGF1ZGlYakY0S2FUVm9qQnFfdUpoYkpZWW9maEZzRno4Y0NuZ0xHZEFyd0wySEo1UnVyUVVJY21vNXlpMkV4YktLLVRid0w3Z0M1NzEtOA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "沙烏地阿拉伯直升機墜毀，機上14人全數罹難",
-    "zhSummary": "沙烏地阿拉伯發生一起直升機墜毀事件，造成機上包括機組人員與乘客在內的14人全部罹難，目前事故原因仍在調查中。",
-    "zhContent": "<p>沙烏地阿拉伯最近發生了一起令人震驚又悲傷的事件。根據英國廣播公司（BBC）的報導，一架直升機不幸墜毀，機上包括機組人員與乘客，總共有14名人員，全部罹難，無人生還。這消息傳出後，讓許多人感到非常難過。</p><p>這架直升機墜毀的確切地點，以及它是屬於軍用還是民用，目前在新聞報導中並未詳細提及。但可以確定的是，這起意外發生在沙烏地阿拉伯的領土內。機上載有的14人，在事故發生後都證實不幸身亡，整個機組人員與乘客都罹難，沒有任何奇蹟發生。</p><p>目前，關於直升機為何會突然墜落的原因，相關單位都還在積極調查中。例如，當時的天氣狀況如何？直升機本身是否有機械故障？或是其他可能導致意外發生的因素，這些都需要時間來仔細釐清。沙烏地阿拉伯當局應該會成立專案小組，希望能找出事故的真相。</p><p>這次直升機空難，最終的結果是機上所有14名人員全部罹難，這是一場無法挽回的悲劇。事故後續的處理，除了持續進行調查之外，也將包括對罹難者身份的確認以及對家屬的撫慰工作。目前，這起事件的詳細調查結果，仍在等待官方進一步的公布。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Saudi Arabia helicopter crash kills all 14 on board - BBC",
-    "enContent": {
-      "basic": "A helicopter crashed in Saudi Arabia, killing all 14 people on board. The news was reported by BBC.",
-      "intermediate": "Tragedy struck in Saudi Arabia as a helicopter went down, resulting in the deaths of all 14 individuals aboard. The incident was confirmed by a BBC report.",
-      "advanced": "A fatal helicopter crash occurred in Saudi Arabia, claiming the lives of all fourteen occupants. The devastating event was reported by the BBC, with authorities likely to launch an investigation into the cause."
-    },
-    "vocabulary": [
-      {
-        "word": "helicopter",
-        "zh": "直升機 (zhíshēngjī) - 一種有巨大螺旋槳的飛機，可以在空中盤旋，也能垂直起降。"
-      },
-      {
-        "word": "crash",
-        "zh": "墜毀 (zhuìhuǐ) - 飛機或車輛因為故障或意外，從空中掉下來或是猛烈撞擊地面。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-07-04",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tc0c4MS1pRlV2ZWpONzJyMWx3U2thV0tPaUN3a1BhcE9yWXA0U2xqTnE0UGxlcFd3VExfMzlhaHlyMXRaTU1oNy1hRmpfaGtFVXYwUGlMMG5QdHdl?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "亞洲為什麼還沒有自己的「太空探索科技」？大公司上市的秘密！",
-    "zhSummary": "CNBC報導點出，亞洲目前很難像美國的SpaceX一樣，培養出具有巨大創新潛力、又能成功在股市上市的「超級巨星」公司。這跟投資人的心態與市場環境有很大關係。",
-    "zhContent": "<p>你聽過SpaceX這家公司嗎？就是那個很酷、想把人類送上火星的太空探索公司！最近外國媒體CNBC就丟出一個很有趣的問題：為什麼在亞洲，我們好像還沒看到像SpaceX這樣，從一開始就很厲害，到最後能大規模上市，變成超級巨星的公司呢？原來，這背後藏著不少原因，跟「錢」怎麼流動，還有投資人想的是什麼，都有關係喔。</p><p>簡單來說，所謂「大規模上市」（Mega-IPO），就是指一家公司首次公開募股，把股票賣給大眾的時候，能募集到超級龐大的資金。像SpaceX這種公司，在它還沒上市之前，就需要投入天價的錢來研發、實驗。美國的很多「風險投資」公司就非常願意把錢投給這些看起來很未來、很夢幻，但風險也超高的點子。他們願意等很久，甚至好幾十年，就為了等待一個可能改變世界的巨大成功。</p><p>但新聞指出，在亞洲，投資人的想法可能就不太一樣了。很多亞洲的投資人會比較偏好那些風險較小、可以比較快看到成果，或是已經有穩定現金流的公司。舉例來說，投資一個成熟的電商平台，可能比投資一個要製造火箭上太空的公司，看起來「回報率」會快很多，也比較有保障。這種投資心態的差異，讓一些需要「長期燒錢」來實現大創新的公司，在亞洲比較難找到願意持續支持的伯樂。</p><p>所以，亞洲並不是沒有很棒的科技公司，只是在孕育那種「一出手就震驚世界」，而且需要超級長時間投入才能開花結果的深層科技公司時，挑戰會比較大。這種現象反映了不同市場在看待創新、風險和投資報酬上的思維差異。這也讓大家開始思考，如果亞洲也想有自己的SpaceX，可能需要在資金和創新文化上，有更多的彈性與突破。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Why Asia Still Struggles to Create Its Own Mega-IPOs Like SpaceX",
-    "enContent": {
-      "basic": "This news from CNBC talks about why Asian companies find it hard to become huge, well-known public companies like SpaceX. It's about how money is invested and what investors are looking for.",
-      "intermediate": "CNBC reports on the challenges Asia faces in developing \"mega-IPOs\" akin to SpaceX. This involves factors such as venture capital investment strategies, investor risk appetite, and the broader market environment, which often favor quicker returns over long-term, high-risk, deep-tech innovation.",
-      "advanced": "The CNBC article highlights a persistent challenge within Asian markets concerning the emergence of \"mega-IPOs\" comparable to transformative entities like SpaceX. This disparity is often attributed to differing venture capital ecosystems, investor preferences for shorter-term returns over long-duration, high-capital-intensity innovation, and a prevailing risk aversion that contrasts with the more speculative investment culture found in Western markets. The implication is a need for evolving financial and cultural landscapes to foster such disruptive innovation."
-    },
-    "vocabulary": [
-      {
-        "word": "IPO",
-        "zh": "首次公開募股。當一家公司第一次把自己的股票拿出來賣給大眾的時候，就叫做IPO，通常是為了募集更多錢來發展。"
-      },
-      {
-        "word": "Venture Capital",
-        "zh": "風險投資。專門投資那些剛起步、成長潛力很大但風險也高的公司（通常是新創公司）的錢，希望它們未來能賺大錢。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-07-04",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTE9BS0dYcEFUb2JaNjlpcHBKdXllSTN3dTFKR1ZDMEx0QkJ1U1Z0LXJOdHBOcDZyT2Z5eTJ4Y09IVVhKS1hISTljeGF2SkMxMmpSeFFfYlVtRVZJb05HZ2E0bzRVMjMzaU1nMkNFVHc1aE5mSzk1ZDhKZER5MEZpYmdaVHNRbzJsaWZsc2NqR0lPczVVRWhzQXpEQ2x4bGvSAaQBQVVfeXFMTmxjb1NoYy1JREZ0alh5ZVZKME5nam00eUFLOXVha2ZxOVpWRDdoZTJyemk1UmI1dk5sclI1SUxodzVuM09rTlpMRUx5YlJnbEktZ25VNGFvQ2VJOXgtT1E2bzFja2ZaZk1BWkEtTFZpOFVXVXFXVUtsV2lpdTlwMmNyN2taZzlQWEdVckZSYmM3bzlPeS14N1BSaV93UWpFX2lXREw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "伊朗危機引發油市震盪，亞洲各國加速能源大盤點！",
-    "zhSummary": "中東地區的伊朗因國際制裁，導致其石油出口受限，全球油價因此波動。對能源需求極大的亞洲國家正密切關注這場危機，並重新思考如何確保能源供應的穩定性。",
-    "zhContent": "<p>最近，中東地區的伊朗發生了一些緊張狀況，這讓全球的石油市場跟著震盪不安。特別是亞洲地區，因為對能源的需求量非常大，所以這場「伊朗危機」讓許多國家都開始思考，萬一石油供應出了問題，該怎麼辦才好？</p><p>具體來說，這場危機主要是因為國際社會對伊朗實施了經濟制裁，限制了伊朗的石油出口。伊朗是全球主要的產油國之一，當他們的石油無法順利賣到國際市場時，全球的石油供應量就減少了，這自然會導致油價上漲，也會讓一些原本依賴伊朗石油的國家感到頭痛。</p><p>為什麼亞洲國家對這件事特別敏感呢？這是因為亞洲經濟發展快速，工廠需要大量電力，汽車和交通工具也需要汽油，所以亞洲大部分國家都非常依賴進口石油來維持運作。伊朗的石油供應一旦不穩，就像是抽走了亞洲經濟的骨幹一樣，影響非常巨大。各國政府和企業都在密切觀察，並尋找替代方案，以確保能源的穩定。</p><p>因此，這場來自中東的能源風暴，讓亞洲各國不得不重新檢視自己的能源政策。它提醒大家，過度依賴單一的能源來源是有風險的。許多國家因此開始加速尋找更多樣化的能源供應商、研究發展再生能源，或是增加國內的石油儲備，以避免未來再次面臨類似的挑戰。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，亞洲國家為什麼會對伊朗的石油供應問題感到緊張？",
-      "生活與未來：你覺得如果石油價格因為國際事件而大幅上漲，對我們日常生活中會造成什麼實際影響？",
-      "獨立思考提案：針對確保能源供應穩定這個目標，除了尋找替代能源，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Iran Crisis Shakes Global Oil Market, Asia Rushes for Energy Reassessment",
-    "enContent": {
-      "basic": "A crisis involving Iran has made Asian countries concerned about their energy supply. Sanctions on Iran have affected oil exports, leading to worries about oil prices and stable energy for Asian nations that rely heavily on imports.",
-      "intermediate": "Recent tensions and international sanctions on Iran, a major oil producer, have disrupted global oil markets. This 'Iran crisis' highlights the vulnerability of energy-hungry Asian economies, which depend heavily on imported oil. The situation prompts Asian nations to re-evaluate their energy security strategies and diversify energy sources.",
-      "advanced": "The geopolitical ramifications of the Iranian crisis, primarily stemming from international sanctions curtailing its oil exports, have sent ripples through the global energy landscape. For rapidly developing, energy-dependent economies across Asia, this situation serves as a critical lesson in energy security. It underscores the imperative for diversification of energy supply chains and robust strategic reserves to mitigate the risks associated with regional instabilities and single-source dependencies."
-    },
-    "vocabulary": [
-      {
-        "word": "sanctions",
-        "zh": "制裁：指國際上對一個國家施加的限制，通常是經濟上的手段，目的是為了阻止該國採取某種行動或遵守國際規範。"
-      },
-      {
-        "word": "diversify",
-        "zh": "多樣化：指將資源或投資分散到不同的種類或領域，以減少單一來源可能帶來的風險。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-07-04",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WczFYclVJTU9ENHo3ejJOcmVxeml2TXNKVEd2RU0yM2xIRWRJbTQxSXVBS25wV2xDU0l0SzR3UDBBVC1nWTJ0Yjg4cURDUGxicnFaUlRmTWhGaDR5UlliYy1taFFwMlBnSlZOWVltamJWMnRGNXc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國要自己顧家？索羅門總理：區域安全協議獲廣泛支持",
-    "zhSummary": "索羅門群島總理表示，越來越多太平洋島國支持簽署一份「太平洋地區安全協議」，旨在讓區域國家共同合作，自行管理並維護此區的和平與安全。",
-    "zhContent": "<p>索羅門群島的總理最近有個重要的說法，他提到現在有越來越多太平洋地區的國家，都支持要簽訂一份「太平洋地區安全協議」。這聽起來好像有點複雜，但簡單來說，就是太平洋上的這些國家，希望可以一起合作，共同維護這個區域的和平與安全。總理的這番話，讓大家開始關注太平洋島國之間的合作關係，以及他們如何看待自己家園的安全問題。</p><p>究竟什麼是「安全協議」呢？其實它就像是很多朋友約好要一起做一件事，但在國家之間，這件事通常是指互相幫忙，確保大家的安全，像是共同打擊犯罪、應對自然災害，或是處理一些可能造成不穩定的事情。索羅門群島的總理指出，現在各國對於這種跨區域的合作意願越來越高，顯示他們認為單一國家面對挑戰可能不夠，需要大家團結起來力量才更大。</p><p>總理強調，這份協議的主要目標是讓太平洋地區的國家，能夠自己決定並管理這個區域的安全事務，而不是完全依賴其他大國。他認為，如果大家能共同努力，建立一個穩固的區域安全架構，就能更好地保護各自的利益和人民。這種想法代表著太平洋島國希望在國際舞台上，擁有更多自主權和話語權。</p><p>目前，這份「太平洋地區安全協議」還處在討論和累積共識的階段。總理的發言顯示，這項提議得到了越來越多國家領導人的支持與肯定。雖然具體的內容和實施方式還需要更多國家坐下來詳細討論，但這項提案已經讓太平洋地區的未來安全合作，開啟了一個新的方向。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Solomon Islands PM: Growing Support for Pacific-Wide Security Agreement",
-    "enContent": {
-      "basic": "The leader of the Solomon Islands, Prime Minister Manasseh Sogavare, said that more and more countries in the Pacific are agreeing to a new plan. This plan is called a \"Pacific-wide security agreement.\" It means countries in the Pacific want to work together to keep the region safe and peaceful. The Prime Minister's words are making people think about how Pacific island nations will work together for their safety.",
-      "intermediate": "Solomon Islands Prime Minister Manasseh Sogavare has announced that there is increasing backing for a \"Pacific-wide security agreement\" among nations in the region. This proposed agreement aims to foster collaboration between Pacific island countries to collectively manage and uphold regional peace and security. Sogavare's statement highlights a growing desire for regional self-reliance in security matters, prompting discussions about future cooperation among these island nations.",
-      "advanced": "Solomon Islands Prime Minister Manasseh Sogavare has indicated significant momentum behind a proposed \"Pacific-wide security agreement,\" asserting that support is broadening among regional nations. This initiative seeks to establish a multilateral framework allowing Pacific island states to collectively address and govern their security concerns, thereby enhancing regional stability and autonomy. Sogavare's pronouncement underscores a strategic shift towards greater indigenous ownership of Pacific security architecture, potentially recalibrating existing external security partnerships."
-    },
-    "vocabulary": [
-      {
-        "word": "agreement",
-        "zh": "協議 (ㄒㄧㄝˊ ㄧˋ) - 指的是大家約好要一起做什麼事情，或是對某件事達成共識。就像你和朋友約定週末要一起打球，這就是一個小小的協議。"
-      },
-      {
-        "word": "security",
-        "zh": "安全 (ㄢ ㄑㄩㄢˊ) - 指的是保護自己或國家，讓大家覺得安心、沒有危險的狀態。像警察保護大家，就是為了維持社會安全。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-07-04",
-    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVdPRGRiM0dsYzVhNk12NGhpNTZEUFRVNFhJNTBWaF8xSjctWVRYVVhHbldRRXI1VjNhQnFPQWIwUHd2T1dkdkdjWDFUMGZ1UGUtSHN3QmhZU05KekNJNEpVQjI4Q1YzQk9xOHNWYzAwSlloaldOWU1wS0Q0MENCN2JCLVpKMHplRjB2M1Q2a3BfOGxiWlpDeFJuVGxuSzJycy1tYXo1X19oWWFS?oc=5",
     "isFeatured": false
   }
 ]
