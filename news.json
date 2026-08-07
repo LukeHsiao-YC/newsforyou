@@ -1,27 +1,97 @@
 [
   {
-    "zhTitle": "一夜之間湧入七萬人：西班牙休達的邊境危機",
-    "zhSummary": "這則新聞報導了西班牙在北非的飛地休達，某晚突然湧入七萬多名來自摩洛哥的移民。事件背後涉及西班牙與摩洛哥的政治爭議，導致邊境管制突然鬆懈，引發了一場大規模的偷渡潮，最終西班牙派軍隊處理，並將大部分移民遣返。",
-    "zhContent": "<p>「Hello World」的讀者們，大家好！今天要聊一個發生在歐洲邊界的大新聞。想像一下，一個晚上突然有七萬多人湧進一個小城市，會是什麼景象？這不是電影，而是真實發生在西班牙的「休達」（Ceuta）。休達是西班牙在北非海岸的飛地，像一座小島被別國包圍，與摩洛哥接壤，也是許多非洲移民夢想進入歐洲的門戶。</p><p>這起事件發生在一個五月天，當時摩洛哥的邊境管理突然變得非常鬆懈。數以萬計的人抓住了機會，從摩洛哥海岸湧向休達。他們中有些是年輕人，有些是家庭，甚至還有孩子，許多人徒步或游泳穿越海灣，試圖登上西班牙領土。報導指出，大約七萬兩千人幾乎一夜之間湧入休達。這些人懷抱著「西班牙夢」，希望能到歐洲尋找更好的生活，過程中，部分人為避免被遣返，還銷毀了身分證件，成了無從辨認的「焚證者們」。</p><p>這場大規模偷渡潮並非偶然。許多國際媒體聚焦事件背後的政治原因。當時，西班牙政府接收了一位重要的西撒哈拉分離主義領袖到西班牙治療，這讓摩洛哥感到非常不滿。西撒哈拉地區的地位，一直是西班牙與摩洛哥之間的敏感問題。因此，有人認為摩洛哥可能藉由放鬆邊境管制，表達對西班牙的不滿，這間接引發了偷渡風暴，讓數萬移民成為兩國外交角力下的受害者。</p><p>面對大量移民瞬間湧入，西班牙政府迅速採取行動。他們派軍隊與數百名警察前往休達維持秩序，並加強邊境巡邏。大部分移民抵達後不久，便被西班牙當局遣返回摩洛哥。只有少數未成年人或特別脆弱的個案，才被允許暫時留在西班牙。這場邊境危機不僅造成休達巨大壓力，也迅速演變成西班牙與摩洛哥之間的外交風暴，讓這塊歐洲在北非的飛地，成為國際關注焦點。</p>",
+    "zhTitle": "足球世界盃收益怎麼分？FIFA賣錢計畫遭各國反對喊停！",
+    "zhSummary": "國際足球總會（FIFA）主席英凡提諾曾提出一項高達250億美元的巨大計畫，想透過出售世界盃等賽事的商業權利來募資，但這項提案因為歐洲和亞洲等主要足球聯盟的強烈反對，最終只能暫時擱置。",
+    "zhContent": "<p>最近在國際足球界，發生了一件讓許多人討論的「錢」事。國際足球總會（FIFA）的主席英凡提諾（Gianni Infantino）提出了一個非常龐大的計畫，他希望能籌集到高達250億美元的資金，這筆錢是為了發展兩項新的足球賽事：一個是擴大版的俱樂部世界盃，另一個則是全新的「國家聯賽」。</p><p>根據這項計畫，英凡提諾打算將這些新賽事以及現有的世界盃等大型比賽的商業權利，出售給一個由匿名投資者組成的國際財團，時間長達12年。聽起來是不是很厲害？想像一下，國際足總將會因此握有這筆鉅額資金，用於推動足球運動在全球的發展。這個提案一被提出，立刻引起了廣泛關注。</p><p>不過，這個「賣錢」的計畫並沒有受到所有人的歡迎。特別是歐洲足球總會（UEFA）和亞洲足球聯盟（AFC）等重要的地區組織，都對此表達了強烈的反對意見。他們認為這個計畫太過倉促，而且整個提案的過程也不夠透明公開，讓大家不清楚資金的來源和未來的運用方式。此外，這些組織也擔心，如果國際足總將商業權利賣斷，會讓他們對足球賽事的控制權和收益分配產生巨大影響。</p><p>面對歐洲足總和亞足聯等主要力量的聯合反彈，英凡提諾主席最終宣布，他將把這項高達250億美元的巨型募資計畫從談判桌上撤下，也就是說，這個計畫目前已經被喊停了。未來會不會有新的類似提案，目前還不得而知，但至少現在，關於世界盃收益的出售爭議，暫時告一段落。</p>",
     "scaffold": [
-      "觀察與識讀：這則新聞中西班牙與摩洛哥的邊界發生了什麼事？為什麼會有這麼多人選擇冒險偷渡？",
-      "生活與未來：你覺得這類大規模移民事件，會對接收國（例如西班牙）和移民來源國（例如摩洛哥）造成什麼實際影響？",
-      "獨立思考提案：針對這次事件，如果國際社會想要幫助這些移民，你覺得還可以怎麼做會更好？"
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
     ],
-    "enTitle": "70,000 Migrants Arrive Overnight: Spain's Ceuta Border Crisis",
+    "enTitle": "FIFA Halts $25 Billion World Cup Revenue Deal After Pushback From UEFA and AFC",
     "enContent": {
-      "basic": "Hello World readers! Imagine over 70,000 people suddenly arriving in a small city overnight. This happened in Ceuta, a Spanish city in North Africa, bordering Morocco. Ceuta is a gateway for many African migrants dreaming of reaching Europe. In May, Morocco's border control suddenly relaxed. Thousands of people seized this chance, walking or swimming across the bay to Ceuta. Around 72,000 people arrived in one night, hoping for a better life in Europe. Some even destroyed their ID papers to avoid being sent back. This mass migration was not random. Spain had angered Morocco by hosting a leader from Western Sahara. Many believe Morocco loosened border control to show its displeasure, making the migrants caught in a political fight. Spain quickly sent military and police to Ceuta. Most migrants were sent back to Morocco. Only a few minors or vulnerable people were allowed to stay temporarily. This crisis became a big diplomatic issue between Spain and Morocco.",
-      "intermediate": "Hello World readers! Today we're discussing a significant border event in Europe. Picture over 70,000 individuals suddenly descending upon a small city in a single night. This wasn't a fictional scenario but a real occurrence in Ceuta, a Spanish enclave located on the North African coast, sharing a border with Morocco. Ceuta serves as a crucial entry point for numerous African migrants aspiring to reach Europe. The incident unfolded in May, when Morocco's border management unexpectedly became lax. Tens of thousands capitalized on this opportunity, surging from the Moroccan coastline towards Ceuta. These migrants, including young people and families, often trekked or swam across the bay to enter Spanish territory. Reports indicated approximately 72,000 people arrived almost overnight, driven by the 'Spanish dream' of a better life in Europe. Some even resorted to destroying their identification documents to prevent repatriation, becoming 'document burners'. This large-scale influx was not accidental. International media highlighted underlying political tensions. Spain had drawn Morocco's ire by admitting a key Western Sahara separatist leader for medical treatment. The status of Western Sahara is a sensitive issue between the two nations. It's widely believed Morocco eased border controls as a retaliatory measure, inadvertently sparking this migratory 'storm' and turning thousands of migrants into pawns in a diplomatic struggle. In response to the sudden surge, the Spanish government deployed military personnel and hundreds of police officers to Ceuta to maintain order and reinforce border patrols. The majority of migrants were promptly repatriated to Morocco. Only a limited number of unaccompanied minors or particularly vulnerable individuals were granted temporary asylum in Spain. This border crisis not only imposed immense pressure on Ceuta but also rapidly escalated into a major diplomatic dispute between Spain and Morocco, drawing global attention to this European enclave in North Africa.",
-      "advanced": "The 'Hello World' column brings to light a profound and complex humanitarian crisis that recently unfolded at Europe's periphery. Envision the staggering spectacle of over 70,000 individuals converging upon a diminutive urban center within a mere twenty-four-hour span. This extraordinary event materialized in Ceuta, a Spanish exclave strategically positioned on the North African coast, contiguous with Morocco. Ceuta, an isolated European outpost, functions as a critical nexus for countless African migrants driven by the aspirational 'Spanish dream' of socio-economic betterment within the European Union. The precipitating incident occurred in May, when a sudden and unprecedented relaxation of Moroccan border enforcement protocols was observed. Seizing this ephemeral window of opportunity, tens of thousands of individuals, a diverse demographic encompassing youth, families, and even children, embarked on perilous journeys, traversing the bay either on foot or by swimming, aiming to access Spanish sovereign territory. Comprehensive reports documented an astonishing influx of approximately 72,000 individuals, virtually overnight, into Ceuta. These migrants, propelled by the promise of enhanced prospects, reportedly engaged in the deliberate destruction of their identification documents—a practice earning them the epithet 'document burners'—to complicate potential repatriation efforts. The genesis of this monumental migratory wave was anything but spontaneous. A consensus among international media outlets pointed to a deeply entrenched political dynamic as the root cause. Spain's decision to provide medical asylum to a prominent leader of the Western Sahara independence movement had profoundly aggrieved Morocco. The contested sovereignty of the Western Sahara region represents a historically sensitive and contentious issue in Hispano-Moroccan relations. Consequently, the widespread interpretation posited that Morocco strategically loosened its border controls as a calculated diplomatic reprisal against Spain, inadvertently unleashing this unprecedented migratory 'storm' and rendering tens of thousands of vulnerable individuals collateral in a geopolitical chess match. In the immediate aftermath of this overwhelming surge, the Spanish government initiated a robust, decisive response. Military units were deployed alongside hundreds of police officers to Ceuta, tasked with restoring order and bolstering border security. The overwhelming majority of the newly arrived migrants were expeditiously processed and repatriated to Morocco. Exceptions were made for a select cohort of unaccompanied minors and demonstrably vulnerable individuals, who were afforded temporary sanctuary within Spain. This acute border exigency not only exerted immense strain on Ceuta's municipal infrastructure but also swiftly metamorphosed into a significant diplomatic imbroglio between Spain and Morocco, thereby thrusting this European exclave into the international spotlight."
+      "basic": "FIFA President Gianni Infantino had a big plan to get $25 billion for new soccer games like an expanded Club World Cup. He wanted to sell the rights to these games and the World Cup to a group of secret investors. But big soccer groups from Europe (UEFA) and Asia (AFC) didn't like the idea. They said it was too fast and not clear enough. Because of their strong opinions, FIFA decided to stop the plan for now. So, the $25 billion deal is off the table.",
+      "intermediate": "FIFA President Gianni Infantino recently proposed a massive $25 billion fundraising plan. The goal was to fund new competitions, including an expanded Club World Cup and a new Nations League. His proposal involved selling the commercial rights for these events, as well as the existing World Cup, to an unnamed international consortium for 12 years. However, this ambitious plan faced significant opposition, particularly from major continental confederations like UEFA (Europe) and AFC (Asia). They raised concerns about the rushed timeline and the lack of transparency regarding the deal and its investors. Due to this strong resistance, President Infantino announced that the $25 billion proposal would be taken 'off the table', effectively halting the plan for the time being.",
+      "advanced": "International Federation of Association Football (FIFA) President Gianni Infantino initiated a highly ambitious, multi-billion dollar proposal aimed at generating $25 billion. The capital was intended to finance the launch of two new major football tournaments: an expanded Club World Cup and a Global Nations League. The mechanism for this funding involved the sale of commercial rights for these proposed competitions, alongside existing marquee events such as the FIFA World Cup, to an undisclosed international consortium over a 12-year period. However, this initiative encountered substantial resistance from influential regional governing bodies, notably the Union of European Football Associations (UEFA) and the Asian Football Confederation (AFC). Their objections centered on the perceived lack of due process, the expedited nature of the proposal, and insufficient transparency concerning the identities of the investors and the long-term implications for commercial control. In response to this widespread opposition, President Infantino declared that the $25 billion proposal would be withdrawn from consideration, thereby indefinitely pausing the controversial monetization scheme."
     },
     "vocabulary": [
       {
-        "word": "enclave",
-        "zh": "飛地（ㄈㄟ ㄉㄧˋ）- 指一個國家的一部分領土，被另一個國家的領土完全包圍，就像西班牙在北非的休達一樣。"
+        "word": "Revenue",
+        "zh": "收益（ㄕㄡ ㄧˋ）：一家公司或組織透過銷售商品或提供服務所賺到的全部錢。簡單來說，就是「賺進來的總金額」。"
       },
       {
-        "word": "migrant",
-        "zh": "移民（ㄧˊ ㄇㄧㄣˊ）- 指為了尋找更好的生活、工作或逃避困難，從一個地方搬到另一個地方的人。"
+        "word": "Transparency",
+        "zh": "透明度（ㄊㄡˋ ㄇㄧㄥˊ ㄉㄨˋ）：指事情處理的公開程度，讓大家能夠清楚地了解所有細節、資訊和決策過程，沒有隱瞞。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-08-07",
+    "sourceName": "公視新聞網PNN",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QOUhwNjRHa0VKUmxGMjR1alA4ZmZtTmhZMG1kRDR0TDZjY0NsakZQc0FkcW55aFYzT0pMVWRfZW1sVGg1V2NZZU9PRXlOTTg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "科技戰與外交平衡：阿根廷總統在美中兩大國間「走鋼索」",
+    "zhSummary": "這則新聞主要講了兩件事：一是美國和中國因為華為公司的科技爭議再次互嗆；二是阿根廷的新總統米雷伊，如何在美國和中國這兩個大國之間，努力保持好關係，不偏袒任何一方。",
+    "zhContent": "<p>最近，國際上有兩個熱門話題引起了大家的注意。第一件是美國和中國，這兩個世界大國又因為一家名叫「華為」的科技公司，語氣很重地互相指責。中國覺得美國對華為公司的限制很不公平，是在打壓他們的高科技發展；而美國則堅持這些限制是為了國家安全，雙方各執一詞，讓科技領域的競爭火藥味十足。</p><p>同時，遠在南美洲的阿根廷，他們的新總統米雷伊，則正在小心翼翼地扮演一個「平衡者」。他知道，無論是美國還是中國，對於阿根廷的經濟發展都非常重要。美國是阿根廷傳統的盟友，而中國則是阿根廷重要的貿易夥伴和投資來源國。</p><p>所以，儘管美國和中國之間關係緊張，總統米雷伊還是努力地想跟兩邊都保持友善的互動，希望阿根廷能從這兩個大國都得到好處，而不會因為選邊站而失去機會。這就像走鋼索一樣，必須非常小心，才能讓兩邊都滿意，不偏不倚。</p><p>總結來說，這兩件事都顯示出國際政治和經濟關係的複雜性。美國和中國在科技上的競爭依然激烈，而像阿根廷這樣的國家，就必須在兩大強權之間謹慎地尋求平衡點，努力維護自己的國家利益。目前看來，這場科技戰的你來我往以及各國的外交平衡術，都還會持續下去。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國、中國和阿根廷各自在忙些什麼？它們之間有什麼關聯？",
+      "生活與未來：你覺得阿根廷總統米雷伊這種「兩邊都不得罪」的做法，對阿根廷的經濟和外交會有什麼實際影響？",
+      "獨立思考提案：如果有一個國家在國際舞台上遇到類似的壓力，你覺得它還可以怎麼做來保護自己的利益？"
+    ],
+    "enTitle": "China-US Huawei Dispute Heats Up as Argentina's Milei Navigates Delicate Balance",
+    "enContent": {
+      "basic": "China and the United States are arguing again over Huawei, a big technology company. China says the US is unfair, but the US says it's about safety. Far away, Argentina's new leader, President Milei, is trying to be friends with both America and China. He needs help from both countries for Argentina's economy. It's like walking a tightrope to keep everyone happy.",
+      "intermediate": "Tensions are rising between China and the US concerning Huawei. China has voiced strong disapproval of US restrictions on the tech giant, which it views as unfair competition. The US, however, maintains these actions are crucial for national security. Meanwhile, Argentina's President Milei is attempting to balance his country's relationships with both Washington and Beijing. Argentina relies on both nations for trade and investment, making it vital for Milei to maintain friendly ties with both powerful economies without taking sides.",
+      "advanced": "The ongoing technological rivalry between China and the United States has seen renewed friction over the Huawei dispute, with China robustly rebuking US restrictions that it deems unfair and protectionist. Conversely, Washington reiterates its stance that these measures are essential for safeguarding national security interests. Against this backdrop, Argentina's President Milei is engaged in a delicate diplomatic balancing act, strategically navigating his country's relationships with both global powers. Given Argentina's economic dependence on both American investment and Chinese trade, Milei's administration aims to foster amicable relations with both to maximize national benefit while avoiding entanglement in their geopolitical competition."
+    },
+    "vocabulary": [
+      {
+        "word": "rebukes",
+        "zh": "「譴責」或「指責」。想像你做了一件大家覺得不對的事，被大人很嚴肅地罵了一頓，那個「罵」或「指責」就是 rebuke 的意思。在這裡是指中國很嚴厲地批評美國。"
+      },
+      {
+        "word": "balances ties",
+        "zh": "「平衡關係」。就像你同時要和兩個好朋友一起玩，要讓他們兩個都開心，不覺得你偏心誰。這裡是指一個國家努力和兩個不同的大國都保持好關係，不得罪任何一方。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-08-07",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmNobXRadG1wY3F1N1l3MXBDRkxfQW9PX1VWb0VsQjhEQkpwNXRROGpWMmpSZ2h4cDVwdWhBekVzSU1MWDRkb044NmVEWFM0LXRPZllzQ0JocFRENXVjaWVIckEtc2lDcVVPZEwtWFNubzB3UW4tcmp6a2ZFd2pPZktyMEtXSG5tbHlUNG5ueEM3Rzc5YWRiaVhBTnZYX0xzd1lQT0xST3g3bHNFYTAxcGxaV1FkZGVFTnRNOXhJaVRlVkI3RW9jSUlRVUctT0JKVUE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "波蘭女將征服「禿山」，環法女子賽Niewiadoma-Phinney勇奪總成績領先！",
+    "zhSummary": "在今年的環法女子自行車賽中，波蘭選手Katarzyna Niewiadoma-Phinney成功挑戰了艱難的馮杜山賽段，不僅拿下單站冠軍，更因此躍居總成績排名的第一位。",
+    "zhContent": "<p>最近，在備受矚目的環法女子自行車賽中，有一位選手表現特別亮眼。她就是來自波蘭的Katarzyna Niewiadoma-Phinney。在挑戰被稱為「普羅旺斯巨人」的馮杜山（Mont Ventoux）賽段時，她不僅以驚人的毅力贏得了這個單站的冠軍，更因為這次勝利，一舉登上了賽事總成績榜的第一名，成為目前領先的選手。</p><p>環法自行車賽是世界上最艱難、也最受歡迎的自行車賽之一，女子組的賽事同樣精彩刺激。馮杜山是環法賽中最具傳奇色彩的山峰之一，以其光禿禿的山頂和變幻莫測的天氣聞名，對選手來說是極大的考驗。這個賽段的挑戰性在於，選手們必須不斷向上攀爬，身體與意志力都得承受巨大壓力。Katarzyna Niewiadoma-Phinney正是在這樣嚴苛的環境中，展現了她過人的實力。</p><p>根據報導，Katarzyna Niewiadoma-Phinney在這場關鍵的馮杜山賽段中，展現了精準的戰術和卓越的體能。她在關鍵時刻發動攻勢，成功甩開了競爭對手，獨自衝向終點線。這不僅讓她贏得了這個極具分量的單站冠軍，也讓她在總成績上累積了足夠的優勢。她在爬坡路段的表現尤其出色，證明了她是這場賽事中不可忽視的頂尖選手。</p><p>目前，Katarzyna Niewiadoma-Phinney已經成功將黃色領騎衫（代表總成績第一的選手所穿的車衣）穿在身上，這對她和她的車隊來說是極大的榮譽。這表示她暫時是整個環法女子自行車賽中表現最出色的選手。然而，自行車賽的每一天都充滿變數，接下來的賽段她仍然需要保持最佳狀態，才能繼續保有領先優勢，甚至最終贏得這項大賽的總冠軍。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Katarzyna Niewiadoma-Phinney為什麼會登上總成績第一名？她是在哪裡贏得比賽的？",
+      "生活與未來：你覺得她這次的勝利，會對她個人、她的車隊以及環法女子自行車賽帶來什麼樣的實際影響？",
+      "獨立思考提案：針對這個比賽的「山地賽段」規定，你覺得還可以怎麼做會更好？例如在路線設計、補給策略等方面。"
+    ],
+    "enTitle": "Katarzyna Niewiadoma-Phinney Conquers Mont Ventoux, Takes Overall Lead in Tour de France Femmes",
+    "enContent": {
+      "basic": "Katarzyna Niewiadoma-Phinney from Poland won a stage at the Tour de France Femmes. She climbed Mont Ventoux, a very difficult mountain, and is now in first place overall in the race.",
+      "intermediate": "Polish cyclist Katarzyna Niewiadoma-Phinney achieved a significant victory in the Tour de France Femmes. By winning the challenging Mont Ventoux stage, she not only claimed the stage victory but also moved into the general classification lead. This tough mountain climb is famous in professional cycling for its difficulty.",
+      "advanced": "In a remarkable display of athleticism and strategic prowess, Poland's Katarzyna Niewiadoma-Phinney secured a pivotal stage victory on the iconic Mont Ventoux during the Tour de France Femmes. This arduous ascent, known for its demanding conditions and barren landscape, saw Niewiadoma-Phinney outpace her competitors to claim both the stage win and the coveted yellow jersey, signifying her new position as the overall race leader. The victory underscores her strong contention in this prestigious multi-stage cycling event."
+    },
+    "vocabulary": [
+      {
+        "word": "overall",
+        "zh": "總體來說、全面的。想像你在玩一個遊戲，不是看某一關的分數，而是所有關卡加起來的總分，這個總分就是你的『overall』成績。在這裡，指的是整個自行車賽所有階段加起來的總排名。"
+      },
+      {
+        "word": "stage",
+        "zh": "賽段、階段。在像自行車環法賽這樣的比賽中，比賽會分成好幾天，每天的路程就是一個『stage』。就像一個大型表演會分好幾個節目一樣，每個節目就是一個舞台或一個階段。"
       }
     ],
     "id": "r-3",
@@ -30,33 +100,33 @@
     "tagClass": "tag-human",
     "region": "歐洲",
     "date": "2026-08-07",
-    "sourceName": "報導者The Reporter",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWW9hOURsSjQtdzg5QThMQnZvV3FzTVlJZkpwbUkwdjU2ZFVxUVN5Xzl2dWRvRndUTWtOQ1psRmh5ZWJQRlI1ZU1OdG1KazZXYTNxNThveTVBSWk4cmp4WA?oc=5",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkdFJPVjN0eXNQeWl1NVdPWmkzaURsMzBEUmk5ZzNsbS0zU1ZKNVZ5MDlZWmpFRV9DOEpnTjB6OUZGcEdHenp5MDV2OWVIbHZyUnd2U3phZnp4LTMtaFpIdGZPWGJNUQ?oc=5",
     "isFeatured": false
   },
   {
-    "zhTitle": "非洲草原的極速獵手：牠像狗卻不是狗！",
-    "zhSummary": "BBC野生動物雜誌揭露了一種非洲的神秘動物。牠外形似狗，跑速可達每小時72公里，是這片大陸上最有效率的獵手，但牠既不是狼也不是狗。這篇報導將帶你認識牠的真實身份與驚人秘密。",
-    "zhContent": "<p>你知道非洲大地上有一種動物，牠看起來像狗，跑起來卻像風一樣快，時速能衝到驚人的72公里，而且牠還是非洲最厲害的獵手嗎？更特別的是，牠既不是我們熟悉的狗，也不是兇猛的狼。這不是什麼科幻故事，而是來自BBC野生動物雜誌的真實報導。牠們就是「非洲野犬」，一種外表獨特、合作無間的群體獵食者，在廣闊的非洲草原上，牠們用獨特的生存方式證明了自己的非凡。</p><p>非洲野犬有著非常容易辨識的外形：牠們身上長滿了不規則的黑、棕、白三色斑塊，就像藝術家的潑墨畫一樣，每一隻的圖案都不相同。牠們還有著又大又圓的耳朵，方便在草原上聽到細微的聲音。這些野犬通常以十幾隻為一個群體生活，團隊合作是牠們最厲害的武器。在狩獵時，牠們會分工合作，用戰術圍捕獵物，成功率高得嚇人。牠們的耐力也非常好，能夠長時間追逐獵物，直到獵物筋疲力盡。</p><p>雖然非洲野犬的英文名字裡有個「狗」（African wild dog），加上牠們的外形和社會行為有時會讓人聯想到家犬或狼，但科學家告訴我們，牠們在生物分類上其實自成一格。牠們屬於犬科動物，但和狼以及家犬的血緣關係並不那麼近。牠們是經過漫長演化，適應非洲特殊環境而來的一個獨特物種。不幸的是，因為棲息地喪失、人類活動以及疾病等原因，非洲野犬的數量正在急劇減少，牠們已經被列為瀕危物種。</p><p>目前，全球的保育團體和科學家們都在努力研究非洲野犬，並採取各種措施來保護牠們。這包括建立野生動物保護區，以及推廣相關知識，讓更多人認識這種獨特的動物。這篇來自BBC的報導，正是希望大家能夠更了解非洲野犬的真實面貌，不再因為牠們的外形而產生誤解，並且意識到牠們在生態系統中扮演的重要角色。對牠們的保護工作仍在持續進行中。</p>",
+    "zhTitle": "「斯普林博克斯隊深藏不露！」隊長柯利西傷癒歸隊，盛讚南非橄欖球隊實力雄厚",
+    "zhSummary": "南非國家橄欖球隊隊長西亞·柯利西在阿根廷傷癒復出，他對球隊板凳深度和整體實力讚譽有加，顯示隊伍即使面對關鍵球員受傷也能保持強勁。",
+    "zhContent": "<p>南非國家橄欖球隊「斯普林博克斯隊」（Springboks）的隊長，也就是大家很熟悉的西亞·柯利西（Siya Kolisi），最近終於在阿根廷的比賽中傷癒歸隊了！這次回歸讓很多球迷都超興奮，而柯利西隊長本人也特別強調，他對球隊目前展現出來的實力「深度」感到非常驕傲。</p><p>大家可能知道，柯利西之前因為膝蓋受傷，休養了好一陣子。他的缺席對球隊來說是個不小的考驗，畢竟他是隊上的靈魂人物。不過，在他養傷期間，球隊的其他選手表現得非常出色，證明了即使沒有隊長在場，斯普林博克斯隊依然能打出高水準的比賽，讓許多對手都不得不提防。</p><p>所謂的「深度」，在運動界裡通常指的是一支隊伍除了主力球員之外，還有很多同樣厲害、隨時能替補上場的選手。柯利西隊長對這點特別滿意，因為這代表球隊不會因為一、兩個重要球員受傷就受到巨大影響，反而能繼續保持競爭力，這對一支要面對國際大賽的國家隊來說，真的非常重要。</p><p>柯利西的歸隊無疑替南非國家隊增添了更多信心。他所強調的「深度」策略，展現了球隊不只仰賴明星選手，而是擁有許多優秀替補的實力。這次在阿根廷的歸隊賽事，讓大家看到了斯普林博克斯隊在隊長回歸後的強大陣容。</p>",
     "scaffold": [
-      "觀察與識讀：這則新聞中...？",
+      "觀察與識讀：這則新聞中隊長柯利西對球隊「深度」的讚揚，你覺得這對運動隊伍來說為什麼很重要？",
       "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
       "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
     ],
-    "enTitle": "Africa's Amazing Speedster: The Dog-Like Hunter That's Neither Wolf Nor Dog!",
+    "enTitle": "Captain Kolisi Hails Springboks' Depth Upon Injury Return in Argentina",
     "enContent": {
-      "basic": "Discover Africa's fast animal! It looks like a dog but isn't. It can run 72km/h and is a super hunter. It's called the African wild dog. It's not a pet dog or a wolf.",
-      "intermediate": "The African wild dog is a special animal in Africa. It has unique colorful fur and big ears. These dogs hunt in groups and are very good at it, which is why they are called \"Africa's most efficient killer.\" They use teamwork to catch prey and can run very fast for a long time. They are different from other dogs and wolves.",
-      "advanced": "According to BBC Wildlife Magazine, the African wild dog, despite its name and canine appearance, is a distinct species within the Canidae family, separate from wolves and domestic dogs. Renowned for its incredible speed, reaching up to 72 km/h, and highly cooperative pack hunting strategies, it is considered Africa's most efficient predator. Unfortunately, due to habitat loss and human impact, this unique animal is now an endangered species, prompting significant conservation efforts to protect its future."
+      "basic": "South Africa's rugby captain, Siya Kolisi, returned to play in Argentina after an injury. He praised his team, the Springboks, for their strong 'depth,' meaning they have many good players even when key players are hurt.",
+      "intermediate": "Springboks captain Siya Kolisi made his comeback from a knee injury during a match in Argentina. Following his return, Kolisi expressed his admiration for the South African national rugby team's impressive squad 'depth,' highlighting their ability to perform strongly even without key players.",
+      "advanced": "Following a period of recuperation from a significant knee injury, Springboks captain Siya Kolisi rejoined his national team for a match held in Argentina. Post-game, Kolisi articulated his profound appreciation for the Springboks' exceptional squad depth, emphasizing the team's resilience and robust talent pool that ensures competitive performance even in the absence of star players."
     },
     "vocabulary": [
       {
-        "word": "efficient",
-        "zh": "效率高的：做事情很厲害，用最少力氣或時間就能把事情做好。"
+        "word": "Captain",
+        "zh": "隊長：指一支運動隊伍的領導者，負責在場上帶領隊友，就像班長或小組長一樣。"
       },
       {
-        "word": "staggering",
-        "zh": "驚人的：非常令人吃驚，數字或數量大到讓人難以置信。"
+        "word": "Depth",
+        "zh": "深度：在運動中，這表示一個隊伍除了主力球員，還有很多能力接近、可以隨時上場替補的優秀選手，讓隊伍實力更堅強。"
       }
     ],
     "id": "r-4",
@@ -65,33 +135,33 @@
     "tagClass": "tag-nature",
     "region": "非洲",
     "date": "2026-08-07",
-    "sourceName": "BBC Wildlife Magazine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWoyYy12TFdTN3cyT0pJdllZbGx1NzVEemdMV0FudkZ3TjBGV21tdkdobURCOFgyNktFN1hmcXBZOVNlTjUwSDhCem1Oa1BlQjItc0ZRbnFKY3JtV01oR0szek01b3NIYVBvaE95MzB3V2tUa1ZDRGxscGhuVUI3eVpR?oc=5",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXpvX0hHNEwyeTctbU1lV3QxbXFPY2pwaDFvSWNPMW9YVV8zd3dzNG1HaW9IT0dDUUhDMzhYeHNFU1JVOTMtRU5BX3ZqNWU3by1Ta2d4eUtUSlZZamZYMzFTd0lCNWNYenVFVFhQc1FWVjJ1YUxiXzZXOTBWbjVqZjNCMkhidE9pcEVETjdVQnlEMXJ0b1ZER21SemNraFJaVUtINWM0SVk3VVky?oc=5",
     "isFeatured": false
   },
   {
-    "zhTitle": "美國暫緩攻擊伊朗，川普總統喊話：希望能快點達成協議！",
-    "zhSummary": "美國總統川普宣布，在伊朗擊落美國無人機後，美國暫時不會對伊朗發動新的軍事打擊。他希望透過暫緩攻擊，為雙方創造談判空間，盡快達成協議解決緊張局勢。",
-    "zhContent": "<p>最近，美國和伊朗之間的關係變得相當緊張。就在全球都在關注這波情勢發展，甚至擔心會有更多衝突發生的時候，美國總統川普突然出面表示，美國已經決定暫時不對伊朗發動新的軍事打擊。他的主要考量是希望藉此機會，讓雙方能盡快透過談判達成一個解決爭議的協議。</p><p>其實，這次緊張氣氛的起因之一，是伊朗軍方先前擊落了一架美國的無人偵察機。這讓美國政府非常不滿，當時一度準備要對伊朗境內的幾個目標實施報復性軍事行動。不過，就在攻擊計畫已經準備好，即將執行之前，川普總統在最後一刻決定踩下煞車，下令暫緩這次的軍事打擊。</p><p>川普總統後來解釋了他做出這個決定的原因。他提到，有情報顯示如果按照原訂計畫進行攻擊，可能會造成上百人的傷亡，而他認為這個代價實在是太高了。他更傾向於透過對話與協商來化解目前的對峙局面，避免讓整個地區的衝突進一步擴大。美國希望伊朗能重新回到談判桌，討論解決彼此分歧的方法。</p><p>所以，現在美國選擇先暫時擱置任何新的軍事行動，給予外交斡旋的空間與時間。這次暫緩攻擊的決定，也清楚傳達出美國希望能用比較和平的手段，而非武力，來處理與伊朗之間的難題。大家都在密切觀察，未來這兩國能否真正開始對話，並且找到一個長期的解決方案。</p>",
+    "zhTitle": "國際大事！沙烏地、土耳其、巴基斯坦簽署國防大協議",
+    "zhSummary": "沙烏地阿拉伯、土耳其和巴基斯坦這三個國家最近簽署了一份國防協議，建立更緊密的軍事和安全合作關係，目的是為了讓各自國家和周邊地區更加穩定與安全。",
+    "zhContent": "<p>喂，大家注意囉！最近國際上發生了一件讓許多人都在討論的大事。大家知道沙烏地阿拉伯、土耳其和巴基斯坦這三個國家嗎？他們最近簽了一個很重要的『國防協議』。你可以想像成，這三個國家決定手牽手，在軍事和安全方面互相幫忙，變成一個更緊密的團隊。</p><p>這個國防協議的簽署，可不是隨隨便便簽個名就沒事了。它代表著這些國家未來會在一系列的事情上進行合作。比如說，他們可能會一起訓練軍隊，分享一些重要的情報，或者在需要的時候，為對方的防禦提供支援。這就像是三個好朋友說好，當其中一個人遇到困難時，大家都會站出來幫忙一樣，只是這裡指的是國家的軍事力量。</p><p>那為什麼這些國家會想要組成這樣的聯盟呢？從外面媒體的報導來看，這通常是為了讓他們各自的國家以及周邊地區更穩定、更安全。每個國家都有自己需要保護的東西，像是人民的安全、經濟的發展等等。透過合作，他們希望能夠更有效地應對一些共同的挑戰，像是防範威脅，或者讓這個區域的和平更有保障。這是一種他們認為能讓大家都更好的方式。</p><p>目前，這個協議已經正式簽署，代表它已經生效。這項新的合作關係，開啟了沙烏地阿拉伯、土耳其和巴基斯坦之間一個新的篇章。未來，我們會看到他們如何將這些合作內容付諸實行，以及這對他們國家和周圍地區會產生什麼樣的影響。新聞報導就是到這裡，讓我們知道他們簽了這個重要的協議。</p>",
     "scaffold": [
       "觀察與識讀：這則新聞中...？",
       "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
       "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
     ],
-    "enTitle": "Trump Says US Will Hold Off on Fresh Iran Attack in Hope of Quick Deal",
+    "enTitle": "Three Nations Unite: Saudi Arabia, Turkey, and Pakistan Sign Defence Pact",
     "enContent": {
-      "basic": "The US and Iran had problems. Iran shot down a US drone. US President Trump said the US would not attack Iran right now. He wants to talk to Iran to make a quick deal. He thinks attacking would hurt too many people. So, the US will wait and try to talk instead of fight.",
-      "intermediate": "Tensions between the United States and Iran have been high recently. After an Iranian missile shot down a US surveillance drone, the US was ready to launch military strikes. However, President Trump decided to hold off on these attacks. He stated that a potential attack could cause many casualties, and he prefers to find a quick deal through discussions to resolve the issues peacefully. The US is now hoping for talks with Iran.",
-      "advanced": "Amid escalating tensions following Iran's downing of a U.S. surveillance drone, President Donald Trump announced that the United States would temporarily refrain from launching retaliatory military strikes against Iran. Trump indicated that he had halted an imminent attack after learning it could result in a significant number of casualties, deeming the potential cost too high. Instead, the administration's current strategy is to prioritize diplomatic efforts, expressing a desire for a swift resolution through negotiations with Tehran. This decision underscores a shift towards de-escalation, allowing space for a potential deal to address the ongoing disputes."
+      "basic": "Saudi Arabia, Turkey, and Pakistan have signed a special agreement. It means they will work together to keep their countries safe. They want to help each other with military and security things.",
+      "intermediate": "Saudi Arabia, Turkey, and Pakistan recently formed a defence pact, which is an important agreement for military cooperation. This alliance aims to strengthen their security and stability, promising mutual support in defence matters and shared intelligence.",
+      "advanced": "A significant geopolitical development has seen Saudi Arabia, Turkey, and Pakistan formalize a comprehensive defence pact. This strategic alliance underscores a collective commitment to enhancing regional stability and security through multifaceted military collaboration, intelligence sharing, and mutual assistance mechanisms. The agreement marks a pivotal moment in their diplomatic and security relations."
     },
     "vocabulary": [
       {
-        "word": "hold off",
-        "zh": "暫緩、暫停。意思是決定先等等，不要立刻做某件事。就像老師說：「先別急著交考卷，再檢查一次。」"
+        "word": "Pact",
+        "zh": "「協議、約定」。「Pact」就是指兩個或更多團體（在這裡是國家）之間，為了某個特定目的而達成的正式約定。你可以想像成大家說好要一起做某件事、互相幫忙的那種約定。"
       },
       {
-        "word": "deal",
-        "zh": "協議、約定。意思是兩方或多方討論後，達成一個共同的決定或承諾。就像朋友之間約好放學一起寫功課，這就是一個「deal」。"
+        "word": "Defence",
+        "zh": "「防禦、防衛」。「Defence」是指保護自己，對抗威脅或攻擊的行動或能力。在國家層面，通常指軍隊或安全單位用來保護國家和人民的安全。"
       }
     ],
     "id": "r-5",
@@ -100,33 +170,33 @@
     "tagClass": "tag-polecon",
     "region": "中東與中亞",
     "date": "2026-08-07",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wbWJONEhNWnZmdFd6MDA4ZHBacG0yaVlfRm5QZWZPRjFJNFphWVRjVVlTbmVQY2xzclJPNVhtR3ZVUlhiYTE0XzdJMzhrdUo3blA0djZ5eVRfRmFZ?oc=5",
     "isFeatured": false
   },
   {
-    "zhTitle": "南韓熱爆了！創下史上最熱的一天",
-    "zhSummary": "南韓在今年夏天經歷了一波嚴峻的熱浪，導致全國氣溫飆升，並創下了有氣象紀錄以來最高溫的一天。政府已發布警報，呼籲民眾注意防暑，並採取措施應對這場極端高溫。",
-    "zhContent": "<p>南韓最近經歷了一場超級熱浪！根據英國廣播公司（BBC）的報導指出，這個夏天，南韓創下了全國有氣象紀錄以來最熱的一天。這不只是一個數字，它代表著南韓民眾正實際感受到前所未有的高溫考驗，許多日常生活都因此變得不一樣。</p><p>據當地氣象單位觀測，這波熱浪讓南韓多個地區的氣溫都飆破了35度，甚至有些地方直逼40度大關。這樣的極端高溫持續了好幾天，白天時分街道上人煙稀少，大家盡可能躲進有冷氣的室內避暑。政府也緊急啟動了高溫警報，呼籲民眾減少戶外活動，尤其是在中午時段，以避免中暑等健康風險。許多學校和公共場所也紛紛調整作息時間，確保大家的安全。</p><p>氣象專家解釋，這次南韓會這麼熱，主要是因為太平洋高壓勢力特別強盛，將暖空氣持續帶到朝鮮半島。加上缺乏足夠的颱風或季風來降溫，導致熱氣不斷累積，遲遲無法散去。南韓政府也透過廣播和電視等管道，不斷提醒民眾要多補充水分，注意防曬，並提供避暑的場所資訊，像是開放公共設施讓民眾進去吹冷氣。</p><p>雖然南韓政府和民眾都盡力應對這波熱浪，但極端高溫的影響仍在持續。目前，氣象預報顯示高溫天氣預計還會延續一段時間，當局也持續密切監測氣溫變化。所有官方單位都嚴陣以待，隨時準備提供協助，確保人民的生命財產安全。這場創紀錄的熱浪，確實讓南韓度過了一個異常炎熱的夏天。</p>",
+    "zhTitle": "科技股大地震！華爾街AI股一跌，亞洲市場也跟著晃動？",
+    "zhSummary": "最近，美國華爾街的人工智慧（AI）公司股票價格下跌，連帶影響了亞洲的科技股市場，其中韓國的SK海力士股價更是一度大跌10%。這顯示全球科技產業的緊密連結。",
+    "zhContent": "<p>嘿，各位科技迷們，最近亞洲的股票市場出現了一個不小的震盪！事情是這樣的：美國華爾街那邊，一些跟人工智慧（AI）有關的大公司，他們的股票價格突然跌了下來。結果呢，就像骨牌效應一樣，亞洲地區的科技公司股票也跟著受到影響，價格跟著往下掉。這個消息，是從國外知名的財經媒體CNBC報導出來的。</p><p>這次下跌的影響有多大呢？以韓國的科技巨頭SK海力士（SK Hynix）為例，這家公司是全球很重要的記憶體晶片製造商。他們家的股價在這次事件中，就大幅下跌了整整10%！想像一下，一家市值龐大的公司，在一天之內，它的市場價值就少了這麼大一塊，對公司和投資者來說都是一個不小的衝擊。這顯示了市場對未來科技產品的需求可能會受到影響的擔憂。</p><p>那麼，為什麼美國AI公司的股票跌了，會這麼快就影響到遙遠的亞洲市場呢？其實，這背後有一個很重要的產業鏈關係。很多亞洲的科技公司，尤其是半導體製造商，都在生產對AI發展來說非常關鍵的零組件，像是高效能的記憶體晶片、處理器等等。這些零件是AI技術發展的基礎，而美國的AI大公司就是這些零件的超級買家。當美國的AI公司股價下跌，市場就會開始擔心，是不是他們對這些零件的需求也會減少，進而影響到亞洲這些供應商的訂單和營收，所以大家就趕快把股票賣掉，讓股價下跌。</p><p>總而言之，這起事件清楚地告訴我們，現在全球的股票市場和科技產業其實是緊密相連的。特別是像AI這種跨國的熱門技術，一個地區的發展或變動，很容易就會牽動到其他地區。這次亞洲科技股的普遍下跌，就是因為美國華爾街AI股下跌所引發的連鎖反應。目前的情況就是，市場正在消化這個消息，並且觀望後續的發展，而相關的亞洲科技公司也正經歷著這波股價的下修。</p>",
     "scaffold": [
       "觀察與識讀：這則新聞中...？",
       "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
       "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
     ],
-    "enTitle": "South Korea Sizzles: Hottest Day on Record Due to Extreme Heatwave",
+    "enTitle": "Tech Stock Tremors: When Wall Street's AI Shares Fall, Asia's Market Shakes Too?",
     "enContent": {
-      "basic": "South Korea recently faced a super intense heatwave, setting a new record for the hottest day ever since weather records began. Temperatures soared above 35 degrees Celsius in many areas, with some even nearing 40 degrees. The government issued heat warnings, advising people to stay indoors during the hottest parts of the day and drink plenty of water. Public places like cooling centers were opened to help people escape the heat. Forecasters expect the hot weather to continue for a while, and authorities are keeping a close eye on the situation to ensure public safety.",
-      "intermediate": "South Korea has recently experienced a severe heatwave, culminating in the recording of its hottest day since meteorological observations began. This unprecedented event saw temperatures in numerous regions exceed 35°C, with some areas approaching 40°C. In response, the government activated high-temperature alerts, urging citizens to minimize outdoor activities, particularly during midday, and to hydrate frequently. Public facilities were designated as cooling centers to provide refuge from the extreme conditions. While authorities continue to monitor the persistent high temperatures, the heatwave has significantly impacted daily life across the nation.",
-      "advanced": "South Korea has recently been subjected to a profound heatwave, culminating in a new national temperature record, surpassing all previous meteorological observations. This extreme climatic event has seen sustained temperatures well in excess of 35°C across vast regions, with localized peaks nearing 40°C. In mitigation, the government initiated comprehensive high-temperature advisories, advocating for reduced outdoor exposure, particularly during peak insolation periods, and emphasizing rigorous hydration protocols. Public infrastructure has been repurposed as cooling shelters to provide essential relief. While forecasts indicate the persistence of elevated temperatures, governmental agencies remain vigilant, continuously monitoring conditions to safeguard public welfare amidst this historically significant thermal anomaly."
+      "basic": "Recently, tech stocks in Asia dropped, with South Korean company SK Hynix falling by 10%. This happened after some big AI (Artificial Intelligence) companies on Wall Street in the US saw their stock prices go down. It shows how connected the world's tech markets are.",
+      "intermediate": "Asian tech stocks experienced a significant downturn recently, notably with SK Hynix, a major South Korean memory chip maker, seeing its share price plummet by 10%. This followed a decline in AI-related stock values on Wall Street. The event highlights the interconnectedness of global technology supply chains, where a ripple in one market can quickly impact others.",
+      "advanced": "Following a decline in the valuations of AI-centric companies on Wall Street, Asian technology stocks experienced a notable downward trend. South Korean semiconductor giant SK Hynix, a critical supplier in the global memory chip market, witnessed a sharp 10% plunge in its share price. This event underscores the intricate interdependencies within the global technology sector, demonstrating how shifts in investor sentiment or market performance in key regions, such as the US, can trigger significant reactions across interconnected supply chains and equity markets in Asia."
     },
     "vocabulary": [
       {
-        "word": "Heatwave",
-        "zh": "熱浪：指的是某個地區在一段時間內持續出現異常高溫的天氣現象。這種熱通常比平常更熱，而且時間會比較長，讓人感覺非常不舒服。"
+        "word": "plunge",
+        "zh": "急劇下跌 (jífù xiàdié) - 突然大幅度地往下掉，比方說股價在很短的時間內掉了很多。"
       },
       {
-        "word": "Record",
-        "zh": "紀錄：意思是以前從來沒有發生過、達到過的最高或最低的結果。在這個新聞裡，就是指溫度高到前所未有。"
+        "word": "stocks",
+        "zh": "股票 (gǔpiào) - 一種證明你擁有一家公司部分所有權的憑證，你可以買賣它來賺錢或賠錢，通常用來投資。"
       }
     ],
     "id": "r-6",
@@ -135,33 +205,33 @@
     "tagClass": "tag-tech",
     "region": "東北亞",
     "date": "2026-08-07",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYMXRYMXpxSlE4eUZMa3Z3dWJDSm9pMTNtTmFIOUNiX3l3YnVYa1JnZU9OZzhlQ2tHMFRjU24wMEthSVZYT2lWVDlmYWUwNjV3aHF6aDByUQ?oc=5",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1VJU0stOGEwNEVYRm5ybXhhWUpqeGprZ3IzMFJ6djQtZFRxVHVfYVN4RVRfVFVlV0tUcDZoVTlSRFBoUEJub1hfejNfdzFjd3dWaE5jUm9uMV9NbTNYT2V4WFNsVFdhQ09ENkd5N3VnRFU2aGpWRFBUZVgtM2pCNUttNTNyMk1kdndB0gGQAUFVX3lxTE4zSTdGRGlzVktTaXFUOG5KOVpDaTJ3QWZRYnFhWjF2YkVSem5zeG5VeHB6WjNVRFFiMmFRaDkxZmZST0w2WWYwdXowQnlXRlJFeVV1Nms0cjdueE5SUXFzRERUOVVfZ1NkMnM2Y0RRcngyOUJXUHh2NlM3UkJ1XzdKNEU5clZOTjVUNGVLMlR3Uw?oc=5",
     "isFeatured": false
   },
   {
-    "zhTitle": "利率變高！為何新加坡的銀行賺翻，東南亞鄰居卻在煩惱？",
-    "zhSummary": "全球利率上升，新加坡的銀行因為其穩健的經營模式和資金來源，獲利大幅增加。然而，東南亞其他國家的銀行卻面臨不同挑戰，不一定能從中受益，甚至可能承擔風險。",
-    "zhContent": "<p>最近全球經濟環境悄悄起了變化，其中一個很重要的指標就是「利率變高了」。簡單來說，就是你借錢或存錢時，付出的或得到的利息會更多。這對我們一般人來說可能只是日常消費或存款變動，但對銀行來說，可就影響大了！根據外國媒體CNBC的報導，這個利率變高的現象，對新加坡的銀行來說是個大好消息，它們可能因此賺得更多錢；但對東南亞其他國家的銀行，情況就不一定那麼樂觀了。</p><p>為什麼新加坡的銀行特別能從高利率中獲利呢？這主要跟它們的經營模式和資金來源有關。新加坡的銀行通常有大量的客戶存款，這些存款是它們借錢給別人的「本錢」。當全球利率升高時，銀行對外借貸可以收取更高的利息，但給存款戶的利息增加幅度可能沒那麼快。這樣一來，銀行賺取的「利差」（也就是借出去的利息和吸收存款利息之間的差距）就會變大，自然而然就賺更多了。</p><p>不過，東南亞其他國家的銀行卻不一定有這麼好的運氣。有些國家的銀行可能面臨不同的挑戰，例如，它們的客戶可能比較多是利率浮動的貸款，或是它們的資金來源不那麼穩定，得用更高的成本去借錢。更麻煩的是，有些國家的政府可能會為了保護民眾或經濟發展，限制銀行提高放貸利率。這樣一來，即使整體利率環境升高，這些銀行的利差也可能無法像新加坡那樣明顯擴大，甚至可能因為經濟壓力而增加潛在的壞帳風險。</p><p>所以，現在的情況是，新加坡的幾家主要大銀行，像星展銀行、華僑銀行、大華銀行，它們的業績和獲利在這樣的全球高利率環境下顯得特別亮眼。而東南亞其他地區的銀行則可能需要更謹慎地應對，確保它們在利率變化中也能穩健經營，避免潛在的風險。這說明了即使在同一個區域，不同國家的經濟結構和銀行體質，對同樣的經濟變化會有截然不同的反應。</p>",
+    "zhTitle": "曼谷近郊傳槍響！學生槍手釀七死悲劇",
+    "zhSummary": "泰國首都曼谷郊區發生嚴重槍擊案，一名學生持槍攻擊，造成至少七人死亡，震驚當地社會，警方正全面調查中。",
+    "zhContent": "<p>泰國首都曼谷附近最近發生了一起令人震驚的暴力事件。根據美國國家公共電台（NPR）的報導和當地官方消息指出，一名學生持槍行兇，造成了至少七人不幸死亡。這起突如其來的慘劇，震驚了整個泰國社會，也讓許多家庭陷入悲痛。</p><p>警方接獲報案後，立刻派遣大批警力及救護車趕往事發地點。這起槍擊案發生在曼谷的郊區，雖然具體細節仍待進一步釐清，但現場一度傳出多聲槍響，造成極大的恐慌。許多目擊者描述，現場情況非常混亂，也讓救援工作面臨挑戰。</p><p>泰國政府對此事件表達嚴正關切，並指示相關單位全力偵辦。目前，警方正試圖找出這名學生槍手的犯案動機，以及他是如何取得槍枝並發動攻擊的。調查人員也正在蒐集現場證據，訊問相關人士，希望能盡快還原事件真相，給社會一個交代。</p><p>截至目前，這起槍擊事件已經確認造成至少七人死亡的嚴重後果，還有數人受傷。當地醫院正全力搶救傷患，而警方也持續封鎖案發現場，進行深入調查。泰國官方承諾，會持續向大眾發布最新的調查進展，並對這場無情的悲劇採取後續行動，嚴肅處理。</p>",
     "scaffold": [
-      "觀察與識讀：這則新聞中，新加坡銀行與其他東南亞銀行應對利率變化的方式有什麼不同？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如銀行職員、儲戶、借款人等。",
-      "獨立思考提案：針對不同國家銀行面對利率變化有不同結果的情況，你覺得各國政府或銀行本身還可以怎麼做會更好？"
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
     ],
-    "enTitle": "Rising Interest Rates: Why Singapore's Banks Thrive While Others in Southeast Asia Struggle",
+    "enTitle": "Student Gunman Kills at Least 7 Near Bangkok",
     "enContent": {
-      "basic": "Recently, interest rates have been going up around the world. This means borrowing money costs more, and saving money earns more. Surprisingly, a report by CNBC says this is great news for banks in Singapore, but not so good for banks in other Southeast Asian countries. Singapore's banks can make more profit because they have a lot of customer savings and can charge higher interest on loans. But banks in other countries might face problems like unstable funding or government limits on how much interest they can charge. This shows that even in the same region, different countries' banks react differently to global economic changes.",
-      "intermediate": "Global interest rates are on the rise, influencing financial markets worldwide. CNBC highlights a divergence in outcomes for banks in Southeast Asia: while Singaporean banks are set to benefit significantly, their counterparts in other regional nations may not share the same fortune. Singapore's banking sector, characterized by robust funding bases from customer deposits, can widen its net interest margin—the difference between interest earned on loans and interest paid on deposits—as rates increase. Conversely, banks in other Southeast Asian countries might contend with challenges such as a higher proportion of floating-rate loans, less stable funding sources, or government caps on lending rates, which could constrain their ability to capitalize on higher interest rate environments and potentially increase risk.",
-      "advanced": "The current global landscape of escalating interest rates presents a contrasting scenario for banking sectors across Southeast Asia. According to CNBC, Singapore's financial institutions are poised to capitalize on this trend, leveraging their strong deposit bases to expand net interest margins (NIMs). The ability of Singaporean banks to command higher lending rates while managing deposit costs effectively allows for enhanced profitability. In stark contrast, banks in other Southeast Asian economies confront unique structural and regulatory hurdles. These include reliance on less stable funding, a greater exposure to fixed-rate or government-regulated loans, and potential governmental interventions that restrict their capacity to fully benefit from rising rates, thereby potentially increasing credit risk and operational pressures. This regional disparity underscores the significant influence of diverse economic structures and regulatory frameworks on banking sector resilience amidst macroeconomic shifts."
+      "basic": "A student shot and killed at least 7 people near Bangkok, Thailand. Police are investigating.",
+      "intermediate": "In a shocking incident near Bangkok, Thailand, a student gunman opened fire, resulting in the deaths of at least seven individuals. Authorities are currently investigating the motive and circumstances of this tragic event.",
+      "advanced": "Officials have confirmed that a student gunman perpetrated a mass shooting incident near Thailand's capital, Bangkok, claiming the lives of at least seven people. The incident has sent shockwaves through the community, prompting a comprehensive investigation by local authorities to ascertain the full details and underlying causes."
     },
     "vocabulary": [
       {
-        "word": "Interest Rates",
-        "zh": "利率：就是你借錢或存錢時，銀行收取的費用或支付給你的回報百分比。利率高，借錢就貴，存錢利息就多；利率低，借錢就便宜，存錢利息就少。"
+        "word": "gunman",
+        "zh": "槍手：指使用槍械攻擊別人的人。"
       },
       {
-        "word": "Net Interest Margin",
-        "zh": "利差：這是銀行賺錢的主要方式之一。簡單來說，就是銀行從別人那裡吸收存款付出的利息，和銀行借錢出去收回來的利息之間的差距。這個差距越大，銀行賺得就越多。"
+        "word": "officials",
+        "zh": "官方：指政府機關或代表政府的人員，他們會對外公布消息或執行任務。"
       }
     ],
     "id": "r-7",
@@ -170,33 +240,33 @@
     "tagClass": "tag-polecon",
     "region": "東南亞",
     "date": "2026-08-07",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MUmpJV3NXcmk1d180NkYzT1ZLNGdMak8wN1Y1emtMMXQzeXQxN2MtTkZfMmVuN1JnWkpyVDd1SXFiWFBhS1lDTW9rWWRybEthMnVQb2lYOWU5eVROb3NrTll1aXUwOG56dWNXbQ?oc=5",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUVZZWVmSDBSRHpscDJyemZiTDlNcFdkY1pfSFJwbkRfNi1tOVYtY0IwU1NHQmNXU0xabGU0TmZkc200WW1iYXQ1QWFpeEFfRG8zX0FNQ1EyYzVDTS0ybzRwNW1IbThEYlpmNHlUVU9KQWNaanBNZjNqbjNvYXFhc2xzSGd6WFdPLV9fMWdQSVltM3VaMnhNbjd6WmZySFFjYW13QTdwZ1RoYzZ0YVdSZmZ1TE5ONTR4VkpNSQ?oc=5",
     "isFeatured": false
   },
   {
-    "zhTitle": "橄欖球隊遇麻煩！巴布亞紐幾內亞欠債，恐失國際賽資格？",
-    "zhSummary": "巴布亞紐幾內亞因積欠世界橄欖球協會債務，導致其會員資格被取消。大洋洲橄欖球協會表示，PNG必須先還清債務，才能重獲會員身份，參加國際賽事並獲得資源。",
-    "zhContent": "<p>各位關心運動的朋友們，最近有個消息在橄欖球界引起關注。太平洋島國巴布亞紐幾內亞（簡稱PNG）的橄欖球運動，目前正遇到一個不小的麻煩：他們因為欠了一筆錢，竟然被世界橄欖球協會取消了會員資格！現在，大洋洲橄欖球協會已經發話，要求PNG必須先把欠債還清，才有機會重新加入世界橄欖球這個大家庭。</p><p>你可能會想，失去會員資格有這麼嚴重嗎？答案是肯定的！對於一個國家的運動協會來說，能成為世界橄欖球協會的會員非常重要。這代表他們可以參加各種國際級的比賽、獲得訓練資源和發展經費。一旦失去會員資格，PNG的橄欖球隊和選手們就沒辦法和國際上的其他強隊切磋，也得不到協會提供的各種幫助，對他們的發展影響非常大。大洋洲橄欖球協會扮演的角色，就是區域性的管理機構，他們在世界橄欖球協會的框架下運作。</p><p>根據大洋洲橄欖球協會的說法，PNG橄欖球協會是因為沒有履行他們在財務上的責任，積欠了一段時間的費用，才會導致現在的局面。這筆債務累積下來，已經影響到他們的會員資格。協會強調，這些規定都是為了確保所有會員國都能遵守國際組織的規範，讓整個橄欖球運動能夠公平、穩定地發展下去。所以，這並非針對PNG，而是所有會員都必須面對的共同規定。</p><p>所以目前的情況很清楚，如果PNG的橄欖球運動想要重新回到世界舞台，唯一的辦法就是盡快把所積欠的債務償還清。只有這樣，他們才能重新獲得世界橄欖球協會的會員身份，讓選手們有機會再次代表國家出賽，並獲得應有的資源來提升自己的實力。事件的發展，就看PNG方面何時能解決這筆債務問題了。</p>",
+    "zhTitle": "太平洋足球風雲再起！職業聯賽成OFC冠軍戰新「勝負手」",
+    "zhSummary": "大洋洲足球冠軍聯賽（OFC冠軍聯賽）將面臨新挑戰，來自澳洲等地的「職業聯賽」影響力日益加劇，其資源與專業程度可能成為未來賽事勝負的關鍵因素，對各參賽隊伍帶來衝擊與變革。",
+    "zhContent": "<p>大洋洲足球冠軍聯賽，簡稱OFC冠軍聯賽，是太平洋島國與紐西蘭足球俱樂部每年最期待的頂尖賽事。它就像是我們這一區的「足球奧運」，各國最強的球隊都會卯足全力爭奪冠軍寶座，希望能代表大洋洲去參加世界級的比賽。不過，最近有一項重要趨勢浮現，那就是「職業聯賽」的影響力，很可能將成為未來OFC冠軍聯賽中，決定勝負的關鍵因素。</p><p>這裡說的「職業聯賽」影響力，指的是來自像澳洲A聯賽這類已經非常成熟的職業足球聯盟。這些聯賽擁有更充足的資金、更先進的訓練設施，以及更高水準的專業球員和教練團。當這些來自專業聯賽的資源和經驗，透過各種方式進入到OFC冠軍聯賽的隊伍中時，無論是球隊的整體實力、戰術運用，還是球員的個人技能，都將獲得大幅度的提升。這使得比賽的競爭程度變得更加激烈，也對參賽隊伍提出了新的挑戰。</p><p>這種「職業聯賽」的影響，對整個OFC冠軍聯賽帶來了雙面效應。一方面，它無疑提升了賽事的整體水平和觀賞性，讓球迷們能看到更高品質的足球比賽。擁有更多職業球員或資源的隊伍，將更有機會在賽場上展現出驚人的實力。但另一方面，對於那些主要由業餘或半職業球員組成的太平洋小島國球隊來說，這也意味著他們將面對來自更專業對手的前所未有壓力。如何在這股強大的影響力下保持競爭力，是他們必須思考的問題。</p><p>根據外媒的分析，這種來自「職業聯賽」的影響力，預計將在接下來幾屆OFC冠軍聯賽中，扮演越來越重要的角色。這不再只是純粹的地區性足球賽事，而是逐漸朝向更高標準、更專業化的方向發展。所有參賽的球隊，無論背景如何，都已經意識到這股趨勢，並正在積極調整和準備，以應對這場即將到來的足球新局。賽事結果將不再只看球員天賦，更取決於球隊能否有效運用職業化的資源與策略。</p>",
     "scaffold": [
       "觀察與識讀：這則新聞中...？",
       "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
       "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
     ],
-    "enTitle": "Papua New Guinea Rugby Faces Membership Loss Due to Debt",
+    "enTitle": "Pacific Football Faces New Era: Pro League Influence Set to Dominate OFC Champions League",
     "enContent": {
-      "basic": "Papua New Guinea (PNG) rugby has lost its membership with World Rugby. This happened because they owe money. Oceania Rugby says PNG must pay back their debt to be allowed to join again.",
-      "intermediate": "The national rugby union of Papua New Guinea has had its membership with World Rugby revoked because of unpaid debt. Oceania Rugby, the regional governing body, has stated that PNG must settle these financial obligations before they can regain their membership status. Losing this status means they cannot participate in international competitions or receive important resources.",
-      "advanced": "The Papua New Guinea Rugby Union (PNGRU) has been stripped of its World Rugby membership, a decision stemming from its failure to clear outstanding financial debts. Oceania Rugby, acting as the continental association, has explicitly communicated that the PNGRU's reinstatement is contingent upon the full repayment of these accumulated arrears. This revocation critically impacts PNGRU's eligibility for global tournaments and its access to vital development funding and support, underscoring the necessity of financial compliance within international sports federations."
+      "basic": "The OFC Champions League is a big football competition for teams in the Pacific. News says that professional football leagues, like those in Australia, will have a very big impact on who wins this tournament in the future. This means teams with professional support might do better.",
+      "intermediate": "The Oceania Football Confederation (OFC) Champions League, the premier club football competition in the Pacific region, is expected to see a significant shift. Professional leagues, particularly the A-League in Australia, are anticipated to exert considerable influence, potentially determining key outcomes in upcoming tournaments. This could elevate the competition's standard but also pose challenges for less professionalized teams.",
+      "advanced": "The forthcoming iterations of the OFC Champions League are poised to be significantly shaped by the increasing influence of established professional football leagues, notably the Australian A-League. This development, highlighted by ABC Pacific, suggests that professional structures, financial backing, and player development pathways from these leagues will become pivotal determinants of success within the OFC's premier club competition. While potentially raising the overall quality and competitiveness of the tournament, this shift is also likely to intensify the disparities between fully professional or semi-professional teams and those from smaller island nations with more amateur setups. Clubs are now strategizing how to adapt to this evolving landscape to maintain their competitive edge."
     },
     "vocabulary": [
       {
-        "word": "Membership",
-        "zh": "會員資格 (huìyuán zīgé) - 就像你加入某個社團或俱樂部，會得到一個「會員資格」，表示你是裡面的一份子，可以享受一些只有會員才有的權利，也要遵守這個社團的規矩。"
+        "word": "influence",
+        "zh": "影響力 (一個東西對另一個東西造成的改變或作用，讓事情產生不一樣的發展。)"
       },
       {
-        "word": "Debt",
-        "zh": "債務 (zhàiwù) - 就是欠別人的錢。想像一下你跟朋友借了錢買東西，那筆錢就是你的「債務」。你需要把這筆錢還回去，否則對方可能會不高興，甚至影響你們的關係。"
+        "word": "factor",
+        "zh": "因素 (造成某件事情發生或結果的重要原因之一。)"
       }
     ],
     "id": "r-8",
@@ -205,8 +275,8 @@
     "tagClass": "tag-nature",
     "region": "大洋洲",
     "date": "2026-08-07",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWRMb2dpZXhyRlMtQTNxVGQ5WllqbzhqTnZVNEU4Nkt0U21EZVJJUURLMThTYkdGbndKY211OEItcWtpQTFqdy15QW9yZmtQY1VJYUJBV1dYNG5FZXRneXZyOURtdU1rTlZZQ2VEaU9tR01ueDRfbGhhSkxEVGhQa3BBLXZ0YkVrMFg1d1haS1h5U3h1bUp6bExKaE1Vd2pKV09MMTFydWNZSHVjckROY1phdw?oc=5",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yUTE0OERFT2VqR0lvYmZ5QUFpZE1PeWxJd21aNGRIU0ZIQXQ3MngxcXFncXBRTTV1OHltUmtTbklmaWJKZzVUdFcyUHV6V002dnR4U1BqNzVTcW40RFp4TTZjX3pfZ3RqRkRIdUktQ21PU0E4RlNEcEZMbHQxUQ?oc=5",
     "isFeatured": false
   },
   {
