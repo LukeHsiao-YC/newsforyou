@@ -1,5 +1,75 @@
 [
   {
+    "zhTitle": "尼泊爾「高山海嘯」：冰河融化引發的世紀洪災",
+    "zhSummary": "尼泊爾近期遭遇一場大規模洪災，被形容為「高山海嘯」。這場災難的起因是冰河快速融化導致的冰河湖潰決，加上跨國預警不力及救災協調困難，使得災情雪上加霜。",
+    "zhContent": "<p>你知道嗎？在尼泊爾的崇山峻嶺中，最近發生了一件令人震驚的大事，當地人形容它像是「從天而降的高山海嘯」！這可不是真的海洋海嘯，而是指冰河湖突然潰決，釋放出巨大洪水，像海嘯一樣沖毀了一切。這場被稱為「世紀洪災」的災難，讓許多村莊瞬間消失，無數人的生活被徹底改變。</p><p>這場「高山海嘯」的直接原因，就是冰河湖潰決。由於全球氣候變遷，喜馬拉雅山脈的冰河正在快速融化，融水累積形成越來越大的冰河湖。這些湖泊常常只被脆弱的冰磧物阻擋，一旦壓力過大或受到外部衝擊（比如地震、山崩），湖堤就可能突然破裂，大量的湖水會像洩洪一樣，以驚人的速度和力量順著山谷奔騰而下，所到之處都被洪水淹沒或沖毀，造成難以想像的破壞。</p><p>讓這場災難變得更嚴重的原因有很多。首先是冰河退縮的問題持續惡化，讓這些潛在的危險冰河湖數量增加。再來是救災工作面臨許多挑戰，像是地形崎嶇、道路中斷，以及資源調度與各方救援隊伍之間的協調困難，這些都影響了救援的速度與效率。最關鍵的還有「沉默的跨境預警」問題：由於冰河湖可能在上游國家潰決，如果預警訊息無法及時、有效地跨越國界傳遞到下游的尼泊爾，當地居民就沒有足夠時間撤離。</p><p>這場世紀洪災對尼泊爾造成了巨大的損失，許多寶貴的生命逝去，基礎設施嚴重毀損，重建之路漫長而艱鉅。事件過後，國際社會與相關國家也開始重新檢視如何在這些高山地區建立更完善的預警系統，並加強跨國合作，希望能避免類似的悲劇再次發生。目前尼泊爾政府正全力進行災後復原，同時也呼籲外界關注冰河融化帶來的環境危機。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「高山海嘯」是指什麼？它為什麼會發生？",
+      "生活與未來：你覺得「沉默的跨境預警」會對住在下游的居民造成什麼樣的實際影響？",
+      "獨立思考提案：針對冰河湖潰決這種自然災害，你覺得除了預警系統外，還可以怎麼做來保護當地居民的安全？"
+    ],
+    "enTitle": "Nepal's 'Mountain Tsunami': A Century Flood Triggered by Melting Glaciers",
+    "enContent": {
+      "basic": "Nepal recently experienced a massive flood, called a 'mountain tsunami,' which isn't a sea tsunami but a huge rush of water from mountains. It happened because glaciers are melting fast, forming large lakes that can burst. Rescue efforts faced issues like poor cross-border warnings and coordination problems, making the disaster worse. Many villages were destroyed, and people's lives were changed. This event highlights the need for better warnings and cooperation to prevent future tragedies.",
+      "intermediate": "Nepal has been hit by a devastating 'mountain tsunami,' a term describing a sudden and powerful glacial lake outburst flood. This catastrophic event is primarily driven by the rapid retreat of glaciers in the Himalayas due to climate change, leading to unstable glacial lakes. The disaster's impact was exacerbated by fragmented cross-border early warning systems and difficulties in coordinating rescue operations. The 'century flood' swept away villages and caused immense loss, underscoring the urgent need for enhanced international collaboration and robust warning mechanisms in vulnerable mountain regions.",
+      "advanced": "Nepal recently endured a 'century flood disaster,' colloquially termed a 'mountain tsunami,' originating from the abrupt rupture of glacial lakes. This phenomenon is a direct consequence of accelerated glacial retreat in the Himalayan range, driven by global climate change, which engenders increasingly unstable proglacial lakes. The severity of the catastrophe was compounded by several critical factors: the ongoing challenge of glacier diminution, logistical complexities and coordination failures in rescue operations across treacherous terrain, and critically, the 'silent cross-border early warning' deficit, where upstream warnings failed to adequately reach downstream communities. The resultant devastation has prompted international calls for fortified transnational cooperation and advanced early detection systems to mitigate future occurrences."
+    },
+    "vocabulary": [
+      {
+        "word": "Glacier",
+        "zh": "冰河 (bīnghé)：一大塊由冰雪長期累積、凝固而成的巨大冰塊，它會緩慢地向下滑動，像河流一樣。"
+      },
+      {
+        "word": "Disaster",
+        "zh": "災難 (zāinàn)：指大規模的、非常嚴重的破壞或不幸事件，像是地震、洪水、颱風等等，會造成生命財產的重大損失。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-09-01",
+    "sourceName": "報導者The Reporter",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9abnNyemF3VHN5WXdISVo3R013dS1fTnowQU14OWpLZkVfUTJYZnZ2bTBpLWlnZ1Y4RS1ZT3B6WDg1TDJZVDB1WmxSRm9EdGw3SXFvTzUxZEhfWllFd1ozZg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "紐西蘭外長「太平洋島國論壇」發聲：承諾協助應對氣候變遷",
+    "zhSummary": "紐西蘭外交部長溫斯頓·彼得斯在太平洋島國論壇上發表演說，重申紐西蘭對太平洋地區的承諾。他特別強調會提供更多資源，幫助島國增強應對氣候變遷的能力，確保地區的穩定與發展。",
+    "zhContent": "<p>最近，紐西蘭的外交部長溫斯頓·彼得斯，在一個叫做「太平洋島國論壇」的重要會議上發表了演說。這個論壇是太平洋地區各國領袖們聚集在一起，討論大家共同面對的問題，以及怎麼讓整個地區變得更好的地方。彼得斯部長的演說引起了大家的關注，因為它關係到紐西蘭與許多太平洋島國之間的合作關係。</p><p>彼得斯部長在演說中強調，紐西蘭會持續堅定地支持太平洋地區的發展。他特別提到了對抗氣候變遷的重要性，因為氣候變遷對太平洋島國的影響非常大，像是海平面上升、極端天氣事件變多等等。他表示，紐西蘭會提供更多的幫助，包括資金和技術支援，來協助這些島國增強面對氣候變遷的「應變能力」，讓他們的家園和生活能夠更安全。</p><p>這次演說的背景是，太平洋地區一直面臨許多挑戰，像是經濟發展、醫療健康，還有日益嚴重的氣候問題。紐西蘭作為太平洋地區的重要鄰居，長期以來都扮演著支持者的角色。彼得斯部長的發言，其實也是在重申紐西蘭對「太平洋大家庭」的承諾，希望透過緊密的合作，共同解決這些地區性的難題，確保太平洋地區的穩定和繁榮。</p><p>這次太平洋島國論壇的討論仍在進行中，彼得斯部長的演說為紐西蘭未來的區域合作方向提供了明確的信號。各國領袖們也藉此機會交換了意見，期望能共同找出具體的解決方案。這場論壇的目標是讓所有與會國家達成共識，確保太平洋地區的未來能夠更美好。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，溫斯頓·彼得斯部長主要談到了什麼議題？為什麼這個議題對太平洋島國很重要？",
+      "生活與未來：你覺得紐西蘭承諾的幫助，會對太平洋島國的居民帶來什麼實際影響？請舉例說明。",
+      "獨立思考提案：如果由你來規劃一個幫助太平洋島國應對氣候變遷的計畫，你會提出哪些具體的做法？"
+    ],
+    "enTitle": "New Zealand Foreign Minister Speaks at Pacific Islands Forum, Pledges Climate Change Support",
+    "enContent": {
+      "basic": "Winston Peters, New Zealand's Foreign Minister, spoke at the Pacific Islands Forum. He talked about how New Zealand will help countries in the Pacific region. He said New Zealand will give money and help to fight climate change. This is important because climate change makes sea levels rise and causes bad storms in the Pacific.",
+      "intermediate": "New Zealand's Foreign Minister, Winston Peters, addressed leaders at the Pacific Islands Forum, an important meeting for island nations in the Pacific. His speech highlighted New Zealand's ongoing commitment to the region. He specifically emphasized support for climate change adaptation, offering financial and technical assistance to help these nations build 'resilience' against environmental challenges like rising sea levels and extreme weather events. This aims to ensure the safety and future prosperity of Pacific communities.",
+      "advanced": "During the recent Pacific Islands Forum, New Zealand's Foreign Minister, Winston Peters, delivered a pivotal address underscoring Wellington's steadfast commitment to its Pacific neighbors. Peters' remarks focused on the critical issue of climate change, a disproportionate threat to low-lying island nations. He articulated New Zealand's pledge to augment support, encompassing both financial aid and technological expertise, aimed at bolstering the climate 'resilience' of these vulnerable states. This proactive stance is integral to fostering regional stability and sustainable development amidst mounting environmental pressures."
+    },
+    "vocabulary": [
+      {
+        "word": "Forum",
+        "zh": "論壇：想像一下大家圍坐在一起，針對某個主題發表意見、交流看法的場合。這裡指的是一個正式的會議，讓各國代表可以討論重要事情。"
+      },
+      {
+        "word": "Resilience",
+        "zh": "應變能力：指的是當面對困難、壓力或災害時，能快速恢復過來，並且繼續前進的能力。例如，一個國家能快速從颱風災害中重建家園，就是有很好的應變能力。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-09-01",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXlQMlBTdy12cm0yMV8tQWdjM1ljV25KS2tIWGg2UGxFYlFoemFrdHhDbE1PY3R6eGlzOVFyaDYzeUNaMjcyRFJVRWhGWWFsUWc1Yk5xYmRvY0YwU1VERERPSWdrMzVsY0hlclBHcnAzbTRxbkJ6RU5vZmV6OENJMjZiQ25aUXFZWTdlcDlCSVBkcTdHOEhCRFVMREJzZ3JWWXZJYW83RVVZZmluZHk2dDRtUnJuNS16SXg0dHJkQlQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "抓住機會！北韓如何在國際間「喬」出新局面？",
     "zhSummary": "北韓最近在國際舞台上玩起了一場高明的平衡遊戲，它巧妙地同時與中國和俄羅斯保持好關係，目的是從中獲得對自己有利的資源。這種做法不僅讓國際社會好奇，也讓大家都在關注，北韓和南韓之間的關係接下來會如何發展。",
     "zhContent": "<p>北韓最近在國際舞台上採取了一個引人注目的策略，它試圖在兩個世界大國——中國和俄羅斯之間，找到一個巧妙的平衡點。簡單來說，北韓正在努力與中俄兩國都維持著良好的關係，目的是為了從中獲取對自己發展有利的各種資源和支持。這個舉動讓許多國際觀察家都很好奇，因為它可能會對整個東北亞地區的局勢產生影響，特別是北韓與南韓之間長久以來的複雜關係。</p><p>北韓之所以這樣做，是因為它正面臨一些挑戰，而來自中國和俄羅斯的協助，對它來說顯得格外重要。例如，在國際貿易或軍事技術交流方面，中俄兩國可能都能提供北韓需要的幫助。北韓透過這種方式，希望能夠減少國際社會對它的壓力，同時也強化自己的國防力量。這有點像是在不同隊伍中穿梭，希望兩邊都給自己一些「好處」，讓自己更有底氣。</p><p>這種策略的影響，最直接反映在北韓和南韓的關係上。過去幾年，兩韓關係一直都很緊張，對話常常停滯不前。現在，北韓與中俄關係的升溫，可能會讓它在面對南韓時，採取更強硬的態度，或是更有信心去推動自己的議程。國際媒體和專家們都在分析，北韓是否會利用這股新獲得的支持，來重新定義它與南韓之間的互動模式，這讓兩韓的未來走向變得更加難以預測。</p><p>目前，北韓遊走於中俄之間以獲取利益的策略仍在持續進行中，國際社會對此保持高度關注。儘管北韓與中俄關係越來越密切，但這條外交路線將如何真正影響到兩韓關係的發展，以及整個區域的和平與穩定，仍然是大家持續觀察的重點。可以確定的是，這將會是一場需要時間才能看出全貌的國際棋局，許多變數都還在發生。</p>",
@@ -32,76 +102,6 @@
     "date": "2026-09-01",
     "sourceName": "公視新聞網PNN",
     "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94V0p6R2lleTY1TVZkNmU5c0VXT2swUkRON0lpeVZHLTh1LXBjZVBFRmxoUF9qMGdKVllKR0YxQXlaTnRrc2RtdDgtU1Y0OU0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "日本科技巨頭NTT DATA導入SAP智慧系統：讓公司運作更聰明！",
-    "zhSummary": "日本大型科技公司NTT DATA最近宣布，他們將在日本全面引進德國SAP公司的最新科技，包括「雲端企業資源規劃系統」和「商業人工智慧」，目的是為了讓公司營運更有效率、更智慧化。",
-    "zhContent": "<p>嘿，大家有沒有想過，一間像「日本電信電話數據」（NTT DATA）這麼大的公司，每天要處理多少事情？從員工薪水、客戶訂單到公司產品，所有大小事都得好好管理。最近他們就宣布了一個大動作，決定引進德國軟體大廠SAP的最新技術——「雲端企業資源規劃系統」（SAP Cloud ERP Private）和「商業人工智慧」（SAP Business AI），目標是要讓他們在日本的營運更聰明、更有效率。</p><p>這聽起來是不是有點複雜？沒關係，我們來簡單說明一下。「企業資源規劃系統」（ERP）就像是公司的心臟和大腦，它能把公司裡所有部門的資訊都串起來，像是會計、銷售、人力資源和庫存管理，讓這些資訊不再各自為政，而是能互相溝通，讓整個公司運作更順暢。而「雲端」的意思就是，這個系統不是裝在公司自己的電腦裡，而是放在網路上的伺服器，所以NTT DATA的員工只要有網路，隨時隨地都能使用，這讓他們的工作更有彈性。</p><p>不只這樣，他們還導入了SAP的「商業人工智慧」（SAP Business AI），這就更厲害了！AI就像是公司的超級分析師，它能處理大量數據，從中找出重要的趨勢或模式，幫助管理層做出更聰明的決策，甚至可以自動化一些重複性的工作，讓員工可以把時間花在更需要創意和思考的事情上。NTT DATA選用SAP的這些技術，就是希望他們的管理系統能變得更先進，跟上時代的腳步。</p><p>總結來說，NTT DATA這次在日本市場引進SAP的雲端ERP和商業AI，代表他們正積極地利用最新科技，來改造公司的內部運作模式。他們的目標很明確，就是希望透過這些智慧化的系統，讓公司營運更精準、更有效率，並在競爭激烈的市場中保持領先地位。這就像是給整個公司換上了一套全新的、超級聰明的大腦系統，準備好迎接未來的各種挑戰。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，NTT DATA公司主要採用了哪兩項關鍵的科技服務？它們分別代表什麼意思？",
-      "生活與未來：你覺得這個改變會對NTT DATA的員工和他們服務的客戶造成什麼實際影響？請至少說出兩種可能性。",
-      "獨立思考提案：如果未來有更多像NTT DATA這樣的大公司導入AI系統來管理運作，你覺得我們的日常生活可能會出現哪些變化？"
-    ],
-    "enTitle": "NTT DATA Adopts SAP® Cloud ERP Private and SAP® Business AI in Japan",
-    "enContent": {
-      "basic": "NTT DATA, a major Japanese tech company, is adopting new software from SAP. This includes Cloud ERP (Enterprise Resource Planning) and Business AI (Artificial Intelligence). This move aims to make their operations in Japan more efficient and smart.",
-      "intermediate": "NTT DATA in Japan is implementing SAP's advanced Cloud ERP Private and SAP Business AI solutions. The Cloud ERP system will integrate and streamline various business processes like finance, sales, and human resources, while the private cloud deployment ensures dedicated resources. The integration of Business AI will help NTT DATA analyze data, automate tasks, and make more informed decisions, enhancing overall operational efficiency and competitiveness.",
-      "advanced": "Japanese technology giant NTT DATA has announced the adoption of SAP® Cloud ERP Private and SAP® Business AI within its Japan operations. This strategic move aims to leverage cutting-edge enterprise resource planning capabilities hosted in a dedicated cloud environment, alongside advanced artificial intelligence solutions. The comprehensive implementation is designed to optimize NTT DATA's core business processes, foster data-driven decision-making, and achieve significant gains in operational agility and market competitiveness across its diverse service offerings."
-    },
-    "vocabulary": [
-      {
-        "word": "ERP",
-        "zh": "「企業資源規劃」的縮寫。你可以把它想像成一個超大的電腦系統，幫助公司把所有部門（像財務、銷售、人力資源等）的資料和工作都串聯起來，讓公司運作得更順暢、更有效率。"
-      },
-      {
-        "word": "Artificial Intelligence (AI)",
-        "zh": "「人工智慧」的縮寫。簡單來說，就是讓電腦像人類一樣有「思考」和「學習」的能力，它可以處理很多資料，幫我們做決定，甚至完成一些人類才能做的工作。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-09-01",
-    "sourceName": "SAP News Center",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGxpTWJtVTh6VVd5LXVid0R5TGJwX3Z4NVh6UjZLczVETTRsTnpOWGliUElhQzVISGpPbGFxb3JrUkFZLVdoR3RxWEZadFU0RVBhSEU5Rm01TnZySUtJa0ZmYURMdzZTQ2VwbU9FZDJSM2ZfdktQSXc3MWNzemNNS2h1cDJZR3lhUzVPMG9wblBTdU5CeWJDcFJZTG04dzdibjlDUkpCU3BZQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國會議少了幾位領袖，重要決議照樣推動！",
-    "zhSummary": "最近一場重要的太平洋島國論壇上，有些國家的領導人沒有出席。不過，論壇的秘書處表示，這些缺席並不會影響會議最終要達成的協議和成果，所有計畫仍會繼續進行。",
-    "zhContent": "<p>你或許沒聽過「太平洋島國論壇」，但它對太平洋地區來說可是個大事！這個論壇每年都會把太平洋地區的各國領導人聚集在一起，討論像是氣候變遷、海洋資源保護和經濟發展等重要議題。就像學校的班級代表大會，只是規模更大、討論的都是國家大事。最近，這個重要的會議又登場了，原本大家都很期待，因為這次會議將會針對一些關鍵問題做出重要決定。然而，會議開始前卻傳出消息，有幾位領導人因為某些原因，確定不會出席這場盛會，讓不少人開始擔心，這會不會讓會議的進度卡關，或是影響到最後的決議呢？</p><p>針對外界的擔憂，太平洋島國論壇的秘書處很快就出面說明。他們發出聲明，清楚地表示雖然有部分領導人無法前來，但這並不會阻礙整個論壇的運作或是影響他們預期的成果。秘書處強調，這次會議的準備工作非常充分，許多議題已經討論了很久，各國的代表也都準備好了要達成共識。他們很有信心，即使少了幾位關鍵人物，其他與會的代表也能夠確保會議順利進行，並且達成預設的目標，讓重要的區域合作計畫都能夠向前推進，不至於因為少了誰就停擺。</p><p>秘書處解釋，論壇的決策過程並不是只依賴某幾個特定的領導人，而是一個多邊合作的機制。這表示，即便領導人本人無法親自出席，他們通常也會指派資深的代表來參加會議，這些代表同樣具備決策和協商的權力。因此，即使某些國家的最高領導人缺席，他們的立場和意見仍然可以透過代表在會議上充分表達。這確保了會議的包容性，也讓所有討論都能持續進行，不會因為一兩個人的缺席就無法決定事情。</p><p>總體來說，儘管有幾位重量級的領導人未能現身這場重要的太平洋島國論壇，但秘書處已經明確地向大家保證，會議會按照原定的計畫繼續進行。目前來看，會議正努力推進，討論氣候變遷與區域安全等關鍵議題。秘書處對這次會議最終能達成重要的決議抱持樂觀態度，並表示所有參與國將共同努力，確保這些重要成果能夠順利實現，不會讓任何缺席影響到整個太平洋地區的未來發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Pacific Islands Forum Moves Forward Despite Absent Leaders",
-    "enContent": {
-      "basic": "Some leaders from Pacific island nations are not at a big meeting called the Pacific Islands Forum. But the people who organize the meeting, the secretariat, say that even with some leaders missing, the forum will still get its work done and make important decisions. They are sure the meeting will be successful.",
-      "intermediate": "The Pacific Islands Forum, an important annual gathering for leaders across the Pacific, is currently underway. While some national leaders are notably absent from the discussions, the forum's secretariat has reassured everyone that these absences will not prevent the meeting from achieving its planned outcomes. The secretariat remains confident that key decisions on issues like climate change and regional cooperation will still be made.",
-      "advanced": "The ongoing Pacific Islands Forum, a crucial multilateral assembly for addressing regional challenges and fostering cooperation among Pacific island states, is proceeding despite the notable absence of several prominent national leaders. The Forum's secretariat has explicitly stated that these leadership voids will not \"derail\" the intended outcomes or impede the progress of critical agenda items. The organization expresses strong confidence that the established frameworks and the participation of other high-level representatives will ensure the successful adoption of resolutions concerning issues such as climate resilience and economic development."
-    },
-    "vocabulary": [
-      {
-        "word": "derail",
-        "zh": "脫軌 (tuōguǐ) - 原本指火車離開軌道。在這裡，它是指讓某件事情偏離原定的計畫或目標，使其無法順利進行。"
-      },
-      {
-        "word": "secretariat",
-        "zh": "秘書處 (mìshūchù) - 想像一個組織或會議的「總務處」或「辦公室」。它負責處理行政事務、安排會議、記錄文件等等，確保整個組織或活動能夠順利運作。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-09-01",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmNkZnN4akVGQnNLOFdZa0JiQ1hMUjdUTjFnSnkzT243VV8zLW1RNkg4dDRjNnJOVFdwNnNlWEpRdnRHRzlGMWNjb0lpbklxbmNaR3BRanFuSHlrYk15N0JyR0NzTzhoWXJlWnhPNGVpUEhfcmZTT2ZsX1hSSUNHYXJoVFI5aVVTOVNEc1docnV4NEtoOWJEZ0o2aGlac0dqMkl0VFRyQ2lGd0ZQZVpUZ25sOHpFa0o3OWow?oc=5",
     "isFeatured": false
   },
   {
