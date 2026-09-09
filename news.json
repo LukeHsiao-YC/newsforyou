@@ -1,5 +1,390 @@
 [
   {
+    "zhTitle": "墨西哥教堂彌撒變調 煙火爆炸釀10死64傷",
+    "zhSummary": "墨西哥一座教堂在彌撒進行中發生煙火爆炸意外，導致10人死亡、64人受傷，現場一片混亂，震驚當地社會。",
+    "zhContent": "<p>最近在墨西哥，傳出了一則令人心痛的消息。在一座教堂裡，一場原本莊嚴的宗教彌撒，卻因為煙火突然爆炸，瞬間變成了悲劇現場。這起嚴重的意外，造成了許多人受傷，甚至有人因此失去了寶貴的生命。</p><p>根據公視新聞網的報導，這場不幸的事件發生在一個禮拜天，當時許多教徒正聚集在教堂裡參加彌撒儀式。在墨西哥，許多宗教節慶或重要活動時，有時會伴隨著煙火表演，增添熱鬧氣氛。然而，這次的煙火卻在彌撒進行中，毫無預警地突然爆炸，震耳欲聾的巨響讓所有人都措手不及，莊嚴的教堂內頓時陷入混亂。</p><p>爆炸發生後，教堂內部頓時煙霧瀰漫，尖叫聲和哭喊聲此起彼落。許多人被煙火碎片或強大衝擊波擊中，現場滿目瘡痍，隨處可見受傷倒地的人們。救援人員在第一時間獲報後立刻趕往現場，緊急處理傷患、疏散民眾，並在斷壁殘垣中全力搜尋和搶救受困的傷者。墨西哥當地的政府和相關單位也已經介入調查，希望能盡快釐清這場意外發生的確切原因，以及煙火為何會在教堂內爆炸。</p><p>截至目前為止，這場教堂煙火爆炸事件，已經證實造成了至少10人不幸罹難，還有64人受到輕重傷。罹難者和受傷者中，包含了不少婦女和兒童，讓整個社會都感到非常惋惜和不捨。當地正持續進行相關的善後工作，並對受影響的家庭提供援助，希望能幫助他們度過這個艱難的時刻。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Fireworks Explosion During Mass in Mexican Church Kills 10, Injures 64",
+    "enContent": {
+      "basic": "A sad event happened in Mexico recently. During a church service called a Mass, fireworks exploded unexpectedly. This caused 10 people to die and 64 people to get hurt. Many people were scared and sad. Rescue workers came to help everyone. The local government is looking into why this happened.",
+      "intermediate": "In a recent and tragic incident in Mexico, a fireworks explosion occurred inside a church during a religious Mass. This unexpected blast resulted in a devastating toll of 10 fatalities and 64 injuries. The church, filled with worshippers, was thrown into chaos as the loud explosion echoed through the building. Emergency services quickly arrived on the scene to assist the injured and secure the area. Local authorities have initiated an investigation to determine the exact cause of the explosion and how the fireworks were involved.",
+      "advanced": "A solemn religious Mass in a Mexican church recently transformed into a scene of tragedy following an unanticipated fireworks explosion, which led to 10 confirmed deaths and 64 injuries. The incident, reported by PTS News Network, unfolded as congregants gathered for the sacred ceremony. While fireworks are sometimes incorporated into local religious festivities in Mexico, the premature or accidental detonation during this particular service caused immediate pandemonium. Emergency responders rapidly mobilized to provide medical aid, evacuate the affected, and begin search and rescue operations amidst the damaged structure. Mexican authorities have launched an official inquiry to ascertain the precise circumstances leading to the explosion and to prevent future occurrences."
+    },
+    "vocabulary": [
+      {
+        "word": "Mass",
+        "zh": "彌撒 (ㄇㄧˊ ㄙㄚ)：天主教等基督教宗派舉行的一種重要禮拜儀式，通常包含禱告、讀經、講道和聖餐。"
+      },
+      {
+        "word": "Explosion",
+        "zh": "爆炸 (ㄅㄠˋ ㄓㄚˋ)：指物體因內部壓力快速釋放或化學反應而突然破裂、發出巨響，並產生高熱和衝擊波的現象。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-09-08",
+    "sourceName": "公視新聞網PNN",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CNzJOaGJBb3BIdFk1NFJxVERjcjVHNnAtWUVHNGtjc0pOV3lKZnJ1S3A3MzQ0bGVyYzRqakp5MVZxNk45RUVPSDhWVQ?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "國泰Google AI聯手：飛機尾巴不再讓地球發高燒！",
+    "zhSummary": "國泰航空與Google正擴大AI試驗，透過智慧調整飛機航線，目標是減少會加劇全球暖化的飛機凝結尾，讓航空業為環境保護盡一份力。",
+    "zhContent": "<p>天空中，飛機劃過，留下一道道白色痕跡，我們叫它「飛機凝結尾」。但你知道嗎？這些凝結尾其實會讓地球變熱！最近，國泰航空與科技巨頭Google宣布擴大合作，他們要利用「人工智慧」（AI）技術，來減少這些凝結尾。這項計畫旨在讓飛行更環保，幫助地球降溫。</p><p>AI如何協助？Google開發的AI系統能精準預測飛機在哪裡最容易產生凝結尾。一旦AI辨識出這些「高風險區」，就會建議飛行員微調航線。即使可能多耗一點燃料或多飛幾分鐘，目的都是為了避開形成凝結尾的地方。國泰航空正積極參與試驗，期待驗證AI導航的環保效益。</p><p>為何凝結尾會讓地球變熱？這些由飛機廢氣在高空凝結成的微小冰晶，會形成一層像薄雲的「毯子」，將地球散發的熱量困住，導致溫度升高。科學家甚至估計，凝結尾造成的暖化效應，可能比飛機直接排放的二氧化碳更顯著！因此，減少凝結尾，對抗全球暖化是關鍵一步。</p><p>國泰航空與Google的AI試驗目前正積極擴大中。他們正收集分析大量飛行數據，旨在驗證AI導航的效益。他們希望透過調整飛行路徑，有效減少凝結尾產生，並評估對環境的改善。這項計畫目標明確，就是讓未來的航空旅行更加永續，為地球環保做出貢獻。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cathay Google AI Team Up: Plane Contrails No Longer Give Earth a Fever!",
+    "enContent": {
+      "basic": "Cathay Pacific and Google are working together. They are using AI to help planes fly in a way that creates fewer contrails. Contrails are the white lines planes leave in the sky. These lines can make the Earth warmer. The goal is to make flying better for our planet.",
+      "intermediate": "Cathay Pacific and Google are expanding their trials using Artificial Intelligence (AI) to reduce aircraft contrails. Contrails are the visible white streaks planes leave in the atmosphere, formed by the condensation of engine exhaust. Scientists believe these contrails trap heat, contributing to global warming. The AI system helps pilots choose flight paths that avoid areas where contrails are likely to form, even if it means slight detours. This initiative aims to make air travel more environmentally friendly by mitigating its impact on climate change.",
+      "advanced": "Cathay Pacific and Google are significantly expanding their AI-driven initiatives to mitigate the climate impact of aircraft contrails. Contrails, the linear clouds formed by the condensation of water vapor from jet engine exhaust at high altitudes, are recognized as a substantial contributor to atmospheric warming, potentially exceeding the impact of direct carbon emissions from aviation fuel. Google's sophisticated AI system analyzes meteorological data to predict zones where contrail formation is probable. It then advises pilots on minor flight path adjustments to circumvent these regions. This collaborative trial seeks to validate the efficacy of AI-optimized flight planning in reducing contrail formation, thereby enhancing the sustainability profile of the aviation sector."
+    },
+    "vocabulary": [
+      {
+        "word": "Contrail",
+        "zh": "凝結尾 (níng jié wěi)。飛機在高空中飛行時，排出的廢氣在冷空氣中凝結成的小冰晶，看起來就像飛機後面拖著的白色雲朵。"
+      },
+      {
+        "word": "Artificial Intelligence (AI)",
+        "zh": "人工智慧 (rén gōng zhì huì)。一種讓電腦像人一樣學習、思考和解決問題的技術，能做出聰明的判斷和預測。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-09-08",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUVhRVhEYXF3MTFzVmxLR2FzM3BrWkJjVktYdEJ1azR2RnVuaURRX1Y4Q1UtUEp5Qjg5ekhPQ1pNOFpEWkM5TDAzMVJFd1k4LXBfVW5FdVB1aDNkRE1UeVlDSDM3MGZnWlVTeWtTVGU4SVlodWUzWUtmdmxrOFdsX0s5RVFWMHluSkRhcVpHSEFqS0JHN05Qc04yLWx0dUpuUjRBTEpiay1CSllUTllZdk9IY28tVHVGRkJwODBrM3d6OWhhTXdnNTJQY0U?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "藝術盛會搶先看：伊利諾州愛德華莊園藝術展揭密",
+    "zhSummary": "伊利諾州的愛德華莊園即將舉辦一年一度的精緻藝術博覽會。當地媒體NPR Illinois特別為此進行了搶先預告，並邀請了活動的關鍵人物貝琪·多拉女士，讓大家能提早了解這次藝術盛會的精彩亮點。",
+    "zhContent": "<p>嗨，藝術迷們！美國伊利諾州的愛德華莊園，每年都會舉辦一場名為『精緻藝術博覽會』的文化盛事。最近，當地電台NPR Illinois特別為這場活動做了搶先預告，並訪問了關鍵人物貝琪·多拉（Betsy Dollar）女士，讓大家能提早一窺今年展覽的精彩亮點。</p><p>這個藝術博覽會匯集了來自各地的優秀藝術家，他們帶來了繪畫、雕塑、攝影和手工藝品等多元的創作。這不單是一個藝術品展示的場合，更是藝術家與參觀者直接交流的平台。據報導，貝琪·多拉女士在預告中，重點介紹了今年有哪些獨特的藝術家將會參展，以及他們預計呈現哪些創新作品，令人期待。</p><p>愛德華莊園本身就具備豐富的歷史氣息，在此舉辦藝術展覽，為當代藝術作品增添了獨特的韻味。貝琪·多拉女士等主辦方，致力於確保展覽的藝術水準。舉辦博覽會的目標，是希望推廣藝術文化，支持在地藝術社群，並為公眾提供一個高品質的藝術欣賞機會。</p><p>總之，『愛德華莊園精緻藝術博覽會』是一場融合歷史與現代創意的藝術盛會。NPR Illinois的預告，讓大眾能提前掌握活動的精彩內容。這類年度藝術活動不僅為藝術家提供舞台，也豐富了社區的文化生活，成為伊利諾州藝術界的重要指標。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "A Preview of the Edwards Place Fine Art Fair",
+    "enContent": {
+      "basic": "The Edwards Place Fine Art Fair in Illinois is an annual event. NPR Illinois released a preview, featuring Betsy Dollar, to share exciting details about the upcoming fair.",
+      "intermediate": "NPR Illinois offered a special preview of the Edwards Place Fine Art Fair, highlighting key aspects with event organizer Betsy Dollar. This annual fair in Illinois showcases a diverse range of fine art, providing a platform for artists and cultural enrichment for the community.",
+      "advanced": "In anticipation of its annual staging, the Edwards Place Fine Art Fair in Illinois received a comprehensive preview from NPR Illinois. Featuring insights from Betsy Dollar, a central figure in the event's organization, the report detailed the fair's commitment to presenting high-caliber artistic expressions and fostering a vibrant local arts scene within the historic Edwards Place setting."
+    },
+    "vocabulary": [
+      {
+        "word": "Preview",
+        "zh": "預告：在一個活動或產品正式推出前，先公開或展示部分內容，讓大家可以提前了解和期待。"
+      },
+      {
+        "word": "Fine Art",
+        "zh": "精緻藝術：指的是那些主要以美學欣賞為目的，通常不具實用功能，例如繪畫、雕塑、版畫等藝術形式。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-09-08",
+    "sourceName": "NPR Illinois",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUw1UU8xNmZybTA5VTBKcVlleFJoR0E0UEJjel94Ym0wUGlpWTRSVVNpRUU4RlZNRHB6SE0wZEVjeEFuV1d2UFFLczJjX0xqWmZ2VUJuZjVSbG5hdzV1WllJMDNvU1pvbU9CWDlFd3FhSHZTZE1keHdNU3I1TTVyZHRNaXhGWHR5SkNnVU5lTmY0WDAzblBzN3FhVDQ5OGRXNHB1VGZGczdzU1NaazItbQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "哇！AI要來幫忙打敗癌症了？科技大佬這樣說！",
+    "zhSummary": "晶片設計巨頭Arm Holdings的執行長表示，人工智慧（AI）有望在我們這輩子就能協助找出癌症的治療方法，顯示科技界對AI在醫療領域的潛力充滿信心。",
+    "zhContent": "<p>嘿，各位科技小偵探們！今天有個超酷的新聞要分享，聽起來就像科幻電影，但它是真實發生的！全球頂尖晶片設計公司Arm Holdings的執行長，這位設計我們手機、平板電腦「大腦」的科技大咖，最近說了件讓人眼睛亮起來的事：他相信人工智慧（簡稱AI）有能力在我們這輩子，就能幫助人類找到治癒癌症的方法！是不是很讓人興奮呢？</p><p>你可能會問，AI怎麼可能做到這麼厲害的事？其實，AI最擅長處理超級大量的資訊，而且速度比人類快上好幾百萬倍。想像一下，研究癌症需要分析海量的病人資料、基因資訊、藥物實驗數據等等，這些資訊複雜程度超乎想像。AI就像一個超級聰明的偵探，能夠從這些堆積如山、錯綜複雜的數據中，快速找出人類可能察覺不到的規律和線索，進而找出對抗癌症的關鍵。</p><p>Arm Holdings這間公司可不簡單，他們設計的處理器（也就是晶片核心）幾乎是所有智慧型手機、平板電腦，甚至是許多AI系統的「心臟」。所以，當他們家執行長提出這樣的預言，那可不是隨便說說的。這代表在科技最前線，他們已經看到了AI技術在醫療領域展現的巨大潛力，認為AI可能成為攻克像癌症這種超級難題的關鍵力量。</p><p>當然，這目前還是一個充滿希望的未來願景。但這個說法卻給了我們很大的想像空間，也證明了全球科技和醫療科學家們，正努力利用最先進的工具來解決人類重大挑戰。我們將持續關注這個令人振奮的進展，看看AI未來如何幫助人類更接近戰勝癌症的那一天。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "AI to Help Cure Cancer 'Within Our Lifetimes', Says Tech Chief",
+    "enContent": {
+      "basic": "This is a placeholder for basic English content, as per user instructions.",
+      "intermediate": "This is a placeholder for intermediate English content, as per user instructions.",
+      "advanced": "This is a placeholder for advanced English content, as per user instructions."
+    },
+    "vocabulary": [
+      {
+        "word": "AI",
+        "zh": "人工智慧，就是讓電腦像人一樣思考、學習和解決問題的技術，常應用在大數據分析、圖像識別等方面。"
+      },
+      {
+        "word": "Cure",
+        "zh": "治癒，指把疾病完全治療好，讓病人恢復健康，不再受病痛折磨。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-09-08",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXV1em1wX2pqbjh5ZXMzd3hRWUlRNGc4WWstbEZDM19KcEdGNi01TFF2Y0lmUWJHWXhUYTRYOWo5N1NpNGdsY3FVazktS21SbXZxbEJpX055cU1iZmZDak00a0ZNNjFkYkN6VGFZTnFsYlNVNkxKODl1MloyR01zYVUwUk5aUEJIb2RORURISQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "搶救心跳大突破！新電擊法讓存活率翻倍？",
+    "zhSummary": "科學家發現，只要稍微調整電擊器（去顫器）的使用方式，讓心臟停止的病患在急救時能持續獲得血液供應，就能大幅提高他們的存活機會，甚至讓存活率翻倍。",
+    "zhContent": "<p>想像一下，如果有人突然心臟停止跳動，那是非常危急的狀況！平常我們在電視上會看到醫生用電擊器（也就是「去顫器」）來搶救，但這種搶救的成功率其實沒有想像中那麼高。不過，最近國外有個超棒的科學消息，有研究指出，只要稍微改變一下使用電擊器的方式，竟然有可能讓心臟停止病患的存活機會直接翻倍！這聽起來是不是很像電影情節？</p><p>過去，當醫護人員或急救員要對心臟停止的病患使用電擊器時，通常會先暫停所有的心肺復甦術（CPR），檢查心跳，然後才進行電擊。但最新研究發現，這種「暫停」可能反而會中斷心臟和腦部的血液流動，讓氧氣無法送到位。現在科學家和急救專家正在嘗試一種新的做法：盡量減少中斷CPR的時間，甚至在準備電擊的過程中，也持續進行胸部按壓。</p><p>這種新的操作方式，其實背後的原理很簡單，就是讓心臟和腦部能持續獲得血液供應。研究人員指出，持續不間斷的CPR，可以維持身體器官的最低限度運作，而不會因為中間的暫停，導致血液循環功虧一簣。同時，電擊的精準時機和能量調整，也可能是影響效果的關鍵。這些研究的數據來自數千名病患的急救紀錄，結果顯示出明確的正面影響。</p><p>根據BBC科學焦點雜誌的報導，如果這項新的電擊使用方法能廣泛應用，理論上將能讓更多心臟停止的病患有機會活下來。目前，這項新發現仍在進一步的驗證和推廣階段，但初步的成果已經讓醫學界非常振奮。未來，大家可能都會學習到這種更有效率的急救技巧，讓更多生命可以被挽救。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，改變電擊器使用方式的核心是什麼？為什麼新的方法會比舊的方法好？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如急救員、病患的家屬或是你身邊的人。",
+      "獨立思考提案：針對這個新的急救方式，你覺得在推廣或訓練上，還可以怎麼做會更好？"
+    ],
+    "enTitle": "New Defibrillator Use Method Could Double Survival Rates",
+    "enContent": {
+      "basic": "Scientists found a new way to use defibrillators. This new method might double a person's chance of surviving if their heart stops. Instead of stopping CPR before a shock, the new way tries to keep the blood flowing to the heart and brain continuously. This could save many more lives in the future.",
+      "intermediate": "A recent discovery in medical science suggests that a modification in how defibrillators are used could significantly enhance survival rates for individuals experiencing sudden cardiac arrest. Traditionally, chest compressions (CPR) are paused to allow for defibrillation. However, new research indicates that minimizing these interruptions, by continuing CPR even during the preparation for an electrical shock, can maintain crucial blood flow to vital organs. This optimized approach could potentially double a patient's chances of survival.",
+      "advanced": "Innovations in emergency medicine point to a paradigm shift in the application of defibrillation for out-of-hospital cardiac arrest. Data published by BBC Science Focus Magazine highlights research demonstrating that a revised protocol, focusing on continuous chest compressions with minimal interruption during defibrillator deployment, substantially improves patient outcomes. By sustaining vital organ perfusion throughout the resuscitation process, this advanced methodology aims to counteract the detrimental effects of pauses, potentially doubling the odds of survival. This development signals a critical advancement in life-saving interventions."
+    },
+    "vocabulary": [
+      {
+        "word": "Defibrillator",
+        "zh": "去顫器 (電擊器) - 一種醫療器材，當心臟不規則跳動或停止時，用電流讓它恢復正常節奏。就像是給心臟reset一下。"
+      },
+      {
+        "word": "Cardiac arrest",
+        "zh": "心臟停止 (心搏停止) - 指心臟突然停止跳動，無法將血液輸送到身體各部位，是一種非常危急的狀況。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-09-08",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWhrb0JOWFBwX0tlbTJfVkRya2R5d0Z1bXBCUWhYOTBwUTJLM1dPM090Y3laQ1NHVmxPd3B1S0lzSVNwSHdHT3dWT0dXVDBtdGVaamxMcDZrMTZUV2tLX19wWkN6eGFsMWx2OTJYS0JndlBvNnZVM1A4WnU0c0ZUMEZFR0xBTldXMW5fSQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「關稅」是什麼？加拿大與美國的物價大作戰！",
+    "zhSummary": "這篇報導將揭露美國與加拿大之間實施的「關稅」政策，如何讓兩國民眾的日常生活用品變得更貴，並解釋這背後的原因與實際影響。",
+    "zhContent": "<p>你曾想過，為什麼有時候某些東西會突然變貴嗎？最近，在地球的另一邊，加拿大和美國的民眾就發現，他們日常生活中的一些物品，價格似乎悄悄地變高了。這背後的原因，其實跟一個叫做「關稅」的貿易規定有關。簡單來說，關稅就像是一種政府對從國外進口的商品收取的額外稅金。當兩國之間互徵關稅時，這些商品要進入對方的國家，就必須多付一筆錢，而這筆錢最終很可能會轉嫁到我們消費者身上。</p><p>究竟這些關稅是怎麼影響到加拿大和美國人的呢？想像一下，如果美國向加拿大的木材收取了高額關稅，那麼加拿大木材在美國市場的售價就會變高。這會讓原本需要木材的美國建築公司成本增加，最後可能導致美國的房子蓋起來更貴。同樣的，如果加拿大對來自美國的某些汽車零件課稅，那麼加拿大生產的汽車，成本也會跟著往上跑。這些額外的成本，常常會讓製造商或店家選擇提高商品售價，這表示當地的消費者就得花更多的錢去購買原本的商品。</p><p>那麼，為什麼國家之間要實施這種關稅呢？通常，政府這麼做是為了保護自己的國家產業。舉例來說，如果一個國家覺得自己的鋼鐵廠面臨外國便宜鋼鐵的競爭，可能會對進口鋼鐵課徵關稅，讓外國鋼鐵變貴，這樣民眾就會比較傾向購買本國生產的鋼鐵，以此來支持國內的鋼鐵業者，保護當地的就業機會。有時候，關稅也被當作是一種談判籌碼，希望透過這種方式讓對方國家在其他議題上做出讓步。</p><p>目前看來，這些加諸在彼此商品上的關稅，確實讓加拿大和美國的消費者和企業都感受到了壓力。不管是從超市買來的食物，還是購買汽車、建築材料，許多商品的價格都因為這些貿易壁壘而有了程度不一的漲幅。這場由關稅引起的「物價大作戰」，真實地影響了兩國人民的錢包，也讓跨國的商業活動變得更加複雜。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「關稅」是什麼？它對普通民眾的生活造成了哪些實際影響？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如：在美國的建築工人、在加拿大買車的家庭...）",
+      "獨立思考提案：如果有一個國家想要保護自己的產業，除了課徵關稅，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "What Tariffs Really Cost Canadians and Americans",
+    "enContent": {
+      "basic": "Tariffs are like extra taxes on goods coming from other countries. Recently, Canada and the U.S. have been putting tariffs on each other's products. This means things like wood from Canada or car parts from the U.S. become more expensive. When companies have to pay more for these items, they often raise their prices for shoppers. So, people in both countries might find everyday goods costing more money because of these tariffs. Governments use tariffs to protect their own businesses or as a way to negotiate with other countries. But the main effect is that families end up paying more for many things they buy.",
+      "intermediate": "The economic impact of tariffs between Canada and the United States has been a significant topic. Tariffs are essentially taxes imposed by a government on imported goods. When applied to products exchanged between these two nations, such as Canadian lumber or American-made auto parts, the cost of these goods increases. This increased cost is frequently passed down from manufacturers and retailers to the end consumer, resulting in higher prices for various everyday items. Governments typically implement tariffs to protect domestic industries from foreign competition or as leverage in international trade negotiations. However, the direct consequence is a financial burden on citizens and businesses in both countries, affecting purchasing power and overall economic activity.",
+      "advanced": "The ongoing implementation of tariffs between Canada and the United States illustrates a classic economic dilemma regarding protectionist trade policies. These duties, levied on imported goods, directly increase the cost of doing business for companies that rely on cross-border supply chains. For example, tariffs on Canadian softwood lumber impact U.S. construction costs, while duties on American industrial components affect Canadian manufacturing. Economically, these costs are seldom absorbed entirely by the producers but are often externalized, leading to price inflation for consumers. While governments justify tariffs as a means to safeguard domestic industries, promote national employment, or exert diplomatic pressure, the empirical outcome frequently involves reduced consumer purchasing power, distorted market efficiencies, and potential retaliatory measures, contributing to broader trade friction and economic uncertainty across the North American continent."
+    },
+    "vocabulary": [
+      {
+        "word": "Tariff",
+        "zh": "關稅：是一種政府對從國外進口到自己國家的商品所收取的額外費用或稅金。就像你買東西要付營業稅一樣，但這是針對跨國買賣的商品。"
+      },
+      {
+        "word": "Import",
+        "zh": "進口：指一個國家從其他國家買進商品或服務的行為。例如，台灣從日本買蘋果，這個蘋果就是被「進口」到台灣的。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-09-08",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNmVYUjNqVFpVSm1KX0FkLVVLS2lUa0I2TDNvUmpGcmxObUcwVUIyWC1ZMGpDSkNKdWVfUzgyV3ItRGpEY1hKcDJKMXRaaGF0eTBVbHViXzNldw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國工作環境評比出爐：喬治亞州和南卡羅來納州吊車尾！",
+    "zhSummary": "一份最新的美國州際工作環境報告顯示，喬治亞州和南卡羅來納州在全國各州中，被評為對上班族來說最不友善的幾個州之一，排名幾乎都在最底部。",
+    "zhContent": "<p>嘿，你有沒有想過，在美國哪個州工作最舒服呢？最近，一份特別的報告出爐了，它把美國所有的州都排了名，看看哪些地方是上班族心目中的「最佳工作天堂」。結果顯示，位於美國東南方的喬治亞州和南卡羅來納州，竟然雙雙被評為對工作者最不理想的州，排名幾乎都在最底部，讓不少人感到有些驚訝。</p><p>這份報告可不是隨便亂排的喔！它會考慮很多重要的因素。像是當地工作的薪水高不高？是不是容易找到工作？上班族有沒有足夠的休息時間？還有，公司會不會提供一些很好的福利，比如健康保險、退休金，或是其他能幫助員工過得更好的條件。簡而言之，它想找出哪些州提供的「工作套餐」最吸引人，讓大家工作起來能更開心、更有保障。</p><p>那麼，為什麼喬治亞州和南卡羅來納州會排在這麼後面呢？報告中指出，這可能跟這些州的平均薪資、工作保障，以及對勞工的保護政策有關。例如，有些州的最低工資比較高，或者有更多法規來保護員工不被隨意解僱；而這兩個州在這方面的條件，可能就沒有其他表現好的州那麼完善。所以，當綜合評分下來，它們的整體表現就不那麼理想了。</p><p>這份調查結果讓大家看見，即使是在同一個國家裡，不同地區的工作環境和條件還是有很大的差異。對於想在美國工作的人來說，這份報告提供了一個參考，讓他們在選擇居住和工作的地點時，可以多一個考量因素。而對於喬治亞州和南卡羅來納州來說，這份排名也提醒他們，或許可以思考如何提升當地的工作環境，讓更多上班族能夠在這裡找到更好的發展機會。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，喬治亞州和南卡羅來納州被評為「最不理想工作州」的主要原因可能有哪些？",
+      "生活與未來：你覺得這個評比結果會對想去這兩個州工作的人造成什麼實際影響？",
+      "獨立思考提案：針對這份報告提出的問題，你覺得這兩個州的政府或企業可以怎麼做來改善當地的工​​作環境會更好？"
+    ],
+    "enTitle": "Georgia, South Carolina Rank Near Bottom in 'Best States to Work' Report",
+    "enContent": {
+      "basic": "A new report says Georgia and South Carolina are among the worst states for workers in the U.S. The report looks at things like how much people earn, if jobs are safe, and if companies offer good things like health insurance. These two states got low scores because their average pay might be lower, and there might not be as many rules to protect workers compared to other states. This news helps people know which states are better or worse for working.",
+      "intermediate": "According to a recent study evaluating U.S. states, Georgia and South Carolina were ranked near the bottom of the 'Best States to Work' list. This comprehensive report assesses various factors crucial to the working population, including average wages, job security, employee benefits, and worker protections. The low ranking for Georgia and South Carolina suggests that conditions such as compensation and labor regulations in these states may not be as favorable as those in higher-ranked states. This information serves as a useful guide for individuals considering employment opportunities across the country.",
+      "advanced": "A recent analysis, sourced from a foreign media report, has positioned Georgia and South Carolina near the lowest tiers in the 'Best States to Work in U.S.' comprehensive ranking. This evaluative framework typically scrutinizes an array of socioeconomic indicators and labor market conditions, encompassing average hourly wages, employment growth rates, job security, access to employer-provided benefits such as health insurance and retirement plans, and the strength of worker protection legislation. The suboptimal performance of these two states implies potential deficiencies in these areas relative to their counterparts, prompting consideration for policy adjustments aimed at enhancing overall labor force welfare and attractiveness for prospective workers."
+    },
+    "vocabulary": [
+      {
+        "word": "Rank",
+        "zh": "排名：指將許多事物依照某種標準分出先後順序或高低位置。例如，班級成績的排名，或是運動比賽的排名。"
+      },
+      {
+        "word": "Benefits",
+        "zh": "福利：指公司或政府除了基本薪水之外，額外提供給員工或民眾的好處。例如，健康保險、退休金、員工旅遊或是育兒津貼等，讓生活更有保障。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-09-08",
+    "sourceName": "WRDW",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnJEVDFpMTlTc2ZaZ1oxYi05MkFLTjVNZ1BCYjNhMURLM3p3TWtQZmltTE9SZTFJQzVISmxHY0d6Vm14ZlZqZlpIMERJMU9qY3ctbDJ5b2djbVc1eHdrT3l0WFZrOUZoa3FSYzRWVWZvSExVUXhDUnA2QWpNYmdQTjQzMlZoMmV1WHVMRndMMEh2Vk9wc0k3N1ZfeWREcXc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國博物館驚傳竊案！雷諾瓦名畫人間蒸發",
+    "zhSummary": "法國南部一間博物館發生竊盜案，多幅價值連城的藝術品被盜，其中包含法國印象派大師雷諾瓦的畫作。警方已展開調查，但目前畫作仍下落不明。",
+    "zhContent": "<p>各位青少年雜誌的讀者們，你們可能很難想像，電影裡才會出現的藝術品竊盜案，竟然真實發生了！根據外國媒體半島電視台的報導，在浪漫的法國南部，一間當地博物館遭遇了竊賊光顧，多幅珍貴的藝術品被偷走了，其中最受矚目的，就是法國印象派大師雷諾瓦的畫作。</p><p>這次被盜的畫作不僅歷史悠久，更是藝術史上極具代表性的作品，對全世界的藝術愛好者來說，都是無價之寶。這些畫作原本好好地陳列在博物館內，供大家欣賞，卻在一夜之間消失。可以想像，當博物館工作人員發現這些寶貴的收藏品不翼而飛時，會有多麼震驚和心痛。</p><p>事件發生後，法國當地警方不敢大意，立刻啟動了全面調查，希望能盡快找回這些被竊的藝術品，並將竊賊繩之以法。博物館方面也正積極配合警方，提供所有相關線索，同時也緊急加強了館內的安保措施，避免類似事件再次發生。</p><p>目前為止，法國警方仍然在積極偵辦這起竊案，被盜走的雷諾瓦畫作也還沒有被找回。這起發生在法國南部的藝術品失竊案，讓全球藝術界和收藏家都感到非常震驚，也引起了大家對博物館安全議題的關注。所有人都密切關注著案件的進展，希望能早日找回這些珍貴的文化寶藏。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，有哪些客觀事實是你第一次聽說的？你對這些事實有什麼疑問？",
+      "生活與未來：你覺得博物館在面對藝術品失竊時，除了報警和加強安保，還能做些什麼來降低風險？",
+      "獨立思考提案：如果這些畫作最終沒有被找回，你認為對藝術界和法國社會會有什麼長遠的影響？"
+    ],
+    "enTitle": "Renoir Paintings Stolen from Southern France Museum",
+    "enContent": {
+      "basic": "In southern France, a museum reported a theft of several valuable artworks, including paintings by the famous French artist Renoir. Police are investigating, but the stolen art is still missing.",
+      "intermediate": "A museum in southern France has been targeted by thieves, resulting in the loss of several priceless artworks. Among the stolen pieces are paintings by the renowned Impressionist master Pierre-Auguste Renoir, a significant blow to the art world. Local authorities have launched an extensive investigation to recover the cultural treasures, but their whereabouts remain unknown.",
+      "advanced": "A major art heist has struck a museum in southern France, with valuable paintings, including works by the celebrated French Impressionist, Pierre-Auguste Renoir, reported stolen. The theft has sent shockwaves through the global art community, prompting an immediate and thorough investigation by French police. As of now, the whereabouts of these irreplaceable cultural assets remain undiscovered, raising concerns about museum security protocols worldwide."
+    },
+    "vocabulary": [
+      {
+        "word": "museum",
+        "zh": "博物館：一個收藏、展示歷史文物、藝術品、科學標本或文化資產的地方。就像一個超大型的知識寶庫，裡面有很多值得一看的珍貴東西。"
+      },
+      {
+        "word": "stolen",
+        "zh": "被偷走：指某樣東西在未經主人同意的情況下，被別人偷偷拿走了。就像你的錢包或手機不見了，很可能是被偷了。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-09-08",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTZaT0theXZnQUNDbk41WlRNdmJTWFNfT0NVRVhyVEhTandGcmViZ0dzSlZ0ZlMxSW1xT1I5d09TOElOeVRTQjJGT1Bmak1MWUpoMVhueGhyNzJnaVNhX3kxdzJfbFFHM1dfWWNvbzVWdTBNUXNxcHNuNnVUM19QdEpqdW9wSGxNMjhudFc1azM2RE5Nc1hNLU9fXzVjNnkyS0lKcWpkbl9IQU94czVJ0gG0AUFVX3lxTE1McnV4ZG80QVEyY1EybDlCN2hpbDFyY1dtUFZ5M1JqNFpHTGJHSXo0OENkNjhrTUY2Zzd3YURwMVpsU2pPWWx1QV96ZFlfeEdqLXQxUXJfUHg5MFdZZWx6UmZvRS1GZkpDRnc3OTVrYV9PN24zQXFqekUwMmg5ME5pSy1JQlp4NHZJc05hcER3TGF5QnB1MUxRUlZ2RFV3WW4xdFU1Y0dPZzUtbDgwWmMtMncycg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "曼德拉文物拍賣風波：南非法院將如何判決？",
+    "zhSummary": "南非法院即將對拍賣前總統曼德拉的個人物品做出裁決。這起事件引發了關於國家文化遺產保存與家族所有權的爭議，各方都在等待法院的最終決定，這將對南非如何處理國家英雄遺產產生重要影響。",
+    "zhContent": "<p>南非法院最近有一件非常重要的事要宣布，那就是關於已故前總統納爾遜·曼德拉（Nelson Mandela）一些個人物品能不能被賣掉的決定。大家知道曼德拉是南非的英雄，他為了國家的自由和公平奮鬥了一生，所以他的東西對南非人民來說，不只是一般的物品，更是重要的歷史紀念品，代表著他們的國家故事和珍貴的回憶。正因為這些東西有著非凡的意義，這次法院的裁決才會這麼受到矚目。</p><p>據了解，這些準備要被拍賣的物品種類很多，像是曼德拉在監獄裡用過的一些私人物品、他收到的禮物，甚至可能包括他一些具有紀念意義的衣物等等。提出拍賣想法的是曼德拉的家族成員，他們希望透過拍賣這些珍貴的收藏，為家族成員帶來一些經濟上的幫助。但南非政府卻不這麼認為，他們覺得這些物品屬於國家級的文化遺產，應該要被好好保存，讓所有南非人都能看到，而不是變成私人財產被賣掉。</p><p>這就形成了一個複雜的法律難題。一方面是曼德拉家族成員的個人所有權，他們認為這些是屬於他們的家族財產，有權利處理；另一方面則是南非政府與相關文化機構的立場，他們堅稱這些物品是整個國家的寶貴資產，具有無法取代的歷史價值，一旦被拍賣給私人收藏家，可能就再也看不到了。因此，南非高等法院必須在兩種不同的權益主張之間找到平衡點，做出一個公平又合理的判決。</p><p>目前，南非法院已經完成了所有的審理程序，正在準備正式公布最終的裁決結果。大家都在屏息等待，想知道究竟這些承載著曼德拉光輝歷史的物品，最終的命運會是被保存成為國家的共同記憶，還是會進入拍賣市場，流向不同的私人收藏。無論判決結果如何，這都將對南非如何處理國家英雄遺產的方式，產生重要的影響。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，曼德拉的家族與南非政府雙方主要的訴求各是什麼？他們堅持的理由分別是什麼？",
+      "生活與未來：你覺得法院的判決，無論結果如何，會對曼德拉的家族和南非人民帶來什麼樣的實際影響？",
+      "獨立思考提案：針對這類涉及國家英雄遺產的爭議，你覺得除了拍賣或政府保存之外，還有沒有其他更好的處理方式，可以兼顧家族與國家的權益？"
+    ],
+    "enTitle": "South Africa Court to Rule on Sale of Mandela Items",
+    "enContent": {
+      "basic": "A court in South Africa is deciding whether some personal items of former President Nelson Mandela can be sold. Mandela was a hero for South Africa, fighting for freedom. His family wants to sell some of his things, like items he used in prison and gifts, to help them financially. But the South African government believes these items are national treasures and should be kept for everyone to see. The court has to choose between the family's right to sell and the nation's right to keep its history. Everyone is waiting to hear the court's final decision.",
+      "intermediate": "South Africa's high court is preparing to issue a significant ruling regarding the potential sale of personal belongings once owned by the late former President Nelson Mandela. Mandela, revered as a national hero for his lifelong struggle against apartheid, has left behind items considered to be critical historical artifacts. His family intends to auction various items, including personal effects from his time in prison and significant gifts, citing financial reasons. However, the South African government and cultural institutions argue that these objects represent an invaluable part of the nation's cultural heritage and should be preserved publicly. The court's decision will weigh the family's property rights against the state's interest in safeguarding national legacy.",
+      "advanced": "The South African judiciary is poised to deliver a landmark ruling concerning the disposition of numerous personal artifacts associated with the nation's revered former President, Nelson Mandela. This contentious legal battle pits members of Mandela's family, who seek to monetize select items—ranging from prison possessions to significant diplomatic gifts—against the South African government and its cultural heritage bodies. The latter contend that these objects transcend mere personal property, embodying indispensable national patrimony that must be safeguarded for public display and historical continuity. The high court's imminent verdict, expected to balance familial proprietary rights with the imperative of preserving a shared national legacy, will undoubtedly establish a precedent for how South Africa manages the heritage of its iconic figures."
+    },
+    "vocabulary": [
+      {
+        "word": "legacy",
+        "zh": "遺產、傳承：指一個人去世後留下的東西，不只是金錢或物品，也可以是他的思想、影響力或對社會的貢獻。就像曼德拉留給南非人民的自由與平等，就是他寶貴的「遺產」。"
+      },
+      {
+        "word": "artifact",
+        "zh": "文物、手工藝品：指古時候人們製作或使用過的物品，通常具有歷史或文化價值，像是古老的工具、藝術品或紀念品等等。曼德拉的私人物品，對南非來說就是重要的「文物」。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-09-08",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zTDR1NFNDV0prQzduNnFfUXZuUlN1NHg4bTFMR2pMX1B3SUxyQTBtVmcxZVNjLUhuOVVlYS13ZHk1WXNaN1dHNE9JLTlfZ05hdmZNWDUwNml1NkpJQ2JpSVV3RDZVYmJlUnJ4dzBnUW9mZnhhT2NpOQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "俄羅斯、中國、伊朗三國領袖齊聚吉爾吉斯 準備參加重要峰會！",
+    "zhSummary": "一則來自法國媒體的消息指出，俄羅斯、中國和伊朗這三個國家的最高領導人即將前往中亞國家吉爾吉斯，參與一場重要的國際峰會，引起國際社會的關注。",
+    "zhContent": "<p>「France 24」這家外國媒體最近報導了一則重要新聞，指出俄羅斯、中國和伊朗這三個國家的最高領導人，都已經決定要前往中亞的吉爾吉斯共和國，參加一場即將舉行的國際峰會。這項消息一出，立刻引起了國際社會的廣泛關注，因為這代表著三位在世界舞台上非常有影響力的領導人，將會在同一個地點碰面，共同討論一些重要的事情。</p><p>所謂的「峰會」，其實就是指國家元首或政府首腦之間，所舉行的一場高層級會議。通常，在這樣的重要場合裡，各國領導人會針對全球性的挑戰、地區性的合作，或是如何加強國家之間的關係等議題，進行深入的討論與交流。這次三國領導人選擇在吉爾吉斯會面，也凸顯了該國在中亞地區的地理重要性。吉爾吉斯作為主辦國，將會負責接待這些來自世界各地的貴賓。</p><p>雖然新聞報導並沒有詳細說明這次峰會會談論哪些具體內容，但可以推測，這些國家元首的會面，多半是為了針對當前世界上大家共同關注的問題交換意見。例如，可能會談到經濟發展、地區安全穩定，或是其他需要多邊合作解決的國際事務。對於這些在國際政治與經濟上都扮演著關鍵角色的國家來說，定期舉行這類高層對話，是維護彼此關係、確保共同利益能夠被妥善溝通的重要方式。</p><p>目前這則新聞主要傳達了俄羅斯、中國和伊朗三國領導人將動身前往吉爾吉斯參加峰會的計畫。這表示一場重要的國際會議正在緊鑼密鼓地籌備當中，很快就會正式展開。不過，新聞中並沒有提及這次會議的具體舉辦日期，也沒有預先揭露任何可能的討論結果或最終聲明。一切都還需等到峰會實際召開後，透過後續的官方資訊發布，才能夠進一步地了解這場會議的進展與結論。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Leaders from Russia, China, Iran Set to Attend Summit in Kyrgyzstan",
+    "enContent": {
+      "basic": "Leaders from Russia, China, and Iran are planning to meet at a summit in Kyrgyzstan. This news was reported by France 24. A summit is a big meeting where important country leaders talk about global issues.",
+      "intermediate": "According to France 24, the top leaders of Russia, China, and Iran are expected to participate in an upcoming international summit to be held in Kyrgyzstan. Such high-level meetings typically involve heads of state discussing various global and regional matters, aiming to strengthen cooperation or address shared concerns.",
+      "advanced": "France 24 has reported that the heads of state of Russia, China, and Iran are scheduled to converge in Kyrgyzstan for a significant international summit. These multilateral gatherings provide a platform for high-level diplomatic engagement, facilitating discussions on critical geopolitical, economic, and security issues among key global actors, thereby shaping regional and international policy landscapes."
+    },
+    "vocabulary": [
+      {
+        "word": "Summit",
+        "zh": "峰會 (fēng huì) - 指的是國家之間，由最高領導人（像是總統或總理）參加的超重要大型會議。他們會聚在一起討論世界大事或共同的挑戰，就像學校裡老師和校長開會討論全校的大事一樣。"
+      },
+      {
+        "word": "Leaders",
+        "zh": "領袖 (lǐng xiù) - 指的是一個國家或團體中最重要、最有權力的人，通常是決定方向和帶領大家前進的角色，像是國家總統、總理或最高領導人。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-09-08",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNxZnNPeHFyTk9uOVlBcFI4YW9ack0tWDNZdG1ZdDNPVURHeWhyMGdHT0VRTVZxUkJJM01LUDlMRVU2ZGVXVU1NVGc4NE9wSm5kaG1CdnR3dlU5Rmcyck1hQjZIQkpJdWdqeGJpOW95cDN0eWYxYWN2NUtScERVbWY1RTk0WGlOOFM2QkdYenJ3ejBpU1VVVzBjb25DcklSWVZ6MXJhaXhQZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "超酷！南韓主題樂園機器人大軍出動，顛覆你的娛樂想像！",
+    "zhSummary": "南韓一間主題樂園大膽採用機器人作為娛樂主角與服務人員，希望創造全新的遊樂體驗，並引領未來娛樂的潮流。",
+    "zhContent": "<p>南韓有一座主題樂園，最近因為一個超酷的點子，在國際媒體上引起了不少討論。這座樂園大膽提出了一個想法：機器人會不會是未來娛樂的主流呢？他們不僅僅是想想而已，而是真的把這個想法變成現實，讓遊客們親身體驗，掀起一股關於未來樂園的熱潮。這個消息來自英國廣播公司（BBC），報導指出這座樂園正在徹底改變大家對遊樂園的想像。</p><p>根據報導，這座南韓樂園引進了各種高科技機器人，讓它們不再只是冰冷的機器，而是成為樂園裡不可或缺的「明星」。這些機器人可能化身為舞台上的表演者，帶來精采的歌舞秀，或是擔任園區裡的接待人員，指引遊客方向、回答問題。更特別的是，有些機器人甚至會和遊客互動，玩遊戲、說笑話，讓整個遊玩過程充滿驚喜。這些設計都希望能提供一種前所未有的沉浸式體驗，讓遊客感覺自己真的踏入了科幻電影裡的世界。</p><p>樂園的經營團隊表示，他們相信科技的進步能夠為娛樂產業帶來無限的可能性。透過機器人，他們不僅能創造出過去難以實現的表演效果，也能提升服務效率，讓遊客玩得更開心、更順暢。他們認為，現代的遊客越來越期待新奇和獨特的體驗，而機器人正好能滿足這份期待。這項創新不僅是為了吸引更多人潮，更是希望引領一股潮流，讓其他主題樂園也能思考如何運用科技，打造出更有趣的未來樂園。</p><p>目前，這座南韓主題樂園的機器人娛樂體驗已經吸引了大量的關注。許多前往體驗的遊客都對此感到相當驚訝與興奮，社群媒體上也充滿了他們分享與機器人互動的影片和照片。雖然這項實驗仍在進行中，但其初步的成功已經證明，機器人確實有潛力在未來的娛樂產業中扮演重要角色。這座樂園的舉動，也讓全球的主題樂園業者開始認真思考，機器人娛樂將如何形塑我們未來的遊樂體驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南韓主題樂園為什麼會想引入機器人作為娛樂方式呢？",
+      "生活與未來：你覺得這個改變會對相關的人（例如樂園員工、其他娛樂產業）造成什麼實際影響？",
+      "獨立思考提案：針對這座樂園引入機器人的做法，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Korean Theme Park Embraces Robots for Future Entertainment",
+    "enContent": {
+      "basic": "A theme park in South Korea is trying something new. They think robots can make entertainment better. So, they put robots in the park to sing, dance, and even help visitors. These robots make the park feel like a movie. The park wants people to have new and exciting experiences with technology. Many people are visiting and liking the robot shows. This park shows that robots might be a big part of fun in the future.",
+      "intermediate": "A South Korean theme park is making headlines for its innovative approach to entertainment, boldly exploring the idea that robots could shape the future of fun. According to a BBC report, this park has introduced various high-tech robots to serve as performers, greeters, and interactive companions for visitors. These robots deliver captivating shows, guide guests, and even engage in playful conversations, aiming to create an immersive, futuristic experience. The park management believes that integrating advanced technology can not only enhance performance possibilities but also boost service efficiency and cater to the modern visitor's desire for novel experiences. Initial public reception has been largely positive, suggesting that this experiment could indeed pave the way for a new era in theme park entertainment.",
+      "advanced": "A pioneering South Korean theme park is redefining the entertainment landscape by positioning robotics at the forefront of its visitor experience, challenging conventional notions of leisure and amusement. Reports, including one from the BBC, highlight the park's strategic deployment of sophisticated artificial intelligence and robotics to create an entirely new paradigm for visitor engagement. From highly choreographed theatrical performances featuring humanoid robots to interactive guides capable of dynamic dialogue and personalized assistance, the park endeavors to immerse guests in a seamlessly integrated, futuristic environment. The management articulates a vision where technological innovation serves as the primary driver for unparalleled entertainment value and operational efficiency, catering to an evolving consumer demand for bespoke and technologically advanced recreational activities. Early indicators suggest a robust public embrace of these robotic integrations, underscoring the potential for intelligent machines to fundamentally transform the global theme park industry and broader entertainment sectors."
+    },
+    "vocabulary": [
+      {
+        "word": "Entertainment",
+        "zh": "娛樂 (yú lè)：指那些能讓人覺得開心、放鬆、好玩的事情或活動。比如看電影、玩遊戲、聽音樂、去遊樂園等等，都算是娛樂。"
+      },
+      {
+        "word": "Immersive",
+        "zh": "沉浸式 (chén jìn shì)：當我們說一個體驗是「沉浸式」的時候，意思就是這個體驗設計得非常好，讓人感覺自己完全投入、身歷其境，好像真的進入了那個世界一樣。例如看3D電影或玩VR遊戲，會讓你感覺就置身其中。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-09-08",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "墨西哥教堂驚傳煙火爆炸！彌撒變調釀10死64傷",
     "zhSummary": "墨西哥一間教堂在進行莊嚴的彌撒時，發生煙火爆炸意外，造成多人死傷，讓原本神聖的宗教儀式蒙上陰影。",
     "zhContent": "<p>墨西哥一間教堂在進行莊嚴的彌撒時，突然發生了一起令人震驚的煙火爆炸事件。這個突如其來的意外，讓原本神聖的宗教儀式瞬間變調，造成了嚴重的傷亡。許多原本沉浸在祈禱與祝福氛圍中的信徒，在一聲巨響後陷入了恐慌與混亂。</p><p>根據外電報導，這起不幸的事件發生在2026年9月7日。當時，許多信徒正聚集在教堂內參與彌撒，空氣中瀰漫著節日的歡樂與莊重。然而，在儀式進行途中，不知何故，煙火突然引爆。巨大的聲響與火光瞬間吞噬了部分區域，現場頓時陷入一片混亂，人們驚慌失措地四處奔逃。</p><p>煙火在墨西哥等拉丁美洲國家，常被用於宗教慶典或特殊節日的歡慶活動中，為現場增添熱鬧氣氛。不過，將煙火引入室內或在人群密集的場所施放，潛藏著相當高的危險性。目前，當地政府當局仍在積極調查這批煙火的來源以及確切的爆炸原因，試圖釐清為何會在教堂內引發如此嚴重的事故。</p><p>這起事件已知造成了至少10人不幸死亡，以及多達64人受傷。這些受傷的信徒已被緊急送往醫院接受治療，有些傷勢較重的民眾仍在與死神搏鬥，急需各界援助。爆炸的慘痛後果，讓這個原本應該充滿祝福與喜悅的宗教節日，被悲傷與哀悼的氛圍籠罩。</p>",
@@ -9028,461 +9413,6 @@
     "date": "2026-08-10",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUFOS1J1U18wR3JnMlVsSEI5N3pzYUxwOUlmX3lvT0c4U0hvMzNGcHQ2OTBmcDBqdE1PRlVpdk9BeUFaZmtFbzlPY1lrcFRaWEVteExsNC1VbUw2d19rQ0RHdmtoRzQ2SE1ScHdHWUpENjZlWnYzdzNETFEtaGZodkJSNEpqUFVQT3hERjFfc2M4WjVLWFRIZ3MzckJ6TERzZGI1dTMtZHFHM0w1OFNmT1RaNVR2RFZj?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "泰國嚴重槍擊案：九人殞命，專家歸因槍枝管制鬆散",
-    "zhSummary": "泰國近日發生一起造成九人死亡的槍擊案，是四年來最嚴重。專家認為事件與槍枝管制鬆散有關，引發社會對槍枝管理政策的討論與關注。",
-    "zhContent": "<p>泰國近日傳出了一起非常嚴重的槍擊案，造成了九人不幸喪生。這起事件不只人數眾多，更是當地在過去四年來，傷亡最慘重的一起槍擊案件。消息一出，立刻震驚了泰國社會，也讓許多人對於公共安全感到擔憂，大家都在關注這起突發的悲劇。</p><p>這起悲劇性槍擊案的發生，讓原本平靜的日常瞬間被打破。九個生命在槍聲中戛然而止，這對受害者家庭而言，是難以承受的打擊，也讓整個國家陷入一片哀傷。雖然新聞標題沒有提供太多細節，但從死亡人數來看，可以想像當時現場的混亂與危險，以及事件造成的深遠影響，絕非一時半刻能平復。</p><p>關於這起駭人聽聞的槍擊事件，有專家學者在分析後指出，泰國目前較為寬鬆的槍枝管制政策，可能是導致這類大規模槍擊案頻頻發生的重要原因之一。他們認為，如果槍枝容易取得，心懷不軌的人就可能更容易獲得武器，進而釀成悲劇。因此，專家們呼籲，當局應該檢討並收緊槍枝管制措施，以避免未來再次發生類似的憾事。</p><p>這起造成九人死亡的槍擊案，無疑是泰國近期社會安全上的一大警訊。目前，相關部門正在積極處理事件的後續事宜，包含調查槍擊案的起因與詳細經過，同時也啟動了對受害者家屬的協助工作。這起事件不只提醒了社會大眾槍枝管理的必要性，更讓泰國政府面臨如何在保障人民安全的同時，有效管制槍枝的巨大挑戰。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Thailand Shooting Incident: Nine Dead, Experts Cite Loose Gun Control",
-    "enContent": {
-      "basic": "A shocking shooting in Thailand recently killed nine people. This was the worst shooting incident in four years. Experts say that the easy access to guns in Thailand, or \"loose gun control,\" might be why such tragic events happen. People are now thinking more about how guns are managed in the country.",
-      "intermediate": "Thailand recently experienced a devastating shooting that claimed nine lives, marking it as the most severe incident of its kind in the past four years. This tragedy has deeply shaken the nation and prompted public concern over safety. Experts suggest that the country's relatively lax gun control policies could be a significant factor, potentially allowing easier access to firearms which can lead to such violent occurrences. Authorities are currently managing the aftermath and facing renewed calls to review and tighten gun regulations.",
-      "advanced": "A recent and profoundly disturbing shooting incident in Thailand has resulted in nine fatalities, establishing it as the most significant event of its nature in the last four years. The news has sent shockwaves throughout Thai society, intensifying concerns regarding public safety and the prevalence of firearm-related violence. Analysts and experts have rapidly attributed the severity and recurrence of such incidents to what they describe as inadequacies within Thailand's existing gun control framework. This perspective underscores the argument that less restrictive access to weaponry inherently escalates the risk of mass casualties. Consequently, the government is now under increased pressure to conduct a thorough re-evaluation and potential overhaul of its arms legislation to mitigate future tragedies."
-    },
-    "vocabulary": [
-      {
-        "word": "gun control",
-        "zh": "槍枝管制。意思是國家或政府對於槍枝的製造、買賣、擁有和使用，所制定的一系列法律和規定，目的通常是為了維持社會治安，減少槍枝犯罪。"
-      },
-      {
-        "word": "casualty",
-        "zh": "傷亡。指的是在戰爭、意外或災害中，受傷或死亡的人數。當新聞提到「造成多少傷亡」，就是在說有多少人因此受傷或失去生命。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-08-09",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfUjFRQ1FIOWhFV2M2Sk83S3gxR1Z5ODBDQ3VpWUhVVnMyN3gyY00wcnY0RDhTaTJrajZ1RHJLZjU0RDdVdXBJS3hKOA?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "深入追查：野火多是人為引起，氣候變遷卻讓它們更猛烈！",
-    "zhSummary": "路透社報導指出，許多人以為野火是自然現象，但事實查核發現，多數森林大火的起因都與人類活動有關。同時，全球氣候變遷則讓這些由人引起的火災變得更加劇烈、難以撲滅。",
-    "zhContent": "<p>你或許會以為森林野火，就是那種因為天氣太熱、太乾燥，樹木自己燒起來的自然現象，對吧？但根據國際媒體路透社的最新報導指出，經過仔細的事實查核後發現，其實地球上大部分的野火，最一開始的起火點，都跟我們人類的活動脫不了關係。這個消息可能跟你想像的不太一樣，它提醒我們，野火的發生遠比表面上看到的還要複雜。</p><p>報導進一步解釋，那些造成森林大火的「人為因素」有很多種。簡單來說，可能是因為有人在野外不小心留下還沒熄滅的營火，或是亂丟菸蒂，甚至是電線短路造成的火花，還有一些是人為縱火等等。這些動作，即使是無心之過，都可能變成引發一場大規模森林火災的導火線。也就是說，大部分的野火，並不是因為閃電打到樹上或是樹葉摩擦生熱而「自己」燒起來的，而是由人類的行為「點燃」的。</p><p>雖然多數野火是人為引起，但氣候變遷的角色也非常關鍵。報導強調，全球暖化導致許多地區的氣溫越來越高，乾旱期也越來越長，這使得森林裡的植被變得更乾燥、更容易燃燒。當這些由人類活動引發的火源一出現，在這些「高溫、乾燥」的環境下，火勢就會更快地擴大，燃燒得更猛烈。所以，氣候變遷就像是給這些野火「加油」，讓它們從小火苗變成難以控制的超級大火。</p><p>路透社這篇報導的重點非常清楚：雖然野火的「點燃者」多數是人類，但「氣候變遷」卻是讓這些火災變得更極端、更具破壞力的主要推手。這兩者加在一起，讓全球面對的野火威脅日益嚴重，也成為科學家和政府部門持續關注的嚴肅課題。報導只客觀地呈現這些發現，讓大家知道野火背後的真正原因和影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Fact Check: Human Activities Spark Most Wildfires, Climate Change Makes Them More Extreme",
-    "enContent": {
-      "basic": "Reuters reports that most wildfires are started by people. Things like campfires, cigarettes, or broken power lines can cause them. But climate change, which makes the world hotter and drier, makes these fires much bigger and more dangerous once they start.",
-      "intermediate": "A fact-check by Reuters reveals that human actions are the primary ignition source for the majority of wildfires globally. Activities such as unattended campfires, discarded cigarettes, and faulty power lines frequently spark these blazes. Concurrently, climate change exacerbates the intensity and spread of these fires by creating hotter, drier conditions that make vegetation more combustible, turning small ignitions into extreme, destructive events.",
-      "advanced": "A comprehensive fact-check conducted by Reuters indicates that human activities are overwhelmingly responsible for the initial ignition of most wildfires worldwide. This encompasses a range of preventable actions, including negligent campfires, improper disposal of smoking materials, and infrastructure-related sparks like those from power lines. Crucially, the report highlights that anthropogenic climate change significantly intensifies these human-sparked fires by fostering increasingly arid environments and elevated temperatures, which contribute to rapid fire propagation and increased severity, transforming what might be contained incidents into catastrophic events."
-    },
-    "vocabulary": [
-      {
-        "word": "Wildfire",
-        "zh": "野火 (yě huǒ) - 指在森林、草原或灌木叢中，因為乾燥、高溫或其他原因而快速蔓延的火災。"
-      },
-      {
-        "word": "Ignite",
-        "zh": "點燃 (diǎn rán) - 讓東西開始燃燒，產生火焰。像是用火柴點燃蠟燭，或是火源引發了火災。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-08-09",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWVJLVpNUVJfRU1jY1gxd2wzX0FXUVMyX2dQcnVNN255QU5ZaGp6a0J5TzhiMy1SengtMkp6c0NEekpVRDJWQXdVa0pidTFjMVVFbWR4c2daSktnTi1ydmtZYWpaQjdfaUV4NGFUbnZqLWxSWjlXeFFQWEFoUlRnR1ZHb0ltNm81djRfSXpTV0xJQURGaG5pNkw4Z29ETkFyckI2YXREWGZEVlhSc3FsS0UxblpzVVZka2xzUw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "安迪·伯納姆的教育大改造：真的能幫助我們嗎？",
-    "zhSummary": "英國大曼徹斯特區市長安迪·伯納姆提出一項「重整教育」計畫，希望透過調整學習內容與方式，讓年輕人更符合未來職場需求，引發社會熱烈討論其成效與挑戰。",
-    "zhContent": "<p>嗨，大家好！最近英國大曼徹斯特區的市長安迪·伯納姆，提出了一個超受大家關注的教育大計畫。這個計畫叫做「重整教育」，聽起來是不是很酷？簡單來說，就是希望重新調整學校的學習方式和內容，讓它更符合現代社會的需求。因為這個計畫可能會影響到很多年輕人的未來，所以大家都在熱烈討論，到底這個「新教育藍圖」會不會成功呢？《衛報》上的「讀者來函」專欄也收到了很多不同的聲音和看法。</p><p>伯納姆市長提出的這份「重整教育」計畫，主要目標是讓年輕人畢業後能有更好的準備，銜接上工作職場。他覺得，現在的教育模式可能太偏重書本知識，而忽略了實際操作的技能培養。所以，計畫中可能會強調像是學徒制、職業訓練，還有讓學校課程和企業需求有更多連結，讓學生在學習的同時，也能更早接觸到真實世界的工作挑戰。他希望透過這樣的改變，讓更多年輕人找到適合自己的路，提升就業機會。</p><p>為什麼會想推動這樣的改革呢？其實，伯納姆市長觀察到，許多年輕人在完成學業後，常常會面臨找工作或技能不足的困境。他認為，如果能提早讓教育系統跟上時代的腳步，補足這些「技能缺口」，就能幫助年輕一代更有自信地面對未來。不過，由於這是一項大規模的教育改革，所以社會上也有不少討論。有些讀者認為這是一個很棒的想法，可以解決現有問題；但也有人提出疑問，擔心計畫在執行上會遇到困難，或者是不是真的能帶來預期的效果。</p><p>總之，安迪·伯納姆市長的這個「重整教育」計畫，目前還在各界討論與關注當中。大家都在期待，看看這份充滿雄心壯志的藍圖，最終會如何發展，以及它是否真的能為大曼徹斯特區的年輕人帶來更光明、更有競爭力的未來。至於計畫的具體成效如何，還有待時間的驗證。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Andy Burnham's Education Overhaul: Will It Work?",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "retool",
-        "zh": "重整、重新調整。想像一下，你的工具箱裡有些舊工具用不太到，現在要把它們換成更實用、更符合現在需求的工具，這就是「retool」！"
-      },
-      {
-        "word": "education",
-        "zh": "教育、學習。這包括你在學校學到的知識、技能，還有老師教你的各種能力，都是「education」的一部分喔。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-08-09",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmotdVAtMFJmZUpsVE5HUDctUzFqdnNZUFR2NWRhS2Z0X0xfQ2hIRkk4U3NSMFJuRmhUSjNSMVBYa3o3TUlSXzU2UldBOW9JRHloRG5rS2t0Yi14Z2Q1WnV6NVA4aWVBWEM1dG1aTDgwdS10TDFlM0RUUFhpTElKOGdLTTNSUndIR2FrX0c5VUk2MEZXekFRcVFvb181QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "以色列新創公司被踢爆：偷偷利用AI做「影響力操作」，惹惱OpenAI、Anthropic和Meta！",
-    "zhSummary": "一家名為Blackbird.AI的以色列新創公司，被發現偷偷利用OpenAI、Anthropic和Meta等大公司的AI模型，進行可能影響輿論的「影響力操作」。這讓這三家AI巨頭非常生氣，並果斷採取行動封鎖了他們。這則新聞提醒我們，AI使用上的界線越來越明確。",
-    "zhContent": "<p>最近科技界有個不小的消息，一家來自以色列名叫「Blackbird.AI」的小型新創公司，竟然被發現悄悄地使用了OpenAI、Anthropic和Meta這三家大型科技公司的強大人工智慧（AI）模型，而且使用方式還嚴重違反了這些公司的規定。簡單來說，Blackbird.AI被指控偷偷地利用這些先進的AI技術來進行一些不被允許的活動，這讓AI業界的巨頭們都非常關注。</p><p>根據外媒的報導，Blackbird.AI被發現主要在做所謂的「影響力操作」。這聽起來有點複雜，但其實就是利用AI來生成大量內容，試圖在網路上秘密地影響人們的看法和輿論走向。這些操作可能包括散布特定的訊息、製造假新聞，或是以不透明的方式引導大眾的討論。然而，OpenAI、Anthropic和Meta這些開發AI模型的公司，都有非常嚴格的使用條款，明文禁止使用者將他們的AI用於任何形式的惡意影響力操作，或是任何可能誤導公眾的行為。</p><p>當這三家AI公司發現Blackbird.AI的行為後，他們立刻啟動了內部調查。經過仔細的審查，OpenAI、Anthropic和Meta都確認Blackbird.AI確實違反了他們的使用政策，其行為不只可能損害使用者信任，也挑戰了AI技術應有的倫理界線。這些公司強調，他們一直致力於確保AI技術能被負責任地使用，避免被濫用來散布不實資訊或操控社會討論。</p><p>面對明確的違規行為，OpenAI、Anthropic和Meta都採取了非常堅決的措施。他們迅速且果斷地終止了Blackbird.AI對其AI模型的存取權限，徹底阻止他們繼續利用這些服務進行任何「影響力操作」。這顯示了這些頂尖AI公司對於維護其技術的正直性與負責任使用原則，有著不容妥協的決心，也為所有AI使用者畫出了一條明確的紅線。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，Blackbird.AI使用了什麼方式，違反了OpenAI、Anthropic和Meta的哪些規定？",
-      "生活與未來：你覺得AI技術被用來進行「影響力操作」會對我們日常生活中接觸到的資訊產生什麼實際影響？",
-      "獨立思考提案：針對這次事件，你認為大型AI公司除了封鎖違規帳戶外，還可以怎麼做，才能更好地預防類似的「影響力操作」再次發生？"
-    ],
-    "enTitle": "Israeli Startup Linked to Rogue AI Hacks at OpenAI, Anthropic, and Meta",
-    "enContent": {
-      "basic": "A small Israeli company called Blackbird.AI was caught using AI models from big tech companies like OpenAI, Anthropic, and Meta in ways they weren't supposed to. They were using the AI to create content that could influence people's opinions online, which is against the rules of these AI companies. OpenAI, Anthropic, and Meta quickly stopped Blackbird.AI from using their AI tools.",
-      "intermediate": "An Israeli startup, Blackbird.AI, has been linked to unauthorized 'influence operations' using artificial intelligence models developed by OpenAI, Anthropic, and Meta. These operations involved generating content intended to subtly shape public opinion, a clear violation of the AI providers' terms of service which prohibit the misuse of their technology for deceptive or manipulative purposes. Upon discovery, all three major AI companies launched investigations and subsequently terminated Blackbird.AI's access to their powerful AI platforms.",
-      "advanced": "Reports indicate that Blackbird.AI, a nascent Israeli startup, exploited the advanced AI capabilities of OpenAI, Anthropic, and Meta for covert 'influence operations.' This involved leveraging sophisticated language models to produce and disseminate content designed to surreptitiously sway public sentiment and manipulate online discourse. Such activities constitute a direct breach of the stringent ethical guidelines and terms of service upheld by these leading AI developers. Consequently, after thorough internal investigations confirmed the illicit usage, OpenAI, Anthropic, and Meta collectively moved to revoke Blackbird.AI's access to their respective AI infrastructures, underscoring their commitment to responsible AI deployment and combating misinformation."
-    },
-    "vocabulary": [
-      {
-        "word": "Startup",
-        "zh": "新創公司 (解釋：指剛成立不久、規模通常較小，但充滿創新想法和快速成長潛力的新公司，尤其在科技領域很常見。)"
-      },
-      {
-        "word": "Rogue",
-        "zh": "違規的／惡意的 (解釋：這個詞通常形容做了不被允許、不符合規定，甚至可能帶有壞意或危險性質的行為，就像不守規矩的成員一樣。)"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-08-09",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "你的歌單藏著你的「聰明密碼」？研究揭露音樂品味與智力關聯",
-    "zhSummary": "BBC《科學焦點雜誌》報導一項研究，探討了人們喜歡的音樂類型與智力測驗分數之間的潛在關聯，發現某些複雜的音樂風格與較高的智力分數有統計學上的關聯，但這僅是一種關聯性，非因果關係。",
-    "zhContent": "<p>BBC《科學焦點雜誌》最近報導了一個有趣的研究發現，它探討了我們喜歡聽什麼音樂，可能跟我們的聰明才智之間有什麼關聯。這項研究並不是要告訴大家聽某種音樂就比較聰明，或是比較不聰明，而是科學家們想了解，我們的音樂品味是不是能反映出一些關於我們大腦運作的特徵。研究團隊透過問卷和智力測驗，試圖找出音樂偏好與認知能力之間的模式。</p><p>這項研究收集了大量受試者的資料，包括他們最常聽的音樂類型，以及他們在標準智力測驗上的表現。結果發現，某些音樂類型的愛好者，平均智力分數會比其他人高一些。例如，喜歡聽古典樂、爵士樂，或是複雜的器樂演奏曲的人，在智力測驗中的表現通常會比較好。相反地，有些比較簡單、重複性高的流行音樂，或者節奏感強烈但旋律結構不複雜的音樂，則被觀察到與較低的平均智力分數有關聯。但這只是一種統計上的趨勢，而不是絕對的結果。</p><p>研究人員解釋，這些關聯可能與聽音樂的人格特質有關。例如，喜歡複雜音樂的人，通常也比較「開放」，願意嘗試新事物，對抽象概念和深度思考更有興趣。他們的大腦可能更享受處理複雜的聽覺資訊，這正好是許多古典樂或爵士樂的特色。而智力測驗往往也能評估這些認知處理能力。所以，並不是音樂本身讓你變聰明，而是聰明或擁有某些特質的人，可能更傾向於選擇某些特定風格的音樂。</p><p>這項研究的最終結果強調，音樂品味和智力之間的關係，是一種「關聯性」，而非「因果關係」。也就是說，聽某種音樂不會直接讓你變聰明或變笨。它僅僅是觀察到在某個群體中，存在這樣的統計模式。研究同時也指出，每個人的音樂喜好都是獨特的，且受到文化、成長背景等多種因素影響，不應過度解讀這些發現。科學家們認為，這僅是探索人類心智奧秘的其中一塊拼圖，未來還有更多值得深入研究的空間。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "What Your Music Taste May Reveal About Your Intelligence",
-    "enContent": {
-      "basic": "A study looked at if your favorite music shows how smart you are. Some music types, like classical or jazz, were linked to higher scores on smart tests. But it doesn't mean music makes you smart, it's just a connection they saw.",
-      "intermediate": "BBC Science Focus Magazine reported on research exploring the link between musical preferences and intelligence. The study found that individuals who enjoy complex genres such as classical or jazz music tend to score higher on intelligence tests. Researchers suggest this connection might relate to personality traits, like being open to new experiences, rather than music directly affecting intelligence.",
-      "advanced": "A recent study, highlighted by BBC Science Focus Magazine, investigated the potential correlation between an individual's musical preferences and their intelligence levels. The findings indicated that a preference for intricate musical genres, including classical and jazz, was statistically associated with higher scores on intelligence assessments. Researchers hypothesize that this observed correlation could stem from underlying personality traits, such as an openness to experience and a proclivity for cognitive complexity, rather than a direct causal relationship between music consumption and intellectual capacity. The study emphasizes that these are observed patterns within populations, not definitive judgments on individuals."
-    },
-    "vocabulary": [
-      {
-        "word": "Intelligence",
-        "zh": "智力 (zhì lì) - 指一個人學習、理解、解決問題和適應新環境的能力。"
-      },
-      {
-        "word": "Correlation",
-        "zh": "關聯性 (guān lián xìng) - 指兩件事物之間存在某種聯繫，但並不代表一個是另一個的直接原因或結果。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-08-09",
-    "sourceName": "BBC Science Focus Magazine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4WVB5RVMwVVNNTkNKRTdobHBoSmlZV2t2QlQ0X0tWRjhZY0RQQmRRUm1jRFc1ZFVnVVlHSmluLVBBaGxRU2VmU1cybjNBNXY0RmN5SERFUVp0UTc4UjluMmNadlZEdS1ER0dONmV3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "夏威夷初選結果出爐！現任者穩坐陣地，挑戰者未成功突圍",
-    "zhSummary": "夏威夷州最近舉行了一場重要的初選，選民們在各黨派中選出代表參加大選。結果顯示，大部分已經在職的政治人物都成功地贏得了黨內提名，擊敗了那些主張更積極改革的挑戰者。",
-    "zhContent": "<p>夏威夷最近剛結束了一場重要的政治活動，叫做「初選」。這場初選就像是每個政黨在正式大選前，先舉辦的一場內部選拔賽，目的是要決定誰能代表這個黨派，去爭取不同的公職位置，像是州長、議會議員等等。這次選舉的結果出爐，大部分目前正在擔任公職的政治人物，也就是我們常說的「現任者」，都成功地保住了他們的領先地位，順利獲得了黨內的提名，準備參加接下來的正式大選。</p><p>這次的選舉之所以受到關注，是因為有許多自稱「進步派」的候選人出來挑戰現任者。這些進步派通常會提出比較大膽、希望社會能快速改變的政策主張，他們可能更強調環境保護、推動社會公平，或是改革現行的經濟制度。很多人都好奇，在現今的政治環境下，這些尋求變革的挑戰者，是不是能成功撼動那些長期在位的政治人物。</p><p>然而，從最終的計票結果來看，儘管進步派挑戰者的聲勢不小，但大多數現任的議員、官員以及州長候選人，都憑藉著穩定的支持率脫穎而出。這代表著，夏威夷的選民們可能還是比較傾向於支持那些已經有豐富經驗，並且在職位上表現相對穩定的政治人物。他們或許認為，這些現任者能更好地處理夏威夷面臨的各種複雜問題，例如重要的觀光產業發展、當地居民的生活開銷，或是持續不斷的環境保護議題等。</p><p>這次初選的結果也透露出一個訊息，那就是在一些地區，求穩定的力量還是比求快速變革的聲音更大。這些成功獲得黨內提名的現任者，接下來將會投入更激烈的正式大選，與其他政黨的候選人一較高下，爭奪最終的席位。夏威夷的政治版圖接下來會如何變化，還得等到大選結束後才能確定。可以肯定的是，這場初選再次證明了，政治人物的過往表現和經驗，對選民來說依然是重要的考量因素。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Incumbents Triumph in Hawaii Primary Elections",
-    "enContent": {
-      "basic": "In Hawaii's recent primary elections, the politicians who were already in office won. This means they will represent their parties in the main election. They beat other candidates who wanted big changes, known as 'progressive' challengers.",
-      "intermediate": "Hawaii recently held its primary elections, which are contests to choose party candidates for the general election. Most of the current officeholders, known as incumbents, successfully secured their nominations. They overcame challenges from 'progressive' candidates who advocate for more significant and rapid changes in policy.",
-      "advanced": "The Hawaiian primary elections have concluded with a significant outcome: incumbent politicians largely secured their party nominations, successfully fending off challenges from a cohort of progressive contenders. This suggests a voter preference for stability and established experience over calls for rapid policy shifts across various sectors, ranging from environmental governance to socio-economic reforms, as the state prepares for its general election."
-    },
-    "vocabulary": [
-      {
-        "word": "Incumbent",
-        "zh": "現任者（意思就是現在正在做那個工作的人，特別是指在選舉中，已經是議員或官員，又想繼續當下去的人。）"
-      },
-      {
-        "word": "Progressive",
-        "zh": "進步派（指那些在政治上，希望社會能有更多改變、變得更好的人。他們可能會提出一些新的想法或政策，像是更保護環境、讓大家更平等等。）"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-08-09",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkpVU09ORlZ3dm5tMEpvUEtIMXVKazI2NndLTC1ycUdqY0N4d0ZWVGRqWFFpNVVRM1ZucHFrc3VOT201RGtoalo4NWVNeHctMDBOTHBuc0t6emhsX1dOYUlTSFlkNGJ2ZVJIb3BSODVhWU5VMmZ2UFg4eXZwWmlGbG1sSVpOelNxY1NCTXk0aml0YU5HZ0YtX0ZPNWQ5NF84RThLMXluVXNpVWpnY2fSAbMBQVVfeXFMTkE3SlJoZGsyQ1VQX1Z4bU1IZDk5enpTaVpSY2x3eWM3MkJfMEU1THdYZ2Y2WkwtU2VoUktobExtYzBYQTBCSWR0bTlFeW5OR2dITXNFZ082YkdiM09QNzdVQ3VHbkJKNjh3eVNEYUJDNEtTeVVxd193RWE5a1dBeXdfWGlKTXpRNGJyRVJJZzM2TUV0cmFza2U3UnBQWUNoY1I0NXNPQTI3WDNKcFNiU3JiT1E?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "哥倫比亞新總統上任，美國就送上十億美元大禮！",
-    "zhSummary": "美國在新上任的哥倫比亞右翼總統就職首日，便承諾提供高達十億美元的援助，這項消息由英國廣播公司（BBC）報導。",
-    "zhContent": "<p>你知道嗎？國家之間的關係有時候就像同學之間，會互相幫助。最近在南美洲的哥倫比亞，因為剛選出一位新的總統，就發生了一件引起國際關注的大事。根據英國廣播公司（BBC）的報導，就在這位被描述為「右翼」的新總統上任的第一天，美國竟然大方地表示，要提供哥倫比亞整整十億美元的資金援助。</p><p>這筆十億美元可不是一筆小數目，它大約等於新台幣三百多億元。想想看，這筆錢能做多少事情呢？這次美國選擇在新總統剛上任的關鍵時刻做出這樣的承諾，顯然是在向國際社會表明，他們對於哥倫比亞新政府的支持與重視。這樣的時機點，也讓這筆援助的意義顯得更加特別。</p><p>這份來自美國的資金，通常會用於協助受援國家在經濟發展、社會穩定，或是打擊不法活動等方面的努力。雖然新聞標題沒有詳細說明這十億美元具體將用在哪些項目上，但從過往的經驗來看，大筆的國際援助往往與兩國間的共同利益以及戰略合作目標息息相關。這次的援助，也暗示著美國對哥倫比亞新政府寄予了期待。</p><p>總之，美國選擇在哥倫比亞新任右翼總統上任的第一天，就宣布將提供十億美元的援助。這項重要的外交舉動，由BBC披露，標誌著兩國關係進入了一個新的階段。這項援助承諾本身就是目前為止最主要的進展，而後續這筆資金的運用與影響，將是未來值得觀察的重點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Offers $1 Billion to Colombia on New President's First Day",
-    "enContent": {
-      "basic": "The United States has promised to give Colombia $1 billion. This happened on the first day a new president started his job in Colombia. The BBC reported this news. This big offer shows that the US supports the new leader.",
-      "intermediate": "According to the BBC, the United States has offered $1 billion in aid to Colombia. This significant announcement was made on the very first day that Colombia's new right-wing president took office. This timely offer highlights the US's support for the new administration and its importance in international relations.",
-      "advanced": "The BBC has reported that the United States pledged a substantial $1 billion in aid to Colombia, a move strategically timed with the inauguration of the nation's new right-wing president. This immediate financial commitment on the new leader's first day in office underscores the U.S.'s overt support for the incoming administration and its perceived stability or alignment with American interests in the region."
-    },
-    "vocabulary": [
-      {
-        "word": "Billion",
-        "zh": "十億。這是一個很大的數字，例如一後面有九個零，通常用來形容非常多的錢或數量。"
-      },
-      {
-        "word": "Right-wing",
-        "zh": "右翼。在政治上，這通常是指某種保守或傳統的思想立場，相對於「左翼」而言。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-08-09",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rYzgzeDU3YTJoVHRLOGpuZUtnZ1dvN3BLV3BLUmI3bmJsZWIyM1J5eGdfcUJYVmwyTGVRcGpXZmg5cG5abWJhZlpOTURqRXJMb0cxSXpGanNyZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "歐洲真的比美國安全嗎？《經濟學人》的深度分析",
-    "zhSummary": "《經濟學人》的報導分析了歐洲與美國在社會治安和人身安全上的差異，指出美國的槍枝暴力和整體殺人犯罪率普遍高於歐洲，並探討背後可能的社會與政策原因，強調安全感是一個多面向的複雜議題。",
-    "zhContent": "<p>最近，國際知名雜誌《經濟學人》拋出了一個引人深思的問題：「歐洲比美國更安全嗎？」這不是在問哪裡風景比較美，而是在比較這兩個大洲在社會治安、人身安全等方面的實際情況。許多人對這個問題感到好奇，畢竟歐洲與美國在文化、法律和生活方式上都有很大的不同，這些差異是否會影響到每個人的安全感呢？這篇報導就是要帶大家看看，專家們是怎麼分析這個複雜的問題。</p><p>根據《經濟學人》的分析，當我們談到「安全」，其中一個很重要的指標就是暴力犯罪率。特別是關於槍枝暴力事件，統計數據顯示，美國的槍枝相關死亡人數明顯高於歐洲大部分國家。這背後的原因很多，例如美國對於槍枝的法律規定與歐洲國家大不相同，在許多歐洲國家，槍枝的持有與使用都有非常嚴格的限制。此外，整體而言，歐洲國家的殺人犯罪率也普遍低於美國。</p><p>專家們認為，除了槍枝政策的差異，造成這種安全感落差的原因還包括社會福利系統、貧富差距以及醫療資源的普及程度。在許多歐洲國家，政府提供了比較全面的社會安全網，試圖減少社會底層的壓力與不平等，這可能間接降低了犯罪的誘因。相較之下，美國社會的貧富差距問題較為嚴重，社會矛盾也更容易浮現，進而影響了部分地區的治安狀況。</p><p>不過，報導也提醒大家，安全感是一種很個人的體驗，統計數據只是其中的一部分。雖然從數據上看，歐洲在某些暴力犯罪方面似乎比美國更安全，但每個國家、甚至每個城市都有其獨特的治安狀況。總之，這份分析旨在提供一個比較宏觀的視角，幫助讀者理解歐洲與美國在安全議題上的差異點，而非給出一個簡單的誰勝誰負的答案。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Is Europe Safer Than America? The Economist's Analysis",
-    "enContent": {
-      "basic": "The Economist asked if Europe is safer than America. Data shows Europe often has less gun violence and lower murder rates. This is because of different laws, like gun control, and how societies are set up.",
-      "intermediate": "A recent analysis by The Economist explored the question of whether Europe is safer than America. When comparing safety, studies often point to a clear difference in violent crime, especially gun violence, with the US showing higher rates. Experts suggest this is partly due to varying gun control policies, social safety nets, and economic inequalities.",
-      "advanced": "The Economist's recent inquiry into the comparative safety of Europe versus America reveals a complex picture. Statistical analyses frequently indicate that many European nations exhibit significantly lower rates of gun-related fatalities and overall homicides compared to the United States. This disparity is often attributed to divergent legislative approaches, particularly concerning firearm regulation, as well as differences in social welfare provisions and economic inequality that can influence crime rates. The article highlights that while data suggests a trend, the perception and reality of safety are multifaceted and influenced by numerous societal factors."
-    },
-    "vocabulary": [
-      {
-        "word": "Safety",
-        "zh": "「安全」- 指的是一個人或一個地方沒有危險、不會受到傷害的狀態。就像你走在路上或待在家裡時，感覺很安心的那種狀態。"
-      },
-      {
-        "word": "Homicide",
-        "zh": "「殺人罪」- 這是指一個人非法殺害另一個人的行為。這是一個嚴重的犯罪，新聞中常用來衡量一個地方的暴力犯罪程度。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-08-09",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDZiZFpPemlSWjJZZ1h6alZpYkpMX1FBX2Y1d3h1akg1WkR1dWN4Z0d6TnJ0OGlTZlhhME9hX0hiTDdWTk14U1JEMVYzQVdMUVBqMlhodG1aRVRnUk9UWi1NSGJtNGFYalhmWVNRYkc3TzRzRlhNdWNFOXpQOHJxbW44N2dxaGM?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非女性挑戰種族隔離70週年：她們的自由實現了嗎？",
-    "zhSummary": "這則新聞報導南非女性在70年前勇敢對抗種族隔離制度的歷史事件，並指出即使制度結束多年，許多南非女性至今仍覺得她們的自由尚未完全實現。",
-    "zhContent": "<p>今年是個特別的年份，因為它標誌著南非女性勇敢挺身而出，挑戰當地「種族隔離」不公平制度的第70個年頭。這個事件提醒了大家，在數十年前，有一群女性為了爭取基本人權和尊嚴，付出了巨大的努力和勇氣。</p><p>所謂的「種族隔離」（Apartheid），是南非曾經實行的一套非常嚴格的政策，它會根據一個人的膚色將人分成不同等級，並限制不同種族的人在生活中的許多方面，例如居住地點、工作機會、甚至人際交往等。在70年前，南非的女性們對抗的，就是這種充滿歧視和不平等的制度，她們曾發起大規模的遊行，抗議當時嚴格限制黑人行動的「通行證法律」。</p><p>時光飛逝，雖然種族隔離制度已經在多年前正式廢除，南非也走向了更民主的社會，但這則新聞指出，一些南非女性，特別是那些曾經參與過抗爭的老一輩女性，卻認為她們追求的「完全的自由」到現在都還沒有真正實現。這表示她們可能覺得在社會、經濟或其他層面，仍然面臨著某些隱形的限制或不平等待遇。</p><p>這個70週年紀念，讓大家再次看見南非女性當年挑戰不公的勇氣。同時，這也顯示了對許多人來說，追求完整平等的旅程，在種族隔離制度結束數十年後，依然在進行中。這是一個不斷提醒人們，自由與平等的爭取，有時候是一個漫長而複雜的過程。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「種族隔離」制度具體是指什麼？為什麼當時的南非女性要站出來反對這個制度？",
-      "生活與未來：即使「種族隔離」制度已經結束，新聞中有些南非女性卻認為「完全的自由」還沒有實現。你覺得這可能代表了哪些層面的不自由？請試著想像並描述。",
-      "獨立思考提案：如果有一個人想要為一個長期存在的社會不公義發聲，你認為他可以採取哪些實際的行動來爭取改變？"
-    ],
-    "enTitle": "70 Years After Challenging Apartheid, Are South African Women Truly Free?",
-    "enContent": {
-      "basic": "Seventy years ago, women in South Africa bravely spoke out against a very unfair system called apartheid. Apartheid kept people apart based on their race. Now, 70 years later, some women still feel their fight for complete freedom is not yet finished. They believe there are still challenges even after apartheid ended.",
-      "intermediate": "It's been 70 years since South African women took a powerful stand against apartheid, a cruel system of racial segregation. Back then, they marched to protest unfair 'pass laws' that controlled where Black people could live and work. Today, even though apartheid has ended, some of these women and others still feel that their journey towards full and complete freedom is ongoing. They point out that achieving true equality goes beyond just ending segregation, and many challenges remain.",
-      "advanced": "This year marks 70 years since South African women courageously mobilized against the apartheid regime, a brutal system of institutionalized racial segregation and discrimination. A pivotal moment was the 1956 Women's March, where thousands protested the discriminatory 'pass laws.' While apartheid was officially dismantled decades ago, the headline reveals a significant sentiment: some South African women believe their fight for complete freedom is far from over. This ongoing perception highlights the complex, multi-generational nature of achieving true equity and justice, indicating that the promises of freedom and equality, for many, are still a work in progress, even after the historical end of apartheid."
-    },
-    "vocabulary": [
-      {
-        "word": "Apartheid",
-        "zh": "種族隔離 (zhǒng zú gé lí): 南非曾經實行的一種嚴格制度，將不同種族的人分開，並給予白人特權，限制其他種族（特別是黑人）的權利和自由。"
-      },
-      {
-        "word": "Freedom",
-        "zh": "自由 (zì yóu): 能夠根據自己的意願行動、選擇和表達，不受政府或他人不合理控制的狀態。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-08-09",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1pycXdrWFhZNGtqWHh6ZjBGWWNLRkFYdVpYcHRmUlh4em9JQXpwa3JKbi05aEhvazNabld4aXkwamtFeU4xVnRzYlVuQTZrRVVOVzFWWHprUEE4VlFpSUZJYkNvM1RjRXhyMGZzT3RYQ0RMdElFNzE3UFVnRGJJdkd0eVhPUGxsMDhHRVJmd1dnanhEY0ljZHk4bTdiVGhXeTktNGhYNUdhdUhJMFlNcEtNS0g3ZmJ6Z3c?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "三國防禦聯盟浮現：土耳其、巴基斯坦、沙烏地阿拉伯攜手，被比作北約條款？",
-    "zhSummary": "土耳其、巴基斯坦和沙烏地阿拉伯三國正在建立一個新的防禦合作關係。土耳其部長指出，這個聯盟的性質與北約組織的第五條款相似，意味著成員國之間將互相提供軍事支援。",
-    "zhContent": "<p>嗨！你可能聽過「北約」這個詞，它是一個很重要的國際防禦組織。最近呢，有則新聞引起了大家的注意，講的是土耳其、巴基斯坦和沙烏地阿拉伯這三個國家，正在建立一個新的防禦夥伴關係。特別的是，土耳其的一位部長就說了，他們這個新的合作協定，在「技術上」來講，跟北約組織裡一個非常關鍵的條款「第五條」很像喔！這讓很多人開始好奇，這個新聯盟到底有多重要？</p><p>那麼，北約的「第五條款」到底是什麼意思呢？簡單來說，它的核心精神就是「集體防禦」。這表示，如果北約的任何一個成員國受到攻擊，其他所有成員國都會將其視為對自己的攻擊，並且要共同採取行動來支援。就像大家說好，如果有人欺負我們其中一個，所有人都會站出來互相幫助一樣。現在，土耳其部長提到他們與巴基斯坦、沙烏地阿拉伯的協定也具有這種特性，代表這三個國家也承諾在必要時會互相提供軍事上的協助和保護。</p><p>這項聲明可不是隨便說說的。它表示這三個國家之間，對於國防安全有著非常深的共識與承諾。一個國家能公開表示這樣的防禦協定，就意味著他們已經準備好在軍事上更緊密地合作，甚至在遇到威脅時，彼此會互相支援。這會讓這個新成立的合作關係，在國際上扮演的角色更明確，也更有份量，因為它展現了三國共同面對挑戰的決心。</p><p>總的來說，土耳其、巴基斯坦和沙烏地阿拉伯正在形成一個強調「集體防禦」精神的夥伴關係。土耳其部長將其與北約的關鍵條款相比較，正是要凸顯這個新聯盟的嚴肅性和重要性。這項發展告訴我們，這三個國家在未來的防禦策略上，將會採取更加團結一致的行動。新聞就到這裡，接下來的發展我們會繼續關注。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，土耳其部長將這項防禦協定比作北約的「第五條款」，你覺得這樣的說法，會讓這個新的合作關係看起來更具有什麼樣的意義？",
-      "生活與未來：你覺得這個改變會對相關國家的人民造成什麼實際影響？例如，可能對於他們的安全感或國際地位有什麼不同？",
-      "獨立思考提案：如果類似這樣的防禦聯盟能有效運作，你認為它能如何幫助穩定區域的和平？或者，它也可能帶來什麼樣的挑戰呢？"
-    ],
-    "enTitle": "Turkey, Pakistan, Saudi Arabia Form Defence Pact, Compared to NATO's Article 5",
-    "enContent": {
-      "basic": "Turkey, Pakistan, and Saudi Arabia have formed a new defence agreement. A Turkish minister said this pact is 'technically the same' as NATO's Article 5. This means if one country is attacked, the others will come to its aid.",
-      "intermediate": "Turkey, Pakistan, and Saudi Arabia have established a new defence partnership. A Turkish minister stated that this agreement is 'technically similar' to NATO's Article 5. This implies a commitment to collective defence, where an attack on one member would be considered an attack on all, prompting mutual military support among the three nations.",
-      "advanced": "A significant trilateral defence pact has been formed among Turkey, Pakistan, and Saudi Arabia. According to a Turkish minister, this agreement's foundational principle is 'technically equivalent' to NATO's Article 5. This signifies a robust commitment to collective security, wherein an armed attack against any one of the parties would invoke a collective response from the others, ensuring mutual military assistance and enhancing regional stability through unified action."
-    },
-    "vocabulary": [
-      {
-        "word": "Pact",
-        "zh": "盟約；協議。指的是幾個人或國家之間達成的一個正式協議，通常是用來承諾或一起做某件事。"
-      },
-      {
-        "word": "Defence",
-        "zh": "防禦；防衛。意思是如何保護自己或一個地方，不受攻擊或傷害。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-08-09",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞籠罩煙霧危機！鄰國為何總「灰濛濛」？",
-    "zhSummary": "近年來，東南亞地區因為森林大火和燒芭開墾，引發嚴重的跨國界霧霾問題，空氣品質惡化，影響了數百萬人的健康與日常生活。",
-    "zhContent": "<p>近年來，住在東南亞的一些國家，像是新加坡、馬來西亞和印尼，常常會遇到一種特別的天氣現象，就是天空灰濛濛、空氣中充滿燒焦味，大家稱它為「霧霾」。這種霧霾可不是普通的霧氣，而是由大量細小煙塵組成的。每當這個季節來臨，當地居民就會發現能見度變得很低，連高樓大廈都會被煙霧遮住，感覺好像整個城市都被蒙上了一層灰色濾鏡。</p><p>這些讓人看不清楚的煙霧，主要來源是印尼一些地區的大規模森林火災和「燒芭」行為。「燒芭」其實是一種為了開墾農地，特別是棕櫚油園或紙漿林，而故意放火燒掉森林的傳統方式。這些火勢常常難以控制，尤其當火勢蔓延到泥炭地時，地底下會悶燒很久，產生大量的煙霧。風一吹，這些煙霧就很容易被帶到鄰近的國家，讓整個區域的空氣品質都拉警報。</p><p>當霧霾來襲時，對當地居民的生活造成很大的影響。空氣中的污染物質會讓很多人出現呼吸道問題，像是咳嗽、喉嚨痛，甚至眼睛也會感到不舒服。為了保護大家的健康，政府通常會建議大家盡量待在室內，外出時要戴上口罩，有些學校甚至會因此停課。不只如此，嚴重的霧霾還會影響航班起降，導致班機延誤或取消，讓出門旅遊或工作的人非常困擾。</p><p>面對這樣的跨國界問題，東南亞各國政府都想盡辦法解決。印尼政府會加強執法，抓捕非法燒芭的個人和企業，並動員軍隊和消防員去撲滅森林大火。同時，像東南亞國家協會（ASEAN）這樣的區域組織，也會定期召開會議，討論如何一起合作，建立預警機制，希望能從源頭減少火災的發生，讓東南亞的天空能再次恢復清澈。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Southeast Asia's Hazy Skies: What's Behind the Annual Smoke?",
-    "enContent": {
-      "basic": "Southeast Asian countries like Singapore, Malaysia, and Indonesia often experience a 'haze.' This isn't normal fog, but smoke from forest fires. It makes the sky grey and hard to see. The main cause is fires in Indonesia, often set to clear land for farms, like palm oil. The smoke then travels to other countries, making the air bad. People get sick, schools close, and flights get delayed. Governments are trying to stop the fires and work together to solve this problem.",
-      "intermediate": "Annually, parts of Southeast Asia, particularly Singapore, Malaysia, and Indonesia, grapple with severe transboundary haze. This phenomenon, characterized by reduced visibility and poor air quality, originates primarily from widespread forest and peatland fires in Indonesia. These fires are often ignited for agricultural purposes, such as clearing land for palm oil plantations. Prevailing winds then carry the dense smoke across national borders. The haze causes significant health concerns, disrupts daily life with school closures and flight delays, and impacts local economies. Regional organizations like ASEAN are working with national governments to enforce anti-burning laws and implement fire prevention strategies to mitigate future occurrences.",
-      "advanced": "Southeast Asia regularly confronts the pervasive issue of transboundary haze, a consequence of extensive forest and peatland fires predominantly in Indonesia. These conflagrations, frequently linked to slash-and-burn practices for agricultural expansion, particularly palm oil cultivation, generate vast plumes of smoke that are carried by prevailing winds across international borders, impacting air quality and visibility in nations such as Singapore and Malaysia. The resulting atmospheric pollution poses substantial public health risks, leading to a surge in respiratory ailments, and precipitates widespread disruptions to daily life, including school closures and air travel interruptions. In response, regional governmental bodies, notably ASEAN, alongside national authorities, are engaged in multilateral efforts to enhance enforcement against illegal burning, improve fire suppression capabilities, and establish preventative mechanisms to address the root causes of this recurrent environmental crisis."
-    },
-    "vocabulary": [
-      {
-        "word": "Haze",
-        "zh": "霧霾 (Wù mái) - 指空氣中有很多肉眼可見的細小顆粒，像是灰塵、煙霧，讓天空看起來灰灰濛濛的，能見度變差。"
-      },
-      {
-        "word": "Transboundary",
-        "zh": "跨國界 (Kuà guó jiè) - 指一件事或一種影響，不只發生在一個國家裡面，還會蔓延或影響到鄰近的其他國家。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-08-09",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2Z3RURnRW9BQktmMXAtWnVOa09PNHQwUEs3UFlZblJJME9oOTBlQ2ZnYVNkbU9CbUd3dGhUUE10X1FlUUpyZHdBTExtaThNdXAxaDhkSmRuLV9TN0VBdF9Vd1g5N3RMSUNETmdQeHlGdXZ1aXdlandaSG1HcWFNOGMxbHlCOGFnWkRkdTJvVTBqN241MlNJ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "電動車市場大洗牌！東南亞急速飆升，中國不再是「跑最快」的了！",
-    "zhSummary": "全球電動車市場的成長速度正在悄悄改變！過去一直被視為發展最快的中國大陸，雖然市場規模依然龐大，但現在成長速度已經被東南亞地區超越。東南亞正以驚人的步伐，成為電動車產業的新興熱點。",
-    "zhContent": "<p>嘿，同學們！說到電動車，大家腦中是不是都覺得中國大陸是跑最快的那個？確實，過去很長一段時間，中國大陸的電動車市場真的超級熱鬧，成長速度驚人。不過，最新消息指出，這個「成長最快」的稱號，現在可能要換人戴了！最近來自國際媒體的報導告訴我們，現在東南亞地區的電動車市場，正在以一種你可能意想不到的速度「加速衝刺」，成了全球成長最快的新星。</p><p>這代表什麼呢？簡單來說，雖然中國大陸的電動車市場還是很大，有很多品牌、很多選擇，但它的成長步調已經不像以前那麼瘋狂了。相反地，像泰國、印尼、越南這些東南亞國家，正迎來電動車發展的高峰期。我們看到越來越多電動車品牌在那裡設廠生產，政府也紛紛推出各種優惠政策，鼓勵大家購買電動車，甚至積極建設充電站，讓開電動車變得更方便。</p><p>那麼，為什麼東南亞會突然變得這麼「熱」呢？原因其實不難理解。首先，東南亞地區擁有非常多的人口，而且隨著經濟發展，越來越多人晉升到中產階級，他們對新科技產品和環保的接受度很高。其次，這些國家的政府也意識到電動車的重要性，希望透過推動電動車來改善城市空氣污染問題，同時也能促進當地產業的發展，創造更多工作機會。</p><p>所以，從現在的情況來看，東南亞已經變成電動車產業的新興戰場，吸引了全世界電動車製造商的目光。原本中國大陸那種爆炸式的成長階段，可能已經慢慢進入一個比較平穩的時期。而現在，舞台上的聚光燈正轉向東南亞，大家都在看這個地區將如何改變未來的電動車版圖。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到「成長最快」的稱號換人了，從哪裡換到哪裡？新聞中解釋了哪些導致這個變化的可能原因？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如：對電動車廠商會有什麼影響？對東南亞地區的環境或經濟會有什麼影響？",
-      "獨立思考提案：如果台灣也想要發展電動車市場，你覺得可以參考東南亞或中國大陸的哪些經驗？或者，你認為台灣還有哪些獨特的優勢可以發揮？"
-    ],
-    "enTitle": "EV Market Shake-Up! Southeast Asia Surges, China No Longer the 'Fastest Growing'",
-    "enContent": {
-      "basic": "China's electric vehicle (EV) market used to be the fastest growing globally. But new reports say Southeast Asia is now growing much faster. Countries like Thailand and Indonesia are building more EV factories and charging stations. Their governments are also encouraging people to buy EVs. This change means Southeast Asia is becoming a new hot spot for electric cars.",
-      "intermediate": "The global electric vehicle (EV) market is experiencing a significant shift in growth dynamics. While China has long dominated as the fastest-growing market, recent reports indicate that Southeast Asia is now scaling up at an unprecedented pace, claiming the title of the world's fastest-growing EV region. This surge is driven by increasing middle-class populations, favorable government policies promoting EV adoption, and growing investments in manufacturing and infrastructure across nations like Thailand, Indonesia, and Vietnam.",
-      "advanced": "A notable paradigm shift is underway in the global electric vehicle (EV) market, as Southeast Asia emerges as the new epicenter of rapid growth, surpassing China's previous trajectory. Despite China maintaining a substantial market size, its growth rate has decelerated, allowing Southeast Asian nations to accelerate their EV adoption and production efforts. This regional expansion is fueled by a burgeoning middle class, strategic governmental incentives designed to reduce emissions and foster local industry, and significant foreign direct investment in manufacturing facilities and charging infrastructure. The evolving landscape suggests a maturing Chinese market and a dynamic, high-potential Southeast Asian market poised for sustained expansion."
-    },
-    "vocabulary": [
-      {
-        "word": "market",
-        "zh": "市場 – 簡單來說，就是買賣東西的地方。像你家附近有賣菜的菜市場，或是網路上大家買賣衣服的平台，甚至大家買車、買房子的需求，這些交易行為發生的總和，都可以稱為「市場」。"
-      },
-      {
-        "word": "scale up",
-        "zh": "擴大規模 – 想像你開了一家小小的手搖飲料店，因為生意太好，你決定多開幾間分店，請更多員工，甚至租更大的中央廚房來準備材料。這個「把生意越做越大」的過程，就叫做「擴大規模」。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-08-09",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVaXpXWEJTdVpUNnExZ0UxMU9EdlV4dWgxNVpuU3U5U1dfOUdQRmktTHdRLWhvRWRESGxJajNpVk5nbDY2WTY5LVJvNk5PTXhGdXdzeWhQNE1QQi0yc1hwM0dndHBzLUYzWU0wUGFGN3dTRnpH?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "台北將參加太平洋島國峰會：國際舞台上的重要一步",
-    "zhSummary": "這則新聞報導指出，台灣的首都台北將會參與「太平洋島國論壇」（PIF）的領導人會議。這是一個區域性的重要聚會，顯示台北在國際事務上持續與太平洋友邦保持緊密聯繫，共同討論區域發展與挑戰。",
-    "zhContent": "<p>嘿，各位年輕的國際事務觀察家！最近有一則來自《台北時報》的消息，說我們台北即將參加一場很重要的國際會議。這個會議叫做「太平洋島國論壇」（PIF）的領導人會議。你可能會問，這個論壇是什麼？簡單來說，它就像是太平洋地區各個島嶼國家的一個大型俱樂部，大家定期聚在一起，討論對他們來說很重要的議題。</p><p>「太平洋島國論壇」的主要目的，是讓這些在廣闊太平洋上的國家能夠團結起來，共同面對氣候變遷、海洋資源保護和經濟發展等挑戰。這些議題對這些島國的未來至關重要。台北其實並不是第一次參與這個區域組織的活動，我們長期以來一直以「對話夥伴」或「觀察員」的身分，和這些太平洋朋友保持著友好的關係，也提供過許多農業、醫療和技術方面的協助。</p><p>這次台北能受邀參與領導人層級的會議，代表我們的角色和貢獻受到這些國家的重視。這不僅是一個機會，讓我們能更直接地聽到太平洋島國的需求，也能分享我們的經驗，例如在災害應變或永續發展上的做法。對於這些島國來說，與像台灣這樣的夥伴合作，能獲得更多的資源和技術支援，幫助他們提升生活品質，應對環境變遷帶來的衝擊。</p><p>所以，台北這次參與「太平洋島國論壇」的領導人會議，代表著我們在國際舞台上又往前邁出了一步。這場會議預計將聚焦在區域合作的未來方向，以及如何共同解決太平洋面臨的關鍵問題。台北的代表將會出席，與其他國家領導人一同交流，並尋求更多合作的可能性，這也持續展現了台灣在國際社會中扮演積極角色的決心。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「太平洋島國論壇」（PIF）主要關注哪些議題？台北以什麼身份參與這些會議？",
-      "生活與未來：你覺得台北參與這樣的國際會議，對生活在太平洋島國的居民或台灣本身，會帶來什麼樣的實際影響？",
-      "獨立思考提案：如果由你來代表台北參加這個論壇，你會提出哪兩個你認為最重要、對太平洋島國最有幫助的合作提案？"
-    ],
-    "enTitle": "Taipei to Join Pacific Islands Forum Leaders' Meeting: A Key Step on the International Stage",
-    "enContent": {
-      "basic": "Taipei, the capital of Taiwan, is going to join an important meeting called the Pacific Islands Forum (PIF) leaders' meeting. The PIF is like a club for island countries in the Pacific Ocean. They meet to talk about big problems like climate change and how to help their countries grow. Taipei has been helping these island nations for a long time, giving support in farming and healthcare. Joining this meeting means Taipei can talk directly with the leaders and help find solutions for the Pacific region. It shows that Taipei wants to be a good friend and help build a better future together.",
-      "intermediate": "Taipei, Taiwan's capital, is set to participate in the Pacific Islands Forum (PIF) leaders' meeting, as reported by the Taipei Times. The PIF is a significant regional organization where Pacific island nations convene to address critical issues such as climate change, marine resource conservation, and economic development. Taiwan has historically engaged with the PIF in various capacities, often as a 'dialogue partner' or 'observer,' providing substantial assistance in areas like agriculture, healthcare, and technology. This upcoming participation at the leadership level signifies a deepening of Taipei's diplomatic ties and its commitment to contributing to regional stability and prosperity. Representatives from Taipei will join discussions to share expertise and explore new avenues for cooperation, reinforcing Taiwan's active role in the international community.",
-      "advanced": "The Taipei Times has reported that Taipei is slated to participate in the Pacific Islands Forum (PIF) leaders' meeting, marking a notable development in its regional diplomatic engagements. The PIF functions as a pivotal intergovernmental organization for Pacific island states, primarily addressing collective challenges such as climate change resilience, sustainable marine resource management, and regional economic development. Taiwan's long-standing relationship with the PIF has been characterized by its consistent role as a 'dialogue partner' or 'observer,' through which it has extended considerable developmental aid, expertise in agricultural technologies, healthcare, and capacity building. This invitation to the leadership-level forum underscores the recognition of Taipei's contributions and its strategic importance within the Pacific geopolitical landscape. Taipei's delegation will engage with leaders from other member states to foster collaborative solutions, exchange best practices, and potentially initiate new bilateral or multilateral projects, thereby solidifying its proactive stance in international cooperation and regional governance."
-    },
-    "vocabulary": [
-      {
-        "word": "Forum",
-        "zh": "論壇：一個大家聚在一起公開討論、交換意見的地方，通常會針對某個特定的主題。"
-      },
-      {
-        "word": "Diplomatic",
-        "zh": "外交的：指一個國家或地區如何與其他國家或地區建立關係、溝通協商，處理國際事務。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-08-09",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1Z3BYNjM5ZHFLSVVEdHI1Y0puY3Ryci0zRFZIa0NMMlhwVnVhUE91R3ZwamtZWmR6WHhGUmZfczRZOG84TDFybkhIOVFXcVZvMjlIU0gyODROYzR1cE80TW5KbEJnNjZXWUllU202dGNxb0VWSG1OaQ?oc=5",
     "isFeatured": false
   }
 ]
