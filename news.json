@@ -1,5 +1,285 @@
 [
   {
+    "zhTitle": "國際午間快報：美伊衝突再起，大峽谷突遇暴洪",
+    "zhSummary": "最新消息指出，美國和伊朗之間一個月後再次發生軍事衝突，美軍空襲了伊朗的火箭發射器。同時，美國大峽谷也傳出暴洪災情，導致超過20人失聯。",
+    "zhContent": "<p>全球午間快報在8月31日帶來了兩則值得關注的消息。第一則來自中東地區，美國和伊朗之間一個月後再度爆發了軍事衝突，據悉美軍對伊朗的火箭發射器發動了突襲行動。同時，在遙遠的北美洲，美國著名的觀光勝地大峽谷也傳出災情，當地受到猛烈暴洪侵襲，目前有超過20人被懷疑失聯。</p><p>在中東地區，原本就緊張的局勢近期再次升溫。根據報導，美國軍方在當地時間採取了一次突襲行動，精確瞄準並轟炸了伊朗的火箭發射裝置。這次軍事行動尤其引人注目，因為它發生在美伊雙方上次大規模交火約一個月之後，這表示兩國間的對抗關係依然嚴峻，並且在短時間內再次從檯面下的較勁，演變為公開且實際的武力衝突。關於這次空襲的具體細節、攻擊範圍以及造成的損失，目前還在持續更新與確認中。</p><p>與此同時，地球另一邊的美國也遭遇了嚴重的自然災害。享譽全球的旅遊景點大峽谷，毫無預警地遭遇了突如其來的猛烈暴洪襲擊。大量的雨水在短時間內匯聚成強大的洪流，沖刷過峽谷的區域，造成了相當大的破壞。這場突發的洪水災害，使得當地情況一片混亂。根據初步的消息指出，目前已經有超過20名在峽谷周邊活動的民眾失去聯繫，當地的搜救隊伍預計正緊急投入人力，展開大規模的搜索與救援行動。</p><p>綜合以上兩則來自全球各地的報導，我們可以看見世界每天都在發生各式各樣的重大事件。不論是國際政治舞台上的軍事角力，或是大自然難以預測的突發災害，都持續考驗著各地。目前，美國與伊朗衝突的後續發展，以及大峽谷失聯人員的最新搜救進度，都將是全球媒體與民眾持續關注的焦點。本次的午間快報內容至此，沒有提供進一步的官方結果或詳細報告。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Global News Brief: US-Iran Clashes Reignite, Grand Canyon Hit by Flash Floods",
+    "enContent": {
+      "basic": "Today's global news brief has two big stories. In the Middle East, the US military attacked Iran's rocket launchers. This happened after about a month of quiet between the two countries. In the US, the Grand Canyon had very strong floods. More than 20 people are missing. Teams are looking for them.",
+      "intermediate": "A global news update on August 31st highlighted two significant events. In the Middle East, military tensions between the United States and Iran have flared up again, with the US military reportedly conducting an airstrike on Iranian rocket launchers. This renewed engagement occurred approximately a month after their last major exchange. Concurrently, a severe natural disaster struck the Grand Canyon in the United States. The popular tourist destination experienced sudden and powerful flash floods, and initial reports indicate that over 20 individuals are currently unaccounted for, prompting urgent search and rescue efforts.",
+      "advanced": "The 'CNA Global Noon Express' on August 31st presented a dual-pronged report of significant global developments. Geopolitically, the long-standing tensions between the United States and Iran escalated anew, with American forces executing an airstrike targeting Iranian rocket launchers. This military intervention marks a resumption of hostilities, occurring roughly a month following their last documented engagement, underscoring the volatile dynamic in the region. Simultaneously, a severe natural catastrophe unfolded in the United States, as the iconic Grand Canyon was inundated by powerful flash floods. Preliminary assessments suggest that more than 20 individuals are currently listed as missing, prompting an immediate and extensive search and rescue operation in the affected area."
+    },
+    "vocabulary": [
+      {
+        "word": "Airstrike",
+        "zh": "空襲 / 從空中發動的攻擊。想像戰鬥機或無人機從天上發射飛彈或炸彈，攻擊地上的目標，這就是空襲。"
+      },
+      {
+        "word": "Flash Flood",
+        "zh": "暴洪 / 突然又快速發生的洪水。通常是因為下大雨，讓河水或溪水在很短的時間內暴漲，速度快到讓人來不及反應。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-09-13",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY0tORWRkaFhVNDU1V1M5MVVSbDVBSk9XeVU4VklwWDJVS3Z6WFctYzdTU3BHbXp3d0ExejBxOHVkWmU4aHNvXzhRWlE1Yy1GT1EyOVh3Z2xDa28?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "飛彈又來了！朝鮮半島緊張情勢升溫，發生了什麼事？",
+    "zhSummary": "在美國、韓國和日本舉行聯合軍事演習後，北韓發射了彈道飛彈。這起事件再次引起國際社會對區域安全的關注。",
+    "zhContent": "<p>最近，朝鮮半島的局勢又引起了大家的關注。根據外國媒體 CNBC TV18 的報導，北韓在美國、韓國和日本舉行了一場聯合軍事演習之後，發射了彈道飛彈。這不是第一次北韓發射飛彈，但每次這樣的行動都會讓周邊國家和國際社會提高警覺，擔心區域的和平穩定受到影響。</p><p>這次事件的起因是美國、韓國和日本這三個國家，為了加強彼此的防衛合作，在朝鮮半島附近舉行了一系列的聯合軍事演習。這類的演習通常會包含模擬防禦敵人攻擊、協同作戰等內容，目的是讓三國軍隊在面對威脅時，能夠更有效率地共同應對。這些演習被視為一種向潛在威脅展現力量和團結的方式。</p><p>然而，就在這些演習結束後不久，北韓便採取了發射彈道飛彈的行動。彈道飛彈是一種可以飛行很遠距離，並攜帶彈頭的武器。北韓過去曾多次宣稱，他們的飛彈試射是為了提升自身的防禦能力，並且是對美國及其盟友軍事行動的一種回應。對於北韓來說，他國的軍事演習往往被解讀為對自身安全的威脅。</p><p>北韓的這次飛彈發射，再次讓周邊國家和國際組織表達了關切。雖然這類事件時常發生，但每一次都提醒大家，朝鮮半島的緊張情勢依然存在。各國政府和國際社會會繼續密切關注該區域的動態，並呼籲所有相關方保持克制，避免衝突進一步升級，以維護區域的和平與穩定。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，北韓發射飛彈的直接原因是什麼？美國、韓國和日本舉行軍演的目的又是什麼？",
+      "生活與未來：你覺得這類事件會對朝鮮半島周邊國家的民眾生活帶來什麼樣的影響？為什麼？",
+      "獨立思考提案：針對這種反覆出現的緊張情勢，你覺得除了目前的軍事演習和飛彈發射外，還有沒有其他方式可以幫助緩和地區的衝突？"
+    ],
+    "enTitle": "North Korea Launches Ballistic Missiles After Allied Drills",
+    "enContent": {
+      "basic": "North Korea launched ballistic missiles after the United States, South Korea, and Japan held joint military drills. This event has made the situation on the Korean Peninsula more tense. The drills were meant for defense cooperation among the three countries. North Korea's missile launch is seen as a response to these drills. International groups are worried about peace and safety in the area.",
+      "intermediate": "The Korean Peninsula saw heightened tensions recently when North Korea launched ballistic missiles. This action came shortly after the United States, South Korea, and Japan concluded their joint military exercises. These drills are typically designed to improve the three nations' defensive capabilities and teamwork against potential threats. North Korea often views such exercises as provocations or threats to its own security, and missile launches are frequently its way of responding and asserting its military strength. The international community has expressed concern over these recurring events, urging all parties to seek peaceful resolutions.",
+      "advanced": "Recent developments on the Korean Peninsula indicate a persistent state of geopolitical volatility. North Korea conducted ballistic missile launches following trilateral military drills involving the United States, South Korea, and Japan. These exercises, aimed at enhancing collective defense and interoperability, are perceived by Pyongyang as a direct challenge to its security interests, often precipitating retaliatory demonstrations of military prowess. The recurring cycle of drills and missile launches underscores a deepening security dilemma in the region, prompting repeated condemnations from international bodies and calls for de-escalation from global leaders concerned about regional stability."
+    },
+    "vocabulary": [
+      {
+        "word": "ballistic missile",
+        "zh": "彈道飛彈：這是一種可以飛得很高很遠、速度很快的火箭，通常用來運送特定的彈頭到目標地點。想像它像一個超級巨大的鞭炮，會飛到很高的地方，然後再掉下來。"
+      },
+      {
+        "word": "drills",
+        "zh": "演習：通常指的是軍隊為了訓練和練習，而進行的模擬作戰活動。就像是學校運動會前的排練，讓大家知道在真實情況下該怎麼做，以應對可能發生的危險或威脅。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-09-13",
+    "sourceName": "CNBC TV18",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1JINlRPbGxvMEUxMURBNjViUHU5eWtjT3NpaHpnVDE4OUpGTTBOSThqRlQ1S3VVOEdsUHVMTTJpUm1fekhkUXlKQkFKVDlqZFdKNERJWkZXLTNPYUczWnhhMHgtSHlaYXhZY1NGczI2VFh4WG85MUt1d1ZiYXIwbThFTW8yMGQ4RVZRbVhad0hYQ01uX2h6OERHV3hDLU1wZ21fMlFQVkdIQkRUWGE2MXh1aXRjRWRaem5leVRDaFJYdTdoSGhSN1hOU1NoLXI0TUh2dVJQcmJsOFVQc3fSAeMBQVVfeXFMUE9DSzNURFpaZm9NRHVsc01rVTVWX0Y3YS04NkdZSmtSck5tZHltSEhKRHc2dUQ4VTBzQUZudW1VSjZ1VXFPSVNqTnYwY3phSGlrU1JIUnNQMVNxWkYtRXVJYmpBRzc1UzlNekFqNVZJeDdGckFvbXBGUGdQczZESzJEclRLTGtGalc4U29lTDVmTUw4ZXNCcVFLWnRMYTNueWNmSklUeEZfVFl0WkpMSTNPUThLVm83SWlPOGNNMnVPdkxYbW5GYnNTZUNKMjhINHljaGlYLWU1Z1RxT2NnWG8yQnc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "英國首相伯納姆與商界巨頭會面，要怎麼讓英國經濟更強大？",
+    "zhSummary": "根據路透社報導，英國首相伯納姆將與國內重要的企業領袖們會面，討論如何促進經濟成長並為國家帶來更多發展機會。",
+    "zhContent": "<p>嘿，各位年輕的財經觀察家！英國最近有一件大事發生，可能會影響到未來英國的發展喔。根據路透社的最新消息，英國的首相伯納姆先生，準備要跟國內一些超厲害的大老闆們坐下來好好聊一聊。他們討論的重點就是，怎麼樣才能讓英國的經濟變得更好、更有活力，讓大家都能賺到更多錢！</p><p>這次的會面可不是隨便聊聊，而是希望能為英國的未來經濟發展找出新方向。想像一下，一群頂尖的企業家們，像是大公司的執行長、產業龍頭的老闆們，會聚集在一起，跟首相分享他們對經濟的看法和建議。他們可能會談到如何鼓勵更多人創業、怎麼吸引外國公司來投資英國、或者怎麼讓英國的商品賣到全世界去等等，總之就是想辦法讓英國的經濟數字可以繼續往上衝。</p><p>為什麼首相伯納姆會在這個時候，特別找這些商界領袖來開會呢？其實，一個國家的經濟發展，常常需要政府和企業界一起合作。政府可以制定好的政策，企業則負責實際去執行和創造價值。首相可能希望透過這次的交流，聽到最前線的企業經營者們對於目前經濟狀況的真實感受，以及他們認為哪些地方可以改進，或者有哪些新的商機可以把握。這樣一來，政府就能更精準地推出對經濟有利的措施。</p><p>目前，這場重要的會議才剛被媒體報導出來，具體的討論內容和最終達成的結論還沒有對外公布。但可以確定的是，這代表英國政府正積極地想辦法，要和各行各業的精英們手牽手，共同努力讓國家的經濟引擎加速運轉。接下來，大家都會很期待，看看這次會面之後，英國會不會有什麼新的經濟政策或發展藍圖誕生，為國家帶來一番新氣象。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，英國首相伯納姆和商界領袖們會面，主要目的是什麼？",
+      "生活與未來：你覺得如果一個國家的經濟變好，可能會對你的日常生活帶來哪些實際的影響？",
+      "獨立思考提案：針對這次政府與企業的合作，你覺得還可以怎麼做，能讓經濟成長的益處被更多人共享？"
+    ],
+    "enTitle": "UK PM Burnham to Meet Business Leaders for Economic Growth Talks",
+    "enContent": {
+      "basic": "UK Prime Minister Burnham is set to meet with top business leaders. The goal is to discuss ways to make the country's economy stronger and create more job opportunities. This meeting aims to find new ideas for economic development.",
+      "intermediate": "According to Reuters, UK Prime Minister Burnham will hold discussions with key business leaders to strategize on enhancing national economic growth. This gathering underscores the government's intention to collaborate with the private sector to identify effective economic policies and investment opportunities.",
+      "advanced": "Reuters reports that UK Prime Minister Burnham is scheduled to convene with prominent business leaders to deliberate on strategies for fostering sustained economic growth. The meeting is anticipated to cover various facets of economic policy, including investment attraction, job creation initiatives, and international trade expansion, reflecting a concerted effort between government and industry to bolster the national economy."
+    },
+    "vocabulary": [
+      {
+        "word": "Prime Minister",
+        "zh": "首相：一個國家的最高行政領導人，負責管理國家的大大小小事務，就像是一個班級的班長，但管的是整個國家。"
+      },
+      {
+        "word": "Business Leaders",
+        "zh": "商界領袖：指的是那些大企業的老闆、公司的執行長或重要的管理者，他們通常很有經驗，知道怎麼讓公司賺錢，也對經濟發展很有影響力。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-09-13",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3djaUhyOWpDLWJEdEZkMjNsREZZcExMeEtVMDZRcFQ0UzFpaVdpaUJFQS1FbWtiMEpwWmFfOUZLOEVFYXVqaHdoVXotbUdYcmVLLS1nWEdWa2ZWc2otdXF6d1Bsd0dNdW1qUXJxalk4dTRRZERud01JTEExeU9tSlk4MFVDSmQ5MmhsNjc2Y3NvQmtVZEJLZjI3NWVnenNMc2p5VF9B?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "橄欖球傳奇對決：南非與紐西蘭系列賽，我們從中看到了什麼？",
+    "zhSummary": "最近，橄欖球界的兩大超級強隊—南非和紐西蘭，進行了一系列精采的比賽。這場被譽為「史上最偉大對決」的系列賽，不僅展現了頂尖球員的實力，也讓全球球迷對兩隊的近況有了更深入的了解。",
+    "zhContent": "<p>最近，國際橄欖球界上演了一場超級精彩的對決，主角就是南非隊和紐西蘭隊。這兩支隊伍可以說是橄欖球史上最傳奇的對手，每次交鋒都吸引了全世界的目光。這次他們進行了一系列的比賽，大家都想知道，這場「史上最偉大對決」究竟會帶來什麼樣的結果和新發現呢？</p><p>南非的「跳羚」隊和紐西蘭的「全黑」隊，在球場上見面從來就不是普通的比賽。每一次的傳球、每一次的擒抱，都充滿了力量與技巧的較量。他們的比賽不只是爭輸贏，更像是兩個國家在體育精神上的最高榮譽戰。球迷們都知道，這兩隊的比賽總是充滿了戲劇性，從開賽哨聲響起到最後一刻，都讓人屏息以待。</p><p>這兩支隊伍之所以能創造出這樣的「偉大對決」，除了他們本身都是世界頂尖強隊之外，還有深厚的歷史淵源。他們在國際賽場上互相競爭了將近一百年，彼此都拿過無數次的世界冠軍，也讓這份敵對關係更加有看頭。每一次的勝利都來之不易，也讓球迷們對下一次的對決充滿期待。</p><p>透過這次的系列賽，外界對於南非隊和紐西蘭隊目前的狀態有了更清楚的了解。兩隊都展現了各自的優勢，也讓教練團和球員們能夠檢視自身的表現，為未來的國際賽事做準備。這次的交手再次證明了，這場橄欖球的傳奇對決，每次都能帶給大家不同的驚喜和啟發，也為這份歷史悠久的競爭又添上了新的篇章。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Rugby's Greatest Rivalry: What We Learned from South Africa vs. New Zealand Series",
+    "enContent": {
+      "basic": "Recently, two of the best rugby teams, South Africa and New Zealand, played a series of games. People call this the 'greatest rivalry' in rugby history. Everyone wanted to see what would happen and what we could learn from these matches. Both teams played very hard, showing their skills and strength. This series helped people understand how each team is doing right now and get ready for future big games. It showed again why their games are always so exciting.",
+      "intermediate": "The recent rugby series between South Africa and New Zealand, often called the 'greatest rivalry,' captured global attention. These matches are never just ordinary games; they are intense battles of skill and power, representing national pride. The 'Springboks' of South Africa and the 'All Blacks' of New Zealand have a long history of competition, both having won numerous world titles over nearly a century. This latest series provided valuable insights into both teams' current form, allowing coaches and players to assess their performance and prepare for upcoming international tournaments. It once again highlighted the captivating nature of their legendary confrontations.",
+      "advanced": "The latest rugby series between South Africa and New Zealand, consistently lauded as 'Rugby's Greatest Rivalry,' recently concluded, drawing significant global viewership and analytical scrutiny. These encounters transcend mere sporting contests, embodying a deeply rooted historical competition and national prestige. Both the South African 'Springboks' and the New Zealand 'All Blacks' boast storied pasts with numerous international accolades, intensifying the stakes of each engagement. The recent series served as a critical barometer, offering comprehensive insights into the current tactical prowess, player conditioning, and strategic direction of both formidable teams. This evaluation is instrumental for their respective coaching staffs and athletes in refining strategies for future high-stakes international competitions, thereby adding another significant chapter to this enduring and iconic rivalry."
+    },
+    "vocabulary": [
+      {
+        "word": "Rivalry",
+        "zh": "對決、競爭：指兩個或多個長期以來互相競爭的對手，通常帶有強烈的競爭意識和歷史淵源，就像好學生之間的學習競賽，誰也不讓誰。"
+      },
+      {
+        "word": "Series",
+        "zh": "系列賽：指一連串的比賽或活動，通常有固定的場次或回合，目的是為了決定最終的贏家或排名，就像漫畫或影集的『系列』一樣，不是只有一集。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-09-13",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbWVMckthbFBfMkRDNHZMUzcwR0k0cGVrOWw3azNOa0pCMGRhbjBVaUZ3WnVWUGM4cUdQVFdFZVFadC0yVkg1Rk1tdTNrOG5uWUpWbkZmbHJQYUJWQzRGVF9HX0dRZk1ndGR3d3Z3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "葉門戰火升溫：胡塞叛軍攻佔紅海重要港口城市摩卡",
+    "zhSummary": "報導指出，葉門境內的胡塞叛軍成功控制了紅海邊一個具有重要戰略意義的港口城市摩卡，這是葉門內戰中的一個關鍵進展。",
+    "zhContent": "<p>最近，在中東的葉門發生了一件大消息。一個叫做「胡塞叛軍」的團體，成功攻下了紅海邊一個非常重要的港口城市，叫做摩卡。這個消息來自法國國際24台的報導，引起了國際社會的關注。</p><p>葉門這個國家，其實已經陷入內戰很久了。這個「胡塞叛軍」是一股很強大的武裝力量，他們主要獲得伊朗的支援。而他們這次攻佔的摩卡港，地理位置非常特別，就位於連結紅海和亞丁灣的曼德海峽附近，是一個國際航運的必經之地，所以對誰掌控它都非常關鍵。</p><p>這場曠日持久的戰爭，主要是胡塞叛軍和由沙烏地阿拉伯帶領的聯軍之間在作戰。聯軍支持的是葉門原本的政府軍，他們的目的就是希望把胡塞叛軍趕走。摩卡港對雙方來說都極其重要，因為誰控制了這裡，就等於掌握了海上關鍵的交通要道，對物資運輸和軍事部署都有很大的影響。</p><p>根據法國國際24台的報導，胡塞叛軍的這次軍事行動，讓他們成功地掌控了摩卡這座歷史悠久的港口城市。這意味著在葉門的內戰中，胡塞叛軍又取得了關鍵的一步，改變了戰場上的力量平衡。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，摩卡港為什麼會被形容為「戰略性」的港口城市？你覺得這代表什麼？",
+      "生活與未來：你覺得摩卡港被攻佔後，會對附近居民的生活或紅海的航運造成什麼樣的實際影響？",
+      "獨立思考提案：如果這則新聞是來自胡塞叛軍或是沙烏地聯軍的媒體，你覺得內容的重點或說法可能會有什麼不同？"
+    ],
+    "enTitle": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha - France 24",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Rebel",
+        "zh": "叛軍：一群人，他們不滿意目前的政府或統治者，所以拿起武器反抗，想要改變現狀。"
+      },
+      {
+        "word": "Strategic",
+        "zh": "戰略性的：指某件事物或地點非常重要，因為它能幫助達成一個重大的目標，尤其在戰爭或計畫中會起到關鍵作用。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-09-13",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmhxMGpwcUp4ekxXQnBpSUMxazB5dnZfb2JVQThIb0c4Tk15TklsNDhyVmEwMHFTV3kwWm5JUExnbld4SkVIQ25jakVoRzNNR1UtLW80R3FfakwzVTVTRnZ3OGJCTGNYUWh0VzFHd1FQTUktQ1lPZEJUeWxDcWMyalBDazVXZGc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓八月出口大爆發！金額狂漲近七成，連紅15個月超給力！",
+    "zhSummary": "南韓八月份出口數據表現亮眼，年增率高達68.7%，並且已經連續第十五個月保持成長，顯示其在全球市場的強勁競爭力。",
+    "zhContent": "<p>南韓的商品在國際市場上超受歡迎，八月份的出口量成績超級亮眼！根據路透社的報導，南韓八月份的出口金額比去年同期大幅增加了68.7%，這是一個非常驚人的數字。這也代表著，南韓的出口已經連續第十五個月都在成長，顯示他們在全球貿易中的強勁表現。</p><p>說到「出口」，簡單來說就是一個國家把他們自己生產的商品，像是手機、汽車、半導體等等，賣到其他國家去。這次南韓的出口數據會這麼大幅度上升，表示他們生產的這些商品，在全世界的需求量都非常大，許多國家都想買南韓的東西。連續十五個月的成長，更說明了這不是一時的熱潮，而是長期穩定發展的趨勢。</p><p>經濟分析師們指出，南韓之所以能有這樣的好成績，很大一部分是因為全球對資訊科技產品、汽車以及其他高科技製造業的需求非常旺盛。南韓在這些領域都是佼佼者，當全世界的經濟活動越來越熱絡時，他們在這些關鍵產業的生產力與出口能力自然也就跟著水漲船高。這也反映了全球供應鏈的變化，以及對某些特定商品的持續依賴。</p><p>綜合來看，南韓八月份的出口表現，不只創下了驚人的年增幅，更把連續成長的紀錄推進到第十五個月。這顯示南韓的出口產業正處於一個非常活躍且穩定的階段，持續為他們的經濟發展注入強大的動力。這份來自路透社的數據，清楚地呈現了南韓在全球貿易舞台上的強勁地位。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南韓的「出口」代表什麼意思？它的數據表現為什麼會被說是「超給力」？",
+      "生活與未來：你覺得南韓商品在國際上熱銷，會對當地的人民生活帶來什麼好處？",
+      "獨立思考提案：如果有一個國家想要像南韓一樣，讓自己的出口也能「連紅」很久，你覺得他們需要努力做哪些事情？"
+    ],
+    "enTitle": "South Korea's August Exports Surge by 68.7%, Marking 15th Consecutive Month of Growth",
+    "enContent": {
+      "basic": "South Korea's exports in August went up a lot, by 68.7% compared to last year. This is good news because it's the 15th month in a row that their exports have grown. This means other countries are buying a lot of things from South Korea.",
+      "intermediate": "South Korea announced a significant increase in its August exports, reporting a 68.7% rise year-on-year. This positive trend extends their export growth streak to an impressive 15 consecutive months, signaling robust demand for South Korean products globally.",
+      "advanced": "According to Reuters, South Korea's export figures for August demonstrated remarkable strength, recording a substantial 68.7% year-on-year increase. This surge further solidifies a consistent upward trajectory, marking the fifteenth consecutive month of export expansion, underscoring the nation's pivotal role and strong competitive edge in the international trade landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "export",
+        "zh": "「出口」就是一個國家把他們自己生產的東西，例如手機、汽車、衣服等等，賣到其他國家去。這些東西賣出去賺到的錢，對這個國家的經濟很重要喔！"
+      },
+      {
+        "word": "consecutive",
+        "zh": "「連續的」意思是說，某件事情一直不斷地發生，中間沒有中斷。就像新聞裡說的「連續十五個月」，就是指這十五個月裡，每個月都在成長，從來沒有停過。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-09-13",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejNodnl5c09oR1U5aW13bl9lZHdQQVFweGc3ZnE2bDJ0NzdlSmdoNHFqOG5EcXZmRDZ5aXU1UGJDa3dGbjhpWDhzeU12NFBPbHZJWWttLWtqU2ZFNjNTSXE3UjBNSEpBQ3dKRmtLNGNnS0hVMC1faWFhRFRXOUg3bC1oTzYzOHRfemlnMVB3VlNfdVdQTzVmdjh2TFJ4T1c4RXJjT05raVJKVHN6UmZYX25NclVpWDA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "台灣U18代表隊在青少年賽事中擊敗菲律賓，榮獲銅牌！",
+    "zhSummary": "台灣U18青年代表隊在一場重要的青少年體育賽事中表現出色，於銅牌戰中以絕對優勢擊敗了菲律賓隊，成功奪下季軍獎牌。",
+    "zhContent": "<p>一場聚焦亞洲青少年運動實力的賽事畫下了句點，而台灣U18代表隊在其中表現亮眼。根據外媒報導，台灣的青年選手們在銅牌爭奪戰中，面對實力不俗的菲律賓隊，展現出絕佳的團隊合作與個人技術，最終成功以壓倒性的比分贏得勝利。</p><p>這場備受矚目的銅牌戰，是在整個U18級別的賽事尾聲進行。兩支隊伍都渴望能在比賽中脫穎而出，為國家爭取榮譽。從開賽哨響的那一刻起，台灣隊就展現出強烈的求勝慾望，選手們在場上攻防兩端都表現得積極且到位，讓對手難以找到反擊的機會。</p><p>比賽過程中，台灣隊的戰術執行非常徹底，不僅有效壓制了菲律賓隊的進攻，更不斷製造得分機會。選手們在每個環節都保持高度專注，無論是精準的傳球、有效的防守，還是果斷的得分，都讓場邊觀眾為之驚呼。這場勝利並非偶然，而是選手們長期訓練與默契配合的成果。</p><p>最終，台灣U18代表隊以懸殊的比分「大勝」菲律賓隊，成功站上頒獎台，將寶貴的銅牌帶回。這不僅是對這群年輕運動員努力的肯定，也讓他們在國際賽場上獲得了寶貴的經驗，為未來的運動生涯奠定堅實的基礎。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，台灣隊為什麼能贏得銅牌？文中提到了哪些關鍵原因？",
+      "生活與未來：你覺得這些青少年運動員在國際賽事中取得好成績，對他們未來的人生會有什麼實際影響？",
+      "獨立思考提案：如果未來有機會舉辦類似的青少年國際賽事，你覺得主辦單位還可以怎麼做，能讓比賽對青少年選手更有幫助？"
+    ],
+    "enTitle": "Taiwan's U18 Team Routs Philippines to Secure Bronze Medal",
+    "enContent": {
+      "basic": "Taiwan's Under-18 (U18) national team achieved a significant victory in a youth sports competition. They faced the Philippines in the bronze medal match and won decisively. This strong performance secured the third-place trophy for Taiwan, marking a great success for the young athletes on the international stage.",
+      "intermediate": "In a major international U18 sports tournament, the Taiwan national team showcased an impressive performance. Competing against the Philippines in the decisive bronze medal game, Taiwan executed a dominant strategy, leading to a comprehensive victory. This win not only earned them the bronze medal but also highlighted the team's talent and dedication in a highly competitive environment, bringing recognition to their efforts.",
+      "advanced": "The Taiwan U18 contingent delivered a formidable performance in a recent international youth sports championship, culminating in a decisive 'rout' of the Philippines in the bronze medal contention. This conclusive victory underscores the rigorous training and strategic prowess of the Taiwanese athletes. Securing third place at this level is a significant achievement, providing invaluable international exposure and affirming the potential of Taiwan's emerging sporting talent within the global arena."
+    },
+    "vocabulary": [
+      {
+        "word": "Rout",
+        "zh": "大勝、潰敗：這個字用來形容在比賽中，其中一方以非常大的差距贏過另一方，讓對手幾乎沒有還手的機會，就像是把對手徹底打垮了。"
+      },
+      {
+        "word": "Bronze",
+        "zh": "銅牌：在體育比賽中，金牌是給第一名，銀牌是給第二名，而銅牌就是給第三名的獎牌。通常代表著在激烈競爭中，表現非常優秀才能獲得的榮譽。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-09-13",
+    "sourceName": "Taipei Times",
+    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKREd4X0pSaWlUMmhaOS1qRy1KaHFBZVl0R3hIMGFWYmV1dlFXTUU3WUVMV0Rpb2pkSzNpU0JOWGNneGR0MFlJcDhLT0kxSkxraG9iRE9oR2ZpaWQ1S2VER21Fc2RNb1M0ZGhUeVlZZG04RTJzdU5FOQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東加寫下歷史新頁：首次主辦無板籃球世界盃資格賽！",
+    "zhSummary": "太平洋島國東加首次承辦國際級體育盛事——世界盃無板籃球資格賽，這不僅是國家體育發展的重要里程碑，也讓東加在全球體壇上獲得更多關注。",
+    "zhContent": "<p>東加王國最近迎來了一件大事，他們首次主辦了重要的國際體育賽事——世界盃無板籃球資格賽。這不僅是東加無板籃球運動發展的里程碑，也讓這個太平洋島國的名字再次被世界看見。這次比賽將決定哪些隊伍能代表太平洋地區，晉級到備受矚目的無板籃球世界盃決賽。</p><p>這次資格賽吸引了來自太平洋區域的許多國家隊伍前來參賽，包括斐濟、薩摩亞等無板籃球強權，選手們在賽場上為了爭奪進軍世界盃的入場券而奮力拚搏。東加作為主辦方，不僅要負責場地安排、選手接待，更要確保比賽流程順暢。對東加來說，能夠承辦這樣大規模的國際賽事，本身就是一項巨大的挑戰與肯定。</p><p>主辦這項國際賽事對於東加意義非凡。它不僅能激發當地年輕人對體育的熱情，提升國家在國際體壇的能見度，還有望帶來旅遊和經濟效益。東加的體育官員表示，這是一個展示國家組織能力與熱情好客的絕佳機會，也是他們多年來努力推廣體育的成果。為了這場比賽，東加投入了大量資源，從硬體設施到志工培訓都做足準備。</p><p>經過幾天的激烈角逐，太平洋區的世界盃無板籃球資格賽最終圓滿落幕。參賽隊伍展現了高水準的競技精神，而最終脫穎而出的隊伍也順利拿到了晉級世界盃的門票。對於東加來說，無論自家隊伍的成績如何，成功主辦這場比賽本身，就已經寫下了歷史新頁，也為未來承辦更多國際活動累積了寶貴經驗。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，東加王國主辦了哪一項國際體育賽事？為什麼這項賽事對他們來說意義重大？",
+      "生活與未來：你覺得主辦像世界盃資格賽這樣的國際賽事，會對東加這個國家的人民帶來哪些實際的影響？",
+      "獨立思考提案：如果台灣也舉辦類似的國際賽事，你覺得我們需要做哪些準備？你認為還有什麼方式可以提升台灣在國際體壇的能見度？"
+    ],
+    "enTitle": "Tonga Makes History Hosting Netball World Cup Qualifiers",
+    "enContent": {
+      "basic": "Tonga hosted the Netball World Cup qualifiers for the first time. This was a big event for the country and its sports. Teams from the Pacific played to get a spot in the World Cup.",
+      "intermediate": "The island nation of Tonga achieved a significant milestone by hosting the Netball World Cup qualifiers. This international sporting event saw teams from across the Pacific region compete for berths in the upcoming Netball World Cup, marking a major step for Tonga in sports and event management.",
+      "advanced": "Tonga has marked a pivotal moment in its sporting history by successfully hosting the Netball World Cup qualifiers. This landmark event not only showcased the nation's capacity to stage international competitions but also provided a crucial platform for Pacific teams to contend for coveted slots in the global Netball World Cup tournament, significantly elevating Tonga's profile on the international stage."
+    },
+    "vocabulary": [
+      {
+        "word": "qualifier",
+        "zh": "資格賽：為了獲得參與某項比賽或活動的權利，而提前進行的選拔賽或預賽。"
+      },
+      {
+        "word": "landmark",
+        "zh": "里程碑：比喻在發展過程中，具有重要意義、標誌性的事件或成就。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-09-13",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3E3ZUZ5M0VSeDN2ZGlBOG4yU1k1bXE3dENrdTBJOFFCaXlqTXhpSW9DMFJnbjVUenJWZTFIci0yWV85cmY1OWZLRFJHX25QTHliVVlrMVNnSGV2amE1Yy1QWV9jdkNUeXVNR0FDVVkyLWN5U2UzcDZsbTJrYnpwUnY0Y05SNk5QU3Z5dkl3?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "全球午間快報：美伊戰火再起，大峽谷遭暴洪猛襲！",
     "zhSummary": "美軍再次突襲轟炸伊朗火箭發射器，兩國關係持續緊張。與此同時，美國大峽谷遭遇暴洪，造成逾20人失聯。",
     "zhContent": "<p>美軍與伊朗之間，在本月又再次出現了緊張情勢。根據中央社的全球午間快報報導，美軍發動了一場突襲行動，針對伊朗境內的火箭發射器進行轟炸。這已經是兩國相隔僅一個月後，再次傳出交火事件，讓中東地區的局勢持續緊繃。</p><p>這次美軍的軍事行動，據稱是為了回應此前伊朗方面或其代理人對美軍目標的襲擊。美方表示，此舉是為了保護該區域的美軍人員和設施，並傳達一個明確的訊息。而伊朗方面對此則表達強烈不滿，譴責美軍的行為是對其主權的侵犯。雙方雖然沒有演變成全面戰爭，但這種不斷升級的軍事衝突，無疑讓全球都繃緊了神經。</p><p>同一時間，遠在美國的著名自然地標——大峽谷，也遭遇了嚴重的自然災害。據報導，該區域近日受到猛烈的暴雨侵襲，引發了突如其來的暴洪。暴洪是指山區或河谷地區因為短時間內大量降雨，導致水位在極短時間內快速上漲，形成奔騰洪水的現象。這次的暴洪來得又急又快，沖毀了部分設施和道路。</p><p>這場突如其來的暴洪，讓在大峽谷附近活動的遊客和工作人員措手不及。初步消息指出，有多達20多人疑似因此失聯，情況令人擔憂。當地緊急應變部門已經動員了大量人力和資源，在大峽谷範圍內展開大規模的搜救行動。目前搜救行動仍在持續進行中，希望能盡快找到這些失聯的民眾。確切的失聯與傷亡人數，還在持續確認當中。</p>",
@@ -8990,427 +9270,6 @@
     "date": "2026-08-14",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXNFRGU0cXl2WVZQOW5idm9MMkdCbWNldm50X0xRV3RDdVVMMUx4dHl2dzQ5TjJmV0FIVk5fdlVSUDlNWDlpUkhWb3pxNkNsZXY2MVZBUUFTSjFXcHZJaS0tSmFQWFg2ZUU1SFkzNmxpR3YwQWJNQU1RVDVMM0tXdmpJRi16Uy10SDlKRkQwYkdFVm1NR1VVYjE5LW5OT3hZdUgtNzhUb2wxWHkyMUg3QWM0NUVWdlpqZVZiZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "泰國發生近年最嚴重槍擊案 釀九人不幸喪生",
-    "zhSummary": "泰國近日發生一起四年來最嚴重的槍擊案，造成九人死亡，這起事件也讓當地槍枝管制的問題再次成為焦點。",
-    "zhContent": "<p>2026年8月9日的公視早安新聞報導指出，泰國最近發生了一場重大的槍擊事件。這起悲劇總共造成了九人死亡，是泰國近四年來最嚴重的一起類似案件。消息一出，立刻引起了當地社會與國際的關注。</p><p>根據初步報導，這起槍擊事件的具體地點與詳細經過仍在調查中，但已知造成了多人傷亡的嚴重後果。事發當時，現場一片混亂，救援人員緊急趕往現場處理，並將傷者送醫治療。這場突如其來的暴力事件，讓許多家庭破碎，也為當地社會帶來沉重打擊。</p><p>關於這起重大槍擊案的發生原因，有專家學者指出，泰國目前對槍枝的管制可能存在鬆散的問題。他們認為，正是因為槍枝管理不夠嚴格，才使得類似的暴力事件有機會發生。這些專家呼籲政府應該重新檢視並加強相關的法律與執行力度，以避免未來再次發生類似的悲劇。</p><p>截至目前，這起槍擊案的調查仍在進行中，官方尚未公布最終的調查結果和責任歸屬。然而，這起事件已經在泰國社會內部引起廣泛的討論，許多人開始關注並檢視該國的槍枝管制現況。這場造成九人死亡的槍擊案，是泰國四年來最嚴重的，其後續的發展與政府將採取的應對措施，也將會是各界關注的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Thailand's Deadliest Shooting in Four Years Claims Nine Lives",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "control",
-        "zh": "管制：指管理或限制某些事情，讓它們在規定範圍內進行，不能隨意亂來。例如：槍枝管制就是限制誰可以擁有槍枝、怎麼使用槍枝的規定。"
-      },
-      {
-        "word": "lax",
-        "zh": "鬆散：形容管理或規定不夠嚴格，有很多漏洞或不完善的地方，讓一些不該發生的事情有機會發生。例如：槍枝管制鬆散就表示規定不夠嚴格，讓壞人容易拿到槍。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-08-13",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfUjFRQ1FIOWhFV2M2Sk83S3gxR1Z5ODBDQ3VpWUhVVnMyN3gyY00wcnY0RDhTaTJrajZ1RHJLZjU0RDdVdXBJS3hKOA?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "亞洲熱浪超狂！馬鈴薯在土裡「自己煮熟」？",
-    "zhSummary": "亞洲多地遭遇史無前例的熱浪，導致土壤溫度飆升，馬鈴薯等農作物在還沒採收前，就因為高溫在土中變質，甚至被「煮熟」，讓農民面臨嚴重損失。",
-    "zhContent": "<p>最近亞洲地區遭遇了一波前所未有的熱浪侵襲，天氣熱到一個不可思議的地步。據外電報導，有些地方的馬鈴薯竟然在土裡就被『煮熟』了，這聽起來是不是很誇張？但這確實發生了，因為地面溫度實在太高，讓這些還沒被採收的馬鈴薯直接在田裡就變成了『烤馬鈴薯』。</p><p>這波打破紀錄的極端高溫，讓許多農民面臨嚴重的損失。特別是馬鈴薯這種需要較涼爽氣候生長的作物，在泥土中感受到的熱度比我們想像的還要高。當地農民發現，原本應該好好長大的馬鈴薯，因為承受不住長時間的高溫烘烤，導致作物內部變質、腐爛，有些甚至看起來就像經過烹煮一樣。</p><p>氣象專家指出，這波熱浪不只讓地表溫度飆高，連土壤深處的溫度也跟著上升。對植物來說，不只是葉子被曬到枯萎，就連埋在土裡的根莖也受到嚴重影響，無法正常生長。這股熱浪橫掃了亞洲大片區域，許多國家都感受到異常的酷熱，不只影響農業，也對當地居民的日常生活造成極大不便。</p><p>目前，受災地區的農產品，尤其是馬鈴薯的產量預計將大幅減少。這對當地農民來說是沉重的打擊，他們投入的努力和成本可能都付諸流水。雖然具體的損失數字還在統計中，但可以肯定的是，這波熱浪已經對亞洲部分地區的農業生產帶來了立即且嚴重的衝擊。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Asia's Record Heatwave 'Boils' Potatoes Underground",
-    "enContent": {
-      "basic": "A huge heatwave in Asia is making the ground super hot. Because of this, potatoes are getting cooked or damaged while they are still growing underground. Farmers are losing many of their crops.",
-      "intermediate": "Asia is experiencing an unprecedented heatwave, causing soil temperatures to rise dramatically. This extreme heat is 'boiling' potatoes right in the ground before they can be harvested, leading to significant crop damage and substantial losses for farmers in affected regions.",
-      "advanced": "An unprecedented and record-breaking heatwave has swept across vast areas of Asia, resulting in extreme ground temperatures that are profoundly impacting agricultural yields. Specifically, subterranean crops like potatoes are being prematurely 'cooked' or severely degraded within the soil, presenting a critical challenge for farmers and potentially affecting regional food supplies."
-    },
-    "vocabulary": [
-      {
-        "word": "Heatwave",
-        "zh": "熱浪：強烈的熱浪是指長時間、大範圍的極端高溫天氣。想像一下夏天特別熱的那幾天，而且持續很久，這就是熱浪。"
-      },
-      {
-        "word": "Crops",
-        "zh": "作物：作物就是指人類為了食物、纖維或其他用途而種植的植物，例如稻米、蔬菜、水果或馬鈴薯。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-08-13",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdSUVFpZEhIRGE1UmxOelBHVWFhOWU0b3ZFVHEtWUZSbHduNno0Zm9fdHVWM2E2cXdodnVlQ01IdDh2QkVaVTJUSWpUOUd6dTRZcHJMelJxdF9WdnRFem1fb3pFZ3p0U2d0UkljM1lBQVhMbmhiSWllb0ItODdrd0FqazFvOHlpMy14QlFUb0xNOFRzemh5a29lbFFTUmFWMHBzOXZnRTYxS0VLWktfNnlsQ1FScDdYMUgtMQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "阿富汗少女求學路漫漫：240萬女孩無法升學，聯合國發聲",
-    "zhSummary": "聯合國教科文組織（UNESCO）發布報告指出，在阿富汗，有高達240萬名女孩因為塔利班當局的禁令，被剝奪了繼續接受中學及大學教育的機會，該組織正呼籲阿富汗當局解除這些限制。",
-    "zhContent": "<p>聯合國教科文組織（UNESCO）最近發布了一項令人關注的報告。根據他們的資料顯示，在阿富汗，有將近240萬名女孩目前無法繼續她們的中學或大學教育。這代表自從某些新政策實施以來，大量的年輕女性被排除在更高層次的學習機會之外，她們的學業之路被迫中斷。</p><p>這個教育上的限制，主要是在阿富汗由塔利班組織掌控國家權力後開始實施的。自從塔利班重新接管阿富汗以來，他們陸續頒布了一系列嚴格的社會規範，其中一項關鍵的規定就是禁止女性學生進入中學以及大學校園。這項禁令徹底改變了無數阿富汗女孩的命運，使得許多原本擁有升學機會的女孩，在短時間內就失去了繼續學習的權利。</p><p>聯合國教科文組織作為一個專門負責教育、科學及文化事務的國際機構，他們對阿富汗女性教育現況表達了嚴重的關切。該組織強調，接受教育是每個人都應該享有的基本人權，並且持續呼籲阿富汗的實際掌權者，應該要盡快取消這些針對女性學習機會所設立的限制。他們指出，在這些禁令實施以前，阿富汗的女孩們其實是有機會接受各級教育的，但現在這個狀況已經完全被顛覆。</p><p>截至目前為止，阿富汗的女孩們依舊面臨著這些嚴格的教育禁令。聯合國教科文組織的這份最新報告，清楚地揭示了這些政策對高達240萬名年輕女性所造成的直接且深遠的影響。她們的未來學習之路，因為這些規定而被迫停滯不前，教育權利仍然受到嚴重的剝奪，目前為止這些狀況並未出現任何改善的跡象。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "UNESCO: 2.4 Million Afghan Girls Denied Further Education",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "UNESCO",
-        "zh": "聯合國教科文組織 (lián hé guó jiào kē wén zǔ zhī) - 這是一個國際組織，全名是「聯合國教育、科學及文化組織」，他們負責推動全球的教育、科學和文化交流與合作，幫助世界各地的人們都能有學習的機會。"
-      },
-      {
-        "word": "Denied",
-        "zh": "拒絕、剝奪 (jù jué, bō duó) - 意思是某人被禁止做某件事，或者被拿走了原本屬於他們的東西或權利。在這則新聞裡，指女孩們被剝奪了繼續上學的機會。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-08-13",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWZIVjBhUVkxZVhIbzRva1pORGQ4N1BaUVVHWTVRdFNoanhOQnBIeVhiQV95Z0lfRml4RmVqWXhDQ3lIWUVRZTdocmhUZ2RhWV80Rmx0MkIzNERPMmdHWHljQ3R4UFh5YkNDcWhhWlRRSjBGNjc5VTUzZi1ucXFnMi15WG5jd19MeXF0UEF3cGtZN0RwNHE2ZFBXTUdZbDBlQmVtOVhzR09jYWJCU3hUd1BR0gG3AUFVX3lxTFBDVGpOcEk5NVp5M2ZHMXRFSU1ob2VOeTRjQWp6NHMzbXFMZnBuaUQ5Y1dlNExmUGp6ckFyNVZKdm9jSEVtNG51cmEyNDFDTlpVX29qZC1ZNEd2SUFDNHZGSUVKRFJNenF6UEdEN1ZubnoxOV9oNF9qZzNEM1U0YnNxTjNDX1R6RExoVVlUc0lmaGVoREY5a2RScndFZGdpV2laV1NxOG5mU1gwd0ZCSXh2MDkzRUFqQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國年輕人對AI看法越來越悲觀？最新調查結果出爐！",
-    "zhSummary": "一份最新調查報告指出，越來越多的美國年輕人對人工智慧（AI）感到悲觀，主要擔憂包括工作機會被取代、個人隱私問題，以及資訊的真實性。這種情緒隨著AI普及而逐漸加深。",
-    "zhContent": "<p>嘿！最近美國有個有趣的發現，跟我們這一代的未來息息相關。一份由知名媒體CNBC引述的最新調查報告指出，現在的美國年輕人，也就是我們這個年紀到剛出社會的族群，對於人工智慧（AI）的看法越來越不樂觀了。你可能會想，AI不是很酷嗎？可以幫我們寫作業、畫圖，甚至還能跟我們聊天，為什麼他們會感到悲觀呢？這份調查就是要找出答案。</p><p>這項研究深入詢問了許多年輕人對AI的感受，結果發現，大家對於AI可能帶來的負面影響感到相當不安。其中，最讓年輕人擔心的幾點包括：他們害怕AI會取代人類的工作機會，讓未來的就業市場變得更競爭；再來就是對個人隱私的顧慮，擔心AI的發展會讓我們的個人資料更容易被收集、使用，甚至濫用；還有，資訊的真實性也是大家很介意的，AI生成假消息的能力讓他們對網路上看到的內容越來越抱持懷疑態度。</p><p>調查報告指出，這種對AI的悲觀情緒是逐漸累積的。過去人們對AI或許抱持更多期待，認為它能讓生活更便利。但隨著AI技術迅速發展與普及，年輕一代更實際地看待其挑戰與風險，這種趨勢持續上升。研究人員分析，這可能與他們成長在AI快速融入日常的時代，因此有更直接的感受有關。</p><p>總之，這份來自美國的調查結果很清楚地呈現了，越來越多的年輕人對人工智慧持有謹慎甚至悲觀的看法。他們不再只是看到AI光鮮亮麗的一面，也開始對其潛藏的威脅感到憂心。這份報告沒有提供任何解決方案，只是客觀地記錄下這些年輕人真實的心聲和他們對AI發展趨勢的觀點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國年輕人對AI感到悲觀的原因有哪些？",
-      "生活與未來：你覺得AI的發展會對我們這個年紀的人造成什麼實際影響？",
-      "獨立思考提案：如果可以向AI開發者提出建議，你會希望他們怎麼做才能減少大家的擔憂？"
-    ],
-    "enTitle": "Young Americans Increasingly Pessimistic About AI, Survey Finds",
-    "enContent": {
-      "basic": "A new survey found that young people in America are feeling more worried about artificial intelligence, or AI. They are concerned that AI might take away jobs, make their private information less safe, and spread fake news. This feeling of worry has grown over time as AI becomes more common in daily life.",
-      "intermediate": "According to a recent survey cited by CNBC, young Americans are showing a growing sense of pessimism regarding artificial intelligence (AI). The study revealed that many in this demographic are concerned about several potential negative impacts of AI. Key worries include the displacement of human jobs, risks to personal privacy, and the proliferation of misinformation generated by AI. This increasing apprehension is noted to be a trend, reflecting a more realistic assessment of AI's challenges as the technology becomes more integrated into everyday life.",
-      "advanced": "A recent survey highlighted by CNBC indicates a notable increase in pessimism among young Americans concerning artificial intelligence (AI). The comprehensive study delved into the sentiments of this demographic, identifying core anxieties that contribute to their growing apprehension. Primary concerns cited include the potential for AI-driven job displacement, heightened risks to individual privacy due to data collection, and the unchecked spread of AI-generated misinformation. This trend signifies a shift from initial optimism to a more critical and realistic evaluation of AI's broader societal implications, particularly as the technology's integration into daily life accelerates. Researchers suggest that growing up amidst this rapid evolution has provided this generation with a unique, firsthand perspective contributing to their current outlook."
-    },
-    "vocabulary": [
-      {
-        "word": "Pessimistic",
-        "zh": "悲觀的 (bēi guān de) - 指一個人對事情的發展傾向於看到不好的一面，覺得未來可能會是負面的結果或結局。"
-      },
-      {
-        "word": "Survey",
-        "zh": "調查 (diào chá) - 指為了收集資訊或意見，透過向一群人提問、發問卷或觀察他們行為來進行的一種研究方法。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-08-13",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQandlcC04MThsMmNpNkZxaUVobHVzWm5Xdk9Pb3VnbXJSLTZnRXlrVmMwRWFHYXZxenAtdTYyVHVUWkZPTTZoREpUTk5SUDREYzFqbUd6ZzY2TlY3ZVprNWp1UFF3d1Y2X0Q2UW12X0lNdF9vdEpGX2VNZVJkbzJIRFRmZTdVVjdSMkNzNkdPUi1WU2cwRG9lQ1loODFfSXZmaThGM2JGRE9XVkw4YmpV?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國物價稍微「喘口氣」，但經濟挑戰還沒結束！",
-    "zhSummary": "路透社報導，美國七月份的消費物價漲幅比預期來得溫和，讓大家稍微鬆了口氣。不過，報導也指出，這不代表美國經濟已經完全擺脫困境，未來還是有許多挑戰要面對。",
-    "zhContent": "<p>美國最近有一則跟「錢」有關的新聞，聽起來好像有點複雜，但其實跟我們每個人的生活都息息相關喔！路透社報導，美國七月份的「消費物價通膨」狀況，比之前大家想像的要來得溫和一些。簡單來說，「通膨」就是東西變貴的速度。如果通膨太高，我們買東西就要花更多錢；如果變慢，就代表物價上漲的速度趨緩了。</p><p>這個消息對很多美國家庭來說，算是一點點好消息，至少七月買東西的時候，價格沒有像之前那麼快速地往上飆升。這表示他們的日常生活開銷壓力可能稍微減輕了一點點。但是，報導也特別強調，雖然七月的物價漲幅比較小，這並不表示美國的經濟問題就完全解決了。</p><p>「還沒脫離險境」是什麼意思呢？這代表雖然一個月的物價看起來沒那麼嚇人，但整體經濟環境可能還有很多不穩定的因素。例如，過去因為疫情影響，加上許多國家的運費和生產成本增加，導致全球商品價格普遍上漲。美國的央行為了控制通膨，也採取了一些措施，像是提高貸款利率，希望讓大家減少消費，物價就能慢慢降下來。</p><p>因此，路透社這份報導的重點就是，七月份的物價數據雖然讓大家稍稍鬆了口氣，但經濟專家們仍然非常謹慎。他們會繼續密切觀察接下來幾個月的物價變化、就業市場狀況，以及其他經濟數據，來判斷美國經濟是否真的能穩定下來，回到健康的狀態。這段觀察期還會持續一段時間。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到「美國七月份的消費物價通膨狀況比預期溫和」，這是指物價沒有上漲，還是上漲的速度變慢了呢？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Consumer Inflation Mild in July, Economy Still Faces Challenges",
-    "enContent": {
-      "basic": "The US saw milder price increases in July. This means things didn't get more expensive as fast as before. But, the economy still has problems, and things are not completely safe yet.",
-      "intermediate": "Consumer inflation in the United States eased in July, indicating a slower pace of price hikes for goods and services. However, despite this positive sign, the Reuters report suggests the US economy continues to face significant challenges and is not yet on a stable path to full recovery.",
-      "advanced": "US consumer inflation demonstrated a mild trajectory in July, providing a degree of relief regarding the rapid escalation of prices for goods and services. Nevertheless, as highlighted by Reuters, this moderation does not signify that the American economy has fully navigated its underlying vulnerabilities, implying persistent headwinds and an ongoing need for vigilance among policymakers."
-    },
-    "vocabulary": [
-      {
-        "word": "inflation",
-        "zh": "通膨 (tōngpéng)。指一段時間內，商品和服務的價格普遍上漲，導致錢的購買力下降。簡單來說就是東西越來越貴，以前 100 塊能買到的東西，現在可能要 120 塊才能買到。"
-      },
-      {
-        "word": "economy",
-        "zh": "經濟 (jīngjì)。指的是一個國家或地區生產、分配和消費商品及服務的系統。它影響著工作機會、物價和人民的生活水平。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-08-13",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太酷了！韓國仁川機場榮登全球國際線最繁忙機場！",
-    "zhSummary": "根據英國廣播公司（BBC）報導，南韓的仁川國際機場最近成為全球處理最多國際旅客的機場，成為世界級的航空交通中心。",
-    "zhContent": "<p>各位讀者大家好！今天我們要來聊一個來自韓國的厲害消息。根據英國廣播公司（BBC）的報導，南韓的仁川國際機場最近榮登全球最繁忙機場的寶座，而且是專門針對『國際旅客』的部分喔！這真是個令人眼睛一亮的大新聞，代表仁川機場在全世界的航空運輸中，扮演了非常重要的角色。</p><p>這裡說的『全球最繁忙』，指的不是機場整體貨運或國內線的總量，而是特別針對來自世界各地的國際旅客進出。想像一下，每天有多少來自不同國家的人，帶著不同的語言和文化，透過仁川機場飛向世界或回到家鄉。能夠在這麼多國際機場中脫穎而出，成為載運最多國際旅客的機場，這背後需要非常龐大的運量和完善的服務才能達成。</p><p>這項成就代表仁川機場不僅僅是一個交通樞紐，更像是連結世界各地的超級重要『中轉站』。它可能每天處理著數不清的國際航班起降，讓許多需要跨國移動的旅客，都能順利且有效率地從這裡轉機或入境。這樣的高運轉量，也凸顯了仁川機場在全球航空網絡中的關鍵地位。</p><p>因此，我們可以知道，現在說到國際航空交通，南韓的仁川機場已經是全球的佼佼者。這項由BBC報導的訊息，明確地告訴我們仁川機場已經達到了一個全新的里程碑，在國際旅客運輸方面，正式站上世界的頂端。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korea's Incheon Airport Crowned World's Busiest for International Traffic",
-    "enContent": {
-      "basic": "South Korea's Incheon Airport is now the world's busiest airport for international travelers. This news comes from the BBC. It means more people fly in and out of Incheon from other countries than any other airport globally. This is a big achievement for the airport and South Korea.",
-      "intermediate": "According to a report by the BBC, South Korea's Incheon International Airport has achieved a significant milestone by becoming the world's busiest airport for global traffic. This title specifically refers to the highest volume of international passengers, indicating that Incheon now handles more flights and travelers crossing national borders than any other airport worldwide. This recognition highlights its crucial role in international air travel.",
-      "advanced": "In a notable development reported by the BBC, South Korea's Incheon International Airport has ascended to the status of the world's busiest airport in terms of global traffic. This designation specifically pertains to the airport's unprecedented volume of international passenger movements, distinguishing it as the primary gateway for cross-border air travel globally. This achievement underscores Incheon's critical infrastructure and operational efficiency in facilitating worldwide connectivity."
-    },
-    "vocabulary": [
-      {
-        "word": "global traffic",
-        "zh": "全球旅客流量 / 指的是國際間來往的旅客數量，也就是跨越國境搭飛機的人有多少。"
-      },
-      {
-        "word": "hub",
-        "zh": "樞紐 / 想像成一個重要的中心點，很多地方的東西或人會聚集到這裡，再從這裡分散到其他地方。機場就是許多航班和旅客的「樞紐」。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-08-13",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tc2Z0VGcyXzZrdFpCVUp5b1N2Y2dWLVdqQzhFWmUxXzlEbFc2M3NpbkNacXVnME5SSUEycGVJa2VQamI1bGZqYnk3TEdnYUVaWHhZempYV3BUQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "特別補選超吸睛！政治老將槓上「垃圾桶頭」候選人，這場選舉到底在演哪齣？",
-    "zhSummary": "英國最近一場引人注目的國會補選，主角竟是資深政治人物奈傑爾·法拉奇，與一位頭戴垃圾桶的奇趣候選人「垃圾桶臉伯爵」。這場選舉被外界評價為一場「大秀」，不僅因為候選人組合出人意料，更因其背後所引發的關注與爭議。",
-    "zhContent": "<p>最近在英國，一場特殊的國會補選引起了全國上下的熱烈討論。這場選舉的主角之一，是大家都很熟悉的資深政治人物奈傑爾·法拉奇（Nigel Farage）。他曾是英國脫歐運動的重要推手，在政壇上打滾多年，這次決定再次投入選戰，力圖重返國會。不過，讓這場選戰變得格外吸睛的，是他的對手之一：一位自稱「垃圾桶臉伯爵」（Count Binface）的奇妙候選人。這兩位風格截然不同的候選人同台競爭，讓許多人覺得這簡直就像一齣精心設計的「政治秀」。</p><p>奈傑爾·法拉奇過去曾多次參選國會議員，雖然是個知名人物，但直到這次，他才終於在克拉克頓（Clacton）選區成功當選。而「垃圾桶臉伯爵」則是一位專門以幽默諷刺方式參與選舉的「非典型」候選人。他總是頭戴一個銀色垃圾桶，並提出一些看似荒誕卻又充滿巧思的政見，例如要求將英國國歌改為某部電影主題曲，或是讓議會舉辦更多派對。他的出現，總能為嚴肅的政治場合帶來一絲輕鬆與話題。</p><p>這場選舉之所以被一些媒體和評論者稱為「噱頭」，主要是因為這兩位候選人的極端反差。一邊是經驗豐富、目標明確的政治老將，代表著某種政治勢力的回歸；另一邊則是專門製造話題、挑戰傳統的諷刺人物。許多人認為，「垃圾桶臉伯爵」的參選，雖然為選舉增添了娛樂性，但也可能讓一些嚴肅的政策討論失焦，使得整場補選變成了一場充滿媒體鎂光燈的表演。</p><p>儘管如此，選票最終還是代表著民意。在這次的克拉克頓補選中，奈傑爾·法拉奇成功獲得了足夠的支持，贏得了議會席位。而「垃圾桶臉伯爵」雖然獲得的票數不多，但他的參選無疑為這場選舉製造了大量話題，也讓他持續成為媒體關注的焦點。無論是為了嚴肅的政治目標，還是為了展現獨特的政治諷刺，這場補選都以其特殊性，在英國政治史上留下了有趣的一頁。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，奈傑爾·法拉奇與「垃圾桶臉伯爵」這兩位候選人，你覺得他們各自代表了什麼樣的參選目的或風格？",
-      "生活與未來：你覺得像「垃圾桶臉伯爵」這樣非傳統的候選人參選，對於年輕人參與政治或關注社會議題，會產生什麼正面的影響或挑戰？",
-      "獨立思考提案：針對這種被批評為「噱頭」的選舉方式，你認為可以採取什麼樣的措施，既能保留政治的開放性與多元性，又能確保民眾的注意力不會完全被娛樂性質的元素所吸走？"
-    ],
-    "enTitle": "Unusual UK By-election: Veteran Politician Nigel Farage vs. Satirical Candidate Count Binface in a 'Stunt' Election",
-    "enContent": {
-      "basic": "In a special election in the UK, well-known politician Nigel Farage ran against a unique candidate called Count Binface. Count Binface wears a dustbin on his head. Many people called this election a 'stunt' because it was so unusual. Farage is a serious politician, while Binface uses humor to make political points. Farage won the election in Clacton, and Binface got some attention.",
-      "intermediate": "A recent by-election in the UK gained significant media attention due to its unusual lineup of candidates. Nigel Farage, a prominent veteran politician known for his role in Brexit, sought to re-enter Parliament. His opponent, Count Binface, a satirical candidate famous for wearing a dustbin as a helmet and proposing humorous policies, also ran. This stark contrast led some to label the contest a 'stunt,' suggesting it attracted more attention for its entertainment value than serious policy debate. Farage ultimately won the seat in Clacton.",
-      "advanced": "The Clacton by-election in the United Kingdom recently drew widespread commentary, with many observers denouncing it as a 'stunt' due to its peculiar candidate roster. Nigel Farage, a highly influential figure in British politics, particularly known for his leadership in the Brexit movement, contested the seat in an attempt to return to Parliament. His unexpected rival was Count Binface, a well-known satirical candidate who campaigns in a dustbin-themed costume and proposes comically absurd policies. The dramatic juxtaposition of Farage's serious political aspirations with Binface's overtly comedic approach created a media spectacle, leading critics to question the election's focus. Despite the 'stunt' label, Farage secured victory, marking his return to parliamentary politics, while Binface's presence ensured the election remained a significant talking point."
-    },
-    "vocabulary": [
-      {
-        "word": "by-election",
-        "zh": "補選：當某個國會議員的席位因為某些原因（例如辭職、去世）空缺時，會在該選區重新舉行一次選舉來選出新的代表。"
-      },
-      {
-        "word": "stunt",
-        "zh": "噱頭：指為了吸引大家注意，特別設計出來的誇張行為或表演，有時會帶有娛樂或宣傳的目的。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-08-13",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHJJVEZPSWl3bm1JQ2NRUTFSUWdKUS01QVJRUF90MTJCQWhtS3hhTEpTUW1SMEV6cXFySDJxOFRJN0UySHNabUN4cE40aTZqVk0wdVlqalNHc1Q1ck9Jd3lfdXd0dS14ME5walJWdlNidDJhREw3QzRESTFFRVhkaFVFeWtVdHp4SWtkM1hpS25oaGFkV1d0dXFENUZjWnZUenVXODBSeEhYLWdp?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非挖礦產量「縮水」！6月產出比去年同期少4%",
-    "zhSummary": "非洲媒體CNBC Africa報導，南非在今年6月的礦業生產量，跟去年同期相比減少了4%。",
-    "zhContent": "<p>你聽說了嗎？一則來自非洲媒體CNBC Africa的消息指出，南非這個國家在今年六月的挖礦產量出現了「縮水」。報導裡面明確提到，他們這個月的礦業生產量，跟去年同期的產量相比，足足少了百分之四。這可不是個小數字，特別是對於一個以礦業為重要產業的國家來說。</p><p>我們說的「礦業產量」，指的是從地底下挖出來的各種礦物和金屬，像是黃金、鑽石、煤炭等等。南非因為擁有豐富的天然礦產資源，所以挖礦一直是他們國家經濟很重要的一部分。當新聞提到「同比下降4%」時，意思就是把今年六月的產量，跟去年同一個月份，也就是去年的六月，拿來做比較，結果發現產量少了四個百分點。</p><p>這種關於國家重要產業數據的變化，常常被大家用來當成觀察一個國家經濟狀況的指標。如果礦業產量下降，通常會讓大家開始關注這個產業是不是遇到了什麼挑戰，或是整體經濟是不是有點放緩。不過，CNBC Africa的報導主要就是告訴我們這個明確的數字變化，並沒有在新聞中具體說明造成這次產量下降的詳細原因。</p><p>所以，根據CNBC Africa的客觀報導，我們確切知道的就是南非在今年六月的礦業生產量，確實比去年同期減少了百分之四。這份數據提供了一個了解南非經濟狀況的參考點，也讓大家可以關注當地這個重要產業的最新動態。報導就是這樣直接地呈現了這個客觀的事實。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，CNBC Africa報導了南非礦業產量在什麼時間點有什麼變化？",
-      "生活與未來：你覺得這個新聞對南非當地以挖礦為生的人們會造成什麼實際影響？",
-      "獨立思考提案：如果一個國家的重要產業產量下降，政府或企業可能會考慮做哪些事情來改善狀況？"
-    ],
-    "enTitle": "South Africa's Mining Output Sees a 4% Drop in June",
-    "enContent": {
-      "basic": "News from CNBC Africa reported that South Africa's mining production fell by 4% in June compared to the same time last year. Mining is when people dig for valuable minerals like gold and diamonds. This drop means they dug out 4% less than they did in June last year. This kind of report helps us understand how the economy in South Africa is doing.",
-      "intermediate": "According to CNBC Africa, South Africa's mining production experienced a 4% year-on-year decline in June. This means the total quantity of minerals and metals extracted, such as gold, diamonds, and coal, was 4% lower than in June of the previous year. Mining is a significant sector for South Africa's economy, and a decrease in output often signals a slowdown or challenges within the industry, providing an important economic indicator.",
-      "advanced": "CNBC Africa has reported a notable contraction in South Africa's mining sector, with production falling by 4% year-on-year in June. This figure represents a significant decline in the extraction of key commodities such as gold, platinum, and coal, when compared to the corresponding period in the prior year. As mining constitutes a cornerstone of the South African economy, such a downturn in output is closely monitored by analysts, serving as a critical indicator of economic performance and potential headwinds within the industry, although specific causal factors for this particular decline were not detailed in the original headline report."
-    },
-    "vocabulary": [
-      {
-        "word": "Mining",
-        "zh": "礦業（挖礦）：指從地底下開採出各種有價值的礦物和金屬的活動，像是挖煤炭、鐵礦石、黃金等等。"
-      },
-      {
-        "word": "Production",
-        "zh": "產量：指在一段時間內，生產或製造出來的貨物或物品的總數量。在這裡是指挖出來的礦物總量。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-08-13",
-    "sourceName": "CNBC Africa",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDZpZ3gwUjU3NmV0dlRvVzBWX1JraHRSTDVEVjlLSC1rVllPVFRsNEJoc3QwMjBVV0x3d213blluLUlpU0pvVzhDdDNibmxkOVl6QnY4bFlSNGxZUzZLXy1QOGxvWXJRek5rTGVnLXpiN21VdXNGWC1jTUFqS0NmNXo2WGNFYVdQLWVqb2VhUWdQNjJ0WDEteWVBV2Y?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "亞洲石油市場的神秘平衡手：中國如何影響原油供需？",
-    "zhSummary": "這則報導指出，中國因為自身龐大的原油需求和加工能力，成為亞洲原油市場平衡的關鍵角色，其進出口決策直接影響著地區的供需與價格穩定。",
-    "zhContent": "<p>嘿，同學們，有沒有想過一個國家怎麼影響整個亞洲的石油市場？最近有個消息指出，中國在亞洲原油需求上扮演了一個很特別的角色，它幾乎以一己之力，來平衡著這個巨大的市場。這聽起來有點厲害，對吧？簡單來說，就是中國對原油的買賣決策，會直接影響到亞洲地區石油的供應和價格穩定，就像在一個大水池裡投入一顆大石頭，會讓整個水池的狀態跟著產生波瀾。</p><p>這個狀況之所以會發生，是因為中國本身就是全球最大的原油進口國之一。它每天需要的石油量非常龐大，為了提供工廠運轉、車輛行駛以及大家日常生活的能源。想像一下，當中國對原油的需求量增加或減少時，這股巨大的變動，就會牽動整個亞洲地區的原油供需狀態。所以，當報導說中國「平衡」市場，意思可能是指它透過自身的進口量調整，或是國內煉油廠的生產狀況，在不知不覺中影響了亞洲其他國家的石油市場動態。</p><p>中國能夠有這樣的影響力，主要來自於它龐大的經濟規模和工業發展。它有著巨大的工廠、運輸系統和人口，這些都需要大量的能源來運作，而原油就是其中很重要的一種。此外，中國也持續在提升自己的煉油能力，把買來的原油加工成汽油、柴油等產品，供應給國內使用。這種消費和生產的規模，讓中國在面對國際原油市場波動時，能夠採取一些大規模的行動，例如暫緩進口、增加國內生產等，這些動作都會直接牽動亞洲區的原油平衡。</p><p>因此，從目前的觀察來看，中國在原油市場上的每一次決策，無論是為了滿足自己國內的需求，還是基於其他經濟考量，實際上都在扮演著「穩定器」的角色，默默地影響著亞洲各國的原油供需平衡。這是一個持續進行的動態，也讓中國在亞洲能源版圖中的地位變得格外重要。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "China's Balancing Act: How Beijing Influences Asia's Crude Oil Market",
-    "enContent": {
-      "basic": "Hey everyone, ever wondered how one country can impact an entire region's oil market? A recent report by Reuters suggests that China is playing a unique role in balancing Asia's crude oil demand, almost by itself. This means China's decisions on buying and selling crude oil directly affect the supply and price stability for many countries in Asia, much like throwing a large stone into a big pond creates ripples across the whole water body.",
-      "intermediate": "This situation arises because China is one of the world's largest crude oil importers, requiring immense quantities daily to fuel its factories, transportation, and daily life. When China's demand for crude oil fluctuates, this huge change significantly impacts the overall crude oil supply and demand status across Asia. So, when the report mentions China 'balancing' the market, it likely refers to how its adjustments in import volumes or domestic refinery output inadvertently influence the oil market dynamics for other Asian nations.",
-      "advanced": "China's outsized role in balancing Asia's crude oil demand is a direct consequence of its colossal economic scale and industrial appetite. Its vast manufacturing base, extensive transportation networks, and large population necessitate prodigious energy consumption, with crude oil being a primary component. Furthermore, China continuously enhances its refining capabilities, converting raw crude into refined products like gasoline and diesel for domestic use, thereby amplifying its market leverage. This capacity for large-scale action, such as adjusting import schedules or increasing domestic production, directly influences the regional crude oil equilibrium.",
-      "final": "Therefore, current observations indicate that China's every decision in the crude oil market, whether driven by domestic requirements or broader economic strategies, effectively acts as a 'stabilizer,' subtly influencing the crude oil supply and demand balance across various Asian countries. This ongoing dynamic solidifies China's pivotal position within the Asian energy landscape."
-    },
-    "vocabulary": [
-      {
-        "word": "crude oil",
-        "zh": "原油 (這是指還沒有加工過的天然石油，可以直接從地下或海底抽取出來，是很多石化產品的原料喔！)"
-      },
-      {
-        "word": "demand",
-        "zh": "需求 (指的是大家或市場對於某種商品或服務想要購買的數量。當需求量高，通常價格也會跟著變高。)"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-08-13",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "煙霧又來了？東南亞國家嚴陣以待印尼空污危機",
-    "zhSummary": "印尼每年燒芭火耕導致的濃煙，正讓東南亞鄰國再次提高警覺，準備面對新一波可能來襲的空氣污染問題。這個跨國界問題影響了空氣品質與居民健康。",
-    "zhContent": "<p>最近，東南亞的許多國家都繃緊了神經，因為他們正準備迎接一項每年都會發生的挑戰：來自印尼的煙霧。這個情況主要是因為印尼境內的森林火災，尤其在某些季節會特別嚴重，產生的濃煙會飄散到周邊國家，讓整個區域的空氣品質大打折扣，成為大家每年必須面對的問題。</p><p>這些煙霧的來源多半是印尼蘇門答臘和婆羅洲地區的森林與泥炭地火災。根據相關報導，其中不少火災是由於人們為了開闢新的農地，像是種植棕櫚油樹或生產紙漿的樹木，而採用一種叫做「刀耕火種」（Slash-and-burn）的方式清理土地。這種做法雖然成本較低，但在乾燥季節時，火勢很容易失控，迅速蔓延，造成大規模的森林火災。</p><p>當這些大規模火災發生時，產生的濃煙和懸浮微粒會隨著季風飄向鄰近國家。新加坡、馬來西亞首當其衝，經常會因為這些跨國煙霧而導致天空灰濛濛一片，能見度大幅下降。更嚴重的是，長時間吸入這些含有大量污染物、有毒物質的空氣，對當地居民的呼吸道健康有不小的影響。</p><p>有媒體指出，東南亞地區正「嚴陣以待」，意味著各國政府和相關單位已經提高警覺，密切監測印尼的火災情況以及煙霧可能的擴散路徑。他們正在評估這波煙霧可能造成的衝擊，並準備好應對措施，例如可能建議民眾減少戶外活動，以保護自己免受空氣污染的影響。這顯示該區域對這項年度問題的重視與持續關注。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，印尼的火災通常是因為什麼原因而起？這些火災對鄰國造成了哪些具體影響？",
-      "生活與未來：你覺得每年都發生這樣的煙霧問題，會對當地居民的生活和該地區的經濟造成什麼實際影響？",
-      "獨立思考提案：針對這種跨國界的煙霧污染問題，你認為除了等著煙霧來襲之外，受影響的國家或印尼政府還可以怎麼做會更好？"
-    ],
-    "enTitle": "South-East Asia braces for more smoke from Indonesia",
-    "enContent": {
-      "basic": "South-East Asian countries are getting ready for more smoke coming from Indonesia. This smoke is from forest fires, often happening when people clear land for farms like palm oil plantations. It makes the air bad and affects countries like Singapore and Malaysia, causing health problems and poor visibility.",
-      "intermediate": "South-East Asian nations are preparing for a yearly challenge: transboundary haze from Indonesia. The smoke originates from extensive forest and peatland fires, frequently linked to the 'slash-and-burn' method used for clearing land, particularly for palm oil and pulpwood plantations. This low-cost method often leads to uncontrollable fires during dry seasons. The resulting haze significantly reduces air quality, causes health issues for residents in neighboring countries, and impacts visibility.",
-      "advanced": "Regional powers in South-East Asia are bracing for a recurrence of transboundary haze originating from Indonesia, a persistent environmental and public health crisis. The annual phenomenon stems from widespread forest and peatland fires, predominantly driven by the 'slash-and-burn' method for cost-effective land clearing by agricultural and timber companies, notably for palm oil and pulpwood cultivation. This practice, particularly during dry spells, escalates into large-scale, difficult-to-contain infernos. The resultant smoke plumes, laden with hazardous particulate matter, drift across national borders to countries like Singapore and Malaysia, causing severe air pollution, respiratory illnesses, and disruptions to daily life and aviation, prompting regional governments to heighten vigilance and preparedness."
-    },
-    "vocabulary": [
-      {
-        "word": "Haze",
-        "zh": "霾害（ㄇㄞˊ ㄏㄞˋ）：天空灰濛濛的，看起來髒髒的，是因為空氣中有很多很小的灰塵、煙霧或化學粒子飄浮著，讓能見度變差，有時候還會聞到燒焦味，對身體不好。"
-      },
-      {
-        "word": "Brace",
-        "zh": "嚴陣以待（ㄧㄢˊ ㄓㄣˋ ㄧˇ ㄉㄞˋ）：指的是準備好面對困難或挑戰。就像運動員比賽前會先做好暖身和心理準備，國家面對問題時也會提早準備各種應對措施。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-08-13",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUxJYlVYVTNXNTZBZTJGc1pJaVhIdFhaQzhvRDAtdjdjS0RjejRiOXBWbXpVMlFIS0IzQzZMY1NBNGV4Qmp6OXQtZENJMnVUYTlkakllTi1fTTJXbzhFUnpINlFld1loSEhicFotQncyX09QLTFIejA1VzNTWUI0RkJTeVpqWEZBOGc1ZWdzSkhaMzlkOXBMeWlB?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "SAP揭露2026年企業科技藍圖：一窺未來辦公室的樣貌",
-    "zhSummary": "全球企業軟體巨頭SAP近期透過「新聞中心」發布了一則特別預告，展示了他們預計在2026年推動的下一代企業解決方案，重點在於人工智慧與更智慧的辦公體驗。",
-    "zhContent": "<p>全球知名的企業軟體公司SAP，最近透過他們的官方「新聞中心」釋出了一則引人注目的消息。這則消息的核心是一張日期標示為「2026年7月22日」的螢幕截圖。這並非單純的圖片，而是SAP對於未來幾年企業技術發展的重大預告，描繪了他們預期在不久的將來，如何透過創新科技，徹底改變公司日常營運的方式。</p><p>這張特別的「未來截圖」細緻地展示了SAP計劃如何將人工智慧（AI）深度整合到他們的企業管理軟體中。根據SAP的說明，到了2026年，他們的客戶將能夠利用這些進階的AI功能，更有效率地處理繁瑣的工作、精準分析龐大的數據資料，並在做出重要商業決策時，獲得來自AI的專業建議。例如，未來的軟體可能會自動識別並標記潛在的商業風險，或是優化供應鏈的運作流程，讓企業運作更加流暢。</p><p>SAP之所以選擇在現在就揭露這個充滿前瞻性的計畫，主要是為了回應當前全球企業對於加速數位轉型，以及實現永續發展的強烈需求。公司高層在相關發布中表示，未來的商業環境將會更加快速變動且複雜，因此企業需要更聰明、更具彈性的工具來應對挑戰。這項「2026願景」的目標是協助各行各業提升整體的營運效率，同時也讓企業在追求成長的過程中，能夠更輕鬆地符合環境保護的目標。</p><p>目前，SAP的「2026願景」計畫正處於積極的開發與測試階段。SAP新聞中心指出，他們將會持續與全球的合作夥伴和客戶保持密切溝通，並透過各類管道分享這項計畫的最新進展。這次的公開展示，不僅確立了SAP未來數年的研發方向，也為全球企業描繪了一個更加智慧、高效的數位化未來，值得大家持續關注。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，SAP預告了2026年會有哪些新功能？它們主要想解決什麼問題？",
-      "生活與未來：你覺得這些科技發展會對你未來在學校學習或是進入職場後的生活，造成什麼實際影響？請舉例說明。",
-      "獨立思考提案：針對SAP提出的這個「未來願景」，你覺得還有什麼地方可以做得更好或更有趣？"
-    ],
-    "enTitle": "SAP Unveils 2026 Enterprise Technology Roadmap: A Glimpse into the Future Office",
-    "enContent": {
-      "basic": "SAP, a big company for business software, recently showed a picture from 2026. This picture is a sneak peek at their plans for future business tech. They want to add more smart computer programs (AI) to their software. By 2026, companies will use AI to do tasks faster, look at lots of data, and make better choices. SAP says this will help businesses work better and be more eco-friendly. They are working on this plan now and will share more updates.",
-      "intermediate": "Global enterprise software giant SAP recently published news from their 'News Center,' featuring a screenshot dated 'July 22, 2026.' This visual is a strategic preview of their upcoming business technology solutions. The core focus is on deeply integrating Artificial Intelligence (AI) into their enterprise management software. SAP anticipates that by 2026, businesses will leverage these advanced AI features to automate routine tasks, analyze vast datasets efficiently, and receive intelligent recommendations for critical decisions. This initiative aims to address the growing demand for digital transformation and sustainability, enhancing operational efficiency while supporting eco-friendly objectives. SAP is currently in the development phase and will continue to share updates with partners and customers.",
-      "advanced": "SAP, a leading provider of enterprise software, has utilized its 'News Center' to unveil a compelling glimpse into its future technological landscape, highlighted by a simulated screenshot dated 'July 22, 2026.' This strategic disclosure outlines SAP's comprehensive roadmap for integrating advanced Artificial Intelligence (AI) capabilities into its core enterprise resource planning (ERP) solutions. By 2026, SAP envisions empowering businesses to achieve unparalleled levels of operational efficiency through AI-driven automation, sophisticated data analytics, and intelligent decision-making support. This forward-looking '2026 Vision' is positioned as a direct response to the escalating global imperative for digital transformation and sustainable business practices. The initiative seeks to optimize operational workflows while simultaneously facilitating corporate environmental objectives. Currently in its active development phase, SAP has committed to providing continuous updates on its progress to its extensive network of partners and clientele, setting a definitive course for the evolution of enterprise technology."
-    },
-    "vocabulary": [
-      {
-        "word": "Enterprise",
-        "zh": "企業：通常指比較大型、複雜的商業機構或公司。不像小商店，企業通常會有更多員工、更多部門，處理的業務也更廣泛。"
-      },
-      {
-        "word": "Artificial Intelligence (AI)",
-        "zh": "人工智慧：簡單來說，就是讓電腦或機器可以像人類一樣思考、學習和解決問題的技術。它能分析資料、辨識圖案，甚至做出決策，就像電腦有了「大腦」一樣。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-08-13",
-    "sourceName": "SAP News Center",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0xzaHV4emE3bVYtR3NJV0o0a0tyLW1kMWwyY3d1OEdqR2VCQnBvdllkd2s5aFdlMUx5VTlqeUctWlMxTHh6NjdYcW1mdlU3a1BWSVRRam4yeFY0VFNjcnI0dUtqbktQMnhvalNpRTJ5M3V2V1hULUU4a1piUndEZjlXYk5qempFcC1LcW5OMnRfMkpjcXdYU1NXN3pqQkZ5RkhzdldWc254M2Z1c05TQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美與太平洋國家批評中國飛彈試射，論壇未達共識",
-    "zhSummary": "最近，美國和一些太平洋國家公開批評中國進行的核子飛彈測試。這是在太平洋島國論壇（PIF）未能就此議題達成共同立場後，各國選擇單獨表達不滿。",
-    "zhContent": "<p>最近有一件引起國際關注的事：美國和一些太平洋國家，公開批評了中國進行的核子飛彈測試。這起事件之所以備受討論，是因為在之前舉行的一個重要會議——「太平洋島國論壇」（Pacific Islands Forum, 簡稱PIF）上，大家本來有機會一起針對這個議題發表看法，但最後這個機會卻沒有被好好把握。</p><p>太平洋島國論壇是一個由許多太平洋島嶼國家組成的國際組織，他們每年都會開會，討論影響這個地區的重要事務。據了解，在這次論壇期間，一些與會國家對於中國進行的核子飛彈測試表達了他們的擔憂，希望能有一個共同的聲音來回應。然而，最終論壇並沒有發布一份統一的聲明，或是採取共同的行動，使得原本可能展現的團結立場未能實現。</p><p>美國和部分太平洋國家對中國的這次測試表示強烈不滿。他們擔憂這類的軍事活動，可能會讓太平洋地區的緊張局勢升溫，並且對地區的和平與安全造成潛在的威脅。這些國家通常會強調維護國際秩序與穩定，確保各國都能在一個安全和平的環境中發展。他們認為，任何可能破壞這種平衡的行動，都應該受到關注和討論。</p><p>在太平洋島國論壇錯失了集體表態的機會之後，美國和幾個太平洋國家選擇以個別國家的身份，或是透過各自的外交管道，直接對中國的核子飛彈測試提出嚴厲的批評。這表明即使無法達成集體共識，這些國家對於維護地區穩定和對此類軍事行動表達關切的立場依然堅定，這也使得這場國際討論持續受到各方關注。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US and Pacific Nations Criticize China's Missile Test After Forum Misses Opportunity",
-    "enContent": {
-      "basic": "The US and some Pacific countries are unhappy about China's missile test. They think it's bad for peace in the area. This happened after a big meeting, the Pacific Islands Forum, couldn't agree on what to say about it.",
-      "intermediate": "The United States and several Pacific nations have openly criticized China's recent nuclear missile test. They are concerned about its impact on regional peace and stability. This criticism comes after the Pacific Islands Forum (PIF) failed to issue a united statement or take collective action on the issue.",
-      "advanced": "The United States, alongside several Pacific island nations, has voiced strong condemnation regarding China's latest nuclear missile test. These countries have expressed significant apprehension over the potential destabilizing effects such military exercises could have on regional security and equilibrium. The widespread criticism follows an instance where the Pacific Islands Forum (PIF) reportedly missed an opportunity to formulate a unified response or collective stance on the matter."
-    },
-    "vocabulary": [
-      {
-        "word": "Missile",
-        "zh": "飛彈 (fēi dàn)。這是一種可以被發射出去、並精準擊中目標的武器。想像成裝有強力推進器的「火箭」，只不過它的目標是敵人或特定的地點。"
-      },
-      {
-        "word": "Forum",
-        "zh": "論壇 (lùn tán)。這是一個讓大家聚在一起，公開討論、交換意見的場合。就像學校的討論會，或是在網路上大家可以發言的討論區。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-08-13",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY08xbjd1UzgzVnZ4RzlMRFg4bjNfQXFTUDNxWTNJMVNWWWl3c256ZG5pTmJhVDQwREE0aGw1MDVMcXdiekVDdjFQQUpXeXBra3BUYm1iT3d6OXlFOXhRQXJhU3U3NVZoTHcza1ZlZXNtTHo5dkRwTGltUzkwdlZWTGtrYU5ROVB1dE5qMGtsOXpGYXZiZnBZSjQ4SEZuZ2pPc3BIanZFaXp6TDZ5R3g3VXl0RjRyWlpnbE53YkFWWEoyeDNFNTd5dWx3T1lHbGx5QTgxcQ?oc=5",
     "isFeatured": false
   }
 ]
