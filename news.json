@@ -1,5 +1,285 @@
 [
   {
+    "zhTitle": "全球油價飆高高！大家都在看沙烏地和利比亞的石油供應",
+    "zhSummary": "最近國際石油價格大幅上漲，主要原因是市場上的人們都在擔心沙烏地阿拉伯和利比亞這兩個主要產油國，接下來會提供多少石油給全世界。",
+    "zhContent": "<p>嘿！大家有沒有注意到，最近全球的石油價格漲了不少？這幾天，許多做石油生意的人和國家，都在緊盯著中東和北非的兩個主要產油國：一個是沙烏地阿拉伯，另一個是利比亞。他們都在觀察，這兩個地方接下來會提供多少石油給全世界，而這種不確定性讓國際油價在收盤時大漲。</p><p>為甚麼是這兩個國家呢？沙烏地阿拉伯是世界上最大的石油生產國之一，他們生產的石油數量，對全球市場有著巨大的影響力。有時候，他們可能會為了穩定油價或達到某些生產目標，而決定調整石油的供應量。而利比亞則是因為國內狀況常常不穩定，導致他們的油田和港口有時候會突然停止運作，這樣一來，能賣出去的石油自然就會變少，讓大家對供應量感到很緊張。</p><p>當全球市場上的人們看到這些情況，就會開始仔細評估。他們會想：「如果沙烏地阿拉伯減少供應，或者利比亞的石油出不來，那全世界能買到的石油是不是就會變少？」這種市場「權衡」的過程，就像大家在猜測未來某樣物品的數量會變多還是變少。當大家預期未來石油的量會減少，而需要石油的人又很多時，依據供需原則，石油的價格就會開始往上衝。</p><p>正是因為這種對石油供應量可能減少的擔憂，讓買賣石油的人都非常緊張。大家擔心以後可能買不到足夠的油，所以就趕著用更高的價格去買。結果就是，在最近一次的石油交易結束時，國際上的石油價格就這樣大幅上漲了。這是一個很直接的市場反應，反映出大家對這兩個國家未來石油供應的看法。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "International Oil Prices Surge as Market Eyes Saudi and Libyan Supply",
+    "enContent": {
+      "basic": "Hello! Have you noticed that global oil prices have gone up a lot recently? People in the oil business are watching Saudi Arabia and Libya closely. They want to know how much oil these two countries will sell to the world. Saudi Arabia is a huge oil producer, and Libya often has problems that stop its oil production. When people worry there might be less oil, the price goes up because many people still need it. That's why international oil prices closed much higher.",
+      "intermediate": "Global oil prices have surged recently, primarily because the market is assessing the future oil supply from Saudi Arabia and Libya. Saudi Arabia, a major oil producer, can significantly impact global prices with its supply decisions. Libya's frequent internal instability often disrupts its oil production and exports. When traders and buyers anticipate a reduction in overall oil availability from these key sources, the principle of supply and demand dictates that prices will increase. This concern led to a sharp rise in international oil prices at the close of trading.",
+      "advanced": "International crude oil prices have seen a significant upward movement, largely driven by market participants' re-evaluation of future supply dynamics from two pivotal producers: Saudi Arabia and Libya. Saudi Arabia, a cornerstone of global oil production and a key player within OPEC+, wields substantial influence over market equilibrium through its output decisions. Concurrently, Libya's persistently volatile domestic political and security landscape frequently results in unpredictable disruptions to its oil fields and export terminals. The cumulative effect of potential supply cuts from Saudi Arabia and the inherent instability of Libyan production has fueled concerns among traders. This anticipation of tightened global supply, amid ongoing demand, spurred aggressive buying, ultimately leading to a sharp appreciation in international oil prices at the close of the trading session."
+    },
+    "vocabulary": [
+      {
+        "word": "Supply",
+        "zh": "供應：就像商店裡有多少東西可以賣出去。石油供應就是指有多少石油可以被賣到全世界。"
+      },
+      {
+        "word": "Weigh",
+        "zh": "權衡：意思是仔細考慮各種情況，評估不同選項的好壞，然後做出判斷。在這裡，市場權衡就是指大家在判斷石油會變多還是變少。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-09-15",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peWROOWJDamM1OGJoZ3J2RTUwQzFZaFZEQkkwVDIyUWZUZGhfaTlvLXBrNmFxWlNzWXlfNTkxNFhGOTlTcHdLWjVhOW83b1NXbnkxWFJCeGxTd0tCZUE?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "川普：AI安全問題是「騙局」 拒絕更嚴格規範",
+    "zhSummary": "前美國總統川普公開表示，對人工智慧安全性的擔憂是「騙局」，並反對制定更嚴格的AI技術管理規範，他認為這會阻礙創新。",
+    "zhContent": "<p>最近，前美國總統川普針對一個大家都很關心的議題—人工智慧（AI）的安全問題—發表了他的獨特看法。他明確表示，許多人對AI未來發展可能造成的危險和潛在風險，例如AI失控或被惡意利用的擔憂，其實只是一種「騙局」。他也直接拒絕了那些要求政府或相關機構制定更嚴格規範，來加強AI安全防護的建議。這個發言在全球科技界和政策圈都引起了不小的討論。</p><p>這些關於AI安全的討論背景，主要是因為人工智慧技術的進步速度實在太快了。許多專家和研究機構擔心，如果沒有適當的規範和管理，AI可能會在就業市場上取代大量工作、侵犯個人隱私，甚至可能被用來散播錯誤訊息，或者在更極端的情況下造成社會動盪。因此，不少團體一直在呼籲各國政府，應該盡快合作制定一套全球性的標準和法規，確保AI技術能在倫理和安全的框架下發展。</p><p>然而，川普對於這些擔憂有著截然不同的看法。他過去就曾多次強調，他認為過多的政府干預和監管，反而會成為科技創新和經濟發展的絆腳石。在他看來，那些過度強調AI危險性的人，或許是出於某些目的，想藉此減緩整個科技產業的發展速度，甚至阻礙美國在AI領域的領先地位。他傾向於讓市場自由發展，鼓勵企業在這個新興領域大膽探索和創新。</p><p>因此，從前總統川普的這番言論中，我們清楚地看到他對人工智慧發展的鮮明立場：他更傾向於看重科技進步所帶來的巨大潛力與好處，而不是過早地對這個仍在快速演變中的領域施加嚴格的限制或安全措施。他的這種態度，也讓未來AI技術在全球範圍內的監管走向，以及各國政府如何在鼓勵創新與確保安全之間找到平衡點，成為一個持續被國際社會高度關注和討論的重要議題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中川普對AI安全的看法是什麼？他為什麼會有這樣的看法？",
+      "生活與未來：你覺得這個前總統的發言，會對AI技術的發展或相關的政策討論造成什麼實際影響？",
+      "獨立思考提案：針對AI的發展，你覺得政府應該更注重創新還是安全？為什麼？"
+    ],
+    "enTitle": "Trump Dismisses AI Safety Concerns as a \"Hoax\"",
+    "enContent": {
+      "basic": "Former US President Donald Trump recently said that fears about artificial intelligence (AI) safety are just a \"hoax.\" He doesn't think we need stronger rules to keep AI safe. This statement sparked discussion among tech experts and policymakers worldwide.",
+      "intermediate": "Former US President Donald Trump has publicly stated that worries about artificial intelligence (AI) safety are a \"hoax.\" He specifically rejected calls for more safeguards, arguing that too much regulation could slow down technological progress and economic growth. His comments come amidst ongoing global debates about how to manage the rapid development of AI, with some experts advocating for strict regulations to prevent potential risks like job displacement and privacy issues.",
+      "advanced": "Former US President Donald Trump has controversially dismissed growing concerns over artificial intelligence (AI) safety as a \"hoax,\" explicitly rejecting proposals for more robust regulatory safeguards. His pronouncement underscores a significant divergence in approaches to AI governance; while many experts advocate for proactive regulation to mitigate potential risks such as job displacement, algorithmic bias, and the spread of misinformation, Trump's stance prioritizes unfettered innovation, viewing extensive oversight as a detrimental impediment to technological advancement and economic competitiveness. This perspective has ignited further debate within the international community regarding the optimal balance between fostering innovation and ensuring the ethical and safe deployment of AI technologies."
+    },
+    "vocabulary": [
+      {
+        "word": "safeguard",
+        "zh": "保護措施 (bǎo hù cuò shī)。想像你有一個很珍貴的玩具，你會把它放在盒子裡，或用軟布包起來，這些動作就是為了「保護」它。在新聞裡，指的是為避免AI出問題而做的預防或管理措施。"
+      },
+      {
+        "word": "hoax",
+        "zh": "騙局 (piàn jú) / 惡作劇 (è zuò jù)。這個字指的是一個假的、不真實的惡作劇或騙人的把戲。就像有人故意傳播假消息，讓大家相信某件事是真的，但其實根本不是。川普就是覺得AI的危險性被誇大了，像一場騙局。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-09-15",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZTRfbU9qV2pjcHdCVmNGbUo2NElLSzQwUFpqZ2E0cVVSZlpFTk9Lb3FQQ3FCV0NxTEMtZ1FaQVVWMFdXUks5djdEVHVqa0Z3YmJZTzdpejMza2c?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "學習App玩很嗨，但你真的學到東西了嗎？心理學會提醒：投入不等於學會！",
+    "zhSummary": "美國心理學會（APA）提醒大家，教育科技雖然能讓學生感到投入和有趣，但這種「參與度」不一定等於「學習成效」。他們呼籲學校、老師和家長，在選擇數位學習工具時，不應只看它好不好玩，更要評估它是否真的能幫助學生理解和掌握知識。",
+    "zhContent": "<p>「學習科技」聽起來很酷，用平板或電腦上課，感覺比課本有趣多了！很多教育App都設計得讓人玩到停不下來，但你知道嗎？最近，美國心理學會（APA）提醒大家一件事：你玩得很投入、覺得很好玩，不等於你真的有學到東西喔！他們發現，光是學生覺得「參與度很高」，不代表學習效果就很好。這個提醒讓大家開始重新思考，我們對這些數位學習工具的看法。</p><p>美國心理學會解釋，很多教育科技產品為吸引學生，會加入闖關、累積點數、排行榜等遊戲化元素。這些設計確實能讓學生使用時感到開心、有動力。但問題是，當學生被這些額外的「玩樂」功能吸引時，注意力可能會從真正的學習內容上被分散開來。他們可能很喜歡 App 的互動方式，卻沒有真正理解或記住知識點。心理學家認為，這種「假性投入」很容易被誤認為是有效的學習。</p><p>心理學會特別指出，目前很多教育科技產品在設計時，可能沒有充分考慮學習的心理學原理。有些科技只是把傳統教材數位化，或用吸引人的外表包裝，對提升核心學習能力並沒有實質幫助。他們強調，好的教育科技應能幫助學生真正理解、記憶、靈活運用所學知識，而不是單純讓他們感到「有參與感」。這代表，我們不能只看學生在螢幕前的反應，還要看他們是否真的掌握了學習目標。</p><p>因此，美國心理學會呼籲，無論是學校、老師還是家長，選擇和使用教育科技產品時，都要更聰明、更仔細。他們建議大家，不要只看App的受歡迎程度或介面好不好看，而是要深入評估這些工具是否真的有助於提升學生的學習成效。這項聲明提醒了教育界，在擁抱新科技的同時，也要回歸學習本質，確保科技是真的在幫助學習，而不是分散學習注意力。APA目前持續向大眾傳達此觀點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Engagement in EdTech Doesn't Always Mean Learning, APA Warns",
+    "enContent": {
+      "basic": "The American Psychological Association (APA) has released a statement cautioning that high engagement with educational technology (EdTech) does not automatically translate into effective learning. Many EdTech tools use game-like features to make learning fun, but this can sometimes distract students from the actual content they need to learn. The APA suggests that educators and parents should look beyond how 'fun' an app is and instead focus on whether it truly helps students understand and retain information. They recommend evaluating EdTech based on its ability to improve core learning skills, not just on student participation levels or attractive interfaces. This emphasizes that while technology can be a great tool, it must be used wisely to ensure real educational benefits.",
+      "intermediate": "The American Psychological Association (APA) recently highlighted a crucial distinction in the realm of educational technology (EdTech): student engagement does not inherently equate to genuine learning. The APA observed that many EdTech platforms integrate gamified elements, such as points systems, badges, and leaderboards, to boost user interaction and enjoyment. While these features effectively capture students' attention and motivation, they can inadvertently divert focus from the core educational objectives. Students might find the interface highly interactive and appealing but fail to grasp or retain the underlying academic concepts. The APA's stance suggests that this 'pseudo-engagement' is often mistaken for productive learning outcomes. Therefore, they urge stakeholders in education—including schools, teachers, and parents—to scrutinize EdTech products more closely. The focus should shift from superficial metrics like popularity and interface design to a deeper assessment of a tool's capacity to foster true understanding, retention, and application of knowledge. This official communication underscores the importance of prioritizing pedagogical effectiveness over mere technological novelty.",
+      "advanced": "In a significant pronouncement, the American Psychological Association (APA) has issued a caveat regarding the efficacy of educational technology (EdTech), asserting that heightened student engagement is not synonymous with profound learning. The APA's analysis indicates that contemporary EdTech solutions frequently leverage sophisticated gamification strategies—such as tiered progression, reward systems, and competitive rankings—to cultivate user immersion and sustained interaction. While these design choices are undeniably successful in enhancing student motivation and perceived enjoyment, they pose a risk of cognitive overload, potentially diverting attentional resources from critical learning content. Students may become adept at navigating the interactive elements of an application, yet simultaneously exhibit deficits in conceptual comprehension and knowledge retention. The APA critically labels this phenomenon as 'illusory engagement,' which can misleadingly be interpreted as substantive educational progress. Consequently, the organization advocates for a more discerning approach among educational institutions, pedagogues, and guardians in the selection and deployment of EdTech. The recommendation transcends superficial evaluation criteria, such as aesthetic appeal or market adoption rates, in favor of rigorous assessment of a tool's capacity to genuinely facilitate cognitive processes conducive to understanding, memorization, and the flexible application of acquired knowledge. This official communiqué underscores a pivotal recalibration in the discourse surrounding technology in education, advocating for a return to fundamental learning principles and ensuring technological integration serves, rather than subsumes, authentic educational objectives."
+    },
+    "vocabulary": [
+      {
+        "word": "engagement",
+        "zh": "「參與度」或「投入感」。意思是你對某件事有多專心、有多感興趣，有沒有積極地去做它。"
+      },
+      {
+        "word": "psychological",
+        "zh": "「心理學的」或「和心理有關的」。心理學是一門研究人的思想、情緒和行為的學問。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-09-15",
+    "sourceName": "American Psychological Association (APA)",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0hwZXhKZURyanRqeHMwWUo3ZS1qSUtvMGltSmdoak43MGZaRXBqZHVuQjhnZEJfb2w0RVdvUGN3RzRfRklkSC1BWU5mZkZWV0FlbzNkZ3lJTFpLYjFZcExTZFlSYUc3LTFNWUkyTkV2aVNMaUJJS3FuNnZJeFoxaHJ3OTZyZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "狗狗為何對垃圾情有獨鍾？原來背後藏著一個「可愛」的秘密！",
+    "zhSummary": "你家的狗狗是不是也對垃圾桶情有獨鍾？科學家發現，狗狗之所以會被垃圾吸引，不是因為牠們想惡作劇，而是牠們超靈敏的嗅覺和祖先的本能讓牠們覺得垃圾堆是個充滿有趣氣味的「寶藏地」！",
+    "zhContent": "<p>你有沒有發現，家裡的毛小孩總是對垃圾桶或路邊的廢棄物特別感興趣？無論是聞一聞、翻一翻，甚至還想偷偷叼走，狗狗們對垃圾的熱情總讓人摸不著頭緒。最近，英國廣播公司《科學焦點》雜誌就發布了一篇報導，指出狗狗這種看似「調皮」的行為背後，其實藏著一個既科學又有點可愛的小秘密。</p><p>研究發現，狗狗對垃圾的迷戀，主要是因為牠們擁有一套超級靈敏的嗅覺系統。對人類來說，垃圾桶可能只是一堆沒用的東西，但在狗狗的世界裡，那卻是個充滿各種氣味的「超級遊樂園」！廚餘的鹹香、塑膠的化學味、紙張的木頭香，甚至是你丟掉的舊襪子上殘留的汗味，對狗狗而言都是一場豐富的嗅覺饗宴，就像我們看到一桌美味的自助餐一樣，充滿誘惑。</p><p>這種行為並非狗狗想搗亂，而是牠們骨子裡的「拾荒者」本能在作祟。想想看，狗狗的祖先在野外生存時，覓食的過程往往伴隨著探索各種氣味，尋找任何可能成為食物的蹤跡。垃圾堆裡各種強烈而複雜的氣味，對牠們來說就像是一個巨大的資訊寶庫，提供著豐富的感官刺激，讓牠們感到興奮和好奇，忍不住想要一探究竟。</p><p>所以，下次當你看到狗狗又開始對垃圾桶產生興趣時，別急著罵牠，因為牠們只是在用自己的方式探索世界。對狗狗來說，每一片落葉、每一塊碎布，甚至每一個你丟棄的空盒子，都可能帶著獨特的氣味故事，引導牠們進入一場又一場的嗅覺冒險。這完全是牠們天性的一部分，也是牠們可愛又有點讓人頭疼的小習慣。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，科學家如何解釋狗狗對垃圾著迷的原因？你認為這和狗狗的哪些天性有關？",
+      "生活與未來：你覺得這個解釋會對飼主們照顧狗狗的方式產生什麼實際影響？例如，在日常生活中，飼主們可以怎麼做來滿足狗狗的這些天性？",
+      "獨立思考提案：針對狗狗喜歡探索氣味的需求，你覺得除了防止牠們翻垃圾，還可以設計哪些安全的「嗅覺遊戲」來讓牠們玩得開心、滿足好奇心？"
+    ],
+    "enTitle": "The Cute Secret Behind Dogs' Obsession with Trash",
+    "enContent": {
+      "basic": "Dogs love exploring trash because they have an amazing sense of smell! For them, a trash can is like a treasure chest full of interesting smells. This behavior comes from their ancestors who had to sniff out food in the wild. It's just their natural way of exploring the world and having fun with their noses.",
+      "intermediate": "According to BBC Science Focus Magazine, dogs' fascination with trash stems from their incredibly sensitive olfactory system. To a dog, a pile of refuse isn't just waste; it's a 'sensory buffet' offering a rich tapestry of scents, from food scraps to discarded items. This behavior is rooted in their evolutionary history as scavengers, where exploring diverse smells was crucial for survival and finding sustenance. It's a natural instinct that provides immense stimulation and curiosity for them.",
+      "advanced": "BBC Science Focus Magazine reports that canines' predilection for refuse is largely attributable to their highly developed olfactory capabilities. What humans perceive as discarded waste, dogs experience as an intricate mosaic of compelling aromas. This exploratory behavior is deeply ingrained in their ancestral scavenging instincts, where the detection and interpretation of varied scents were paramount for foraging and survival. Consequently, engaging with discarded items offers a potent source of sensory stimulation and cognitive engagement, satisfying an innate curiosity that transcends mere hunger."
+    },
+    "vocabulary": [
+      {
+        "word": "Obsessed",
+        "zh": "著迷：指的是對某件事或某個人非常非常喜歡，喜歡到幾乎一直在想它，甚至有點停不下來。"
+      },
+      {
+        "word": "Scavenger",
+        "zh": "拾荒者：指那些在野外尋找食物或有用東西的動物（或人），牠們不自己打獵，而是找尋別人留下的或廢棄的東西。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-09-15",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vYUZPZWI5N2QzVFhfckpnTzVETTJYSUxTVG1tV0ItV1pxZVpMY3lRMXhvR3lhQ3I5ZUM5UUd6cHB5WFVCNUFmdFpETHJFdnlLbjhIcXR5M0I5UGxnWFctWVg5ZWFyNFBxWkVRMHJtMXJZZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "聖嬰現象超進化！全球天氣大洗牌，哪裡會下雨、乾旱、超熱？",
+    "zhSummary": "最近，一個叫做「聖嬰現象」的氣候模式變得超級強大，這可能會讓全球各地的天氣發生巨大的變化，像是有些地方會下大雨，有些地方會非常乾旱，有些地方則會熱到爆。",
+    "zhContent": "<p>各位讀者，你有沒有聽過「聖嬰現象」？最近這個來自太平洋的「天氣魔術師」可是卯足了全力，已經進入了「超級強勢」的狀態！這可不是在開玩笑，因為它會大大影響全球各地降雨、乾旱和熱浪的分布。換句話說，你家附近的天氣，可能也跟它有關喔。新聞媒體甚至特別指出，它究竟會在地球的哪個角落帶來更多雨水，哪裡會讓土地乾到不行，又有哪些地方會熱到像烤爐一樣，這些都是全球科學家密切關注的重點。</p><p>那麼，這個「聖嬰現象」到底是什麼呢？簡單來說，它是指赤道附近的太平洋東部和中部海域的海水溫度異常升高。當這些海水變暖時，它就會像一個巨大的暖爐，影響著上方的空氣流動，進而改變了全球的風向和降雨模式。這種大規模的海洋和大氣互動，就像是地球的「空調系統」出了狀況，讓原本規律的天氣秩序被打亂，進而對世界各地的氣候產生連鎖效應。</p><p>當聖嬰現象變得「超級強勢」時，它帶來的天氣變化就會更明顯。舉例來說，某些地區會因為聖嬰現象而降下超乎尋常的暴雨，甚至導致洪水氾濫，破壞當地環境與居民生活；同時，地球上的另一些地方，卻可能面臨嚴重的乾旱，農作物無法正常生長，飲用水源也會變得稀缺。此外，聖嬰現象也通常會讓全球的平均氣溫升高，許多地區可能因此經歷一波又一波的熱浪襲擊，創下歷史高溫紀錄。</p><p>科學家們透過觀察太平洋的海水溫度和其他氣候指標，確認這次聖嬰現象的強度已經達到「超級」等級。這意味著，全球各地將持續感受到它帶來的這些極端天氣影響，不論是過多的雨水、惱人的乾旱還是難以忍受的高溫，都會在不同地區發生。各國氣象單位也會密切監測，希望能盡早預測並向民眾發布這些潛在的劇烈變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Super El Niño: Global Weather Shifts with Rain, Drought, and Heat",
+    "enContent": {
+      "basic": "El Niño, a big weather event from the Pacific Ocean, is now super strong. This means it will change weather around the world, causing heavy rain, dry spells, and very hot temperatures in different places. It's when the ocean near the equator gets warmer and messes up global winds and rain patterns. So, some areas might get floods, others might face severe droughts, and many places will feel extreme heat. Scientists are watching this closely to know what's coming.",
+      "intermediate": "The \"El Niño\" phenomenon, originating from the Pacific Ocean, has reached a \"super status,\" significantly impacting global weather patterns. This involves unusually warm ocean temperatures in the central and eastern equatorial Pacific, disrupting typical wind and rainfall distributions worldwide. As a result, certain regions are experiencing heavy rainfall and potential flooding, while others suffer from severe droughts, affecting agriculture and water supplies. Additionally, El Niño typically contributes to a rise in global average temperatures, leading to heatwaves. Scientists are continuously monitoring this powerful climate pattern to better predict its diverse effects across different parts of the world.",
+      "advanced": "The \"El Niño Southern Oscillation\" (ENSO) phenomenon, particularly its warm phase, has intensified to a \"super status,\" portending significant alterations to global meteorological conditions. This amplified state is characterized by anomalous warming of sea surface temperatures across the central and eastern equatorial Pacific Ocean. Such oceanic thermal anomalies exert a profound influence on atmospheric circulation, altering global wind patterns, precipitation distribution, and the frequency of extreme weather events. Consequently, regions worldwide are anticipated to experience a spectrum of impacts, including torrential rainfall and heightened flood risks in some areas, while others grapple with prolonged droughts and water scarcity. Moreover, a robust El Niño episode typically correlates with an increase in global mean temperatures, exacerbating heatwave occurrences. Climatologists are vigilantly tracking the progression and implications of this potent climatic driver to refine predictive models and enhance public preparedness."
+    },
+    "vocabulary": [
+      {
+        "word": "El Niño",
+        "zh": "聖嬰現象 (一種在赤道太平洋海面海水溫度異常升高的自然氣候現象，會影響全球的天氣模式。)"
+      },
+      {
+        "word": "drought",
+        "zh": "乾旱 (指一個地區長時間沒有足夠的雨水，導致土地乾燥、水源短缺的狀態。)"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-09-15",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1l0Y1hUUnh2TFhqTFFFcTBKU0s0T3BkenV1STA3U3dlTzVkRGVSZFh1VzFwM0o5dHhfV3FwTG9Yb0J6WDBRZVFqbGhLRkswaHdDbV94U0ROeVU4RktiRmdXT3pHMUVGVDY5UEhDaU5aOHhqM3doUXFwaHdZVHVycXc2Ymx2aUZRa3BJeW0yMzY3c2YtdGxiNGpZT2VnaEtacXVvNDM4MUFZZVdfT1lFeNIBtgFBVV95cUxQVXBLVFhjSDBwdExvckJxZ0FOU1lJa09PVXFNVUdJRTUwcFF4enI4X2NuNDVhOFV5dUZWZzNqNE9ybVdkVUp0R0dWbXRvY0FrOFJBSGwwNnNYT1JxVk1jd0VObExTLWFuYWdwOEZmalpsMUlSR3AwNVNLY09QNnNFZTQ4cEt6dTYxMjhNQlFzYjk1bzRsYURvU0liQ051bnZkTm1MWC0zQURjS0FjSC1XbjE5SW9DUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非交通大升級！獲10億美元貸款全面改造都會運輸系統",
+    "zhSummary": "南非從「新開發銀行」獲得了10億美元的貸款，這筆巨款將會用來全面「改革」和改善他們的城市公共交通系統，目標是讓通勤更順暢、更有效率。",
+    "zhContent": "<p>南非最近收到了一筆大禮！國際上的「新開發銀行」（NDB）批准了一筆高達10億美元的巨額貸款給南非。這筆錢可不是拿來亂花的，它有重要的任務：要幫助南非進行都會區交通的「改革」，讓城市裡的交通系統變得更好、更有效率。</p><p>這筆10億美元的貸款，折合台幣大約是320億元，是一筆非常龐大的資金。新開發銀行是金磚五國（巴西、俄羅斯、印度、中國和南非）共同成立的國際銀行，主要目的就是幫助這些開發中國家發展基礎建設。南非之所以能獲得這筆錢，是因為他們打算徹底改造老舊的都會區交通網路。這可能包括升級現有的鐵路系統、改善車站設施、或是引進新的交通工具，讓每天通勤的民眾能有更安全、更舒適的搭乘體驗。</p><p>南非目前的城市交通面臨一些挑戰，像是設備老舊、效率不彰等等。這次的「改革」計畫，目的就是要解決這些問題。透過新開發銀行的資金援助，南非政府就能夠投入更多資源，去更新那些急需改善的交通設施。這不僅能讓交通運輸更順暢，也能讓城市的發展更有活力。這也是新開發銀行支持會員國發展的重要一步。</p><p>這筆10億美元的貸款已經確定核准了，南非接下來就會開始運用這筆資金，啟動他們的都會區交通改革計畫。預計將會有一系列的工程和改善措施陸續展開，為南非的城市交通帶來一番新氣象。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa Secures $1bn NDB Loan for Metro Reforms",
+    "enContent": {
+      "basic": "South Africa has successfully received a large loan of $1 billion from an international bank called NDB. This big amount of money will be used to make their city transport system much better. This means fixing old trains, improving stations, and making daily travel easier and safer for everyone in the cities.",
+      "intermediate": "South Africa has successfully secured a $1 billion loan from the New Development Bank (NDB), an international financial institution backed by the BRICS countries. This substantial funding is earmarked for major \"metro reforms\" across South Africa. The aim is to modernize and upgrade the urban public transport infrastructure, addressing issues like aging equipment and efficiency, to provide safer and more reliable services for daily commuters.",
+      "advanced": "The New Development Bank (NDB) has approved a substantial $1 billion loan to South Africa, designated for comprehensive \"metro reforms\" aimed at revitalizing the nation's urban transportation networks. This strategic financial injection from the BRICS-backed institution underscores a commitment to enhancing critical infrastructure. The funds are intended to facilitate the modernization of aging public transit systems, improve operational efficiencies, and ensure sustainable urban development, ultimately benefiting millions of commuters by providing a more reliable and effective transport experience."
+    },
+    "vocabulary": [
+      {
+        "word": "secures",
+        "zh": "獲得、取得。意思是「得到」或「成功拿到」某樣東西，通常是經過努力或談判之後。"
+      },
+      {
+        "word": "reforms",
+        "zh": "改革。意思是「改變」或「修正」一個舊的系統、規定或做法，讓它變得更好、更有效率。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-09-15",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YUGctQXNBTnVaUlh4LUhDN19BSmkxdFpVWmRaZklyeE54cUJ3UldmQ3RSVE5XSTNYYVp3QUh2TGt2cU9Ya1pCaVUtRUFYVzl4REVmZzdabFRlbVhSa3V5QVozOGRHSWhLdFNVZld3TFZxUFNyUTVXYnVlWHo?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東紛擾不止！亞洲油商預期油價將居高不下",
+    "zhSummary": "路透社報導，由於中東戰事短期內難以結束，亞洲石油交易員普遍預期國際油價將持續維持高點。",
+    "zhContent": "<p>嘿，你知道嗎？在遙遠的中東地區發生的事情，其實可能影響到我們每天用的汽油、甚至是好多商品的價格喔！最近，來自全球知名新聞社路透社的消息指出，亞洲那些負責買賣石油的交易員們，對於中東地區的戰事似乎不太樂觀。他們認為這場衝突短期內很難結束，因此，大家普遍預期石油的價格恐怕會一直維持在高檔，甚至可能繼續上漲呢！</p><p>這些「石油交易員」可不是隨便猜測。他們就像在玩一場複雜的策略遊戲，每天緊盯著國際情勢。根據路透社的報導，由於中東地區的緊張局勢遲遲沒有緩解的跡象，這些亞洲的交易員們判斷，全球石油市場的供給可能會持續受到挑戰。當供應變得不確定，大家對石油的需求又沒減少時，自然而然地，油價就會有上漲的壓力。這就是為什麼他們會對油價抱持著「看漲」的態度。</p><p>你可以想像，中東地區是全球重要的石油產地之一。那邊一旦發生衝突或不穩定，不只是石油的產量可能受到影響，連運送石油的路線也可能變得危險或困難。這些都會讓石油市場產生很多不確定性。因此，亞洲的石油交易員們在看到戰事沒有快速平息的跡象後，為了確保未來能買到足夠的石油，也為了預防可能更高的成本，他們現在的交易策略就是預期油價將會繼續走強，而非下跌。</p><p>總之，從路透社傳來的訊息很清楚：亞洲的石油市場玩家們，正密切關注著中東地區的衝突。他們根據目前的判斷，一致認為石油價格在接下來一段時間內，不太可能出現大幅度的下降，反而會維持在高點。這也成了目前國際石油市場一個非常重要的趨勢，所有的市場參與者都在依照這個預期來調整他們的應對策略。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Middle East Turmoil Continues! Asian Oil Traders Expect Oil Prices to Remain Elevated",
+    "enContent": {
+      "basic": "Asian oil traders are expecting oil prices to stay high because they don't see the Middle East conflict ending soon. This uncertainty affects global oil supply.",
+      "intermediate": "According to Reuters, the ongoing Middle East conflict is leading Asian oil traders to maintain a 'bullish' outlook on oil prices. They anticipate that the prolonged instability will likely keep prices elevated due to potential supply disruptions and sustained demand.",
+      "advanced": "Reuters reports that Asian oil traders are adopting a 'bullish' stance on crude prices, attributing this sentiment to the perceived protracted nature of the Middle East conflict. The sustained geopolitical tension is fueling expectations of continued supply constraints and market volatility, thereby underpinning elevated price forecasts within the commodity trading sector."
+    },
+    "vocabulary": [
+      {
+        "word": "Bullish",
+        "zh": "看漲：在金融市場上，指預期某種商品的價格會上漲或保持在高點。"
+      },
+      {
+        "word": "Trader",
+        "zh": "交易員：專門在市場上買賣股票、債券或商品，希望能從價格波動中賺取利潤的人。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-09-15",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjlwYUFLdF9Cc3lZbHQxSHlwT2Y4T3Yzd2ZfZUNwdmNWM1Y5d2M4azA3SUEyLUkzTWo1NEJVeVJSSFROXzJHM0tjdlBfWGpJUkY0MlJpSFFxSmlPcDgydF81R1BYekZyQklaNjNGRDFfUkZ2UVo4MmNKOUJkUDBSbEY3ZkUtM0FJajE4NWVDejk4XzFHb2F3ZzhiOEVRUHRxeElFWmlvOC1pc29LZXFEX25XZ3pHN3FhaUFjWnR1b21zb0E?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓與中亞國家牽手：打造亞洲新力量！",
+    "zhSummary": "南韓最近積極邀請中亞地區的領導人到訪，希望透過加強經濟、能源和基礎建設等領域的合作，提升自身在國際舞台上的影響力，並為兩地區帶來更多發展機會。",
+    "zhContent": "<p>最近，南韓決定舉辦一場特別的會議，邀請了中亞地區好幾個國家的元首來到首爾。這些國家通常指的是哈薩克、烏茲別克、土庫曼、塔吉克和吉爾吉斯。南韓之所以這麼做，主要目的是希望跟中亞地區建立更緊密的關係，進一步提升它在國際舞台上的影響力，讓更多人看到南韓的重要性。這次的會面，象徵著南韓對外政策的一個新方向，顯示他們不再只關注周邊的亞洲國家。</p><p>在這次高層次的交流中，南韓與中亞各國的領導人們討論了許多合作的機會。其中最受矚目的，是關於能源、重要礦產資源以及基礎建設的合作計畫。南韓需要穩定的能源和生產高科技產品所需的稀有礦物，而中亞地區正好擁有這些豐富的資源。透過合作，南韓希望能確保資源供應的穩定性，同時也幫助中亞國家發展他們的經濟，例如共同建造鐵路或橋樑等。雙方都看到了在貿易和投資上的巨大潛力。</p><p>除了經濟上的好處，南韓這次積極與中亞國家互動，還有更深一層的戰略考量。他們希望能夠拓展自己的外交版圖，不只局限於傳統的盟友。透過和中亞的合作，南韓可以增加自己在全球事務中的發言權，成為一個更關鍵的參與者。對中亞國家來說，與南韓這樣的科技大國建立夥伴關係，也能幫助他們在面對世界其他強權時，擁有更多元的選擇，避免過度依賴單一國家，從而獲得更多發展機會。</p><p>這次南韓與中亞領導人的會晤，最終取得了多項重要的成果。雙方簽署了一系列的合作協議，內容涵蓋了上述的經濟、能源和基礎建設等領域，為未來的合作奠定了堅實的基礎。這些協議代表著南韓在推動「K-絲路」倡議上的具體進展，目標是將南韓的創新技術與中亞的廣闊市場及資源連結起來。這一切都標誌著南韓與中亞關係進入了一個全新的階段，為兩地區帶來更多可能。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Korea Deepens Ties with Central Asia, Eyeing Greater Regional Clout",
+    "enContent": {
+      "basic": "South Korea recently held meetings with leaders from Central Asian countries like Kazakhstan, Uzbekistan, and Turkmenistan. The goal is to build stronger relationships and boost South Korea's influence in the region. They discussed working together on energy, important minerals, and building projects like roads. This helps South Korea get needed resources and technology, while also bringing investments and development to Central Asia. Both sides want to grow their economies and become more important global players. These meetings resulted in new agreements for future cooperation, marking a new chapter in their friendship.",
+      "intermediate": "South Korea has been actively engaging with leaders from Central Asian nations, including Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, and Kyrgyzstan, in a series of high-level discussions in Seoul. The primary objective is to strengthen bilateral ties and enhance South Korea's regional influence. Key areas of collaboration focused on energy security, critical mineral resources essential for advanced industries, and infrastructure development, such as transportation networks. This strategic outreach aims to secure stable resource supplies for South Korea while fostering economic growth and diversified partnerships for Central Asian countries. The initiative is a clear signal of South Korea's expanded foreign policy focus beyond its immediate neighborhood.",
+      "advanced": "In a significant diplomatic move, South Korea has hosted leaders from several Central Asian republics, notably Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, and Kyrgyzstan, signaling a concerted effort to deepen engagement and augment its regional influence. The summit-level discussions in Seoul centered on multifaceted cooperation, with particular emphasis on securing vital energy and critical mineral resources – crucial for South Korea's high-tech manufacturing sector. Concurrently, substantial collaboration in infrastructure development, including transportation and logistics, was a key agenda item. This strategic pivot allows South Korea to diversify its economic partnerships and geopolitical outreach, while offering Central Asian nations opportunities for foreign investment, technological transfer, and a more balanced international standing amidst shifting global dynamics. The outcomes included the signing of comprehensive agreements, reflecting a new chapter in Seoul’s foreign policy and its 'K-Silk Road' initiative."
+    },
+    "vocabulary": [
+      {
+        "word": "Clout",
+        "zh": "影響力。想像一個班上的意見領袖，他的話或想法很容易讓大家跟隨，那他就很有「clout」。"
+      },
+      {
+        "word": "Embrace",
+        "zh": "擁抱，或在這裡指熱情地接納、歡迎。就像南韓很歡迎中亞國家的領導人來訪，表示兩邊關係很友好，很樂意跟對方合作。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-09-15",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0pvMVNYLXAwQzlmcTk3WmwwQ1RWQ1NNQmowR092Nlhab0ppcVJiaWJGVHNaeTJwX3g3UzNzejNOSW5PTjRXU3VkNjhXOVQzaHJ2T1FzQ090Y0Npa1ZFNVFQZ2hhcHl0WGE1d1ozUTM5aFZOUGtCZnJjU19ud0lrcUpMOFdWYUVfcEFGaG1nUm96aTVzTFEtRHJuQ1g4dUNwQmVBU1lEQjJCSlpiMGZyYmpNWFYzd9IBuwFBVV95cUxObUtaNTNVQl9GYUdZdDJaV0hNZ2ZDdFRndkFnRkp5QWw0RzZHTUFmWVhManI2MTQ5eWlRY05KX3ZiclVKOGltUnNoVzVtcDA0TnNBVnhaNUNGUi1rX2dYTU5XY1YtU1hBWlVrc0hjSVdGN0pJZ1FMV25qMlZpWmlHaEI0dHZjM1B6MGJqeTNHcmdyellObzdtMFFoOVBEOVNmbE9Ga293NTVSZFBBQnpSWlR1R3R2bHhKV3VF?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "美國房產離我們更近了？德載國際不動產雲林開新家！",
     "zhSummary": "FUNWOO德載國際不動產近期在雲林開設了其在台灣的第四個服務據點，目的是為了深化在中南部地區提供美國不動產投資與資產配置的專業服務。",
     "zhContent": "<p>「FUNWOO德載國際不動產」最近在雲林開了一間新的服務據點，這是他們在台灣的第四個服務點，而且正式開始營運了。簡單來說，這間公司主要是幫助大家在美國買房子，或是協助管理手上的錢和各種財產。他們選擇在雲林設立新據點，表示希望讓中南部地區想了解美國房產或資產管理的人，可以有更方便的服務。</p><p>這個新的據點開幕，是德載國際不動產擴大服務範圍的計畫之一。他們特別看重中南部地區，目標是能更深入地提供與「美國不動產」相關的投資建議，以及「資產配置」的專業服務。過去這些服務可能對某些地區的民眾來說比較遠，現在有了雲林這個新據點，就希望能把這些專業的資訊和協助帶到更多人身邊。</p><p>公司這麼做，是為了強化在中南部市場的影響力，讓更多有興趣的人能接觸到海外投資的機會。他們認為，即使是在台灣，也有不少人對擁有美國的房產，或是如何妥善安排自己的財產有疑問或需求。透過在雲林設立第四個服務點，德載國際不動產期待能直接和當地的居民交流，提供更個人化的諮詢。</p><p>總之，FUNWOO德載國際不動產雲林服務據點的正式開幕，象徵著他們在台灣中南部地區的服務網絡更完善了。現在，居住在雲林及其周邊區域的人，如果有想在美國買房子，或者需要專業意見來管理自己的資產，就可以直接找到這個新的據點尋求幫助。這一步是他們擴展市場、提供更在地化服務的實際行動。</p>",
@@ -35,41 +315,6 @@
     "isFeatured": false
   },
   {
-    "zhTitle": "克里米亞烤肉串奇遇記：怎麼飛越半個地球，變成美國小鎮的排隊美食？",
-    "zhSummary": "這則報導將帶你了解一道來自克里米亞的傳統肉串，如何跨越遙遠的距離，最後在美國南達科他州的一個小鎮上，意外成為當地人瘋狂愛上的特色美食。",
-    "zhContent": "<p>想像一道美味的烤肉串，它從地球的另一端，一個叫做克里米亞的地方出發，跨越了幾千公里，最後竟然在美國中西部一個叫做南達科他州的小鎮上，成了人人搶著吃的「網紅」美食！這可不是電影情節，而是真實發生的故事。今天，我們要來揭開這道神奇烤肉串的旅行祕密。</p><p>這道烤肉串，其實叫做「沙什利克」（Shashlik），是東歐和中亞地區非常受歡迎的一種街頭小吃，尤其在克里米亞很常見。故事要從大約一個世紀前說起，當時有大批來自歐洲東部的移民，帶著他們的希望、夢想，還有家鄉的美味食譜，飄洋過海來到了美國。其中一些人，就定居在了氣候相對嚴峻的南達科他州。他們不僅帶來了語言和文化，也把這道充滿家鄉味的烤肉串帶到了這片新土地。</p><p>最初，沙什利克可能只是移民們在家庭聚會或社區活動中分享的食物。但隨著時間推移，一些家庭開始將這道菜帶入他們的餐館，或者在當地的市集上販售。南達科他州的氣候和當地人對肉食的偏愛，讓這道烤肉串意外地找到了一片沃土。它做法簡單，通常是用羊肉或豬肉塊，經過特製香料醃漬後，再用炭火慢烤，外皮焦香，內裡多汁。這種直接又美味的烹調方式，很快就抓住了當地人的胃。</p><p>到了今天，這道來自克里米亞的沙什利克已經不再只是一道外來食物，它已經深深融入了南達科他州的飲食文化。許多家庭週末會特別到餐館排隊購買，甚至在當地的美食節上，沙什利克攤位總是人潮不斷。它從遙遠的異鄉美食，變成了南達科他州人生活的一部分，一道令人著迷、不可或缺的「地方特色」料理。故事就到這裡，這道肉串的旅程真是讓人驚訝。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The Crimean Kebab's Amazing Journey to South Dakota",
-    "enContent": {
-      "basic": "A tasty meat skewer from Crimea traveled thousands of miles. It became super popular in South Dakota, USA. Immigrants brought this \"Shashlik\" food a long time ago. Now, it's a local favorite.",
-      "intermediate": "Imagine a delicious meat skewer from Crimea, called Shashlik, traveling halfway across the world to become an obsession in South Dakota. About a century ago, Eastern European immigrants settled there, bringing their traditional recipes. This simple, flavorful grilled meat quickly appealed to locals, evolving from a family dish to a popular restaurant and festival food.",
-      "advanced": "The journey of the Crimean meat kebab, or Shashlik, from its origins in Eastern Europe to becoming a culinary staple in South Dakota, is a fascinating tale of cultural migration. Early 20th-century immigrants introduced this marinated, fire-grilled meat to the American Midwest. Its hearty nature and simple preparation resonated with local palates, gradually transforming it from an ethnic novelty into a widely celebrated regional specialty, sought after at restaurants and community events alike."
-    },
-    "vocabulary": [
-      {
-        "word": "kebab",
-        "zh": "烤肉串 (用竹籤或金屬籤串起來，再烤熟的肉塊或蔬菜，是很受歡迎的街頭小吃。)"
-      },
-      {
-        "word": "obsession",
-        "zh": "著迷；迷戀 (指對某件事或某個人非常非常喜歡，甚至到了有點無法自拔的程度。就像很喜歡玩一個遊戲，每天都想玩。)"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-09-15",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXRORnJqTEpOam9KSGdLRHNZTkNoVUFFOE4wTlAtMEl3aFRIelIwcm5aNkRmb1VPeHBIY2lNSmpYeTN2WGZ3R2R6MWE3ZUpDRENWRlRtbndsNXV6UE50UHJWYXcyc0t6Tkc5b2FkM2RSNTg4MllZS3NZajVFeHZOcnNTblUzZlp5bndTcFhrMWpzS0R4dVJLdnZVcUt1NlZxZDdQbnp0MklFLWkwLTB2a093bFRtM0ROWkhXcGpqc0llYk5sOGFwREhEblFiQQ?oc=5",
-    "isFeatured": false
-  },
-  {
     "zhTitle": "AI巨頭也喊怕！OpenAI呼籲英國政府快管管人工智慧",
     "zhSummary": "創造ChatGPT的OpenAI公司竟然主動向英國國會提出，希望政府能盡快制定規則，管理快速發展的人工智慧技術，因為他們也對AI的安全和未來感到擔憂。",
     "zhContent": "<p>大家熟悉的ChatGPT，就是由一家叫做OpenAI的公司開發的。最近，這家走在人工智慧（AI）最前端的公司，做了一件讓很多人感到意外的事。他們主動去跟英國的國會議員們說：「拜託，請你們趕快想辦法，制定一些規定來管理AI吧！」這聽起來是不是很特別？通常都是政府要求公司要遵守規定，但這次反而是開發AI的公司，自己跳出來請求政府幫忙管制。</p><p>OpenAI會這樣做，主要是因為他們自己也看到了AI技術發展得實在太快了，快到連他們都開始擔心，如果沒有好好地規範，可能會出現一些安全上的問題。例如，AI可能會被不懷好意的人利用來做壞事，或者產生一些不準確、甚至錯誤的資訊，進而影響到我們的日常生活和社會秩序。所以，他們希望政府能早點介入，建立一套「煞車系統」，確保AI的發展方向是對人類有益且安全的。</p><p>其實，不只OpenAI有這樣的想法，全世界很多科學家和專家也一直在討論，如何才能讓AI在進步的同時，也能保護我們的社會。OpenAI這次向英國政府發出的呼籲，就像是這些討論的具體行動之一。他們認為，單靠科技公司自己來做自我約束是不夠的，因為AI的影響力實在太大了，需要政府和社會各界共同參與，一起來思考並制定出合適的管理方法。</p><p>目前，英國政府已經收到了OpenAI的這項呼籲，相關的國會議員們正在認真考慮，該如何回應這些對AI安全的擔憂。這表示一場關於「怎麼管理AI」的重要討論已經開始了，未來英國可能會率先針對人工智慧的發展，制定出一些新的法規或指導原則。至於這些規定會是什麼，以及什麼時候會實施，我們還要繼續觀察。</p>",
@@ -102,76 +347,6 @@
     "date": "2026-09-15",
     "sourceName": "The Guardian",
     "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非變成「黑幫國家」？《經濟學人》發出嚴正警告！",
-    "zhSummary": "知名國際媒體《經濟學人》最近對南非發出嚴厲警告，指出這個國家正面臨嚴重的貪腐與組織犯罪問題，恐有淪為「黑幫國家」的風險。這意味著政府機構與公共服務可能被不法勢力深度滲透，影響國家運作和人民生活。",
-    "zhContent": "<p>南非這個遠在非洲南端的美麗國家，最近被全球知名的財經雜誌《經濟學人》用了一個非常沉重的詞來形容：可能正在變成一個「黑幫國家」。聽到「黑幫國家」，大家腦中可能浮現電影裡那種黑道老大橫行、掌控一切的畫面，但《經濟學人》想表達的並非傳統黑手黨真的接管政府，而是指南非的國家機構和許多重要的公共服務，正被大量的貪腐行為和有組織的犯罪團體嚴重侵蝕，導致國家的正常運作受到巨大挑戰，一般民眾的生活也深受其害。</p><p>究竟是什麼原因讓《經濟學人》發出這樣的警訊呢？報導詳細指出，南非許多原本應該為人民服務的國家級機構，例如負責全國電力供應的公司、或是管理著重要鐵路和港口的單位，都爆出嚴重的貪腐問題。許多政府的採購標案被人為操控，目的不是為了選出最好的廠商，而是讓那些與官員有關係的特定團體得標，從中謀取不法利益。這些犯罪集團甚至能影響政府的決策，或是讓某些犯罪行為在法律面前輕鬆脫身，結果就是導致國家基礎建設日漸衰敗，人民也無法獲得穩定且應有的公共服務。</p><p>分析這背後的原因，《經濟學人》認為，雖然南非過去成功推動民主化，但國家內部長期存在的貧富差距巨大、失業率居高不下等社會問題，都成了犯罪組織滋長的溫床。再加上許多身居高位的政治人物和官員，似乎對解決這些根深蒂固的貪腐問題缺乏足夠的決心，甚至有人自己就牽涉其中。這種情況給了有組織的犯罪集團巨大的空間，他們不只進行傳統犯罪，還會透過賄賂、勾結官員的方式來逃避法律制裁，甚至直接掌控部分公共服務的經營權，從中賺取暴利。</p><p>目前來看，南非政府並非完全沒有意識到這些問題的存在，也曾試圖推動一些改革措施。然而，《經濟學人》的文章強調，這些改革的進度相當緩慢，而且成效不彰，遠遠趕不上貪腐與犯罪蔓延的速度。這篇報導最終警示，如果南非不能有效且快速地遏止這些嚴重的問題，這個國家確實有可能會越來越像一個被犯罪分子和貪腐官員共同操控的國家，而非一個能夠健全運作、為人民服務的民主政體。這對南非的未來發展，無疑是一個極其危險且令人擔憂的信號。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，《經濟學人》提到南非可能變成「黑幫國家」，你覺得這句話最主要的關鍵訊息是什麼？",
-      "生活與未來：如果一個國家的政府服務（例如電力或交通）被不法集團影響，你覺得會對當地居民的日常生活造成什麼實際的影響？",
-      "獨立思考提案：針對新聞中提到的貪腐問題，你覺得一個國家可以怎麼做，才能有效減少這種情況發生？"
-    ],
-    "enTitle": "South Africa at Risk of Becoming a 'Mafia State' – The Economist's Stark Warning",
-    "enContent": {
-      "basic": "The Economist has warned that South Africa is in danger of becoming a 'mafia state.' This means that corruption and organized crime are deeply affecting the government and public services. Important state companies, like those for electricity and railways, are facing serious corruption. Criminal groups might be influencing government decisions and escaping justice. Poverty and unemployment create opportunities for these groups. The government is trying to fix things, but progress is slow. If not stopped, this could turn South Africa into a country run by criminals and corrupt officials, instead of a healthy democracy.",
-      "intermediate": "A recent report by The Economist has sounded a severe alarm, suggesting that South Africa is on a trajectory towards becoming a 'mafia state.' This term refers not to a traditional organized crime syndicate taking over, but rather to a systemic infiltration of government institutions and public services by widespread corruption and organized criminal elements. Critical state-owned enterprises, such as those responsible for power supply and transportation infrastructure, are reportedly riddled with corrupt practices, including rigged procurement tenders. These criminal networks are allegedly wielding influence over government policies and enabling criminal activities to go unpunished, leading to deteriorating public services and infrastructure.",
-      "advanced": "The Economist's recent assessment paints a stark picture of South Africa's governance, cautioning that the nation is perilously close to descending into a 'mafia state.' This characterization denotes a profound erosion of state legitimacy, where organized crime and endemic corruption have deeply infiltrated critical governmental apparatuses and public service sectors. Accounts detail widespread malfeasance within vital state-owned enterprises, including the national power utility and rail operator, citing pervasive tender rigging and illicit influence over policy decisions. The report attributes this alarming trend to the confluence of entrenched socio-economic disparities, high unemployment rates fostering criminal enterprise, and a perceived lack of political will to decisively address systemic corruption, with some officials potentially complicit. Despite nascent governmental reform efforts, their slow pace and limited efficacy raise serious concerns about the nation's ability to avert further state capture by nefarious actors, posing an existential threat to its democratic integrity."
-    },
-    "vocabulary": [
-      {
-        "word": "Mafia state",
-        "zh": "「黑幫國家」或「黑幫治國」是指一個國家的政府或重要機構，被有組織的犯罪集團或貪腐勢力嚴重影響、控制，甚至為這些不法分子服務，讓他們能夠逍遙法外，為所欲為。這不一定是指傳統意義上的義大利黑手黨，而是一種形容國家被犯罪行為嚴重滲透的狀態。"
-      },
-      {
-        "word": "Corruption",
-        "zh": "貪腐是指擁有權力的人（例如政府官員或公司主管），為了自己的私利，做出不誠實、不合法的行為。最常見的就是收受賄賂，然後提供不公平的服務或決定，損害大眾的利益。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-15",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTZzTVZXX1JJRTNlWmdsZk14MUdtQW5DZHRmeHJ3NmZfOVd4cGtTZk1UMEJyLXZJTnk1RmR0VW52ZHdmOFIzWHQtczdPUGI0T1pzTzdjYjlIa0hsREp5bUNpVTI0SmVENlN0NkFLSkRvelBwcHl0ZWFHSzJyeDRpLWdLVnJpXzJMQ2czR3Q0SzBONWIxWHVUNGd3UnhwTW1QYlAxZjhONk9xOWtnekE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "土耳其緊盯：中東地區「大洗牌」正在上演！",
-    "zhSummary": "中東地區最近正經歷一場巨大的地緣政治變化，各國之間的關係與勢力平衡都在重新調整。土耳其政府對此高度關注，將此形容為一場「牌局」的重新洗牌，並積極觀察這些發展對其自身國家利益的影響。",
-    "zhContent": "<p>中東地區最近可說是熱鬧滾滾，許多國家之間的關係正在發生大變化！土耳其這個重要的鄰居，正緊盯著這些情勢發展。用他們自己的話來說，就像是一場大型的「牌局」，牌面正在重新洗牌，各國都在調整自己的位置。BBC監測站的報導就指出，土耳其政府和媒體對這些變化非常重視，認為這對整個區域的未來都有深遠影響。</p><p>「牌局重新洗牌」代表的是什麼呢？其實，就是中東各國之間，無論是政治上的結盟、經濟上的合作，甚至是曾經有點緊張的關係，都在出現新的動態。一些過去可能不太說話的國家，現在開始頻繁會面；有些過去關係緊密的，也可能因為新的利益而出現裂痕。土耳其觀察到，這些都不是單一事件，而是牽一髮動全身的連鎖反應，讓整個區域的權力平衡開始改變。</p><p>土耳其作為中東地區一個舉足輕重的國家，當然不會對這種大局變化視而不見。他們這麼積極地「監測」這些情況，主要是想確保自己的國家利益。他們需要了解這些新的結盟或合作，會不會影響到土耳其自身的安全、貿易路線，甚至是未來在國際舞台上的發言權。換句話說，他們在分析新的機會和挑戰，看要怎麼在這場「牌局」中，為自己爭取最好的位置。</p><p>目前來看，這場中東地區的「牌局」還沒有完全定型，各種關係的調整和磨合仍在持續。土耳其政府也明白，這是一個長期且複雜的過程，因此他們會繼續保持高度關注，並且根據區域內的最新發展，來調整他們的外交策略和國家政策。這不是一個會馬上結束的單一事件，而是一個持續演變中的區域大勢。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，土耳其將中東情勢比喻為「重新洗牌的牌局」，你覺得這個比喻想表達什麼意思？",
-      "生活與未來：你覺得中東地區各國關係的「重新洗牌」，對生活在當地的人們會造成什麼實際影響？",
-      "獨立思考提案：如果土耳其想要在這場「牌局」中取得有利位置，你認為他們可以從哪些方面著手努力？"
-    ],
-    "enTitle": "Turkey Watches as Middle East Power Dynamics Shift",
-    "enContent": {
-      "basic": "Turkey is watching big changes in the Middle East. It's like countries are playing cards and the cards are being mixed up again. This means old friendships might change, and new ones might start. Turkey wants to know what these changes mean for its own country and how to stay strong in the region. It's an ongoing situation with new things happening all the time.",
-      "intermediate": "Turkey is closely observing significant geopolitical shifts unfolding across the Middle East. According to reports, Turkish officials describe this period as a \"reshuffling of cards,\" indicating a substantial alteration in regional power dynamics and alliances. This involves various countries reconsidering their relationships, potentially leading to new partnerships or changing existing ones. Turkey, as a key regional player, is monitoring these developments to safeguard its national interests, security, and influence within this evolving landscape. The situation is complex and continuous, with Turkey actively strategizing its position amidst these transformations.",
-      "advanced": "Turkey is rigorously monitoring the complex and dynamic geopolitical landscape of the Middle East, characterized by what its officials term a \"reshuffling of cards.\" This phrase encapsulates a period of profound re-evaluation of alliances, diplomatic overtures, and shifts in power balances among regional states. BBC Monitoring highlights Turkey's acute awareness of these evolving dynamics, recognizing their far-reaching implications for regional stability and its own strategic interests. As a pivotal regional actor, Turkey's proactive surveillance aims to identify potential opportunities and threats arising from new coalitions, revised foreign policies, and economic realignments. The current environment presents an ongoing, multifaceted process requiring continuous strategic adaptation from Ankara to secure its national security, economic prosperity, and diplomatic leverage in a rapidly transforming Middle East."
-    },
-    "vocabulary": [
-      {
-        "word": "monitor",
-        "zh": "監測／觀察：仔細地觀察、留意一個情況或變化。例如，醫生會監測病人的心跳，看看有沒有異常。"
-      },
-      {
-        "word": "reshuffle",
-        "zh": "重新洗牌／調整：原本的安排或順序被打亂後重新整理。就像玩撲克牌時，把牌重新洗過，再發給玩家。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-15",
-    "sourceName": "BBC Monitoring",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40dkNORENmTG5fSmNqUVJjdHVVZ0duR1NaU180T2Qta3lNb1ZIZzZzaUM5RTlnZmFJVEVDbnZPUkFHWnJYVE5QbVNIU2l6aE1UN1BUZGltaw?oc=5",
     "isFeatured": false
   },
   {
@@ -8150,461 +8325,6 @@
     "date": "2026-08-17",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0FxMkNPUm4zUE0ybm5KYXMyZ1VfVUdiSFFyZFBJeVlYdW01ZURtbXRWNE9tbkN1SUoyOTl2LTFZNzdyOHpCNVZxSVZsMUpqZXRYQ2RJSnpNaHZzalk4T25YejN4TU9lMG9IM3Z0UEtTcGxKTC1BSWs0WVlkelo2T2NHTE05OTVuOE9DYTJGelNCUnlodHdFT1FVSUhDelplaWhnY3M1Q1Y2SjU1dk03R3RCelY?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "泰國驚傳大規模槍擊案 九死悲劇凸顯槍枝管制爭議",
-    "zhSummary": "公視早安新聞報導指出，泰國近期發生一起導致九人死亡的嚴重槍擊案，被視為四年來最重大事件。專家認為，這與泰國槍枝管制鬆散有關。",
-    "zhContent": "<p>根據2026年8月9日公視早安新聞的報導，泰國近期發生了一起令人震驚的槍擊事件，造成九人不幸喪生。這起嚴重的暴力案件，不僅讓當地社會感到不安，更被媒體和相關單位認定為泰國近四年來最重大的槍擊案，引起了全國上下的高度關注。</p><p>這場悲劇性的槍擊案，導致九名無辜的受害者失去了寶貴的生命。雖然新聞報導中未詳盡交代事件發生的確切地點、槍手身份或更多具體細節，但其造成的嚴重傷亡數字，足以讓整個泰國社會陷入了深刻的震驚與悲痛之中。這是泰國繼過去幾年幾起零星暴力事件後，再度面臨的一場大規模衝擊，也讓公眾對治安狀況感到擔憂。</p><p>針對這起駭人聽聞的事件，有部分長期研究社會安全的專家學者，在媒體上提出了他們的見解。他們明確指出，泰國現行的槍枝管制政策可能存在一些鬆散環節。這些專家認為，若槍枝取得和持有的規範不夠嚴格，確實有可能讓未經許可的槍枝更容易流向民間，進而增加這類致命槍擊事件發生的風險，甚至導致更多的無辜生命因此逝去。</p><p>目前，泰國的國家執法單位以及相關政府機構，正對這起造成九人死亡的嚴重槍擊案進行全面且深入的調查。社會各界也持續密切關注案件的後續發展，期望能盡快釐清事件的完整始末、找出幕後真相，並嚴肅追究所有相關責任，以撫慰逝者家屬與受傷民眾。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Thailand Experiences Deadliest Shooting in Four Years Amidst Gun Control Concerns",
-    "enContent": {
-      "basic": "A shooting in Thailand, reported on August 9, 2026, resulted in nine deaths, making it the most severe incident in four years. Experts suggest lax gun control is a contributing factor.",
-      "intermediate": "Thailand faced a tragic shooting on August 9, 2026, claiming nine lives, marking the country's deadliest incident in four years. Analysts point to the nation's reportedly loose gun control regulations as a potential cause for such widespread violence.",
-      "advanced": "On August 9, 2026, Public Television Service (PTS) News reported a harrowing shooting incident in Thailand, which led to the deaths of nine individuals. This event has been identified as the most significant of its kind in the past four years, with experts suggesting that Thailand's perceived lax gun control measures may be a critical factor contributing to such large-scale tragedies."
-    },
-    "vocabulary": [
-      {
-        "word": "Lax",
-        "zh": "鬆散的、不嚴格的。指規則、紀律或限制不夠緊密或嚴格，容易被規避。"
-      },
-      {
-        "word": "Casualties",
-        "zh": "傷亡者。指在災難、意外、戰爭或暴力事件中受傷或死亡的人。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-08-16",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfUjFRQ1FIOWhFV2M2Sk83S3gxR1Z5ODBDQ3VpWUhVVnMyN3gyY00wcnY0RDhTaTJrajZ1RHJLZjU0RDdVdXBJS3hKOA?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "巴西海底藏秘密！大西洋熱力運輸「突然變臉」？",
-    "zhSummary": "巴西東北海岸的海洋沉積物研究揭露，大西洋過去曾發生熱力運輸模式的劇烈轉變，這項發現對理解地球氣候有重要意義。",
-    "zhContent": "<p>最近，巴西的科學家們在東北海岸的海底發現了一些驚人的線索。他們研究從大西洋深處挖出來的「泥巴」——也就是海洋沉積物，結果發現，原來這個巨大的海洋，在過去曾經有過非常突然的「發燒」與「降溫」模式轉變。簡單來說，就是海水把熱量從一個地方帶到另一個地方的方式，突然變了樣。</p><p>這些「泥巴」可不簡單，它們像是地球的日記本，一層層地記錄著過去幾千甚至幾萬年的環境變化。研究人員仔細分析了這些沉積物中的化學成分，像是某些微小生物的殼、還有泥沙的組成，就能重建出過去海洋溫度的變化、水流強度，甚至是當時的氣候狀況。正是透過這些古老的資料，他們才注意到大西洋熱力運輸模式的異常變化。</p><p>這次發現的「突然變臉」，指的是熱量在海洋中分佈和移動的方式，發生了比預期更快速、更劇烈的改變。大西洋的熱力運輸就像一條巨大的輸送帶，將熱帶地區的溫暖海水帶往寒冷的兩極，同時也將冷水帶回。這條輸送帶的運作，對全球各地的天氣和氣候模式影響非常大。科學家們表示，過去我們可能低估了這種變化發生的速度和潛在規模。</p><p>這項研究成果由巴西聖保羅研究基金會 (Agência FAPESP) 支持，並在科學期刊上發表。它沒有告訴我們未來會發生什麼，而是讓我們更清楚地看到，大西洋的熱力運輸系統在歷史上曾經有過劇烈的「心情起伏」。了解這些過去的快速變化，可以幫助科學家們更精準地建立氣候模型，進而更好地理解地球氣候系統的複雜性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞主要透過什麼方式，讓科學家發現大西洋熱力運輸的變化？",
-      "生活與未來：你覺得海洋熱力運輸的「突然變臉」可能會對全球的氣候或環境造成什麼樣的潛在影響？",
-      "獨立思考提案：針對這項研究發現，你覺得我們還可以從哪些方面進一步探索或學習，來更了解地球的氣候系統？"
-    ],
-    "enTitle": "Brazilian Sediments Reveal Sudden Shifts in Atlantic Heat Transport",
-    "enContent": {
-      "basic": "Scientists in Brazil studied old ocean 'mud' (sediments) from the Northeast coast. They found surprising evidence that the Atlantic Ocean's system for moving heat around changed suddenly in the past. This discovery, supported by Agência FAPESP, helps us understand how the Earth's climate has behaved over time.",
-      "intermediate": "Researchers off Brazil's Northeast coast analyzed marine sediments, acting like Earth's ancient diaries. They discovered that the Atlantic Ocean's heat transport, a crucial system influencing global weather, has experienced abrupt and significant changes in the past. This finding, supported by Agência FAPESP, suggests that such shifts can occur more rapidly than previously thought, offering new insights into the Atlantic's complex role in climate dynamics.",
-      "advanced": "A study supported by Agência FAPESP, utilizing sediment cores extracted from off Brazil's Northeast coast, has provided compelling evidence of sudden and substantial changes in the Atlantic Ocean's heat transport mechanisms throughout geological history. By analyzing the chemical composition of these marine sediments, researchers were able to reconstruct past oceanographic conditions, revealing a more dynamic and potentially volatile Atlantic Meridional Overturning Circulation (AMOC) than previously anticipated for certain periods. This research underscores the critical importance of paleoclimate records in refining our understanding of oceanic climate teleconnections and their sensitivity to rapid shifts, contributing to more robust climate modeling."
-    },
-    "vocabulary": [
-      {
-        "word": "sediments",
-        "zh": "沉積物 (chénjīwù)：泥沙、石頭或生物的殘骸，在水底或地面慢慢堆積形成的物質，就像地球把過去的記憶一層層地記錄下來。"
-      },
-      {
-        "word": "heat transport",
-        "zh": "熱力運輸 (rèlì yùnshū)：指熱量在海洋中從一個地方移動到另一個地方的過程，就像海洋裡有一條巨大的輸送帶，把溫暖或冰冷的海水帶到不同的區域。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-08-16",
-    "sourceName": "Agência FAPESP",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanJGMkQxZHktb1pvNXFDU29VSUJ2aGFLS1lOVEtodWpQOFFZRzBZUmZQSnQtZEJDYUp0ZUJuaWdwR1NkSHFCdDB6SjBfcnpmc2xlYWlQMGlWY0tCT3hZdklFQmR6X3FnaUNUX0VvSDk5YmdqVlFPa3Q1ZHRTajN3MUdjd254ZV9EcjJSYmRha2VXMTBQTDJBVnBFcElVMzduWHlvTFpTa1RwTzFZN1lTWUo3QWR1SDBvT1NtUUowdDlycU0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "德國藝文界拉警報！藝術自由被政治干預了嗎？",
-    "zhSummary": "德國的極右翼政黨，因為不滿某些現代藝術作品「不符合傳統」，而對藝文界發出批評甚至試圖干預。這引發了德國社會對藝術自由的熱烈討論，也讓大家關注藝術與政治之間的界線。",
-    "zhContent": "<p>最近在德國，大家都在討論一個嚴肅的問題：到底藝術創作的自由，是不是受到了一些政治力量的威脅呢？這要從德國一個叫做「德國另類選擇黨」（通常被稱為「極右翼」）的政黨說起。他們對現代藝術的某些走向表達了強烈的不滿，認為這些藝術作品偏離了他們心中的德國傳統和文化價值。</p><p>這個黨的某些成員，對於現代藝術和文化活動，提出了不少批評。他們認為有些藝術作品「不符合德國傳統」，甚至「是國家的恥辱」。例如，有些裝置藝術、表演，或是關於移民議題的展覽，都曾經遭到他們公開點名批評。他們甚至會對某些文化機構的資金來源提出質疑，或者要求調整博物館的策展方向，讓它們更加符合他們所認定的德國文化路線。</p><p>德國另類選擇黨之所以這麼做，是希望能推動他們所謂的「德國文化」和「傳統價值」。他們認為，國家應該支持那些符合他們文化觀念的藝術，而不是那些他們認為「脫離常軌」的作品。但許多藝術家、文化界人士以及其他政黨則認為，藝術的價值就在於它的多元和自由，它不應該被任何政治立場或意識形態所限制。他們強調，歷史上「國家干預藝術」的行為，往往會扼殺創意，甚至導致文化倒退。</p><p>目前，關於藝術自由的這場爭論仍在德國社會中持續發酵。德國的文化機構和藝術家們，正積極組織各種活動，聲援那些受到批評的作品和創作者，堅定捍衛藝術表達的權利。德國政府和其他主要政黨也公開表示，藝術自由是德國憲法所保障的基本權利，不應受到政治干預。這場拉鋸戰還在進行，沒有最終的定論。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，德國的「極右翼」政黨主要對藝術界提出了哪些批評或要求？他們這樣做的理由是什麼？",
-      "生活與未來：你覺得如果藝術家在創作時需要考慮政治立場，會對他們的作品和觀眾造成什麼樣的實際影響？",
-      "獨立思考提案：針對這個新聞事件，你覺得政府或社會還可以怎麼做，才能在保障藝術自由的同時，也能回應不同群體對文化表達的期望？"
-    ],
-    "enTitle": "Germany's Far Right Challenges Artistic Freedom",
-    "enContent": {
-      "basic": "In Germany, there's a big discussion about art and politics. A political party, often called \"far-right,\" is saying that some modern art isn't good. They believe this art doesn't fit German traditions. They have criticized art shows and even tried to change how museums get their money or what they show. Artists and other groups say that art needs to be free and diverse. They worry that if politics controls art, creativity will suffer. This debate is still going on in Germany. Artists are fighting for their right to express themselves, and the government says art freedom is protected by law.",
-      "intermediate": "A significant debate is unfolding in Germany regarding the intersection of art and politics. The \"Alternative for Germany\" (AfD), a party often labeled \"far-right,\" has voiced strong disapproval of certain modern art pieces and cultural events. They contend that these works deviate from traditional German values and culture, criticizing specific installations, performances, and exhibitions related to topics like immigration. The AfD has even questioned funding for cultural institutions and called for adjustments to museum curation. This has led to strong reactions from artists and cultural figures who advocate for art's inherent freedom and diversity, arguing that political interference could stifle creativity and lead to cultural regression. The discussion remains active in Germany, with artists actively defending their right to expression, supported by the government and other major political parties who affirm artistic freedom as a constitutional right.",
-      "advanced": "Germany is currently grappling with a substantial controversy at the crossroads of artistic expression and political ideology. The \"Alternative for Germany\" (AfD), identified as a far-right party, has vociferously challenged various contemporary art forms and cultural initiatives. Their criticism stems from a belief that certain artworks diverge from established German traditions and cultural norms, often labeling them as un-German or even disgraceful. Specific targets have included installation art, performance pieces, and exhibitions addressing themes like immigration. Furthermore, the AfD has sought to influence cultural funding and curatorial direction within museums. This stance is rooted in their ambition to promote what they define as authentic German culture and traditional values. However, numerous artists, cultural professionals, and other political factions staunchly defend art's intrinsic value in diversity and freedom, arguing that it should not be constrained by political agendas or ideologies. They underscore historical precedents where state intervention in art has suppressed innovation and led to cultural decline. The debate continues to resonate across German society, with cultural institutions and artists actively mobilizing to protect creative freedom. The German government and other principal political parties have consistently reaffirmed that artistic freedom is a fundamental right enshrined in the constitution, emphasizing its inviolability."
-    },
-    "vocabulary": [
-      {
-        "word": "far-right",
-        "zh": "極右翼：指的是政治上持極端保守或民族主義立場的團體或個人，他們通常會強調國家認同、傳統價值，有時也會對外來文化或社會變革持排斥態度。"
-      },
-      {
-        "word": "advocate",
-        "zh": "提倡：為某個想法、政策或權利發聲、支持、宣傳。在這篇新聞中，藝術家和文化界人士「提倡」藝術自由，為它爭取權利和支持。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-08-16",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3JaanNNQ0h2SXZkSUNPQ3BaejNwX05TRlhLVkhtZ3dSTWRISHJ5REhmNnNvWmZsenVEX3RxT2tmMEdhcUpvUGpXU0xYU21ELUhMQjdOZW1ZUC1YMHBZdjBPdm5CckJaUkl2QUZCNG5vOUw4TVpraDZEMXlDd1lQZmJKOTVoYVlWX1N0UXVn?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI詐騙新招：你的度假照片成了騙子的武器！",
-    "zhSummary": "最新消息指出，有詐騙集團利用人工智慧技術，專門竊取大家分享在網路上的度假照片，然後用這些照片來設計新的詐騙手法，讓許多人因此受害。這些騙局精巧難辨，引起了媒體和安全專家的關注。",
-    "zhContent": "<p>嘿，同學們！你們知道嗎？最近有一種超新的詐騙手法，竟然把腦筋動到我們開開心心分享在網路上的度假照片了！根據英國《衛報》的報導，有犯罪集團正在利用「人工智慧」（AI）的技術，把大家在社群媒體上分享的度假照片，變成他們詐騙的新工具。他們會想方設法拿到你的照片，然後用AI來搞一些小動作，目標就是讓你掉進陷阱。</p><p>這種騙局的手法非常狡猾。他們會從你的度假照片中，找到關於你的旅遊地點、時間，甚至是和你一起旅行的朋友等線索。接著，利用AI技術來模仿你的說話方式，或者創造出看似逼真的假訊息。想像一下，你的朋友突然收到一則訊息，上面說「我被困在國外，急需一筆錢！」而且這訊息裡的內容，還包含你度假時的細節，這樣是不是很容易讓人信以為真，然後就把錢匯出去呢？這就是他們利用「不尋常的活動」來誤導你的朋友或家人。</p><p>之所以這種詐騙會特別有效，主要有兩個原因。第一，大家在度假時都很放鬆，也喜歡把美美的照片分享給親友看，這些照片無意中洩漏了很多個人資訊。第二，AI技術讓這些假訊息、假對話變得超級真，有時候連最親近的人都難以分辨真偽。這些詐騙集團就是看準了大家對AI和社群媒體的信任，以及人與人之間的情感聯繫，來進行他們的詐騙行動。</p><p>面對這種新型態的AI詐騙，相關機構和專家們已經發出警告，提醒大家要特別小心。他們建議，在社群媒體上分享照片時，最好檢查一下隱私設定，避免讓所有人都看到你的私人照片。同時，如果突然收到朋友或家人的緊急求助訊息，特別是跟金錢有關的，一定要先透過其他方式（例如打電話）確認，不要急著回覆或轉帳。目前，安全機構持續追蹤這些詐騙行為，並努力提升大家對這類新興威脅的警覺性。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「不尋常的活動」指的是什麼？詐騙集團如何利用AI和度假照片來製造這些活動？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？你認為大家在社群媒體上分享個人資訊的習慣會因此改變嗎？為什麼？",
-      "獨立思考提案：針對這種利用AI進行的詐騙，你覺得除了調整隱私設定和警惕不明訊息外，還可以怎麼做會更好？"
-    ],
-    "enTitle": "AI Scam Alert: Your Holiday Photos Are Being Exploited!",
-    "enContent": {
-      "basic": "Scammers are using a new trick: AI to exploit your holiday photos. They take pictures you share online, find details like where you went or who you were with. Then, they use AI to create fake messages or calls. For example, they might pretend to be you, asking a friend for money urgently, and use details from your photos to make it sound real. This is why it's called 'unusual activity' because something seems off. Experts are warning everyone to be careful. Check your privacy settings on social media and always double-check with friends or family if they send urgent money requests, especially if it feels strange.",
-      "intermediate": "A new and sophisticated scam is emerging, as reported by The Guardian, where criminal groups are leveraging Artificial Intelligence (AI) to exploit individuals' holiday photos. These scammers gather publicly shared vacation images from social media platforms. They then use AI to extract personal details, locations, and even social connections from these photos. This information is then used to craft highly convincing phishing attempts or impersonation scams. For instance, they might generate fake messages or voice clips mimicking a victim, sending urgent money requests to their contacts, complete with specific details from their recent holiday. This 'unusual activity' often tricks recipients into believing the fraudulent requests are genuine due to the personalized context provided by the AI-manipulated photos. Security experts are urging the public to exercise caution, review privacy settings, and verify any unusual requests for funds directly through alternative communication channels.",
-      "advanced": "The Guardian has highlighted an alarming new trend in online fraud: an AI-powered scam designed to exploit individuals' holiday photographs. Criminal syndicates are harvesting publicly accessible vacation images from social media, then deploying sophisticated AI algorithms to extract granular data, including travel itineraries, geographical locations, and social graphs. This extracted intelligence is subsequently weaponized to engineer highly personalized and credible phishing attacks or identity impersonation schemes. For instance, AI could generate deepfake messages or audio impersonating a victim, replete with authentic details gleaned from their recent holiday, thereby enhancing the verisimilitude of urgent financial solicitations sent to their contacts. This 'unusual activity' bypasses typical fraud detection by leveraging deeply personal context. Experts are strongly advising enhanced digital hygiene, including stringent privacy setting configurations on social media and multi-factor verification protocols for any unsolicited or high-stakes financial requests, irrespective of apparent sender identity, to mitigate exposure to these advanced social engineering tactics."
-    },
-    "vocabulary": [
-      {
-        "word": "Exploit",
-        "zh": "利用：在這裡是指詐騙集團用不好的方式，惡意地使用你的個人資料或照片，來達成他們騙人的目的。"
-      },
-      {
-        "word": "Scam",
-        "zh": "詐騙：指那些用不誠實或欺騙的方式來騙取別人金錢、資料或信任的行為。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-08-16",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmMzN01Yd1VseC1SR3gtbThfSjdCUmxQaE5PeWFVcFM0X3l2d3h1Y0JLeUFPdFd6c3UydVJnejZDLUVDUUFPaFh2SjNKUG16T0FVTFBxUGJLVi1POWYtdVJPZ0dpWkkxSTBES3kxRmMycHZndDNXQ2VnSU9Qb2ZLOUVSRjNDZjJPNDItVS1fSFI?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "週末不無聊！TAPinto為你整理當地好玩活動",
-    "zhSummary": "美國當地媒體TAPinto在八月中旬，為居民整理了一份豐富的週末活動清單，包含各式各樣的在地活動，幫助大家輕鬆規劃假日行程。",
-    "zhContent": "<p>嘿，大家好！最近我們從國外媒體TAPinto看到一個很有趣的消息。這家媒體在八月十四日到八月十六日的週末，為當地居民整理了一份「這個週末鎮上與周邊的有趣活動」清單。這篇報導就像是一本小小的活動指南，幫助大家在週末不無聊，能找到適合全家人或朋友一起參與的活動，讓大家都能充分享受當地生活。</p><p>這份活動清單通常會包含各式各樣的選項，例如戶外市集，讓大家去逛逛、買東西，支持在地商家；也可能有公園裡的特別表演，或是適合親子參加的工作坊。有時候，當地的圖書館或文化中心也會推出一些免費的講座或展覽。總之，這份清單的目標就是把鎮上所有好玩、值得一去的地方和活動通通列出來，讓大家有個清楚的參考。</p><p>TAPinto這樣做，其實是希望讓鎮上的居民生活更豐富。透過提供這些資訊，不只可以幫助大家安排週末行程，也能讓更多人認識到在地店家、社團或藝術家的努力。對當地媒體來說，發布這樣的活動指南，是為了服務社區，讓居民們更容易接觸到身邊的各種精彩活動，促進社區的連結與活力。</p><p>總體來說，這類型的報導就是一個實用的工具，讓當地居民可以輕鬆掌握最新的活動資訊，讓週末生活充滿樂趣。這份清單在特定週末為大家提供了許多選項，鼓勵大家走出家門，探索自己居住的城鎮，享受美好的假日，也讓社區的各種活動能被更多人看見。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，TAPinto媒體扮演了什麼樣的角色？他們主要想傳達什麼樣的資訊？",
-      "生活與未來：你覺得如果台灣的每個小鎮或社區，也都有類似的「週末活動清單」，會對居民的生活造成什麼實際影響？",
-      "獨立思考提案：針對這類型的社區活動資訊整理，你覺得還可以怎麼做會更好？例如，除了清單，有沒有其他形式能讓資訊更吸引人或更實用？"
-    ],
-    "enTitle": "Fun Things to Do This Weekend: TAPinto's Local Guide",
-    "enContent": {
-      "basic": "TAPinto, a local news source, published a list of fun activities for the weekend of August 14th-16th. This guide helps people find things to do around town. The list usually includes various events like outdoor markets, park shows, or workshops. Libraries and cultural centers might also offer free talks or exhibits. TAPinto creates these lists to help residents enjoy their weekends, find local businesses, and support community groups. It's a useful way for people to learn about the latest local events and explore their town.",
-      "intermediate": "An American local media outlet, TAPinto, released a comprehensive guide titled 'Fun Things to Do in and Around Town This Weekend' for August 14th-16th. This report functions as a practical activity planner, assisting residents in discovering family-friendly or group activities. The compilation typically features a diverse range of options, such as outdoor markets, park performances, and interactive workshops. It also highlights events at local libraries or cultural centers, aiming to provide a clear reference for all appealing activities within the community. This initiative by TAPinto seeks to enrich residents' lives by connecting them with local businesses, organizations, and artists, fostering community engagement.",
-      "advanced": "TAPinto, a prominent local media platform in the United States, recently disseminated a meticulously curated list of 'Fun Things to Do in and Around Town This Weekend,' specifically for the period of August 14th to August 16th. This publication serves as a comprehensive recreational guide, designed to facilitate residents' discovery of engaging activities suitable for families and friends. The compilation encompasses a spectrum of local offerings, typically ranging from vibrant outdoor markets and public park performances to hands-on workshops and educational exhibits hosted by libraries or cultural institutions. TAPinto's objective in providing such a resource is multi-faceted: to enhance the quality of life for community members, foster greater awareness and support for local enterprises and organizations, and ultimately, strengthen the overall fabric of civic participation and local engagement."
-    },
-    "vocabulary": [
-      {
-        "word": "Community",
-        "zh": "社區：指的是住在同一個地方、或是有共同興趣的一群人所組成的團體。像我們住的里、或是學校附近就是一個社區喔！"
-      },
-      {
-        "word": "Activities",
-        "zh": "活動：指人們去做的事情，特別是那些有目的、有規劃的。像是去參加運動會、看表演、逛市集，這些都是活動。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-08-16",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOckZzcmtXQ3E2b1Rxa0x0elhFRFJYRXNLekZzWUdUX1doclM4eElDR3hkdkhTR2syWG8yT21DZGpvT2FlNDJReW5qbDZDaTN6dzhuYnZHYUFZNWRvdWZJcC1EWWdWVWxkVmtwN2RCa2N6dUpEbUpHeFZGd08wWkdxc3RxTkI4bUJWSExMYllLQklzeUFGRmNjRzJMdWdQRlVxUW9ULVlpNlA5N0FZV2o3TkpVbklUTkRmRVFtQlZEMlpna2o5NjdjM3FxQzJkbHlFbVVQd1BGVVQ4UWs4YUhNMlgxNWgxdHlXY2M2NEE2WE83eFlQd1l2SlcwQzlBZHd5ODRsRDNJOWFCVmw0c0VRck9hUFQtQQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國和伊朗的「諒解備忘錄」期限將至：被凍結的資金該何去何從？",
-    "zhSummary": "一則關於美國和伊朗之間，去年達成的「諒解備忘錄」即將到期的新聞。這份備忘錄涉及伊朗被凍結的60億美元資金用途，以及雙方交換囚犯的協議。如今，一個關鍵的豁免期也將截止，後續發展備受關注。",
-    "zhContent": "<p>嘿，各位關心國際大小事的朋友們！最近有一則關於美國和伊朗之間的重要消息。聽起來有點複雜，但簡單來說，就是他們之間一份叫做「諒解備忘錄」（MoU）的文件，快要達到它設定的期限了。這份文件可不是普通的文件喔，它關係到去年兩國之間一個大動作的「交換」。</p><p>回到去年（2023年），美國和伊朗達成了一個協議。當時，伊朗因為某些原因，有大約60億美元的石油銷售收入被「凍結」在韓國的銀行裡，沒辦法自由使用。而美國呢，也有幾位公民被伊朗關押。於是，為了換回這些美國公民，雙方決定進行一場「交換」：美國同意解除部分伊朗被凍結的資金，讓他們可以用這筆錢去買一些民生必需品，像是食物和藥品；作為交換，伊朗則釋放了五名美國公民。</p><p>按照協議，這筆從韓國解凍的60億美元，會先轉移到卡達的一個銀行帳戶，並且會受到嚴格的監督，確保只能用來購買人道物資，絕對不能用來買武器或其他軍事用途。同時，美國也釋放了五名伊朗公民，完成了這場特別的交換。這項諒解備忘錄可以說是兩國關係中一個難得的進展，讓雙方在某些議題上找到了一點點合作的空間。</p><p>不過，現在這份諒解備忘錄中一個很關鍵的「豁免期」即將到期。這個豁免期允許某些國家在不違反美國制裁的情況下，幫助伊朗轉移這些被凍結的資金。如果美國政府決定不延長這個豁免期，那麼伊朗可能就無法再透過這個管道，從卡達的帳戶中取出資金來購買他們需要的物資。目前，各方都在關注美國會做出什麼樣的決定，這將直接影響這筆資金的未來動向。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國和伊朗之間的主要分歧與合作點是什麼？",
-      "生活與未來：你覺得如果伊朗無法繼續動用這筆資金，會對當地一般民眾的生活造成什麼實際影響？",
-      "獨立思考提案：針對這類涉及國際資金凍結和人道需求的議題，你覺得國際社會還可以怎麼做會更好？"
-    ],
-    "enTitle": "US-Iran MoU on Frozen Funds and Prisoner Swap Set to Expire",
-    "enContent": {
-      "basic": "An important agreement between the United States and Iran is nearing its expiration date. This agreement, called a Memorandum of Understanding (MoU), was made last year. It involved Iran getting access to some of its money that was held in other countries, in exchange for releasing American citizens held in Iran. The money was meant to be used for things like food and medicine.",
-      "intermediate": "In 2023, the U.S. and Iran reached an MoU. Under this deal, approximately $6 billion of Iran's oil revenue, which had been frozen in South Korean banks due to U.S. sanctions, was to be transferred to an account in Qatar. This money was specifically designated for humanitarian purposes, such as buying food and medicine, under strict oversight. In return, Iran released five American citizens, and the U.S. released five Iranian citizens. This agreement was a rare moment of cooperation between the two countries.",
-      "advanced": "The impending expiration concerns a crucial waiver that facilitated the transfer of approximately $6 billion in Iranian funds from South Korea to Qatar, bypassing U.S. sanctions for humanitarian purchases. This 'Memorandum of Understanding' was a key component of a prisoner exchange deal in 2023. If the U.S. does not renew this waiver, it could prevent Iran from accessing the remaining funds in the Qatari account, intended for essential goods. The situation highlights the ongoing complexities in U.S.-Iran relations and the impact of sanctions on Iranian access to its own assets for civilian needs."
-    },
-    "vocabulary": [
-      {
-        "word": "Memorandum of Understanding (MoU)",
-        "zh": "諒解備忘錄 (Liàngjiě Bèiwànglù) - 想像一下，這是兩個國家之間簽訂的一種「非正式協議」，他們可能還沒到簽正式合約，但先說好彼此要怎麼做。就像朋友之間說好要一起完成某件事的約定。"
-      },
-      {
-        "word": "Sanctions",
-        "zh": "制裁 (Zhìcái) - 就像是學校老師為了讓不守規矩的同學改進，會給一些懲罰。國家之間也會用「制裁」來限制另一個國家的經濟或貿易活動，希望對方能改變某些行為。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-08-16",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjE3ZXJKVUt6Z3FISXlTWFpScEdLODVOSWItRmd6eTdOQW83YWlLWnFTaEMxOXYwOFJqQ0NGRkxLT0NfNGt6ZU5BZlh2OWhOdGxDd0VpaS1FYnF1TGEwN1VNSXdRcFM2QldYdTBQVzhJYmhIcFJISnZTaU55bGtOdkhvZnY4YmFCamfSAY8BQVVfeXFMT3B2TWFYeHVZZVVrOVFHeUxxQnZwLXlUVlR6ZGo1RXhhYmw0N0RIRzc3SjJJcG14OGU3clU1cXhBQjhSNktlQmEyOVVfQjlkNjNvR0RmLWxxUTIzTDBINUkwR3V4TDRmTXBKUHQxWnpuYlJpSFpHWHR4R2xqdUxJY0NoQWhNcHoxREJ6akltOE0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "巴西總統魯拉出手反制美國關稅，展現國家立場",
-    "zhSummary": "巴西總統魯拉為了回應美國對巴西產品徵收的關稅，決定啟動一項「互惠機制」，目的是為了向外界展現巴西維護國家利益的決心與力量。",
-    "zhContent": "<p>巴西最近有個大新聞！他們的總統魯拉，為了保護自家國家的利益，決定對美國的一些進口商品採取行動。簡單來說，就是美國如果對巴西的商品課徵額外的費用，巴西也會用類似的方式來回應美國，這在國際貿易上就叫做「互惠」。魯拉總統這麼做，是想讓全世界看到巴西捍衛自己經濟的決心。</p><p>事情是這樣的，美國之前對從巴西進口的一些鋼鐵和鋁產品加收了比較高的費用，也就是我們常說的「關稅」。這讓巴西政府覺得不太公平。所以，魯拉總統現在正式啟動這個「互惠程序」，意思是「你對我這樣，我就對你那樣」。他希望透過這次的行動，讓大家看到巴西不是好欺負的，巴西也有能力保護自己的產業和人民。</p><p>魯拉總統認為，一個國家如果想在國際上被尊重，就必須展現自己的立場和力量。他希望透過這次的行動，能讓美國和其他國家知道，巴西有自己的原則，不會隨便讓步。這種「互惠機制」在國際貿易中其實很常見，當一個國家覺得自己被不公平對待時，就會用這種方式來反擊，以求達到貿易上的平衡。</p><p>總之，巴西政府已經正式啟動了這個針對美國關稅的互惠程序。這表示接下來可能會有一系列的談判，或是新的貿易規定出現。目前還不知道最後會怎麼發展，但巴西的目標很明確，就是希望能在這次的貿易爭議中，為自己的國家爭取到最好的條件，展現他們在國際舞台上的影響力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，巴西總統魯拉為什麼要對美國採取「互惠」行動？這個行動的目的是什麼？",
-      "生活與未來：你覺得這種國家之間的貿易關稅「互惠」策略，對一般民眾的生活可能會造成什麼實際影響？",
-      "獨立思考提案：如果巴西和美國是你的兩位朋友，他們因為貿易問題吵架了，你會建議他們怎麼做才能解決這個問題？"
-    ],
-    "enTitle": "Brazil's Lula Triggers Reciprocity Against US Tariffs to Show Strength",
-    "enContent": {
-      "basic": "Brazil's President Lula has started a 'reciprocity process' against US tariffs. This means if the US charges extra fees on Brazilian goods, Brazil will do the same to US goods. Lula wants to show Brazil is strong and can protect its own economy. This action comes after the US put higher taxes on steel and aluminum from Brazil. Lula believes countries need to show their strength to be respected. This process could lead to new talks or trade rules, as Brazil aims to get the best deal for its nation.",
-      "intermediate": "Brazil's President Lula initiated a 'reciprocity process' in response to US tariffs, aiming to demonstrate Brazil's resolve and strength on the global stage. This move follows the US imposition of increased duties on Brazilian steel and aluminum products, which Brazil's government deemed unfair. By triggering this mechanism, Lula intends to show that Brazil will not passively accept what it perceives as imbalanced trade practices and is prepared to retaliate in kind. This action, a common practice in international trade disputes, seeks to rebalance economic relations and assert Brazil's national interests, potentially leading to further negotiations or revised trade agreements.",
-      "advanced": "In a strategic move to assert its economic sovereignty, Brazilian President Luiz Inácio Lula da Silva has officially triggered a 'reciprocity process' in response to existing US tariffs. This initiative, highlighted by the AP News, underscores Brazil's determination to counter what it perceives as disproportionate trade barriers, specifically referencing US duties on Brazilian steel and aluminum. Lula's administration views this reciprocal action as a crucial demonstration of national strength, signaling to the international community that Brazil is prepared to defend its industrial interests and will not accede to unilateral trade disadvantages. The activation of such a mechanism often precipitates a complex series of diplomatic negotiations and trade policy adjustments, with Brazil's ultimate objective being the establishment of more equitable trade terms and the reinforcement of its standing in global commerce."
-    },
-    "vocabulary": [
-      {
-        "word": "tariff",
-        "zh": "關稅：國家對進口或出口商品收取的稅金。想像一下你從國外買東西，海關會多收一筆錢，那筆錢就是關稅。"
-      },
-      {
-        "word": "reciprocity",
-        "zh": "互惠：兩個國家之間互相給予對方類似的好處或待遇。就像是「你對我好，我也對你好」這樣，在貿易上就是「你課我多少關稅，我也課你多少」的意思。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-08-16",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUVkdGo1djdTUHJ1QW1XLUpBRnNFMjNXTV9NdDdDMnpSY1NTQ1FVc0std01zVnJZVHNmQkRiQWRBbklMckZ3T0Jjd0ZlNjA4NjJQUnFOVTU3Zm51a3dZNHFyMW1zWlRDWlRSRy1KTGJUMEcxQkU3ZXNHZzA1SnJRWktXWEM4VzNORW03VHJYNTNhY2owUC10NTln?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "德國的毛絨絨入侵者：北美浣熊大鬧歐洲！",
-    "zhSummary": "一群原本居住在北美洲的浣熊，在德國過得太開心，數量暴增，不僅把家家戶戶搞得一團亂，還引發了當地居民和動物保護者的激烈爭議。",
-    "zhContent": "<p>德國最近有個毛茸茸的大麻煩，主角竟然是來自北美洲的浣熊！這些看起來可愛的生物，在德國可是讓大家傷透腦筋。牠們的數量快速增加，從森林蔓延到城鎮，把德國搞得烏煙瘴氣。這場「浣熊危機」不只成為當地頭條，更引發了一場關於動物保護和環境管理的激烈討論。</p><p>浣熊們之所以被稱為「製造麻煩的專家」，是因為牠們聰明又適應力強。牠們不僅會翻找垃圾桶，把食物殘渣撒得到處都是，還會想辦法潛入住家或農場偷吃東西。更讓人困擾的是，牠們會破壞房屋結構，比如掀開屋瓦、咬壞電線，甚至傳播疾病。牠們的這種「入侵」行為，讓許多德國居民苦不堪言，生活品質大受影響。</p><p>這些北美浣熊是怎麼跑到德國去的呢？原來，牠們的祖先在二戰期間，有些是從飼養場逃脫，有些是為了毛皮貿易而引進，後來被刻意釋放到野外。由於德國沒有牠們天敵，食物來源又充足，浣熊們便在這裡落地生根，繁衍壯大。然而，對於如何處理這些外來物種，德國社會意見分歧：動物保護者認為應該盡量避免傷害牠們，而受影響的居民和部分政府部門則認為必須採取更積極的控制措施，才能保護本土生態和居民生活。</p><p>面對不斷增長的浣熊數量，德國各地區政府和居民團體陸續嘗試了多種應對方式。有些地方選擇誘捕後將浣熊帶離，有些則放寬了狩獵的限制，允許獵人捕殺浣熊以控制其數量。目前，德國政府仍在努力尋找一個平衡點，既要保護當地生態系統不受威脅，又要兼顧動物福利的考量。這場與浣熊的「戰爭」，看來還會持續一段時間。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Raccoon Rampage: North American Invaders Wreaking Havoc in Germany",
-    "enContent": {
-      "basic": "North American raccoons are causing big problems in Germany. Originally from North America, their population has grown a lot, leading to them making a mess in towns and causing damage to homes. This has created arguments between people who want to protect the animals and those who are bothered by them.",
-      "intermediate": "Raccoons, an invasive species from North America, are now widespread in Germany and creating significant issues. They often raid bins, damage property, and disrupt daily life for residents. Their ancestors were either escapees or intentionally released for fur during WWII. With no natural predators and abundant food, their numbers have exploded, sparking controversy over how to manage them—balancing animal welfare with environmental protection and public nuisance.",
-      "advanced": "Germany is grappling with a controversial issue: the proliferation of North American raccoons, an invasive species. These intelligent and adaptable mammals, whose ancestors escaped captivity or were released for fur during World War II, have thrived in Germany due to a lack of natural predators. Their rapidly expanding population now poses significant challenges, including property damage, agricultural disruption, disease transmission, and ecological imbalance. The situation has ignited a heated debate between animal welfare advocates and residents/authorities advocating for more stringent population control measures, including regulated hunting, to mitigate their destructive impact."
-    },
-    "vocabulary": [
-      {
-        "word": "Raccoon",
-        "zh": "浣熊 (huàn xióng)：一種來自北美洲的小型哺乳動物，身體通常是灰色的，臉部有像戴了面具一樣的黑色斑紋，尾巴有黑白環紋。牠們很聰明，喜歡在晚上活動，常常翻找垃圾桶找食物。"
-      },
-      {
-        "word": "Havoc",
-        "zh": "破壞/混亂 (pò huài / hùn luàn)：指造成很大的損害、混亂或麻煩。就像浣熊在德國讓大家的生活秩序大亂，或是破壞了環境，就是製造了「havoc」。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-08-16",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3VCYVZuTU55UWxXT0p5Z0FmbHo1cVpJVnc3VWNsMmZUZFZHYTc1ZlY4MFB6TVo0Y0FWdVpEeGhYVzJtSU04ai1mdl9zcTd2N1V3SDFtak83dzhqczJLb0VMbFdnOGVGMjBXTHBBLXpJa2xpSlBlR3d3ZmhwbzJ6SlZBbkZpaHB6UEMzbVdoc0JTNGdadjNuQWVKdHVOV1NIWGRoY1A0SmNHeEY5QVpfVk14eWxMeGRx?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "澳洲板球隊爆冷輸給孟加拉！隊長康明斯坦言「打擊失常」將全面檢討",
-    "zhSummary": "澳洲板球隊日前在國際賽事中意外敗給孟加拉，隊長派特·康明斯對此表示震驚，並指出球隊的打擊表現「沒有正常運作」，預計將啟動全面檢討，以找出問題並改進。",
-    "zhContent": "<p>最近，國際體育界傳出一個讓許多人跌破眼鏡的消息：強大的澳洲板球隊竟然在國際賽場上，出乎意料地輸給了孟加拉隊。這場比賽的結果讓澳洲隊的隊長派特·康明斯（Pat Cummins）感到相當震驚和沮喪。康明斯公開表示，他認為球隊的打擊表現「沒有正常運作」，這也是他們遭遇這場爆冷敗仗的關鍵原因。</p><p>這場對上孟加拉的比賽，對於澳洲隊來說無疑是一記重擊。作為世界級的板球強隊，澳洲隊通常在國際比賽中都表現出色，很少會出現這種大規模的失利。康明斯特別點出了球隊在擊球環節的嚴重問題，形容他們的表現就像是「沒有正常運作的機器」。這不只是一場普通的敗仗，它讓整個澳洲隊，甚至是全球的板球粉絲都感到非常意外。</p><p>為了徹底釐清這次失敗的原因，隊長康明斯已經表明，球隊將會針對這次的打擊表現進行一次全面且深入的檢討。這項檢討的目的是要仔細分析每一個環節，找出到底是在哪個部分出了問題，為什麼選手們的擊球能力會突然之間大幅下滑，導致無法發揮應有的水準。球隊將會研究比賽數據、選手狀態，以及戰術部署等各方面。</p><p>目前，這項打擊表現的檢討工作即將展開。澳洲板球隊希望透過這次的深入分析，能幫助他們了解問題的根源，並制定出有效的改進方案。這不僅是為了應對眼前的挑戰，更是為了確保球隊在未來的比賽中能夠重新找回狀態，再次展現其世界級的實力。這次的意外失利，也讓澳洲隊有機會重新審視和調整策略。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，澳洲板球隊的隊長康明斯認為球隊最大的問題是什麼？他打算怎麼做來解決這個問題？",
-      "生活與未來：你覺得一支常常贏球的隊伍，突然輸了一場重要的比賽，隊長和隊員們可能會有哪些心情？這對他們接下來的訓練和比賽會有什麼實際影響？",
-      "獨立思考提案：如果康明斯請你來為球隊的打擊問題提出建議，你會建議他們從哪些方面著手檢討或改進？"
-    ],
-    "enTitle": "Australian Cricket Captain Cummins Calls for Batting Review After Shock Bangladesh Loss",
-    "enContent": {
-      "basic": "The Australian cricket team unexpectedly lost to Bangladesh. Captain Pat Cummins said their batting was 'not functioning' and they will review it.",
-      "intermediate": "Australia's cricket team suffered a surprising defeat against Bangladesh, leading Captain Pat Cummins to express his concern. Cummins stated that the team's batting performance was 'not functioning' as it should, indicating a significant problem. Following this unexpected loss, a comprehensive review of their batting strategy and execution is expected to take place.",
-      "advanced": "In a significant upset, the Australian cricket team experienced a shocking defeat at the hands of Bangladesh. Captain Pat Cummins candidly acknowledged the team's subpar performance, specifically highlighting that their batting unit was 'not functioning' effectively. This candid assessment from the captain underscores the gravity of the loss and has prompted calls for an immediate and thorough review of the team's batting approach and execution to address the underlying issues that contributed to the unexpected result."
-    },
-    "vocabulary": [
-      {
-        "word": "shock",
-        "zh": "震驚 (一件非常令人意外、嚇一跳或意想不到的事情，尤其是負面的事件)"
-      },
-      {
-        "word": "review",
-        "zh": "檢討 (仔細地檢查或評估某件事情，通常是為了找出問題並加以改進)"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-08-16",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEozLXc3Y1d5aTNmLUhTVEloeG8yOEV1bTlvVzQwMmplQ3BvY21IOHVGOVJZb2UxYXNFX1RjTHRCYkhXaXlmMlFTLWRPZENwLWlBT0U1Vm1QYXNDY0Y4c3VQREg4QWVISHFFem50VnljRDlRZzh6eFRLNFNxUkdrdzFRc0MydXF5OG9EQUVCTmxvQmNTb2dLOFlUMFh4ZGhtWDFLanhkSlNFeW5LYUVCUDJpUXdWLUVlYTZjM3lITTNiaFUxSnFyYw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "土耳其、巴基斯坦、沙烏地阿拉伯攜手，成立「迷你北約」？",
-    "zhSummary": "土耳其一位部長指出，土耳其、巴基斯坦和沙烏地阿拉伯之間達成的一項國防協議，其運作方式與北約組織的「第五條款」在技術上相似，意味著成員國可能將共享防衛責任。",
-    "zhContent": "<p>最近國際上有一條消息引起了大家的關注：土耳其、巴基斯坦和沙烏地阿拉伯三個國家之間，似乎正建立一個非常重要的國防合作關係。根據土耳其一位部長的說法，他們之間達成的這項國防協議，在技術層面上，其實跟北大西洋公約組織（簡稱北約）裡面一個叫做「第五條款」的規定很像。這代表著這幾個國家在未來面對安全挑戰時，可能會採取共同防禦的策略。</p><p>那麼，北約的「第五條款」到底是什麼意思呢？簡單來說，這條款的核心精神就是「集體防禦」。它規定，如果任何一個成員國受到武裝攻擊，其他所有成員國都會將這次攻擊視為是對自己的攻擊，並且有義務採取必要的行動來協助被攻擊的盟友。這可能包括動用軍事力量來保護彼此。所以，當土耳其部長把新的三國協議與此相比時，就暗示了這三國之間的防禦承諾，也具有類似的嚴肅性和約束力。</p><p>這項聲明由土耳其的官員提出，它凸顯了這三個國家在區域安全與國防合作上的深度規劃。目前，雖然新聞沒有詳細說明這項防禦協議的具體細節，像是它會如何運作、包含哪些具體條款，以及如何執行等。但從部長的口中我們可以得知，這並不是一個隨意的合作，而是一個具備堅實基礎，旨在強化彼此安全，並可能在彼此遭受威脅時提供互相支援的重要框架。</p><p>這項國防協議的發展，意味著土耳其、巴基斯坦和沙烏地阿拉伯可能正嘗試在自身區域建立一個更緊密、更具影響力的安全聯盟。部長的發言，只是揭示了這份合作協議在形式上，與國際上最知名的軍事同盟之一北約，有著異曲同工之妙。而未來這個協議會如何影響地區穩定，則還有待進一步觀察。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，土耳其部長將三國國防協議與北約的「第五條款」相比，你覺得他想強調的是什麼？",
-      "生活與未來：你覺得這個改變會對相關國家的人民造成什麼實際影響？",
-      "獨立思考提案：針對這個新的國防協議，如果讓你來建議，你會希望它還有哪些方面的發展或考量？"
-    ],
-    "enTitle": "Turkey, Pakistan, Saudi Arabia Defence Pact Likened to NATO's Article 5",
-    "enContent": {
-      "basic": "Turkey, Pakistan, and Saudi Arabia have formed a defence agreement. A Turkish minister said this pact is like NATO's Article 5. NATO's Article 5 means if one member is attacked, all other members will help defend it. This suggests the new pact is a serious promise to protect each other among these three countries.",
-      "intermediate": "A new defence pact involving Turkey, Pakistan, and Saudi Arabia has drawn attention. A Turkish minister stated that this agreement is technically similar to NATO's Article 5. Article 5 is a cornerstone of NATO, signifying collective defence where an attack on one member is considered an attack on all. The minister's comparison highlights the potential for a strong mutual defence commitment among these three nations.",
-      "advanced": "Turkish officials have indicated that a newly forged defence agreement between Turkey, Pakistan, and Saudi Arabia bears technical similarities to NATO's foundational Article 5. This comparison suggests a robust commitment to collective security, wherein an armed attack against one signatory would be considered an attack against all, thereby obligating mutual assistance. While specific details of the pact remain undisclosed, the minister's statement underscores the establishment of a potentially significant regional defence framework aimed at strengthening the security posture of the involved nations."
-    },
-    "vocabulary": [
-      {
-        "word": "Pact",
-        "zh": "協議／協定：指幾個國家或團體之間達成的一份正式承諾或約定，通常是為了共同的目的，像是防禦或合作。"
-      },
-      {
-        "word": "Collective Defence",
-        "zh": "集體防禦：一種軍事聯盟的概念，意思是如果聯盟中的任何一個成員國被攻擊，所有其他成員國都會視同自己被攻擊，並一起站出來防衛。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-08-16",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南韓領導人李先生呼籲：快來結束這場「沒有終點」的戰爭吧！",
-    "zhSummary": "南韓領導人李先生公開呼籲北韓重啟對話，希望能將韓戰從目前的停戰狀態，正式轉變為簽署和平條約，讓朝鮮半島進入永久和平。他強調這是為了地區穩定與發展的關鍵一步。",
-    "zhContent": "<p>最近，南韓的領導人李先生對外發出了一項重要的呼籲。他希望可以和北韓重新開啟對話，而這場對話的核心目標，就是要「正式」結束長達數十年的韓戰。許多人可能以為韓戰早就結束了，但事實上，雖然交戰雙方在1953年簽署了停戰協議，讓戰火停了下來，但從國際法的角度來看，它從未真正劃下句點，這也是為什麼這次對話的提議會顯得特別重要，因為這關乎著朝鮮半島未來是戰是和的大方向。</p><p>李先生強調，透過這樣的高層對話，如果雙方能達成共識，簽署一份具有法律約束力的和平條約，將能取代現在暫時性的停戰協議。這就表示，朝鮮半島將從理論上的「戰爭狀態」，真正進入「和平時期」。他認為，邁出這一步不僅能大幅降低兩國間長期以來的緊張氣氛，減少擦槍走火的風險，也能為整個東北亞地區帶來更穩定的局面，讓大家可以專心發展經濟和文化，而不是常常擔心軍事衝突爆發。</p><p>在過去的幾十年裡，雖然兩韓之間曾有過幾次重要的會面與交流，甚至嘗試過一些合作項目，但要真正達成永久性的和平協議，一直都面臨著重重困難。李先生這次的呼籲，是希望國際社會也能給予支持和幫助，為兩韓創造一個有利的環境，讓他們能放下過去的歧見，重新坐下來好好談判。他理解要達成真正的和平需要雙方的信任、誠意和巨大的努力，但他堅信這是為了後代子孫，以及整個區域穩定所必需的關鍵步驟。</p><p>目前，李先生的這項提議仍停留在呼籲的階段，北韓方面尚未對此做出明確的公開回應。國際社會，包括聯合國以及周邊的強權國家，也都正密切關注著這場可能開啟的對話。大家普遍希望能看到兩韓能找到一個共同的基礎，共同為朝鮮半島帶來真正意義上的永久和平。儘管這條道路充滿挑戰，且尚未有任何具體的會談日程或進展，但這項呼籲本身已經引發了廣泛的討論和期待。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korea's Leader Urges Talks to Formally End Korean War",
-    "enContent": {
-      "basic": "South Korea's leader, Mr. Lee, wants to talk with North Korea. He hopes they can finally end the Korean War with a peace treaty, not just an armistice.",
-      "intermediate": "South Korean leader Lee has called for renewed dialogue with North Korea to officially conclude the Korean War. His aim is to replace the 1953 armistice agreement with a permanent peace treaty, moving the peninsula from a technical state of war to genuine peace.",
-      "advanced": "In a significant diplomatic overture, South Korea's leader, Mr. Lee, has publicly urged for bilateral discussions with North Korea focused on the formal cessation of the Korean War. The proposed talks aim to transition the Korean Peninsula from its protracted armistice status, established in 1953, to a definitive state of peace through the negotiation and signing of a comprehensive peace treaty."
-    },
-    "vocabulary": [
-      {
-        "word": "armistice",
-        "zh": "停戰協議 (tíngzhàn xiéyì)：意思就是戰爭暫時停止的協議。簽了停戰協議後，雖然不會再打仗，但技術上來說，戰爭還沒真正結束，就像比賽中場休息，還沒宣布誰贏誰輸一樣。"
-      },
-      {
-        "word": "urges",
-        "zh": "呼籲 (hūyù)：意思是真心誠意地希望或要求某人去做某件事，通常帶有鼓勵或請求的語氣。就像你很想大家一起環保，就會「呼籲」大家多搭大眾運輸。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-08-16",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVFYUVRYVXlReWNFWlUtRXZ1NFdHQi1JTWk0S01PaWd5WWRWRktXUmpzUjRuM1lRTjZtcTlaUmhpNERNNzRxT1VRbU9COFlUanBPcDc1UE1jWmpWRXdjT09OZWdBN25COUJhQjRzS1NtczhRUHIxbmkzN1dJd2h1RVF4MklubFBuZ0xIVmdLbkkzYjg0YnU5U2ZiZ3VjckRMM19kc2dVQXVjaGtwOVJtVXd0dlN2MUx6LVB1V01pTHE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "震驚印尼！佛羅勒斯島外海強震奪數十條生命",
-    "zhSummary": "印尼東部的佛羅勒斯島外海發生強烈地震，造成數十人不幸罹難，當地救援隊正努力應對災情。",
-    "zhContent": "<p>最近，在遙遠的東南亞國家印尼，發生了一件令人難過的大事。根據德國之聲DW.com的報導，印尼東部的佛羅勒斯島外海，不久前發生了一場強烈地震。這場突如其來的自然災害，目前已經造成了數十人不幸罹難，讓當地居民和全世界都感到震驚與悲傷。</p><p>這次地震的震央位於佛羅勒斯島的海岸外，震動範圍廣泛，對附近的沿海地區造成了嚴重的影響。地震發生時，強大的晃動不僅讓許多建築物受損，甚至導致部分房屋倒塌。由於事發突然，許多居民來不及反應，才造成了這麼多無辜生命的逝去。救援人員接到消息後，立刻趕往災區展開搜救行動，希望能盡快找到受困的人們。</p><p>印尼這個國家，因為位處於環太平洋地震帶上，板塊構造活動非常頻繁，所以地震和火山爆發其實是當地常見的自然現象。儘管當地居民對地震並不陌生，但這次的地震強度和造成的災情，依然超出了許多人的預期。專家們也在持續觀察這次地震可能帶來的後續影響，並提醒民眾要保持警惕，注意安全。</p><p>根據最新的官方報告，這次佛羅勒斯島外海的地震，已經確認導致數十人死亡，還有不少人受傷，甚至有居民流離失所。當地政府和國際救援組織正在緊密合作，提供緊急援助，包括運送食物、飲水和醫療物資到災區。搜救工作仍在持續進行，希望能從廢墟中找到更多的倖存者，並幫助受災民眾度過難關。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Indonesia: Deadly Earthquake Strikes Off Flores Island",
-    "enContent": {
-      "basic": "A big earthquake happened near Flores Island in Indonesia. Many people died because of it. Rescue teams are working to help those affected.",
-      "intermediate": "A powerful earthquake struck off the coast of Flores Island in eastern Indonesia, causing dozens of fatalities. The tremor severely damaged coastal areas, leading to collapsed buildings and displaced residents. Search and rescue operations are currently underway to find survivors and assist the affected communities.",
-      "advanced": "Eastern Indonesia was rocked by a devastating earthquake centered off Flores Island, resulting in scores of casualties and significant infrastructure damage. The powerful seismic event triggered widespread destruction in coastal regions, with numerous homes collapsing and leaving many residents displaced. Authorities and international aid organizations have mobilized extensive search and rescue efforts, alongside providing critical humanitarian assistance to the affected populations amidst ongoing recovery operations."
-    },
-    "vocabulary": [
-      {
-        "word": "Earthquake",
-        "zh": "地震 (dì-zhèn) - 地震就是地球表面突然劇烈晃動的自然現象，通常是因為地殼底下的板塊移動或碰撞造成的。"
-      },
-      {
-        "word": "Casualties",
-        "zh": "傷亡 (shāng-wáng) - 指的是在災難、事故或戰鬥中受傷或死亡的人數。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-08-16",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZElDT1hpLVB2RmR3NWdYNWQ5OGpyZUlzTFVoMjhrallBeFlVSzVIZTlyb21VakRZVjFlRHNOSkkteWdBN1h5X01fVjVDZnVOWGVhYl9pSWpzZUJaYnUyR0YxbjJiaWx4cnpOZmxmaVlVRFBUYjNQaWotRUl2ZENWaDdzQWZlMkZTZlF3OTdUNU5OM0J3UHBpRmw0R3BMSEllWEFBaUUxeXTSAagBQVVfeXFMTld5ODltZlJBVTNGVDZYaU1yUVliN0k2OUpDNV9Kck94MmFrR0FyTF9QTzB6R0FnTndqdmxVRDA4OURHQm53R1ExR1hxN2trOFlqSE1iSnBTcUpLcnF6Y01ZMDgtNWdfQk9GRWNHMzlsemV6TFJ4VURvU0ItdUdYZVVOdmlmOTA3YXUzdHVMX3A2V2Y3aHNSbXk1bHRITWd0Wk84QUo1OG1W?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "小島政壇新局面：芒艾亞三位議員關鍵力挺，讓執政黨實力大增！",
-    "zhSummary": "太平洋小島國家庫克群島最近出現政治變化！三位來自芒艾亞島的獨立議員決定支持庫克群島黨，讓這個執政黨距離掌握國會三分之二席次只差一步，大大鞏固了他們的執政優勢。",
-    "zhContent": "<p>你聽過庫克群島這個美麗的太平洋國家嗎？最近，他們那裡的政治版圖出現了一個引人注目的轉變。庫克群島是由許多小島組成的國家，而其中一個叫做芒艾亞島，有三位重要的議員。他們在最近決定把自己的票投給目前執政的「庫克群島黨」，這件事讓整個國家的政治局勢都變得不一樣了。</p><p>在選舉之後，通常會有不同的政黨在國會裡競爭席次。有時候，沒有一個政黨能獨自拿到足夠的票數來穩定執政。在這種情況下，那些沒有明確歸屬任何黨派的獨立議員，他們的選擇就變得超級關鍵了。這次芒艾亞島的三位議員，他們的加入讓庫克群島黨距離國會三分之二的席次非常接近，甚至可以說，已經掌握了穩定執政的優勢。</p><p>為什麼三分之二的席次這麼重要呢？因為如果一個政黨能拿到這麼多的席次，他們就能更順利地推動他們想實施的政策和法案，政府的運作也會更有效率。這三位議員的支持，對庫克群島黨來說無疑是一劑強心針，讓他們在國會中的影響力大大提升，做決策時能有更大的空間。</p><p>所以，這次來自芒艾亞島的三位議員的選擇，直接導致庫克群島黨在國會中的地位更加穩固。他們現在擁有足以形成三分之二多數的實力，意味著在未來制定國家政策和推動改革方面，將擁有更強大的主導權。這項決定為庫克群島的未來發展，鋪設了一條更加清晰且穩定的道路。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，為什麼「三分之二」的席次對一個政黨來說很重要？獲得了這樣的優勢，對政府運作會帶來什麼影響？",
-      "生活與未來：你覺得庫克群島黨在獲得這些議員的支持後，可能會優先推動哪些政策來回報芒艾亞島的選民，或是鞏固自己的執政地位？",
-      "獨立思考提案：如果台灣也發生類似新聞中的情況，在沒有任何政黨能單獨取得過半席次時，你覺得獨立議員應該如何做出對國家最有利的選擇？"
-    ],
-    "enTitle": "Small Island Politics: Mangaia Trio's Crucial Backing Strengthens Ruling Party",
-    "enContent": {
-      "basic": "In the beautiful Cook Islands, a big political change just happened. Three lawmakers from Mangaia island decided to support the Cook Islands Party. This means the party is now very close to having two-thirds of the seats in their parliament. This makes it much easier for them to lead the country and make new laws.",
-      "intermediate": "The Cook Islands, a nation of picturesque islands in the Pacific, recently saw a significant political shift. Three independent Members of Parliament (MPs) from Mangaia island have pledged their support to the ruling Cook Islands Party. This pivotal decision brings the party to the cusp of securing a two-thirds majority in the national parliament. Such a majority is crucial for effective governance, allowing the party to more easily pass legislation and implement its agenda.",
-      "advanced": "A notable political development has unfolded in the Cook Islands, a sovereign island nation in the Pacific. Three key independent Members of Parliament representing the island of Mangaia have formally declared their allegiance to the incumbent Cook Islands Party. This strategic alignment is particularly significant as it positions the ruling party on the brink of attaining a two-thirds legislative majority. Achieving such a supermajority is paramount in parliamentary systems, granting the party robust legislative power to enact significant policy changes and constitutional amendments with greater ease and stability, thereby reinforcing its governance capabilities."
-    },
-    "vocabulary": [
-      {
-        "word": "Majority",
-        "zh": "多數：在選舉或投票中，贏得大部分票數或席位的一方。想像一下班上選班長，如果一半以上的同學都投給同一個人，那個人就獲得了「多數」支持。"
-      },
-      {
-        "word": "Party",
-        "zh": "政黨：一群有相似政治理念的人組成的團體，他們會一起參加選舉，希望贏得政府的職位來實現他們的想法。就像你和好朋友組一個小組，為了共同的目標而努力一樣。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-08-16",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzladm41UXFtYkU3SXNmdVcxQ3UwbVB6eC1JSG5ucG01SF94a2RMWS1VdXk0UzhZMXpYal9iRzVyZk1HTUE2WVhjQ3NOUmx5OTlUZDFOY2xhTnllRzlfZ08xbU9meDZNbEtFb1BtVUp2VmFmRnVnWTQtMno5S3U0X1FpaFhMY1ZDNVRUWGdsdmFiM243S2ZPN3F3ZjVVdHRxNUNHUEFpcXJwMHN3V1JOTl9IUDNOR0hHaHJWRXQxOA?oc=5",
     "isFeatured": false
   }
 ]
