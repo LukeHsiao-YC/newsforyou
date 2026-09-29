@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "川普與習近平會晤後 預告「重大事情」即將發生！",
+    "zhSummary": "美國前總統川普與中國國家主席習近平舉行會晤後，公開表示這次會談「富有成效」，並神秘預告未來將有「重大事情」發生，引發國際社會高度關注。",
+    "zhContent": "<p>你一定聽過美國前總統川普和中國國家主席習近平這兩位重量級人物吧！最近國際媒體傳來一則消息，說川普在和習近平會晤（就是兩人見面開會的意思）之後，對外公開表示這次的會談「富有成效」，而且更神秘地預告，接下來將有「重大事情」發生。這則新聞來自中央社的國際報導，立刻引起了全球各界的高度關注，大家都在猜測，這兩位領導人到底談了些什麼，又會對未來帶來什麼樣的變化。</p><p>川普在當時並沒有具體說明，他口中的「重大事情」到底是什麼，也沒有透露這次會面的更多細節，例如會議是在哪裡舉行、持續了多久，或者具體的討論內容是什麼。他只是用「富有成效」（productive）這個詞來描述這次的會談。在國際外交場合上，當一位領導人這樣形容會面，通常意味著雙方在某些議題上達成了共識，或者至少溝通得很順暢，而不是不歡而散。</p><p>為什麼這次會面會這麼受矚目呢？這是因為美國和中國都是全球經濟和政治上舉足輕重的大國。他們兩國之間的關係好壞，以及領導人之間的互動，往往會對全世界的貿易、經濟發展，甚至是地區的和平穩定產生巨大影響。所以，只要是這兩位領導人會面，國際社會就會特別關注，而當其中一方領導人公開預告有「重大事情」將發生時，自然就會引發各方媒體、專家和民眾的各種猜測和分析。</p><p>截至目前為止，無論是川普的發言團隊，或是中國官方，都沒有進一步發布任何關於這些「重大事情」的具體內容或時間表。所以，這則新聞的重點，仍然停留在川普對於這次高層會談的正面評價，以及他預告未來將有重大進展的說法上。未來這些「重大事情」會是什麼，又將如何影響世界，都還需要時間來揭曉，大家都在拭目以待。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，川普對於他與習近平的會晤有哪些形容詞？他又預告了什麼樣的結果？",
+      "生活與未來：你覺得如果兩位大國領導人預告有「重大事情」會發生，這對我們日常生活中會有哪些潛在影響？",
+      "獨立思考提案：針對這次會晤，如果你是其中一位領導人，你覺得還可以怎麼做會讓溝通更透明，讓大家更了解「重大事情」是什麼？"
+    ],
+    "enTitle": "Trump: Productive Meeting with Xi, Big Things to Happen",
+    "enContent": {
+      "basic": "Former U.S. President Donald Trump announced that his meeting with Chinese President Xi Jinping was \"very productive.\" He also hinted that \"big things will happen\" following their discussions, drawing international attention.",
+      "intermediate": "Following a high-profile meeting with Chinese President Xi Jinping, former U.S. President Donald Trump described the discussions as \"productive\" and teased that \"big things are going to happen.\" This statement, reported by international media, has sparked widespread speculation about the implications for global affairs.",
+      "advanced": "Former U.S. President Donald Trump, after a significant meeting with Chinese President Xi Jinping, publicly declared the talks to be \"productive\" and enigmatically suggested that \"big things\" are on the horizon. This report, originating from international news sources, has immediately garnered considerable global interest, prompting widespread anticipation regarding the potential outcomes of the high-level engagement and its future repercussions."
+    },
+    "vocabulary": [
+      {
+        "word": "Productive",
+        "zh": "有成效的、有建設性的。當我們說一個會議或討論很「productive」，意思就是它很有用，大家討論出了成果，解決了問題，而不是浪費時間。"
+      },
+      {
+        "word": "Diplomacy",
+        "zh": "外交。指國家與國家之間處理關係的方式和藝術。例如，兩個國家元首會面、談判，或是派大使到對方國家，都屬於「diplomacy」的範疇，目的是為了維持和平、促進合作。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-09-29",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xRThnY1RqRkh3WG45REhiTGhmYmk5OGk0OVdkdVRSX1VJb2NYdXNWV0RoNFpqYzRGbFY0X3dHY0w5Sl9XSTFEcjJxTHhBWHZSSGt1UVFQcjkydmNVQlA4?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "氣候科學的超級英雄！真鍋淑郎教授與他解開地球暖化之謎的傳奇故事",
+    "zhSummary": "一場由科學家們舉辦的學術研討會，特別表揚了諾貝爾獎得主真鍋淑郎教授。他透過創新的電腦模型，早在幾十年前就解釋了全球暖化是怎麼一回事，他的研究至今仍是氣候科學的基石。",
+    "zhContent": "<p>最近，在一個由頂尖科學家們舉辦的特別聚會上，大家都在熱烈討論一位非常厲害的科學家——真鍋淑郎（Syukuro Manabe）教授。他因為對「全球暖化」這個全球性大議題的貢獻，被認為是現代氣候科學的先驅。這次聚會其實是一個「學術研討會」，目的是要回顧並慶祝他那些幫助我們理解地球氣候變化的重要研究成果，並討論這些成果如何持續引導著未來的氣候研究。</p><p>那麼，真鍋教授到底做了什麼呢？他早在幾十年前就開始研究，是第一批利用電腦模型來模擬地球氣候變化的科學家之一。你可以想像，他就像是建立了一個迷你的虛擬地球，把大氣、海洋、陸地等各種複雜的元素都放進去。透過這些模型，他發現了地球大氣層中的溫室氣體（像是二氧化碳）是如何讓地球溫度上升的。他的研究清楚地指出，人類活動排放的溫室氣體，會導致全球暖化，這在當時是非常劃時代的發現。</p><p>他的這些研究，不僅僅是當時的突破，更是現代氣候科學的基石。現在我們使用的許多複雜的氣候預測模型，其實都建立在他最初的想法和方法上。在這次的研討會中，許多來自全球的氣候科學家都分享了他們如何延續真鍋教授的工作，進一步精進氣候模型，更準確地預測未來的氣候變化，並深入分析全球暖化可能帶來的各種影響，例如極端天氣事件的增加等等。</p><p>這場由美國物理學會（APS Journals）所支持的研討會，讓大家再次看到真鍋淑郎教授在科學上的巨大成就，以及他對全人類理解氣候變化的深遠影響。他的「遺產」不僅僅是學術論文，更是一套思維方式和研究工具，幫助我們持續探索地球的奧秘，也讓我們對全球暖化有了更清晰的認識。這次聚會就是一個總結與展望，讓科學界能夠繼續傳承他的精神，為未來的氣候研究與解決方案鋪路。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「全球暖化」是什麼意思？真鍋教授是如何幫助大家理解這個現象的？",
+      "生活與未來：你覺得真鍋教授的這些研究，對我們現在和未來的日常生活有什麼實際的影響？",
+      "獨立思考提案：針對全球暖化的議題，如果讓你也像真鍋教授一樣設計一個實驗或研究，你會想研究什麼主題？"
+    ],
+    "enTitle": "Colloquium : Manabe’s legacy of simulating and understanding global warming",
+    "enContent": {
+      "basic": "A recent scientific meeting highlighted the important work of Syukuro Manabe. He used computer models to understand how global warming happens, especially how gases like carbon dioxide make Earth hotter. His ideas are still used by scientists today to study climate change.",
+      "intermediate": "A colloquium organized by APS Journals celebrated the significant contributions of scientist Syukuro Manabe. He pioneered the use of computational models to simulate Earth's climate, demonstrating how greenhouse gases cause global warming. His foundational research continues to influence modern climate science, helping us better predict and understand future climate changes.",
+      "advanced": "The Colloquium, detailed by APS Journals, convened to examine the profound legacy of Syukuro Manabe in climate science. Manabe was instrumental in developing the first comprehensive general circulation models, which elucidated the role of greenhouse gases in global warming. His pioneering work established the framework for contemporary climate modeling, providing crucial insights into anthropogenic climate change and informing current research efforts to refine climate predictions."
+    },
+    "vocabulary": [
+      {
+        "word": "Global Warming",
+        "zh": "全球暖化：就是地球的平均溫度在持續升高。想像我們的地球穿了一件越來越厚的棉襖，裡面的熱氣散不出去，所以越來越熱。這會造成很多氣候上的變化。"
+      },
+      {
+        "word": "Simulate",
+        "zh": "模擬：意思是「模仿、複製」。就像玩電腦遊戲，遊戲裡的世界就是真實世界的「模擬」。科學家透過電腦建立模型，讓電腦「扮演」地球，來看看氣候會怎麼變化。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-09-29",
+    "sourceName": "APS Journals",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12anhsUlM0MUxaRWJFVmN6VUJQR1R5UlNaeEFlNFJtc2F5VWlSVFpBRnpNMVBiUnFDNF9lNERXWDNiUFRFektiY2MwYXBPb1J3dm5FNTVPSW10dFZnLURkV1lxcmJnQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "《星際大戰》之父圓夢！喬治盧卡斯新博物館盛大開幕，內容超乎你想像！",
+    "zhSummary": "《星際大戰》的創作者喬治盧卡斯最近開設了一座全新的博物館，雖然它被稱為「宅宅天堂」，但內容可不只有大家熟悉的《星際大戰》喔！這是一個探索藝術、電影與想像力的大平台。",
+    "zhContent": "<p>哈囉，各位對電影和藝術充滿好奇的青少年朋友們！大家對《星際大戰》這部風靡全球的經典電影一定不陌生吧？它的創作者——傳奇導演喬治盧卡斯，最近有個超酷的全新計畫實現了！他親手打造了一座嶄新的博物館，而且最讓大家驚訝的是，這座博物館可不只專門展示《星際大戰》的道具或幕後故事。它的內容比你想像的還要更廣泛、更豐富，甚至被外國媒體形容為「宅宅們的天堂」呢！這個消息一曝光，立刻在全球影迷和藝術愛好者之間引起了熱烈的討論。</p><p>那麼，這座讓大家口耳相傳的新博物館究竟收藏了什麼獨特的東西呢？既然它不只聚焦在《星際大戰》系列，就表示喬治盧卡斯將他畢生對各種藝術形式、對敘事（也就是講故事）的熱情，以及對電影製作技術的深入見解，全都融入了這座博物館裡。據悉，館內展出的內容非常多元，從傳統的繪畫、漫畫原稿，到精美的攝影作品、數位藝術，甚至是重要的電影道具和設計稿等等，應有盡有。這些展品跨越了不同的時代和文化背景，目的是要探索「圖像」如何影響人類的想像力，以及我們如何透過影像來表達和傳遞故事。</p><p>說到喬治盧卡斯，他不僅僅是一位成功的電影導演，更是一位充滿遠見的說故事大師。他創立的盧卡斯影業（Lucasfilm）旗下的光影魔幻工業（Industrial Light & Magic, ILM）在電影特效領域開創了無數先河，徹底改變了整個電影產業的樣貌。所以，這座博物館其實是他長年以來一直希望能實現的夢想，他希望提供一個公共平台，讓大眾能更深入地了解敘事藝術的魅力和創新技術的發展。他期待透過這些豐富的收藏，激發更多年輕人的創作靈感，讓大家看到藝術和科技結合所能產生的無限可能性。</p><p>這座備受期待的全新博物館，在萬眾矚目下終於盛大開幕了，歡迎所有對藝術、電影和故事創作充滿興趣的人前往參觀。它不僅展示了喬治盧卡斯個人的藝術品味與宏大願景，也為大家提供了一個探索不同文化和創意表現形式的機會。如果你是《星際大戰》的忠實粉絲，或是任何對視覺藝術和電影製作充滿好奇心的青少年，這座「不只是星際大戰」的博物館，絕對值得你納入未來的探索清單，親身體驗一下這個奇幻的創意世界。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中喬治盧卡斯的新博物館「不只是星際大戰」，這代表它可能會有哪些你意想不到的展品或主題？你覺得他為什麼要這樣做？",
+      "生活與未來：你覺得這個博物館的開幕，會對喜歡電影、藝術或科技的年輕人造成什麼實際影響？你認為它能帶來哪些新奇的體驗或學習機會？",
+      "獨立思考提案：如果讓你來設計一個像這樣以「說故事」為核心的博物館，除了電影，你還會想加入哪些不同形式的藝術或科技元素，讓它更吸引人？"
+    ],
+    "enTitle": "George Lucas's New Museum Opens: A 'Nerd Heaven' Beyond Star Wars",
+    "enContent": {
+      "basic": "George Lucas, who created Star Wars, has opened a new museum. People are calling it 'Nerd Heaven,' but it's not just about Star Wars. The museum shows many kinds of art and stories. Lucas wants to share his love for visual arts and how movies are made. It's a place for everyone who likes art, films, and creativity, not just Star Wars fans.",
+      "intermediate": "George Lucas, the renowned creator of the Star Wars saga, has officially opened his highly anticipated new museum. While playfully dubbed 'Nerd Heaven,' this institution promises a much broader scope than solely focusing on his iconic space opera. The museum is designed to showcase a diverse collection of visual arts, exploring the power of imagery, storytelling, and cinematic innovation across various cultures and eras. It represents Lucas's long-held dream to provide a public platform for understanding the intersection of art and technology, aiming to inspire future generations.",
+      "advanced": "George Lucas, the visionary behind the monumental Star Wars franchise, has inaugurated his long-awaited museum, a sprawling testament to the power of visual storytelling and cinematic artistry. Despite its colloquial moniker, 'Nerd Heaven,' the institution explicitly transcends a singular focus on the Star Wars universe, instead presenting an expansive collection encompassing diverse forms of visual art—from traditional paintings and illustrations to digital media and film artifacts. This ambitious project embodies Lucas's enduring commitment to exploring the evolution of narrative through imagery and technological innovation, offering visitors an immersive journey into the creative processes that have shaped popular culture. The museum aims to serve as a dynamic educational hub, fostering artistic appreciation and inspiring nascent storytellers and innovators in the realms of art and technology."
+    },
+    "vocabulary": [
+      {
+        "word": "museum",
+        "zh": "博物館 (bó wù guǎn) — 這是收藏和展示各種歷史文物、藝術品、科學標本或特殊物品的地方，大家可以在這裡學到很多東西。"
+      },
+      {
+        "word": "visionary",
+        "zh": "有遠見的人 (yǒu yuǎn jiàn de rén) — 指的是那些很有想法、能預見未來趨勢，並努力去實現這些想法的人。就像喬治盧卡斯，他不僅拍電影，還想到了建博物館這樣的大事。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-09-29",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEJDa3NXX05ycVRuTXRGLWhjQ2xTWXBHOHRxQWNiN2RnS2JWVkdjd0Nhd19rVVN1b0ZLVzNRVm1PaUh3bDRXUG5Ya3oxWkUtXzhRNU03N3EycjVpQ0xIUm5XdGp2WGZlSjJKZ1FldkpCNEFQbnJtSVBuek9lbFJwOGRseXlReWFQdjlCdg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI會不會變壞蛋？輝達推出新平台要來管它！",
+    "zhSummary": "晶片大廠輝達（Nvidia）最近公布了一套全新的安全平台，主要目的是要確保人工智慧（AI）程式，也就是大家說的「AI代理人」，不會失控或做壞事，讓AI能更安全地為我們服務。",
+    "zhContent": "<p>嘿，同學們！你們知道現在最熱門的科技話題是什麼嗎？沒錯，就是人工智慧，也就是AI！最近，生產超強電腦晶片的科技公司輝達（Nvidia），公布了一個超酷的新東西。他們推出了一個「安全平台」，聽起來很專業，對不對？簡單來說，這個平台就是要幫助我們管理那些越來越厲害的AI程式，讓這些聰明的「AI代理人」不會突然搞破壞或是做不該做的事情，也就是新聞標題說的「走歪路」或「變壞蛋」。</p><p>那這個安全平台到底是怎麼運作的呢？想像一下，現在有很多AI程式就像小幫手一樣，它們能幫我們寫報告、翻譯，甚至設計東西。但如果這些AI小幫手有一天突然不聽話，做出一些奇怪或有害的舉動怎麼辦？輝達的這個平台，就像是給AI代理人裝上了一套「行為規範」和「安全鎖」。它會隨時監控AI的動作，確保它們都在設定好的範圍內活動。一旦發現AI有任何不對勁的地方，比如開始亂說話、執行危險指令，這個平台就會立刻介入，把它們「暫停」或「修正」，避免造成任何問題。</p><p>輝達之所以會推出這樣一個平台，是因為現在AI發展真的太快了。越來越多公司和個人開始使用這些聰明的AI代理人來處理各種任務。大家對AI的潛力感到興奮，但也有一點點擔心，要是AI變得太聰明，會不會有一天我們無法控制它們？所以，輝達希望透過這個安全平台，讓大家可以更放心地使用AI，知道它們會乖乖地按照人類的指示做事，不會突然脫稿演出，這樣我們就能更專注於開發更多有用的AI應用。</p><p>目前，輝達推出的這個安全平台，就是為了確保AI代理人在未來能夠穩定、可靠地運作。這是一個重要的步驟，讓AI科技能夠在更安全的環境下繼續發展，也讓更多開發者能夠放心地創造出更多厲害又安全的AI應用。這項新技術的目的，就是希望AI未來能夠成為人類最好的幫手，而不是造成困擾，它將持續為AI技術的安全性和穩定性提供堅實的基礎，讓大家都能信任並享受AI帶來的便利。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，輝達推出「安全平台」的目的是什麼？它想要避免AI代理人發生什麼樣的問題？",
+      "生活與未來：你覺得這個平台會對未來AI應用造成什麼實際影響？例如，它可能如何改變我們使用AI工具的方式？",
+      "獨立思考提案：針對確保AI安全的議題，你覺得除了輝達的做法之外，還有哪些方面是大家可以努力的？"
+    ],
+    "enTitle": "Nvidia Launches Security Platform to Prevent AI Agents from Going Rogue",
+    "enContent": {
+      "basic": "Nvidia, a big chip company, has introduced a new security system. Its main job is to stop AI programs, called 'AI agents,' from acting strangely or doing bad things. This system wants to make sure AI works safely for everyone.",
+      "intermediate": "Chip giant Nvidia recently unveiled a brand new security platform designed to keep artificial intelligence (AI) programs, known as 'AI agents,' from going out of control or behaving maliciously. This platform aims to provide a safer environment for AI to operate and serve users effectively. It works by monitoring the AI agents' actions and ensuring they stay within predefined safe boundaries, intervening if any unusual or harmful behavior is detected.",
+      "advanced": "Nvidia, a leading developer of graphics processing units (GPUs) and a key player in the AI industry, has announced the launch of a new security platform specifically engineered to prevent AI agents from 'going rogue.' This initiative addresses growing concerns about AI safety and the potential for autonomous AI systems to deviate from intended behaviors or cause unforeseen harm. The platform is designed to continuously monitor AI agent activities, establish operational boundaries, and implement corrective measures or safeguards upon detection of anomalous or undesirable actions, thereby fostering greater trust and reliability in AI deployments."
+    },
+    "vocabulary": [
+      {
+        "word": "Agent",
+        "zh": "代理人：在這裡，指的是一個可以自動執行任務的電腦程式或人工智慧系統，就像是你的小幫手一樣。"
+      },
+      {
+        "word": "Rogue",
+        "zh": "脫離控制、走歪路：意思是某個東西或人不再遵守規則，開始做出不被允許或可能有害的行為，就像新聞裡說的AI『變壞蛋』。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-09-29",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "綠色驚奇！你家盆栽竟然會數數？",
+    "zhSummary": "最近科學家有項驚人發現：一種常見的室內植物「捕蠅草」竟然能像會數數一樣，聰明判斷什麼時候該抓蟲，讓我們對植物的了解又多了一層！",
+    "zhContent": "<p>各位青少年們，你相信植物也有智慧嗎？最近，國外科學家有一項驚人發現，讓大家對植物的認識徹底改寫！他們指出，一種叫做「捕蠅草」的常見室內植物，竟然擁有類似「數數」的能力！這項發現被形容為「出乎意料的精密」，完全顛覆了我們對植物智慧的傳統認知，是不是很酷呢？</p><p>那麼，捕蠅草是怎麼「數數」的呢？這跟它獨特的捕食方式有關。捕蠅草葉片兩側像夾子，內部長滿敏感觸毛。當小蟲子碰到這些觸毛時，捕蠅草不會馬上關閉。科學家觀察到，如果觸毛在短約二十秒內被觸碰到第二次，捕蠅草才會迅速合攏葉片，把獵物困住。這就像它心裡有個小計算機制：「一、二！確認目標，立刻行動！」</p><p>更令人驚訝的是，捕蠅草的「計數」能力還能進階運用。一旦它成功捕獲昆蟲，如果裡面的獵物持續掙扎，不斷碰觸葉片觸毛，捕蠅草會繼續「累積」觸碰次數。當次數累積到約五次時，它就會啟動消化機制，分泌消化液分解昆蟲。這種精明策略，確保捕蠅草只為真正的食物消耗能量，避免浪費力氣去關閉因風吹或其他誤觸產生的「假警報」。</p><p>這項「植物會數數」的發現，在科學界引起極大震撼。它顯示，植物的行為和機制遠比過去認為的複雜和智慧，甚至可能擁有某些曾被視為動物專屬的認知能力。科學家正積極研究這種獨特計數系統如何運作，並希望在其他植物身上找到更多類似智慧表現。這個發現不僅讓我們對捕蠅草刮目相看，更為探索植物生命深層奧秘，開啟了全新的研究大門。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Green Surprise! Your Houseplant Can Count?",
+    "enContent": {
+      "basic": "Scientists found a common houseplant, the Venus flytrap, can 'count'. This plant closes its trap only after being touched twice, saving energy. If an insect keeps touching it, the plant counts up to five touches, then starts to digest. This discovery shows plants are smarter than we thought.",
+      "intermediate": "Recent research reveals a surprising ability in the common Venus flytrap: it can 'count'. Experts found this houseplant responds to multiple touches on its sensitive hairs. It closes its trap only after two touches within a short time. If a captured insect struggles and touches the hairs about five times, the plant starts releasing digestive fluids. This sophisticated mechanism allows the plant to efficiently catch real prey and conserve energy, challenging our understanding of plant intelligence.",
+      "advanced": "A recent study published in BBC Science Focus Magazine highlights the 'surprisingly sophisticated' counting ability of the Venus flytrap, a common houseplant. Researchers discovered that this carnivorous plant possesses a unique sensory mechanism: it registers touches on its trigger hairs and closes its trap only after a second touch within approximately twenty seconds. Furthermore, post-capture, continued stimulation from a struggling insect, totaling around five touches, prompts the release of digestive enzymes. This energy-efficient strategy demonstrates a previously underestimated level of cognitive-like behavior in plants, prompting scientists to further investigate the underlying mechanisms and potential for similar intelligence in other plant species."
+    },
+    "vocabulary": [
+      {
+        "word": "sophisticated",
+        "zh": "精密/複雜的：指事物或系統運作起來不是簡單隨便的，而是設計得很巧妙、很有深度，需要一定的智慧才能理解或操作。"
+      },
+      {
+        "word": "houseplant",
+        "zh": "室內植物/盆栽：指的是那些我們常放在家裡、辦公室或其他室內空間照顧的植物，通常是為了觀賞或改善環境。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-09-29",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOWjhLSjhTQ3UyNGM0RVlxZ1pYUmxPM3c5MzdodG9LNmNEN2Z2Sk1sUjA3aHBWU1UxekZPZ0lyVy1ESUpBOVM5ckVGM282bWlkZTJuNWl3d3ZxeU1jdkt6UDVzNjRQelRXYTlMZGxCQ2RfZWs?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國政府放寬環保汽車規定：油耗與排放標準變動大",
+    "zhSummary": "川普政府時期曾宣布一項重大政策調整，決定大幅放寬原先為減少氣候排放而設立的「清淨汽車法規」，這項改變讓汽車製造商在燃油效率和廢氣排放上，有了不同的要求。",
+    "zhContent": "<p>大家有沒有想過，我們每天搭的車子，除了帶我們到想去的地方，也會排放一些你看不到的東西到空氣中呢？在美國，曾經有一套規定叫做「清淨汽車法規」，它的主要目標就是希望汽車能更省油、排出更少的廢氣，為的就是保護地球環境，減少氣候變遷的問題。不過，美國政府在川普總統任內，做了一個大決定，要調整這套原本嚴格的規定，讓它變得比較寬鬆。</p><p>這些「清淨汽車法規」其實主要是針對汽車的「燃油效率」和「排放標準」。簡單來說，就是要求汽車製造商生產更省油、排出更少溫室氣體的車款。這些規定最主要的目標，是為了減少汽車排出的二氧化碳等溫室氣體，希望能夠減緩全球暖化的速度，讓我們的空氣更乾淨，環境更健康。</p><p>然而，川普政府認為，這些嚴格的環保規定對汽車產業來說是個沉重的負擔。他們覺得，過於嚴格的標準會增加汽車的製造成本，讓消費者買車的價格更高，進而可能影響汽車的銷售量和整個產業的發展。因此，政府決定要大幅放寬這些標準，讓汽車製造商在生產新車時，可以有更大的彈性，不再需要像過去那樣追求極高的環保要求。</p><p>這個政策的調整，意味著未來汽車製造商在生產新車時，將不需要達到像過去那麼高的環保要求。原先的規定是希望每年提高車子的燃油效率，但新的政策則放慢了這個進度，甚至可能讓有些舊的標準持續更久。這項改變也引發了各界對於環境保護與經濟發展之間，究竟該如何平衡的討論。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Trump Administration Eases Clean Car Rules to Cut Climate Emissions",
+    "enContent": {
+      "basic": "The Trump administration decided to change rules for cars. These rules were made to make cars cleaner and reduce air pollution. But the government wanted to make the rules less strict. This means car companies might not need to make cars as fuel-efficient as before. This change was about balancing the environment and the economy.",
+      "intermediate": "During the Trump administration, a significant policy shift occurred regarding clean car rules. These regulations, initially designed to improve vehicle fuel efficiency and reduce greenhouse gas emissions, were targeted for relaxation. The administration argued that the strict standards placed an undue burden on the auto industry, potentially increasing production costs and vehicle prices for consumers, thus hindering economic growth. This move aimed to give car manufacturers more flexibility in meeting environmental targets.",
+      "advanced": "The Trump administration announced a substantial rollback of clean car regulations, which were originally established to curb climate emissions by enhancing vehicle fuel efficiency and reducing greenhouse gas outputs. This policy alteration stemmed from the administration's contention that stringent environmental mandates imposed excessive costs on the automotive sector. The argument posited that such regulations inflated manufacturing expenses, potentially leading to higher consumer prices and stifled industry expansion. Consequently, the revised policy aimed to provide car manufacturers greater operational latitude, allowing them to adhere to less demanding environmental benchmarks than previously mandated."
+    },
+    "vocabulary": [
+      {
+        "word": "emissions",
+        "zh": "排放物：指汽車排出的廢氣或工廠排出的煙霧等，這些物質會進入空氣中，有時候會造成環境污染或影響氣候。"
+      },
+      {
+        "word": "regulations",
+        "zh": "法規/規定：政府或特定機構為了管理某件事情而制定的一套規則，所有相關的人或單位都必須遵守。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-09-29",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2NWTEJlbTBsN0NBLTBsMWhYT19sY3BhUGU5emhUUEUtclFoSV9zX0dtcmZXS1Vib2ZYUDVfcGRTbDZnSjBralpGM1FjNjdObS0wVC1jZ21LWUJtZ0pOZVRBRTh5dTRldHJLTWlmMkduUm82ZXpIY1g5S2JWMEV3NFZYYTNSLXpSbW1hQU5QYURzYUFBb0VN?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非蘭特價值拉警報！美國伊朗關係緊張導致油價飆漲",
+    "zhSummary": "美國和伊朗之間持續的緊張關係，讓國際原油價格不斷上漲。由於南非是主要的石油進口國，這導致他們的貨幣「蘭特」價值大幅下滑。",
+    "zhContent": "<p>南非的貨幣「蘭特」最近有點不開心，它的價值正在悄悄地往下滑。而造成這個狀況的原因，可能要從遙遠的美國和伊朗說起。這兩個國家之間一直處於一種緊張又僵持的關係，有點像兩個人互相不讓步，讓整個國際情勢也跟著變得比較不安穩。這種不安感，竟然一路影響到了國際油價，讓石油的價格開始往上漲。</p><p>當美國和伊朗的關係一直沒有進展，大家就會開始擔心，中東地區的石油供應是不是會出現問題。畢竟，中東是全球重要的石油產地之一。這種對「油會不會不夠用」的擔心，自然就推高了國際市場上的石油價格。對南非來說，他們是個很需要進口石油的國家，自己不太生產。所以當國際油價漲高時，南非就要花更多的錢去買石油，這就讓他們的國家經濟多了一筆沉重的負擔。</p><p>而這筆額外的開銷，最終就反映在南非貨幣蘭特的價值上。當一個國家需要花更多外幣去購買必需品時，它自己的貨幣相對就會變得比較弱勢。美國和伊朗之間的爭執，主要圍繞在像是核協議、經濟制裁，以及兩國在中東地區的影響力等等議題。這些議題的複雜性，讓兩國關係一直處於一種沒有明確答案的僵局，也因此造成了全球市場上的不確定性。</p><p>簡單來說，就是美國和伊朗的關係越是緊張、越是沒有共識，國際油價就越有可能上漲。而油價一漲，對於像南非這樣高度依賴進口石油的國家來說，影響就會非常直接，導致他們的貨幣價值下跌。目前，南非蘭特的價值已經因為這波國際油價上漲，出現了明顯的下滑。這就是新聞報導中，我們看到南非蘭特表現疲軟的主要原因。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南非的貨幣價值下跌，最主要的兩個原因是哪些？",
+      "生活與未來：你覺得國際油價的變動，除了影響國家貨幣，還會對一般民眾的生活造成什麼樣的實際影響？",
+      "獨立思考提案：如果有一個國家像南非一樣高度依賴石油進口，當國際油價不斷上漲時，你認為這個國家可以怎麼做來減少衝擊？"
+    ],
+    "enTitle": "South African Rand Under Pressure as US-Iran Tensions Fuel Oil Price Hike",
+    "enContent": {
+      "basic": "The currency of South Africa, called the rand, is losing value. This is happening because oil prices are going up. Oil prices are rising because the United States and Iran are having a disagreement. They are in a situation where neither side is making progress, which makes people worried about oil supplies. Since South Africa buys a lot of oil from other countries, higher oil prices mean they have to spend more money, making their own currency weaker.",
+      "intermediate": "The South African rand has seen its value decline recently. This depreciation is closely linked to a rise in global oil prices. The increase in oil prices is a direct result of ongoing tensions and a 'stalemate' between the United States and Iran. This geopolitical standoff creates uncertainty in the Middle East, a key oil-producing region, leading to concerns about oil supply stability. As a significant oil importer, South Africa is particularly vulnerable to these price hikes, as it must spend more of its foreign currency to purchase essential oil, thereby weakening the rand.",
+      "advanced": "The South African rand is experiencing significant depreciation, a phenomenon largely attributed to the escalating global oil prices. This surge in oil costs stems from a prolonged diplomatic and political stalemate between the United States and Iran. The unresolved tensions, often centered on issues like nuclear ambitions and regional influence, sow instability in the Middle East, a critical region for global petroleum supply. This geopolitical uncertainty translates into speculative pressure on oil markets, driving prices upwards. For South Africa, a nation heavily reliant on oil imports, the increased cost of crude oil translates into a higher demand for foreign exchange, exerting downward pressure on the domestic currency, the rand, as its purchasing power in international markets diminishes."
+    },
+    "vocabulary": [
+      {
+        "word": "stalemate",
+        "zh": "僵局 (jiāngjú) - 就像下棋時雙方都無法移動，誰也贏不了，也無法打破的局面，形容兩邊都卡住動彈不得。"
+      },
+      {
+        "word": "rand",
+        "zh": "蘭特 (lántè) - 南非共和國的法定貨幣單位，就像台灣用新台幣，美國用美元一樣，是南非人使用的錢。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-09-29",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXVjeHhnVS1HLV9mVnYtVHVhQ3NjcEFqREZJYUpRU3RhSElhQlJ4NERfQWhjdm44RGNQMFdBZlNfcU5PN1JuOU1DWW04RjFBSDZETlE5Z0h2VUkyRFJVTHdiTzBfM0lGVUw0akY5a01yM0J6WElBbERxREpBQkk3OGFjTDkyVElrUTRTckpFRHZ3aURTVkduYS0zdnMtZkVUenZrSk1kdEVoRnNpbkVlanlmdnQ0a2s?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "英國柴油價飆高！為什麼你的錢包要小心了？",
+    "zhSummary": "英國的柴油價格最近創下歷史新高，比汽油還貴，讓許多駕駛人和運輸公司都大感吃不消。這波漲價潮背後的原因複雜，主要與全球原油供應緊張、煉油廠產能不足以及英鎊匯率走弱有關，間接影響了英國民眾的生活成本。",
+    "zhContent": "<p>嘿，同學們！最近英國有個新聞很受關注，那就是他們的柴油價格飆到歷史新高了！你可能會想，這跟我們有什麼關係？其實啊，柴油是很多交通工具，像是公車、貨車、甚至是某些船隻的「糧食」，價格一漲，不只開柴油車的人叫苦連天，連帶也會影響到我們日常生活的方方面面喔。</p><p>到底有多高呢？據報導，英國的柴油價格平均每公升已經超過199便士，差不多就是兩英鎊了，這比汽油還要貴。而且，柴油價格上漲的速度，比汽油還快！這讓許多英國的家庭和運輸公司都感到壓力山大。你想想看，一輛載滿貨物的卡車，每次加油的費用都增加好幾百塊，這不是一筆小數目。</p><p>那麼，是什麼原因讓柴油價格像坐雲霄飛車一樣衝上去呢？原因其實挺複雜的。首先是全球原油供應的問題，像是俄羅斯是重要的石油生產國，一些國際事件就可能讓供應鏈變得緊張。再來，全球的煉油廠產能也有些不足，也就是說，把原油提煉成柴油的工廠不夠力，供應量跟不上市場的需求。最後，英鎊對美元的匯率走弱，也讓英國進口原油和柴油的成本變高了，因為國際原油大多是用美元計價的。</p><p>在多重因素的影響下，英國的柴油價格至今仍然維持在高點。這使得英國民眾的生活成本持續增加，從搭公車的費用到超市商品的價格，都可能因為運輸成本增加而變得更貴。目前看來，短期內要看到柴油價格大幅回落，似乎還有點困難。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞提到了柴油價格飆升的幾個原因，你能說說看有哪些嗎？",
+      "生活與未來：你覺得柴油價格持續在高點，會對英國民眾的日常生活帶來哪些實際的影響？",
+      "獨立思考提案：如果類似的情況發生在我們身邊，你認為我們該如何理解和應對這種物價上漲的現象？"
+    ],
+    "enTitle": "Why UK Diesel Prices Have Reached an All-Time High",
+    "enContent": {
+      "basic": "UK diesel prices have hit a new record high, costing drivers more at the pump. This is happening because of global oil supply issues, a lack of refinery capacity, and the weakening of the British pound. These factors make it more expensive to buy and produce diesel, affecting transport costs and daily life for people in the UK.",
+      "intermediate": "Diesel prices in the UK have soared to unprecedented levels, surpassing gasoline prices and putting significant strain on consumers and businesses. This surge is primarily attributed to a confluence of global factors, including geopolitical events impacting crude oil supply, a bottleneck in global refinery production, and a weaker Sterling against the US dollar, which inflates import costs for fuel. The elevated prices are translating into higher operating expenses for the logistics and transportation sectors, subsequently influencing the cost of goods and services.",
+      "advanced": "The United Kingdom is currently experiencing an all-time high in diesel prices, a phenomenon driven by a complex interplay of international market dynamics and domestic economic conditions. Key contributing factors include the tightening of global crude oil supplies, exacerbated by geopolitical instabilities, and a persistent deficit in worldwide refining capacity, particularly for middle distillates like diesel. Furthermore, the depreciation of the British pound relative to the US dollar has amplified the cost of dollar-denominated crude oil imports, directly impacting pump prices. This inflationary pressure is imposing considerable financial burdens on UK households and critically, on the commercial transportation sector, leading to upward revisions in operational costs that are ultimately passed on to consumers through higher prices for goods and services."
+    },
+    "vocabulary": [
+      {
+        "word": "Refinery",
+        "zh": "煉油廠 (liàn yóu chǎng) - 一種工廠，專門負責將從地底下或海洋中取出的原油，經過複雜的化學處理，提煉成像是汽油、柴油、煤油等各種我們日常生活中會用到的燃料和化學原料。"
+      },
+      {
+        "word": "Inflation",
+        "zh": "通貨膨脹 (tōng huò péng zhàng) - 指的是一段時間內，商品和服務的價格普遍持續上漲，導致我們的錢購買力下降，簡單來說，就是同樣的錢能買到的東西變少了，錢越來越不值錢了。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-09-29",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非週末驚傳多起槍擊案，數十人無辜喪生",
+    "zhSummary": "南非在一個週末內接連發生兩起大規模槍擊事件，導致至少數十人死亡，震驚全國，警方已展開深入調查。",
+    "zhContent": "<p>南非這個國家最近很不平靜。在一個週末裡，他們竟然連續發生了兩起大規模的槍擊事件。這些令人難過的意外，一共造成了數十人喪生，讓整個南非社會都感到非常震驚和悲傷。許多家庭失去了他們的親人，這兩起事件也立刻引發了當地警方的高度關注，他們正全力追查事件的真相，希望能找出兇手並釐清事情的來龍去脈。</p><p>第一起槍擊事件發生在豪登省的一個熱鬧酒吧裡。據報導，當時有幾名不明身分槍手突然闖入，對著現場的人群無差別開槍，之後就快速逃逸了。這次襲擊導致至少15人當場死亡，還有多人受傷，場面十分混亂。就在同一晚，另一起類似的慘案則發生在東開普省的一個酒館，那邊也有多名槍手對著民眾開火，造成至少4人死亡，多位傷者被緊急送往醫院治療。</p><p>對於這兩起突如其來的暴力事件，南非警方很快就展開了大規模的調查行動。他們派出專業的鑑識小組到現場採集證據，也呼籲民眾提供任何有助於破案的線索。警方初步判斷，這兩起案件的犯案手法類似，但目前還不確定它們之間是否有直接關聯，或者是否為同一批人所為。當地官員也對此表示嚴厲譴責，強調會盡一切努力將兇手繩之以法。</p><p>南非的總統在事發後也公開表示哀悼，並呼籲全國人民團結一致，共同打擊犯罪。警方目前已經鎖定了一些嫌疑人，並加強了各地區的安全巡邏，希望能防止類似事件再度發生。雖然調查仍在進行中，官方尚未公布最終的結果，但這些事件已經讓南非的社會治安問題再次浮上檯面，引起了廣泛的討論與擔憂。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，兩起槍擊事件分別發生在哪裡？造成了多少人死亡？",
+      "生活與未來：你覺得這些槍擊事件的發生，會對當地居民的生活帶來什麼實際影響？",
+      "獨立思考提案：針對這類大規模暴力事件，除了警方調查，你覺得社會還可以從哪些方面努力，來減少悲劇發生？"
+    ],
+    "enTitle": "South Africa Rocked by Weekend Mass Shootings, Dozens Dead",
+    "enContent": {
+      "basic": "South Africa recently saw two big shooting events on one weekend. Many people died, making the country very sad. Police are now looking for the people who did this.",
+      "intermediate": "In South Africa, a difficult weekend unfolded as two separate mass shooting incidents left dozens dead. The first attack happened in a bar in Gauteng province, where unidentified gunmen opened fire, killing at least 15 people. Later that same night, another tragic shooting occurred at a tavern in Eastern Cape, resulting in at least 4 deaths. Police are actively investigating both cases to find the perpetrators.",
+      "advanced": "South Africa experienced a wave of shock and grief following a weekend marked by two significant mass shooting incidents, which collectively claimed the lives of dozens of individuals. The first attack, reported at a tavern in Gauteng province, involved unidentified assailants who indiscriminately opened fire, resulting in a minimum of 15 fatalities and multiple injuries. Concurrently, a second incident in the Eastern Cape saw gunmen target patrons at another establishment, leaving at least 4 dead. Authorities have launched extensive investigations into both geographically distinct yet similarly brutal occurrences, vowing to apprehend those responsible. The president has expressed condolences and called for national unity in combating crime."
+    },
+    "vocabulary": [
+      {
+        "word": "shooting",
+        "zh": "槍擊事件。指用槍枝攻擊人或物的事件。在新聞中，當一群人用槍對許多人開火，導致嚴重後果，就會被稱為槍擊事件。"
+      },
+      {
+        "word": "dozens",
+        "zh": "數十個、好幾個十。這個詞用來形容數量很多，但不是精確的數字，通常指24個到99個之間，也就是好幾十個的意思。新聞中說「數十人死亡」，就是指有二、三十人，甚至更多人過世了。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-09-29",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkZIRTEyVXV4VjJLWTlLV0dMdkV6a2tDN2dqWGk1NFgweWc2MWxKamtJWnZUVXdfVFRtWDRjQkV5UDdoMmxfbjdUd2NKaHdZZWFhVVFQdDg0Z2JXakVRNnpqdUs4T1pnVFRiSU1ETlRIMzNKUHU0THBCcUZvNEFMT0JoTUg3bnNvUFV2ZTlTNV9vcEJoTjJj0gGXAUFVX3lxTE1vOUVFcTlHX0xpNEs0bk00U21yR2x5WjV4V053ZGNvcmtFUnFEblBSMlBQSTEzZzR3RGViWUh0Z0RhV3o2c1ZKU3pzclprZ2FaaTRBTnZHUlhfOC1UTWpicFRwWVNHSmlHM2xfSERzTHFzMzlKSVlWM25SOFdwdldJM0x4OTE2NzdMOGptOF9qVVZvbHRRdlE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "葉門戰火前線：胡塞武裝與對手激戰，城市命運懸而未決",
+    "zhSummary": "中東國家葉門一座重要的前線城市，正陷入激烈的戰鬥中，主要由『胡塞武裝』與當地其他勢力相互爭奪控制權，讓居民生活面臨巨大威脅與挑戰。",
+    "zhContent": "<p>各位讀者，最近在中東國家葉門，有一座重要的前線城市正面臨著激烈的戰鬥。一個名為『青年運動』的武裝組織，也就是大家常聽到的『胡塞武裝』，正在這座城市裡，為了爭奪地盤而與其他勢力持續交戰，讓原本平靜的生活變得不再一樣。這場戰火讓當地的居民每天都生活在恐懼中，也讓國際社會持續關注葉門的嚴峻情勢。</p><p>根據來自前線的報導，這場戰鬥非常激烈。這座城市的居民生活在槍林彈雨的威脅之下，許多家庭為了尋求安全，不得不拋下家園，帶著簡單的行李逃往他處。孩子們可能無法正常上學，醫院的運作也受到影響，電力和飲水供應都變得不穩定，日常生活充滿了困難和不確定性。每一次的砲火聲，都讓當地居民的心懸著，不知道下一個受影響的會是誰。</p><p>『胡塞武裝』是葉門的一個武裝團體，他們過去幾年來一直在葉門各地與政府軍及其他聯軍作戰，試圖擴大他們的影響力，並爭取國家的控制權。這場衝突已經持續了好幾年，讓葉門成為世界上人道危機最嚴重的國家之一。很多國際組織都對當地的人道情況表示關切，希望戰火能盡快平息，讓更多援助物資可以送達有需要的人手中。</p><p>目前，在這座前線城市裡的戰鬥仍然持續著，『胡塞武裝』與對手仍在相互拉鋸。誰能最終掌握這座城市，對葉門整體局勢都會有重要的影響。當地居民只能繼續在困境中努力生活，期盼有一天能夠重回平靜，不再需要面對戰爭帶來的威脅，可以回到曾經熟悉的家園。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Inside Yemen's front-line city as Houthis battle for control - BBC",
+    "enContent": {
+      "basic": "A front-line city in Yemen is experiencing intense fighting. The Houthi group is battling for control of the city. People living there are facing dangers and many have to leave their homes. The conflict has made daily life very hard for families, affecting schools and hospitals. International groups are worried about the people in Yemen.",
+      "intermediate": "Yemen's front-line cities are seeing heavy combat as the Houthi movement continues its struggle for power. This ongoing conflict forces many residents to flee their homes, disrupting essential services like education, healthcare, and utilities. The humanitarian situation in Yemen has been critically affected for years, drawing serious concerns from global organizations about the well-being of its population.",
+      "advanced": "A key front-line city in Yemen remains a critical battleground where the Houthi movement is engaged in fierce combat for territorial control against opposing forces. This protracted conflict has devastating consequences for the civilian population, leading to widespread displacement, significant disruptions to crucial infrastructure, and a severe humanitarian crisis. International bodies consistently monitor the situation, advocating for peace and enhanced humanitarian access amidst the dire circumstances."
+    },
+    "vocabulary": [
+      {
+        "word": "front-line",
+        "zh": "前線 (在戰爭或衝突中，離敵人最近、最危險的地方，戰鬥通常在這裡發生)"
+      },
+      {
+        "word": "Houthis",
+        "zh": "胡塞武裝 (一個葉門的武裝團體，他們在葉門進行戰鬥，試圖爭奪國家的控制權)"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-09-29",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1UWpEMjdQaEpmMVdPQXBWRkFJTFFiMzFBSDZjeDFXLW5GM0xNYzNWSkFUQ2FvSnJTc2FkQnNhSHI0STc4U3dCamVJNENqUFY3eUF0SWM0LTBOSldjd3c?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓攜手中亞五國：打造新夥伴關係，提升國際影響力",
+    "zhSummary": "南韓首次舉辦「南韓-中亞峰會」，邀請中亞五國領導人，旨在深化能源、礦產與基礎建設等領域合作，提升南韓在該區域的影響力，為未來的發展建立穩固基礎。",
+    "zhContent": "<p>最近，南韓舉辦了一場備受關注的國際會議，他們邀請了中亞地區哈薩克、烏茲別克、土庫曼、塔吉克和吉爾吉斯這五個國家的領導人來訪。這場被稱為「南韓-中亞峰會」的會議，是南韓第一次舉辦如此規模的交流活動，目的很明確，就是希望和這些中亞國家建立更緊密的關係，進一步提升南韓在這個重要地區的國際影響力。</p><p>在這次為期幾天的峰會中，南韓總統尹錫悅與中亞五國的總統們進行了多次會談。他們討論的內容非常廣泛，包括了能源供應、關鍵礦產資源的開發、基礎建設的合作、先進科技的交流，以及促進文化和教育上的互動。南韓希望透過提供技術和資金，幫助中亞國家發展經濟，同時也能為南韓確保穩定的能源和礦產資源供應，達到雙贏的局面。</p><p>為什麼南韓會這麼積極地與中亞國家互動呢？主要原因在中亞地區不僅擁有豐富的石油、天然氣等能源，還有許多稀有的礦產資源，而且它的地理位置也十分關鍵。對於南韓來說，加強與中亞的連結，能夠讓它在全球的供應鏈中更加多元化，減少對單一地區的依賴，同時也能讓南韓在全球舞台上扮演更重要的角色，展示其國際合作的能力。</p><p>峰會結束後，各國領導人共同發表了一份聲明，承諾將會持續深化彼此的合作關係，並同意定期舉行高層對話。雖然這次會議並沒有立即簽署大量的長期協議，但它成功為南韓與中亞國家未來的交流與合作奠定了穩固的基礎。雙方將會繼續在能源安全、關鍵礦物供應鏈等重要領域推動實質性合作，為地區的穩定與繁榮共同努力。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞提到了南韓與中亞五國討論了哪些合作項目？你覺得南韓為什麼對這些項目感興趣？",
+      "生活與未來：你覺得南韓與中亞國家建立更緊密的關係，對我們日常生活中的哪些產品或資源可能會產生影響？",
+      "獨立思考提案：如果南韓想讓這份新關係更穩固，你覺得除了經濟合作，他們還可以從哪些方面著手？"
+    ],
+    "enTitle": "South Korea Extends Hand to Central Asia for Greater Regional Clout",
+    "enContent": {
+      "basic": "South Korea recently hosted a special meeting with leaders from five Central Asian countries. This meeting, called the \"Korea-Central Asia Summit,\" was the first of its kind. South Korea wants to become better friends with these countries to help grow its power and influence in that part of the world. They talked about working together on many things like energy and building new things.",
+      "intermediate": "South Korea's president, Yoon Suk Yeol, met with the presidents of Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, and Kyrgyzstan. They discussed various cooperation areas, including energy, mineral resources, infrastructure development, technology, and cultural exchange. South Korea aims to secure important resources while helping Central Asian nations develop their economies. This initiative is driven by Central Asia's rich oil, gas, and rare metal deposits, and its strategic location.",
+      "advanced": "The inaugural Korea-Central Asia Summit saw South Korea hosting the leaders of five Central Asian nations – Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, and Kyrgyzstan – as Seoul seeks to significantly bolster its regional influence and secure crucial resources. President Yoon Suk Yeol engaged in bilateral and multilateral discussions, focusing on strategic partnerships in energy, critical minerals supply chains, infrastructure, technology, and cultural exchange. This move underscores South Korea's ambition to diversify its economic dependencies and leverage Central Asia's vast natural resources and geopolitical importance, culminating in a joint statement committing to sustained cooperation and regular dialogues."
+    },
+    "vocabulary": [
+      {
+        "word": "Clout",
+        "zh": "「clout」的中文意思是「影響力」或「勢力」。你可以想像，如果你在學校有很多朋友，大家都會聽你的意見，那你就有「clout」！這則新聞裡，南韓希望透過跟中亞國家合作，增加自己在亞洲地區的「clout」，也就是讓自己的話語權和重要性更高。"
+      },
+      {
+        "word": "Summit",
+        "zh": "「summit」的中文意思是「峰會」或「高峰會議」。這不是指山頂喔！它通常是指國家領導人或重要人物聚在一起，開會討論重大事情的場合。就像這次南韓請了中亞五個國家的總統來開會，這種大型、高層次的會議就叫做「峰會」。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-09-29",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0pvMVNYLXAwQzlmcTk3WmwwQ1RWQ1NNQmowR092Nlhab0ppcVJiaWJGVHNaeTJwX3g3UzNzejNOSW5PTjRXU3VkNjhXOVQzaHJ2T1FzQ090Y0Npa1ZFNVFQZ2hhcHl0WGE1d1ozUTM5aFZOUGtCZnJjU19ud0lrcUpMOFdWYUVfcEFGaG1nUm96aTVzTFEtRHJuQ1g4dUNwQmVBU1lEQjJCSlpiMGZyYmpNWFYzd9IBuwFBVV95cUxObUtaNTNVQl9GYUdZdDJaV0hNZ2ZDdFRndkFnRkp5QWw0RzZHTUFmWVhManI2MTQ5eWlRY05KX3ZiclVKOGltUnNoVzVtcDA0TnNBVnhaNUNGUi1rX2dYTU5XY1YtU1hBWlVrc0hjSVdGN0pJZ1FMV25qMlZpWmlHaEI0dHZjM1B6MGJqeTNHcmdyellObzdtMFFoOVBEOVNmbE9Ga293NTVSZFBBQnpSWlR1R3R2bHhKV3VF?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "臉書母公司Meta有大動作！找澳洲夥伴，讓東南亞的AI變更聰明！",
+    "zhSummary": "社交媒體巨頭Meta為了提升其在東南亞的人工智慧（AI）運算能力，宣布與澳洲公司Firmus合作。這項合作將協助Meta在該區域建立更強大的AI基礎設施，以應對日益增長的數位服務需求。",
+    "zhContent": "<p>嘿，同學們！你們知道Facebook、Instagram和WhatsApp都是同一家公司旗下的嗎？這家公司的名字叫做Meta。最近他們有個新計畫，跟我們日常生活使用的AI（人工智慧）有關。簡單來說，Meta打算在東南亞地區，找一家澳洲的科技公司Firmus合作，目標是讓他們家的人工智慧變得更厲害，跑得更快！</p><p>你可能會問，這是什麼意思呢？原來啊，現在很多我們使用的APP和服務，背後都有AI在幫忙，像是推薦你可能會喜歡的影片、幫你修圖，或是讓虛擬實境的體驗更真實。這些AI要做好工作，就像我們的大腦需要好好休息和營養一樣，它們需要非常非常多的「計算能力」。所以，Meta找來專門提供這種高效能運算服務的Firmus公司，幫他們在東南亞蓋更多的「超級電腦機房」，好讓AI有足夠的「算力」來運作。</p><p>那為什麼是選在東南亞呢？其實，東南亞的國家，像是泰國、印尼、越南等，網路使用者越來越多，對各種數位服務的需求也越來越高。Meta在當地投資，除了能讓服務更順暢，也能更快把最新的AI技術帶給當地用戶。而Firmus公司，就是這方面的專家，他們能有效率地幫助大公司搞定這些需要超強計算能力的大型專案，就像是租借超強的大腦給Meta用一樣。</p><p>總之，透過這次合作，Meta在東南亞地區發展人工智慧所需的計算能力將會獲得加強。Firmus公司將會提供相關的服務和設備，確保Meta能有足夠的「算力」來推動他們在該區域的AI計畫。這項舉動顯示，像Meta這樣的科技大公司，正積極在不同地方尋找合作夥伴，來建設和擴展他們的人工智慧基礎設施，讓AI在東南亞「跑」得更快。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Meta選擇與Firmus合作的主要目的是什麼？為什麼選在東南亞地區進行這項合作？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對東南亞的用戶、Meta公司本身，或是AI技術的發展？",
+      "獨立思考提案：如果Meta想在東南亞擴展AI服務，除了增加計算能力，你覺得他們還可以做些什麼來更好地服務當地使用者？"
+    ],
+    "enTitle": "Meta Partners with Firmus to Boost AI Computing in Southeast Asia",
+    "enContent": {
+      "basic": "Meta, the company behind Facebook and Instagram, is working with an Australian company called Firmus. Their goal is to make artificial intelligence (AI) work better in Southeast Asia. Firmus will help Meta set up and manage powerful computers that AI needs to run smoothly in countries like Indonesia and Thailand. This means Meta can offer smarter and faster AI services to its many users in that region, improving apps like recommended videos or photo editing.",
+      "intermediate": "Meta Platforms, the parent company of popular social media platforms like Facebook, Instagram, and WhatsApp, has announced a new partnership with Firmus, an Australian firm. This collaboration aims to significantly enhance Meta's artificial intelligence (AI) computing capacity across the Southeast Asian region. By leveraging Firmus's expertise in high-performance computing infrastructure, Meta seeks to provide the necessary 'processing power' for its advanced AI applications. This strategic move is intended to improve Meta's digital services for its growing user base in Southeast Asia, ensuring faster and more sophisticated AI-powered experiences.",
+      "advanced": "Meta Platforms has strategically engaged with Firmus, an Australian specialist in high-performance computing infrastructure, to fortify its artificial intelligence (AI) computing capabilities within the burgeoning Southeast Asian market. This initiative is pivotal for Meta as it continues to expand its AI-driven services, including enhancements to its social media platforms and advancements in metaverse technologies, which demand substantial and scalable computational resources. The partnership with Firmus will facilitate the efficient deployment and management of critical AI infrastructure, enabling Meta to deliver more responsive and sophisticated AI solutions to its rapidly expanding user demographic across key Southeast Asian nations, thereby reinforcing its competitive standing and innovation footprint in a digitally dynamic region."
+    },
+    "vocabulary": [
+      {
+        "word": "capacity",
+        "zh": "中文意思：容量、能力。解釋：想像一個水桶能裝多少水，那就是它的「容量」。在這裡，它指的是電腦系統處理資料或做計算的能力。"
+      },
+      {
+        "word": "artificial intelligence",
+        "zh": "中文意思：人工智慧。解釋：簡單來說，就是讓電腦像人一樣學習、思考、解決問題的一種技術，簡稱AI。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-09-29",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkVOa1NyT2NnYmlqTTVqOUk2LTRjaFlkMnFJMnNXUW9uRTJmeUVRUmJza0lfYndtZkV0Nl9fZUN3MkdiUDRTUUpyU2ZkTnlSMzNuUmFrWFZVbm1rYXQ3ZC1hV09zUnFtY2RiN3M1TUlYUXZwTERDT2JQVEVYbkcyckp2ZFJrUUp5VnZSSnhaT1VLTWt4T2ZYSjRhM09GV0xUd2hNc2ZQUG83SC1zWXk3WE5tUVU2aVJEMWxz?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "羅托魯瓦的橄欖球迷們注意！大洋洲七人制橄欖球盃面臨經費難題，恐無法如期舉行",
+    "zhSummary": "原本要在紐西蘭羅托魯瓦舉辦的大洋洲七人制橄欖球盃，現在因為主辦方大洋洲橄欖球協會表示經費不足，可能無法在這個城市舉行，讓許多球迷感到失望。",
+    "zhContent": "<p>羅托魯瓦的橄欖球迷們，有個讓人沮喪的消息！原本預計在這座紐西蘭城市舉行的「大洋洲七人制橄欖球盃」可能要換地方，甚至面臨取消的危機了。負責這個比賽的大洋洲橄欖球協會（Oceania Rugby）最近宣布，他們沒有足夠的經費，無法在羅托魯瓦主辦這場重要的賽事。</p><p>這項運動盛事對太平洋地區的橄欖球發展非常重要，也是許多國家選手展現實力的舞台。大洋洲橄欖球協會表示，他們確實很希望能在羅托魯瓦舉辦比賽，因為當地對橄欖球的熱情很高，比賽氛圍也很好，但面對現實的財務壓力，他們不得不做出這個艱難的決定。</p><p>根據他們的說法，主辦一場像「大洋洲七人制橄欖球盃」這樣的大型國際賽事，需要投入大量的資金，包括場地租借、選手住宿、交通安排、安全維護等等。目前，大洋洲橄欖球協會無法籌措到足夠的資金來支應這些龐大的開銷，因此羅托魯瓦的主辦權才會亮起紅燈。</p><p>這項決定讓不少期待已久的球迷和選手感到非常可惜。目前，大洋洲橄欖球協會正在積極尋找其他可能的解決方案，例如評估在其他城市舉辦的可行性，或是設法籌集到所需的經費。不過，在現階段，羅托魯瓦恐怕無法看到這場精采的橄欖球比賽了。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，大洋洲橄欖球協會遇到什麼困難？他們為何無法在羅托魯瓦舉辦比賽？",
+      "生活與未來：你覺得這個改變會對相關的人，例如選手、球迷、羅托魯瓦當地居民或相關產業，造成什麼實際影響？",
+      "獨立思考提案：針對經費不足的問題，你覺得大洋洲橄欖球協會還可以怎麼做會更好？"
+    ],
+    "enTitle": "Oceania Sevens Cup in Rotorua Faces Financial Trouble, Hosting Uncertain",
+    "enContent": {
+      "basic": "The Oceania Rugby organization has announced that it doesn't have enough money to host the Oceania Sevens Cup in Rotorua, New Zealand. This means the big rugby tournament might not happen there, which is sad news for fans and players. Hosting such a big event needs a lot of money for things like renting fields and taking care of athletes. Oceania Rugby is now looking for other solutions or places to hold the games.",
+      "intermediate": "The Oceania Sevens Cup, a significant rugby tournament for the Pacific region, is facing uncertainty regarding its scheduled hosting in Rotorua, New Zealand. Oceania Rugby, the organizing body, has publicly stated that it lacks the necessary financial resources to adequately stage the event. This decision, though difficult, stems from the substantial costs associated with international competitions, including venue hire, accommodation, transport, and security. Fans and athletes are disappointed, and the organization is currently exploring alternative hosting options or funding avenues to ensure the tournament can proceed, albeit likely not in Rotorua.",
+      "advanced": "The prospective hosting of the Oceania Sevens Cup in Rotorua, New Zealand, has been jeopardized following an announcement by Oceania Rugby regarding a critical deficit in funding. The organizing body has expressed its inability to secure the requisite financial capital to underwrite the extensive operational expenses inherent in staging a multi-national sporting event of this calibre. This includes, but is not limited to, infrastructure leasing, logistical support for participating teams, athlete welfare provisions, and security protocols. The decision has undoubtedly led to considerable disappointment among the rugby community, compelling Oceania Rugby to evaluate alternative hosting locations or innovative fundraising strategies to salvage the tournament's future."
+    },
+    "vocabulary": [
+      {
+        "word": "Host",
+        "zh": "主辦、承辦。就像學校舉辦運動會，學校就是主辦單位，負責安排所有活動和細節。"
+      },
+      {
+        "word": "Budget",
+        "zh": "預算。指為了某個目的，事先規劃好可以花多少錢，不能超過的範圍。例如，你每個月的零用錢就是你的「預算」，你要在這個範圍內好好分配怎麼用。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-09-29",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaXFqLWFOdld1VlFZbzdCQTN5SXgtWU9RQ0o2bmlrbkNWMUtTLV96ZGt4RGtWSEg3amwzMzB1SjNLQTdZVHNnWV9tS3dNOVQ3eXUtU0hVQWNOdnE4a2ZxaGV4bmU4U3FxS1lzc3hyVmhfVVpkeXluM3l0MVZDSUx3VGlITHI2VXc3am03dG44NHUzbHgzcThfWVNqaHJEYVJXQVBCS1JYSVVzY052?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "川普、習近平聊什麼？重要大事要發生了！",
     "zhSummary": "美國總統川普與中國國家主席習近平舉行了一場會晤，川普會後表示這次見面非常成功且有成效，預告未來將有「重大事情」發生。",
     "zhContent": "<p>美國總統川普最近與中國國家主席習近平見了面，這場在國際間備受矚目的會晤，會後川普本人對媒體透露了結果。他用「富有成效」來形容這次的對談，意思是雙方談得很不錯，達成了許多正面的共識。這樣的說法讓外界對兩國未來的關係充滿好奇，也顯示了這兩位世界級領導人之間的交流相當重要。</p><p>根據川普的說法，他與習近平的會談不僅僅是單純的見面聊天，更是一次有深度、有成果的交流。他明確地告訴記者，這次會晤非常成功，而且過程進行得十分順利。他甚至語帶玄機地預告，因為這次成功的會面，接下來「重大事情」將會發生。儘管他沒有立刻說明具體是什麼樣的「重大事情」，但這番話無疑讓全球都開始關注美中兩國關係的下一步發展。</p><p>這次的領導人會晤，通常會在經濟、貿易、甚至全球安全等議題上進行討論。雖然新聞標題沒有提供太多細節，但從川普的積極表態來看，雙方在某些重要的議題上應該都進行了深入的交流。領導人之間的對話，往往能為複雜的國際關係找到新的方向或解決方案。所以，當川普說「富有成效」時，其實代表著雙方可能都對這次的結果感到滿意，並且期待後續的合作。</p><p>總體而言，美國總統川普與中國國家主席習近平的這次會談，以川普口中「富有成效」的結論劃下了句點。他所預告的「重大事情」，暗示著美中關係將進入一個新的階段，未來可能會出現一些值得關注的變化或宣布。但截至目前為止，這些「重大事情」的具體內容還沒有被公開，一切都還在等待後續的發展與揭曉。</p>",
@@ -9027,111 +9482,6 @@
     "date": "2026-08-31",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY05pMGhobmVybk16WTdaSThIZ0tnbldzcU81ZnoxMERmNDc3TVZHREZxT0NjRUhxSTZQaG9USEtUbU9Qd1dwM3NJVGlObEZ2UXpFSlJnRzh6TTBadldYaWk1aGN6QjB2OEFGeF94dUxPLWpoQmRHUHdDSGsxWDBpeTVVOVd6S0F5VjJyNUswU3ZiRG9pekVlR1pfcTI2dlFYNFFTcmYxQmZodw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "光州藝術展風波：台灣展館被迫改名事件",
-    "zhSummary": "在韓國舉辦的國際藝術盛事「光州雙年展」上，台灣原定的展館名稱突然被要求更改，引發外界對國際場合中台灣代表權的關注。這起事件顯示台灣在參與國際活動時，仍常面臨名稱上的挑戰。",
-    "zhContent": "<p>最近在韓國舉辦的一個超大型藝術展覽「光州雙年展」，本來應該是個讓各國藝術家展現才華、交流創意的好機會。台灣這次也受邀參與，並且規劃了一個很棒的展覽空間，叫做「台灣館」。但就在展覽開幕前，卻突然發生了一件讓大家都很驚訝的事情：主辦單位竟然要求台灣把「台灣館」這個名字改掉。</p><p>這起事件的起因是，中國方面對於台灣以「台灣館」名義參與國際活動表達了意見。在許多國際場合，因為「一個中國原則」的關係，台灣的正式名稱常常會被要求使用「中華台北」或其他替代名稱。這次光州雙年展的主辦方可能因此承受了壓力，於是直接向台灣的代表單位提出，希望把「台灣館」改為像是「台灣地方特展」或是其他比較模糊的名稱。</p><p>面對這樣的狀況，台灣的文化部門和駐韓代表處都覺得很無奈，因為「台灣館」這個名稱既直接又清楚，最能代表台灣的身份。他們試圖溝通和爭取，希望能保留原名，畢竟藝術交流應該是開放且多元的。然而，在國際政治現實的考量下，最終台灣方面不得不妥協，接受了名稱上的修改。</p><p>所以，最後大家在光州雙年展上看到的台灣展館，就不是原來的「台灣館」了。這次事件讓很多人再次注意到，即使是在藝術這樣看似超越政治的國際舞台上，台灣的身份和名稱依然是個敏感話題，也顯示了台灣在國際參與時，常常會遇到類似的挑戰。展覽最終以妥協後的名稱順利進行，但這段改名插曲也讓這屆雙年展多了一個被討論的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，台灣展館被要求更改名稱的原因是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Gwangju Biennale Controversy: Taiwan Pavilion Forced to Rename",
-    "enContent": {
-      "basic": "Taiwan's art display at the Gwangju Biennale in South Korea faced a big problem. Originally, it was called the \"Taiwan Pavilion.\" But before the show, the organizers asked Taiwan to change its name. This happened because of political reasons, often related to China's \"One China\" rule. Taiwan's team tried to keep the original name, but in the end, they had to agree to use a different, more general name. This event showed that even in art shows, Taiwan's name can be a sensitive issue.",
-      "intermediate": "An international art exhibition in Gwangju, South Korea, known as the Gwangju Biennale, recently sparked controversy involving Taiwan. Taiwan had planned to showcase its art in a section clearly named the \"Taiwan Pavilion.\" However, prior to the exhibition's opening, the organizers reportedly requested Taiwan to alter its designated name. This demand likely stemmed from political pressure, particularly concerning the \"One China\" principle, which often dictates how Taiwan is referenced in global forums. Despite Taiwan's cultural representatives attempting to negotiate and maintain their original, straightforward identity, they ultimately had to concede to a modified, less specific title for their exhibition space. The incident highlighted the ongoing challenges Taiwan faces in asserting its identity on international platforms, even within cultural events.",
-      "advanced": "The recent Gwangju Biennale, a prominent international art exhibition held in South Korea, became the center of a geopolitical naming dispute involving Taiwan. Taiwan's dedicated exhibition space, originally designated as the \"Taiwan Pavilion,\" was reportedly subjected to a mandatory name change by the event organizers just ahead of its inauguration. This contentious demand is widely understood to have been influenced by political sensitivities, specifically related to Beijing's \"One China\" policy, which frequently compels international bodies to avoid recognition of Taiwan as a sovereign entity. Despite diplomatic efforts by Taiwan's cultural ministry and its representative office in South Korea to uphold the original, unambiguous designation, the island ultimately had to compromise. The incident underscores the persistent difficulties Taiwan encounters in asserting its national identity and independent representation in global contexts, even within ostensibly apolitical cultural domains, prompting renewed debate over the intersection of art and geopolitics."
-    },
-    "vocabulary": [
-      {
-        "word": "Biennale",
-        "zh": "雙年展 (shuāng nián zhǎn)：「雙年展」是一種每兩年舉辦一次的大型藝術展覽。你可以想像成一個兩年才開一次的藝術嘉年華，世界各地的藝術家會帶來他們最新的作品。"
-      },
-      {
-        "word": "Pavilion",
-        "zh": "展館 (zhǎn guǎn)：這裡是指一個國家或地區在大型展覽中專屬的展示空間。就像是每個國家在世博會都會有自己的專屬房子來展示東西，那個房子就可以叫做「展館」。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-08-29",
-    "sourceName": "轉角國際udn Global",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMDE4UURRSWh6MjhkbG0xc0RrZjlvX0pQLXktNmE1cmVZWmpBUmxieVJITUc0SmozTWpXWlltc1lvWkh5ZEJaZDZYT3VnZUJDZ0hBSDMySzhqSjR4aWVwMUZKQldod9IBa0FVX3lxTE5jZlU5ODBmZm5aam4tX2RtWXlTQmlZZGJ6WVFnXzBqTzAxNEw5OXB0NlBwZWUzV0ptaGloTDNfYVdFMTljWHRhd1N2SjhoMGpMcFZPT3N4WE9pbXlpVk1pLUZubFRLU1ZqSXJj?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "新加坡為蓋房砍森林？居民罕見上街說「不」！",
-    "zhSummary": "新加坡政府為了蓋新房子，計畫砍伐一片森林。這項決定引發了當地民眾不常見的公開抗議，許多人擔心森林消失會影響環境和野生動物。面對公眾壓力，政府承諾會暫緩部分開發並重新評估。",
-    "zhContent": "<p>新加坡，一個大家可能都知道的繁榮島國，最近因為一項政府的建屋計畫，引發了當地少見的民眾抗議活動。這項計畫的內容，是為了滿足當地居民的居住需求，而打算砍伐一片森林，用來興建新的家園。然而，這項決定卻讓許多關心環境的公民和團體感到憂心，並促使他們罕見地走上街頭，表達他們的反對意見。</p><p>新加坡地狹人稠，土地資源一直非常有限。隨著人口持續增加，政府必須不斷尋找空間來蓋房子，提供市民安身立命的場所。在這樣的背景下，選擇開發一些綠地自然會被納入考量。但是，當這次的目標鎖定在現有的一片森林時，情況就變得不一樣了。許多環保人士和當地居民認為，這片森林不僅僅是一塊空地，更是許多野生動植物賴以為生的家園。</p><p>這片被選定的森林，雖然對外沒有一個響亮的名字，但在許多公民心中，它代表著城市中難得的自然綠肺，也棲息著不少珍貴的動植物，像是多種鳥類和昆蟲。開發計畫一公佈，網路上很快就出現了請願連署，許多人也紛紛在社群媒體上發聲，呼籲政府重新考慮。他們強調，為了蓋房子而犧牲這樣一片生態豐富的森林，可能會造成無法彌補的環境損失，影響當地生物多樣性，也讓居民失去一個親近大自然的珍貴機會。這股反對聲浪，讓政府面臨了過去少見的公眾壓力。</p><p>面對這些強烈的民意反彈和罕見的公開抗議，新加坡政府最終並沒有完全忽視這些聲音。根據後續的發展，政府宣佈將暫緩對森林某些區域的開發計畫，並承諾會進行更詳細的環境影響評估和生態研究。這表示，雖然興建新屋的需求依然存在，但政府也願意花更多時間去評估，希望能在發展與環境保護之間找到一個平衡點。這次事件也讓外界看見了新加坡公民對於環境議題的重視與行動力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，新加坡政府為什麼想要開發森林？民眾又為什麼要抗議？",
-      "生活與未來：你覺得這個開發計畫如果真的實行，會對當地居民的生活和環境造成什麼實際影響？",
-      "獨立思考提案：針對這個因為蓋房子而引發的森林開發爭議，你覺得政府或民眾還可以怎麼做會更好？"
-    ],
-    "enTitle": "Singapore's Green Dilemma: Homes vs. Forests, Public Protests Erupt",
-    "enContent": {
-      "basic": "",
-      "intermediate": "",
-      "advanced": ""
-    },
-    "vocabulary": [
-      {
-        "word": "Protest",
-        "zh": "抗議 - 當人們對某個決定或情況不滿意時，會用遊行、連署或集會等方式，公開表達他們的反對意見。"
-      },
-      {
-        "word": "Biodiversity",
-        "zh": "生物多樣性 - 指的是地球上或某個地區內，所有不同種類的生命形式，包括各種動物、植物、微生物等等。牠們共同組成一個豐富的生態系統，彼此互相影響。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-08-29",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnM4ZjVsNnhaWVpUdFdXV2pXOW95cXY0WlVObTYxQ2J5bnczVVFxQm5lOUdHb01UMERKdlU0V0tuX3pzeW1WYzlCMmtQRVZTRF9MQTZ1MTBzVjNlMzZsRzdfREtjVXFwdEZjUmt2RWRWbWUyS1dGcUpHb1ROVnBNUTdvWW51MmN2XzFxeHgyUnNxNEVvcW9QaGFtR2RYWk9ZZ2hwSjdtT1NyQ1lQZmNMcEFn0gG3AUFVX3lxTE0za2Q1T2x3OFNvcmJ3NGlQQ1JxMWZ1RnJWczBYTXh4eU91SjF1d0Q1U3lFYkdoYjdjTXRKSEFuTjNJeGQ4U190WWEyWEpWcE11aGJ2TnBRSUpjcVZHZ0pDVDY0MXpBc1ZraVRVRzVBanFQcFNqUWtlMjhYUHpaR2dDcWVKb3JVS3JtNThDblhlX1NqeUFyMG9JMjctWEhBNmRlMF9JdHU4YkRUWld3cFA1d183U2c5MA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "紐西蘭的太平洋好友們，在奧克蘭開會都在想什麼？",
-    "zhSummary": "紐西蘭及其三個太平洋盟友——庫克群島、紐埃和托克勞的領導人齊聚奧克蘭，討論氣候變遷、經濟發展和區域合作等共同關心的議題，旨在加強彼此關係並共同面對未來挑戰。",
-    "zhContent": "<p>哈囉，各位同學！你們知道嗎？最近在紐西蘭的奧克蘭市，舉行了一場很特別的國際會議。紐西蘭總理和來自三個太平洋島嶼地區的領導人齊聚一堂。這三個特別的夥伴就是庫克群島、紐埃和托克勞，他們與紐西蘭有著深厚的歷史淵源和特殊關係，共同組成了所謂的「紐西蘭領域」。大家都在好奇，這些「領域領導人」到底在想些什麼、聊些什麼呢？</p><p>這樣的「領域領導人」會議，其實是這些國家和地區之間長期合作的象徵。他們聚在一起，主要為了討論共同關心的問題。畢竟，這些太平洋地區都面臨氣候變遷的挑戰、經濟發展的機會，以及如何保護珍貴的海洋資源。另外，提供更好的教育和醫療給年輕一代，也是他們腦中最常盤旋的話題。他們希望透過面對面交流，找到更多解決問題的方法，讓區域居民生活更美好。</p><p>在這次會議中，紐西蘭扮演著協調者與支持者的角色。雖然庫克群島和紐埃是獨立自主的國家，托克勞則由紐西蘭管理，但他們都希望能與紐西蘭保持緊密聯繫，共同應對挑戰。領導人們會分享各自經驗，討論如何加強經濟連結，甚至在國際舞臺上一起發聲，讓太平洋地區的聲音被世界聽見。這種互助合作的精神，對他們未來的發展至關重要。</p><p>由於新聞的重點是探討這些領導人「在想什麼」，會議的具體成果通常不會立刻公布所有細節。不過可以肯定的是，透過這樣的聚會，領導人會進一步鞏固彼此關係，並就共同的政策方向或合作項目達成共識。這些討論和共識，將會成為未來一段時間內，這些「紐西蘭領域」成員共同努力的藍圖。每次會議的結束，都代表著新的合作計畫即將展開，最終將影響生活在這片美麗太平洋上的每一個人。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "New Zealand's Pacific Friends: What's on the Minds of the Realm Leaders Meeting in Auckland?",
-    "enContent": {
-      "basic": "The leaders of New Zealand and its three Pacific partners—the Cook Islands, Niue, and Tokelau—recently met in Auckland. They gathered to discuss common issues like climate change, growing their economies, and working together to help their communities thrive. These meetings are important for them to share ideas and plan for the future.",
-      "intermediate": "A significant meeting recently took place in Auckland, bringing together New Zealand's Prime Minister and the leaders of the Cook Islands, Niue, and Tokelau. These four entities form what's known as the 'Realm of New Zealand,' sharing deep historical ties and a unique relationship. The discussions focused on shared regional challenges such as climate change impacts, economic development strategies, and the sustainable management of marine resources. The goal is to strengthen their partnerships and ensure a better future for their communities.",
-      "advanced": "The recent convergence of New Zealand's Prime Minister and the heads of government from the Cook Islands, Niue, and Tokelau in Auckland underscored the enduring significance of the Realm of New Zealand. This high-level dialogue delved into critical regional imperatives, notably the existential threat posed by climate change, strategies for fostering resilient economic growth, and the imperative of robust marine resource governance. These deliberations aim to fortify the collective capacity of these Pacific partners, ensuring their voices resonate on the international stage and that tangible solutions are forged for their shared future prosperity."
-    },
-    "vocabulary": [
-      {
-        "word": "Realm",
-        "zh": "王國、領域。在這裡指的是紐西蘭和它有特殊關係的幾個太平洋島嶼國家或地區，他們雖然各自獨立，但關係非常密切，就像一個大家庭一樣。"
-      },
-      {
-        "word": "Cooperation",
-        "zh": "合作。就是大家一起努力，互相幫助，共同完成一項任務或解決一個問題。當不同國家一起合作，就能發揮更大的力量。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-08-29",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1BlLXhjM1dmZkVQMUVKWl9XaEo2cHhyTTdqR2FzeVZNOWpuYXB1V05KNGpXRG9Fc0dteFZCOVRKRkMyV3plM0Z4UV92VWM0clFHYzZpRk1oc1dHX0VXNXFqeTk1VWVqM0dSVUttWm9ZT2d4a19ocHBqbkNIZjF4UlllbnFpTjlsM1NtSTJnV2NZeUZHYlJua2pLUXR3b0I3QUU0QTVDck1HeE9HTWFqZERYTnN1WlZNUUlCbHBn?oc=5",
     "isFeatured": false
   }
 ]
