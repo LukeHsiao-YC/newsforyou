@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "台灣發起『世界災害管理聯盟』，賴總統讚半世紀重大突破！",
+    "zhSummary": "台灣總統賴清德宣布，台灣發起成立了「世界災害管理聯盟」，將整合全球力量，共同面對地震、颱風等自然災害，並被總統稱作是半世紀以來最重要的突破。",
+    "zhContent": "<p>哈囉，各位讀者！最近有個很酷的消息要跟你們分享。台灣的總統賴清德先生，宣布台灣發起了一個超級重要的計畫，叫做『世界災害管理聯盟』。你們知道嗎，總統還特別強調，這對全球來說，是『半世紀以來最重大的突破』喔！這代表台灣在應對自然災害這件事上，正在發揮關鍵的國際影響力。</p><p>這個聯盟聽起來很厲害，它的主要目標其實很簡單：就是希望全世界的國家能團結起來，一起面對我們生活中常常會遇到的各種自然災害。想像一下，地震、颱風、水災、森林大火，這些災害的發生常常讓人措手不及，影響範圍也很廣。透過這個新成立的聯盟，各國政府、專家學者和相關組織就可以互相分享怎麼預防災害、怎麼在災害發生時快速救援，還有災後怎麼把家園重建好的寶貴經驗和技術。</p><p>為什麼台灣會發起這個聯盟呢？其實，台灣因為地理位置的關係，每年都會經歷不少地震和颱風，所以在災害應變和管理方面，累積了非常豐富的實戰經驗。總統賴清德先生相信，把台灣這些寶貴的經驗分享給全世界，並且建立一個全球性的合作平台，讓大家可以一起學習和成長，意義非常重大。他期待這個聯盟能夠提升全球應對災害的能力，幫助更多國家在面對天災時，能保護更多人的生命和財產安全。</p><p>目前，這個世界災害管理聯盟已經正式啟動，它就像一個國際性的『災害應對俱樂部』。在裡面，來自世界各地的專家們可以共同討論最新的災害預警技術、更有效率的救援策略，以及長期性的重建規劃。未來，這個聯盟預計將會持續舉辦各種國際交流活動和專業訓練課程，目的是確保全球各個角落，都能在災害來臨時有更好的準備和更快速的反應機制。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，台灣發起『世界災害管理聯盟』的主要目標是什麼？它希望各國之間如何合作？",
+      "生活與未來：你覺得這個聯盟的成立，對你所居住的社區或國家在面對自然災害時，可能會帶來哪些實際的好處？",
+      "獨立思考提案：針對全球災害管理，除了成立聯盟分享經驗外，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Taiwan Initiates World Disaster Management Alliance, Hailed as Half-Century Breakthrough",
+    "enContent": {
+      "basic": "Taiwan's President Lai Ching-te announced a new group called the World Disaster Management Alliance. He said it's a huge step forward for dealing with natural disasters globally. The alliance aims to bring countries together to share ways to prepare for and respond to disasters like earthquakes and typhoons. Taiwan has lots of experience with these, so it wants to help other countries.",
+      "intermediate": "President Lai Ching-te of Taiwan recently announced the establishment of the World Disaster Management Alliance, describing it as a 'major breakthrough in half a century' for global disaster response. The initiative seeks to unite nations in a collaborative effort to enhance their capabilities in confronting natural calamities such as earthquakes, typhoons, and floods. Given Taiwan's geographical susceptibility to these events, the nation possesses extensive practical experience in disaster preparedness and recovery, which it intends to share through this international platform.",
+      "advanced": "The Republic of China (Taiwan), under the leadership of President Lai Ching-te, has officially launched the World Disaster Management Alliance, an endeavor heralded by the President as a 'significant half-century breakthrough' in the realm of global disaster resilience. This newly formed alliance is designed to foster international cooperation, facilitating the exchange of expertise, innovative technologies, and effective strategies among member states for comprehensive disaster preparedness, rapid emergency response, and post-disaster reconstruction. Taiwan's substantive experience in mitigating the impacts of frequent seismic activity and typhoons positions it as a key contributor to this collaborative framework, aiming to elevate worldwide capacities in safeguarding lives and assets against natural hazards."
+    },
+    "vocabulary": [
+      {
+        "word": "Alliance",
+        "zh": "聯盟 (lián méng): 指一群國家、組織或個人為了共同的目標而結盟或合作，像是大家一起手牽手做一件大事。"
+      },
+      {
+        "word": "Breakthrough",
+        "zh": "突破 (tú pò): 意思是在某個領域取得了重大的進展、發現了新的方法，或是克服了困難，就像從原本卡住的地方找到了一條新的出路。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-01",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OHFvWlU4WnJMcURfdDRpMmdfUldVTEdjcmpwU1ZwdUpSRUVmanlXUVYzVFdxaWJHbnpOTkY4aVc5RW9NZzFocnZmZ0czQzhhUkxBT2JjNVlJMVhtZ2VZ?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "英國野火危機：委員會警告「生命將逝」",
+    "zhSummary": "英國一個議會委員會的主席發出嚴厲警告，表示如果政府不加強應對野火的措施，將會有生命損失的危險，呼籲採取更全面策略。",
+    "zhContent": "<p>你可能覺得野火是澳洲或美國加州那種熱帶地方才有的事，但最近，就連氣候比較涼爽的英國也面臨了嚴重的野火威脅。根據英國廣播公司（BBC）的報導，一個議會委員會的主席公開警告說，如果英國政府不採取更多行動來應對這些越來越頻繁的野火，恐怕會有生命損失的危險。這可不是開玩笑，而是非常嚴肅的呼籲，因為英國的野火問題已經變得不容小覷。</p><p>這位主席指出，近年來英國各地發生的野火數量明顯增加，尤其是在乾燥的天氣條件下，火勢蔓延得更快、更難控制。傳統上，英國的消防系統可能沒有針對大規模野火做好充分準備，因為這以前不是他們的主要挑戰。然而，現在的情況變了，消防員們常常需要處理許多原本不常發生的火災，而且這些火災規模往往很大，對人身安全和環境造成極大威脅。</p><p>該委員會深入調查後發現，目前英國在預防和撲滅野火方面，資源和策略都還有不足之處。舉例來說，可能缺乏專門用於應對野火的設備，或者消防人員在相關訓練上需要更多加強。主席強調，野火不僅燒毀森林、農田和野生動物棲息地，有時候甚至會逼近城鎮，威脅到民宅和居民的生命財產安全。如果不趕快補足這些漏洞，未來的狀況只會更糟糕。</p><p>因此，這位委員會主席發出了緊急呼籲，要求英國政府必須認真看待這個問題，投入更多資源，並且制定更全面的國家級應對策略，才能有效防範野火造成的損害，保護民眾的生命安全。目前，委員會的報告已經提交給政府，希望他們能盡快採取行動，以免預言中的悲劇真的發生。整個事件的進展，大家都在密切關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "UK Wildfire Crisis: Committee Warns of 'Lost Lives'",
+    "enContent": {
+      "basic": "A UK committee chairwoman has issued a serious warning: lives will be lost if the UK doesn't do more to fight wildfires. She is urging the government to take stronger action against the growing threat of these fires.",
+      "intermediate": "According to a BBC report, a committee chairwoman in the UK has cautioned that lives are at risk unless the country significantly improves its efforts to combat increasingly frequent wildfires. She highlights the urgent need for a more comprehensive national strategy and resources to address this escalating problem.",
+      "advanced": "A parliamentary committee chairwoman in the UK has delivered a stark warning, as reported by the BBC, stating that lives 'will be lost' unless the government implements more robust measures to combat the escalating wildfire crisis. Her call emphasizes the critical necessity for enhanced resources and a comprehensive national strategy to mitigate the severe threats posed by these fires."
+    },
+    "vocabulary": [
+      {
+        "word": "wildfire",
+        "zh": "野火。一種無法控制的自然火災，通常發生在森林、草原或灌木叢中，蔓延速度快，很難撲滅。"
+      },
+      {
+        "word": "committee",
+        "zh": "委員會。一個由一群人組成的團體，他們聚集在一起討論特定議題、做出決定或給予建議，通常在政府或組織中扮演重要角色。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-01",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5d25FTWdhSE1aU1VyWHBYbko4cE1pWDMzU3V1YUYyTVRSMUNfMVp5U2FkRDZfTExzTGhRXzhVTVFWbmFYMi1JMWg3c2dEODlqbURQQ3NGNGJIUzhoZUE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "公眾人物演說引爭議：當「文化戰爭」議題成為焦點",
+    "zhSummary": "一場公開演講中，公眾人物彼得·黑格斯（Peter Hegseth）選擇深入探討一些社會上極具爭議的文化議題，這場演說引起了廣泛關注，並讓許多人開始思考公眾人物如何選擇談論這些敏感話題。",
+    "zhContent": "<p>最近，一位名叫彼得·黑格斯（Peter Hegseth）的公眾人物發表了一場備受關注的演說。這場演說之所以特別，是因為它大量觸及了所謂的「文化戰爭引爆點」。簡單來說，「文化戰爭」是指社會上不同群體之間，對於價值觀、道德觀或生活方式等議題，存在著非常深刻且難以妥協的分歧與爭論。而「引爆點」就是指那些特別容易引起激烈討論，甚至可能導致對立的敏感話題。</p><p>在這場演講中，黑格斯先生選擇了將這些社會上具有高度爭議性的議題作為他發言的核心內容。他並非輕描淡寫地帶過，而是深入探討了這些讓許多人立場對立、難以取得共識的點。一般來說，當公眾人物在公開場合選擇這樣做時，他們的言論往往會被放大檢視，並且在社會上引起兩種截然不同的反應：一部分人會對其觀點表示強烈支持，認為他說出了心聲；而另一部分人則可能對此持堅決反對意見，甚至覺得這些言論會加劇社會的分裂。</p><p>從客觀角度來看，像這樣的演說通常不會有模糊的中間地帶。當演講內容緊緊圍繞著「文化戰爭」的議題時，演講者往往是有意識地在挑戰或鞏固某一種特定的社會觀點。這類型的發言，其目的可能是為了凝聚特定支持群體的共識，或是為了在廣泛的社會討論中，明確地劃分出支持者與反對者的陣營。因此，演說本身就帶著挑動社會敏感神經的潛在作用，很自然地會引發外界的高度關注。</p><p>目前，黑格斯先生的這場演說已經被外國媒體如NPR所報導，這表示其內容與影響力已引起了媒體的重視。由於演說觸及的都是社會的核心價值觀問題，它很可能會繼續成為公眾討論的熱點，並持續激發人們對這些「文化戰爭引爆點」的思考與對話。這場演說的「結果」並非一個單一的結論，而是開啟了一系列關於社會價值觀和文化衝突的持續性辯論。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「文化戰爭引爆點」可能包括哪些議題？（請列舉你覺得社會上容易產生爭議的話題，不必與原文內容相關）",
+      "生活與未來：你覺得公眾人物在公開場合討論這些敏感議題，會對青少年群體造成什麼實際影響？",
+      "獨立思考提案：針對這類涉及「文化戰爭」的公開言論，你認為媒體在報導時應該注意哪些地方，才能幫助閱聽人更客觀地理解？"
+    ],
+    "enTitle": "Hegseth's Speech Ignites Culture War Debates",
+    "enContent": {
+      "basic": "Recently, a public figure named Peter Hegseth gave a speech that drew a lot of attention. The speech was notable because it heavily focused on what are called 'culture war flashpoints.' This means Hegseth talked about very sensitive topics where people in society have strong, different opinions. These 'flashpoints' are issues that can easily start big arguments or disagreements.",
+      "intermediate": "Peter Hegseth recently delivered a highly scrutinized speech that prominently featured 'culture war flashpoints.' These are deeply divisive societal issues where groups hold fundamentally different values, beliefs, or lifestyles, often leading to intense debate and conflict. Hegseth chose to make these controversial topics the central theme of his address, rather than just briefly mentioning them. Such public statements frequently elicit strong reactions from the audience, with some expressing staunch support while others voice firm opposition, highlighting the polarizing nature of the content.",
+      "advanced": "Peter Hegseth's recent public address has garnered considerable attention for its deliberate emphasis on 'culture war flashpoints.' This term refers to highly contentious societal issues—spanning values, morality, and lifestyle—where profound, often irreconcilable, disagreements exist among various groups. Hegseth's decision to anchor his speech around these divisive themes signals a strategic move to engage with, and potentially galvanize, specific ideological factions. Such overt engagement with 'flashpoint' issues inherently carries the potential to polarize public discourse, prompting a bifurcated response from the audience: enthusiastic endorsement from aligned constituents and vehement opposition from detractors. As reported by outlets like NPR, this speech is likely to perpetuate ongoing dialogues and debates surrounding these foundational societal conflicts, underscoring the enduring relevance and impact of such public pronouncements."
+    },
+    "vocabulary": [
+      {
+        "word": "flashpoints",
+        "zh": "觸發點，引爆點。在新聞中，它指的是那些特別容易引發社會大眾激烈討論、意見分歧，甚至可能導致不同群體之間產生對立的敏感話題或事件。想像一下，就像一個小火星就能點燃整片柴薪一樣。"
+      },
+      {
+        "word": "culture war",
+        "zh": "文化戰爭。這個詞彙用來描述一個社會中，不同價值觀、信仰、生活方式或道德標準的群體之間，因為觀念上的巨大差異而產生持續性、深刻且難以調和的衝突與對抗。通常涉及教育、性別、宗教、種族等議題。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-10-01",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzhjcW5hbVFkYXNNM05TbHdJTjdVWTlGQU9KYzhOU3lZSlFtdDlaMFYtVEJsYk5PTzh1dEFsczlrbW1DckdYNDlhMnBtTmVqdzJKeERVQ1Y1Q2NQdFROQWdSXzJfeGhTaVo1aGZFaTdieXhrYks5VG8xUlN5bHYtTDVtMHNiYkw0RFpYXzRMQmtTWWx1bWtn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI複製明星聲音鬧上法院！東京法院判決：侵犯演員權利！",
+    "zhSummary": "日本東京法院最近判決，一個人臉識別（AI）工具因為在未經同意下複製了一位演員的聲音，侵犯了他的權利。這項判決確立了科技發展與個人權利之間的界線。",
+    "zhContent": "<p>最近，日本東京的法院做出了一個非常重要的決定，這讓很多人都開始思考AI科技和個人權利之間的問題。事情是這樣的，有一個人工智慧（AI）工具，居然在沒有經過本人同意的情況下，把一位知名演員那「光彩動人」又富有辨識度的聲音給完全複製了下來。這個舉動引發了演員的不滿，最終鬧上了法庭。東京法院經過一番審理，最終認定這種行為確實侵犯了這位演員的合法權利。這則新聞不只在娛樂圈，也在科技圈引起了廣泛的討論和關注。</p><p>這位演員發現，他那獨特的聲線，也就是許多觀眾和聽眾都很熟悉的、帶有特殊魅力且極具個人風格的嗓音，被一個AI程式「學」了個一模一樣。更關鍵的是，這個AI工具模仿的聲音，並不是自己悄悄地拿去玩玩而已，而是被用在了某些商業活動中。舉例來說，可能被用來為廣告配音、製作有聲書，或是其他需要「人聲」的產品和服務。然而，演員本人對此一無所知，也從未簽署任何授權同意書。他的聲音對他來說，不僅是專業表演的工具，更是他個人品牌與形象的重要組成部分，遭到盜用讓他感到自己的勞動成果和個人權益受到了嚴重侵犯。</p><p>在法庭上，法官們仔細審視了這起案件的來龍去脈。他們認為，每個人的聲音都具有獨特性，特別是對於演員、歌手這類以聲音為生的人來說，他們的嗓音更是他們重要的資產，既有商業價值，也與他們的人格權利緊密相連。如果AI可以在沒有獲得同意的情況下，輕易地複製並用於商業用途，那麼這些專業人士將會失去對自己聲音的控制權。法院強調，這種行為不僅損害了演員的財產權，更侵犯了他「公開發表自己聲音的權利」以及「保持聲音完整性」的權利，這在法律上是被視為嚴重的侵害。</p><p>最終，東京地方法院做出了明確且具有指標性的判決，確認這個AI工具的確侵犯了該演員的合法權益。法院在判決中指出，無論科技如何進步，個人權利都必須受到尊重與保護。這項裁決不僅讓該演員獲得了遲來的正義，也向整個科技界發出了一個清晰的信號：未來AI在開發和應用類似聲音複製的技術時，必須更加謹慎，並且務必獲得當事人的明確授權。這是一個關於科技發展與個人權利界線的重要案例。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "AI Voice Tool Violates Actor's Rights, Tokyo Court Rules",
+    "enContent": {
+      "basic": "An AI tool copied an actor's voice without permission. The actor then went to court. A court in Tokyo has now ruled that this AI tool violated the actor's rights. This means that AI technology cannot just take and use people's voices without asking first.",
+      "intermediate": "A recent court ruling in Tokyo made headlines when an artificial intelligence (AI) tool was found to have illegally copied the distinctive voice of a well-known actor. The actor had not given permission for his 'lustrous' voice to be used. The court decided that the AI tool violated the actor's rights, sending a strong message about the need for consent in the age of advanced technology.",
+      "advanced": "In a landmark decision, the Tokyo District Court ruled that an artificial intelligence (AI) tool violated a prominent actor's rights by replicating his 'lustrous' voice without consent. The actor initiated legal action after discovering his unique vocal characteristics were being exploited for commercial purposes by the AI program. The court's judgment underscores the importance of personality rights and intellectual property in the digital age, establishing a precedent that even sophisticated AI technologies must respect individual autonomy and secure proper authorization before utilizing personal attributes like voice for profit."
+    },
+    "vocabulary": [
+      {
+        "word": "lustrous",
+        "zh": "光彩動人的，有光澤的。可以形容聲音很有魅力，聽起來很舒服、很有質感。"
+      },
+      {
+        "word": "violate",
+        "zh": "違反，侵犯。指做出不符合規定或傷害到別人權利的行為。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-01",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVF93OS1qYzhDOHZlcURzdExLUlJyNjNEeEdmaHZkZDNPZGNndjhOQjVyUlBtbnlkcXhQbU1fd0E3YnN5SF9CTnNtTXYzNUFKT0dEWk1ELVJ5dGFKZmlSb21CM3JHZmJNalNCd2FmTVVuQTQzVm9oX1dKNllsWmM3Zkc1M2QxMUJSLVhwQmJiNFkwSFZXc0RHTFQtSm9rdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "動物真相大搜查：BBC帶你拆解動物迷思！",
+    "zhSummary": "英國廣播公司（BBC）推出了一篇有趣的內容，專門挑戰大家對動物世界的既有印象，幫助讀者分辨哪些是真正的動物事實，哪些只是流傳已久的錯誤迷思。",
+    "zhContent": "<p>英國廣播公司（BBC）最近推出了一則非常有趣的內容，標題就直接問大家：「你分得清楚這些是真正的動物事實，還是完全的迷思嗎？」這篇報導旨在挑戰我們對動物世界的既定印象，邀請讀者一起來檢視那些我們從小聽到大的動物「常識」，看看它們究竟是科學真相，還是世代相傳的錯誤觀念。</p><p>這項內容設計得很像一個小測驗，BBC會列出一些關於動物的說法，然後邀請讀者去判斷對錯。例如，你可能聽過「鴕鳥在害怕的時候會把頭埋進沙子裡」，或是「金魚的記憶力只有短短幾秒鐘」。報導會先提出這些普遍的說法，接著用簡單明瞭的方式揭露科學的答案，告訴大家這些說法的真實性。</p><p>BBC製作這類內容的目的是為了糾正社會上流傳已久的動物迷思。很多時候，這些誤解不僅僅是趣聞，有些甚至可能影響人們對待動物的方式。透過釐清這些錯誤的觀念，BBC希望能幫助讀者更了解真實的動物行為與生態，避免因為不正確的資訊而產生對動物的誤判或偏見。他們強調，科學研究才是我們理解自然世界最可靠的基礎。</p><p>這篇文章最終幫助讀者更新了腦中的動物知識庫。讀完之後，你會發現一些你深信不疑的「事實」原來是迷思，同時也學到許多全新的、有趣的動物真相。這就是BBC這份內容的結果，提供了一個機會，讓大家以科學為依據，重新認識我們周遭的生物夥伴，而沒有留下任何關於「我們應該怎麼做」的結論。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Animal Fact Check: BBC Helps You Uncover Animal Myths!",
+    "enContent": {
+      "basic": "The BBC recently shared a fun article titled \"Can you tell if these are real animal facts or total myths?\". It's like a game where you guess if things you hear about animals are true or not. For example, some people think ostriches hide their heads in the sand when scared, or that goldfish only remember things for a few seconds. The BBC's article tells us if these ideas are facts or just stories. It helps us learn the real truth about animals using science. This way, we can understand animals better and know what's really going on in their world, not just old tales.",
+      "intermediate": "The British Broadcasting Corporation (BBC) has published an engaging piece of content titled \"Can you tell if these are real animal facts or total myths?\". This article challenges common beliefs and widespread misconceptions about the animal kingdom. It presents popular notions, such as ostriches burying their heads in the sand when threatened or goldfish possessing only a seven-second memory, and then scientifically clarifies whether these are actual facts or mere folklore. The BBC's goal is to educate its audience by providing accurate information, encouraging a deeper and more informed understanding of animal behavior and biology, based on scientific evidence rather than anecdotal claims.",
+      "advanced": "The British Broadcasting Corporation (BBC) has released a compelling and interactive article, provocatively titled \"Can you tell if these are real animal facts or total myths?\". This journalistic endeavor meticulously scrutinizes deeply ingrained societal perceptions regarding the animal kingdom, serving to disambiguate widespread folklore from empirical truths. The piece systematically addresses prevalent assertions – for instance, the legendary ostrich behavior of head-burying in response to fear, or the purported ultra-short memory span of goldfish – by rigorously presenting scientific evidence to either corroborate or conclusively debunk these long-held beliefs. The BBC's overarching objective is to rectify the proliferation of misinformation, thereby cultivating a more enlightened and fact-based public understanding of animal ethology and ecology, anchored firmly in robust scientific inquiry."
+    },
+    "vocabulary": [
+      {
+        "word": "Myth",
+        "zh": "迷思：指一些廣泛流傳，但實際上不正確、沒有科學根據的說法或觀念，就像「神話」一樣，雖然很多人相信，但不一定是真的喔。"
+      },
+      {
+        "word": "Debunk",
+        "zh": "揭穿、拆穿：意思是證明某個廣泛被接受的說法、理論或迷思是錯誤的，讓大家看清真相。就像拆穿魔術師的把戲一樣。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-10-01",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teFB2empGdUNrY3NydExGU0xDRHd1Q1lMTFgwSWVidzMxemxSdTl1QVRIN1lVT0dFX0lwV0cxbmdHTmJNaWJ6aXgyaTFMNGxUZk1qMGFPOTV6Z2tXaHJIUWU2RVdJRnVJc2FYZFhkZ0ZFRjNUOS1Cc29DVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "荷姆茲海峽的權力遊戲：伊朗的影響力還在嗎？",
+    "zhSummary": "近年來，中東地區一些國家積極開發新的石油運輸路線，試圖減少對荷姆茲海峽的依賴。這讓長年來掌握海峽關鍵地位的伊朗，面臨了影響力可能下降的挑戰。",
+    "zhContent": "<p>荷姆茲海峽是中東地區一個非常重要的水道，它就像一條細長的「海上高速公路」，連接了波斯灣和外面的世界。全世界每天有很大一部分的石油，都是透過這條海峽運送到各個國家。因為地理位置特殊，伊朗長久以來都在這條海峽上扮演著關鍵角色，擁有很大的影響力。不過，最近有媒體報導指出，伊朗在這條重要水道上的「籌碼」是不是越來越少了呢？</p><p>為什麼會有這樣的說法呢？主要是因為海峽周邊的一些國家，特別是沙烏地阿拉伯和阿拉伯聯合大公國（UAE），正在努力建造新的石油輸送管線，也就是「陸上油管」。這些油管的目的是讓他們國家的石油，可以直接從陸地運到其他港口，再裝船出海，這樣就不用非得經過荷姆茲海峽了。想像一下，原本只有一條路可以走，現在開了另一條新路，這條新路自然就分走了舊路的交通量。</p><p>這些國家會這麼做，其實有幾個原因。首先，荷姆茲海峽雖然重要，但也因為它的戰略地位，常常是地區衝突的敏感點。如果海峽發生狀況，石油運輸就會受到影響，對全球經濟來說是個大麻煩。所以，開發替代路線，就像買了個「保險」，可以確保石油供應的穩定性，減少萬一海峽有事時的衝擊。對伊朗來說，當其他國家有了替代選擇，他們在這條海峽上的影響力自然就會減弱。</p><p>這些新的油管計畫一旦完成並投入使用，將會大幅減少國際市場對荷姆茲海峽的單一依賴。這意味著，過去伊朗可以利用其對海峽的控制來施加壓力，未來這種能力可能會打折扣。對世界各國而言，這增加了能源供應的彈性。而對中東地區的權力平衡來說，這也代表著新的變化正在發生，伊朗在區域中的戰略地位可能需要重新調整。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「荷姆茲海峽」為什麼對世界很重要？其他國家開發「陸上油管」又帶來了什麼改變？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這樣的趨勢，你覺得相關各方還可以怎麼應對會更好？"
+    ],
+    "enTitle": "Is Iran's Influence Over the Strait of Hormuz Fading?",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Strait",
+        "zh": "海峽：連接兩片大海或大水域的狹窄水道，像是天然形成的海上通道。"
+      },
+      {
+        "word": "Leverage",
+        "zh": "籌碼／影響力：指一個人或一個國家可以利用某種優勢來影響或控制局勢的能力，就像翹翹板原理，用小的力量撬動大的東西。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-01",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclg2QUFjcWhrSGJicV9BQWRqN3JSOGtBRW9UQW9DOWFMRzduaDR1TWZ3M2lqSkFFekd1RTdYdUJRSlJHUzE0LUc5LUc3Um1OdlVrQzJyZVRSbE9pY01BMkVjQS1ES1l4V0NCMllCWjVhay1FYlg1MHhCckdNN2wxemlvcjduNTRlc09jRXVEZFg0SFhoZ3J4aDZoNTRxWktfTU1GRlF1V25pcGvSAbABQVVfeXFMT0J6bVI5TUJoVnVmbGJaLXVGa3FxLVFpVTh2Wlh4aVl2QW1sMXQ4eDFBS3B4TlgySVo3Z3piSVBmNVE3SHAwQTh1YUEzeEdUaDhQZk9wY3hYeTVKRTVFUDRUSXZsYnh4dFR5QWdSZFAtYnAtUDN4WG4xTkVtamRHTEV6a29PdHFFVTM2M3JZWldHbXJuQk9wREFjUjlCVl9FWjU0ZG1Ga2Vxb25zdDVuZnA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "外交風暴再起！南非因「不當言行」再次召見美國大使",
+    "zhSummary": "南非外交部再次召見美國駐南非大使，不滿美國大使公開指責南非，認為其言行不符合外交規範，導致兩國關係更加緊張。",
+    "zhContent": "<p>最近，南非和美國之間的外交關係可說是風波不斷。南非外交部再次要求美國駐南非大使前來「聊聊」，原因是不滿美國大使的一些「不符合外交規範」的行為。這已經不是第一次發生這樣的事情了，顯示這兩個國家之間的氣氛有點緊繃，讓外界非常關注。</p><p>這次南非外交部會這麼不高興，主要是因為美國駐南非大使在公開場合說了一些嚴重的指控。這位大使表示，有情報顯示南非可能在去年年底偷偷運送武器到俄羅斯。他還說，一艘俄羅斯貨船曾在南非一處海軍基地停靠，然後裝載了一些物資後離開。這些話讓南非政府感到非常震驚和不滿。</p><p>面對美國大使的說法，南非政府強烈否認。他們表示，美國大使的這些指控完全沒有經過證實，而且用這種方式公開發表，非常不尊重南非的主權，也嚴重損害了南非的聲譽。南非外交部強調，這種單方面且未經證實的言論，只會讓兩國的關係更加複雜和緊張。</p><p>南非外交部在這次召見中，除了表達嚴正抗議，也要求美國方面針對這些指控提出解釋。他們希望美國能夠撤回這些不實的言論，並且採取措施來修復兩國之間因此受到的傷害。目前，這次事件讓原本就不太穩定的南非與美國關係，再次面臨了新的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南非為什麼會「不高興」？美國大使的什麼行為讓南非政府覺得是「不符合外交規範」的呢？",
+      "生活與未來：你覺得大使在公開場合發表未經證實的言論，可能會對國際關係或一個國家的名譽造成什麼實際影響？為什麼這會讓南非特別在意？",
+      "獨立思考提案：如果你是南非政府的發言人，當面對像美國大使這樣嚴重的公開指控時，你會選擇怎麼回應，才能既維護國家尊嚴又避免關係惡化呢？"
+    ],
+    "enTitle": "South Africa Summons US Ambassador Again Over 'Undiplomatic Conduct' Amid Tensions",
+    "enContent": {
+      "basic": "South Africa has called in the US ambassador again. This happened because the US ambassador made public comments that South Africa called 'undiplomatic'. These comments accused South Africa of sending weapons to Russia. South Africa denies these claims and feels the ambassador's words hurt their country's reputation. This event shows that the relationship between South Africa and the US is currently tense.",
+      "intermediate": "The South African foreign ministry recently summoned the US ambassador for the second time. The reason was the ambassador's 'undiplomatic conduct,' specifically public accusations that South Africa supplied weapons to Russia. This serious claim, made without concrete proof, deeply offended the South African government, which vehemently denied the allegations. South Africa views these statements as an attack on its sovereignty and reputation, further straining already tense diplomatic relations with Washington. The incident highlights the delicate balance of international diplomacy.",
+      "advanced": "Amid heightened geopolitical tensions, South Africa's foreign ministry has once again summoned the US ambassador to express its displeasure over 'undiplomatic conduct.' The immediate catalyst was the ambassador's public assertion that intelligence suggested South Africa had secretly supplied weapons to Russia via a docked cargo vessel. This unverified public accusation was met with a strong rebuttal from Pretoria, which condemned the remarks as baseless, damaging to its sovereignty and international standing, and unbefitting diplomatic decorum. The repeated summons underscores the significant strain in bilateral relations, compelling South Africa to demand clarification and a retraction of the inflammatory statements to mitigate further diplomatic fallout."
+    },
+    "vocabulary": [
+      {
+        "word": "Summons",
+        "zh": "召見 (zhāo jiàn)：指政府或官方單位要求某人前來開會或報告，通常是為了討論重要或嚴肅的事情。"
+      },
+      {
+        "word": "Undiplomatic",
+        "zh": "不外交的 (bù wài jiāo de)：形容一個人的言行舉止不符合外交禮節或國際間溝通的規範，可能會引起誤解或衝突。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-10-01",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOek9CN2huaGVYWlZsbzVXWXVkb1ROS3NFdjdYMS12RDUwX21DR1VoX3pVWktvV2VlY1hjNUtIOXhLa2hDcTB6NDNrcnhJVmo2Q2ZnZE93QXZZOUlkYzBoY2F0QVdIOURxT3BWeTZVRmlxbVdrVVFkYzZud2ZZdldGeDc2OEU1TU5xOVdZbkpQN09hbnhZS1V5dUQwZ1R3ZEh5dWlxMmN3NzNDREctR2pWcTlkcm9ZT1ZuMlBjSVQ0NjVUWGVHTW9pbQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "歐洲五國聯手新計畫：2027年非洲首座「遣返中心」即將登場",
+    "zhSummary": "希臘、德國、奧地利、丹麥和荷蘭等五個歐洲國家計畫在2027年前，於非洲設立第一個共同的「遣返中心」，目的是為了更有效率地管理被歐洲拒絕庇護申請者的返回程序。",
+    "zhContent": "<p>歐洲的希臘、德國、奧地利、丹麥和荷蘭這五個國家，最近有個很重要的計畫。他們打算在非洲建立第一個「遣返中心」，目標是在2027年正式啟用。這個中心主要目的是要協助處理那些在歐洲尋求庇護但申請被拒絕的人，讓他們能更有秩序地返回原本的國家，或是被轉移到其他非洲國家。</p><p>這個計畫代表這些歐洲國家正嘗試一種新的方法，來應對大量移民與難民的問題。想像一下，當有人從自己的國家來到歐洲，因為戰爭、迫害或其他原因申請居留權（也就是「尋求庇護」），但如果他們的申請沒有通過，歐洲各國通常會需要將他們送回。而這個在非洲的「遣返中心」就是想簡化整個過程，讓歐洲各國不再需要各自處理這些複雜的遣返手續，而是透過一個共同的、集中的地點來管理。</p><p>事實上，歐洲各國長期以來，在處理非法移民和被拒絕的庇護申請者返回問題上，一直面臨著不少挑戰。很多時候，遣返程序既耗時又困難，需要很多協調和資源。因此，這五個國家決定聯手合作，共同尋找一個更有效率的解決方案。他們認為，透過在非洲設立一個集中的轉運點，或許能讓整個遣返過程變得更順暢，減少目前歐洲各國所承受的壓力。</p><p>目前，這只是一個剛提出的「計畫」，離真正實施還有一些時間。要在2027年順利啟用這個非洲遣返中心，這些歐洲國家還需要與相關的非洲國家進行深入的討論和合作，確保法律和實際操作層面都能順利進行。這個共同的跨國策略，目前正朝著一個全新的方向發展，希望能藉此更有效率地管理邊境安全與移民流動。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「遣返中心」主要目的是什麼？為什麼這些歐洲國家會想推動這樣的計畫？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如，那些申請庇護的人、歐洲或非洲當地國家的人民？）",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？（例如，除了遣返中心，還有沒有其他方式可以解決移民問題？）"
+    ],
+    "enTitle": "Europe's Five Nations Plan First Return Hub in Africa by 2027",
+    "enContent": {
+      "basic": "Greece, Germany, Austria, Denmark, and the Netherlands plan to open the first \"return hub\" in Africa by 2027. This center will help manage the return of people whose asylum applications in Europe have been rejected. The goal is to make the process smoother and more organized.",
+      "intermediate": "Five European countries—Greece, Germany, Austria, Denmark, and the Netherlands—are collaborating on an ambitious project: establishing the first \"return hub\" in Africa by 2027. This initiative aims to streamline the repatriation process for individuals whose asylum claims have been denied across Europe. It represents a joint effort to address complex migration challenges and enhance the efficiency of return operations.",
+      "advanced": "In a concerted effort to recalibrate migration management strategies, Greece, Germany, Austria, Denmark, and the Netherlands have unveiled plans for the establishment of the inaugural \"return hub\" on the African continent, slated for operational commencement by 2027. This collaborative endeavor seeks to centralize and optimize the repatriation mechanism for asylum seekers whose applications have been rejected within participating European Union member states, thereby alleviating individual national burdens and fostering a more coherent, continent-wide approach to irregular migration."
+    },
+    "vocabulary": [
+      {
+        "word": "Hub",
+        "zh": "「中心／樞紐」：想像一下機場，有些機場是很多班機起降、轉機的地方，那就是一個「航空樞紐」。這裡的「遣返中心」就像一個處理各種遣返事務的集中地。"
+      },
+      {
+        "word": "Asylum",
+        "zh": "「庇護」：當一個人因為戰爭、政治迫害或其他嚴重危險，不得不離開自己的國家，到另一個國家尋求保護和安全居留時，就叫做尋求「庇護」。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-01",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkxrVC1kem5TdXRRTFk0UUtUUEtQaDNNMDhPSmxiTTR4dWxVMVE1Vzgwd2g2SEZPREhqNE04eDlvY01wZUp2RDZnRFVBZExxSUMzc29icWtrc0ZMdFdzSXZKYzVyQXAzWHJ5U2J6SUtQN0ZBOVVlTDFzWWNaWXdYUDVRZGpScnY1WTFWTlZHbXFwRVllSnBsR3RQTU_SAZwBQVVfeXFMTTN2M3MtZVBQaDhlbWx2WnhvSm9ra1h5RTlSM29HQnBqZUNyby1UdVkyeks1UHByelozZ3AtbEdVRTBhbklxQ3hWeFU0MDlpTWpLZDlmNWI0RUFnWTB2YlZtNmdwczRzcEhrUzgtbFpZZ05wQlZjcFZtWGNoMWZVbGtzTUc2aEFudkxJOFBuV3hYcEZ2Yk9HZFpqSWtQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非發生憾事：奈及利亞三公民遇害引發國際關注",
+    "zhSummary": "最近幾週，南非傳出有三位奈及利亞公民不幸身亡，這起事件引起奈及利亞政府的高度關切，並再次凸顯外籍人士在南非可能面臨的安全問題。",
+    "zhContent": "<p>嗨，同學們！最近有個國際新聞引起了大家關注。在南非，有三位奈及利亞公民在短短幾週內不幸身亡。這件事讓奈及利亞政府非常關切，也讓大家再次討論到外籍人士在南非所面臨的挑戰。</p><p>根據奈及利亞方面的說法，這三起死亡事件在最近幾週內發生，具體的細節雖然還在調查中，但奈及利亞政府已經對此表達了嚴正立場。他們認為，這些不幸的事件可能與當地針對外國人的暴力行為有關，並呼籲南非當局要採取行動，確保在南非生活的奈及利亞僑民能得到保護。</p><p>其實，南非長期以來一直存在一些針對外籍人士的排外情緒。有時候，當地的民眾會因為覺得工作機會或資源被外國人搶走，而對他們產生敵意，甚至演變成攻擊行為。雖然南非政府多次公開譴責這類暴力事件，並強調會保護所有在南非的人，但類似的衝突還是時不時發生，讓許多外籍人士感到不安。</p><p>面對這次的事件，奈及利亞政府已經要求南非政府必須徹查，找出真相，並且將相關的肇事者繩之以法。兩國的外交關係也因此變得有些緊張，奈及利亞不斷向國際社會發聲，希望南非能認真處理這些安全問題，讓在南非的奈及利亞人能有一個安全的環境。目前，這幾起案件的調查仍在進行中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，奈及利亞政府主要表達了哪些訴求？南非方面目前有什麼回應或行動？",
+      "生活與未來：你覺得這類針對外籍人士的暴力事件，會對當地社會和國際關係帶來什麼實際影響？",
+      "獨立思考提案：如果類似的排外問題發生在你所在的社區，你覺得我們可以怎麼做，才能幫助不同背景的人和平共處？"
+    ],
+    "enTitle": "Nigeria Reports 3 Citizens Killed in South Africa Amid Safety Concerns",
+    "enContent": {
+      "basic": "Nigeria's government says three of its citizens have been killed in South Africa recently. This has raised concerns about the safety of foreign people living there and led to calls for investigations.",
+      "intermediate": "The Nigerian government has reported that three of its citizens died in South Africa over the past few weeks. This incident has sparked worries about violence against foreign nationals in South Africa and prompted Nigeria to demand thorough investigations and better protection for its people.",
+      "advanced": "The Nigerian government has expressed profound concern following the deaths of three of its citizens in South Africa in recent weeks. This development highlights ongoing challenges with xenophobia and violence targeting foreign nationals in the country, leading to diplomatic tensions and renewed calls for South Africa to ensure the safety and security of all residents, including expatriates."
+    },
+    "vocabulary": [
+      {
+        "word": "xenophobia",
+        "zh": "排外情緒：指某些人因為不了解或害怕外國人、外來文化，而產生不喜歡、排斥甚至敵對的感覺或行為。"
+      },
+      {
+        "word": "diplomacy",
+        "zh": "外交：指國家與國家之間，透過談判、溝通等方式，處理彼此關係和事務的活動，像是派大使、開會協商等。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-01",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYklQNkYxLXh6akp5MjkwSTdyeHpwRlk2b0ZlWExLZGk1aHFPTlFYeVVMWllxM0lPN3pRRjZzMVZzYmpPclBBSWxQcXl6MTFEV1BpWXdxM2FpNE5jOW9NVk9uYm9aZmp2VGwwdVFETm9taVp6c3lKUWdkNXQ5V0N4Qm5UN0hVZk5mZ0RpT015Z3pKeWZBblVUWTFGdWk2ZkhIYVB2MmtLZGtBZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "新加坡大老闆淡馬錫要進軍中東啦！利雅德、阿布達比將設新據點",
+    "zhSummary": "新加坡的超級投資公司淡馬錫，宣布他們要在中東地區開設新的辦公室，地點選在沙烏地阿拉伯的利雅德和阿拉伯聯合大公國的阿布達比，這是他們擴展全球業務的重要一步。",
+    "zhContent": "<p>嘿，同學們！今天有個國際商業大新聞要跟大家分享，主角是來自我們熟悉的新加坡，一間叫做「淡馬錫」的超大型投資公司。這間公司可以說是新加坡經濟發展的重要推手，他們負責管理著新加坡政府的各種投資。最近，淡馬錫做了一個令人注目的決定：他們準備在中東地區，開設兩間全新的辦公室，準備在中東市場大展身手！</p><p>這兩間全新的辦公室，分別會設立在哪裡呢？一個是沙烏地阿拉伯的首都「利雅德」，另一個則是阿拉伯聯合大公國的知名城市「阿布達比」。淡馬錫選擇在這兩個中東的重量級城市設立新據點，背後其實有很明確的商業考量。這表示他們看中了中東地區在經濟上的快速成長，以及那裡可能蘊藏的巨大投資潛力。簡單來說，他們想要更貼近當地市場，尋找更多新的合作機會。</p><p>想像一下，一間這麼大的公司為什麼要跨越半個地球去開新辦公室？就像你的手遊要打國際盃一樣，這是為了讓他們的「觸角」伸得更遠，能直接與當地的企業和創新產業連結。透過在利雅德和阿布達比設立實體據點，淡馬錫就能更深入地了解中東市場的脈動，探索在能源轉型、新科技、數位經濟，甚至是一些基礎建設項目上的投資可能性，希望能為他們管理的資金找到更好的回報。</p><p>所以，這次淡馬錫在中東開設利雅德和阿布達比辦公室的行動，是他們全球擴張策略中相當重要的一步。這不僅象徵著他們對中東市場的看好，也代表著這家新加坡公司在未來幾年，將會更積極地參與到中東地區的經濟發展中。這個消息是由國際知名媒體路透社所報導的，是一個真實且具體的商業計畫。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，新加坡的淡馬錫公司決定在中東開設辦公室，這代表了什麼樣的商業策略？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對淡馬錫公司、中東當地的企業或民眾來說，可能會有哪些不同？",
+      "獨立思考提案：針對這類跨國公司設立新據點的商業行為，你覺得可能有哪些潛在的挑戰或機會？"
+    ],
+    "enTitle": "Singapore's Temasek to Establish New Middle East Hubs in Riyadh and Abu Dhabi",
+    "enContent": {
+      "basic": "Singapore's large investment company, Temasek, is opening two new offices in the Middle East. These offices will be in Riyadh, Saudi Arabia, and Abu Dhabi, United Arab Emirates. This move is part of their plan to grow their business and find new investment opportunities in that region. They want to be closer to the Middle Eastern market to understand it better and make new connections.",
+      "intermediate": "Temasek, a major investment firm owned by the Singapore government, has announced its intention to expand its global footprint by establishing new offices in the Middle East. Specifically, these new hubs will be located in Riyadh, the capital of Saudi Arabia, and Abu Dhabi, a prominent city in the United Arab Emirates. This strategic decision underscores Temasek's commitment to capitalizing on the rapidly growing economies and burgeoning investment potential across the Middle East. By setting up physical presences, Temasek aims to foster deeper engagement with local businesses and emerging industries.",
+      "advanced": "Singapore's state-owned investment company, Temasek Holdings, is poised to deepen its engagement with the Middle East by opening two new offices in key regional financial centers: Riyadh, Saudi Arabia, and Abu Dhabi, United Arab Emirates. This expansion is a calculated move to capitalize on the robust economic growth and diversification efforts underway in the Gulf Cooperation Council (GCC) region. Establishing local presences will enable Temasek to identify and pursue investment opportunities more effectively across various sectors, including energy transition, technology, digital economies, and infrastructure, ultimately aiming to enhance returns for its portfolio and forge strategic partnerships within the region."
+    },
+    "vocabulary": [
+      {
+        "word": "Expansion",
+        "zh": "擴張：意思是把規模變大、範圍變廣。就像遊戲開新地圖，讓更多人可以一起玩或做生意。"
+      },
+      {
+        "word": "Investment",
+        "zh": "投資：把錢或資源投入到某個公司、計畫或資產，希望未來能得到更多的回報或賺錢。像你買了零食公司的股票，就是希望它以後能賺更多錢。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-01",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2V0TVBUV1ZJd2szdmxYM0c0a0twRU9rakZpQ1FYWE1tTzNuV2s3dlloZkxMS240bjcxZFJUTGFJNDNBN2NRa2FyQjA0bXo1SUQxUmpqVXVDeXJTSHVUdlJuc0Y0WTFiX2otalJIb294QXJRcXVGS2FPT2pUSDJkSGdPOTJjRWJGY0tQTmdkRlVtY0M1ajNmTmU5a2diSG5TR0xBOHBaSUF4akRBQzh5c05oSlctbUdZbzdvOGhnd1VXQkE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓啟動首個美韓大投資案，但未來挑戰不少？",
+    "zhSummary": "南韓政府最近批准了與美國高達3500億美元投資協議下的第一個合作計畫，儘管外界對此計畫的實際可行性抱有疑慮。這項決定顯示了兩國深化合作的決心。",
+    "zhContent": "<p>最近有個大消息從南韓傳來！他們政府剛剛確認了一個很重要的合作計畫，這是他們跟美國之間一個超大規模投資協議下的第一個案子。這個協議的總金額高達3500億美元，是不是超級多？想像一下，這可是要花在很多未來發展的項目上呢。</p><p>說到這個「投資協議」，其實就是美國和南韓約好，要一起在某些特定領域投入大量的資金和資源，像是高科技產業或能源轉型等，目的是讓兩邊的經濟都能發展得更好，關係也更緊密。這次確認的計畫，就是這個大協議啟動後的「頭香」！它代表著雙方實際合作的第一步。</p><p>不過，這個被確認的計畫其實也有一點小小的挑戰。有些專家或觀察家會覺得，這個計畫在實際執行上可能會遇到一些困難，甚至對於它未來能不能真的賺錢，或者能不能順利達成預期目標，都還抱持著一點疑問。他們擔心這個計畫的可行性，意思是說，大家對它能不能成功運作下去，並不是百分之百有信心。</p><p>儘管有這些「可行性」方面的疑慮，南韓政府還是決定點頭批准了這個計畫。這顯示他們非常重視與美國之間的長期合作關係，並且認為這個計畫對於兩國未來的戰略發展非常關鍵。所以，即使眼前有些挑戰，他們還是選擇向前邁進，讓這個巨額投資協議的第一個項目正式啟動。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南韓政府為什麼會批准一個「有疑慮」的投資計畫？背後可能有哪些考量？",
+      "生活與未來：你覺得如果一個大型合作案被啟動，但有些人擔心它不一定成功，這會對參與其中的公司或政府造成什麼影響？",
+      "獨立思考提案：針對這種大規模的國際投資合作，你覺得政府在做決策時，除了經濟效益之外，還應該考慮哪些方面？"
+    ],
+    "enTitle": "South Korea Kicks Off First US Investment Project Amid Doubts",
+    "enContent": {
+      "basic": "South Korea has approved its first project under a $350 billion investment deal with the US, despite some concerns about whether the project will be successful.",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "pact",
+        "zh": "協議／協定：指兩個或更多國家或團體之間達成的正式約定或協議，通常是為了共同的目的或利益而合作。"
+      },
+      {
+        "word": "viability",
+        "zh": "可行性／成功可能性：指一個計畫、項目或想法在實際執行上能否成功、持續運作，或是能不能帶來好結果的潛力。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-01",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3paUTZVYm9BWEp0aE1sUmdtUkJPd3pHOUxGaWdMdldGeU50VTdSam1UNk16ZGN2N3MtWXUtTEtCTTg0dXhYZ01aN042Zkg1NF9DYW9QbnA3aFZBYUVOTGJlWUxPM2p4eEVYOFExd2htYUR0d25JVFByMWF4VmF1Qkxuek42azJFUlZtYWRFWUtyRG9QakJ4UVl5bXIzMUhGQTNGZk5rN1psQ3ZxWGJ0M0xBRzd6NE5VQmdHcWlaX3FsODNlNmJDeHBlZFQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞的「核」動力，又要啟動了嗎？",
+    "zhSummary": "東南亞各國因經濟成長及氣候變遷壓力，重新將核能列入能源發展考量，並積極評估包括小型模組化反應爐在內的新技術，尋求穩定且環保的電力來源。",
+    "zhContent": "<p>嗨，各位讀者！大家有沒有發現，最近「電」的話題特別多呢？隨著東南亞地區經濟快速成長，工廠和家庭的用電需求越來越大。為了滿足這些需求，同時也要兼顧環境保護，許多東南亞國家政府開始重新思考能源策略。在尋找穩定又環保的發電方式時，一個曾經備受爭議的選項——「核能」，現在又重新回到了他們的能源議程上。</p><p>從菲律賓、印尼、越南、泰國到馬來西亞，這些國家正積極評估核能的可行性。菲律賓正在考慮重啟一座已完工卻從未啟用的核電廠。印尼和越南則研究興建新的核能設施。其中，國際上熱烈討論的「小型模組化反應爐」（SMR）特別引人注目。SMR體積較小、建造成本可能較低，且在安全設計上更為進步，被視為未來核能發展的重要方向。</p><p>為什麼東南亞各國會再次考慮核能呢？主要原因有三：首先是「能源穩定性」。核能電廠能二十四小時不間斷提供大量電力，不像太陽能或風力會受天氣影響。其次是「環境保護」。核能發電幾乎不排放溫室氣體，有助於達成全球減碳目標。最後，國際化石燃料價格波動劇烈，讓核能這種長期運作成本相對穩定的發電方式，變得更具吸引力。</p><p>儘管核能前景看好，但在東南亞地區的發展仍處於初步階段。目前，各國仍在進行嚴謹的評估，包括所需的龐大投資、安全管理措施，以及核廢料處理等複雜問題。雖然離大規模動工還有一段距離，但核能確實已成為東南亞各國能源策略中一個重要選擇。預計在未來幾年內，我們將會看到更多關於核能的具體政策與建設計畫。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Southeast Asia Reconsiders Nuclear Power for Energy Needs",
+    "enContent": {
+      "basic": "Southeast Asian countries are looking at nuclear power again. They need more electricity because their economies are growing fast. Nuclear power can provide a lot of energy without making greenhouse gases. Countries like the Philippines, Indonesia, and Vietnam are thinking about building new nuclear plants or using old ones. They are also interested in new, smaller nuclear reactors.",
+      "intermediate": "Driven by rapid economic growth and the urgent need for sustainable energy solutions, Southeast Asian nations are actively re-evaluating nuclear power. This resurgence of interest stems from the desire for stable, low-carbon electricity generation that can support expanding industrial sectors and urban populations. Several countries, including the Philippines, Indonesia, Vietnam, and Thailand, are either exploring the revival of existing nuclear facilities or investigating the development of new ones, with a particular focus on advanced Small Modular Reactors (SMRs) due to their their enhanced safety features and scalability.",
+      "advanced": "The re-emergence of nuclear power on Southeast Asia's energy agenda is a strategic response to the dual imperatives of robust economic development and ambitious climate change mitigation targets. Facing escalating energy demand and volatile global fossil fuel markets, nations such as the Philippines, Indonesia, Vietnam, Thailand, and Malaysia are undertaking comprehensive feasibility studies for nuclear energy integration. A key driver of this renewed interest is the advent of Small Modular Reactor (SMR) technology, which offers advantages in terms of construction lead times, capital efficiency, and inherent safety characteristics, positioning nuclear as a viable, low-carbon baseload power source crucial for regional energy security and decarbonization efforts."
+    },
+    "vocabulary": [
+      {
+        "word": "Nuclear Power",
+        "zh": "核能：一種發電的方式。它利用原子核分裂時釋放的巨大能量來產生熱，這些熱會把水煮沸變成水蒸氣，再推動渦輪機來發電。好處是發電量大且幾乎不排放溫室氣體，但蓋電廠很貴、時間長，而且有核廢料和安全問題需要處理。"
+      },
+      {
+        "word": "Small Modular Reactors (SMRs)",
+        "zh": "小型模組化反應爐：一種比較新的核能反應爐技術。它的體積比傳統核電廠的反應爐小很多，可以像積木一樣在工廠做好再運到現場組裝。好處是建造成本可能比較低、工期比較短，而且安全設計通常更先進，被認為是未來核能發展的潛力選項。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-01",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXUzMXZOVlJnbm4tcnpKZ0laZF93LU1xcjdlck42UHpnZ1YyWlYwbjVMUnBwZXlFNGpfZm9DMkVBQm80QlJMSXBzb3hGeDZEOW1fQy1UUWxqSzY3XzdnTGhpSzZUSHVZMU94TW45NUFQeUVHNURoWl9tbnpFMEgtSVQ1bDI0aHFXLUJPZFk1ZFDSAZABQVVfeXFMTTcxOU56QzVIVGw5dGNQMW5RbXhXY2RscEFLZjlqTjNMS0tYOE5RcncyekgtWTFMMUJOTS1VV0ZTY05VeUFMZG96dFlJUkhRNGFrbzdETE1OakE5M2FyYy1wWF9HSi1kbTZzN19fRko4dUg3a3VsXzNCTnZRNUhtVFRQUWpZeGhsdXBWanZ5dHdN?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "大洋洲七人制橄欖球賽取消，薩摩亞隊超不開心！",
+    "zhSummary": "一項在太平洋地區備受期待的橄欖球錦標賽——「大洋洲七人制橄欖球錦標賽」宣布取消，讓薩摩亞的橄欖球協會（Lakapi Samoa）感到非常失望，因為這對他們爭取國際積分和奧運資格是個沉重打擊。",
+    "zhContent": "<p>最近，太平洋地區一項備受期待的橄欖球賽事讓不少人感到失望。那就是原定要舉辦的「大洋洲七人制橄欖球錦標賽」突然宣布取消了！這個消息一出，特別是來自薩摩亞的「拉卡皮薩摩亞」（Lakapi Samoa，也就是薩摩亞橄欖球協會）更是感到非常不開心。這場錦標賽對太平洋地區的橄欖球隊來說非常重要，每年都吸引許多年輕選手參與，也是展現實力的好機會。</p><p>據了解，這次錦標賽會被取消，主要是因為目前疫情的不確定性，以及各國之間旅行限制帶來的種種挑戰。主辦單位「大洋洲橄欖球協會」在衡量了所有風險後，認為繼續舉辦比賽可能會讓參賽選手和工作人員的健康安全受到威脅，因此做出了這個艱難的決定。這也意味著，許多原本準備許久的隊伍，包括薩摩亞隊，他們的努力和期待都因此落空了。</p><p>拉卡皮薩摩亞對於這個取消決定表達了強烈的不滿。他們表示，球隊為了這次比賽付出了大量的訓練時間和資源，選手們也期盼著能在國際舞台上證明自己。對他們來說，這不僅僅是一場比賽，更是獲得國際積分和奧運資格的重要機會。他們認為，主辦單位或許可以考慮其他的替代方案，而不是直接取消，讓他們的選手失去寶貴的參賽經驗。</p><p>儘管拉卡皮薩摩亞表達了他們的失望，但大洋洲橄欖球協會最終還是維持了取消錦標賽的決定。這表示在短期內，太平洋地區的七人制橄欖球隊將無法透過這項賽事進行交流與競爭。對於薩摩亞隊和其他參賽隊伍來說，接下來他們可能需要尋找其他方式來保持訓練狀態，並尋求未來的比賽機會，以彌補這次錦標賽取消的遺憾。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，薩摩亞橄欖球協會（Lakapi Samoa）為什麼會對大洋洲七人制橄欖球錦標賽的取消感到不滿？",
+      "生活與未來：你覺得這個改變會對相關的橄欖球隊伍和選手造成什麼實際影響？他們可能會面臨哪些挑戰？",
+      "獨立思考提案：如果由你來決定，在考慮到安全和比賽公平性的前提下，你會如何處理這場錦標賽的舉辦問題？有沒有除了取消以外的其他做法？"
+    ],
+    "enTitle": "Oceania Sevens Rugby Tournament Cancelled, Lakapi Samoa Unhappy",
+    "enContent": {
+      "basic": "The Oceania Sevens rugby tournament has been cancelled. Lakapi Samoa, the rugby union from Samoa, is very unhappy about this. This event is important for rugby teams in the Pacific region. It was cancelled because of travel problems and safety worries due to the pandemic. Samoa's team had trained hard and saw this as a chance for points and Olympic qualification. The organizers, Oceania Rugby, decided to cancel for safety reasons, meaning teams like Samoa will miss out on playing.",
+      "intermediate": "The much-anticipated Oceania Sevens rugby tournament has been called off, causing significant disappointment, especially for Lakapi Samoa (Samoa Rugby Union). This championship is crucial for rugby teams in the Pacific, offering valuable competition and a platform for players. The cancellation stems from ongoing pandemic uncertainties and travel restrictions, leading Oceania Rugby to prioritize the health and safety of participants. Lakapi Samoa expressed strong dissatisfaction, highlighting their team's extensive preparation and the lost opportunity for international points and Olympic qualification, suggesting that alternative solutions should have been explored.",
+      "advanced": "The cancellation of the Oceania Sevens rugby tournament has elicited considerable discontent, particularly from Lakapi Samoa. This flagship regional championship is instrumental for Pacific rugby teams, providing a vital pathway for player development, competition, and international standing. The decision by Oceania Rugby was necessitated by persistent global health uncertainties and complex travel restrictions, with the primary objective of safeguarding participant well-being. Lakapi Samoa articulated profound disappointment, emphasizing the substantial investment in training and resources, as well as the forfeiture of critical opportunities for world ranking points and Olympic qualification. They contend that a more proactive exploration of alternative formats or solutions should have been considered, rather than an outright cancellation."
+    },
+    "vocabulary": [
+      {
+        "word": "Cancellation",
+        "zh": "取消：意思是原本計畫好的活動、比賽或約定，現在決定不舉行了。"
+      },
+      {
+        "word": "Tournament",
+        "zh": "錦標賽：指的是一場大型的體育比賽，通常有很多隊伍或選手參加，爭奪冠軍或名次。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-01",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnVUR1VRWUFnSWlKdDVqTjItcEFuRTk4X0s2U1A2RWJIZ2pmb1BoV0hoQndwN0QxNXRBOUhndHdmZHN0NmJLOHR6c25UZ2psYmdYRDg4bkpUN2dEc20tMm1rZDQ0bV9LTVpMSkU3a0lIUXNCaWE1cUZ1Nkc5VmZyaVF3WmQyR0RJaHZWUzBBQlk4dnpYQktFRWlsLVU?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "兩大強國領袖碰面 川普預告「大事將發生」",
     "zhSummary": "美國前總統川普與中國國家主席習近平進行了一次會談，川普表示這次會面成果豐碩，並預告未來會有「重大事情」發生，引起各界關注。",
     "zhContent": "<p>最近，一則來自國際媒體的消息引起了大家的好奇。美國前總統唐納·川普（Donald Trump）在一次公開發言中提到，他與中國國家主席習近平進行了一場「富有成效」的會晤。這兩位在全球舞台上舉足輕重的領導人，他們之間的任何互動，都自然會吸引全世界的目光。川普更進一步透露，這次會談後，「重大事情」即將發生，這句話讓許多人都在猜測，接下來究竟會有什麼變化。</p><p>根據中央社CNA的報導，川普明確指出這次會面是成功的，用「富有成效」來形容雙方的交流，表示彼此之間肯定有深入的討論。雖然新聞標題沒有詳細說明這次會晤的具體時間、地點，或兩人究竟談了哪些細節，但從川普的語氣中可以感受到，這場高層會談的氛圍是積極正面的。這類國家元首級別的對話，通常會觸及許多重要的國際議題，例如貿易、經濟合作、甚至全球和平等。</p><p>世界兩大經濟體——美國和中國的領導人會面，一直以來都被視為國際關係中的一件大事。他們的決定和態度，往往能影響全球的政治和經濟走向。川普在會後表達的這番話，暗示著兩國關係可能正處於一個關鍵時刻。當一位前總統在公開場合預告將有「重大事情」發生時，通常代表著某些政策上的調整、新的合作協議，或者是一些對世界格局可能產生影響的變動。各國都在密切觀察，等待更進一步的消息。</p><p>目前，關於川普提到的這些「重大事情」究竟是什麼，新聞報導中並沒有給出具體答案。我們只知道，這次會晤已經完成，而川普的聲明為未來留下了一個懸念。隨著時間的推移，這些他所預告的「重大事情」，最終將會以實際行動或官方宣布的形式浮出水面。這場受到高度關注的會談，讓國際社會對美中兩國的未來關係充滿期待。</p>",
@@ -9832,111 +10287,6 @@
     "date": "2026-09-01",
     "sourceName": "公視新聞網PNN",
     "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94V0p6R2lleTY1TVZkNmU5c0VXT2swUkRON0lpeVZHLTh1LXBjZVBFRmxoUF9qMGdKVllKR0YxQXlaTnRrc2RtdDgtU1Y0OU0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "光州雙年展遇「改名門」：台灣展覽被迫隱身？",
-    "zhSummary": "在南韓光州雙年展上，台灣原本計劃設置的「台灣館」名稱，遭到主辦單位要求更改。這起事件再次凸顯台灣在國際文化場合中，常因名稱問題而面臨的挑戰。",
-    "zhContent": "<p>最近在韓國舉行的「光州雙年展」成為了藝術界討論的焦點，但這次討論的不是藝術作品本身，而是一場關於「名字」的風波。原本，台灣受邀要在這個大型藝術展中設立一個專屬的空間，計畫取名為「台灣館」，象徵台灣的藝術與文化，但在展覽開始前，卻傳出這個名字被主辦單位要求更改。</p><p>這項改名要求讓許多人感到意外與不滿。主辦的光州雙年展基金會向台灣方面提出，希望將「台灣館」改為其他較為中性的稱呼，例如「台灣藝術家展覽」或「來自台灣的特別展區」等。這讓台灣的策展團隊面臨兩難，一方面希望順利參展讓作品能被看見，另一方面又覺得這樣的要求，讓台灣在國際場合上無法以明確的身份出現。</p><p>事實上，這並不是台灣在國際活動中第一次遇到這種名稱上的挑戰。在許多國際性的會議、體育賽事或文化展覽中，台灣常常因為複雜的政治因素，很難以「台灣」這個名稱直接參與。這也讓一些評論認為，這次光州雙年展的事件，是不是一種新的「光州模式」詛咒，讓藝術交流也難逃政治干預。</p><p>最終，為了能夠順利展出，避免台灣藝術家的努力白費，台灣的團隊不得不接受了主辦單位提出的改名要求。雖然作品最終還是得以在雙年展上亮相，但這個過程也讓大家看到了，即使在藝術無國界的理想下，台灣在國際舞台上，有時候仍得面臨被迫「隱身」的現實，用別的名稱替代，才能順利參與。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，光州雙年展的主辦單位為什麼不讓台灣使用「台灣館」這個名稱呢？新聞內容有說明背後的原因嗎？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？（例如：對參展的藝術家、對台灣、對其他國家參與國際活動的模式）",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？（例如：如果你是主辦單位，你會怎麼做？如果你是台灣代表，你會怎麼回應？）"
-    ],
-    "enTitle": "Gwangju Biennale 'Name Change' Incident: Taiwan's Pavilion Forced to Remain Hidden?",
-    "enContent": {
-      "basic": "Taiwan's plan to use the name 'Taiwan Pavilion' at the Gwangju Biennale in South Korea faced a problem. The organizers asked them to change the name. This shows that Taiwan often has trouble using its own name at international events.",
-      "intermediate": "The Gwangju Biennale, a big art show in South Korea, recently faced a controversy. Taiwan wanted to set up a special exhibition area called the 'Taiwan Pavilion.' However, the organizers requested that Taiwan change this name. This kind of name dispute often happens to Taiwan in international cultural events.",
-      "advanced": "The recent Gwangju Biennale in South Korea drew attention for an unexpected reason: a 'name change' incident involving Taiwan. Taiwan's proposed 'Taiwan Pavilion' was reportedly rejected by the organizers, who requested an alternative, more neutral designation. This incident highlights a recurring challenge for Taiwan in international cultural and political arenas, where its nomenclature often becomes a point of contention due to complex geopolitical sensitivities."
-    },
-    "vocabulary": [
-      {
-        "word": "Biennale",
-        "zh": "雙年展 (發音是「幣-嗯-那-累」) 是一個每兩年舉辦一次的大型藝術或文化展覽。它通常會邀請世界各地的藝術家來展示他們最新的作品，有點像藝術界的奧運會，不過是每兩年辦一次。"
-      },
-      {
-        "word": "Pavilion",
-        "zh": "館 (發音是「怕-維-連」) 通常指在大型展覽中，代表某個國家、地區或主題的獨立展示空間或建築。想像一下，在一個很大的展覽場地裡，台灣有一個專屬的小屋子或區域來展示自己的東西，那個小屋子就是一個「館」。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-08-31",
-    "sourceName": "轉角國際udn Global",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMDE4UURRSWh6MjhkbG0xc0RrZjlvX0pQLXktNmE1cmVZWmpBUmxieVJITUc0SmozTWpXWlltc1lvWkh5ZEJaZDZYT3VnZUJDZ0hBSDMySzhqSjR4aWVwMUZKQldod9IBa0FVX3lxTE5jZlU5ODBmZm5aam4tX2RtWXlTQmlZZGJ6WVFnXzBqTzAxNEw5OXB0NlBwZWUzV0ptaGloTDNfYVdFMTljWHRhd1N2SjhoMGpMcFZPT3N4WE9pbXlpVk1pLUZubFRLU1ZqSXJj?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞廉航迎復甦，但高油價陰影難散",
-    "zhSummary": "東南亞的廉價航空公司在疫情後終於盼到旅客回籠，營收開始好轉，但居高不下的燃油價格，卻持續啃蝕著他們的利潤，讓復甦之路走得小心翼翼。",
-    "zhContent": "<p>嘿！有在關注旅行的朋友們，最近東南亞的廉價航空公司傳來了一些消息。經過前幾年大家都不能出國的低潮，現在旅遊市場終於開始回溫，航空公司也看到了一線曙光。航班變多了，搭飛機的人也漸漸回到疫情前的水準。這對本來就靠著提供實惠票價，讓大家輕鬆飛的廉價航空來說，本該是個好消息。</p><p>確實，隨著各國邊境陸續開放，許多年輕人和家庭都迫不及待地規劃出國旅行。東南亞地區的廉價航空，像是亞航（AirAsia）、獅子航空（Lion Air）等，都明顯感受到旅客需求的大幅增加，飛機的載客率也提升了不少。他們紛紛恢復了舊有航線，甚至規劃開設新的飛航路線，期待能抓住這波旅遊熱潮。</p><p>然而，在看起來一片大好的情景下，這些航空公司卻還是有個難解的煩惱——那就是燃油價格。飛機的燃油費是航空公司營運成本中非常大的一部分，當國際油價持續高漲，他們每天要付出的燃油費用也跟著水漲船高。這使得儘管有更多的旅客搭機，這些航空公司賺到的錢卻很可能被高昂的油價給吃掉一大截。</p><p>因此，就算旅客量和航班數都逐步恢復，東南亞的廉價航空公司依然必須小心翼翼地營運。他們得努力在提供大家負擔得起的機票，以及應付驚人的燃油成本之間找到平衡點。這道「燃油傷痕」就像一道揮之不去的陰影，讓他們的復甦之路充滿了挑戰，也讓他們在擴大營運或提升服務時，不得不更加審慎。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，東南亞的廉價航空公司遇到了什麼「一好一壞」的狀況？",
-      "生活與未來：你覺得這個高油價的問題，會對我們未來搭飛機旅行的票價，造成什麼實際影響？",
-      "獨立思考提案：針對航空公司面臨的高油價問題，你覺得他們除了調整票價，還有沒有其他方式可以應對，同時又能維持「廉價航空」的特色？"
-    ],
-    "enTitle": "Southeast Asia's Budget Airlines Eye Recovery, But Fuel Scars Linger",
-    "enContent": {
-      "basic": "Budget airlines in Southeast Asia are seeing more people flying again. After the pandemic, many borders opened, and people want to travel. Airlines like AirAsia are adding more flights and getting more passengers. This is good news for them. But there's a problem: jet fuel prices are very high. Fuel is a big cost for airlines. So, even with more passengers, high fuel prices are eating into their money. This makes it hard for them to make a lot of profit. They have to be careful about how much they spend.",
-      "intermediate": "Southeast Asian budget airlines are finally experiencing a recovery in travel demand after the global pandemic. With borders reopening, there's been a surge in passengers, leading to increased flight frequencies and higher load factors for carriers such as AirAsia and Lion Air. While this signals a positive turn for their revenues, a significant challenge persists: elevated jet fuel prices. Fuel represents a substantial portion of an airline's operating expenses. Consequently, despite a rise in customer traffic, high fuel costs are notably impacting their profitability, making their path to full recovery quite cautious.",
-      "advanced": "Southeast Asia's budget airline sector is navigating a complex recovery landscape, marked by a palpable resurgence in passenger demand post-pandemic. The lifting of travel restrictions has catalyzed a strong rebound in air travel, with regional low-cost carriers like AirAsia and Lion Air reporting increased flight volumes and improved load factors. This operational uptick is a welcome development for their top-line revenues. However, the gains are being significantly constrained by the persistent burden of elevated jet fuel prices. As fuel constitutes a primary operational expenditure, these soaring costs are exerting considerable pressure on profit margins, compelling airlines to adopt a cautious strategy as they strive for sustainable recovery amidst an otherwise optimistic market outlook."
-    },
-    "vocabulary": [
-      {
-        "word": "Recovery",
-        "zh": "復甦 (fùsū)：指從一個不好的狀態（像是生病、經濟不景氣）慢慢恢復到正常或更好的狀況。"
-      },
-      {
-        "word": "Linger",
-        "zh": "持續 (chíxù) / 逗留 (dòuliú)：指某件事物或感覺沒有馬上消失，而是在那裡停留了一段時間，就像是高油價的影響一直存在一樣。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-08-31",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTEtcC10STI2OFlVT3B6TnZTX0pueU5DSnNhRmlWTjRoa1M0NHZIcVJ0a3ZtVEU1WEp5ZWpkNFEtZXJHc1pfUHdfbEMtbVhpVDJQME5SR0tORk04NDQ4VElSOFNQNlNCOEozckxuV0hvam1SOGpxSlpfVE02Njh3NURQSDZJdHIxYldtZmRRV3J4VF9xQVFfMkE3T2pLOVU4VGFkVk9ZczA2NVAtV3hlNzM3VE1KZUdJ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "澳洲總理準備赴太平洋島國會議，氣氛緊張恐爆衝突？",
-    "zhSummary": "澳洲總理艾班尼斯即將出席太平洋島國論壇，但媒體預警此次會議可能會有意見衝突，聚焦在氣候變遷與區域安全等議題上，各國立場不同，讓會議充滿不確定性。",
-    "zhContent": "<p>澳洲總理艾班尼斯（Anthony Albanese）這週將前往斐濟，參加一個非常重要的區域會議——太平洋島國論壇。不過，在他出發前，澳洲的媒體就已經預告，這次會議的氣氛可能會有點緊張，甚至有可能會發生一些「意見衝突」或激烈的討論。大家都在關注，澳洲總理這次的太平洋之旅，會不會變成一場挑戰重重的任務。</p><p>這次會議之所以會受到這麼大的關注，是因為太平洋島國地區最近面臨許多複雜的問題。例如，有些國家對於氣候變遷的威脅感到特別擔憂，希望澳洲能給予更多支持。同時，區域的安全合作也是一個敏感的話題，因為不同國家對於要跟誰合作、怎麼合作，可能會有不同的看法和優先順序。這些議題都可能讓各國領導人在討論時產生摩擦。</p><p>太平洋島國論壇是一個讓所有成員國領導人齊聚一堂，共同討論區域未來的重要平台。理論上，這是為了促進區域團結與合作，但實際上，每個國家都有自己的考量和利益。澳洲身為地區內較大的國家，有時其提出的建議或立場，可能不完全符合所有小型島國的期待。這使得會議上的協商過程，需要非常細膩的外交手腕來平衡各方需求。</p><p>艾班尼斯總理在出發前也表達了他對這次會議的重視，希望能夠透過對話，加強與太平洋島國的夥伴關係。然而，媒體的預警也讓這次會議蒙上了一層不確定性。接下來的幾天，全球的目光都將聚焦在斐濟，看這些區域領袖們將如何應對這些潛在的挑戰，並為太平洋地區的未來找出共同的方向。這次會議的最終結果，將會對整個區域產生重要的影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，澳洲總理艾班尼斯面臨的「意見衝突」可能來自哪些議題？",
-      "生活與未來：你覺得這次會議若真的發生嚴重衝突，會對太平洋島國和澳洲帶來哪些實際的影響？",
-      "獨立思考提案：如果由你來主持這樣的國際會議，你會如何設計議程或討論方式，來盡量減少衝突並促進共識？"
-    ],
-    "enTitle": "Tension Ahead: Australian PM Faces Potential 'Bust-Up' at Pacific Islands Meeting",
-    "enContent": {
-      "basic": "Australian Prime Minister Anthony Albanese is going to a big meeting with leaders from Pacific Island countries. News reports say there might be some arguments or disagreements there. Everyone is watching to see what happens.",
-      "intermediate": "Australian Prime Minister Anthony Albanese is preparing for a significant Pacific Islands Forum meeting in Fiji this week. Media outlets have suggested that he could encounter serious disagreements or a \"bust-up\" during the discussions. The meeting is expected to address complex regional issues like climate change and security partnerships, where different nations may hold varying perspectives.",
-      "advanced": "Australian Prime Minister Anthony Albanese is poised to attend the crucial Pacific Islands Forum (PIF) in Fiji this week, with Australian media predicting potential for significant diplomatic friction. The summit is anticipated to be contentious, given the complex geopolitical landscape of the Pacific, where issues such as climate change resilience, regional security alignments, and economic development often reveal divergent national interests. Albanese's delegation will likely navigate sensitive discussions aiming to strengthen partnerships amidst differing priorities among member states."
-    },
-    "vocabulary": [
-      {
-        "word": "bust-up",
-        "zh": "衝突、爭吵。想像一下，兩個好朋友因為意見不合，差點要吵起來的狀況，這就是「bust-up」。"
-      },
-      {
-        "word": "diplomacy",
-        "zh": "外交。指國家之間溝通、協商的過程，目的是解決問題或建立關係，就像國家之間為了達成共識而說話的藝術。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-08-31",
-    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY05pMGhobmVybk16WTdaSThIZ0tnbldzcU81ZnoxMERmNDc3TVZHREZxT0NjRUhxSTZQaG9USEtUbU9Qd1dwM3NJVGlObEZ2UXpFSlJnRzh6TTBadldYaWk1aGN6QjB2OEFGeF94dUxPLWpoQmRHUHdDSGsxWDBpeTVVOVd6S0F5VjJyNUswU3ZiRG9pekVlR1pfcTI2dlFYNFFTcmYxQmZodw?oc=5",
     "isFeatured": false
   }
 ]
