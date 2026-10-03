@@ -1,5 +1,250 @@
 [
   {
+    "zhTitle": "美軍大變身！裁將領、蓋新營區，40年來頭一遭！",
+    "zhSummary": "美國軍方最近宣布一系列重大調整，包含裁減兩成高階將領，以及規劃建造一座四十多年來第一座全新的大型軍事基地，預計能容納兩萬五千名軍人。",
+    "zhContent": "<p>你或許聽過美國軍隊，但他們最近正準備進行一場超級大的改造！美國軍方的高層，赫格塞斯先生，最近對外宣布了一項非常驚人的消息：他們計畫要大刀闊斧地改變軍隊的運作方式。這次的調整，不只是小修小補，而是要從組織結構到硬體設施，進行全面性的升級與變化。這讓許多人對美國軍隊未來的發展，感到非常好奇。</p><p>首先，赫格塞斯先生提到，他們將會裁掉兩成的將領。將領就像是軍隊裡的高階主管，負責指揮和管理。裁掉兩成，代表每五位將領中，就有一位將會離開現職，這可不是個小數目，顯示了美軍高層對於效率提升的決心。再來，他們還宣布將要興建一座全新的大型軍事基地。這座新基地可不簡單，它將是美國在過去四十多年來，第一次動工建造的全新營區，而且規模非常龐大，預計能夠容納多達兩萬五千名的軍人進駐。</p><p>這些改革可以說是對美軍的一次全面性檢視與重塑。裁減將領的舉動，通常是為了讓指揮鏈更精簡、效率更高，減少不必要的層級。而建造新的大型基地，則代表了美軍對於未來戰略佈局有新的考量，希望透過更現代化的設施，來提升軍隊的作戰能力與應變速度，確保他們能應付各種挑戰。</p><p>目前，赫格塞斯先生的這項宣布，標誌著美軍未來幾年將朝著這個方向努力。這些計畫從發布的那一刻起，就已經明確了未來的方向。裁員將領和新基地的建造工作將逐步展開，而這一切都指向美國軍隊即將迎來一個嶄新的時代。至於這些具體變化會怎麼實行，以及何時能看到成果，外界都正密切關注中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，美國軍方計畫做出哪兩項重大改變？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Military's Big Shake-Up: Cutting Generals, Building First New Base in 40 Years!",
+    "enContent": {
+      "basic": "The US military is changing a lot! A person named Hagels said they will cut 20% of their top leaders, called generals. They will also build a new big army place. This new place is the first one they built in over 40 years. It can hold 25,000 soldiers. This is a very big change for the army.",
+      "intermediate": "The United States military announced some major transformations recently. According to Mr. Hagels, they plan to reduce their number of high-ranking officers, known as generals, by twenty percent. In addition to this leadership change, the military will construct a completely new base. This is a significant development because it marks the first time in over four decades that the US military has built a new facility of this kind. This large new base will be able to accommodate as many as 25,000 military personnel.",
+      "advanced": "Significant structural reforms are on the horizon for the United States military, as announced by officials including Mr. Hagels. A key component of these proposed changes involves a substantial reduction in the senior leadership, specifically a twenty percent cut in the number of generals. Concurrently, the military plans to embark on the construction of a entirely new large-scale base. This initiative is particularly noteworthy as it represents the first such major infrastructure project in over forty years and is designed to house approximately 25,000 service members. These sweeping adjustments are expected to streamline operations and modernize capabilities."
+    },
+    "vocabulary": [
+      {
+        "word": "General",
+        "zh": "將領 (jiānglǐng)：軍隊中職位很高，負責指揮大部隊或很多士兵的長官，就像學校裡的校長或公司的大老闆一樣。"
+      },
+      {
+        "word": "Base",
+        "zh": "基地 (jīdì)：軍隊用來駐紮、訓練、存放武器或進行作戰準備的場所，就像軍人的家或工作地點。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-03",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FdHJUNG95eHVNVGh6SUNOQktoajNGX3lhc2QtSjFmek56dDZXYW94YzZLQlJmMkxEcEhSekZzeXJ1TzVVd3Q5d3BsRUJMTWVpLV80Z05NMWwzV00?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "南極的秘密實驗：科學家為稀有植物打造「迷你溫室」，七年後揭曉！",
+    "zhSummary": "科學家在南極洲唯一的兩種開花植物——南極髮草和南極珍珠草上，放置了迷你溫室長達七年，旨在研究在氣候變暖的環境下，這些植物會如何生長與變化。",
+    "zhContent": "<p>想像一下，在地球最冰冷的地方——南極洲，竟然有植物可以開花！沒錯，南極洲雖然冰天雪地，卻有兩種特別的開花植物：一種是「南極髮草」，另一種叫「南極珍珠草」。牠們是這片冰封大陸上，唯一能長出花的綠色生命。最近，英國廣播公司《野生動物雜誌》報導了一項特別的實驗：科學家們為了觀察這些獨特的植物，竟然在牠們身上蓋起了小小的「溫室」，而且這個實驗長達七年之久。</p><p>這些「迷你溫室」可不是普通的玩具屋。科學家們設計的溫室，就像小小的透明罩子，巧妙地放置在南極髮草和南極珍珠草的上方。這些溫室能夠捕捉陽光，讓裡面的溫度比周圍的冰冷空氣稍微高一些，創造出一個局部溫暖的微氣候。在長達七年的時間裡，研究人員定期監測溫室裡的植物，仔細記錄牠們的生長速度、健康狀況，以及是否有任何變化。這項長期觀察，就是希望能了解這些植物在不同溫度下的真實反應。</p><p>那麼，科學家為什麼要大費周章地做這個實驗呢？原因其實很簡單，卻也很重要。我們都知道，地球的氣候正在一點一點地變暖，連遙遠的南極洲也受到了影響。科學家們想知道，這些本來就生活在極端寒冷環境、非常耐寒的植物，當周圍的溫度稍微升高時，牠們會發生什麼事？是會長得更好、更快，還是會遇到新的挑戰？透過迷你溫室，他們就能模擬出未來氣候變暖時，這些植物可能面對的生存環境。</p><p>經過七年的漫長等待和仔細觀察，這項實驗終於有了一些結果。科學家們發現，在這些迷你溫室裡，受到溫暖保護的南極髮草和南極珍珠草，生長速度確實比沒有溫室保護的植物要快。牠們不僅長得更茂盛，數量也增加了不少。這項研究結果，讓科學家們對這些南極獨有的植物，在面對氣候變遷時的反應有了更具體的了解。這整個實驗的過程和發現，都已經被詳細記錄下來，成為一份重要的科學資料。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Antarctica's Tiny Greenhouses: Scientists' 7-Year Plant Experiment Unveiled",
+    "enContent": {
+      "basic": "Imagine tiny houses for plants in the coldest place on Earth – Antarctica! Scientists put small greenhouses over Antarctica's only two flowering plants for 7 years. These plants are called Antarctic hair grass and Antarctic pearlwort. The greenhouses helped keep the plants a bit warmer. Scientists watched how the plants grew. They wanted to learn what happens to these tough plants if Antarctica gets warmer because of climate change. After 7 years, they found that the plants inside the greenhouses grew faster and bigger. This helps us understand how climate change might affect these special plants.",
+      "intermediate": "In a surprising long-term study, scientists deployed miniature greenhouses over Antarctica's two native flowering plant species, Antarctic hair grass (Deschampsia antarctica) and Antarctic pearlwort (Colobanthus quitensis), for a duration of seven years. These specially designed transparent structures created a localized microclimate, effectively raising the temperature around the plants compared to the harsh ambient Antarctic conditions. The primary objective of this experiment was to observe and document the growth and physiological responses of these unique plants to slightly elevated temperatures, simulating the effects of a warming climate. Upon conclusion, the researchers noted accelerated growth rates and increased biomass in the plants protected by the greenhouses, providing valuable insights into the resilience and vulnerability of Antarctic flora in the face of environmental change.",
+      "advanced": "A compelling seven-year ecological study conducted in Antarctica has unveiled critical insights into the resilience of its endemic flora under simulated climate change conditions. Researchers strategically placed miniature, transparent greenhouses over the continent's two solitary flowering plant species, Deschampsia antarctica (Antarctic hair grass) and Colobanthus quitensis (Antarctic pearlwort). These micro-environments were engineered to maintain a slightly elevated temperature compared to the prevailing frigid Antarctic atmosphere, effectively creating a controlled simulation of future warming scenarios. The overarching goal was to meticulously monitor the long-term phenological and growth responses of these highly adapted plants. The findings, meticulously documented over the extended period, indicated a notable acceleration in growth rates and a significant increase in the biomass of the greenhouse-protected specimens. This data provides invaluable empirical evidence regarding the adaptive capacity and potential shifts in population dynamics of Antarctic flowering plants in response to anthropogenic climate warming, highlighting the immediate and discernible impacts on even the most extreme ecosystems."
+    },
+    "vocabulary": [
+      {
+        "word": "Greenhouse",
+        "zh": "溫室 (一種用透明材料建造的房子，可以讓陽光照進來並把熱氣留在裡面，幫助植物在比較冷的地方也能好好長大。)"
+      },
+      {
+        "word": "Antarctica",
+        "zh": "南極洲 (地球最南邊、被冰雪覆蓋的一大片大陸，天氣非常寒冷，只有少數特別的動物和植物能在那裡生存。)"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-03",
+    "sourceName": "BBC Wildlife Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNko0WFM5X05vYWpwd1dDcUhWS1RtM0tCNENFOW15Um0yazVkcmxrY3dfVTNTeDljeUVOTkIwSnB0WmFmbHRxWXhwSERwT0NiSEY2cDNaZDJERWNTVFRPQ2t0MVpKM2Qta2VLNmdkUzVicTFpT29VSzF6Vnh2OVNfOFVwM2JTM2NvOEE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "川普預計任命「AI沙皇」：誰將主導未來科技走向？",
+    "zhSummary": "美國前總統川普計畫指派傑伊·克雷頓擔任國家級的「人工智慧沙皇」，負責統籌美國AI發展的政策與方向。這項任命凸顯了各國政府對人工智慧快速進步的高度關注，以及管理其影響的必要性。",
+    "zhContent": "<p>哎，同學們，你們有沒有聽說過「人工智慧沙皇」這個稱號啊？是不是聽起來超酷的？最近，根據國際知名新聞社路透社（Reuters）的報導，美國前總統川普（Donald Trump）可能打算指派一位名叫傑伊·克雷頓（Jay Clayton）的人，來擔任這個聽起來很厲害的「人工智慧沙皇」。這個頭銜，其實就像是國家層級的「人工智慧總管」，負責為整個國家的AI發展和應用制定規則、方向。</p><p>傑伊·克雷頓這個名字，對很多人來說可能有點陌生，但他可不是普通人喔！報導指出，他被點名擔任這個關鍵的職位，顯示出美國政府對於人工智慧的重視程度越來越高。隨著AI技術在我們生活中無處不在，從手機的智慧助理到各種自動化系統，我們越來越需要有人來規劃這些技術的發展方向，確保它能造福社會，同時也能管理好可能出現的各種問題。</p><p>為什麼會需要這樣一個專門的「人工智慧總管」呢？這是因為人工智慧的發展速度實在太快了。它涉及的層面非常廣，包括怎麼保護大家的個人隱私、如何避免AI產生偏見、以及怎樣鼓勵新的AI技術創新等等。一個專門的AI主管，就能夠統籌這些複雜的議題，確保國家在人工智慧領域保持領先，並且讓相關的法規和政策能跟上技術的腳步。</p><p>這項任命目前還在「預期」階段，也就是說，這是一個可能的計畫，但還沒有正式宣布。一旦傑伊·克雷頓真的接下這個職位，他將會面臨許多重要的挑戰和任務。他的工作會影響到美國未來人工智慧的發展方向，包括如何與其他國家合作或競爭，以及如何平衡創新和風險等等。我們將持續關注這項發展，看看這位「AI沙皇」未來將如何引導人工智慧的世界。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Trump Expected to Name Jay Clayton as AI Czar: Who Will Lead the Future of Technology?",
+    "enContent": {
+      "basic": "Former US President Donald Trump is expected to name Jay Clayton as the country's \"AI czar,\" a top official for artificial intelligence policy. This move shows how important governments see AI. Clayton will work on rules and guidelines for how AI grows and is used. This is still a plan, and the official announcement is awaited.",
+      "intermediate": "Reuters reports that former President Donald Trump intends to appoint Jay Clayton as the \"AI czar\" for the United States. This role signifies a high-level government position responsible for overseeing and directing the nation's artificial intelligence strategy and regulations. The appointment of a dedicated AI leader highlights the rapid advancements in AI technology and the increasing need for governments to establish comprehensive frameworks for its development, ethical use, and impact on society.",
+      "advanced": "According to Reuters, former U.S. President Donald Trump is anticipated to designate Jay Clayton as the nation's \"AI czar.\" This prospective appointment underscores a growing recognition among governments of the strategic imperative to establish dedicated leadership for artificial intelligence policy. The \"AI czar\" would likely be tasked with formulating and implementing national strategies to manage the rapid evolution of AI, addressing critical areas such as innovation, ethical guidelines, data privacy, and global competitiveness. While the appointment remains in the \"expected\" phase, its formalization would signal a significant governmental step towards more structured oversight of AI's societal integration and future trajectory."
+    },
+    "vocabulary": [
+      {
+        "word": "czar",
+        "zh": "沙皇 (shā huáng)。在新聞裡，它不是指俄國以前的皇帝，而是比喻一個在特定領域擁有極大權力、負責做重要決定的人。就像是「AI總管」或「AI最高負責人」。"
+      },
+      {
+        "word": "Artificial Intelligence (AI)",
+        "zh": "人工智慧 (rén gōng zhì huì)。這是一種讓機器可以模仿人類學習、思考和解決問題的技術。像 Siri、語音助手或是推薦你看什麼影片的演算法，都跟AI有關。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-03",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1YtcTVTVVkxcjFJU2xzeXBjNlBrbDBveDJKa0taREVldjdkTWlVeFJXRHEzbE5lM1ZEaFVoTVRKMWNKQjRwRlZ5OTc2anRMNkhPMGVtSk5MdUR5ZWxNVzgyUXNNbTMtSDZtR0NWRkVBZlNDOUR1a0txd0wzLXJ0Mm1Gb0pVQk5qeU1jdE1nakdUQmw3c2REOGtaM3k?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國就業市場變冷了？選前一個月，找工作變得有點挑戰！",
+    "zhSummary": "美國在總統大選前一個月，新的工作機會變少了，失業的人也稍微增加了。這個經濟狀況可能讓大家更關心接下來的投票結果。",
+    "zhContent": "<p>最近，從美國傳來一則跟工作有關的消息。知名新聞社AP報導說，美國現在要找到新工作，似乎不像之前那麼容易了，而且失業的人數也稍微多了一些。這個變化發生在一個很特別的時間點，那就是距離美國人民要去投票選總統，只剩下一個月的時間。</p><p>所謂「找工作變慢了」，指的是美國企業在最近這段時間，新聘請的員工數量比之前減少了。這就像是學校園遊會，原本每個攤位都需要很多人幫忙，但現在可能只要少一點點的人力就夠了。而「失業率稍微升高」，代表的是雖然只是一小部分的增加，但確實有更多的人現在正在找工作，卻還沒有找到。這些數據顯示了美國的整體經濟活動似乎在某些方面放慢了腳步。</p><p>經濟的表現，向來是每個國家都很重視的事情。當大家覺得工作好找、薪水不錯時，通常會對未來比較有信心。反過來說，如果經濟數據顯示情況有點緊繃，大家可能就會開始擔心生活開銷，或是存錢的問題。尤其在大選前夕，經濟狀況的好壞，往往會是選民決定要把票投給誰的一個重要考量因素。候選人常常會針對經濟議題提出自己的看法和解決方案。</p><p>根據AP新聞的報導，目前美國的就業市場就是呈現這樣的狀況：新工作機會變少，失業率微幅上升，而這一切都緊接著重要的全國大選而來。這份報告客觀地呈現了美國當前的經濟面貌，也讓大家可以觀察在選舉之前，這個議題會如何被討論。新聞就是這樣，把發生的事情告訴大家，讓我們了解現在的實際情況。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Job Market Slows Ahead of Elections",
+    "enContent": {
+      "basic": "The news from AP says that it's getting harder to find new jobs in the US, and more people are out of work. This is happening right before Americans vote for their president.",
+      "intermediate": "According to AP News, the US job market is slowing down, with fewer new jobs being created and a slight increase in unemployment. This economic shift is noted just a month before the presidential elections, making it a key topic for voters.",
+      "advanced": "AP News reports a notable deceleration in US hiring activity and a marginal uptick in the unemployment rate. This economic development occurs approximately one month prior to the presidential elections, positioning economic performance as a critical determinant in voter sentiment and political discourse."
+    },
+    "vocabulary": [
+      {
+        "word": "Hiring",
+        "zh": "聘僱 / 招募員工。意思就是公司或老闆請人來工作、發薪水給你。當報導說「Hiring slows」，就是指公司請人的速度變慢了。"
+      },
+      {
+        "word": "Unemployment",
+        "zh": "失業。意思就是目前沒有工作，但正在積極尋找工作的人所佔的比例。當「Unemployment ticks higher」，就是失業的人數稍微增加了。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-03",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "德國政壇震盪！梅爾茨支持度大跌，CDU失利左右夾擊",
+    "zhSummary": "德國主要政黨「基督教民主聯盟」（CDU）在最近的選舉中表現不佳，導致其領導人弗里德里希·梅爾茨（Friedrich Merz）的個人支持度大幅下降。",
+    "zhContent": "<p>最近在德國政治圈傳來一個大消息！領導德國最大政黨之一「基督教民主聯盟」（簡稱CDU）的黨主席弗里德里希·梅爾茨（Friedrich Merz），他的支持度突然間大跳水，讓不少人跌破眼鏡。這個變化主要跟CDU黨在近期幾場選舉中的表現有關，他們沒有贏得預期的成果。</p><p>所謂的「大跳水」並不是指他真的從高處跳下來，而是一種形容，表示他的受歡迎程度或者說民眾對他的支持大幅度減少。根據媒體報導，CDU在最近的德國地方或邦級選舉中，選票流失了不少，一部分選票跑到了更右邊的政黨，另一部分則被更左邊的政黨搶走了。這代表CDU沒能在中間路線上穩住陣腳，兩頭都受挫。</p><p>基督教民主聯盟是德國一個歷史悠久且非常有影響力的主要政黨，過去曾多次執政。梅爾茨作為現任黨主席，肩負著帶領黨派發展的重要責任。這次選舉的失利，反映出選民們可能對現狀或CDU提出的政策有不同的看法，或是尋求其他政治選項。當一個政黨的表現不如預期時，大眾對其領導人的信心自然會受到影響。</p><p>因此，由於CDU在這些關鍵選舉中的失利，導致黨主席梅爾茨的個人支持度明顯下滑。這顯示了在民主選舉中，選民的選擇直接影響著政治人物的聲望與地位。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Germany's Political Shake-Up: Merz's Support Plummets After CDU's Electoral Setbacks",
+    "enContent": {
+      "basic": "Big news from Germany! Friedrich Merz, the head of a major political party called the Christian Democratic Union (CDU), has lost a lot of public support. This happened because his party didn't do well in recent elections. Many people voted for other parties instead of the CDU. Some voted for parties on the right, and some for parties on the left. When a party loses votes, people often lose trust in its leader. So, Merz's support went down a lot after these election losses.",
+      "intermediate": "A significant shift is happening in German politics. Friedrich Merz, who leads the Christian Democratic Union (CDU), a major party, has seen a sharp drop in his popularity. This decline directly follows the CDU's poor performance in recent German elections. Voters moved away from the CDU, giving their support to both right-leaning and left-leaning political groups. This indicates that the CDU failed to hold its ground in the political center. As a result of these electoral setbacks, public confidence in Merz, as the party's leader, has naturally decreased.",
+      "advanced": "Political dynamics in Germany are undergoing a notable transformation, with Friedrich Merz, leader of the Christian Democratic Union (CDU), experiencing a substantial decline in public support. This downturn is directly attributable to the CDU's recent electoral losses, where the party ceded ground to political entities across the ideological spectrum, specifically to both right-wing and left-wing factions. These outcomes signal a weakening of the CDU's traditional centrist appeal among the electorate. Consequently, the diminished electoral performance has led to a significant erosion of Merz's standing and public confidence as the party's figurehead."
+    },
+    "vocabulary": [
+      {
+        "word": "plunges",
+        "zh": "「大跌」或「暴跌」。想像一下你把一個東西從很高的地方丟下去，它會快速往下掉。這個字就是用來形容支持度、價格或數字「快速、大幅度下降」的意思。"
+      },
+      {
+        "word": "support",
+        "zh": "「支持」或「支持度」。意思是人們對某個人、某個想法或某個團體的贊同和鼓勵。在這裡是指民眾對某位政治人物的信任和認同程度。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-03",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclpNa21kNm5TSWVaQkxIUjFHSU0xTDdGOWJIVDZUVlROQ3JVSnpYV3U3MzlPaHVEeU9PTW5WNkZTbXVvb0s1VzNzMElYNjUwNldGQnA0bWVRQkR5SG5fSTlmdk9KVXpLcUlPZ25ScDJaZlJQNDBrWGU3M0dzaGdlbEZmSG9HNmRlRzFKQXVpV1VuM1JYdEtBM1hkbUwtX0VDMndSb0p3SkVkejM2Q2RUS0ZpaVZiZ9IBuwFBVV95cUxPa0ZURmtfSWlGbVZicnIxNXpjdVhTUTRLQWM5enJCS3d0bmx4NVNEV0ZIUTh0VlVrOHRtcmQxbktTdHFKNTM2MUdlN3c4RUtBNWVudHp3cGEwdm9QMVV2UXRmY3gydzY0ckhoZ1YzZUFVcGJHUmtvYUNncTZTandkUWdELXZyUGtMWDZZZ01FemUwVlVmZFhwR2xuSzdXdDVDZUM3bGItUGFZR1RfcjRBRUFJR3QyYmtScEw0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「白人」難民？川普政府曾將南非白人農場主推上難民政策焦點",
+    "zhSummary": "美國前總統川普在任時期，曾特別點名南非的白人農場主面臨「大規模土地徵收」與「迫害」，指示政府探討如何協助他們，讓這群人意外成為美國難民政策中受到高度關注的群體。",
+    "zhContent": "<p>你曾想過，難民政策會跟特定族群的膚色有關係嗎？在幾年前，美國前總統川普執政的時候，就發生過一件很有趣、也很具爭議性的事情。當時，川普政府公開表示，他們正在密切關注南非白人農場主的情況。原因是川普認為這些白人農場主在南非面臨嚴重的土地徵收問題，而且還可能遭受暴力迫害，因此應該將他們納入美國的難民政策考量，希望提供協助。</p><p>這項關注起於川普在社群媒體上的一則貼文。他表示，美國國務卿曾被要求研究南非的「大規模土地徵收」以及「農場主被謀殺」等議題。在川普的指示下，美國國土安全部也開始探討，是否能加速處理部分南非白人的移民或難民申請，讓他們有機會進入美國。這使得南非的白人，尤其是農場主，意外地成為當時美國難民政策中一個被特別點名、高度關注的群體，引起國際社會廣泛討論。</p><p>那麼，為什麼川普政府會這樣做呢？這背後其實牽扯到南非一個複雜的歷史議題。南非在過去實行過種族隔離政策，少數白人長期佔有大部分土地。為了糾正歷史上的不平等，南非政府當時確實正在推動「無償土地徵收」的修法，希望將土地重新分配給黑人，但這項政策也引發了外界對當地白人權益的擔憂。川普政府便是以此為由，將南非白人農場主的問題拉到國際關注的焦點上。</p><p>然而，這項指示和言論最終並未演變成具體的、針對南非白人的大規模難民接收計畫。儘管川普政府的公開表態一度讓南非白人成為媒體討論的焦點，但美國官方並沒有因此大幅改變既有的難民審核程序或標準，也沒有提供特別的專屬通道。隨著川普卸任，這項關於「白人難民」的特別關注，也漸漸從美國的政策討論中淡出，回歸到普遍的難民政策框架下。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，川普政府特別關注南非白人農場主的原因是什麼？這個「關注」最終帶來了什麼具體結果？",
+      "生活與未來：你覺得如果一個國家在難民政策上特別針對某個族群，會對世界造成什麼實際影響？",
+      "獨立思考提案：針對難民政策，你覺得怎麼樣的考量會是比較公平和完整的？可以提出一個你的想法。"
+    ],
+    "enTitle": "White South Africans Became the Face of Trump's Refugee Policy",
+    "enContent": {
+      "basic": "Former U.S. President Trump's administration once highlighted white South African farmers. Trump claimed these farmers faced severe land seizures and persecution. He directed his government to explore ways to help them. This made white South Africans a key focus of U.S. refugee policy discussions during his term. The situation was part of South Africa's land reform efforts to correct historical inequalities. However, this special attention did not lead to a large-scale, specific refugee program. After Trump left office, this focus faded from U.S. policy debates.",
+      "intermediate": "During his presidency, Donald Trump's administration brought significant attention to the plight of white South African farmers, whom he alleged were experiencing 'large-scale land seizures' and 'persecution.' Following Trump's public statements and a directive to his Secretary of State, the U.S. Department of Homeland Security was tasked with examining accelerated immigration or refugee applications for some white South Africans. This move positioned them as a prominent group within the broader U.S. refugee policy discussions, sparking international debate. The context for this concern was South Africa's historical land ownership inequalities and proposed land expropriation without compensation policies. Ultimately, while this rhetoric garnered media attention, it did not result in a new, distinct refugee program specifically for white South Africans, and the focus dissipated post-presidency.",
+      "advanced": "The Trump administration, under former U.S. President Donald Trump, conspicuously elevated the issue of white South African farmers, framing them as a group enduring 'large-scale land seizures' and 'persecution.' This emphasis stemmed from Trump's social media pronouncements and subsequent directives to his Secretary of State to investigate the matter. Consequently, the Department of Homeland Security was instructed to explore expedited pathways for immigration or refugee status for some white South Africans, positioning this demographic as a salient feature of U.S. refugee policy dialogues. This highly contentious focus was set against the backdrop of South Africa's complex history of apartheid and ongoing land reform initiatives aimed at redressing historical injustices. Despite the significant rhetorical focus and international scrutiny, these discussions did not culminate in the establishment of a dedicated, large-scale refugee program for white South Africans, and the particular emphasis waned following the change in U.S. presidential administrations."
+    },
+    "vocabulary": [
+      {
+        "word": "Refugee",
+        "zh": "難民 (nánmín)：因為戰爭、天災、迫害或各種危險，不得不離開自己家園，尋求安全和新生活的人。"
+      },
+      {
+        "word": "Expropriation",
+        "zh": "徵收 (zhēngshōu)：政府因為公共利益的需要，依法將人民的土地或財產買下來或收歸國有，有時不一定會給予補償。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-03",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JZ2VkWDNFV05MeV9KeTVBSGNmQmhYQV85Zkw5Z2RmLUFhZmtoQ2VnX0czYy1kMEswV2tzNmtnUnJoUjF2MFlHN2J5UjBnNm03?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI來攪局？東南亞選舉面臨新挑戰",
+    "zhSummary": "近年AI科技快速發展，有專家警告，在東南亞地區，人工智慧可能被用來製造假消息和「深偽」影片，增加選舉風險，影響民主過程的公正性。",
+    "zhContent": "<p>近年來，人工智慧（AI）科技發展得超快，幾乎每天都有新應用。不過，有外國媒體報導，許多專家和分析師開始擔心，在東南亞地區，AI可能會讓選舉變得更複雜，甚至增加一些意想不到的風險。他們特別提到，AI有能力製造出非常逼真的假消息和假影片，這對民主選舉的公平性是一個很大的考驗。</p><p>這些專家指出，過去的假新聞可能只是文字或簡單的圖片，但現在有了AI，情況完全不同了。AI可以輕易地生成「深偽」（deepfake）影片或音檔，讓大家難以分辨真假。想像一下，有人可以用AI做出政治人物從未說過或做過的事情，然後在網路快速傳播。這種逼真程度，讓選民很難判斷哪些是真實資訊，哪些是被刻意製造出來的謊言。</p><p>為什麼東南亞地區特別讓人擔心呢？這是因為這個區域的國家，有些才剛開始習慣數位生活，而且許多選舉本身就帶有複雜的社會和政治背景。AI這種能大規模、快速傳播假訊息的工具，很可能會被用來操縱民意、製造社會分裂，甚至影響選舉結果。這讓當地的政府和公民團體都非常警惕，開始思考如何應對這種新挑戰。</p><p>目前，關於如何有效防範AI在選舉中帶來的風險，各界都還在努力尋找解決方案。有的國家和組織正在研究新的技術，希望能辨識出AI生成的內容；也有的則在推廣媒體識讀教育，希望青少年和民眾能學會分辨真假資訊。這是一個全球性的新問題，特別是在東南亞地區，大家正密切關注並積極討論，希望能在科技快速進步的同時，保護選舉的公正性。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "AI's Potential to Boost Election Risks in Southeast Asia",
+    "enContent": {
+      "basic": "AI might make elections in Southeast Asia harder. Experts worry it can create fake news and videos, which could trick voters. This is a new problem for countries there.",
+      "intermediate": "The rapid growth of Artificial Intelligence is raising concerns about its impact on elections across Southeast Asia. Experts suggest AI's ability to generate realistic deepfakes and spread misinformation quickly could significantly increase electoral risks, potentially manipulating public opinion and undermining democratic processes in a region where many countries are still building their digital defenses.",
+      "advanced": "Artificial Intelligence (AI) poses a substantial new threat to electoral integrity across Southeast Asia, according to recent analyses. The Guardian reported on expert warnings that AI's advanced capabilities, particularly in generating sophisticated deepfake audio and visual content, could be leveraged to disseminate highly convincing disinformation at scale. This development is particularly concerning for nations in Southeast Asia, many of which possess nascent digital infrastructures and sensitive political landscapes, making them susceptible to foreign or domestic actors intent on manipulating public sentiment and potentially swaying election outcomes through AI-driven campaigns."
+    },
+    "vocabulary": [
+      {
+        "word": "Artificial Intelligence (AI)",
+        "zh": "人工智慧 (AI) - 一種讓電腦學習、思考和解決問題的科技，就像人類一樣聰明。"
+      },
+      {
+        "word": "Deepfake",
+        "zh": "深偽 (Deepfake) - 利用人工智慧技術，將一個人的臉或聲音「合成」到另一個影片或音檔中，讓人很難分辨真假。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-03",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmJwc2ZJUnZJT3NJZmZidU5IWndpWVl0eTFucTFIV1FOTHJSd0dFdE5PcDlFbVRrNnJkSF9zZTFqQmFDYWhfU1JGc0NiamMxdHF5R2t0TnU4ZGhnVmZxaDdZZmgycHhWSTB5VVhZbzFnVlZMMExXMHpOc3FHTnItcWtQNFRPQlVPdUN5NHpnWldNYXQzUjQzeDhJMXFucDVxWkJZZmJCdmhfS0ZwQXNjdQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "國際新動向：美軍將領裁減與巨額投資台灣",
     "zhSummary": "美國軍方近期宣布重大改革，將裁減兩成將領並興建40年來首座新基地；同時，科技大廠美光也加碼投資台灣，總計將投入逾1.6兆台幣擴建四大基地，兩大新聞事件展現全球不同領域的變化。",
     "zhContent": "<p>最近國際上發生了兩件大事，都受到全球高度關注。其中一項是美國軍方宣布進行一項重大變革，這將會影響到軍隊的組織結構，甚至會打造新的基地。同時，另一則消息則來自科技業，知名記憶體製造商美光科技決定大手筆加碼投資台灣，計畫擴大他們在台灣的生產基地。這兩項新聞分別展現了國際政治與經濟領域的重要新動向。</p><p>關於美國軍方的大變革，發言人赫格塞斯（Heggses）已經對外宣布了具體內容。他們將大幅裁減軍隊中的高階將領，預計會有高達兩成的將領職位被取消。此外，美軍還將著手興建一座全新的軍事基地，這可是40年來首度有新的基地落成。這座新基地規模龐大，預計將能容納大約2.5萬名軍人，顯示出美國軍方對未來戰略部署的調整與規劃。</p><p>與此同時，在台灣方面，全球半導體產業的巨頭美光科技（Micron）也傳來了振奮人心的消息。美光決定持續增加在台灣的投資金額，截至目前為止，他們在台灣累積的總投資額已經超過了新台幣1.6兆元。為了配合這項龐大的投資計畫，美光在台灣的四大主要生產基地也將同步進行擴廠工程，以提升產能並強化其在全球市場的競爭力。</p><p>總結來看，美國軍方正朝向精簡高層人力和強化基礎建設的方向邁進，這些改革將塑造其未來的軍事力量。而美光科技則透過在台灣的大規模投資與擴廠，展現了對台灣半導體產業鏈的信任與長期合作的承諾。這兩大事件都明確指出了相關領域的發展與最新佈局，呈現了國際間在軍事與科技經濟上各自的重大進展。</p>",
@@ -10252,391 +10497,6 @@
     "date": "2026-09-03",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVZ3aTREQ2d0NkdHYmQ2SDE5SlR1VmQ1dHdlcXNhQXdSeDRxd2xsUzdfRWhZcWtTcnM3aE1sdDhJb1BkVFZnTV9jWU5fNmFkaENubjA5aWxhcGxXSmFwVzBDQWtUdGhOUEY5NThUTEhfWFhuM0RoQ3ltdkFGakFiY1JrVUJsdG4zYjBYemNnTE5LVXNrbFI3Q0hldjg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "彰化消防隊變身國際英雄：台灣救援隊伍接棒大任務！",
-    "zhSummary": "彰化縣消防局的特種搜救隊正式接下國際人道救援的輪值任務，成為台灣隨時準備出發支援全球災難的專業團隊。這項任務展現了他們堅實的救援能力與國際水準。",
-    "zhContent": "<p>嘿，你們知道嗎？最近有個超重要的任務交給了我們台灣的彰化縣消防局！他們正式「接棒」成為了國際人道救援任務的輪值隊伍之一。這聽起來很酷吧？簡單來說，就是未來世界上任何地方發生了像地震、海嘯這類大型災害時，如果需要國際幫忙，彰化消防局的專業救援隊伍就準備好，隨時能出發去支援受災國家，展現台灣在國際上的救援實力。</p><p>能夠承擔這樣的國際任務，可不是隨便來的。彰化縣消防局的「特種搜救隊」經過了一連串非常嚴格的訓練和考核，確保他們的技能、裝備、還有團隊合作都達到國際標準。這項輪值制度是台灣消防署為了讓各地的優秀團隊都能輪流為國際救援出力而設立的。彰化縣的團隊因為在平時的演練和實際救援中表現出色，證明他們具備了出國救災的「堅實量能」，所以才能獲得這次的重責大任。</p><p>這次由彰化縣消防局來接替這個光榮的任務，意味著他們的搜救能力、專業知識，以及面對緊急情況的應變速度，都受到了高度的肯定。這支團隊不只熟練操作各種先進的生命探測儀器、破壞器材，更具備了在語言不通、環境複雜的異地執行任務的能力。這不僅提升了彰化消防的國際視野，也讓台灣在世界地圖上，多了一個隨時能伸出援手的溫暖力量，讓世界看見台灣消防人員的專業和無私奉獻。</p><p>從現在開始，彰化縣消防局的特種搜救隊就已經正式進入了「國際人道救援任務」的待命狀態。他們隨時準備好，一旦接到國家派遣的指令，就能立刻整裝出發，帶著台灣的愛心和專業技能，前往世界上任何一個需要幫助的角落。這項任務的成功接棒，清楚地展現了彰化消防團隊隨時為國際社會服務的堅定決心和強大實力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Changhua Fire Department Joins International Humanitarian Aid Rotation, Showcasing Strong Rescue Capabilities",
-    "enContent": {
-      "basic": "Changhua's firefighters are now ready to help other countries when big disasters happen. They have special training to go anywhere in the world to save people. This shows Taiwan's strong help for international aid.",
-      "intermediate": "The Changhua County Fire Department has taken on a new role: being part of Taiwan's international humanitarian aid rotation team. This means their special search and rescue team is on standby to assist in global disasters like earthquakes or floods. Their selection highlights their rigorous training and high standards, proving their strong capability to contribute to international rescue efforts.",
-      "advanced": "The Changhua County Fire Department has officially assumed its position within the international humanitarian aid rotation system, underscoring its robust search and rescue capabilities. This designation signifies that its highly trained special rescue team is now on immediate standby, prepared to deploy globally in response to major natural disasters. This initiative not only demonstrates Changhua's exceptional operational readiness and adherence to international rescue standards but also reinforces Taiwan's commitment to global humanitarian efforts and its capacity to provide critical assistance in times of crisis."
-    },
-    "vocabulary": [
-      {
-        "word": "humanitarian",
-        "zh": "人道的 (adj.) – 這是指關心人類的幸福、減少人類痛苦的行為或精神。例如，在災難時提供食物、醫療幫助，就是很人道的行為。"
-      },
-      {
-        "word": "rotation",
-        "zh": "輪值 (n./v.) – 意思是由不同的人或團隊，依照排定的順序，輪流擔任某項職務或執行某個任務。就像學校值日生一樣，大家輪流來做。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-09-02",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SZGp1V2ZUTDhuekRCRDJ0dGVjRUFlQnNjQW94amdPY09WQVdqWU42NTliQnpmTVRONzEtR0tNd0cxdThqZHpUeXRQMDlqR0hlcU9ZdFExQzZ0WXFRSzhN?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "紐約州氣候賠償金計畫碰壁！750億美元向石油公司求償夢碎",
-    "zhSummary": "紐約州曾計畫向化石燃料生產商收取高達750億美元，作為氣候變遷造成的損害賠償金，但這項提案最終被駁回，無法實施。",
-    "zhContent": "<p>紐約州曾經提出一個大膽的想法，他們希望那些製造石油、天然氣等「化石燃料」的公司，能為氣候變遷造成的損害負責。這項計畫的目標，是要向這些大型生產商收取一筆巨額費用，用來修復地球環境因為溫室氣體排放而遭受的破壞。</p><p>根據當時的規劃，紐約州打算向這些燃料公司索賠高達750億美元。這筆龐大的資金，原本預計要用於幫助紐約州應對各種氣候變遷帶來的挑戰，比如加強防洪設施、保護海岸線、或是協助社區適應更極端的天氣模式等等。簡單來說，就是希望污染者能為他們對環境造成的影響，付出相對應的代價。</p><p>這個計畫背後的理念是，那些從化石燃料開採中獲取巨大利潤的公司，也應該承擔起一部分因氣候變遷而產生的社會成本。紐約州認為，這些公司在過去多年間不斷生產燃料，導致空氣中的溫室氣體越來越多，最終造成全球暖化，因此有責任為此付出。</p><p>不過，這項雄心勃勃的氣候賠償金計畫，最近被「駁回」了。這表示，紐約州原本希望從這些化石燃料生產商那裡收取的750億美元，目前無法實現。這項決定對紐約州來說，意味著他們在尋求資金以對抗氣候變遷的路上，必須重新思考其他的策略。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，紐約州提出計畫的目的是什麼？為什麼最終被駁回？",
-      "生活與未來：你覺得如果這個計畫成功了，對化石燃料公司和一般民眾的生活會造成什麼實際影響？",
-      "獨立思考提案：針對紐約州這個規定的失敗，你覺得還有哪些方法可以讓造成環境污染的公司，為氣候變遷的損害負責呢？"
-    ],
-    "enTitle": "New York's $75B Climate Damage Claim Against Fossil Fuel Companies Rejected",
-    "enContent": {
-      "basic": "New York State had a big plan to make companies that produce fossil fuels pay for the damage they cause to the environment. They wanted to charge these companies $75 billion. This money was meant to help New York deal with climate change problems like rising sea levels. But, this plan was recently stopped and will not happen. This means New York needs to find other ways to get money to fight climate change.",
-      "intermediate": "New York State previously sought to implement a significant plan targeting fossil fuel producers. The proposal aimed to collect $75 billion from these companies to compensate for damages caused by climate change. This substantial fund was intended to help the state address various climate-related challenges, such as strengthening infrastructure against flooding and adapting to extreme weather. However, this ambitious climate compensation plan was ultimately struck down, meaning the state will not receive the proposed funds and must explore alternative strategies to finance its climate initiatives.",
-      "advanced": "New York State initiated a comprehensive legislative effort to hold fossil fuel producers financially accountable for climate change damages, proposing a charge of $75 billion. This substantial sum was earmarked for critical climate adaptation and mitigation projects across the state, including coastal protection, resilient infrastructure development, and community climate readiness. The underlying principle asserted that corporations profiting from activities contributing significantly to greenhouse gas emissions bear a responsibility for the resultant societal and environmental costs. Nevertheless, the proposed climate compensation scheme was recently struck down, precluding New York from collecting the designated $75 billion and compelling the state to reassess its fiscal strategies for confronting climate change."
-    },
-    "vocabulary": [
-      {
-        "word": "fossil-fuel producers",
-        "zh": "化石燃料生產商：指那些製造石油、天然氣和煤炭等燃料的公司。這些燃料燃燒後會排放大量溫室氣體，造成地球暖化。"
-      },
-      {
-        "word": "struck down",
-        "zh": "駁回：指一個提議、計畫或法律，在經過審查後被官方否定或取消，不能繼續執行了。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-09-02",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3hWOXZGY2tGbEdDd1lQR1hDRW5JTHRISTdaa1RIMUxRcTM3Z09HcE50SGJfZms4dTlhc0hnWmZmWkJhQmliS25BU2Y2OEdMMlRIRnNsVlJMWWJpRmFfYzhQM3M1dndpT0ZfLTZpRXpnOHh2SEZYamdyT3BqcjlhV3VlbzV5bjlKSGNIM1hCUHpSYWpoTzFpdldfdkFLUzBVem5CRXplRlJHdWtMOW44V0EtTFU2TDVJSnc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "葉門戰火下的青春：教育分裂，未來懸而未決",
-    "zhSummary": "葉門因長期內戰導致教育系統分裂為南北兩套，使得當地青少年學生的畢業證書不被互相承認，前途陷入停滯與不確定。",
-    "zhContent": "<p>在飽受內戰摧殘的葉門，國家不僅被分裂成不同勢力控制的區域，連孩子們的教育系統也一分為二。這讓成千上萬的青少年學生陷入前途不明的困境：他們努力讀書拿到的文憑，究竟能不能被社會承認？這無疑讓他們的未來停滯不前。</p><p>想像一下，葉門北部由胡塞組織控制的學校，其課程、考試和畢業標準，與南部政府控制區截然不同。這兩套系統互不承認對方文憑。舉例來說，北部的高中畢業生，想去南部的大學就讀，其畢業證書可能不被接受，反之亦然。此外，許多教師因長期未領薪水而罷課，導致教學中斷，嚴重影響學生學習。</p><p>教育分裂的根本原因，是葉門自2014年爆發的長期內戰。戰火不僅癱瘓了國家機能，也摧毀了大量學校設施。儘管聯合國及國際組織多次嘗試協調，希望統一或至少相互承認兩邊的學歷，但這些努力至今仍未取得實質性進展。這讓學生們的未來充滿不確定性。</p><p>面對這些挑戰，許多葉門年輕人發現，即使拿到文憑，其價值仍充滿問號。他們難以跨區尋找工作或繼續升學，夢想和發展機會因此受阻。目前，葉門的教育系統依然分裂，學生的前途持續籠罩不確定中，短期內解決希望渺茫。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Yemen's Divided Schools Leave Students' Futures Uncertain",
-    "enContent": {
-      "basic": "Yemen is a country with a long war. This war has split the country and its schools into two parts. Students don't know if their school papers will be accepted. Their future plans are unclear. In the north, one group controls schools. In the south, the government controls schools. They teach different things and don't accept each other's diplomas. Teachers sometimes don't get paid and stop working. The war broke many schools. No one has fixed this problem yet. Students find it hard to go to college or find jobs.",
-      "intermediate": "Yemen's prolonged civil war has severely impacted its education system, dividing it into two distinct systems controlled by opposing factions. This division leaves thousands of young Yemeni students in a state of uncertainty, as their hard-earned diplomas may not be recognized across the divided regions. For instance, curriculum, examination standards, and graduation requirements differ significantly between the Houthi-controlled north and the internationally recognized government's southern areas. Consequently, a student from the north might find their diploma invalid when applying to a university in the south, and vice versa. Teacher salaries are often unpaid, leading to strikes and further disruption to learning. Despite efforts by the UN and other international organizations to unify the systems, no significant progress has been made, leaving students' futures in a precarious state.",
-      "advanced": "The protracted civil conflict in Yemen has bifurcated the nation's educational infrastructure, creating two disparate systems under the control of rival factions. This schism casts a long shadow over the future prospects of Yemeni youth, as the validity and recognition of their academic credentials remain ambiguous. The northern regions, governed by the Houthi movement, operate with distinct curricula, examination protocols, and graduation criteria, fundamentally differing from those implemented in the southern territories under the internationally recognized government. This divergence means that educational qualifications from one region are typically not acknowledged by the other, posing significant barriers for students seeking higher education or employment across the divide. Furthermore, widespread non-payment of teacher salaries has instigated recurrent strikes, exacerbating the disruption to academic continuity. Despite persistent mediation attempts by the United Nations and various international bodies to reconcile these disparate educational frameworks or facilitate mutual recognition of qualifications, tangible progress remains elusive. Consequently, Yemeni students face a future fraught with uncertainty, their aspirations constrained by an unresolved educational impasse."
-    },
-    "vocabulary": [
-      {
-        "word": "limbo",
-        "zh": "懸而未決的狀態。想像你被卡在一個不知道該往哪裡去的地方，什麼事情都還沒有確定下來，就是這種感覺。"
-      },
-      {
-        "word": "curriculum",
-        "zh": "課程。就是學校裡教的科目內容、教學計畫，包含了你要學什麼、怎麼學。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-09-02",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHlJRkVtN21SemxKNGhlNnh1eUdFOVJUOGpaVHZhaXR2N0p1SDIzU2g0S3FqOTFkdlp6RjJiZDZodjBNVG54dVlka1FsY3pPNXE1V3VZR3BqN3lOT3YzdWVMblBqQXdWOUZFbWJJNDBRUFNnWXE2My13TkR6V0xJMTZsMTdpWXZpMUEwSE1Kb1JwaTJZYm9MR0pVb0Y1b1FVWGY3RFV1LTJnTGs3RmfSAbMBQVVfeXFMTXlBbmwwZjhUZEdsTC1TRUkwNW1Wd2IzdEVQZUVfS2dibGlWUTVWRHVYMllWSkFVYXZoTG5xMV9TWkdyYTVuR3dpanZJZG9fbGxQRi1Ba0ZlRE5TNFpPOFFObzZSaTBVRkxiMHdQc3NkSUtSZ2I3cGl6OUowME1JVlNJaUtDemd5Vk1Ka2d4ZVRrcEZjekl6NU4tU3prUXVJMEVWY245YnhNYXRmNy1NUXRRdDg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI腦力大爆發！科技公司如何靠「超級機房」搶下超大商機？",
-    "zhSummary": "人工智慧（AI）發展越來越快，背後需要大量的「超級電腦」來運算。新聞報導指出，一家叫做 Equinix 的公司，因為找到了為這些AI超級電腦提供專屬「大本營」的機會，成功在這個價值數兆美元的AI資料中心市場中脫穎而出。",
-    "zhContent": "<p>你可能玩過AI畫圖、跟AI聊天，甚至用AI寫功課，覺得超酷對吧？但這些神奇的AI技術，其實都需要超強大的「大腦」才能運作。這個大腦可不是一台普通的電腦，而是一整棟、甚至一整個園區的大型機房，裡面塞滿了幾萬台、幾十萬台超級電腦！最近，人工智慧（AI）的發展簡直像坐上噴射機一樣，導致全世界對這種專門用來處理AI運算的「超級機房」需求暴增，整個市場的規模大到難以想像，市值高達數兆美元。</p><p>在這樣一個瘋狂成長的市場裡，有一家叫做 Equinix 的公司非常聰明。他們並沒有直接去開發AI軟體或晶片，而是選擇了另一條路：專心為這些AI公司打造和管理「資料中心」。資料中心你可以想像成一個巨型圖書館或超級資料處理廠，裡面有超多電腦伺服器、儲存設備，還有複雜的網路連線，它們日夜不停地運作，處理我們日常生活中各種數位資訊。對於AI來說，這些資料中心尤其重要，因為AI運算需要極高的處理速度、大量的儲存空間，以及不同系統之間超級快速的溝通能力。</p><p>Equinix 找到的特別之處就在於，他們不只提供這些硬體空間，更擅長處理「互連」。想像一下，不同的AI公司或開發者，可能需要用到不同的雲端服務、數據資料，甚至要跟其他公司的AI系統合作。Equinix 的資料中心就像一個超大的轉運站，讓這些來自不同地方的AI「大腦」可以快速、安全、直接地連結在一起。這樣一來，AI的開發和運行效率就能大大提升，避免了資料傳輸的延遲和瓶頸。</p><p>正因為 Equinix 提早看到了AI對這種專業資料中心和互連服務的巨大需求，並且做得非常出色，他們才能在這次AI的「淘金熱」中，穩穩地佔據一個非常重要的位置。他們不是賣鏟子的人，而是提供挖金礦的「基地」和「道路」。隨著AI技術不斷進步，對資料中心的需求只會越來越大，Equinix 也因此成為這波AI浪潮中不可或缺的幕後推手。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「資料中心」與我們日常使用的電腦有什麼不同？Equinix 公司在AI熱潮中扮演了什麼樣的角色？",
-      "生活與未來：你覺得這種專門為AI設計的「超級機房」越來越多，會對我們未來使用AI產品或服務有什麼實際影響？",
-      "獨立思考提案：如果 Equinix 的主要業務是讓不同AI系統快速互連，你認為在數據安全和隱私保護方面，可能會有哪些新的挑戰或需求？"
-    ],
-    "enTitle": "How Equinix Found Its Niche in the AI Data Center Boom",
-    "enContent": {
-      "basic": "Equinix is a company that builds special buildings called data centers. These buildings are full of powerful computers. With AI becoming popular, many companies need these special data centers to make their AI work. Equinix found a way to help AI companies connect their systems very fast inside these centers, making them a key player in the big AI market.",
-      "intermediate": "As Artificial Intelligence (AI) rapidly expands, the demand for powerful computing infrastructure, specifically data centers, has skyrocketed into a multitrillion-dollar market. Equinix has strategically positioned itself by providing specialized data centers that emphasize high-speed interconnection services. This allows various AI companies and cloud providers to seamlessly link their systems and data, which is crucial for efficient AI development and operation.",
-      "advanced": "The unprecedented surge in Artificial Intelligence (AI) development has fueled a multitrillion-dollar boom in the data center industry, requiring specialized infrastructure capable of supporting immense computational loads. Equinix has skillfully carved out a significant niche by focusing on providing highly interconnected data centers. These facilities are designed to facilitate rapid, secure, and direct peering between diverse AI systems, cloud platforms, and data sources, thereby optimizing performance and accelerating innovation within the AI ecosystem. This strategic emphasis on interconnection positions Equinix as a foundational enabler within the rapidly evolving AI landscape."
-    },
-    "vocabulary": [
-      {
-        "word": "Niche",
-        "zh": "獨特優勢 / 特別的市場地位：想像一下，一家披薩店決定只賣用特定口味起司做的披薩，而且做得特別好吃，別家店都比不上。這個「特定口味披薩」就是他們的 Niche，也就是他們找到了在市場上與眾不同、很受歡迎的獨特優勢。"
-      },
-      {
-        "word": "Data center",
-        "zh": "資料中心：你可以把它想像成一個超級巨大的電腦機房，裡面裝滿了成千上萬台像你家電腦一樣，但是更強大的「伺服器」和儲存裝置。這些機器日夜不停地運作，處理和儲存我們上網、玩遊戲、看影片、使用APP等產生的大量資訊，是網路世界的心臟。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-09-02",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFJEczUtYm8zMzZSOVJnLU5tYWRYNG9pSWlOUjBfUm0zRElHbkZ4SmVTR2MyQmw4bHhuQzZESVVqemJMSFUyaGlERlJBQW5ndFZ4bmljZVZ4TldpVFdqanVUbzJxZjNwa3B1emdjclV5aEtHbFpmbUM2bDEzNnhjQ0lwMjBKaVFkX01BS2hYc2xYX2tXNV9JZ0lHb01tNS1ETzFJ0gGoAUFVX3lxTE15bmpzdUttS09NQ2NYQ0lJRXo0TEpLd2VLVjVRdjdrZHRtbjlqalFBNFNTMXNjS2hHMzRGODVfZjZCQW1OWFFZd0V1dm1xVk91UFdmN1g4TTBKem1EWGNrS2dmdUgxOWJFTmdETV9FS0xhNEVhLWdtSENRYkJzeEFDc1VjMTE5R0sxSzNtZWlSR21QNThwekdOeFZDa1Z5anNQdGt6VzRLZQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國借錢變貴了！通膨疑慮讓利息創新高",
-    "zhSummary": "美國政府因為大家擔心物價上漲（通貨膨脹），導致他們向市場借錢時必須支付更高的利息，借貸成本達到近期的新高點。",
-    "zhContent": "<p>最近美國政府要從市場上借錢，需要付出的「利息」變得比以前貴很多，甚至達到了好一段時間以來最高的水平。這個消息讓很多人關注，因為它背後主要的原因是大家對「通貨膨脹」有著深深的疑慮。簡單來說，通貨膨脹就是指物品和服務的價格普遍上漲，導致我們手上的錢能買到的東西變少了，錢越來越不值錢。</p><p>那麼，為什麼大家擔心通貨膨脹，就會讓美國借錢的成本變高呢？這是因為當投資人把錢借給美國政府時，他們會預期未來要拿回來的錢，其購買力可能已經下降了。所以，為了補償未來錢變薄的損失，投資人就會要求政府必須支付更高的利息，他們才願意把錢借出去。這種情況下，美國政府就得花更多錢才能借到足夠的資金。</p><p>會造成這種通貨膨脹的擔憂，背後的原因可能有很多。例如，全球供應鏈的問題，導致商品運送不順暢，或是某些商品的市場需求突然變得非常大，讓價格不斷飆升。當這種物價持續上漲的壓力存在時，美國的中央銀行，也就是我們常說的「聯準會」（Federal Reserve），為了穩定物價，就可能採取行動，提高他們的基準利率。而一旦中央銀行提高利率，整個市場上的借貸成本，包括政府借錢的利息，都會跟著水漲船高。</p><p>目前來看，美國政府為了募集資金，確實正在支付近期以來最高的利息。這代表無論是政府、企業，還是你我未來要借錢，可能都需要付出更多的代價。這不僅是美國國內的一個現象，因為美國是全球最大的經濟體之一，這個狀況也可能對全球的金融市場產生一定的影響，讓大家都在緊密觀察後續的發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「通貨膨脹」和「借貸成本」，你覺得它們之間有什麼關聯？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Borrowing Costs Hit Fresh Highs Over Inflation Fears",
-    "enContent": {
-      "basic": "The United States government is now paying more to borrow money. This is because people are worried about 'inflation,' meaning prices for things are going up, and money might buy less in the future. So, when people lend money to the US, they ask for higher interest rates to make sure their money is still worth something later. This has pushed the cost of borrowing for the US to a very high level recently.",
-      "intermediate": "The cost for the US government to borrow money has recently reached a multi-year high. This situation is largely driven by market fears of 'inflation' – a general increase in prices and a fall in the purchasing value of money. Investors demand higher interest rates on loans to the government to offset the potential erosion of their money's value over time. Factors like global supply chain issues and strong consumer demand contribute to these inflation concerns.",
-      "advanced": "Amid persistent concerns over inflation, US borrowing costs have surged to their highest levels in recent memory. This phenomenon reflects investors' demand for a higher premium to compensate for the anticipated erosion of future purchasing power. Should the Federal Reserve, the US central bank, opt to raise benchmark interest rates to combat inflation, this move would further elevate borrowing costs across the economy, impacting government, corporate, and consumer lending alike. The current upward trend in US Treasury yields underscores the market's heightened sensitivity to inflationary pressures and the potential for tighter monetary policy, with global financial implications."
-    },
-    "vocabulary": [
-      {
-        "word": "Inflation",
-        "zh": "通貨膨脹：指一個國家的大部分商品和服務的價格都持續上漲，導致你手上的錢能買到的東西變少，錢變得不那麼值錢了。"
-      },
-      {
-        "word": "Borrowing costs",
-        "zh": "借貸成本：指的是你向別人借錢時，除了要還本金，還要額外支付的利息或其他費用。成本越高，代表借錢越貴。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-09-02",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yRnc3NXVUUlI3NGJFTDJRbmg3MFJJWFlqT1NpYUlZRnZSNGF3MGFFVDBWbVVDWlNmMUx2bm5TcWFCbGRmOGlOcnhkUFhFLVJnNXZkUUxMZnVEUQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "巴西市場大挑戰：Mercado Pago 逆勢擴張信用卡業務！",
-    "zhSummary": "報導指出，儘管巴西國內對消費者債務累積的擔憂日益增加，金融服務公司 Mercado Pago 仍決定不為所動，積極推動其信用卡業務的擴展。",
-    "zhContent": "<p>最近在巴西這個國家，出現了一則讓很多人都特別關注的新聞。有一家知名的金融科技公司叫做「Mercado Pago」，他們最近做了一個大膽的決定。即使現在巴西當地許多人都很擔心消費者借太多錢、累積大量債務的問題，但Mercado Pago卻選擇不被這些擔憂影響，反而更積極地發展他們的信用卡業務。</p><p>所謂的「不為所動」，指的是Mercado Pago並沒有因為外界對巴西消費者債務日益增加的憂慮而改變他們的商業策略。他們似乎對自己的方向非常有信心，決定無視這些潛在的風險，繼續推動信用卡產品。這表示，儘管大環境看似有些挑戰，Mercado Pago仍然看好擴大信用卡服務的市場潛力，並且已經啟動了相關的擴張計畫。</p><p>其實，巴西的消費者債務問題一直都是當地經濟討論的重要話題。許多人擔心，如果家庭和個人借貸過多，可能會對經濟穩定造成影響。然而，Mercado Pago在這個時候做出這樣的決定，無疑是對市場投下了一顆震撼彈。這不僅展現了他們對自家產品與服務的信心，也暗示他們可能認為現階段是抓住更多客戶的機會，或者是他們對風險有不同的評估。</p><p>因此，目前我們看到的情況就是，Mercado Pago在巴西市場的信用卡業務仍在持續擴大中，並沒有因為消費者債務的討論而停下腳步。這是一項明確的商業行動，也代表了他們在面對市場挑戰時所採取的積極策略。這則新聞就是告訴我們這些客觀事實。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，Mercado Pago 的「不為所動」具體指的是什麼？在面對巴西消費者債務問題時，他們選擇了什麼樣的應對方式？",
-      "生活與未來：你覺得如果一家公司在社會普遍擔憂某個問題時，卻選擇逆勢操作，這對他們自己、對消費者或對整個市場可能會造成什麼樣的實際影響？",
-      "獨立思考提案：如果巴西的消費者債務問題持續惡化，你覺得像 Mercado Pago 這樣的公司，除了擴展業務，還可以如何調整策略來保護自己和消費者？"
-    ],
-    "enTitle": "Mercado Pago Unfazed by Brazil Consumer Debt Worries, Expands Credit Card Business",
-    "enContent": {
-      "basic": "Mercado Pago, a financial company in Brazil, is making a big move. Even though many people are worried about consumer debt in Brazil, Mercado Pago is not letting that stop them. They are actively growing their credit card business. This means they are pushing forward with their plans to offer more credit cards to people, despite the worries about how much debt people already have. They seem confident in their decision and are not changing their plans because of these concerns.",
-      "intermediate": "Mercado Pago, a significant fintech player in Brazil, is proceeding with a bold strategy amidst growing concerns over consumer debt in the country. The company appears 'unfazed' by these economic anxieties, meaning they are not letting public or financial worries deter their business direction. Instead, they are actively expanding their credit card operations, indicating a strategic decision to capitalize on market opportunities despite the prevailing climate of caution regarding individual borrowing. This move highlights their confidence in their expansion plans, even as discussions around consumer debt continue to be a prominent topic in Brazil's economy.",
-      "advanced": "Mercado Pago, a prominent fintech entity operating within Brazil, has opted for a counter-cyclical expansion strategy for its credit card business, according to Reuters. This decision is being implemented despite an overarching environment characterized by increasing apprehension regarding consumer debt levels across the nation. The term 'unfazed' signifies the company's deliberate disregard for these prevailing economic concerns, suggesting a calculated risk assessment or a profound belief in their market position and long-term growth trajectory within the Brazilian financial landscape. This aggressive posture indicates a strategic intent to capture market share and deepen product penetration, irrespective of broader anxieties surrounding household indebtedness."
-    },
-    "vocabulary": [
-      {
-        "word": "unfazed",
-        "zh": "不為所動：指一個人或一個公司在面對困難、讓人擔心或有些混亂的情況時，卻一點也不受影響或害怕，仍然按照原來的計畫去做。"
-      },
-      {
-        "word": "consumer debt",
-        "zh": "消費者債務：指的是一般人（消費者）向銀行或其他金融機構借錢，用來買東西、支付生活開銷或服務等等，這些還沒有還清的錢就叫做債務。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-09-02",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUFFcUQ2LVhzREVmeHRpVWQtOGhMUEFpZndwM2ExSEtqVG1xZkxRZUJsaFpqcFFDVE91UzFVYnYtU0RLN1lBTWpsX2JFSEdHLTRfbFdMaVJJcHR0c0trek9yb2NTMDlDRWkxb2FiRzJqc1VleTQ3a0lQazRHbzNKUFJIcGRFaU9YYmFYZ3R2MnN2MDZHVUUwRzZ6aFpLNVZoNTJ5dk1US21Bc2c4Tmtua194NjlDMDZwRFRtZ3kwekVPUXBtTXkw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "法國突然對英國「大獻殷勤」？歐洲兩國關係大轉彎！",
-    "zhSummary": "過去因脫歐問題一度緊張的法國與英國，近期關係似乎出現大轉變。法國開始採取一系列友善姿態，被外媒形容為「愛情炸彈攻勢」，試圖修補與英國之間的關係。",
-    "zhContent": "<p>想像一下，如果你和一個朋友以前鬧過彆扭，關係有點僵，結果他突然對你超好，請你看電影、送你禮物，這是不是很像在「放愛情炸彈」呢？最近，歐洲兩大國——法國和英國的關係就出現了類似的情況。一直以來，英法兩國因為英國脫離歐盟（也就是俗稱的「脫歐」）這件事，關係一度變得有點緊張。但根據《經濟學人》雜誌的觀察，法國最近似乎正在對英國發動一場「愛情炸彈攻勢」，積極地向英國示好，讓兩國的關係有了意想不到的轉變。</p><p>究竟法國做了什麼，會被形容成「愛情炸彈」呢？其實，這指的是一系列的友善舉動和高層互動。例如，法國總統馬克宏多次邀請英國首相和其他重要官員進行會談，討論從國防合作到文化交流等各種議題。過去，這些對話可能帶著些許針鋒相對的火藥味，但現在的氛圍卻變得和緩許多。法國也舉辦了多場文化活動，強調兩國的共同歷史與文化連結，希望能透過這些方式，重新拉近兩國人民的距離，讓過去的隔閡慢慢消融。</p><p>那麼，法國為什麼會突然間這麼積極地示好呢？分析家們認為，這背後有幾個原因。首先，脫歐後的英國，雖然不再是歐盟成員，但仍然是歐洲重要的經濟體和軍事力量，法國可能意識到，在面對全球性的挑戰，例如氣候變遷、國際衝突或是經濟發展等議題時，與英國保持良好關係會更有利。其次，法國或許也希望透過這些友善的姿態，來重建兩國之間因脫歐而受損的互信基礎，讓未來的合作更加順暢。這是一種策略性的外交調整，為了兩國的長遠利益著想。</p><p>從目前來看，法國的這波「愛情攻勢」似乎已經收到了一些初步成效。雖然過去的摩擦不可能一下子完全消失，但兩國的官方對話明顯變得更加頻繁且富有成效，雙方領導人也釋放出更多合作的意願。英國方面也對法國的這些友善舉動給予了積極回應，兩國在一些國際事務上的合作也變得更加緊密。這顯示，曾經因脫歐而蒙上陰影的英法關係，正在緩慢而堅定地走向一個更加正向的新階段，不過這一切都還在發展中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "France's Charm Offensive Towards Britain: A New Era?",
-    "enContent": {
-      "basic": "France and Britain had some tough times after Brexit. But now, France is trying to be very friendly. They are inviting UK leaders and talking about many things. France is also showing off shared culture. This is like a \"love-bomb\" to make friends again. Experts think France wants to work together on big problems like climate change. Britain is also being friendly back. Their relationship is getting better.",
-      "intermediate": "Following a period of strained relations due to Brexit, France has initiated a series of diplomatic overtures towards Britain, described by The Economist as \"love-bombing.\" This includes high-level meetings between French President Macron and UK officials, discussing cooperation on defense and culture. French cultural events are also highlighting shared heritage to bridge past divides. Analysts suggest France aims to rebuild trust and foster collaboration on global challenges, recognizing Britain's ongoing importance. Initial responses from the UK have been positive, indicating a potential new phase in Anglo-French relations.",
-      "advanced": "Post-Brexit, the historically intricate relationship between France and Britain experienced significant tension. However, recent observations from The Economist indicate a concerted \"love-bombing\" campaign by France, signaling a strategic shift in its diplomatic approach towards the UK. This offensive encompasses a series of high-profile engagements, including bilateral summits between President Macron and senior British counterparts, delving into multifaceted topics from security cooperation to cultural exchange initiatives designed to rekindle shared historical narratives. Policy analysts posit that this re-engagement is driven by a pragmatic assessment of global challenges—such as climate action and international security—where a strong Anglo-French alignment remains mutually beneficial. Furthermore, it represents a deliberate effort to mend the rupture caused by the UK's departure from the EU and and to cultivate a more robust, cooperative framework. While past frictions linger, the current trajectory suggests a cautious yet tangible progression towards revitalized Anglo-French collaboration."
-    },
-    "vocabulary": [
-      {
-        "word": "Love-bombing",
-        "zh": "「愛情炸彈」攻勢，原意是用非常強烈、大量的愛意和關懷來影響對方，在這裡指的是法國政府用許多友善的姿態和行動，積極向英國示好，希望能修補兩國關係。"
-      },
-      {
-        "word": "Overture",
-        "zh": "善意表示、和解提議。意思是一個國家或政府，為了改善關係或促成合作，主動提出的友好表示或建議。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-09-02",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0sxTkhNTzVVYzlZMEpDd1pvVTBQdlFhRHZjSFRjVU93X01JRktSSEdvQ3pJaklLbHZsY0lMR09pellOdVgwWTVRZVZBRGJxdktiVUFsc2tQei1FdmN1NGI0c1hDME1PZkM0eGxJV1BYTzctcFZCMC1uajJyN3FyNQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "藥品大廠Aspen業績亮眼！全靠一款熱賣新藥Mounjaro？",
-    "zhSummary": "南非藥廠Aspen最近公布了去年的財務報告，顯示公司年度獲利大幅成長。這份好成績主要歸功於其製藥部門的傑出表現，特別是一款名為Mounjaro的藥物，為公司帶來了驚人的銷售佳績。",
-    "zhContent": "<p>最近，來自非洲的新聞指出，一家名為Aspen的大型藥品公司，他們的年度財務報告結果出爐了。根據報告，Aspen在去年賺了比以前更多的錢，整體業績表現非常亮眼。這份好消息讓許多人眼睛一亮，而這份亮眼的成績，據說主要是因為他們旗下製藥部門的表現特別出色。</p><p>進一步探究Aspen之所以能賺這麼多，最大的功臣就是一款叫做「Mounjaro」的藥物。這款藥物似乎在市場上非常受歡迎，銷售量一路飆升，替Aspen的製藥部門帶來了巨大的收入。可以想像，當一款藥品受到廣大需求時，它就能為生產或經銷它的公司創造可觀的利潤。Aspen的成功，就說明了Mounjaro這款藥品對他們的業務有多麼重要。</p><p>據了解，Aspen是一家在非洲地區有著重要地位的醫藥企業，業務範圍廣泛，涵蓋藥品製造、分銷等多個環節。Mounjaro這款藥物的熱銷，不僅鞏固了Aspen在市場上的地位，也展現了公司在藥品市場上的洞察力與營運能力。這份亮眼的獲利數字，反映了公司在過去一年中，在藥品銷售策略和市場推廣上的成功。</p><p>總體來說，Aspen公司去年的年度獲利確實大幅增加，達到了一個新的高度。這一切都清楚地指出，Mounjaro這款藥物在市場上的強勁表現，是推動Aspen製藥部門成長、進而拉抬公司整體業績的關鍵因素。公司的財報也因此為這一年畫下了一個非常成功的句點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Aspen's Annual Profit Soars as Mounjaro Boosts Pharma Unit",
-    "enContent": {
-      "basic": "Aspen, a big company from Africa that makes and sells medicines, recently announced great news. They made much more money last year than before! This good news is mainly because their part of the business that deals with making medicines did very well. A medicine called Mounjaro was a big reason for this success. People really wanted this medicine, and it sold a lot. This helped Aspen earn a lot of money and made their year very successful.",
-      "intermediate": "Aspen, a prominent pharmaceutical company based in Africa, has reported a significant increase in its annual profit. The company's latest financial statements reveal a robust performance, primarily driven by its successful pharmaceutical unit. A key contributor to this growth was the strong sales of a particular drug known as Mounjaro. This popular medication generated substantial revenue, significantly boosting Aspen's earnings. The strong demand for Mounjaro highlights its impact on the company's financial health, underscoring a very profitable year for Aspen.",
-      "advanced": "Aspen, a leading pharmaceutical entity operating from Africa, has announced a substantial surge in its annual profitability, according to its latest financial disclosures. The impressive financial results are largely attributed to the exceptional performance of its pharmaceutical division. A pivotal factor in this heightened revenue generation was the remarkable market uptake and robust sales figures of the drug Mounjaro. This medication's considerable demand effectively propelled the company's earnings, solidifying Aspen's market position and contributing significantly to an overall highly successful fiscal year."
-    },
-    "vocabulary": [
-      {
-        "word": "Profit",
-        "zh": "獲利 (huò lì) - 指公司賺到的錢，也就是收入減去成本後的淨額。當公司獲利高，代表經營得很成功。"
-      },
-      {
-        "word": "Pharmaceutical",
-        "zh": "製藥 (zhì yào) - 與藥品生產、研發或銷售相關的產業或部門。比如生產各種治病藥物的公司，就屬於製藥業。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-02",
-    "sourceName": "CNBC Africa",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUNJRzI0TUlYYWFrcndvU3p2VGZKZXg0YVd4ZXdVR3ZqNU84eGIyamc5TktaZ2x4bDdQLXZfUndPdi1JaGk2WU1OdTg5bEZBcm92R3BaVnRjYXg2YmN4UVh2SGlxZlp1MVlSZzd1SElBOWNEancyQ1g2Vl9kTjZzeEhzbXA2WDktM0ZMOWFPRzVDNXB5UEkzaTBGTlU?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "宏都拉斯前總統涉貪案落幕？法官裁定撤銷指控",
-    "zhSummary": "宏都拉斯一位法官近期決定撤銷對前總統璜·奧蘭多·葉南德茲的多項貪腐指控，這項裁定代表葉南德茲在該國不再面臨這些特定的法律訴訟。",
-    "zhContent": "<p>最近，遠在地球另一端的國家宏都拉斯，有一條新聞引起了國際關注。當地的一位法官做出了一項重要決定：撤銷了對宏都拉斯前總統璜·奧蘭多·葉南德茲的一些貪腐指控。這條消息由法國24電視台報導，表示這位曾是國家領導人的政治人物，在宏都拉斯面臨的法律問題有了新的發展。</p><p>這些被撤銷的指控主要是關於貪腐，也就是指控葉南德茲在擔任總統期間，可能不當地使用了國家資金或職權。對於一個國家來說，貪腐是一個嚴重的問題，因為它會影響到人民的信任和國家的發展。璜·奧蘭多·葉南德茲曾經是宏都拉斯的總統，從2014年一直到2022年，執掌這個中美洲國家的領導權。</p><p>值得一提的是，葉南德茲目前本人並不在宏都拉斯。他在2022年被引渡到美國，並在美國面臨與毒品販運相關的法律指控。因此，這次宏都拉斯法官的裁定，是針對他在宏都拉斯國內曾被提出的一些貪腐案件。法官的決定，是根據宏都拉斯國內的法律程序和證據審查後做出的。</p><p>這項裁定意味著，璜·奧蘭多·葉南德茲在宏都拉斯境內，目前已不再背負這些特定的貪腐指控。雖然他在美國仍有其他案件正在進行，但在自己的祖國，關於他貪腐的法律訴訟已告一段落。新聞報導就到這裡，沒有進一步說明這項決定會對宏都拉斯未來政局產生什麼影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Honduran Judge Drops Corruption Charges Against Former President",
-    "enContent": {
-      "basic": "A judge in Honduras made a big decision. They said that some charges against the country's old leader, Juan Orlando Hernández, about being corrupt are now dropped. This means he won't have to face these specific problems in Honduras anymore. He used to be the president of Honduras.",
-      "intermediate": "In Honduras, a judicial ruling has led to the dismissal of several corruption charges against former President Juan Orlando Hernández. The decision, reported by France 24, means that these particular legal proceedings in his home country have concluded. Hernández served as the president of the Central American nation from 2014 to 2022. It's important to note that he was extradited to the United States in 2022, where he faces separate drug trafficking charges.",
-      "advanced": "A Honduran judge has formally dismissed a series of corruption charges previously leveled against former President Juan Orlando Hernández, as reported by France 24. This judicial decision signifies the termination of these specific legal proceedings within Honduras concerning alleged illicit enrichment and misuse of public funds during his tenure from 2014 to 2022. While these domestic charges are now resolved, Hernández was extradited to the United States in 2022, where he is currently undergoing prosecution for charges related to international drug trafficking. The current ruling solely addresses his legal standing regarding corruption allegations in Honduras."
-    },
-    "vocabulary": [
-      {
-        "word": "Corruption",
-        "zh": "貪腐：指的是一些擁有權力的人，利用自己的職位或影響力，不誠實地去圖謀私利，例如收取賄賂或濫用公款。想像一下，如果你是班長，卻偷偷把班費拿去買自己喜歡的零食，這就是一種貪腐的行為。"
-      },
-      {
-        "word": "Judge",
-        "zh": "法官：是在法庭上負責主持正義、審理案件的專業人士。他們會聽取各方的說法和證據，然後根據法律做出判決，決定誰有罪、誰無罪，或者如何解決爭議。他們就像是比賽裡的裁判，但判的是法律案件。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-02",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmp6UGlGZTVlZEpsQzNtQlQ1MmxkaEhIdmNNUmdGUmZTYUFYWTRub2dtc3hqRkc2YmNSUlBaNEsyTUFUU0RzWVNZM0g1dTg0OWoxcFpxSlk0YlVwREFBZk5BOUFTVFRMd3Z2YldjcU9GNmg5cUllbFg2OHhFODRCTm1YNG8za3lpRTFtTjlPcEVQX0VkdlcySXM4d21fMjhTcXlPUzcyVkV2a2F5WlF6TVR0TVA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "日本2026年9月活動大爆發！44場大型展覽等你來發掘！",
-    "zhSummary": "根據MICE TIMES ONLINE報導，日本預計在2026年9月舉辦多達44場大型展覽和活動，其中包括知名的東京電玩展和日本觀光博覽會等，顯示日本在國際會展產業的活躍與吸引力。",
-    "zhContent": "<p>嘿！有在關注國際消息的同學注意啦！根據專門報導會議、獎勵旅遊、大型會議及展覽（簡稱MICE）的MICE TIMES ONLINE最新消息指出，日本在2026年9月將會非常熱鬧，因為他們預計會舉辦多達44場重量級的大型展覽和各式活動，這簡直是把整個九月排得滿滿的，光是聽到就讓人覺得很期待耶！</p><p>這份令人興奮的活動清單涵蓋了非常多元的內容，其中不少名字可能你們也聽過。像是每年都吸引全球玩家目光的「東京電玩展（Tokyo Game Show）」，絕對是遊戲迷們不能錯過的盛會。另外，還有展示最新旅遊趨勢的「日本觀光博覽會（Tourism EXPO Japan）」，對喜歡旅行或未來想投入觀光產業的同學來說，一定會有很多收穫。除此之外，還有像「AHICE Far East Asia」這類針對亞洲地區飯店投資與產業發展的專業會議，以及在北海道舉行的創意與科技節「NoMaps」等等，光是看這些活動名稱，就覺得日本那時候一定會充滿各種新奇有趣的事物。</p><p>這麼多大型活動集中在同一個月份，其實也說明了日本在全球國際會展產業中的重要地位。MICE TIMES ONLINE會特別報導，就是因為這些展覽和活動不僅能吸引大量的國際訪客，帶來觀光和商業機會，也代表日本在籌辦這些國際級盛事方面有著豐富的經驗和能力。從遊戲、旅遊到商業和科技創新，日本都準備好成為大家交流的平台，讓世界各地的專業人士和愛好者齊聚一堂。</p><p>因此，如果你對日本文化、最新科技、遊戲趨勢或是國際交流有興趣，2026年9月或許會是個非常值得關注的月份。這份報導等於是提早告訴大家，日本已經為未來的國際盛事做足了準備，這些活動的公告也讓有興趣的人可以預先規劃。接下來，大家就可以繼續留意這些活動的進一步資訊了！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Japan to Host 44 Major Exhibitions and Events in September 2026, Including Tokyo Game Show and Tourism EXPO Japan",
-    "enContent": {
-      "basic": "Japan is going to be very busy in September 2026! A report from MICE TIMES ONLINE says that Japan will have 44 big events and shows. Some of these are the Tokyo Game Show, where people see new video games, and Tourism EXPO Japan, which is about travel. This means many people will visit Japan for different reasons.",
-      "intermediate": "According to MICE TIMES ONLINE, an industry publication focused on Meetings, Incentives, Conferences, and Exhibitions (MICE), Japan is set to host an impressive 44 major exhibitions and events in September 2026. This packed schedule includes well-known events like the Tokyo Game Show, a major attraction for gaming enthusiasts, and Tourism EXPO Japan, which showcases the latest in travel and tourism. Other events cover various sectors, such as business conferences like AHICE Far East Asia and innovation festivals like NoMaps, highlighting Japan's diverse offerings.",
-      "advanced": "MICE TIMES ONLINE, a leading source for news within the Meetings, Incentives, Conferences, and Exhibitions (MICE) sector, has reported a significant surge in Japan's event calendar for September 2026. The nation is slated to host an extensive portfolio of 44 major exhibitions and events, signifying its robust recovery and prominent role as a global MICE destination. This comprehensive roster features high-profile gatherings such as the internationally acclaimed Tokyo Game Show, Tourism EXPO Japan, the hospitality-focused AHICE Far East Asia, and the creative technology festival NoMaps, underscoring Japan's capacity to attract and facilitate a wide array of international participation across diverse industries."
-    },
-    "vocabulary": [
-      {
-        "word": "Exhibition",
-        "zh": "展覽：一個活動，會把許多東西（像新產品、藝術品或最新的發明）擺出來給大家看的地方，通常會有很多人去參觀。"
-      },
-      {
-        "word": "MICE",
-        "zh": "會展產業：這四個字母代表著「會議（Meetings）、獎勵旅遊（Incentives）、大型會議（Conferences）和展覽（Exhibitions）」。簡單來說，就是關於舉辦各種商業或專業大型活動的產業。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-09-02",
-    "sourceName": "MICE TIMES ONLINE",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DREpqU2dDWG5NU0NoNDB1eFRnTldQendCbHRCejdyQzBtTHd1RkszNXBfN1gyMTdmUGt2SVFIMFdWMUtER2NPa3MyRGs5OFI3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "迪士尼線上商店要說掰掰了！澳洲、紐西蘭、東南亞部分國家粉絲將不能直接網購",
-    "zhSummary": "迪士尼公司宣布將關閉在澳洲、紐西蘭以及部分東南亞國家的官方線上商店，未來這些地區的粉絲將無法直接透過官方網站購買迪士尼商品。",
-    "zhContent": "<p>嘿！各位熱愛迪士尼的朋友們注意囉！最近有一則消息可能讓不少迪士尼迷感到有點錯愕。根據外國媒體「WDW News Today」的報導，迪士尼公司決定要關閉他們在澳洲、紐西蘭，以及部分東南亞國家的官方線上商店。這代表著，如果你住在這些地方，以後就不能直接在網路上，透過迪士尼自己的網站買到各種周邊商品了。</p><p>這項消息對於習慣在線上輕鬆購物的人來說，無疑是個不小的改變。過去，這些線上商店提供了各式各樣的迪士尼商品，從可愛的米奇米妮玩偶、公主系列的服裝、各種電影主題的收藏品，到日常用品等等，品項豐富又齊全。一旦這些網站正式停止營運，粉絲們想買到最新的迪士尼商品，就得另尋他處了。</p><p>至於迪士尼為什麼會做出這樣的決定，通常這背後是公司對於全球零售策略的調整。迪士尼可能希望將更多的資源和重心，放在與當地現有的實體商店合作，或者透過授權給其他零售商來販售他們的商品。這樣做或許能讓他們更彈性地應對不同市場的需求，只是銷售方式會和以往不同。</p><p>所以，對於澳洲、紐西蘭和部分東南亞國家的迪士尼粉絲來說，未來想買到官方授權的迪士尼商品，可能就需要轉往合作的實體商店、大型百貨公司，或是尋找其他經迪士尼授權的第三方網路平台了。這次線上商店的關閉，象徵著這些地區迪士尼商品銷售模式的一個轉變，過去習慣的官方網購方式將正式畫下句點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，迪士尼關閉線上商店的地區有哪些？這個關閉行動對當地粉絲最直接的影響是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人（例如：迪士尼公司、當地零售商、消費者）造成什麼實際影響？",
-      "獨立思考提案：針對迪士尼關閉線上商店這件事，你覺得它還有可能採取哪些不同的策略，來服務這些地區的粉絲呢？"
-    ],
-    "enTitle": "Disney Online Store Closing for Australia, New Zealand, and Select Southeast Asian Countries",
-    "enContent": {
-      "basic": "Disney is shutting down its online store in Australia, New Zealand, and some parts of Southeast Asia. This means fans in these countries won't be able to buy Disney products directly from the official Disney website anymore. They'll need to find other shops or places to get their favorite Disney items.",
-      "intermediate": "The Walt Disney Company has announced the closure of its online store operations for Australia, New Zealand, and several countries in Southeast Asia. This decision will impact how fans in these regions access and purchase official Disney merchandise, as the direct e-commerce platform will no longer be available, necessitating a shift to alternative retail channels.",
-      "advanced": "In a strategic realignment of its global retail footprint, The Walt Disney Company is discontinuing its dedicated online store services for Australia, New Zealand, and select nations within Southeast Asia. This move, as reported by WDW News Today, signifies a considerable change for consumers in these markets, who will now need to rely on authorized third-party retailers or physical stores for official Disney merchandise, reflecting an evolution in Disney's direct-to-consumer engagement model."
-    },
-    "vocabulary": [
-      {
-        "word": "online store",
-        "zh": "線上商店：就像你在網路上逛百貨公司一樣，不用出門就能買到東西的地方。"
-      },
-      {
-        "word": "merchandise",
-        "zh": "周邊商品：指和某個品牌或卡通人物相關的各種產品，像是玩具、衣服、文具等等。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-09-02",
-    "sourceName": "WDW News Today",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSVQ5RndqRFdoNXBrWXVPbFEtNUc2RGZHbHZOU0ZqV3JNRVBucVozNFJSWUE3TXB3bXlOZF90akZSQnl5NVJBcU1zMEpyMmdUMU4xZzJCbTJTOGU1RTZQS3NwVkt2TmEyaWw2cUFUQnJDUV9QWU5HTmVSS2FJandBa01UR1Q4SWJxVUhsVjk0YXZCLVlEdW4xOTIxNnh6aU9jall1VGFBSURfajkwRVJyZlY2MlhHaDFGU09xQWJOMTdXV2MtQ1RxOXRsaC0zdG91dmc?oc=5",
     "isFeatured": false
   }
 ]
