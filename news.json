@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "倫敦的台灣派對：英國朋友說台灣在世界上超重要！",
+    "zhSummary": "最近在英國倫敦，台灣的代表處舉辦了一場慶祝活動，許多英國的國會議員都來參加，並且強調台灣在國際社會上扮演的角色非常關鍵。",
+    "zhContent": "<p>最近在遙遠的英國首都倫敦，有一場充滿台灣味的特別派對熱鬧舉行！這是我們台灣在英國的「駐英國代表處」所舉辦的國慶酒會。你或許會問，什麼是「駐英國代表處」呢？簡單來說，它就像台灣在英國的辦公室和家，負責處理兩邊的交流事務。這次酒會的目的是為了慶祝台灣的生日，也就是我們的國慶日，許多來自英國的政府官員和民間好朋友都受邀來參加，大家開心地齊聚一堂，現場氣氛非常溫馨融洽。</p><p>在這場重要的聚會上，最引人注目的嘉賓是好幾位英國的國會議員。他們不只特別抽空前來和大家同樂，更在現場公開表達了一個堅定的看法：台灣在全球事務中的參與「至關重要」。這句話的意思是，他們認為台灣不論是在民主發展、科技創新還是醫療進步等許多方面，都能對國際社會帶來很大的幫助，因此台灣在全球舞台上的角色是不可或缺的。</p><p>這些英國議員們之所以會這樣發言，其實是展現了他們對台灣深厚的友誼與堅定的支持。他們認為台灣與英國在許多重要價值觀上是相通的，比如都重視民主自由。透過這次的國慶酒會，他們不僅是來送上祝福，更是想透過這個機會向全世界表明，他們非常欣賞台灣的努力與成就，也相信台灣有能力、有必要在更多的國際場合中，發出自己的聲音並貢獻力量。</p><p>整場國慶酒會就在一片熱鬧又充滿友善的氛圍中圓滿落幕了。這次活動不僅為在英國的台灣僑胞與英國友人提供了一個歡聚交流的機會，也再次凸顯了台灣在國際社會上所擁有的廣泛支持與高度關注。這場特別的倫敦派對，成功地傳達了友誼與合作的重要訊息，讓更多人看到台灣在世界上的獨特價值。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，英國議員們說台灣在國際上「至關重要」，你認為他們所指的「國際事務」可能包含哪些方面呢？",
+      "生活與未來：如果有更多國家像英國一樣公開支持台灣參與國際事務，你覺得這對台灣在國際上的地位和能見度會有什麼實際影響？",
+      "獨立思考提案：除了舉辦國慶酒會，你覺得台灣還可以透過哪些方式，讓更多國家看到我們的重要性，並支持台灣參與國際社會呢？"
+    ],
+    "enTitle": "Taiwan's London Reception: British MPs Emphasize Taiwan's Crucial Global Role",
+    "enContent": {
+      "basic": "Taiwan held a special party in London for its National Day. Many British politicians came. They said Taiwan is very important for the world. This shows good friendship between the UK and Taiwan.",
+      "intermediate": "Taiwan's Representative Office in the UK hosted a National Day reception in London. Several British Members of Parliament attended the event, emphasizing Taiwan's crucial role in international affairs. This gathering highlighted the strong friendship and shared values between the UK and Taiwan, signaling international support for Taiwan's participation on the global stage.",
+      "advanced": "The Republic of China (Taiwan) Representative Office in the United Kingdom recently held its National Day reception in London, drawing significant attendance from British Members of Parliament. During the event, these MPs underscored the critical importance of Taiwan's engagement in international affairs, citing its contributions to global democracy, technology, and health. The reception served as a diplomatic platform to reaffirm the robust bilateral relationship and solicit broader international backing for Taiwan's substantive participation in global governance."
+    },
+    "vocabulary": [
+      {
+        "word": "Reception",
+        "zh": "酒會 (jiǔ huì)。這是一種比較輕鬆、可以自由走動交流的聚會，通常會有飲料和小點心，是正式場合中常見的一種社交活動。"
+      },
+      {
+        "word": "Crucial",
+        "zh": "至關重要 (zhì guān zhòng yào)。意思是「非常重要、不可或缺」。當一件事情『至關重要』時，就代表它如果沒有做好或沒有發生，會產生很大的影響。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-08",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40R2tXdlRnWjROc1lmdTRuem1Bc2hTNXdvWnZjVzR4RVduNTFqN0Fxai1xY3lZLVlDYi14aU9kZGNINkhrdkJ3bldrc1RXQS16QlBPekFfX2dMcjVSRkdB?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "氣候高峰會發出警報：全球暖化需更強行動應對",
+    "zhSummary": "最近一場國際氣候高峰會強調，目前對抗全球暖化的努力仍不足夠，各國必須採取更果斷的措施，才能有效減緩地球溫度持續上升的趨勢。",
+    "zhContent": "<p>最近，一場重要的國際會議——氣候高峰會——剛結束。來自世界各地的國家代表、科學家和專家們齊聚一堂，共同討論如何應對日益嚴重的全球暖化問題。這次高峰會傳達了一個非常明確且急迫的訊息：要有效控制地球暖化，目前各國的行動還遠遠不夠，我們需要更強力、更堅定的措施才能達到目標。</p><p>這次會議的專家們指出，地球的平均溫度持續上升，導致全球各地出現更多極端氣候現象，例如熱浪、洪水、乾旱，以及威力更強大的颱風和颶風。這些變化不僅影響自然環境，也威脅到人類的居住安全和糧食供應。會議中強調，雖然過去許多國家都承諾要減少溫室氣體排放，但實際執行進度緩慢，導致暖化速度未能有效減緩。</p><p>所謂「更強的行動」，主要指的是各國政府和企業需要投入更多資源，加速發展並使用再生能源，例如太陽能和風力發電，取代燃燒煤炭、石油等會產生大量溫室氣體的傳統能源。同時，也呼籲要提升能源使用效率，減少工業生產和交通運輸的碳排放，並且保護森林等能吸收二氧化碳的自然資源，共同為地球降溫努力。</p><p>因此，這場氣候高峰會的最終結果，是一項對全世界發出的嚴肅警告。它表明國際社會普遍認為，應對氣候變遷的挑戰已經刻不容緩。與會者共同呼籲所有國家必須加快腳步，將減碳承諾轉化為具體的政策和行動，才能有機會阻止全球暖化繼續惡化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Climate Summit Issues Warning: Stronger Action Needed Against Global Warming",
+    "enContent": {
+      "basic": "A big meeting called the Climate Summit just finished. Leaders and experts from all over the world talked about global warming. They said that what we're doing now isn't enough. We need to do much more to stop the Earth from getting too hot.",
+      "intermediate": "An important international conference, the Climate Summit, recently concluded. Representatives, scientists, and experts gathered globally to discuss how to tackle the growing issue of global warming. The summit delivered a clear message: current efforts to combat global warming are insufficient, and stronger, more decisive actions are required.",
+      "advanced": "The recent Climate Summit, a significant international conference, has concluded with a stark warning. Global leaders, scientists, and environmental experts convened to address the escalating challenge of global warming. The primary consensus emerging from the summit is that existing international commitments and actions are inadequate, necessitating a more robust and accelerated global response to effectively mitigate climate change."
+    },
+    "vocabulary": [
+      {
+        "word": "Summit",
+        "zh": "高峰會 (gāo fēng huì) - 指的是由各國領袖或重要代表參加的最高層級會議，通常討論重要的國際議題。想像成是大家一起開個很重要的會。"
+      },
+      {
+        "word": "Global warming",
+        "zh": "全球暖化 (quán qiú nuǎn huà) - 指的是地球的平均溫度持續上升的現象。就像地球在慢慢發燒一樣，會導致很多氣候的變化。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-08",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXg1c2V3RnQ5WTFFNmtRRHcxRUx5X2Vtd08tdnY3eTVvMXBsMFd1MVpmay1Ma2xIbjNDS3Jpb3RDQ0Y0N09GT2U2N09NU3FCSGZfRGstNy1mSjRoWG5yNWV5N2xpdy0wYXAtM3VqT0EzTHBNNFkwNUZ4U0VhQUFkWDFhNThVTzJ1M0xaSXJWMzVKTHlYdWR4YVVqdGk1TjdwNkk4Ql8wZ0h5b2hiQ01hYmd6b3Z2anhqdkZqSjh6M2hoWjlOR1dzNkNvYw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "比利時學生為教育費用抗議：逾百人被捕！",
+    "zhSummary": "在比利時，學生們因不滿高昂的教育費用而發起抗議，希望政府能正視此問題。然而，這些示威最終引發警方行動，造成超過一百名學生被逮捕。",
+    "zhContent": "<p>最近在歐洲的比利時，發生了一件引起大家關注的事件。當地的大學生們因為對學習所需要的費用，也就是所謂的「教育成本」感到不滿，於是決定走上街頭，用抗議的方式表達他們的心聲。沒想到，這場學生運動最終引發了警方的介入，根據國外媒體的報導，超過一百名的學生因此被逮捕了。</p><p>學生們發起抗議，主要的原因是他們覺得，現在讀大學的學費和其他相關支出實在是太高了。這不只讓許多家庭面臨沉重的經濟壓力，也讓一些家境不那麼好的學生，可能會因為付不起錢，而失去接受高等教育的機會。他們希望透過這樣公開的行動，讓政府和社會大眾都能看到這個問題的嚴重性。</p><p>這些年輕的抗議者們認為，教育是每個人的權利，不應該因為金錢的限制，就阻礙了年輕人追求知識和實現夢想的道路。他們希望政府能夠重新檢視現行的教育收費政策，讓學費變得更合理、更容易負擔，確保所有學生，無論家裡環境如何，都有平等學習的機會，不會因為教育成本而卻步。</p><p>然而，這場在比利時校園附近展開的學生抗議活動，在進行的過程中，最終遭遇了警方的介入和處理。根據新聞報導的內容，總共有超過一百位參與了這次示威的學生，在事件中被警方逮捕。這就是目前，關於比利時學生抗議教育費用這起事件所呈現出的明確結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Over 100 Arrested in Belgium Student Protests Over Education Costs",
+    "enContent": {
+      "basic": "Students in Belgium protested because they thought education was too expensive. They walked to show their unhappiness about school fees. Police came to the protests. More than 100 students were arrested by the police. This news came from Al Jazeera.",
+      "intermediate": "Recently, students in Belgium organized protests to voice their concerns about rising education costs. They believe that high tuition fees and other school-related expenses put a heavy financial burden on families and make it harder for some to attend university. The protests escalated, leading to police intervention, and reports state that over 100 students were arrested during the demonstrations.",
+      "advanced": "Student dissatisfaction over escalating education costs culminated in significant protests across Belgium. Demonstrators, advocating for more equitable and affordable access to higher education, took to the streets to challenge existing tuition fee structures and ancillary academic expenses. The demonstrations, aimed at compelling governmental and institutional review of financial policies, ultimately resulted in law enforcement intervention, with international media outlets, including Al Jazeera, reporting over 100 arrests among the student participants."
+    },
+    "vocabulary": [
+      {
+        "word": "protest",
+        "zh": "抗議：當人們對某件事情很不滿意，想要表達自己的意見，或者希望事情有所改變時，就會一起站出來大聲說出他們的心聲，這就是抗議。"
+      },
+      {
+        "word": "arrested",
+        "zh": "逮捕：當警察認為某個人做了違法的事情，或正在做不對的事情時，就會把這個人帶回警察局，這就叫做逮捕。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-10-08",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYnByS2RLOGpRUjlBb1g3UWtsR0hOV0Uyb0R0c3RmWUtkZktSeVVkbG1rQW9kdlhrOElvWkFCX2ZwSDJtWGZVRmVWVk02SzdrOXA0a0JCQ1dmN1hfS3FCanlXWjFhc0ZLQkc3b2NvdFFBVEN0WC1vUlBZbTFpYmVGYkZlZ0pIMUE2ZW45dHFfUF8yc3VUY3BsWVRWc2Y1OGI0RlkzRDhGdHVTTXfSAbABQVVfeXFMTnEwc0xzQmFhQWtEc0ltQTBsUEMzb1doa0FYTElrUExLZF9OQ191M0FqcktISzVkVXhWaFMxd2hweXRwNVd6ZHZOVnc1VkFOUkN2bWd0ZGxwem9HQ3VlUVNtWkJXczd4R29WZk5yZTZEYjh0N0c4Q3MwQlg3R3ZzSTYxTUVzRFlVNWtxQU9MbWpDTm9HVkxIRVZJcFotODhScU82SEVYbWhzZDFuXzlZeFk?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "克拉莫爆料：升息讓股市一分為二，AI股變超級贏家？",
+    "zhSummary": "財經專家吉姆·克拉莫觀察到，因為銀行借錢的利息變高，股票市場出現了分化，其中人工智慧（AI）相關的股票表現特別突出，佔據了明顯的優勢。",
+    "zhContent": "<p>最近啊，電視上常常出現一位很有名的財經節目主持人，他叫吉姆·克拉莫（Jim Cramer）。他最近觀察到一個有趣的現象，那就是因為銀行「借錢的利息變高了」（這就是我們說的「升息」），整個股票市場好像被分成兩半了！有些公司的股票漲得很不錯，但有些卻面臨挑戰。其中，人工智慧（AI）相關的公司，看起來特別佔優勢呢。</p><p>克拉莫解釋說，當銀行借錢的利息變高，對公司來說，向銀行借錢來投資、擴大生意或是應付日常開銷，成本就會增加。想像一下，如果你要開一間夢想中的手搖飲店，如果貸款利息很高，你是不是就會更小心謹慎，甚至會打消念頭？同樣的道理，那些平常很依賴借錢來發展的公司，在利息變高後，經營起來就會比較辛苦，股價可能就沒那麼亮眼。</p><p>不過，有些公司卻好像沒什麼在怕的，特別是那些跟人工智慧有關的公司。克拉莫指出，這些AI公司之所以能佔上風，可能是因為大家覺得它們的未來發展潛力很大，就算現在利息比較高，它們的技術和產品還是很有吸引力。投資人會認為，把錢投到AI公司，就像是買了一張通往未來的門票，相對其他比較傳統或是需要大量資金周轉的公司來說，AI股看起來更值得投資。</p><p>所以囉，根據克拉莫的說法，現在的股票市場，不再是那種大家一起漲或一起跌的狀況了。它變成了一個「挑食」的市場，只青睞某些特定的類股，像是人工智慧相關的企業。而那些因為利息變高，經營壓力比較大的公司，就相對比較沒人氣。這就是目前他觀察到的市場狀況，一個因為升息而被切割成不同命運的股市。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cramer's Take: Higher Rates Split Market, AI Stocks Lead",
+    "enContent": {
+      "basic": "Jim Cramer, a TV finance expert, says that when borrowing money costs more (higher interest rates), the stock market starts to split. Some companies, especially those in Artificial Intelligence (AI), are doing very well. Others are struggling because it's harder to get cheap loans. He thinks investors are putting their money into AI companies because they see a lot of future potential there, making them look like a safer bet right now.",
+      "intermediate": "Financial commentator Jim Cramer has observed a significant divergence in the stock market, primarily driven by rising interest rates. He suggests that the increased cost of borrowing capital is creating a challenging environment for many businesses, particularly those reliant on debt for growth or operational expenses. However, he highlights that companies focused on Artificial Intelligence (AI) are demonstrating a distinct advantage, attracting investor interest due to their perceived strong future prospects and potentially less reliance on external financing, or simply higher growth potential that outweighs the cost of capital.",
+      "advanced": "Jim Cramer, a prominent figure in financial media, posits that the prevailing environment of elevated interest rates is fostering a distinct bifurcation within the stock market. His analysis indicates that the higher cost of capital is placing considerable strain on businesses with substantial debt burdens or those in phases of intensive capital expenditure. Conversely, Cramer emphasizes the robust performance and significant advantage of Artificial Intelligence (AI) sector stocks. He attributes this divergence to investor flight towards perceived growth engines and innovation, where AI companies are viewed as possessing formidable future potential, thereby commanding premium valuations despite broader economic headwinds induced by tighter monetary policy."
+    },
+    "vocabulary": [
+      {
+        "word": "Interest rates",
+        "zh": "利率：這是指銀行在借錢給別人時，會額外收取的費用。當「利率高」，就代表借錢的成本變貴了。"
+      },
+      {
+        "word": "Artificial Intelligence (AI)",
+        "zh": "人工智慧：一種讓電腦或機器可以像人類一樣學習、思考和解決問題的技術。例如，會說話的智慧助理或是自動駕駛車輛，都跟AI有關。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-08",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHVPcGYtZXRUd25OUk00bWpibDVJSlhOcF92S3JYdk1YcHU4REZOZWU5SnJPM190N2dtRlJTTmxqbno1elBzV3FJYjUwaFN5NFkyWTh2Ukd1NHJ1Z1VWeFd3ckM2X0NPUVpQc1MtcnpsdzdOMEw2dHJic29XSHhpU0FR0gGHAUFVX3lxTE9LSTY1M2FqU2I0UjhIbzh2aUFNd0x0dUN0ajRIUU1wOEcyaHgtaEJwSHVaeENkWTYwV2VHdWpzdlowWUJiRGR5YmZJbkFEWFJ5RjQzeDVKTXlSLWlMa2JONTI0b05zOTVfeU1zOXJST0M2eUF5cmx5TnZqczZhczY5anJPS21tRQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "動物冷知識是真的還是瞎掰的？BBC帶你一探究竟！",
+    "zhSummary": "英國BBC媒體最近推出一個特別的專題，要挑戰大家對動物的了解。他們準備了一系列關於動物的說法，邀請讀者來猜猜看哪些是真科學，哪些又是流傳已久的錯誤迷思，希望能讓大家對動物有更正確的認識。",
+    "zhContent": "<p>你是不是也聽過「金魚的記憶只有三秒鐘」或者「蝙蝠都是瞎子」這些說法呢？我們生活中常常會聽到各種關於動物的趣聞或小知識，有些聽起來很有趣，有些則讓人半信半疑。最近，英國廣播公司（BBC）就注意到了這個現象，他們特別策劃了一個互動專題，要來考考大家，看看你對動物的了解到底有多少，哪些是經過科學驗證的事實，哪些又是代代相傳的「動物迷思」。</p><p>這個專題的設計方式非常有趣。BBC列舉了許多常見的動物「事實」，然後邀請讀者們來判斷這些說法到底是真有其事，還是完全沒有根據的「都市傳說」。例如，有問題會問：「鴕鳥在遇到危險時，真的會把頭埋進沙子裡嗎？」或是「旅鼠會集體跳崖自殺嗎？」這些都是流傳已久，很多人都深信不疑的說法。透過這種一問一答的形式，BBC希望大家在猜測的過程中，能更積極地去思考這些資訊的來源和真實性。</p><p>為什麼這些動物迷思會這麼普遍呢？其實，很多時候是因為這些說法聽起來很有故事性，容易被口耳相傳，甚至在一些書籍或卡通中也會出現，讓大家從小就誤以為它們是真的。另外，有些迷思可能來自於過去對動物行為的片面觀察，或者人們對牠們的行為產生了錯誤的解讀。BBC的報導就是想提醒大家，在資訊爆炸的時代，要學會查證，不能光憑印象或道聽途說就全盤接受。</p><p>透過這個特別的專題，BBC不只是要讓大家找出哪些是錯誤的觀念，更重要的是，他們希望能激發年輕讀者們對動物世界的好奇心，鼓勵大家去學習更多關於大自然的正確知識。他們邀請了許多動物學家和生物學家提供專業的見解，確保所有解答都有科學根據，讓讀者們能透過這項活動，清楚分辨真實與虛假，得到關於動物的正確資訊。這項專題的目標，就是希望大家能以更科學、客觀的態度去認識我們周遭的生物。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Challenging Animal Beliefs: BBC's Myth vs. Fact Special",
+    "enContent": {
+      "basic": "The BBC made a special game about animals. Many things we think we know about animals are actually wrong. The BBC wants to help young people learn the truth. They made a quiz where you guess if animal \"facts\" are real or fake. For example, they ask if ostriches really hide their heads in the sand. This game helps people learn to check information. Many animal myths started from old stories or wrong ideas. The BBC wants everyone to be curious and learn real science about animals. They get help from animal experts to give correct answers. This way, people can tell what's true and what's not about animals.",
+      "intermediate": "The British Broadcasting Corporation (BBC) has launched an engaging special feature designed to challenge common beliefs about animals. Many popular \"facts\" that circulate widely are actually long-standing myths without scientific backing. The BBC aims to educate its audience, particularly younger generations, by inviting them to distinguish between genuine scientific facts and prevalent animal misconceptions. Their interactive quiz presents various statements, such as whether goldfish truly have a three-second memory or if ostriches bury their heads when scared. This approach encourages readers to critically evaluate information and understand its origins. The persistence of these myths often stems from anecdotal storytelling or superficial observations. By collaborating with zoologists and biologists, the BBC ensures all answers are scientifically accurate. The initiative's primary goal is to foster curiosity and promote a more objective, scientific understanding of the natural world among its audience.",
+      "advanced": "The British Broadcasting Corporation (BBC) has embarked on a compelling journalistic endeavor, launching a specialized feature aimed at dissecting pervasive misconceptions surrounding the animal kingdom. Recognizing the widespread dissemination of purported animal \"facts\" that lack scientific substantiation, the BBC's objective is to cultivate a more informed populace, particularly among adolescents, by facilitating a rigorous discernment between empirically verified realities and entrenched zoological fallacies. The interactive format presents a series of commonly held beliefs, challenging readers to ascertain their veracity. Illustrative queries might include the veracity of claims such as the limited mnemonic capacity of goldfish or the apocryphal behavior of ostriches burying their heads in the sand. This pedagogical strategy is designed to instigate critical information literacy and an interrogation of anecdotal evidence. The entrenchment of these myths is often attributable to generational transmission, cultural narratives, or misinterpretations of observational data. Through collaborative engagement with leading zoologists and biologists, the BBC guarantees the scientific fidelity of all disseminated information. The ultimate aim of this initiative is to galvanize intellectual curiosity and cultivate a more discerning, evidence-based approach to understanding the multifaceted complexities of the natural world."
+    },
+    "vocabulary": [
+      {
+        "word": "Myth",
+        "zh": "「迷思」或「神話」。指的是一種流傳很久、很多人都相信，但其實是錯誤或沒有科學根據的說法。像是「金魚記憶只有三秒」就是個常見的動物迷思。"
+      },
+      {
+        "word": "Fact",
+        "zh": "「事實」。指的是真實存在、經過證實或有科學證據支持的資訊或事情。跟「迷思」是相反的，事實是經得起檢驗的真相。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-10-08",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teFB2empGdUNrY3NydExGU0xDRHd1Q1lMTFgwSWVidzMxemxSdTl1QVRIN1lVT0dFX0lwV0cxbmdHTmJNaWJ6aXgyaTFMNGxUZk1qMGFPOTV6Z2tXaHJIUWU2RVdJRnVJc2FYZFhkZ0ZFRjNUOS1Cc29DVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國總統的「期中考」：為什麼他們會害怕？",
+    "zhSummary": "這則新聞將帶你了解美國特有的「期中選舉」是什麼，它在選些什麼人，以及為什麼這場在總統任期中間發生的選舉，對現任總統來說，卻是個讓他們非常頭痛的大挑戰。",
+    "zhContent": "<p>你或許聽過美國總統大選，那是選出美國最高領導人的超級大事件。不過，在兩次總統大選中間，還有一種很重要的選舉叫做「期中選舉」（Midterms）。想像一下，總統任期有四年，而期中選舉就好像總統任期的「期中考」，通常發生在總統上任的第二年，也就是中間點。這場選舉雖然不是選總統，但對總統來說卻是個頭痛的問題，因為它往往決定了總統接下來兩年能不能順利推動政策。</p><p>那麼，這個讓總統頭痛的「期中選舉」到底在選什麼呢？它主要是選出美國國會的成員，包括全部的眾議院席位，以及大約三分之一的參議院席位。另外，許多州的州長和地方官員也會在這時候改選。眾議院總共有435個席位，而參議院有100個席位。這些國會議員的職責是制定法律、審查總統的預算和政策。所以，誰掌控了國會，誰就能影響美國的運作方向。</p><p>為什麼現任總統會特別擔心期中選舉呢？歷史數據顯示，在大多數情況下，執政黨（也就是總統所屬的政黨）在期中選舉中往往會失去一些國會席位。這就像是選民利用這次機會，來表達他們對總統或執政黨過去兩年表現的滿意或不滿意。如果選民不滿意，他們就會投票給反對黨，希望國會能對總統形成更多制衡的力量。</p><p>因此，如果執政黨在期中選舉中失去了對國會的掌控權，特別是如果眾議院或參議院被反對黨佔據多數，那麼總統想要推動任何新的法案或政策，就會變得非常困難。反對黨可能會阻撓總統的提議，甚至發起調查。簡而言之，期中選舉的結果會直接影響總統在接下來兩年內，是否能順利地施展拳腳，將他的施政理想付諸實現。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Understanding US Midterm Elections: Why Presidents Dread Them",
+    "enContent": {
+      "basic": "US midterms are elections held in the middle of a president's four-year term. People vote for new members of Congress, not the president. Presidents often worry about these elections because their party usually loses seats, making it harder for them to pass laws.",
+      "intermediate": "The US midterm elections are significant political events that occur two years into a president's term. Voters elect all 435 members of the House of Representatives and about one-third of the 100 Senators, along with many state governors and local officials. These elections are often seen as a referendum on the sitting president's performance, and historically, the president's party tends to lose seats in Congress, making it harder to pass legislation.",
+      "advanced": "The United States midterm elections represent a crucial democratic exercise occurring quadrennially, precisely at the midpoint of a presidential administration's four-year tenure. Unlike presidential elections, midterms focus on legislative and gubernatorial races, with all 435 seats in the House of Representatives and approximately 33-34 seats in the Senate contested. Additionally, a substantial number of state and local elections take place. These elections are frequently interpreted as a public barometer of the incumbent president's approval and the current political climate. Historical trends reveal a propensity for the party holding the presidency to experience a loss of congressional seats during midterms, potentially leading to a divided government and significant legislative challenges for the remainder of the presidential term."
+    },
+    "vocabulary": [
+      {
+        "word": "Midterm",
+        "zh": "期中選舉 - 美國特有的一種選舉，通常在總統四年任期的中間舉行，不是選總統，而是選國會議員和地方官員。"
+      },
+      {
+        "word": "Congress",
+        "zh": "國會 - 美國的立法機構，由參議院和眾議院組成，負責制定法律和監督政府。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-08",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzFJTUxqOHZDLUlYNC13M3Q2bTVrSnpWNXMyVWhlUlpLOHlxd2EyQ2JhM09PTDVSa21iUlhwUjZZdFlOU3NQY2Q3NldGUFA4dXlnSEFBV2d5Q2RLcENRdUFsbWJhMnN3cXdqNEFUeF9ORUVhNDJoZUhyRVVuX2huZHZHOU9qcGdQSktoSVRSNURjczNfeTEwcnVZYTRmLXVJRWtPZGVMT1VVU3QzSk1DTjR4WW9QbDByanJST2NWMA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "巴西政壇大轉向：從森巴國度看「右翼」潮流",
+    "zhSummary": "巴西這個南美大國，近年來在政治上出現了明顯的變化。根據英國《經濟學人》報導，巴西現在被歸類為一個「右翼」國家，這代表其政府的施政方向更傾向傳統價值、國家安全與自由市場經濟。",
+    "zhContent": "<p>巴西，一個以足球和熱情森巴舞聞名的南美大國，最近在政治上有了個大轉變。根據英國知名雜誌《經濟學人》的報導，巴西現在被認為是一個「右翼」國家了。這對許多人來說可能是個新名詞，簡單來說，當一個國家被形容為右翼，通常意味著政府的施政方向會更強調傳統價值、國家安全，或是對經濟採取比較自由開放的態度，希望減少政府干預。這個說法代表了巴西的政治重心，從過去可能偏向左翼或中間的立場，有了明顯的移動。</p><p>這個政治大轉變並非一夕之間發生，而是隨著一次全國大選後逐漸形成的。當時，巴西的民眾對於舊有的政治體制、嚴重的貪腐問題和居高不下的犯罪率感到非常不滿。他們渴望改變，期待能有新的領導人帶來不一樣的治理方式。在這樣的社會氛圍下，一位主張強硬執法、振興經濟和維護傳統家庭價值的候選人脫穎而出，贏得了總統大位。他的當選，正是巴西政治板塊向右移動的關鍵一步，也反映了當時巴西社會對於這些特定議題的高度關注。</p><p>之所以會出現這樣的右翼傾向，背後有多重原因。其中一個主要因素是巴西長期面臨的經濟困境，像是失業率高、國家債務沉重。許多民眾認為，過去的政府在經濟管理上做得不夠好。此外，層出不窮的政治醜聞和貪腐案件，也讓人民對政府的信任度大打折扣。社會秩序的混亂，包括猖獗的犯罪問題，也促使許多人希望政府能採取更強硬的手段來維護治安。這些來自民間的強烈訴求，成了推動國家走向右翼政治路線的重要力量。</p><p>在新的政府上任後，巴西確實開始推行一系列與右翼理念相符的政策。例如，在經濟方面，政府嘗試推動私有化和開放市場，希望藉此刺激經濟增長；在社會治安上，也加強了警察執法權限，並對槍枝管制採取了較為寬鬆的態度。教育和文化政策也逐漸向傳統價值觀靠攏。截至目前，巴西的政治方向大致維持在這個走向，這些政策的實施和影響，依然是外界持續關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「右翼」國家，在你理解的範圍內，它在哪些方面與「左翼」或「中間派」的國家治理方式可能有所不同？",
+      "生活與未來：巴西的政治轉向對當地人民的生活可能產生哪些實際影響？例如在經濟、社會秩序或教育等方面。",
+      "獨立思考提案：如果一個國家在治理上遇到許多問題，你覺得民眾在選擇政府領導人時，最應該優先考慮哪些因素？"
+    ],
+    "enTitle": "Brazil's Political Shift: Understanding the 'Right-Wing' Trend in the Samba Nation",
+    "enContent": {
+      "basic": "Brazil, a country famous for football and samba, has seen a big political change. The Economist reports it's now a 'right-wing' country. This means its government leans towards traditional values, national security, and free-market economy. This shift happened after an election where people wanted change due to unhappiness with old politics, corruption, and crime. A new leader promised strict law enforcement and economic growth, which moved Brazil's politics to the right. Reasons include economic problems and public distrust. The new government has started policies like privatization and stricter law enforcement. Brazil's politics continue in this direction, and their impact is still being watched.",
+      "intermediate": "Brazil, a vibrant South American nation, has undergone a significant political transformation, as reported by The Economist, now being described as a 'right-wing' country. This classification implies a governmental orientation emphasizing traditional values, national security, and liberal economic policies, moving away from past centrist or left-leaning stances. This shift followed a national election where widespread public discontent over political corruption, high crime rates, and economic woes led to a desire for new leadership. A candidate advocating for stringent law enforcement, economic revitalization, and traditional family values secured the presidency, marking a pivotal move towards a right-wing political landscape. This change reflects public demand for stronger governance and economic reforms. The current administration has since implemented policies aligned with right-wing principles, including economic privatization efforts, strengthened law enforcement, and a more lenient stance on gun control. Brazil's political trajectory largely remains consistent with this new direction, with the outcomes of these policies under continuous observation.",
+      "advanced": "Brazil, the colossal South American nation synonymous with its vibrant culture, has recently undergone a profound political metamorphosis, leading The Economist to characterize it as a 'right-wing' country. This designation signifies a governmental pivot towards policies prioritizing traditional societal values, robust national security measures, and a free-market economic framework, marking a notable departure from its historically more centrist or left-leaning political inclinations. The genesis of this political realignment lies in the culmination of public dissatisfaction following a national election. A populace disillusioned by pervasive political corruption, endemic crime rates, and persistent economic stagnation fervently sought a transformative leadership. This sentiment propelled a candidate championing assertive law enforcement, economic resurgence, and the fortification of traditional family structures to the presidency. His ascension was a watershed moment, decisively shifting Brazil’s political tectonic plates rightward and underscoring the electorate's acute focus on these specific issues. The underlying impetus for this rightward swing is multifaceted. Primary among them are Brazil's protracted economic challenges, manifest in high unemployment and substantial national debt, which eroded public confidence in previous administrations' economic stewardship. Concurrently, an unbroken chain of political scandals and corruption diminished trust in governmental institutions. Furthermore, widespread societal disorder, including rampant criminal activity, fueled a popular yearning for more decisive state intervention in maintaining public order. These potent popular demands were instrumental in galvanizing the nation towards a right-wing political course. Since assuming power, the new administration has embarked on implementing a suite of policies consonant with its right-wing ideological tenets. Economically, initiatives promoting privatization and market liberalization have been pursued to stimulate growth. In social security, law enforcement powers have been augmented, alongside a more permissive approach to firearm regulation. Educational and cultural policies have also incrementally realigned towards conservative values. Presently, Brazil's political orientation largely persists along this established trajectory, with the long-term impacts of these policy implementations remaining a central focus of both domestic and international scrutiny."
+    },
+    "vocabulary": [
+      {
+        "word": "Right-wing",
+        "zh": "右翼 (yòu yì) - 在政治上，右翼通常是指支持傳統價值、比較重視國家安全、或是主張讓市場自由運作、減少政府干預的一種思想或立場。跟「左翼」是相對的說法。"
+      },
+      {
+        "word": "Policy",
+        "zh": "政策 (zhèng cè) - 指政府或組織為了達成某個目標，所訂定和實施的計畫或規定。例如：教育政策、經濟政策。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-10-08",
+    "sourceName": "The Economist",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDFKckRRdmcwM1d0cXlXMWNObDluaTRfUVBKN0pocnlYM2JWdkl3RlZFZndfaVpKaU9tOFdOYzloeXJvQS05UmFhNS1NS0tOTlNDMVo5NmhTbFpuUThOX0RpR3RKOXk0dC1DdHZqSUJ1Ykw4eHRMWC00NF9aTmpBb2NIS0dKUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國調動轟炸機，以色列遇襲前曾接獲警告傳聞：兩則國際焦點",
+    "zhSummary": "美國近期將駐紮英國的長程轟炸機進行了調動。與此同時，有消息指出以色列在去年十月七日遭受攻擊前，曾經收到過相關的情報警告。",
+    "zhContent": "<p>最近國際上傳出兩則受到大家關注的消息。第一則跟美國的軍事行動有關，美國軍方決定把他們停放在英國的長程轟炸機撤出，這是軍事上的一次重要部署調整。另一則消息則聚焦在中東地區，有報導指出，去年十月七日，以色列在受到攻擊前，其實可能已經收到了一些關於潛在威脅的情報。</p><p>首先來看看美國轟炸機的動向。這些長程轟炸機是美國空軍很重要的戰略武器，過去一段時間都部署在英國。而這次的調動，意味著美國正對其全球的軍力佈局進行重新考量或調整。雖然新聞沒有詳細說明這些轟炸機接下來會去哪裡，但這樣的移動通常都代表著軍事戰略的改變，可能與區域安全情勢或盟友間的合作有關。</p><p>接著我們來了解一下以色列遇襲前的警告傳聞。根據一些國際媒體的報導，在去年十月七日哈馬斯發動大規模攻擊之前，以色列的情報單位或政府可能已經收到了相關的警告。這些警告的具體內容、來源以及以色列方面是如何回應的，目前仍在調查或討論中。不過，「據稱」或「據傳」的說法，也表示這些資訊可能還未被官方完全證實，或者各方有不同的說法。</p><p>總體來說，美國轟炸機的調動是美國調整軍事姿態的一部分，顯示全球軍事策略持續在變化。而以色列被攻擊前的警告傳聞，則揭示了情報在國家安全中的關鍵作用，以及面對潛在威脅時判斷與應對的挑戰。這兩則新聞，雖然是獨立事件，都反映了當前國際局勢的複雜性與不確定性。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Moves Bombers, Israel Allegedly Warned Before Oct. 7 Attack",
+    "enContent": {
+      "basic": "The U.S. moved its long-range bomber planes from the U.K. This is a military change. Also, news reports say Israel might have been warned before October 7. That's when attacks happened. It's not clear who warned them or exactly what the warning said.",
+      "intermediate": "The United States recently relocated its long-range bombers from their base in the United Kingdom. This decision represents a strategic adjustment in the U.S. military's global posture. Separately, reports have emerged suggesting that Israel allegedly received warnings prior to the October 7 attacks. The specifics of these alleged warnings and their source are currently unclear, highlighting the complexities of intelligence matters.",
+      "advanced": "In a significant strategic maneuver, the United States has withdrawn its long-range bomber aircraft from their forward operating locations in the United Kingdom. This redeployment indicates a potential shift in America's global military footprint and strategic priorities. Concurrently, new allegations have surfaced claiming that Israel was forewarned of an impending attack before the events of October 7. The veracity, scope, and origin of these purported warnings remain subjects of considerable scrutiny and debate, underscoring the intricate nature of pre-emptive intelligence and national security assessments."
+    },
+    "vocabulary": [
+      {
+        "word": "bombers",
+        "zh": "轟炸機：一種大型軍用飛機，專門設計用來攜帶炸彈並投向地面或海上目標。"
+      },
+      {
+        "word": "allegedly",
+        "zh": "據稱／據傳：表示某件事是據說、據報導的，但還沒有被完全證實，或仍有爭議，常用在新聞中避免直接肯定尚未確認的事。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-08",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmF0TjY2enQyQjJNbDBEN3A1YS1KUHg0Ym1YaENTRXJfRUhoX25hOTNtUzM4SHdqa1p0OXVpMFFCTXhac3RzU3lUWjVpRWNMU2hGbUc2WEl2S0huTENhQXdFTkE2eUJMQU0zckJvQWFheGFjZElCVGNkbWdzOS1BYnlIdHc0VTZ1czd1ZVNRaFQyWHRxUEtwRXl0OTVTUTBKby0zRmNWRmdmY2ktY0ZZdEppLTl1M1ctSTFBNkhIQlFwVklnVFgxTDdqaXVrOHRQYU5XQzE3LWpjWG5jaV9yQWYxcDg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "總統健康又成焦點？穆薩里卡南非之旅引發各界猜測",
+    "zhSummary": "馬拉威總統穆薩里卡近期前往南非的行程，再次讓外界對他的健康狀況產生諸多疑問與猜測，引起了媒體和民眾的廣泛關注。",
+    "zhContent": "<p>馬拉威總統彼得·穆薩里卡（Peter Mutharika）最近的一次南非之旅，再次讓他的健康狀況成為大家討論的焦點。每一次這位國家領導人前往南非，總會引發一些關於他身體健康的謠言和傳聞。這次的行程也不例外，大家都在私下裡竊竊私語，好奇總統是不是又有什麼健康問題需要處理。</p><p>事實上，這並不是穆薩里卡總統第一次因為出國行程而引發外界對他健康的擔憂。過去，他就曾有過幾次神秘的海外行程，甚至有一次連續好幾個星期都沒有公開露面，導致公眾對於他的身體狀況議論紛紛。當時，許多媒體和民眾都懷疑他是不是到國外接受了秘密的醫療檢查或治療，因為政府對這些行程的細節總是語焉不詳。</p><p>面對外界的種種猜測，馬拉威政府的官方說法通常都是堅決否認總統有任何嚴重的健康問題。他們通常會強調總統身體健康、精力充沛，並表示這些出國行程只是私人行程、工作訪問，或是例行的身體檢查，沒有什麼值得大驚小怪的。然而，由於資訊不夠透明，這些官方聲明往往難以完全打消民眾心中的疑慮。</p><p>因此，即便政府一再保證，穆薩里卡總統的每一次南非之行，還是會像這次一樣，重新點燃關於他健康狀況的討論。對許多人來說，總統的健康不只是個人的事，更關係到國家的穩定與未來，所以當官方資訊不夠清晰時，大家自然會根據蛛絲馬跡去猜測。而這次的行程，也再次讓這些健康傳聞浮上檯面。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼總統的南非之旅會引發健康傳聞？你覺得政府在處理這些傳聞時，可以怎麼做會更好？",
+      "生活與未來：你覺得一個國家領導人的健康狀況，對該國人民的生活和國家的運作會造成什麼實際影響？",
+      "獨立思考提案：針對這類「官方說法」與「民間猜測」之間存在的資訊落差，你覺得有哪些方法可以幫助民眾更客觀地了解事實？"
+    ],
+    "enTitle": "President's Health Under Scrutiny Again: Mutharika's South Africa Trip Fuels Speculation",
+    "enContent": {
+      "basic": "Malawi's President Peter Mutharika recently traveled to South Africa. This trip made people talk about his health again. Every time he goes there, rumors about his health start. This time, people are wondering if he has new health problems. In the past, he went missing for weeks after trips, making people worried. The government says he is healthy and these are private trips. But people don't always believe them because they don't share much information. So, each trip brings back the same health questions.",
+      "intermediate": "Malawian President Peter Mutharika's recent visit to South Africa has once again reignited speculation regarding his health. Similar to previous instances, his trips to the neighboring country often spark public curiosity and media rumors about his physical well-being. This latest visit has prompted renewed discussions among citizens about the President's condition. In the past, Mutharika's overseas trips, including one where he was absent from public view for several weeks, led to widespread concerns and theories about secret medical treatments. Despite the government's consistent reassurances that the President is in good health and his travels are for private or routine matters, the lack of detailed transparency often fails to fully quell public suspicions. Consequently, each of his journeys to South Africa tends to revive these health-related rumors, leaving many to wonder about the true state of his health.",
+      "advanced": "President Peter Mutharika of Malawi has recently concluded a trip to South Africa, a visit that has once again put his health firmly in the spotlight. This latest journey has, predictably, resuscitated long-standing rumors and public speculation surrounding his physical condition, a pattern observed during prior, often vaguely explained, excursions to the neighboring nation. Historical context reveals that previous protracted absences following such trips have fueled considerable public anxiety and media conjecture, frequently leading to suspicions of undisclosed medical treatments abroad. The Malawian government typically responds to these concerns with firm denials, asserting the President's robust health and characterizing these travels as private engagements, working visits, or routine medical check-ups. However, a consistent lack of detailed information and transparency in official communications often proves insufficient in allaying the public's persistent doubts. As a result, each subsequent trip to South Africa by President Mutharika inevitably serves to rekindle these health-related discussions, underscoring an ongoing tension between official narratives and public perception."
+    },
+    "vocabulary": [
+      {
+        "word": "rumour",
+        "zh": "謠言：指沒有被證實、到處流傳的非官方消息。就像大家私下傳來傳去，不確定是不是真的小道消息。"
+      },
+      {
+        "word": "revive",
+        "zh": "復甦／重提：指某件事物又再次出現、被提起或變得活躍。就像很久沒人講的事，突然又被拿出來討論一樣。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-08",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2FoX25PWVo0WlE1d3JnUE94dmFVMWZnaTc1NGhEQzA2TDhXZ3c5QWdQdmlET1FCZWZrVXYtc0ctaHA0UmlrQmpCYkZYSDdlZnk0YTlFOGh5eUVicndjTlpvM1p5czlyMXc0WDAzYW44aU95dEd5V1BBeS00ZUVkb3JQRmhyQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "俄羅斯「鬧油荒」？中亞國家盯上伊朗石油！",
+    "zhSummary": "最近俄羅斯國內發生了燃油供應短缺的問題，這讓原本依賴俄羅斯燃料的中亞國家開始尋找新的替代來源。而與中亞地區相鄰的伊朗，似乎看到了將自己的石油銷售到這些國家的大好機會。",
+    "zhContent": "<p>嘿！各位少年偵探們，最近國際新聞上出現了一則可能讓一些國家「油」傷的新消息。那就是，以往是主要燃料供應國的俄羅斯，最近竟然在自家國內鬧起了「油荒」！這可不是小事，因為這代表他們自己也開始面臨汽油和柴油供應不足的狀況。</p><p>這場俄羅斯的燃料危機，直接影響到了幾個跟他們關係密切的中亞國家。你知道嗎？像是哈薩克、烏茲別克這些國家，他們一直以來都很大程度上依賴從俄羅斯進口石油和相關燃料來維持日常運作。現在，當俄羅斯自己都供應吃緊時，這些中亞國家當然得開始緊張，急著尋找其他可靠的燃料來源，以免影響到他們的交通和經濟。</p><p>就在這個節骨眼上，另一個中東大國——伊朗，似乎看到了一個新的「商機」。伊朗本身就是個重要的石油生產國，雖然過去因為各種國際因素，他們的石油出口常常受到限制。但地理位置上，伊朗其實與中亞國家距離不遠。現在，俄羅斯燃料供應不穩，伊朗就有機會透過現有的管道或開發新的路線，將自己的石油賣給這些亟需燃料的國家，填補市場上的空缺。</p><p>目前，國際媒體正在密切觀察，這場俄羅斯燃油危機是否真的會讓伊朗成功在中亞地區打開新的石油市場大門。雖然伊朗一直以來都想擴大石油出口，但要順利取代俄羅斯，成為中亞國家的主要燃料供應商，還需要克服運輸、價格以及一些國際政治上的挑戰。這場「搶油大戰」的最終結果如何，大家就拭目以待吧！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Russia's Fuel Troubles: An Oil Opportunity for Iran in Central Asia?",
+    "enContent": {
+      "basic": "Hey everyone! There's a big international news story recently about Russia, a country that usually supplies a lot of fuel. It seems they're having a 'fuel crisis' at home, meaning they don't have enough gasoline and diesel for themselves. This is a pretty big deal because several Central Asian countries, like Kazakhstan and Uzbekistan, usually get their fuel from Russia. Now that Russia's supply is tight, these countries are getting worried and need to find new fuel sources quickly to keep their transportation and economies running smoothly. Guess who might be stepping in? Iran, another big oil producer in the Middle East, sees this as a chance to sell its oil to these Central Asian nations. Even though Iran has faced challenges exporting oil in the past, their location near Central Asia could make them a new supplier. Experts are watching closely to see if Russia's fuel problems will truly open a new market for Iranian oil in Central Asia. It's a complex situation with lots of challenges like transport and pricing, but the possibility is there!",
+      "intermediate": "Russia, a significant fuel exporter, is currently grappling with a domestic fuel crisis, leading to shortages of gasoline and diesel. This situation has created a ripple effect, particularly impacting Central Asian nations such as Kazakhstan and Uzbekistan, which traditionally rely heavily on Russian fuel imports. As Russia's internal supply dwindles, these countries are compelled to seek alternative and reliable fuel sources to prevent disruptions to their transportation and economic sectors. Seizing this evolving situation, Iran, a major oil-producing country, perceives a potential opening to expand its oil exports into Central Asia. Despite historical challenges in its oil trade due to international sanctions, Iran's geographical proximity to the region offers a strategic advantage. Observers are keenly monitoring whether Russia's fuel predicament will indeed facilitate Iran's establishment of a new oil market presence in Central Asia. The realization of this opportunity hinges on overcoming various hurdles, including logistics, pricing competitiveness, and geopolitical complexities.",
+      "advanced": "A domestic fuel crisis in Russia, a prominent energy supplier, is instigating significant geopolitical shifts, particularly within Central Asia. The scarcity of gasoline and diesel within Russia has forced traditionally reliant Central Asian states, including Kazakhstan and Uzbekistan, to critically re-evaluate their energy procurement strategies. This exigency stems from their historical dependence on Russian hydrocarbon imports, necessitating an urgent diversification of supply chains to mitigate potential economic and logistical disruptions. Concurrently, Iran, a substantial oil producer operating under stringent international sanctions, is strategically positioned to capitalize on this emerging vacuum. Given its geographical contiguity and existing energy infrastructure, Iran identifies a nascent opportunity to penetrate the Central Asian market, thereby circumventing long-standing export impediments. Geopolitical analysts are closely observing whether the confluence of Russia's internal energy challenges and Iran's strategic positioning will culminate in a significant reorientation of Central Asia's energy matrix, with Iranian crude potentially gaining a substantial foothold. The viability of this transition is contingent upon surmounting formidable logistical, economic, and political obstacles inherent in re-establishing supply routes and market trust."
+    },
+    "vocabulary": [
+      {
+        "word": "Crisis",
+        "zh": "危機：一個非常緊急或困難的時刻，通常需要立刻做出決定或採取行動。就像你考試前發現書本不見了，那可能就是一個小危機。"
+      },
+      {
+        "word": "Opening",
+        "zh": "機會：指的是一個適合做某事、能帶來好結果的時間或情況。例如，如果你功課一直都很好，老師可能會給你一個「機會」去參加科學競賽。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-08",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXBRcGs2Q1RSWXRCVGkzV3BPSy1WSnlXRVhtWEQ4X0pnZE5LaENJRXVFNkNIdDJWTllRYXpwVzY0YUh0Z1dnVGZPeW9CeC1TNzhVTVlSZHh5Y3p6LUNnUVpuS2RZdUlUaFVUUnR3SENhUGZ4bXRhVFExeTdpT0lVYTFyTWdKWkt3Y2xfQWNaSmJYVEZIOHM3M2VaVWI2RjZPLUduUWNwSXZ0S3g0R1HSAbMBQVVfeXFMTVhpN0k3VzR6MkVRSFNDRFlBWGtnN000VDYwRWhKd0gzNjBQMDJjNV9kMHBIelVsOGFieEdyR0FlT1VscjdzcEg4X01LdUJ4T0hsWHQ3R2htR2VtSEs1X1NYSHpqVURONnhXVU1qblNlYWpiMVNNVVhpR251WmZ6eUZnc1pUZm1uSzVrc01EZVhQNmxIdFlFcnMtVThiSUQwX2RweUpPOWd1SjBrcGltMDVHSUE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「AI大軍」入侵東南亞選舉？假訊息恐讓選戰變複雜",
+    "zhSummary": "這則新聞在談論人工智慧（AI）技術，如何讓東南亞地區的選舉面臨更多風險，特別是假影片和假訊息的快速傳播，可能影響選民判斷。",
+    "zhContent": "<p>東南亞地區的選舉，未來可能會因為人工智慧（AI）變得更加複雜，甚至帶來新的風險。最近有媒體指出，AI技術發展迅速，雖然帶來許多便利，但同時也讓人們擔心它可能會被有心人士利用，影響到公平的選舉過程。想像一下，如果有人可以用AI做出假影片或假聲音，是不是很難分辨真假呢？這正是現在大家最擔心的問題。</p><p>這些被點名的風險，主要是因為AI技術可以很輕易地創造出「假訊息」或「假內容」。例如，有人可能會用AI生成候選人說出沒說過的話，或做出他們從未做過的行為的影片，這些影片看起來跟真的一樣，很難用肉眼分辨。這種技術叫做「深度偽造」（Deepfake）。這種假內容一旦在社群媒體上快速傳播開來，可能會在短時間內誤導大量選民，讓他們對某個候選人或政黨產生錯誤的印象。</p><p>專家們很擔心，在東南亞一些國家，資訊傳播的速度很快，但人們對於假訊息的辨識能力可能還不夠強。加上AI工具越來越容易使用，成本也越來越低，這讓更多人可以製作和散播這些「超級逼真」的假內容。一些報告也提到，不只是一般人，甚至是有目的的政治團體或外國勢力，都有可能利用AI來影響選舉結果，讓選舉變得不再那麼透明和公平。</p><p>面對這些潛在的風險，許多國家和國際組織都已經開始提高警覺。他們呼籲社群媒體平台要加強審核機制，並且建議民眾學習如何辨識假訊息，不要輕易相信網路上看到的一切。目前，各方都在討論如何制定更有效的法律和規範，希望能及早防堵AI被濫用在選舉中，確保民主制度的完整性。這是一場與新科技賽跑的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，人工智慧（AI）是如何被預期會影響東南亞地區的選舉？",
+      "生活與未來：你覺得這種因為AI產生的「假訊息」或「深度偽造」內容，對我們的日常生活可能會造成什麼實際影響？",
+      "獨立思考提案：針對AI可能對選舉造成的不利影響，你覺得除了新聞中提到的方法，還可以怎麼做會更好？"
+    ],
+    "enTitle": "AI's 'Supercharge' of Election Risks in Southeast Asia",
+    "enContent": {
+      "basic": "AI technology is making elections in Southeast Asia more risky, especially with fake information and videos spreading fast. Experts are concerned about deepfakes misleading voters and potentially affecting election results.",
+      "intermediate": "The Guardian reports that AI could significantly increase election risks in Southeast Asia by enabling the rapid creation and dissemination of deepfakes and misinformation. This raises concerns about voter manipulation and challenges to electoral integrity.",
+      "advanced": "Concerns are mounting over how artificial intelligence could 'supercharge' election risks across Southeast Asia. Advanced AI tools are making it easier to generate convincing deepfakes and widespread misinformation campaigns, potentially destabilizing electoral integrity and voter trust in the region, prompting calls for stronger regulation and public awareness."
+    },
+    "vocabulary": [
+      {
+        "word": "Misinformation",
+        "zh": "假訊息 (jiǎ xìn xī) - 指的是不正確或有誤導性的資訊，常常在網路上被分享，但不是故意要騙人的。"
+      },
+      {
+        "word": "Deepfake",
+        "zh": "深度偽造 (shēndù wěizào) - 一種利用人工智慧技術，將某人的臉或聲音「合成」到另一個人的影片或音訊中，讓影片或聲音看起來像是真的，但其實是假的。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-08",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmJwc2ZJUnZJT3NJZmZidU5IWndpWVl0eTFucTFIV1FOTHJSd0dFdE5PcDlFbVRrNnJkSF9zZTFqQmFDYWhfU1JGc0NiamMxdHF5R2t0TnU4ZGhnVmZxaDdZZmgycHhWSTB5VVhZbzFnVlZMMExXMHpOc3FHTnItcWtQNFRPQlVPdUN5NHpnWldNYXQzUjQzeDhJMXFucDVxWkJZZmJCdmhfS0ZwQXNjdQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞煙霾再起：考驗2015年的教訓是否學到家？",
+    "zhSummary": "最近，東南亞又被煙霾籠罩，這場空氣污染危機讓人聯想到2015年的嚴重煙霾災難。煙霾主要來自印尼為開墾農地而引發的火災，考驗著該地區在防止類似事件重演上是否有所進步。",
+    "zhContent": "<p>最近，東南亞的天空又蒙上了一層灰濛濛的薄紗，惱人的煙霾再次籠罩這個區域。這場空氣危機讓許多人回想起2015年那場規模更大的煙霾災難，當時的濃煙對居民的健康和日常生活造成了極大的困擾。這一次，東南亞各國的應對措施，就像一場考試，正檢視著他們是否真的從過去的教訓中學到了什麼。</p><p>這波煙霾的起因主要來自於印尼的蘇門答臘島與婆羅洲（加里曼丹）地區。當地農民和公司為了開墾土地，特別是為了種植棕櫚樹或紙漿木，會採用「燒芭」這種傳統但爭議性很大的方式。他們會放火燒掉森林和泥炭地，這樣清理土地比較快也比較便宜。然而，這些火勢常常失控，加上風力吹送，使得濃煙飄散到鄰近的馬來西亞、新加坡，甚至泰國南部。</p><p>在2015年那次嚴重危機之後，區域內的國家，特別是東南亞國家協會（ASEAN），曾承諾要加強合作，避免類似情況再次發生。他們提出了一些跨國協議和監測計畫，例如利用衛星技術來追蹤火點，並要求各國更嚴格地執行反焚燒法令。各國政府也曾宣稱會起訴那些非法焚燒土地的公司和個人。</p><p>然而，儘管有這些努力和承諾，煙霾問題至今仍未徹底解決。這次的煙霾事件表明，雖然有新的技術和法令，但要在廣大且偏遠的地區有效執行禁燒令，仍面臨許多挑戰。有些公司和個人還是會選擇燒芭，以降低成本。目前，各國政府仍在努力控制火勢，並持續監測空氣品質，觀察這些措施能否有效阻止煙霾。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，東南亞煙霾事件的主要起因是什麼？它為什麼會影響到其他國家？",
+      "生活與未來：你覺得這種跨國界的環境問題，會對居住在受影響區域的青少年造成什麼實際影響？（例如健康、戶外活動等等）",
+      "獨立思考提案：針對印尼當地為了經濟發展而燒芭的行為，你覺得除了禁止以外，還可以怎麼做來幫助他們，同時又能避免煙霾問題發生？"
+    ],
+    "enTitle": "Southeast Asia's Haze Returns, Testing Past Lessons",
+    "enContent": {
+      "basic": "The air in Southeast Asia is hazy again, reminding people of the big haze problem in 2015. Fires in Indonesia, set to clear land for farms, cause this smoke. Countries promised to stop this after 2015, but it's still happening. They are trying to put out fires and check air quality.",
+      "intermediate": "Southeast Asia is once again experiencing a regional haze crisis, prompting questions about whether lessons from the severe 2015 catastrophe have been learned. The haze originates from land-clearing fires, particularly in Indonesia's Sumatra and Borneo, often for palm oil and pulp plantations. Despite regional agreements and stricter laws after 2015, enforcing these bans in remote areas remains challenging, leading to recurring transboundary pollution. Governments are currently focused on fire suppression and air quality monitoring.",
+      "advanced": "A recurrent transboundary haze crisis is once again gripping Southeast Asia, serving as a critical litmus test for the region's efficacy in applying lessons learned from the devastating 2015 catastrophe. The primary etiology traces back to illicit land-clearing practices, specifically \"slash-and-burn\" methods employed for agricultural expansion—notably palm oil and pulp plantations—in Indonesian regions like Sumatra and Kalimantan. While the ASEAN bloc implemented reinforced agreements and monitoring mechanisms post-2015, including satellite tracking and more stringent anti-burning legislations, the logistical complexities of enforcement across vast, remote territories persist. Current governmental efforts are concentrated on immediate fire containment and continuous air quality surveillance amidst this ongoing environmental challenge."
+    },
+    "vocabulary": [
+      {
+        "word": "haze",
+        "zh": "煙霾 (yānmái) - 指空氣中漂浮著很多微小粒子，讓天空看起來灰灰濛濛的，能見度變差。"
+      },
+      {
+        "word": "catastrophe",
+        "zh": "災難 (zāinàn) - 指非常嚴重、造成巨大破壞或不幸的事件。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-08",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXZCaXE4bnlETDc0WVRvd0htd0NFWDJSdzBTVGFqam1ZZkpsSlUzcU1fWl9qWFg4S2tBSWplRnllNzhndGhIZG92UTJXOW02X29icTZFeGdSb3d0dXNrY01sa1h1LXpJMWt6SW5malR2NU5ZUmJrSkpybWE2SDFIU2JzQmNFb1ozNS1JWmlPTdIBjwFBVV95cUxPSTl6dWtpMklvei11WFRtUTN4N2pscWVqVS1uLWFLUk9rU0tjQm5vLTFRSTNFeHRmRUxITTh5MTNlWk5WUWdMVS16SDNScTJ3TE40RDJManlmX1kxVXp6NkppTnUxenRZd2tCSFRVbl9TS0RnSWprR3E0VU5LbFktdUxXc2FkQUZCUUhTS1hHMA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "海平面步步進逼！吐瓦魯呼籲全球關注氣候變遷危機",
+    "zhSummary": "太平洋島國吐瓦魯正遭受氣候變遷帶來的嚴重衝擊，海平面上升威脅著國土與居民的生存。近期，各國領袖齊聚吐瓦魯，親身了解這場氣候危機的真實影響，並討論全球應如何共同面對挑戰。",
+    "zhContent": "<p>你或許聽過「氣候變遷」這個詞，但對太平洋上的小島國吐瓦魯來說，這不是書本上的概念，而是每天都得面對的嚴峻挑戰。吐瓦魯是一個由許多低窪環礁和小島組成的國家，平均海拔非常低。最近，世界各地的領導人紛紛前往吐瓦魯，親自見證並了解氣候變遷對這個國家造成的真實影響，希望喚起國際社會對氣候危機的重視。</p><p>吐瓦魯正經歷著海平面持續上升帶來的多重打擊。不斷上漲的海水不僅侵蝕海岸線，使得土地面積逐漸縮小，也滲透到島上的淡水供應中，讓居民的飲用水變得越來越鹹，難以飲用。這也影響了當地的農作物生長，因為鹹水讓土壤鹽化，許多農產品難以存活。對吐瓦魯的居民來說，這不僅是自然環境的改變，更是生活方式與生存家園受到威脅的切身之痛。</p><p>科學家指出，全球暖化導致冰川融化與海水膨脹，是造成海平面上升的主要原因。而溫室氣體排放，特別是來自工業化國家的排放，被認為是加速全球暖化的元兇。吐瓦魯與其他太平洋島國長久以來一直在國際場合呼籲，希望那些排放大量溫室氣體的國家能採取更積極的行動，共同減少碳排放，以減緩氣候變遷對他們家園造成的破壞。</p><p>這次世界領袖造訪吐瓦魯，正是要讓他們親眼看到這場危機的急迫性，並感受當地居民的困境。雖然目前各國對於具體的應對措施和責任分擔仍持續討論中，但吐瓦魯的遭遇確實提醒了全球，氣候變遷的影響真實存在，且正在威脅著一些國家與人民的生存。吐瓦魯的未來，以及其他類似國家的命運，將取決於國際社會能否團結一致，採取更有力的行動。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，吐瓦魯面臨的主要問題是什麼？造成這些問題的原因又有哪些？",
+      "生活與未來：你覺得海平面上升會對吐瓦魯居民的日常生活和文化造成什麼實際影響？你認為他們最需要哪些幫助？",
+      "獨立思考提案：針對吐瓦魯這樣的國家所面臨的氣候變遷危機，你覺得國際社會還可以怎麼做，才能更有效地幫助他們，同時也減緩全球暖化？"
+    ],
+    "enTitle": "Tuvalu: World Leaders Witness Climate Change Consequences",
+    "enContent": {
+      "basic": "Tuvalu, a small island nation in the Pacific, is facing big problems because of climate change. The sea level is rising, and world leaders went there to see the damage. The rising sea makes land smaller and fresh water salty. This hurts farming and makes life hard for people. Scientists say global warming, from things like factory pollution, makes the sea rise. Tuvalu wants big countries to stop pollution. Leaders are talking about how to help Tuvalu and others. The future of these islands depends on everyone working together.",
+      "intermediate": "The Pacific island nation of Tuvalu is confronting severe consequences of climate change, particularly rising sea levels. Recently, global leaders visited Tuvalu to firsthand observe the impacts, aiming to highlight the urgency of the crisis. The escalating sea levels are causing coastal erosion, diminishing land area, and contaminating freshwater sources with saltwater, making drinking water scarce and harming agriculture. Tuvalu and other low-lying island nations have consistently urged industrialized countries to reduce greenhouse gas emissions, which contribute to global warming and sea level rise. The visit aimed to underscore the immediate threat to these nations, emphasizing the need for international cooperation to address the climate crisis and support vulnerable communities.",
+      "advanced": "Tuvalu, a collection of low-lying atolls in the Pacific, serves as a poignant illustration of the immediate and severe repercussions of anthropogenic climate change. Recent high-level delegations, comprising world leaders, have visited the island nation to directly witness the existential threats it faces. The relentless rise in global sea levels, primarily driven by thermal expansion of ocean waters and glacial melt due to increased atmospheric greenhouse gas concentrations, is causing profound environmental and societal disruption in Tuvalu. Coastal erosion, salinization of freshwater aquifers, and compromised agricultural viability are critically endangering the nation's habitability and the cultural heritage of its inhabitants. Tuvalu has been a vocal advocate on the international stage, imploring major emitting nations to enact more stringent mitigation policies to curb carbon emissions. The ongoing discussions among global leaders reflect a growing recognition of the disproportionate impact of climate change on vulnerable states, necessitating robust international collaboration and adaptive strategies to safeguard their future."
+    },
+    "vocabulary": [
+      {
+        "word": "consequences",
+        "zh": "後果：做某件事情之後會發生的結果。例如，亂丟垃圾的後果就是環境會變髒亂。"
+      },
+      {
+        "word": "atoll",
+        "zh": "環礁：一種特殊的島嶼，外形像個圓圈，中間圍繞著一片淺海或湖水，通常由珊瑚礁堆積而成。吐瓦魯就是由許多環礁組成的。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-08",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RE9IaHRGT3A2LWtOekFRXzRQZVFRalBnYlpQLXF0dlZRb2xRakJ3V2NmZEk0Q3ZiTUxKTFNXZWYxTkdrQXFyeWFGVzdncE8xVTl1Zi1KaU1GXzU4SWtxMEdndFlpbW5QbWlnRHR4R0d5ZEpvc3dhVlVsdXZ6Z2M?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "美中兩大咖會面！川普預告「重大事情將發生」",
     "zhSummary": "美國前總統川普與中國國家主席習近平日前進行了一場會晤，川普會後形容這次對談「富有成效」，並預告未來將有「重大事情」發生，引起國際高度關注。",
     "zhContent": "<p>哇，國際新聞又有大進展了！美國前總統川普（當時為總統）和中國國家主席習近平，這兩位重量級的人物最近碰了面。根據中央社的報導，川普對這場會晤的評價非常高，他說雙方的討論「富有成效」，而且更預告未來「重大事情將發生」。這句話一出，立刻引起全世界的關注。</p><p>這場備受矚目的元首級會談，是在一個重要的國際場合中進行的。雖然報導中沒有詳細說明他們對談的具體內容，但可以確定的是，兩位領導人肯定聊了很多關於兩國關係和全球經濟的重要議題。川普在會後向媒體表示，他與習近平的交流很順利，氣氛也很好，雙方針對一些關鍵問題交換了意見。</p><p>為什麼這次會面會讓川普這麼興奮呢？因為美國和中國是世界上最大的兩個經濟體，他們之間的任何合作或摩擦，都會影響到全球的經濟發展和政治穩定。這次川普特別強調「富有成效」，意味著雙方可能在某些方面達成了共識，或是至少為未來的合作開啟了一扇門。他那句「重大事情將發生」，更是讓人對接下來的發展充滿好奇。</p><p>因此，根據川普的公開發言，這次他與習近平的會晤被定位為一次成功的交流。結果就是，他預期在不久的將來，美中兩國之間會有一些重要的進展或政策宣布。至於具體是什麼大事，目前還沒有進一步的細節，全世界都在等待著看後續的發展。</p>",
@@ -10007,461 +10462,6 @@
     "date": "2026-09-08",
     "sourceName": "BBC",
     "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "墨西哥教堂驚傳煙火爆炸！彌撒變調釀10死64傷",
-    "zhSummary": "墨西哥一間教堂在進行莊嚴的彌撒時，發生煙火爆炸意外，造成多人死傷，讓原本神聖的宗教儀式蒙上陰影。",
-    "zhContent": "<p>墨西哥一間教堂在進行莊嚴的彌撒時，突然發生了一起令人震驚的煙火爆炸事件。這個突如其來的意外，讓原本神聖的宗教儀式瞬間變調，造成了嚴重的傷亡。許多原本沉浸在祈禱與祝福氛圍中的信徒，在一聲巨響後陷入了恐慌與混亂。</p><p>根據外電報導，這起不幸的事件發生在2026年9月7日。當時，許多信徒正聚集在教堂內參與彌撒，空氣中瀰漫著節日的歡樂與莊重。然而，在儀式進行途中，不知何故，煙火突然引爆。巨大的聲響與火光瞬間吞噬了部分區域，現場頓時陷入一片混亂，人們驚慌失措地四處奔逃。</p><p>煙火在墨西哥等拉丁美洲國家，常被用於宗教慶典或特殊節日的歡慶活動中，為現場增添熱鬧氣氛。不過，將煙火引入室內或在人群密集的場所施放，潛藏著相當高的危險性。目前，當地政府當局仍在積極調查這批煙火的來源以及確切的爆炸原因，試圖釐清為何會在教堂內引發如此嚴重的事故。</p><p>這起事件已知造成了至少10人不幸死亡，以及多達64人受傷。這些受傷的信徒已被緊急送往醫院接受治療，有些傷勢較重的民眾仍在與死神搏鬥，急需各界援助。爆炸的慘痛後果，讓這個原本應該充滿祝福與喜悅的宗教節日，被悲傷與哀悼的氛圍籠罩。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Fireworks Explosion at Mexico Church Mass Kills 10, Injures 64",
-    "enContent": {
-      "basic": "A fireworks explosion happened inside a church in Mexico during a religious service called Mass. This sad event caused 10 people to die and 64 people to get hurt. It turned a holy celebration into a moment of chaos and sadness. The accident happened on September 7, 2026. Many people were gathered for the service when the fireworks suddenly went off. Authorities are now trying to find out why the fireworks exploded and who is responsible.",
-      "intermediate": "A shocking fireworks explosion occurred during a solemn Mass at a church in Mexico, turning a sacred religious ceremony into a scene of tragedy and widespread casualties. The incident, reported on September 7, 2026, saw numerous worshippers gathered inside the church when, for reasons currently under investigation, fireworks detonated unexpectedly. The powerful blast and sudden fire caused immediate chaos, with people scrambling for safety amidst the confusion. Fireworks are frequently used in religious festivals and celebrations in countries like Mexico, adding to the festive atmosphere. However, their use indoors or in densely populated areas carries significant risks. Authorities are actively working to determine the source of the fireworks and the precise cause of the devastating explosion. The blast has resulted in at least 10 fatalities and 64 injuries, with the wounded being rushed to hospitals for urgent medical attention.",
-      "advanced": "A solemn religious Mass in a Mexican church was tragically interrupted by a sudden fireworks explosion, transforming a sacred observance into a scene of profound grief and significant casualties. The incident, dated September 7, 2026, unfolded as congregants gathered for worship. Unforeseen circumstances led to the detonation of fireworks, unleashing a powerful blast and subsequent conflagration that engulfed a portion of the sanctuary, precipitating widespread panic and disorder. While fireworks are customary in Mexican religious festivals and public celebrations, enhancing the celebratory ambiance, their deployment within enclosed spaces or highly populated venues inherently poses substantial hazards. Local authorities have launched an intensive investigation to ascertain the origin of the explosive devices and the precise sequence of events culminating in this catastrophic incident. The tragedy has claimed at least 10 lives and left 64 individuals injured, many of whom are receiving critical medical care. The aftermath has cast a somber pall over what was intended to be a joyous and blessed occasion."
-    },
-    "vocabulary": [
-      {
-        "word": "Mass",
-        "zh": "彌撒 (發音：ㄇㄧˊ ㄙㄚ。這是一種莊嚴的宗教儀式，通常在教堂舉行，信徒會聚集在一起禱告、唱歌，聆聽神職人員的教導，有點像宗教裡的集會活動。)"
-      },
-      {
-        "word": "Casualty",
-        "zh": "傷亡 (發音：ㄕㄤ ㄨㄤˊ。這個詞指的是在意外或災難中受傷或死亡的人。例如，一場車禍的傷亡人數，就是指車禍中受傷和去世的人加起來有多少。)"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-09-07",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CNzJOaGJBb3BIdFk1NFJxVERjcjVHNnAtWUVHNGtjc0pOV3lKZnJ1S3A3MzQ0bGVyYzRqakp5MVZxNk45RUVPSDhWVQ?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "韓國珊瑚病懨懨？潛水員科學家齊心憂海洋",
-    "zhSummary": "韓國海域的珊瑚礁近日狀況不佳，出現萎靡、白化現象，引發潛水員與科學家的高度關切。專家推測這可能與氣候變遷造成的海洋環境變化有關，目前正持續監測並探究原因。",
-    "zhContent": "<p>最近，韓國的海底世界傳出一個讓好多人擔心的消息。潛水員和海洋科學家們都在說，他們在韓國水域裡看到的珊瑚，似乎不像以前那麼有活力了，有點「垂頭喪氣」的感覺。這些海底原本五彩繽紛的生物，現在看起來病懨懨的，讓常常觀察海洋的人非常擔心。</p><p>什麼是「垂頭喪氣」呢？簡單來說，就是這些珊瑚的健康狀況明顯變差了。潛水員們在水底下發現，有些珊瑚不只顏色變得暗淡，還出現了白化的狀況，甚至有些看起來不再那麼強壯，好像隨時會倒下。因為潛水員是常常直接跟珊瑚互動的人，他們最先察覺到這些不尋常的變化，也因此拉響了海洋生態可能出問題的警報。</p><p>這些來自海底的第一手觀察，也馬上引起了研究氣候變遷的科學家們注意。他們都知道，珊瑚的健康程度就像是海洋的「體溫計」一樣重要。韓國珊瑚這次的大幅「萎靡」，很有可能跟全球氣候變遷造成的海洋環境改變有關。比方說，海水溫度不斷升高，或是其他環境壓力，都可能讓這些脆弱的珊瑚受傷，甚至停止生長或直接死亡。</p><p>因此，現在潛水員們持續密切監測著這些珊瑚的各種變化，而科學家們也正在加緊腳步，努力找出造成這一切的確切原因。同時，他們也在評估這些變化對韓國當地海洋生態系統可能造成的長期影響。這項發現，讓大家更清楚地看到，地球環境的變化有多麼真實，特別是對於珊瑚礁這種極其重要的海洋家園來說。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korean Corals 'Slumping,' Worrying Divers and Scientists",
-    "enContent": {
-      "basic": "Divers in South Korea are worried. They see corals under the sea looking sick. Scientists are also worried. They think climate change might be making the corals unhealthy. The corals are losing their color and not growing well. Divers see this when they swim underwater. Scientists are studying why this is happening. They want to know how to help the corals.",
-      "intermediate": "Recent observations by divers in South Korea have revealed a troubling sight: the region's vibrant coral reefs are in decline. These 'slumping' corals appear less healthy, with some losing their vivid colors and showing signs of bleaching. Scientists, who are actively researching climate change, are particularly concerned. They believe that environmental shifts, possibly linked to rising ocean temperatures, are impacting these crucial marine organisms. Both divers and scientists are now closely monitoring the situation to understand the full extent of the damage and its potential long-term effects on the marine ecosystem.",
-      "advanced": "In a concerning development, divers and marine scientists in South Korea are witnessing a significant deterioration in the health of the nation's coral populations. The corals are described as 'slumping,' exhibiting signs of stress such as decoloration and widespread bleaching, which are indicators of declining vitality. This alarming trend has drawn the immediate attention of researchers actively engaged in climate change studies. Experts hypothesize that these observed changes are symptomatic of broader environmental pressures, potentially including elevated sea temperatures and ocean acidification, exacerbated by global climate change. Continuous monitoring efforts are underway by both the diving community and the scientific establishment to ascertain the precise causal factors and to assess the profound ecological implications for South Korea's delicate marine ecosystems."
-    },
-    "vocabulary": [
-      {
-        "word": "Slumping",
-        "zh": "萎靡不振、衰退。意思是狀況變差，失去活力，不再像以前那麼好。"
-      },
-      {
-        "word": "Coral",
-        "zh": "珊瑚。一種生活在海底，身體有硬骨架的海洋生物，牠們會聚在一起形成珊瑚礁，是很多海洋動物的家。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-09-07",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQckVTa1VNM2JwZ2RfQ3d5VGxILTlpT2VYS3NSUlFWNVNJX3RUdGFYV0piM0ptUlZUTUstRm5VTHJPS1BzY1cxaW8yanc4eTNuWjVmTDZ6dEJhcEVwa2dCTXByQWRmcWNFQ25uNE5RZF85c0NBd01YVVhhbWluZnBjM1l2RTRPcGJXRHJZTWRlc3BmQmhlMncyc0JrNXBvMDZLNkhLaEl1UmlMT1ctU0hFUllBT0pZTXNaczNuVGxvN3BpT3VZaGpwbEp1MnR0dw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "什麼？連「呼吸」都能變成藝術品！國際藝術家挑戰你的想像力",
-    "zhSummary": "一位國際知名的藝術家麗茲·拉納，不只用頭髮、睫毛和皮革來創作，甚至把「呼吸」也變成她的藝術材料。她發起一項特殊的「國際集體吐氣」計畫，挑戰我們對雕塑和藝術的傳統定義。",
-    "zhContent": "<p>你曾想過藝術品能用什麼材料做成嗎？石頭、木頭、黏土？這些都太常見了！現在，有一位來自國際的知名藝術家麗茲·拉納（Liz Larner），她正在用一些超乎你想像的東西來創作，例如：頭髮、睫毛、皮革，甚至連人類的「呼吸」也成了她創作的元素。這個特別的藝術概念，不禁讓人好奇，到底「呼吸」要怎麼變成實體的藝術品呢？</p><p>麗茲·拉納的創作方式非常前衛，她不只將日常生活中看似無用的小東西納入作品，更發想了一個名為「國際集體吐氣」（international group exhalation）的計畫。這項計畫的靈感來自於人類共同的生命現象——呼吸。她將呼吸視為一種無形卻充滿力量的物質，透過集結許多人的「吐氣」，試圖將這種短暫又看不見的生命氣息，轉化成一種新的藝術形式，挑戰觀眾對於「雕塑」定義的極限。</p><p>對於麗茲·拉納來說，藝術不應該只侷限於傳統的材料和形式。她希望能探索物質和非物質之間的界線，以及人類身體和環境之間的關係。透過使用像頭髮、睫毛這樣來自人體的材料，以及皮革等有機物質，她想傳達一種生命與存在感。而「呼吸」更是她對無形能量和集體意識的深刻思考，讓藝術不再只是視覺上的呈現，更能觸及人們內在的感知。</p><p>麗茲·拉納的這些前衛作品和概念，經常在世界各地的藝術展覽中亮相，引起了許多討論。她的藝術實踐，不只是呈現完成的藝術品，更像是一場持續進行的實驗，不斷探索藝術的邊界。她透過這些非凡的材料和出人意料的創作方式，鼓勵大家重新思考，究竟什麼才能被稱為藝術，以及藝術又能以什麼樣的形式存在。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「國際集體吐氣」計畫，你覺得可能包含哪些具體的藝術呈現方式？",
-      "生活與未來：你覺得麗茲·拉納這種用日常或無形材料來創作藝術的方式，會對未來的藝術發展造成什麼影響？",
-      "獨立思考提案：針對麗茲·拉納的「呼吸藝術」概念，如果你是她，還會想用什麼樣的「無形」或「非常規」材料來創作，並說明你的想法？"
-    ],
-    "enTitle": "Can Breath Be Art? International Artist Challenges Your Imagination with 'Exhalation' Sculpture",
-    "enContent": {
-      "basic": "Liz Larner, an artist, uses strange things for art like hair, eyelashes, and leather. She even uses people's breath! She has a project called 'international group exhalation.' She wants to see if breath, which you can't see, can be art. She challenges what we think art can be made from. Her work is shown in exhibitions around the world. She makes people think about what art truly is.",
-      "intermediate": "Internationally renowned artist Liz Larner is redefining sculpture by incorporating unconventional materials such as hair, eyelashes, and leather into her work. Most remarkably, she explores the concept of 'breath' as an artistic medium. Through her 'international group exhalation' project, Larner aims to transform the ephemeral and invisible act of breathing into a tangible artistic expression, prompting viewers to reconsider the boundaries of traditional sculpture. Her art challenges perceptions of what can constitute an art material, often exhibited globally, sparking discussions about the evolving definition of art.",
-      "advanced": "Liz Larner, an acclaimed international artist, consistently pushes the parameters of sculptural practice by integrating an array of unconventional and organic materials, including human hair, eyelashes, and leather. Her most conceptually provocative endeavor involves the exploration of 'breath' as a sculptural element. Through her 'international group exhalation' initiative, Larner endeavors to materialize the ephemeral act of respiration, transforming collective human exhalation into a profound artistic statement. This challenging approach compels audiences to critically reassess established notions of sculpture and materiality, fostering discourse on the expanded possibilities within contemporary art and the interplay between the corporeal and the conceptual."
-    },
-    "vocabulary": [
-      {
-        "word": "Sculpting",
-        "zh": "雕塑：一種藝術創作方式，藝術家會透過切割、塑造、堆疊或組合材料，來做出立體、有形狀的作品。"
-      },
-      {
-        "word": "Exhalation",
-        "zh": "吐氣：指把空氣從肺部呼出來的動作，也就是呼吸時往外吐氣的那個部分。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-09-07",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3AyVC1kcTB5SkpsSllkZkxXUEI1aEkyTm53Vmd2d3dHX3ItNXF0blZpa0RhcC1xQl9OR3lKMFQ1NFhTR3pldU9hc2xVTWpRdU1mRFhUMkt3Z1c5c2Z2aThSSVZJdFo1ekdrLTN6MTNfZkw0cURReDhKejlyMnA0ZHdua0ZoUzN1aXFuLXRvdC1WaWhHY2xjZmk0SkR2QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普最新聲明：靠AI發文，我為美國股市賺了數千億美元！",
-    "zhSummary": "美國前總統川普透過人工智慧（AI）工具發布社群貼文，宣稱在他任內為美國在股票市場上創造了「數千億美元」的收益。這項結合AI的政治宣傳引發關注。",
-    "zhContent": "<p>最近，美國前總統川普在社群媒體上發布了一則驚人消息，立刻引起了廣泛討論。他宣稱，在他擔任總統期間，為美國在股票市場上賺進了「數千億美元」的巨額財富。不過，這則新聞最特別的地方在於，這些吸引眼球的貼文並非他本人親手寫下，而是透過「人工智慧」（AI）工具自動生成的，這讓外界對於這項聲明和背後的發布方式都充滿好奇。</p><p>根據國際媒體CNBC的報導指出，川普明確表示，從他上任的2017年初到卸任的2021年初，美國的股市表現十分亮眼。他認為，由於他的政策和領導，美國經濟才會如此強勁，讓許多家庭的退休金帳戶和各種投資都大幅增長。他更直接將這些股票市場的獲利歸功於自己，強調是他為國家帶來了「數千億美元」的收益。這種說法在政治場合中，經常被用來強調執政者的經濟成就。</p><p>值得注意的是，這些看似來自川普本人的社群媒體發文，其實是由人工智慧軟體協助產生的。這代表川普的團隊可能利用AI技術來快速且大量地製作和發布政治聲明，以達到宣傳效果。這種運用AI進行政治傳播的方式，在現今的數位時代已越來越普遍，它能夠幫助政治人物迅速傳達訊息，並塑造自己的形象。雖然川普的說法沒有提供具體的計算方式，但這已經成功地在網路上引發了討論。</p><p>總體來說，川普這次利用AI發布他為美國股市創造巨大收益的聲明，不僅展示了政治宣傳如何結合最新科技，也再次凸顯了政治人物在公共討論中強調經濟成就的策略。這項由人工智慧生成的貼文，目前持續在網路社群中流傳，並引發各界對於其內容和形式的關注，但報導沒有進一步說明這些數字的確切查證結果或後續影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump Claims 'Hundreds of Billions' in Stock Gains for U.S., Using AI Posts",
-    "enContent": {
-      "basic": "Former President Trump made a big claim recently. He posted online that he made 'hundreds of billions of dollars' for the U.S. in the stock market during his time as president. What's interesting is that these posts weren't written by him directly, but were created with the help of Artificial Intelligence (AI) tools, according to news reports.",
-      "intermediate": "Former U.S. President Donald Trump recently attracted attention with social media posts where he stated he generated 'hundreds of billions of dollars' for the United States through stock market gains during his presidency. A report by CNBC highlighted that these significant claims were not personally drafted by Trump but were instead produced using Artificial Intelligence (AI) tools, marking a modern approach to political communication.",
-      "advanced": "Former U.S. President Donald Trump has drawn considerable attention with recent social media posts asserting that his administration was responsible for generating 'hundreds of billions of dollars' in stock market profits for the nation. As reported by CNBC, a notable aspect of these declarations is their origin: they were not personally drafted by Trump but were instead produced using artificial intelligence tools. This deployment of AI in political communication highlights a growing trend where advanced technology is leveraged to disseminate high-impact statements and shape public perception, especially concerning economic achievements during a political tenure."
-    },
-    "vocabulary": [
-      {
-        "word": "Stocks",
-        "zh": "股票 (公司為了籌錢發行的一種「憑證」，買了就代表你是這家公司的小小股東。如果公司營運得好，股票價格可能上漲，你就有機會賺錢；反之則可能賠錢。)"
-      },
-      {
-        "word": "Artificial Intelligence (AI)",
-        "zh": "人工智慧 (一種讓電腦可以像人一樣學習、思考和解決問題的技術。它能幫忙做很多事情，像是寫文章、畫圖，甚至分析大量資料，所以也常被叫做AI。)"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-09-07",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "我的體味，我卻聞不到？科學家揭開尷尬真相！",
-    "zhSummary": "外國科學雜誌指出，許多人聞不到自己的體味是正常的「嗅覺疲勞」現象。文章解釋為何會這樣，並提供簡單方法來判斷自己是否有體味，避免尷尬。",
-    "zhContent": "<p>嘿，大家有沒有過這種經驗，擔心自己身上有味道，可是怎麼聞都聞不到？別擔心，這可不是只有你才有這種困擾喔！根據英國知名科學雜誌的報導，其實很多人都聞不到自己的體味，但身邊的人卻可能聞得到。這聽起來有點糗，但背後是有科學解釋的呢！</p><p>這種現象被科學家們稱為「嗅覺疲勞」或「嗅覺適應」。我們的鼻子很聰明，它不斷接收環境中的各種氣味。當它長時間聞到同一種味道時，大腦就會選擇『忽略』它，把這個味道當成『背景音』處理。就像你一直戴著手錶，久了就不會感覺到它的存在一樣。所以，當你一直聞著自己的體味，大腦就會自動把這個味道過濾掉，自然就不會提醒你了。</p><p>那要怎麼知道自己有沒有體味呢？雜誌提到幾個小撇步可以試試看。最簡單的方式是，可以把穿了一陣子的衣服聞一聞，特別是腋下或領口附近，因為這些地方比較容易累積味道。另一個方法是，如果你有個很信賴、又會說實話的朋友，可以禮貌地問問他們的意見。不過記得，要找真的會跟你說實話，而且不會嘲笑你的好朋友才行喔！</p><p>總之，聞不到自己的體味是很正常的生理現象，不是你的鼻子壞掉了，也不是你特別奇怪。科學家們解釋，這是大腦為了讓我們能更專注於環境中其他新的、可能更重要的氣味而做的自動調節。所以下次如果覺得有點不安，可以試試看這些方法，或是想想這只是你的大腦在幫你『省電』而已，不用太過擔心喔。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "How to Tell if Your Body Odour is Obvious to Everyone But You",
-    "enContent": {
-      "basic": "Sometimes, people have body odor, but they don't notice it themselves. This happens because your nose gets used to smells that are always around. So, your brain stops telling you about your own smell. Others might notice it more easily.",
-      "intermediate": "It's a common experience: you might have body odor, but you can't smell it. Scientists call this 'olfactory fatigue.' Your brain naturally filters out constant smells, like your own body scent, so it can focus on new or more important odors in your environment. This is why others might detect an odor that you are completely unaware of.",
-      "advanced": "The phenomenon of not detecting one's own body odor, despite it being evident to others, is primarily attributed to olfactory habituation, also known as olfactory fatigue. Our olfactory receptors, upon prolonged exposure to a consistent stimulus, undergo a process of adaptation, reducing their responsiveness. Consequently, the brain registers the persistent scent as background noise, rendering us anosmic to our personal odor while those newly exposed to it can readily perceive it."
-    },
-    "vocabulary": [
-      {
-        "word": "Odour",
-        "zh": "氣味：指一個東西散發出來的味道，可以是好聞的香氣，也可以是不太好聞的臭味，像體味就是其中一種。"
-      },
-      {
-        "word": "Fatigue",
-        "zh": "疲勞：指身體或大腦因為長時間工作或接受刺激，感到很累、失去反應的能力，就像眼睛看久了會疲勞一樣。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-09-07",
-    "sourceName": "BBC Science Focus Magazine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tdkR3dXdfZGkwZ1B3RDl0SmdXdm9YOXcwTlZNWjhxQUlfRjFzMzBHd0U3eWE1aTN6ZE9DZUFJNlNCdDlJZFQ3NEc0VWZXTHN3ZTVfWUJKMlBZcURnYmtTYnVIQ0ZZWjZLMmxNM2hDWXZJVG51SlliUXNQa1J6Vjg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "荷莫茲海峽風雲變色：美國與伊朗關係緊張，國際油價隨之飆升",
-    "zhSummary": "最近，由於美國和伊朗在重要的荷莫茲海峽區域關係持續緊張，甚至發生了軍事摩擦，導致國際原油價格大幅上漲，全球經濟也因此受到關注。",
-    "zhContent": "<p>最近，全球石油市場出現了不小的波動。大家可能都有注意到，國際油價突然飆升，價格一下子漲了不少。這背後的原因，主要跟美國和伊朗之間，在一個叫做「荷莫茲海峽」的地方，關係變得越來越緊張有關。荷莫茲海峽對全世界來說非常重要，因為它是運送石油到各地的一條主要海上通道。可以想像，大部分從中東地區生產的石油，都要經過這裡才能送出去。所以，當這個海峽的局勢不穩定，全球的油價當然就會跟著受影響。</p><p>根據外國媒體報導，美國和伊朗最近在荷莫茲海峽的軍事行動似乎越來越頻繁。新聞標題中提到的「襲擊（strikes）」加劇，雖然沒有詳細說明具體的事件，但這通常意味著雙方可能有過一些軍事上的摩擦，或者互相發出了強硬的警告。這些舉動讓整個地區的緊張氣氛持續升高。當兩國的關係變得如此劍拔弩張時，大家就會擔心石油的運輸可能會受到阻礙，進而影響到全球的供應鏈。</p><p>其實，美國和伊朗之間的關係長期以來一直都不太好，常常因為一些政治、經濟或區域影響力的問題而產生矛盾。美國通常會要求伊朗遵守某些國際規範，並且對伊朗實施經濟制裁；而伊朗則認為美國干涉了他們的國家主權，並會採取行動來反制。這次在荷莫茲海峽發生的緊張情勢，可以說是雙方長期對立的一個縮影。各方都宣稱自己是為了保護國家利益和地區安全，但這些行動無疑讓原本就敏感的地區局勢更加複雜。</p><p>目前，這些緊張局勢最直接的結果就是國際油價的大幅上漲。當市場對未來石油供應感到不安時，就會有人開始囤積，或是預期未來油價會更高，導致價格瞬間被推高。這也讓全球的金融市場對中東地區的穩定性感到憂慮。截至目前為止，美國和伊朗的對峙仍然在持續，荷莫茲海峽的船隻運輸是否會受影響，以及油價未來走向如何，都還是大家關注的焦點。事件的發展仍待進一步觀察。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到「荷莫茲海峽」是全球重要的石油運輸通道。為什麼這條海峽會這麼重要，它的地理位置有什麼特別之處？",
-      "生活與未來：你覺得國際油價的飆升，對你日常生活中哪些事物可能產生實際影響？例如交通費用、物價等，請舉例說明。",
-      "獨立思考提案：針對美國與伊朗在荷莫茲海峽的緊張關係，你認為國際社會可以採取哪些和平手段，來幫助緩解衝突並確保石油運輸的安全？"
-    ],
-    "enTitle": "US-Iran Tensions Escalate in Strait of Hormuz, Causing Oil Price Surge",
-    "enContent": {
-      "basic": "The price of oil is going up fast because of problems between the United States and Iran near a key ocean path called the Strait of Hormuz. This strait is important because lots of oil ships pass through it. When things are tense there, people worry about getting enough oil, so prices go higher.",
-      "intermediate": "Recent reports indicate a rise in military actions and warnings between the US and Iran in the Strait of Hormuz, a crucial waterway for global oil shipments. This intensification of conflict between the two nations creates instability, leading to concerns about oil supply disruptions and consequently, a significant increase in international oil prices.",
-      "advanced": "Geopolitical tensions between the United States and Iran have sharply escalated within the strategic Strait of Hormuz, a vital chokepoint for approximately a third of the world's seaborne oil. This heightened confrontation, characterized by intensified military posturing and reciprocal warnings, has triggered a pronounced surge in global crude oil prices, reflecting market anxieties over potential supply interruptions and regional instability."
-    },
-    "vocabulary": [
-      {
-        "word": "Strait",
-        "zh": "海峽 (hǎi xiá) - 指連接兩片海域的狹窄水道。像是兩片大陸之間，海水從一條窄窄的路流過去的地方。"
-      },
-      {
-        "word": "Surge",
-        "zh": "飆升 (biāo shēng) - 形容數量或價格快速且大幅度地上漲。就像火箭一樣，一下子衝得很高很快。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-09-07",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國工作環境大調查：喬治亞、南卡羅來納州竟然在「墊底」行列！",
-    "zhSummary": "最新一份針對美國各州工作環境的評比報告出爐，喬治亞州和南卡羅來納州在「美國最適合工作的州」榜單上，排名非常靠後，幾乎是全國墊底的狀態，引起了廣泛關注。",
-    "zhContent": "<p>最近，美國一份備受關注的調查報告公布了，這份報告評比了「美國最適合工作的州」。結果顯示，位於美國南方的喬治亞州和南卡羅來納州，在全國各州的工作環境評比中，排名竟然非常靠後，幾乎是墊底的。這則消息是由當地媒體WRDW率先報導出來的，立刻引起了不少人的討論。</p><p>一般來說，這類「最適合工作的州」的排名，會綜合考量許多對求職者和在職人士很重要的因素。這可能包括一個州的平均薪水是否具有競爭力、工作機會的數量夠不夠多、員工福利和保障是否完善，以及整體的工作環境對員工來說是否友善等等。換句話說，這份報告是從多個角度去衡量，在哪些州工作，會讓人的職業發展和生活品質更有保障。</p><p>喬治亞州和南卡羅來納州這次的低排名，暗示著它們在這些關鍵的評估指標上，或許還有不少進步空間。這可能意味著，與美國其他表現較好的州相比，這兩個州在提供優渥薪資、豐富職位選擇，或是完善的勞工權益保障方面，可能還需要加強。這對於正在這兩州尋找工作，或是考慮未來發展的年輕人來說，是一個值得注意的訊息。</p><p>因此，根據WRDW的報導，喬治亞州和南卡羅來納州在最新的「美國最適合工作的州」評比中，確實落入了後段班。這個排名直接反映了這兩個州目前的工作市場和環境現況。這份報告提供了一個客觀的參考數據，讓大家能更清楚地了解美國不同州別的工作條件差異。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Georgia, South Carolina Ranked Among Least Desirable States for Work in U.S.",
-    "enContent": {
-      "basic": "A new report says Georgia and South Carolina are not good places to work. They are near the bottom when compared to other states in the U.S. This news comes from WRDW.",
-      "intermediate": "According to a recent report, Georgia and South Carolina ranked near the bottom in a list of 'Best States to Work in U.S.' This ranking often considers factors like job opportunities, wages, and worker benefits. The local media outlet WRDW highlighted this finding.",
-      "advanced": "In a comprehensive evaluation of 'Best States to Work in U.S.', both Georgia and South Carolina received a ranking near the bottom of the national assessment. This finding, reported by WRDW, suggests that these two Southern states may offer less favorable conditions in terms of job market strength, compensation, and overall worker welfare compared to other states across the nation."
-    },
-    "vocabulary": [
-      {
-        "word": "rank",
-        "zh": "排名：指在一個團體或清單中，按照某種標準（像是分數、表現）來決定順序和位置。例如，考試成績好的學生會排在前面。"
-      },
-      {
-        "word": "bottom",
-        "zh": "墊底：指在某個排名或比較中，位置最下面或最後面的。像是班上跑步比賽跑得最慢，就是墊底。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-09-07",
-    "sourceName": "WRDW",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWlxWndsM3gzSl9RSTgtU2tQWkdjZkx5OFpqczdXZEdBTlRkRTV6VzNLbG9PTlNXR3JxZ0Npc0hBRzg0b0FkR3BVQ01NMmtCV1ZyTHNTbDIzbEc0dFBOaWxvQ2pwTjFCMGZVd3h3Y0tQNEtkX2ZEUzd2S2RHRWtycFpDQWE0OHZFdVRkS1RXWHlXRVRDdmpF0gGrAUFVX3lxTFBNT1Y5TWNQN1BaVEM5UzBjeklUWFBlNjhiclB4Slh4WDd4cUJNRk1hR1JKTHpBeGZCWFJCellNWDhBaTBEUWd2Y2R4MEhEc3V0REhjcmNjVFlzOGpQMmFKVTVCdHZRVlA5RmU1eko1cDg5N29NOGJ6Wm5OdWdGUUtYMWVrMVNBX1pOdFRvdVNWc2FQVmRWWEpBYzVqcXdWaUlSZTFFUk82d0M3RQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "德國大選波瀾起！右翼政黨AfD異軍突起，全歐洲都在關注！",
-    "zhSummary": "德國近期的地方選舉中，極右翼政黨「德國另類選擇黨」（AfD）取得歷史性突破，引發歐洲各國關注其可能帶來的政治影響。",
-    "zhContent": "<p>德國最近幾個月的政治話題可說是高潮迭起，其中最引人注目的，就是一個叫做「德國另類選擇黨」（簡稱AfD）的政黨，在好幾個地方選舉中都拿到了超乎預期的好成績。這可不是個小事情，因為這個政黨長期以來被普遍認為是立場較為「極右翼」的團體，他們的迅速崛起不僅在德國國內引發激烈討論，更讓整個歐洲大陸的政治觀察家們都開始思考，這股歷史性的政治變化會對未來的歐洲格局造成什麼樣的深遠影響。大家都在密切關注，這股新興力量究竟會把德國甚至歐洲帶往何方。</p><p>說到AfD在這次選舉中的亮眼表現，主要集中在德國東部的幾個邦，像是圖林根、薩克森和布蘭登堡等地區。在這些地方的議會選舉中，AfD的支持度大幅提升，有些選區甚至一舉衝到了第二名，贏得了不少傳統上由其他大黨掌握的選民。這代表他們不再是政治邊緣的小黨，而是德國政壇上不容忽視的實實在在的政治力量了。過去，德國的主流政黨通常會形成「防火牆」，避免AfD參與地方聯合執政，但現在他們拿到這麼多選票，未來會不會改變現狀、甚至影響國家層級的政策走向，成了大家最關注的焦點。</p><p>許多政治分析師認為，AfD之所以能獲得這麼多選民的支持，部分原因可能是因為不少民眾對傳統主流政黨長期的執政感到不滿。像是在德國國內經濟發展不如預期、高通膨的壓力、能源政策的調整，以及關於難民和移民的大量湧入等議題上，AfD提出了許多與其他政黨截然不同的看法和解決方案。這些獨特的立場吸引了那些覺得自己聲音沒被聽見、或者認為主流政黨表現不佳的選民。透過選票，這些民眾希望表達他們對現有政策的不滿與變革的期望，這讓AfD的聲勢持續上升，成為一股不可忽視的政治浪潮。</p><p>AfD在德國地方選舉中展現的強勁表現，確實讓歐洲其他國家，特別是歐盟成員國，感受到了一股不小的壓力。許多歐洲領導人都在密切關注德國的內部政治變化，因為德國不僅是歐盟裡經濟體量最大、人口最多的國家之一，其政治走向和決策，往往會對整個歐盟的政策方向、外交策略以及內部團結產生深遠的連鎖效應。目前，歐洲各國政府和媒體都在持續討論這股在德國興起的政治新力量會如何影響未來的歐洲版圖，但確切的結果和長遠的變化，仍然需要時間來觀察與評估。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Europe Wrestles as Germany's AfD Achieves Historic Regional Gains",
-    "enContent": {
-      "basic": "Germany's AfD party did very well in recent local elections, getting more votes than expected. This party is often called \"far-right.\" Their success is making people across Europe talk about what this means for politics. They got a lot of votes in eastern German states, sometimes even becoming the second strongest party. This shows they are now a real political force. Some think people voted for AfD because they are unhappy with other parties' ideas on things like the economy or immigration. Other European countries are now watching Germany closely, as its politics can affect the whole EU. The future impact of this change is still unclear.",
-      "intermediate": "The \"Alternative for Germany\" (AfD) party has made significant and historic gains in recent regional elections across Germany. This far-right party's surge has prompted widespread discussion throughout Europe regarding its potential political ramifications. Particularly strong in eastern German states like Thuringia and Saxony, the AfD has achieved unexpectedly high vote shares, sometimes placing second. Analysts suggest that voter dissatisfaction with mainstream parties, particularly concerning economic issues, energy policies, and immigration, has fueled the AfD's rise. European nations are closely observing these developments, given Germany's influential role within the EU, understanding that its political shifts can have broader continental implications. The long-term effects remain to be seen.",
-      "advanced": "The Alternative for Germany (AfD) party has achieved unprecedented regional electoral success, prompting considerable unease and deliberation across the European continent. Labelled as a far-right populist entity, the AfD's historic gains, particularly in eastern German states such as Thuringia, Saxony, and Brandenburg, underscore a notable shift in the German political landscape. These results challenge the traditional cordon sanitaire maintained by established parties against the AfD. Political commentators attribute this surge, in part, to widespread voter disillusionment with incumbent mainstream parties, especially concerning contentious issues like economic stagnation, energy transition strategies, and immigration policies. The AfD's ability to capitalize on these grievances has allowed it to consolidate significant electoral support. As Germany is a pivotal member state of the European Union, the trajectory of its domestic politics is keenly watched by other European nations, anticipating potential ripple effects on EU policy formulation and broader geopolitical dynamics. The full implications of these developments continue to unfold."
-    },
-    "vocabulary": [
-      {
-        "word": "regional",
-        "zh": "地方的，區域的：指某個國家或範圍內的某個特定區域，例如德國東部的幾個「邦」，而不是全國性的事情。"
-      },
-      {
-        "word": "gains",
-        "zh": "斬獲，進展：意思是獲得了什麼好處或成就。在這裡指政黨在選舉中得到了更多的選票、支持或席位，讓他們的影響力變大了。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-09-07",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fNlhPd2lLbHhWVnRQc3ZKZ0NzSlBWQm1oV2p3Mkxta0JhRS11X3dTRGlQa01HX0JIa09JMUl2X1huakxnOFlsblljM2huaDhIb1FqWlVjelNaZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "開車滴酒不沾？南非討論「零酒精」駕駛新規定！",
-    "zhSummary": "南非正在認真討論一項新的交通法規，如果通過，未來駕駛人開車前將完全不能攝取任何酒精，也就是血液中酒精濃度必須是零，目的是為了大幅提升道路安全。",
-    "zhContent": "<p>嘿，你有沒有聽過「滴酒不沾」這句話？最近在南非，開車前「滴酒不沾」可能真的會變成一條嚴格的法律喔！南非政府正在討論修改他們的《國家道路交通法》，其中最引人注目的提案，就是未來所有開車的人，血液裡的酒精濃度必須是零。這代表什麼呢？簡單來說，就是只要喝了一點點酒，哪怕是一小口，都不能開車。</p><p>目前很多國家對於開車喝酒都有一定的限制，像是你可以喝一點點，只要血液酒精濃度沒有超過某個標準，就不算違規。但南非的這項新提案，可是要把這個標準直接降到「零」！所以，如果你在派對上喝了一杯含酒精的飲料，就算覺得自己很清醒，也不能開車。這條規定如果真的實施，將會是全球最嚴格的酒駕法規之一。</p><p>為什麼南非會想推動這麼嚴格的規定呢？其實背後的原因很嚴肅，主要是為了減少道路上的交通事故和死亡人數。南非的交通意外率一直偏高，其中有很大一部分都跟酒精有關。政府希望透過這樣的「零酒精」政策，徹底杜絕酒駕行為，讓每個用路人都能更安全，減少許多家庭因此破碎的悲劇。</p><p>目前這項法規還在討論階段，並沒有正式生效。不過，政府對於推動這項改變的決心非常大，希望很快就能將它變成正式法律。這項提案一旦通過，將會對南非的駕駛習慣帶來巨大的改變，也會讓他們在道路安全方面邁出重要的一步。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Zero Alcohol Level: South Africa Considers Stricter Driving Laws",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "abstain",
-        "zh": "戒除、忍住：意思是完全不去做某件事，或是完全不碰某種東西，像是「戒酒」就是指完全不喝酒。"
-      },
-      {
-        "word": "legislation",
-        "zh": "立法、法律：指一個國家或地方政府制訂出來的法律或規定，用來管理社會上的各種行為。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-07",
-    "sourceName": "SAPeople",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHR6M254NEN2dG1GanNQaHVVUTNIVVA4aVZGRWM5SzlZY1IxX3F5VXVuTE50RWtleTcybkNWa2Vya1lfbTJfbXdEcjg0bjJMRVoyMlJGSFpOSmJCLXpvSWFlZ3lFdXZLYkRBeFE5Z3lyRllEUk51UzBWYmZZYk9fZUlMeGJJSkduTmROSTBfbjVWNXh2cnhaamtfMA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "重要的國際會面：俄中伊三國領袖齊聚吉爾吉斯",
-    "zhSummary": "俄羅斯、中國和伊朗的國家領袖將前往中亞國家吉爾吉斯，參與一場重要的國際峰會，討論合作與區域事務。",
-    "zhContent": "<p>最近國際上有個受到關注的消息，那就是俄羅斯、中國和伊朗這三個國家的最高領袖，準備要到一個叫做吉爾吉斯的中亞國家，參加一場很重要的國際會議。這場會議被稱為「峰會」，簡單來說，就是各國元首或政府首腦級的人物聚在一起，面對面討論一些對全球或區域來說都很重要的大事情。</p><p>這次的峰會地點選在吉爾吉斯，這個國家雖然大家可能不太熟悉，但它在中亞地區地理位置重要。來自俄羅斯的總統、中國的國家主席以及伊朗的總統，都會親自出席。這樣的國際級別會面並不常見，表示他們之間有許多需要共同商議的議題，才會讓這麼多重量級人物齊聚一堂。</p><p>這些國家領袖在峰會上可能會討論的內容，通常會圍繞著如何加強彼此的合作關係、討論區域內的和平與穩定，以及應對一些共同面臨的挑戰，比如經濟發展或是安全問題等等。這種高層次的對話，目標就是希望透過直接溝通，找到解決問題的方法，並且讓各國之間的關係能夠更緊密。</p><p>這次在吉爾吉斯舉辦的峰會，可以說是一場受到國際社會高度關注的活動。當這幾位重要領導人齊聚一堂時，他們所說的每一句話和達成的每一項協議，都可能對未來的國際局勢產生影響。所以，這不僅是他們幾個國家之間的事情，也是全世界都在留意的一件大事。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Leaders of Russia, China, Iran to Attend Summit in Kyrgyzstan",
-    "enContent": {
-      "basic": "Important leaders from Russia, China, and Iran are going to Kyrgyzstan for a big meeting. This meeting is called a \"summit\" where top leaders talk about important global issues. They will discuss how to work together better and solve problems in their region. The world will be watching what they decide.",
-      "intermediate": "Russia's President, China's President, and Iran's President are set to attend a significant international summit in Kyrgyzstan, a Central Asian nation. Summits are high-level gatherings where heads of state or government convene to address critical global or regional matters. Discussions are expected to focus on strengthening cooperation, regional stability, and common challenges like economic development and security.",
-      "advanced": "Leaders from Russia, China, and Iran are slated to participate in a high-profile international summit hosted in Kyrgyzstan. This gathering, attracting top-tier political figures, underscores the strategic importance of multilateral dialogue in addressing complex global and regional dynamics. Anticipated agenda items include enhancing economic and security cooperation, fostering regional stability, and confronting shared geopolitical challenges. The outcomes of this summit are expected to be closely observed by the international community."
-    },
-    "vocabulary": [
-      {
-        "word": "Summit",
-        "zh": "峰會 (fēng huì)。這是一個超級重要的會議，通常是各國最厲害的領導人（像是總統或總理）坐在一起，討論全世界或某個地區的大事情。就像班級開會，但這是全球版的最高級會議。"
-      },
-      {
-        "word": "Kyrgyzstan",
-        "zh": "吉爾吉斯 (jí ěr jí sī)。這是一個位於中亞的國家，周圍被高山環繞，有著美麗的自然風光。雖然在新聞中不常聽到，但它在國際關係中扮演著地理上的重要角色。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-07",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNxZnNPeHFyTk9uOVlBcFI4YW9ack0tWDNZdG1ZdDNPVURHeWhyMGdHT0VRTVZxUkJJM01LUDlMRVU2ZGVXVU1NVGc4NE9wSm5kaG1CdnR3dlU5Rmcyck1hQjZIQkpJdWdqeGJpOW95cDN0eWYxYWN2NUtScERVbWY1RTk0WGlOOFM2QkdYenJ3ejBpU1VVVzBjb25DcklSWVZ6MXJhaXhQZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "深入印尼火海：志工如何拆解危險「碳炸彈」？",
-    "zhSummary": "印尼野火每年造成嚴重災情，尤其是泥炭地火災因其巨大碳排放被稱為「碳炸彈」。一群勇敢的志工，正冒著生命危險，用簡陋的工具在第一線奮力撲滅這些難以控制的地下火，保護當地環境與居民。",
-    "zhContent": "<p>你或許聽過「炸彈」，但你有聽過「碳炸彈」嗎？在遙遠的印尼，有一群特別的「拆彈專家」，他們是當地志工，正冒著生命危險，努力撲滅一種非常危險的野火。這些野火不是一般的森林火災，它們燒的是印尼的泥炭地，而這些泥炭地，正是科學家口中的「碳炸彈」。一旦被點燃，會釋放出驚人的二氧化碳，對地球環境造成巨大影響。</p><p>印尼的泥炭地是數千年前植物殘骸堆積而成的濕地，就像一個巨大的碳庫。當它因為乾旱或人為因素起火時，火勢不只會在地表蔓延，更會深入地底燃燒，變成難以撲滅的「地下火」。志工們的工作就是衝入這些充滿濃煙、高溫又危險的區域。他們通常只有簡單的水管、水泵，甚至只能用桶子提水，日以繼夜地往地底深處澆水，試圖將火勢控制住，因為這些地下火隨時可能讓地表塌陷，非常危險。</p><p>這些野火問題在印尼的乾季時尤其嚴重。許多時候，這些火災的起因與人類活動脫不了關係，例如為了開墾農地，種植棕櫚油或紙漿樹，而便宜行事地燒林。當這些火勢失控時，泥炭地就會像被引爆的炸彈一樣，不僅釋放海量的溫室氣體，造成嚴重的空氣污染，讓當地居民深受呼吸道疾病之苦，更對脆弱的生態環境造成不可逆的破壞。</p><p>面對這樣巨大的挑戰，印尼的志工們沒有退縮，他們是第一線的英雄。儘管資源有限，他們仍然憑藉著勇氣與毅力，持續在煙霧瀰漫的火場中奮鬥，努力遏止火勢蔓延。他們日復一日的行動，是印尼對抗這場環境危機的真實縮影，也是保護地球重要屏障的關鍵力量。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Volunteers Brave Dangerous 'Carbon Bombs' in Indonesia's Wildfires",
-    "enContent": {
-      "basic": "In Indonesia, brave volunteers are fighting dangerous wildfires. These fires burn in special areas called peatlands, which store a lot of carbon. When peatlands burn, they release a lot of carbon dioxide, which scientists call 'carbon bombs.' These fires are hard to put out because they burn underground. Volunteers use simple tools like hoses and buckets to spray water. They work in smoky, hot places, risking their lives to stop the fires. These fires often start because people clear land for farms. The smoke harms people's health and the environment. Volunteers are very important for fighting these fires and protecting Indonesia.",
-      "intermediate": "Imagine a team of heroes in Indonesia, battling not just flames, but what scientists term 'carbon bombs.' These are not ordinary fires; they rage across vast peatlands, which are ancient layers of decaying plant matter holding immense amounts of carbon. When ignited, these peat fires release staggering volumes of carbon dioxide, significantly contributing to climate change. What makes them so challenging is their tendency to burn deep underground, making them incredibly difficult to extinguish. Local volunteers, often equipped with basic hoses, pumps, or even just buckets, bravely enter these smoke-filled, high-temperature zones. They work tirelessly to douse the fires, knowing the ground could collapse beneath them. These wildfires frequently intensify during the dry season and are often linked to human activities like clearing land for agriculture, such as palm oil or pulpwood plantations. The resulting smoke creates severe air pollution, causing health issues for residents and irreversible damage to the ecosystem. Despite limited resources, these dedicated volunteers are at the forefront, their courage and perseverance crucial in the ongoing battle to protect Indonesia's precious natural environment.",
-      "advanced": "Deep within Indonesia's smoldering landscapes, an extraordinary battle unfolds, spearheaded by local volunteers confronting what are scientifically dubbed 'carbon bombs.' These aren't conventional wildfires; rather, they engulf expansive peatlands—ancient, carbon-rich deposits of partially decayed vegetation that, when ignited, unleash prodigious quantities of carbon dioxide, exacerbating global climate change. The intrinsic challenge of these fires lies in their subterranean combustion, rendering them exceptionally recalcitrant to conventional firefighting methods. Equipped often with rudimentary hoses, pumps, or even basic pails, these intrepid volunteers venture into treacherous, smoke-choked, and high-temperature environments. Their tireless efforts are directed at saturating the deep-seated embers, acutely aware of the imminent risk of ground collapse. These conflagrations typically escalate during the dry season, frequently originating from anthropogenic land-clearing practices, particularly for palm oil and pulpwood cultivation. The resultant, dense haze inflicts severe respiratory ailments upon local populations and precipitates irreparable ecological devastation. Despite palpable resource constraints, these indomitable volunteers stand as frontline sentinels, their unwavering resolve and tenacity indispensable in curbing the infernos and safeguarding Indonesia's invaluable natural heritage."
-    },
-    "vocabulary": [
-      {
-        "word": "volunteer",
-        "zh": "志工：指自願投入時間和精力，不收取報酬去幫助別人或服務社會的人。"
-      },
-      {
-        "word": "peatland",
-        "zh": "泥炭地：一種濕地，由分解不完全的植物殘骸層層堆積而成，儲存了大量碳。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-09-07",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pWEpHb2RiaU5PUC0wX0ItZExKWkF0WjMtZjQ2U183T2hSN09PeW9BZXJEMUJRQklZOTVHMHp1b3BRVFhtc0JkS2xmOTJSUWZjblZKTXowZ2RNZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "區域安全警報響起：菲律賓官員憂美韓軍演變動引發連鎖效應",
-    "zhSummary": "菲律賓國防部長特奧多羅公開表示，他擔心美國與南韓若減少聯合軍事演習，中國大陸可能會利用此機會，對印太區域的安全平衡造成影響。",
-    "zhContent": "<p>菲律賓國防部長吉爾伯特·特奧多羅最近提出了一個重要的擔憂。他表示，如果美國和南韓之間減少了他們共同舉行的軍事演習，中國大陸可能會利用這個機會，從中獲利，這可能對地區的安全穩定造成衝擊。特奧多羅部長的這番話，是從菲律賓的國家安全角度出發，對印太區域的動態表達關切。</p><p>美國和南韓每年都會進行多次聯合軍事演習，目的是為了加強兩國的防衛能力，並確保區域的和平。這些演習通常包含陸海空三軍的協同訓練，是盟友間展現團結和實力的方式。特奧多羅部長擔心，一旦這些演習的規模或頻率有所縮減，就可能被其他國家視為一種「空檔」，從而試圖改變當前的力量平衡或強化自身的影響力。</p><p>特奧多羅部長作為菲律賓的國防部長，他的發言是從他國家的戰略考量出發。菲律賓位處重要的地理位置，長期以來也與美國保持著緊密的軍事合作關係。因此，他非常關心整個印太區域的和平與穩定。他認為，盟友間的軍事合作是維持區域穩定的關鍵，任何的變動都可能牽一髮而動全身，引發新的挑戰。</p><p>總體來說，特奧多羅部長的發言，不是在指控任何一方，而是希望提醒大家，地區的安全局勢非常敏感。他認為，保持盟友間強而有力的軍事合作，對於嚇阻潛在的威脅、維護區域和平來說至關重要。這番話讓大家再次關注到，國際關係中，軍事部署和演習對於維持平衡的影響力。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Regional Security Alert: Philippines Official Fears US-South Korea Exercise Cuts Could Be Exploited by China",
-    "enContent": {
-      "basic": "Philippines Defense Secretary Gilbert Teodoro recently shared a big worry. He said that if the United States and South Korea do fewer military exercises together, China might use this chance to get more power in the region. Military exercises are when different countries train their soldiers together to be ready for anything.",
-      "intermediate": "Philippines Defense Secretary Gilbert Teodoro has expressed a significant concern. He believes that any reduction in joint military exercises between the United States and South Korea could create an opportunity for China to increase its influence in the region, potentially affecting overall security stability. These drills are crucial for allies to maintain defense readiness and show their unity.",
-      "advanced": "Philippine Defense Secretary Gilbert Teodoro issued a cautionary statement, indicating his apprehension that a potential scaling back of joint military exercises conducted by the United States and South Korea might be leveraged by China. Such a move, he argues, could disrupt the existing regional security architecture and empower China to assert greater geopolitical influence, underscoring the delicate balance maintained by allied military deterrence in the Indo-Pacific."
-    },
-    "vocabulary": [
-      {
-        "word": "exploit",
-        "zh": "利用／濫用：指抓住機會，或不當地使用某種情況或資源來為自己謀利，帶有一點負面的意思。"
-      },
-      {
-        "word": "exercises",
-        "zh": "軍事演習：指軍隊為了訓練和測試作戰能力，模擬真實戰鬥情況的活動，就像學校運動會前的訓練一樣。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-09-07",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblpmdXplOXBOQVExNG5JSkkta1E0VEJYNDRqRG1ncUNrQ1Q3eS1RQmQ5T05OUG1rbUVYakhHM0hzWUwyRHJIa1FmWmFCeXdRbF8xbmctNVpXZ3ZDaldhMjJNMEVZMXlLU1ZSandKQl96MzhXMTJEdUhOcXNUZGJ3RE15X01hYlE5NFMzaEFPbjY0REQ1Z2Q3Q0RFeWpFZnFiUHpKckNCcjE0SEptdXRyZVlJRVAydHJCQjVYdHktZ3U0T3ZrVmNr?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋小島成美國「友好港口」：彭林島的新角色",
-    "zhSummary": "南太平洋的庫克群島中，一個叫做彭林島的小島，最近跟美國達成一項協議，讓它成為美國船隻的「友好港口」。這代表美國的船艦未來可以停靠、補給，這個合作主要是為了幫助美國在太平洋地區，更好地應對一些被視為「不好的行為者」所造成的挑戰，確保地區的和平與穩定。",
-    "zhContent": "<p>你或許沒聽過「彭林島」，它是南太平洋庫克群島的一個小島。最近，這個遙遠的小島上發生了一件大事，讓它躍上了國際新聞版面：彭林島將成為美國海軍船隻的「友好港口」。這項消息是從國外媒體RNZ報導出來的，意思就是說，美國的船隻未來可以很友善地來到這裡停靠、補給物資，甚至讓船員休息。</p><p>那麼，什麼是「友好港口」呢？簡單來說，就是一個歡迎外國船隻停靠，提供方便的地方。這次美國選擇彭林島，主要是為了在廣闊的太平洋地區，能夠更好地執行任務，應對一些被他們稱為「不好的行為者」所帶來的影響。這些「不好的行為者」通常指的是那些可能破壞地區穩定、或從事非法活動的國家或團體，例如非法捕魚，或試圖擴大自身在地區的影響力。</p><p>庫克群島的政府對於這項合作表示歡迎。他們認為，這不僅能加強與美國的關係，也能提升彭林島當地的經濟和基礎設施。對美國來說，在太平洋地區擁有更多這樣的友好據點，有助於他們更好地保護地區安全，確保航運自由，並與盟友一起維護國際秩序。這也是美國長期以來在太平洋地區加強合作策略的一部分。</p><p>目前，這項協議已經確認，意味著未來美國的軍艦和海岸巡防隊船隻，將有機會定期造訪彭林島。這對彭林島的居民和整個南太平洋地區來說，都是一個值得關注的新發展，可能帶來各種新的變化和機會。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到「不好的行為者」，你認為這可能指的是哪些方面或哪種類型的活動？",
-      "生活與未來：你覺得彭林島成為美國的「友好港口」後，對當地的居民和生活會造成什麼實際影響？",
-      "獨立思考提案：針對這類涉及國家間安全合作的事件，你覺得還有哪些面向是我們在閱讀新聞時可以多加思考的？"
-    ],
-    "enTitle": "Penrhyn Island Becomes a 'Friendly Port' for the US in the Pacific",
-    "enContent": {
-      "basic": "",
-      "intermediate": "",
-      "advanced": ""
-    },
-    "vocabulary": [
-      {
-        "word": "Port",
-        "zh": "港口 (gǎngkǒu): 船隻停靠、裝卸貨物和乘客的地方。想像一下，就像汽車可以停在停車場一樣，船會停在港口。"
-      },
-      {
-        "word": "Counter",
-        "zh": "應對/對抗 (yìngduì/duìkàng): 採取行動來反擊或處理某個挑戰或威脅。就像玩遊戲時，你要想辦法『對抗』魔王一樣。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-09-07",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc3N0b2ZlUHJjOTB4MTJWRG02dF9LbXgtYmFqVDlqanhpZEl2dkR3b0o5bFN1YXpFa2trTzEyRl9Gd045Qk41YnFYZUlPNFdVZExxMWFoQjBpbzY2ZUdKX1Q5cDhwN1ZhSmttbnlkWV9sYnpkRU1WWlI0TVBuQUNNaTB6M2xVbjd0dVRZQXZQS2lxTVlhdmZQNFhGNmJqeDcxNkRFemw1eENtUTdabUlTT2w0U1VGME9jUVRmQ2VDbzVMWTdKX05qdWFrRQ?oc=5",
     "isFeatured": false
   }
 ]
