@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "美軍大洗牌！將領要少兩成，還要蓋40年來第一座超大新基地！",
+    "zhSummary": "美國軍方最近宣布了一系列重大變革，除了將大幅裁減高階將領，也將打造一座可容納兩萬五千名軍人的全新基地，這可是四十年來從沒發生過的大工程。",
+    "zhContent": "<p>最近，美國軍方傳來一個震驚大家的消息，他們要進行一場超級大的改革！根據媒體報導，一位名叫赫格塞斯的官員已經對外宣布了這些新計畫。這些改變預計會對美國軍隊的未來產生很深的影響，因為他們不只動到最上層的指揮官，連基礎建設都要大翻新。</p><p>這次改革有兩個主要重點。首先，美國軍方計畫要裁掉大約兩成的將領。將領們是軍隊裡位階很高的指揮官，負責帶領許多士兵和制定作戰策略，所以一次裁減這麼多，真的是很不尋常的決定。這表示軍隊的領導結構將會變得很不一樣。</p><p>再來，更讓人眼睛為之一亮的是，美國軍方還要蓋一座全新的軍事基地！你知道嗎，這可是他們近四十年來，第一次蓋這麼大規模的新基地呢。這座超級大的基地設計可以容納高達兩萬五千名軍人，這麼多的人要住在一起、訓練和生活，需要非常完善的設施和規劃。</p><p>這項龐大的計畫顯示了美國軍方正在為未來的挑戰做準備，他們希望透過精簡高層人力和建設現代化的訓練場所，讓整個軍隊變得更有效率、更有戰鬥力。目前這些變革都還在初步宣布階段，具體會如何實施以及後續發展，都將是大家關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提及的「將領」指的是什麼樣的軍人？裁減將領與興建新基地這兩件事，你覺得哪一個對軍隊的影響可能更大？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，被裁減的將領、在新基地服役的軍人，或是在基地附近生活的人們？",
+      "獨立思考提案：針對美國軍方這次的改革，你覺得除了裁減將領和蓋新基地之外，還可以怎麼做，才能讓軍隊變得更好、更有彈性？"
+    ],
+    "enTitle": "US Military Undergoes Major Transformation: Generals Cut, New Base Built",
+    "enContent": {
+      "basic": "The US military is making big changes! They're cutting a lot of their top leaders (generals) and building a brand new military base. This new base will be huge and can fit 25,000 soldiers. It's the first time they've built such a big new base in 40 years.",
+      "intermediate": "The United States military recently announced significant reforms. Officials stated that approximately 20% of their high-ranking officers, known as generals, will be dismissed. Additionally, plans are underway to construct a large new military installation capable of housing 25,000 personnel. This marks the first time in four decades that the US military will build a base of this scale.",
+      "advanced": "A substantial transformation is underway within the United States Armed Forces, as recently disclosed by officials including Hegseth. The sweeping reforms entail a strategic reduction of approximately 20% of the military's general officers, aiming to streamline leadership structures. Concurrently, the military plans to establish its first major new base in 40 years, designed to accommodate up to 25,000 service members. This dual approach signals a significant recalibration of military resources and operational capabilities."
+    },
+    "vocabulary": [
+      {
+        "word": "Reform",
+        "zh": "改革。指的是改變某個制度、組織或習慣，讓它變得更好或更有效率。就像學校改新的規定，讓大家上課更方便一樣。"
+      },
+      {
+        "word": "General",
+        "zh": "將領。在軍隊裡，將領是職位很高的指揮官，通常負責帶領大批士兵，並制定重要的作戰計畫，像是一個軍隊的隊長。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-10",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FdHJUNG95eHVNVGh6SUNOQktoajNGX3lhc2QtSjFmek56dDZXYW94YzZLQlJmMkxEcEhSekZzeXJ1TzVVd3Q5d3BsRUJMTWVpLV80Z05NMWwzV00?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "聯合國氣候報告引發全球熱議：各國為何吵翻天？",
+    "zhSummary": "一份來自聯合國的氣候報告，原本旨在提供地球氣候變化的科學依據，卻在公布後引發了多國的意見分歧。各國對於報告中氣候變化的嚴重性、減排時程及責任分配等議題持有不同看法，導致激烈的討論與爭辯。",
+    "zhContent": "<p>聯合國近期公布了一份關於全球氣候變化的重要報告，這份報告詳細分析了地球目前面臨的氣候挑戰，以及人類活動對此造成的影響。通常，這類報告都是由來自世界各地的頂尖科學家共同完成，目的是為了提供最可靠的科學證據，讓各國政府能根據這些資料來制定應對氣候變化的策略。但這次，報告的內容卻引發了一些爭議，不是所有國家都對報告中的每個部分都意見一致。</p><p>這些分歧主要發生在報告的某些關鍵說法，還有對於未來該如何減緩氣候變化的建議上。例如，有些國家可能認為報告中對氣候變化的嚴重性描述得太過誇張，或者覺得報告要求大家在減少溫室氣體排放的時程上太過緊迫，會影響到他們國家的經濟發展。而另一些國家，特別是那些已經受到氣候變遷嚴重影響的小島國或開發中國家，則可能覺得報告的內容不夠強硬，認為應該提出更積極、更快速的行動方案。</p><p>這就好比大家在看一份很重要的作業，雖然目標都是要完成它，但對於「怎麼做」或「做到什麼程度」卻有不同的看法。這些爭議往往發生在聯合國相關會議上，各國代表會針對報告裡的每一句話進行討論、甚至是激烈的辯論，確保最終發表的版本能反映出各方的立場與關切。尤其在報告提到「哪些國家該負更多責任」或「該投入多少錢」等敏感議題時，更是會出現拉鋸戰。</p><p>儘管存在這些不同的意見，這份聯合國氣候報告最終還是會被視為全球應對氣候變化的重要指引。這些爭議的過程，其實也反映了各國在面對全球性挑戰時，如何在各自的利益和共同的目標之間尋求平衡。目前，這份報告以及圍繞它的討論，將持續影響著國際間對於氣候行動的決策方向。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "UN Climate Report Sparks Global Disagreements",
+    "enContent": {
+      "basic": "A new report from the United Nations about climate change has caused disagreements among countries. The report, created by scientists, gives facts about global warming. However, different nations have different opinions about how serious the problem is and what actions should be taken. Some countries think the report's warnings are too strong and might hurt their economy if they follow all the advice. Other countries, especially those already affected by climate issues, feel the report isn't strong enough. These discussions happen in UN meetings where countries debate every part of the report. Despite the disagreements, the report helps guide global efforts to fight climate change.",
+      "intermediate": "The United Nations recently released a significant report on global climate change, providing scientific evidence on Earth's current challenges and human impact. While intended to guide government policy, the report's findings have sparked considerable disagreement among member states. These disputes typically center on the severity of climate change, the proposed timelines for emission reductions, and the allocation of responsibilities and costs. Countries with heavy reliance on fossil fuels often express concerns about economic repercussions, while vulnerable nations advocate for more aggressive action. These intensive debates at UN forums highlight the complex process of forging international consensus on global environmental issues, even as the report remains a crucial reference for future climate policy.",
+      "advanced": "The latest United Nations climate report, a comprehensive synthesis of global climate science, has ignited substantial contention among member nations. Authored by a consortium of leading scientists, its objective is to furnish robust data for national policymaking. However, the report's implications regarding the urgency of climate action, the stringent timelines for decarbonization, and the equitable distribution of mitigation responsibilities have fractured international consensus. Developing economies, often disproportionately affected by climate phenomena, frequently argue for more decisive and immediate global responses, while industrialized nations, particularly those with fossil fuel-dependent sectors, voice apprehension over the potential economic burdens and transitional challenges. These line-by-line negotiations within UN intergovernmental sessions underscore the intricate balance between national sovereignty, economic interests, and collective global imperatives in shaping climate policy. Nevertheless, the report serves as a pivotal reference point, steering future international climate discourse and action."
+    },
+    "vocabulary": [
+      {
+        "word": "Disagreement",
+        "zh": "爭議 (zheng yi)：當大家對同一件事有不同的看法或意見不合時，我們就說有爭議。想像一下，班上同學要選出一個最喜歡的運動，每個人想選的都不一樣，這就是爭議。"
+      },
+      {
+        "word": "Climate Change",
+        "zh": "氣候變遷 (qi hou bian qian)：指的是地球的氣候在很長一段時間內發生了明顯的改變。這可能包括全球變暖、極端天氣（像很熱很熱的夏天或很大的颱風）越來越多，或下雨的地方變乾旱、乾旱的地方下大雨等不尋常的狀況。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-10",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUdzLTVpMV9TV2dsNFJCVkdjOHBmUHA4OVBibEhyaVVoeDd4cFA4bFJCNlJSVFdoSFJEUXNJMmhFbmVVaUFEbVJUYXF5bEZvOVJkS2dVVEFRa1UwbWRfaWJPYW90YmtCampNUXlVU3BQRzdTS0NHTlJlQXpuSWo4SHpiVHdzNTg1aUZKNTZmT1I?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "Z世代發威！藝術市場不再是大人專屬，年輕人品味才是新潮流！",
+    "zhSummary": "根據外媒報導，全球藝術市場正被「Z世代」年輕人的品味與購買力重新定義。他們利用科技、關注理念，讓藝術界開始全面適應新一代的喜好與消費模式。",
+    "zhContent": "<p>嗨！各位雜誌讀者，你們有沒有想過，藝術市場這個聽起來有點遙遠、好像都是大人才會關心的世界，現在居然被我們這一代年輕人大大影響了呢？根據國外媒體CNBC的報導，我們「Z世代」的朋友們，也就是那些大概在1990年代中後期到2010年代初期出生的大家，正在藝術品買賣這個領域，帶起一股全新的風潮。不再只是傳統的收藏家說了算，現在年輕人的品味和選擇，正成為市場上的新指標。</p><p>這股「Z世代」力量，可不是隨便說說的。報導指出，我們這群年輕人對藝術的看法和接觸方式，跟上一代很不一樣。大家可能從小就習慣了網路和科技，所以對於數位藝術、線上畫廊或是用社群媒體發現新藝術家，都感到很自在。比起傳統的藝術品，Z世代可能更喜歡那些有故事、能表達自己想法，或是帶有當代文化特色的作品。這些新穎的選擇，正在悄悄改變整個藝術市場的遊戲規則。</p><p>為什麼Z世代能夠這麼快就主導藝術市場的走向呢？其中一個重要原因，可能是我們對資訊的接收能力。透過社群平台，我們更容易接觸到世界各地的藝術資訊，也更容易認識到那些不那麼主流、但潛力十足的新銳藝術家。加上Z世代更注重個人價值和社群連結，所以當他們選擇購買藝術品時，不僅是看作品本身，也可能關心藝術家背後的故事、作品傳達的理念，甚至作品在數位世界中的表現方式。</p><p>因此，現在不論是大型的拍賣行、知名的畫廊，甚至是藝術展覽，都開始非常重視Z世代的喜好和消費模式。他們會調整自己的展覽內容、行銷策略，甚至開發新的線上平台，來吸引這群年輕的買家和收藏家。這代表著，未來會有更多符合我們時代精神的藝術作品被看見，藝術市場也將變得更加多元和活潑，充滿了屬於Z世代的嶄新活力。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Z世代是如何改變藝術市場的？他們跟上一代人的消費習慣有什麼不同？",
+      "生活與未來：你覺得這個改變會對藝術家、畫廊，甚至是你未來接觸藝術的方式造成什麼實際影響？",
+      "獨立思考提案：針對Z世代對藝術市場的影響，你認為藝術界還可以怎麼做，才能更好地吸引和服務這群年輕的買家呢？"
+    ],
+    "enTitle": "Gen Z Redefines the Art Market: Young Tastes Become the New Trend",
+    "enContent": {
+      "basic": "Did you know that the art market, often seen as a grown-up world, is now heavily influenced by young people like us? According to CNBC, 'Generation Z' (those born roughly between the mid-1990s and early 2010s) is setting new trends in buying and selling art. Our generation's tastes and choices are becoming key drivers in this market. We're comfortable with digital art and online galleries, and we often look for art that tells a story or reflects current culture. This is changing how art is shown, bought, and sold, with galleries and auction houses adapting to attract younger buyers like us. The art world is becoming more diverse and exciting, thanks to Gen Z's fresh energy.",
+      "intermediate": "The art market, traditionally dominated by older collectors, is experiencing a significant shift as Generation Z increasingly shapes its dynamics. A CNBC report highlights that Gen Z, individuals born from the mid-1990s to early 2010s, is becoming a primary force in defining new trends and preferences. Their upbringing in a digital age makes them naturally inclined towards online art platforms, digital art forms, and discovering artists through social media. Unlike previous generations, Gen Z often seeks art that embodies contemporary cultural narratives, social commentary, or personal values. This distinct approach is prompting traditional art institutions—galleries, auction houses, and exhibitions—to re-evaluate their strategies, from marketing to curatorial choices, to cater to this influential demographic. The result is an evolving art landscape that promises to be more inclusive, diverse, and responsive to the tastes of a younger generation.",
+      "advanced": "The contemporary art market is undergoing a profound transformation, with Generation Z emerging as a pivotal demographic dictating new tastes and consumption patterns, as reported by CNBC. This cohort, characterized by its digital native status and a distinctive set of values, is fundamentally reshaping the traditional paradigms of art acquisition and engagement. Their comfort with online platforms and social media facilitates a democratized access to art, bypassing conventional gatekeepers and fostering an appreciation for diverse, often non-mainstream, artistic expressions. Gen Z's purchasing decisions are frequently influenced by factors beyond aesthetic appeal, encompassing an artist's narrative, the artwork's conceptual underpinnings, and its resonance with contemporary social and cultural discourse. Consequently, established art institutions are compelled to innovate, adopting digital strategies, curating thematic exhibitions appealing to younger sensibilities, and recalibrating their marketing efforts. This strategic pivot signifies an impending recalibration of the art ecosystem, promising a more dynamic, technologically integrated, and socio-culturally responsive market aligned with the ethos of its burgeoning youth patrons."
+    },
+    "vocabulary": [
+      {
+        "word": "Gen Z",
+        "zh": "Z世代：Z世代指的是大概在1990年代中後期到2010年代初期之間出生的人。他們是數位原住民，從小就接觸網路和科技，對社會和文化有很多獨特的看法。"
+      },
+      {
+        "word": "Art market",
+        "zh": "藝術市場：藝術市場是指藝術品被買賣交易的地方，包括畫廊、拍賣會、藝術展覽等等。這裡的價格和流行趨勢，都會受到買家和收藏家品味的影響。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-10-10",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaS1EQ3JydmkzdVRWMnNRWGt6MlVhSEJNRG1aVEp6TGc0V1dtUzhOMjZnN1dqcEFHSzVuc2lMcTlfdjVMOXFYa09kNzBua1pFcnpFeEpuMXJvVE5VZ29UR1FpbC05NktpV2swZTM4WVM2Vy1TOWk3WjRwTDlHd0VrRVYyb0NST0hfRGR0bVpQX25vSjJYZXBwWUxCaWtzLXNPNWtYb2trckxOdDdF?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「老大哥」的困境？AI監控公司Flock傳出大量裁員，原因竟是引發眾怒！",
+    "zhSummary": "一家開發人工智慧監控技術的新創公司Flock，最近傳出因為外界的強烈反彈聲浪，不得不裁減數百名員工的消息。這顯示即使是高科技公司，也必須面對社會大眾對於隱私和道德的疑慮。",
+    "zhContent": "<p>嘿，同學們！你有沒有想過，當科技越來越發達，我們的生活會變得怎麼樣呢？今天我們要來聊聊一個叫做Flock的人工智慧（AI）監控新創公司。他們主要的業務是研發和銷售一套AI監控系統，簡單來說，就是利用人工智慧技術來進行各種監控，聽起來是不是有點科幻片的感覺？不過，最近卻傳出他們因為遭遇強烈的社會反對聲浪，不得不裁掉好幾百名員工的消息。</p><p>根據《衛報》的消息來源指出，Flock這家公司開發的AI監控技術，過去就曾引起不少討論。這種技術可能可以幫助我們解決一些社會問題，但也同時引發了大家對個人隱私和資料安全的憂慮。畢竟，沒有人希望自己的日常生活總是被某種科技默默地觀察著，對吧？當大家發現這類技術可能被廣泛應用時，社會上就開始出現很多反對的聲音，也就是我們常說的「反彈」。</p><p>這些反彈聲浪對於Flock的營運造成了不小的壓力。當一家公司開發的產品或服務，讓社會大眾感到不安或不信任時，公司的發展就會遇到困難。這種情況下，Flock可能面臨著業務量下滑、潛在客戶卻步，甚至是合作夥伴重新評估等問題。長期下來，公司為了調整策略或是減少開支，就不得不做出一些艱難的決定。</p><p>因此，來自各方的反對聲音和社會壓力，最終導致了Flock這一次大規模的裁員行動。消息來源透露，他們將會裁減數百名員工，這對於許多家庭來說無疑是一個沉重的打擊。目前看來，這就是AI監控技術在面對真實世界的倫理與隱私挑戰時，一個直接且具體的結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Flock公司被裁員的原因是什麼？新聞裡是怎麼描述社會大眾對Flock公司的看法或行為？",
+      "生活與未來：你覺得AI監控技術在生活中可能出現在哪些地方？如果一個城市廣泛使用這種技術，你覺得對市民的生活會造成什麼實際影響？",
+      "獨立思考提案：針對這次Flock裁員事件，你覺得AI公司在開發新技術時，除了技術本身，還應該考慮哪些面向，才能避免類似的社會爭議？"
+    ],
+    "enTitle": "AI Surveillance Startup Flock to Cut Hundreds of Jobs Amid Backlash, Sources Say",
+    "enContent": {
+      "basic": "An AI surveillance company called Flock is reportedly cutting hundreds of jobs. This news comes after a lot of people expressed strong negative feelings about their technology. Surveillance means watching or monitoring people and places. AI surveillance uses smart computer programs to do this. People are worried about their privacy when companies use these kinds of tools. The job cuts show that even new tech companies have to listen to what society thinks about their products.",
+      "intermediate": "Flock, a startup focused on artificial intelligence (AI) surveillance technology, is reportedly reducing its workforce by several hundred employees. This decision is said to be a direct consequence of significant public backlash. AI surveillance involves using sophisticated algorithms and cameras to monitor activities, which has raised considerable ethical concerns regarding individual privacy and potential misuse of data. The strong societal opposition seems to have impacted the company's operations, leading to these substantial job cuts as reported by The Guardian.",
+      "advanced": "Reports from The Guardian indicate that Flock, an AI surveillance startup, is poised to implement substantial job reductions, potentially affecting several hundred employees. This strategic move is attributed to considerable public backlash concerning its AI-powered monitoring technologies. The controversy surrounding AI surveillance typically revolves around profound ethical dilemmas, including the erosion of individual privacy, potential for algorithmic bias, and implications for civil liberties. The reported job cuts underscore the tangible impact of public and societal pressure on technology companies operating in sensitive domains, demonstrating how ethical considerations and public acceptance can directly influence business viability and workforce decisions."
+    },
+    "vocabulary": [
+      {
+        "word": "Surveillance",
+        "zh": "監控：指對某個地方或特定的人進行觀察和監視。想像一下，就像你在學校被老師盯著看，或是有攝影機錄下你進出校園的畫面，就是一種監控。"
+      },
+      {
+        "word": "Backlash",
+        "zh": "反彈：指當某個行為、政策或產品推出後，引起了許多人的強烈不滿和反對。就像你提出一個建議，但同學們都不同意，甚至表示不喜歡，這就是一種反彈。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-10",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybDZBcHNodUZQSTBSTEg0dU1PbXEwaHd1aWNpQ3IwcFFoUjRqQkxCMUt1T1Z2cmN0WmEzRVJYT3h0aGw4d0dSMTZaRkFkUmt1X0VXYXVBRjBOQnl5R2h5NnB6WnVaXzE0SXhQag?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "動物冷知識大挑戰！BBC帶你分辨真假迷思",
+    "zhSummary": "英國廣播公司（BBC）推出有趣內容，邀請讀者一起來辨別關於動物的常見說法，哪些是真實的科學事實，哪些其實只是流傳已久的迷思。",
+    "zhContent": "<p>你是不是也聽過「蝙蝠都是瞎子」或是「鴕鳥遇到危險會把頭埋進沙子裡」這些說法呢？英國廣播公司（BBC）最近設計了一個特別的單元，想考考大家對動物的了解有多少。他們觀察到許多關於動物的知識，其實只是大家口耳相傳的迷思，並不是真正的科學事實。為了幫助讀者釐清這些錯誤觀念，BBC特別製作了這個「分辨真假動物知識」的內容，讓大家在輕鬆有趣的互動中，學習到更多關於動物的正確資訊。</p><p>這個單元通常會列出一些關於動物的常見說法，然後讓讀者判斷究竟這是個「真實的動物知識」還是「完全的迷思」。例如，大家常以為老鼠愛吃起司，但其實牠們更喜歡甜食；又或者有人說金魚的記憶只有三秒，這也是一個非常普遍的誤解，實際上金魚的記憶力遠比我們想像的要好。BBC透過這種問答的形式，一步步揭開那些我們深信不疑卻是錯誤的動物謠言，並提供背後的科學解釋。</p><p>BBC會製作這類內容，主要是因為動物的世界充滿了各種奇妙又複雜的細節，但有些資訊在傳播過程中可能會被扭曲或簡化，久而久之就成了大眾普遍相信的錯誤觀念。這個單元的目標就是希望透過權威媒體的力量，幫助讀者培養辨別資訊真偽的能力，特別是在面對網路上大量真假難辨的內容時。它鼓勵大家不要輕易相信聽到的每一個「動物冷知識」，而是要保持好奇心，進一步去查證。</p><p>因此，如果你想知道自己對動物的認識是多麼「到位」，或是想學習一些連大人都可能搞錯的動物新知，BBC的這個單元會是非常好的選擇。它不是要指責誰對誰錯，而是提供一個有趣又具有教育意義的平台，讓大家可以共同探索動物世界的奧秘。最終的結果就是，你會發現原來自己腦袋裡的一些「常識」，可能需要重新更新一下了！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Animal Fact or Myth? BBC Challenges Your Knowledge",
+    "enContent": {
+      "basic": "The BBC has created a fun quiz to help people tell the difference between real animal facts and common myths. Many things we think are true about animals, like bats being blind, are actually not correct. This quiz helps you learn the real science behind animal behaviors and characteristics.",
+      "intermediate": "The British Broadcasting Corporation (BBC) recently launched an interactive feature challenging readers to distinguish between genuine animal facts and widespread misconceptions. This initiative addresses how popular culture often distorts scientific information about animals. Through a series of questions, readers can test their knowledge on various animal-related statements, revealing whether they are scientifically proven facts or merely old wives' tales.",
+      "advanced": "The British Broadcasting Corporation (BBC) has embarked on an insightful editorial endeavor, challenging its audience to discern scientific truths from prevalent myths surrounding the animal kingdom. Recognizing the pervasive nature of misinformation regarding wildlife, the BBC has curated an interactive segment designed to educate and entertain. This feature systematically presents commonly held beliefs about animals, prompting readers to evaluate their veracity against established scientific understanding, thereby fostering critical thinking and enhancing biological literacy."
+    },
+    "vocabulary": [
+      {
+        "word": "Myth",
+        "zh": "迷思 (mí sī) - 指的是許多人相信，但其實不是真的故事或說法。就像關於動物的那些不正確的「常識」。"
+      },
+      {
+        "word": "Fact",
+        "zh": "事實 (shì shí) - 指的是經過證實，是真的、正確的資訊。與迷思相反，是真實的知識。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-10-10",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teFB2empGdUNrY3NydExGU0xDRHd1Q1lMTFgwSWVidzMxemxSdTl1QVRIN1lVT0dFX0lwV0cxbmdHTmJNaWJ6aXgyaTFMNGxUZk1qMGFPOTV6Z2tXaHJIUWU2RVdJRnVJc2FYZFhkZ0ZFRjNUOS1Cc29DVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "國際大新聞！美國制裁國際刑事法院，院長怒批「攻擊主權國家」！",
+    "zhSummary": "國際刑事法院（ICC）的院長公開譴責美國政府對ICC官員的制裁，稱這是對國際司法體系和主權國家的攻擊，因為ICC曾表示要調查美國和以色列軍人可能涉及的戰爭罪行。",
+    "zhContent": "<p>嗨！你有沒有想過，國際上有個專門處理戰爭罪、種族滅絕這些超嚴重的國際犯罪的法庭？它就是「國際刑事法院」（International Criminal Court，簡稱ICC）。最近，他們的院長對美國很不開心，因為美國對ICC的某些官員實施了制裁。院長直接批評說，美國的這種行為根本是「攻擊主權國家」！聽起來是不是很嚴重？</p><p>事情是這樣的：美國政府對國際刑事法院的幾位高級官員採取了制裁措施。這些制裁通常包括禁止這些官員進入美國，以及凍結他們在美國境內可能有的資產等等。美國會這麼做，主要是因為國際刑事法院曾經宣布要針對在阿富汗的美國軍人，以及在巴勒斯坦土地上的以色列人員，可能涉及的戰爭罪行進行調查。美國認為，國際刑事法院無權審判美國公民，因此對其行動表達強烈不滿。</p><p>面對美國的這些舉動，國際刑事法院院長奧霍-奧坎達（O-Gon Kwon）發表了非常強硬的聲明。他指出，這些制裁不僅僅是針對特定的個人，更是對整個國際刑事法院這個機構，以及更廣泛的國際刑事司法系統的一種攻擊。奧坎達院長強調，國際刑事法院是一個獨立的司法機構，它的主要目標就是確保那些犯下最嚴重國際罪行的人能夠被追究責任，不應該受到這種政治干預和壓力的影響。</p><p>儘管美國政府的制裁造成了巨大的壓力，國際刑事法院院長奧坎達表明他們不會因此退縮，會繼續堅持履行職責，調查和起訴那些犯下國際罪行的人。美國的這項行動引發了許多國際法界人士和一些盟友的批評，他們認為這會削弱全球對國際法治的信心。然而，美國政府至今仍堅持自己的立場。目前，這場在國際法律和政治層面上的緊張對峙仍在持續中，沒有明顯的解決跡象。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，國際刑事法院和美國之間的主要爭議點是什麼？雙方各自的立場又是什麼？",
+      "生活與未來：你覺得如果一個國際法庭無法獨立運作，可能會對國際社會產生什麼實際影響？",
+      "獨立思考提案：針對美國對國際刑事法院的制裁，你覺得還有哪些其他方式可以處理這樣的國際爭議，會比制裁更理想？"
+    ],
+    "enTitle": "ICC President Slams US Sanctions, Calling Them 'An Attack on Sovereign States'",
+    "enContent": {
+      "basic": "The head of the International Criminal Court (ICC) is very upset with the United States. The U.S. put sanctions on some ICC officials. The ICC President said this is like \"an attack against sovereign states.\" This happened because the ICC wanted to look into possible war crimes by U.S. soldiers in Afghanistan and Israeli officials in Palestine. The U.S. government doesn't think the ICC has the right to do this to their citizens.",
+      "intermediate": "The President of the International Criminal Court (ICC) has strongly criticized the United States for imposing sanctions on some of its officials. These sanctions, which included travel bans and asset freezes, were a response to the ICC's decision to investigate alleged war crimes committed by U.S. service members in Afghanistan and Israeli personnel in Palestinian territories. The ICC President stated that these actions undermine the court's independence and are an affront to international justice. The U.S. maintains that the ICC lacks jurisdiction over its citizens.",
+      "advanced": "In a sharply worded condemnation, the President of the International Criminal Court (ICC) has denounced the United States' imposition of sanctions against high-ranking ICC officials. These punitive measures, which include visa restrictions and asset freezes, were enacted following the ICC's authorization to probe alleged war crimes perpetrated by U.S. forces in Afghanistan and Israeli personnel in the Palestinian territories. The ICC President asserted that such actions constitute a direct assault on the court's judicial independence and represent a broader challenge to the principle of international criminal justice, characterizing them as \"an attack against sovereign states.\" The United States, however, steadfastly rejects the ICC's jurisdiction over its nationals."
+    },
+    "vocabulary": [
+      {
+        "word": "Sovereign",
+        "zh": "主權的 (zhǔ quán de) - 指一個國家擁有獨立管理自己事務的最高權力，不受其他國家干涉。想像你自己的房間，你可以決定裡面怎麼佈置、誰能進來，這就是一種「主權」。"
+      },
+      {
+        "word": "Sanction",
+        "zh": "制裁 (zhì cái) - 當一個國家或國際組織，因為不滿另一個國家或團體的行為，而採取的一些懲罰性措施，像是限制貿易、凍結資產或不給簽證等等，目的是讓對方改變行為。就像爸媽不讓你玩遊戲，因為你沒寫功課一樣。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-10",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXVJRTc5dmtkLTcwLUlQY2g0bnp0RXJwWGZxTHh2b3hSWjdGNDBnbGtkSWsyREM1SVVWd2lGRU5VUng3b251VDhqSkFHb0QweThSNlJ6VXV0Rm5QVnpFUlNRZ3ZxLWF6NTJVcFdjZmY4dlFRa2czZ0hsUGJGRVFqazVYbWZDbzFsWExubDQwQ2dJZHFYQWppdlZXMFRlVHJjVDV2cHllb3VVQTRNWVhhTG13eHlxbDlYakHSAb8BQVVfeXFMUFhNY0xkUXlhMnJkaHdsaEVYSFVyNXZCTDd1WFNQQlkyQWxiTWF1d0RidnZlQU5feVZ6TzN6ZG54RXp6d0d6eE8yeHYyME5PWVBaaHE5ckp2YkgwSERkd3BuZEs3MkdteEdJeDVlemRLWUx1QTE4QnVoczU2dWxHel9BZTVXXzBZWmc2ek15NVFkVEhQVmFrc08zejZUS0JKRlA2clk4aHlMNXo1NFQ5cjQxRXo1RmV0TS1qTC1XTGM?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南普蘭菲爾德社區：2026年將盛大慶祝「西班牙裔文化傳承月」！",
+    "zhSummary": "美國南普蘭菲爾德市已宣布將在2026年舉辦「西班牙裔文化傳承月」慶祝活動，該活動旨在肯定並推廣西班牙裔及拉丁裔美國人的文化與貢獻，並預計將有一系列精彩的文化交流活動。",
+    "zhContent": "<p>美國紐澤西州的南普蘭菲爾德市將在2026年迎來一場大型文化盛事！根據當地媒體TAPinto的報導標題顯示，這個社區已開始為未來的「西班牙裔文化傳承月」（Hispanic Heritage Month）活動做規劃。這是一個旨在表彰西班牙裔及拉丁裔美國人豐富文化與貢獻的特別月份，南普蘭菲爾德的這項計畫，預示著屆時將會有一系列精彩的活動，讓大家一同感受多元文化的魅力。</p><p>通常，「西班牙裔文化傳承月」的慶祝活動內容非常豐富多元。一般來說，社區可能會舉辦傳統舞蹈表演、異國音樂會、藝術展覽，以及品嚐道地美食的市集。學校和社區中心也可能規劃教育性講座或工作坊，讓青少年們有機會深入了解西班牙語系國家的歷史、習俗與傳統，促進不同族群間的交流與理解。這些活動不僅能讓西班牙裔居民感到被重視，也能讓所有社區成員學習並體驗不同的文化風貌。</p><p>這個重要的文化慶典，在美國的官方日期定於每年的9月15日至10月15日。選擇這個時間段，是因為許多拉丁美洲國家都在9月中旬慶祝獨立紀念日，這使得這個月份成為一個具有深遠歷史意義的開端。透過這一個月的活動，大家得以回顧並肯定西班牙裔族群在美國社會中，從藝術、音樂、文學到美食等各方面所做出的巨大貢獻，為整個國家帶來了更豐富多元的色彩。</p><p>目前，南普蘭菲爾德市正著手準備2026年的「西班牙裔文化傳承月」活動。儘管具體的活動細節和時程尚未全面公佈，但這項來自TAPinto的消息，清楚表明該市已將此視為未來重要的社區活動之一。這項規劃的確定，為南普蘭菲爾德未來幾年的多元文化慶典鋪設了道路，也讓大家可以開始期待這場文化交流的盛會。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南普蘭菲爾德市為何選擇在「2026年」慶祝「西班牙裔文化傳承月」？時間點上有什麼特別的意義？",
+      "生活與未來：你覺得這個文化慶典的舉辦，會對南普蘭菲爾德的青少年生活造成什麼實際影響？例如，在學校或社區中可能會有什麼改變？",
+      "獨立思考提案：針對這類型的文化慶典，如果你是南普蘭菲爾德的活動策劃者，你會想為青少年設計哪些特別的活動，讓他們更能參與其中並了解不同文化？"
+    ],
+    "enTitle": "South Plainfield to Celebrate Hispanic Heritage Month in 2026",
+    "enContent": {
+      "basic": "South Plainfield is planning to celebrate Hispanic Heritage Month in 2026. This month is important for recognizing the culture and contributions of Hispanic and Latino Americans. The local news source TAPinto reported this upcoming event, suggesting the community values cultural diversity.",
+      "intermediate": "The community of South Plainfield, New Jersey, is preparing for its Hispanic Heritage Month celebration in 2026. This annual observance, typically from September 15 to October 15, highlights the rich heritage and significant contributions of Hispanic and Latino individuals to American society. While specific event details are still being planned, the announcement indicates a future series of cultural activities and educational programs.",
+      "advanced": "South Plainfield, as reported by TAPinto, is proactively organizing its observance of Hispanic Heritage Month in 2026. This forward planning underscores the town's commitment to cultural appreciation and inclusivity. The month-long celebration, traditionally observed from mid-September to mid-October, commemorates the independence days of several Latin American countries and serves as a vital platform for showcasing the artistic, musical, culinary, and historical impact of Hispanic and Latino communities."
+    },
+    "vocabulary": [
+      {
+        "word": "Heritage",
+        "zh": "文化傳承：指的是一個群體或國家代代相傳下來的珍貴歷史、傳統、習俗或價值觀。就像我們家族會傳承一些特別的食譜或故事一樣，一個民族也有自己的文化傳承。"
+      },
+      {
+        "word": "Celebrate",
+        "zh": "慶祝：為了紀念、表揚或表達喜悅而舉辦的活動或儀式。比如生日派對就是慶祝生日，而文化傳承月則是慶祝一個族群的歷史和文化。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-10-10",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1JjVFdlZDRBaWg0N2VJMXVicGpjZUZ4OFZuUXFxOUM2QXJ3S1BlQU1DVVdXaFF4eFlVdjdzLUxIT0tpNDFibU1NYzhpWm13MEplYTllb3Z1cjd6UzZhY3JLMkFaMHd5Ul9TVmdZQVBscTBwTFR0dklDRWpEZWg5dDktUk84WlRSYnU2X3AtbHp0Z3gyR1EyVFpEMGxtQzUxQ2NXYk5HY3oxQnpXTWFub1JnMGtMTU5EUFFXSWVNa3d6VUdfdjNqYnREYWV5UQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國學生上街了！為什麼他們說學校制度「不及格」？",
+    "zhSummary": "法國各地學生因為不滿現行教育體系，紛紛走上街頭抗議。他們認為學校制度「失敗」，無法滿足學習需求，希望透過示威遊行，讓政府正視問題並做出改變。",
+    "zhContent": "<p>最近，在浪漫的法國，卻發生了一件讓人有點意外的事情。許多法國學生，不再只是乖乖坐在教室裡上課，而是選擇了走上街頭，用最直接的方式來表達他們心中的不滿。他們抗議的對象，正是他們每天接觸的學校教育體系。這些青少年認為，目前的學校制度已經無法滿足他們的需求，甚至可以說是一種「失敗」，讓他們對自己的學習和未來感到非常擔憂。這場抗議行動迅速引起了當地媒體的關注，也讓社會開始思考，這些學生到底想說些什麼。</p><p>根據國外媒體的報導，法國各地的學生們組織了多次示威遊行。從熱鬧的巴黎市中心到其他大城市，都可以看到學生們的身影。他們帶著自己製作的標語，上面寫著對教育制度的質疑與訴求；他們也高喊口號，吸引路人的目光，希望能讓更多人聽到他們的心聲。這些學生不是單獨行動，而是聚集了上千人，展現出團結的力量。他們希望透過這種大規模的公開抗議，能迫使政府和教育部門正視他們所遇到的問題，並展開討論。</p><p>學生們認為這個「失敗的學校制度」可能涵蓋了多個層面。他們抱怨的，不只是課程內容可能不夠新穎實用，無法跟上現代社會的變化，也包括了沉重的考試壓力，讓他們覺得學習變成了單純的應付考試，而不是真正吸收知識。此外，升學管道的公平性、教育資源分配不均，或是學校在提供學生心理輔導和未來職涯規劃上的不足，都可能是他們表達不滿的原因。這些累積已久的挫折感，最終透過這次走上街頭的方式一次爆發出來，顯示他們迫切希望教育能有實質的改善。</p><p>截至目前為止，法國學生們的這波抗議行動仍在持續。他們清楚地讓社會大眾知道，他們不願意再默默承受一個他們認為不夠好的教育環境。這些學生正積極地運用他們的力量，為自己和未來的學生爭取更好的學習機會與環境。這起事件提醒了大家，學生的聲音非常重要，也顯示了當他們覺得自己的權益受到影響時，他們會勇敢地站出來，捍衛自己對教育的期待。後續的發展，則有待相關單位如何回應這些學生的訴求。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "French Students Protest 'Failing' School System",
+    "enContent": {
+      "basic": "Students in France are unhappy with their schools. They think the school system is not working well. So, many students went to the streets to protest. They want the government to listen and make schools better. They are showing everyone that they want changes in their education.",
+      "intermediate": "Across France, students have been taking to the streets to voice their dissatisfaction with the current education system. They believe the system is 'failing' them, leading to concerns about their learning and future prospects. These large-scale protests aim to draw public attention and pressure the government to address their grievances and implement necessary reforms.",
+      "advanced": "In a significant display of public dissatisfaction, French students have mobilized across various cities to protest what they perceive as a 'failing' national education system. The demonstrations underscore widespread student anxieties regarding the efficacy and relevance of current pedagogical approaches, curricular content, and overall systemic support. Through their collective action, these young activists are vociferously demanding substantive reforms from governmental and educational authorities, highlighting a critical juncture in the discourse on academic reform and student representation."
+    },
+    "vocabulary": [
+      {
+        "word": "Protest",
+        "zh": "抗議：當一群人對某件事不滿意，就集結起來大聲表達意見，希望引起注意並讓事情有所改變。"
+      },
+      {
+        "word": "System",
+        "zh": "制度／體系：指一套有組織的規則、方法或結構，例如學校的教育系統，就是指從課程安排到考試方式等一系列的規定。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-10",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEVUUW5hTndxODBvVE5VcUR5dzZITXpEcHQ5OHQ1aUliNGZHRGdRVlFVcmVLX245ZUJDZXpZNUFZZWtzVU5zY2VYOUFRSXh3Q0YtYTltYnhsVXljaDlxdjNoTmdiZjBOMmtnMWFaUnRSNjZ3SGxGczV1c2ZUQUlLcGxLOXZwYkhfeEllVGJfNndaRG5CdFNTdTFubEHSAZwBQVVfeXFMT0tOaTN0RHJjMVNXQ3pEM2ZsXzFBLWlPR3o4NmwxT1pMVkFncmktd1dZWUVWOWFHMU9iTUVFQ2pyb2dpZVJpZm5zVkNuSU5RYm0xczJ2S2o1cUQ3Rjc4RWJrVjQ2cXJmMG5RMWd3Uk9NM1drV1NKWFR1ZmppNksteXk0Zlhldkw3V0l5aEtRLWJkclE4b3F3bjY3YlJf?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非撤銷庇護令：一場因「衝突」而逆轉的決定",
+    "zhSummary": "南非政府最初打算給予部分外國人庇護，讓他們能安全居住。然而，這項決定在當地引發了顯著的社會衝突和反對聲浪。最終，南非政府面對壓力，選擇撤回了庇護令，調整了相關政策。",
+    "zhContent": "<p>南非最近發生了一件讓人關注的事，原本政府打算給一些從外國來的人提供「庇護」，讓他們能在南非安全生活。這項決定通常是為了幫助那些在家鄉面臨危險、沒辦法回去的人。然而，這項好意卻在當地引發了一些不小的衝突和爭議，甚至讓情況變得有點複雜。</p><p>簡單來說，「庇護令」就像是南非政府給出的保護承諾，允許某些特定外國人可以在南非居住，不必擔心被遣送回他們可能受迫害的國家。通常這些人可能是因為戰爭、政治迫害或其他嚴重威脅才離開家鄉。當南非政府發出這些庇護令後，當地社會卻出現了各種「衝突」，這些衝突可能包括民眾上街抗議，表達他們的不滿，或是不同團體之間因此產生了緊張關係。</p><p>這些衝突的發生，讓南非政府面臨了很大的壓力。儘管一開始可能是基於人道考量，想要幫助這些需要幫助的人，但當地的居民對於外來人口的增加、資源分配或是社會穩定性，可能會有不同的看法和擔憂。這些擔憂累積起來，就演變成各種形式的「衝突」。政府必須在幫助外來者和維持國內秩序之間，找到一個平衡點。</p><p>在這些衝突和各方聲音的壓力下，南非政府最後決定撤回了之前發布的庇護令。這意味著，原本那些受庇護的人的狀況將會改變，而南非政府也因此重新調整了他們對待尋求庇護者的政策。這次事件，最終就是以南非政府收回成命，結束了這場風波。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南非政府為什麼一開始會發布庇護令？後來又為什麼會撤回？",
+      "生活與未來：你覺得這個改變會對相關的人（例如尋求庇護者或當地居民）造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa Withdraws Asylum Orders Amid Clashes",
+    "enContent": {
+      "basic": "South Africa decided to offer protection to some foreigners, called 'asylum orders'. This helps people who can't go back home because it's dangerous. But this decision caused problems and fights, or 'clashes', within South Africa. Because of these clashes, the government decided to take back the asylum orders. This means they changed their plan to protect these people.",
+      "intermediate": "South Africa had granted 'asylum orders' to certain foreign nationals, promising them a safe haven from dangers in their home countries. This act of protection, however, triggered significant social 'clashes' and public opposition within South Africa. Facing considerable pressure from these conflicts and varying public opinions, the South African government ultimately chose to 'withdraw' these asylum orders, thereby reversing its initial policy and adjusting its approach to asylum seekers.",
+      "advanced": "South Africa's initial decision to issue 'asylum orders' for certain foreign nationals, intended to provide sanctuary for those fleeing perilous conditions in their countries of origin, met with substantial domestic 'clashes' and contentious public debate. The ensuing social unrest and divergent public sentiments exerted immense pressure on the South African government. Consequently, the government opted to 'withdraw' the aforementioned asylum orders, effectively rescinding its protective commitments and necessitating a revision of its policies concerning asylum seekers."
+    },
+    "vocabulary": [
+      {
+        "word": "asylum",
+        "zh": "庇護：保護，讓那些在家鄉有危險的人，可以在一個安全的地方（例如另一個國家）住下來，不會被送回原本危險的家鄉。"
+      },
+      {
+        "word": "withdraw",
+        "zh": "撤回：把之前做出的決定、發布的命令或提出的承諾收回來，不再執行或承認。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-10",
+    "sourceName": "Taipei Times",
+    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iWm5EQ1dMNlNUQm9aM196RGRSYjFOR24wanpfVlZlWllRS3drcHJEdXRLYlVzV3VXWFdONVZsQUY4eXZ3b0wxaGFpanR4SEw2aktVVEV6WVlEYUtvRmR3cURvNDdEdlJKdnVrd09CNW14dmc5OWsxUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "沙烏地機場遭攻擊，官方證實三人罹難",
+    "zhSummary": "沙烏地阿拉伯的機場最近遭到名為「胡塞組織」的襲擊，官方證實這些攻擊導致了三位民眾不幸喪生。",
+    "zhContent": "<p>沙烏地阿拉伯的機場最近發生了一件令人震驚且悲傷的事情。根據國際媒體的報導，該國的機場遭受了攻擊，導致數名無辜的生命逝去。這突如其來的暴力事件，讓許多人感到不安與惋惜，也引發了外界對中東地區情勢的關注。</p><p>攻擊的矛頭指向了「胡塞組織」。沙烏地阿拉伯的官方表示，這個組織對該國的多個機場設施發動了襲擊。這些攻擊並非小規模，而是對重要的交通樞紐造成了實際的影響，影響了機場的正常運作，也對當地安全構成威脅。</p><p>最令人心痛的是，這些攻擊不幸地奪走了三條寶貴的生命。沙烏地阿拉伯的政府官員已經正式對外證實了這起傷亡事件。他們確認了三位民眾在這次胡塞組織的襲擊中喪生，消息一出，也讓國際社會對於這些針對民用設施的攻擊表達憂慮。</p><p>目前，當地政府正密切關注事態發展並處理相關後續事宜。這次發生在機場的襲擊，確切地造成三人死亡，這是由沙烏地阿拉伯官員向媒體再次強調的客觀事實。官方持續對外公布最新進展，並再次確認了這次攻擊造成三人死亡的結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Saudi Officials Confirm Three Fatalities in Houthi Attacks on Airports",
+    "enContent": {
+      "basic": "Three people died in Houthi attacks on Saudi Arabia's airports, according to officials. The incident has drawn international attention to the region's security situation.",
+      "intermediate": "Officials in Saudi Arabia have confirmed that three individuals were tragically killed following Houthi attacks targeting several airports within the country. The violent assaults have prompted concerns about stability in the Middle East.",
+      "advanced": "Saudi Arabian authorities have officially verified that three fatalities occurred as a direct consequence of Houthi-launched attacks on the nation's airport facilities. The BBC reported on the incident, highlighting the ongoing tensions and security challenges in the region following the confirmed casualties."
+    },
+    "vocabulary": [
+      {
+        "word": "Houthi",
+        "zh": "胡塞組織：這是一個位在中東國家葉門的武裝團體。他們因為政治和宗教因素，與沙烏地阿拉伯等鄰近國家有長期的衝突和軍事行動。"
+      },
+      {
+        "word": "Officials",
+        "zh": "官方人士：指政府或機構裡有職位、負責處理公務的人。他們通常代表官方發布消息、說明情況，或是執行政策。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-10",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSjNXbkctTnlpVHRBTW5iQVA5M3pJR2lDZWpFOGdPTVBtWGtIMTROYjV2clJwd1B5VHpOUThUcm5LQjJsS3RqdlFpWGFPYmhnYXEtS1FyUDBTa25rZ3c?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓、埃及關係大躍進！從朋友變「超級戰略夥伴」！",
+    "zhSummary": "南韓與埃及正式將兩國關係升級為「戰略夥伴關係」，這代表他們未來將在多個重要領域展開更緊密的合作，為雙方帶來更多機會與發展。",
+    "zhContent": "<p>嘿，同學們！最近國際上有個消息，聽起來有點像兩個國家「交朋友」，而且關係還更上一層樓呢！路透社報導說，南韓和埃及決定把他們的雙邊關係「升級」，變成一個叫做「戰略夥伴關係」的新階段。這就像是從一般同學變成會一起策劃大事的超級好朋友，聽起來是不是很不一樣？</p><p>這種「戰略夥伴關係」可不是隨便說說的喔！它代表著這兩個國家未來會在更多重要的事情上緊密合作。比如說，可能是在經濟貿易上互相幫忙，或是科技技術方面互相交流學習，甚至在一些國際問題上也會有更一致的看法。南韓方面有官員就提到，這次的升級，是希望讓兩國之間的合作範圍更廣、程度更深，讓彼此的關係變得更重要。</p><p>那麼，為什麼南韓和埃及會想讓關係變得這麼好呢？其實這背後有很多原因。對南韓來說，可能是在尋找更多國際合作的機會，拓展新的市場或夥伴，特別是在中東和非洲地區。而對埃及來說，也可能希望藉由南韓的科技和投資，來幫助他們國家發展，或者在國際舞台上獲得更多的支持。所以，這是一個對雙方都有好處的決定，大家互相幫助，共同進步。</p><p>總之，這次南韓和埃及將關係提升為「戰略夥伴關係」，標誌著兩國關係進入了一個全新的篇章。這表示未來我們可以預期看到他們在更多領域展開深入的合作，共同推動彼此的發展與利益。這項決定將會引導兩國在接下來的日子裡，朝著更緊密的合作方向前進，一起面對未來的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南韓與埃及的關係「升級」成了什麼？你覺得這樣做對這兩個國家會帶來哪些潛在好處呢？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對於兩國的學生、商人或一般民眾來說，可能會有哪些不同？",
+      "獨立思考提案：針對國家間提升關係的議題，你覺得還有哪些方式或面向可以加強，讓國際合作變得更好？"
+    ],
+    "enTitle": "South Korea, Egypt Upgrade Ties to Strategic Partnership",
+    "enContent": {
+      "basic": "South Korea and Egypt have made their relationship stronger. They are now 'strategic partners,' meaning they will work together more on important things.",
+      "intermediate": "South Korea and Egypt have officially upgraded their bilateral relations to a 'strategic partnership,' as stated by a South Korean official. This signifies a commitment to deeper cooperation in various sectors.",
+      "advanced": "Reuters reports that South Korea and Egypt have elevated their ties to a strategic partnership. This move, announced by a South Korean official, marks a significant deepening of bilateral cooperation across economic, technological, and potentially security domains, fostering mutual development and regional influence."
+    },
+    "vocabulary": [
+      {
+        "word": "upgrade",
+        "zh": "升級 (意思是將物品、服務或關係的等級、品質或地位提高，讓它變得更好或更重要。)"
+      },
+      {
+        "word": "strategic",
+        "zh": "策略性的 (指一個有計畫、有目的的行動或決定，通常是為了達成重要的長期目標，而不是短期的衝動行為。)"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-10",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWwxZGRkZjFzUFc5RjdZTHk2MFplRkkzWVFKQWpmRTRQQkFyZmM4dXJGeF91bUxLR1praTZuQWgyT3BrTWxKcTBUS28zeVFEV21EUFJQLWZCMFQ3MFJMOGd4dkM2VWJuNmk2OTFXSEQ3TFZTRGtDMHYtQjFDM3pfd1R6dGJvNWZfM3NCeDduLW5zS2pSM0JSd3Z6RVF2eUZPTllyWDN2RDFoNEJfOFdLNmVKRkpZNWJr?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中東情勢緊張 亞洲忙囤油加速綠能轉型",
+    "zhSummary": "由於擔心伊朗地區可能發生的衝突會影響全球石油供應，亞洲多國正積極儲備石油，並同步加快發展太陽能、風力等再生能源，以確保國家能源安全。",
+    "zhContent": "<p>最近，整個亞洲地區正忙著一場「能源大作戰」！許多國家都在加快腳步，一方面儲備更多的石油，另一方面也大力發展綠色環保的再生能源。會這麼做，是因為大家都很擔心，中東地區如果發生衝突，特別是跟伊朗有關的局勢不穩定，可能會影響到全世界的石油供應。</p><p>根據國際媒體路透社的報導，包括日本、南韓、印度和中國大陸在內的許多亞洲主要國家，都已經開始緊急增加自己的石油庫存。這就像是我們家裡為了以防萬一，多買了許多泡麵和罐頭一樣，確保即使國際市場出現波動，國內也不會立刻面臨油料短缺的窘境。有些國家甚至積極尋找更多元的石油進口夥伴，避免過度依賴單一地區或國家。</p><p>除了緊急儲備石油，各國也同時意識到，光靠儲油只是治標。更長遠的策略是降低對傳統化石燃料的依賴。所以，他們正在以前所未有的速度，投入資源開發像是太陽能、風力發電、水力發電這些可重複利用的再生能源。這麼做不僅能保護環境，更重要的是，能讓這些國家在能源供給上擁有更多自主權，不必時時刻刻擔心國際油價或地緣政治的影響。</p><p>總體來說，亞洲各國的這些大規模行動，都反映出他們對未來全球能源市場的高度警惕。他們希望透過雙管齊下的策略，也就是短期儲備石油、長期發展再生能源，來穩固自身的能源安全網。這樣一來，即使中東地區真的發生不可預測的狀況，也不至於對亞洲的經濟運作和民生造成毀滅性的衝擊。目前，這些能源轉型和儲備計畫仍在各國政府的推動下持續進行中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，亞洲國家為了應對什麼樣的風險，採取了哪兩種主要的策略？",
+      "生活與未來：你覺得如果能源供應真的出了問題，對我們日常生活會造成什麼實際影響？",
+      "獨立思考提案：針對國家儲備重要物資（例如石油）這件事，你覺得政府在哪些方面還可以做得更好？"
+    ],
+    "enTitle": "Asia Races to Stockpile Oil, Speed Up Renewables in Response to Iran War",
+    "enContent": {
+      "basic": "Asia is getting ready for a possible war near Iran. Countries like Japan, South Korea, and China are buying and storing more oil. They want to make sure they have enough energy if oil supplies from the Middle East get stopped. These countries are also working faster to use clean energy like solar and wind power. This way, they won't need as much oil from other countries in the future.",
+      "intermediate": "Asian nations are proactively responding to the potential for conflict involving Iran, which could disrupt global oil supplies. Key countries such as Japan, South Korea, India, and China are significantly increasing their crude oil stockpiles. This strategy aims to build a buffer against sudden price hikes or shortages in the international energy market. Concurrently, these nations are accelerating investments in renewable energy sources like solar and wind power. This dual approach seeks to enhance energy independence and reduce long-term reliance on volatile fossil fuel markets.",
+      "advanced": "In anticipation of potential geopolitical instability, particularly a conflict in the vicinity of Iran that could severely impact global oil flows, Asian economies are undertaking a comprehensive energy security overhaul. Major players including Japan, South Korea, India, and China are aggressively expanding their strategic petroleum reserves to mitigate supply chain vulnerabilities and price volatility. Simultaneously, there's an accelerated push towards the development and integration of renewable energy technologies. This strategic pivot reflects a concerted effort to diversify energy portfolios, reduce dependency on conventional hydrocarbon imports, and bolster national resilience against external shocks to the global energy landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "stockpile",
+        "zh": "囤積 (túndūn) – 像是為了預防未來可能會有東西不夠用，所以先大量存起來。"
+      },
+      {
+        "word": "renewables",
+        "zh": "再生能源 (zàishēng néngyuán) – 可以重複利用、取之不盡的乾淨能源，例如太陽能、風力。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-10",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1Cd0Mwc1pJOUR1MFdlMWxHSzRESGx0anZnd0FyYzJZRVAteGFZOFNvSEdjYjNZREFINVprWFhiVmIyZkNrZlNBM25GaVgzMGo4OFJNdmE0LVdJbmYxSFJILTZzaXRhTlFxTXZNOGhWamREdTlYQTI4dXJycS1lMFF6VEgyUHo3c3NUeV93NmY3RXowVEp2andOcWVTMmZpZUFVYXZKcGg1cVlwRjlaOUxsQnQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "澳洲議員花公帑出國看醫生？公款使用引發爭議",
+    "zhSummary": "澳洲國會議員被質疑動用納稅人的錢，到海外接受醫療服務。這筆公款的使用方式，引發了民眾對於透明度和規範的討論。",
+    "zhContent": "<p>澳洲最近有個新聞鬧得沸沸揚揚，主角是我們的國會議員們。大家都在問：議員們是不是把人民辛苦賺來的稅金，拿去國外看醫生了？原來，有一些議員被點名，他們在執行公務或出差時，順便在海外接受了醫療服務，而這些費用竟然可能是由公共資金，也就是我們大家繳的稅金來支付的。這個消息一出來，立刻引起了大家的關注，因為公款的使用方式一直都是大家很重視的事情。</p><p>根據澳洲的規定，國會議員在因公出差時，確實可以申請報銷一些合理的費用。但這些費用通常應該是跟他們的公務職責直接相關的，比如交通、住宿或開會的費用。而這次的爭議點在於「海外醫療費用」。大家想知道，議員們到國外接受的醫療服務，到底是不是因為公務緊急需要，還是單純的私人醫療行為？如果是後者，那麼由公帑支付就明顯不合理了。這次事件讓大家重新檢視議員們的費用申請細節。</p><p>這起爭議會被公開，通常都是因為有媒體或相關單位進行了調查。媒體報導指出，有一些議員在申請出差費用時，附帶了海外就醫的項目。對此，政府負責管理這些費用的部門已經表示，他們會仔細審查每一筆款項，確保所有支出都符合規定。一些議員則對外澄清，他們的海外醫療是突發狀況或在當地執行公務時的緊急處理，並非刻意安排的私人行程。但這些解釋，是否能完全消除大眾的疑慮，還有待觀察。</p><p>目前，這件事情還在調查和討論中。相關單位承諾會公開審查結果，並且檢討現行的費用報銷規定，看看是否有需要改進的地方，以增加公款使用的透明度。澳洲政府正在努力釐清，這些議員的海外醫療費用是否真的符合「公務支出」的定義。事件的最終處理方式和對未來規定的影響，仍是大家關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，澳洲國會議員被質疑動用公款在海外就醫，請問這件事的核心爭議點是什麼？",
+      "生活與未來：你覺得如果這項爭議沒有處理好，可能會對澳洲人民對政府的信任產生什麼實際影響？",
+      "獨立思考提案：針對這類公款使用規範的模糊地帶，你覺得還可以怎麼做會更好？例如，如何明確定義「因公」與「私人」的醫療界線？"
+    ],
+    "enTitle": "Australian MPs Face Questions Over Use of Public Funds for Overseas Medical Treatment",
+    "enContent": {
+      "basic": "Australian politicians are being asked about using public money for medical care abroad. There are questions about whether Members of Parliament (MPs) used taxpayer funds for overseas medical treatments that were not official business. The government is looking into these claims to make sure all spending follows the rules.",
+      "intermediate": "Members of Parliament in Australia are facing scrutiny regarding claims that they used taxpayer funds to cover medical treatments received while overseas. The controversy stems from the use of public money for what some argue might be personal healthcare, rather than services directly related to their official duties. An official review is underway to verify the legitimacy of these expenses.",
+      "advanced": "The Australian Broadcasting Corporation has reported on growing concerns and questions surrounding the appropriation of public funds by Members of Parliament for medical services undertaken during their overseas travels. This issue has sparked debate over the transparency and accountability of parliamentary entitlements, particularly regarding the distinction between legitimate work-related expenses and private healthcare costs. Authorities have pledged to thoroughly investigate the claims and consider potential revisions to current spending guidelines to enhance public trust and clarity."
+    },
+    "vocabulary": [
+      {
+        "word": "MP",
+        "zh": "國會議員 (Member of Parliament) – 指的是由人民選出來，在國會裡代表大家發聲、制定法律的人。"
+      },
+      {
+        "word": "public funds",
+        "zh": "公帑/公共資金 – 就是政府從人民繳的稅金收來的錢，用來支付國家各種運作和服務的費用。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-10",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQ0hCaGRJcF81ZWxfcm9CRTQ5N3NHVWVIUkgyQUNfTVZlaGJXZkhnN2JwVTFjeHU4WThaaV9WSjd1ZTFENWVDbWtlUlhQNkpJNE5VWGlyaGxEUHhzVURJNVpxTHJMemxJYmgxUHRmdVNDS3EwdnhEa3FkOXFZUXc?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "美軍大變身！將官少兩成，還要蓋超大新基地！",
     "zhSummary": "美國軍方最近宣布了一系列重大改變，不僅要裁減兩成的將領，讓部隊更精實，還要興建一座四十年來都沒有過的新軍事基地，預計能容納兩萬五千名軍人。",
     "zhContent": "<p>你沒聽錯，美國軍方最近公布了一個超級大的「變身計畫」！根據外電報導，一位名叫赫格塞斯的官員對外宣布，美國軍隊將進行一場大規模的改革。這項改革有兩個特別引人注目的重點：第一個是要把目前的高階將領裁減掉兩成，也就是五分之一的將軍人數會減少。這樣做的目的，很可能是希望讓軍隊的決策過程更有效率、部隊更精簡。</p><p>除了將領人數要減少之外，美國軍方還打算做一件四十年來從未有過的大事——那就是蓋一座全新的大型軍事基地！這可不是隨便蓋蓋而已，據說這座新基地將會非常龐大，估計能夠同時容納多達兩萬五千名軍人。想像一下，兩萬五千人，那幾乎是像一個小城市那麼多人了！這個計畫顯示了美國軍方對於未來的戰略部署，有著非常不一樣的思考和安排。</p><p>這些聽起來像是電影情節的改變，其實都是美國軍方為了應對全球情勢變化，所做的重大決定。他們希望透過這次的「重大變革」，讓軍隊的組織結構更靈活，運作更有效率，也能更好地因應現代戰爭的需求。裁減高階將領，可能讓指揮系統更扁平化，溝通速度更快；而興建新基地，則能提供更現代化、更完善的訓練與部署空間。</p><p>目前，這些都還是美國軍方高層的重大宣布與未來規劃。這個消息是由中央社在2026年10月1日的全球晚間新聞中報導出來的，詳細說明了美國軍方接下來的發展方向。這些計畫一旦落實，將會是美國軍事力量多年來最大的一次調整，對他們軍隊的未來發展肯定會有深遠的影響。</p>",
@@ -10357,181 +10812,6 @@
     "date": "2026-09-10",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94OE5nVFloc0RCODhmZ0VmaC1NakV2ck9hWVZIMl80ajd5RGdWcVlhSnloN2pCWHZESUdDSXVTMHhGdTQ4M25ITXZMcHlUUm1BWjRUZ1BOZEEwUjdKTWJWZGN1cWpIVGIyeFg5eF9fS1dmbHFCY0pRVU13?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "國際郵包驚傳豬瘟病毒！農業部：高風險包裹九成五來自中國",
-    "zhSummary": "農業部近期報告指出，國際郵包中非洲豬瘟陽性率超過一成，其中高達95%的病毒包裹源自中國，顯示邊境檢疫面臨嚴峻挑戰。",
-    "zhContent": "<p>最近，有個關於國際郵包的發現讓大家提高了警覺。根據農業部的報告，在檢查來自世界各地的郵包時，發現竟然有超過一成的包裹裡面，帶有非洲豬瘟病毒。這代表了在貨物運輸上，有一項重大的挑戰需要面對，因為這些包裹如果沒有被攔截，很可能會讓病毒入侵。</p><p>非洲豬瘟是一種對豬隻來說非常致命的疾病，雖然不會傳染給人，但一旦豬隻感染，目前沒有藥物可以治療，也沒疫苗可以預防，會造成豬群大規模死亡。因此，各國都非常重視防堵非洲豬瘟，避免這種病毒進入自己的國家。這些被檢驗出陽性的郵包，通常是經過嚴格的檢疫程序，才被檢查出來的。</p><p>農業部進一步分析這些帶有病毒的郵包來源，結果顯示，其中大約有九成五的比例，都來自中國。這表示從特定地區寄出的包裹，夾帶豬瘟病毒的風險特別高，這也解釋了為什麼整體的陽性率會超過一成。因此，在邊境檢查時，對於來自這些高風險地區的郵包，需要特別留意。</p><p>為了持續保護農業安全，相關單位會繼續加強對國際郵包的檢疫工作，特別是對來自高風險地區的包裹，會投入更多資源來進行檢查。這項工作仍在持續進行中，目的就是確保能夠有效阻擋病毒入侵，避免對當地的畜牧業造成衝擊，保護國內的豬隻健康和產業發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "International Mail Carries Swine Fever Virus! Ministry of Agriculture: 95% of High-Risk Packages from China",
-    "enContent": {
-      "basic": "Did you know some packages coming from other countries have a serious pig sickness called African Swine Fever (ASF)? Our government checked these packages and found that over 1 out of 10 had the virus. Most of these packages, about 95%, came from China. This is a big problem because we don't want the sickness to spread to our pigs here. So, they are checking mail very carefully to keep our pigs safe.",
-      "intermediate": "The Ministry of Agriculture has reported a worrying discovery in international postal packages. More than 10% of these packages were found to be positive for the African Swine Fever (ASF) virus. ASF is a highly contagious and fatal disease for pigs, though it doesn't affect humans. A significant portion, specifically 95% of the infected packages, originated from China. This high rate highlights a continuous risk of the virus entering local areas through mail, leading to intensified quarantine efforts to protect the pig industry.",
-      "advanced": "A recent alert from the Ministry of Agriculture indicates a substantial risk of African Swine Fever (ASF) transmission through international mail. Data reveals that over 10% of intercepted postal packages tested positive for the ASF virus. This alarming rate is further compounded by the finding that 95% of these positive samples trace back to origins in China. African Swine Fever, while harmless to humans, is devastating for pig populations, with no available vaccine or cure. The high incidence in international parcels necessitates rigorous border quarantine protocols and continuous vigilance to safeguard the domestic livestock industry from a potential outbreak."
-    },
-    "vocabulary": [
-      {
-        "word": "African Swine Fever",
-        "zh": "非洲豬瘟：一種豬隻專屬的嚴重疾病，對豬來說很危險，會讓豬隻生病甚至死亡，但不會傳染給人類。目前沒有治療方法。"
-      },
-      {
-        "word": "Quarantine",
-        "zh": "檢疫：為了防止疾病擴散，對從外面進來的動物、植物或物品進行檢查、隔離的過程。就像海關檢查你的行李一樣。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-09",
-    "sourceName": "公視新聞網PNN",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10TFhJM3U3TVdhY0VKZHRGUmIxZllTYWE0cm0zRUNuOGo1emgzNk1vOG1PWmpROV9Qa2llWVpuSlBfSkJ4UnYwQ0lfY0lLSFU?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "沙烏地阿拉伯城市遭攻擊！能源設施也受損，政府誓言反擊",
-    "zhSummary": "中東地區近日傳出緊張情勢，葉門的青年運動組織對沙烏地阿拉伯的城市與能源設施發動飛彈與無人機攻擊，沙烏地阿拉伯政府對此表達強烈不滿，並公開表示將會採取行動反擊。",
-    "zhContent": "<p>最近在中東地區又傳出緊張消息。一個來自葉門、叫做「青年運動」（Houthis）的武裝組織，對鄰國沙烏地阿拉伯發動了多起攻擊。這次的目標不僅包含沙烏地阿拉伯的城市，還有他們重要的能源設施。沙烏地阿拉伯政府對此表達了非常嚴肅的立場，並且公開對外表示他們一定會做出回應，反擊這些攻擊。</p><p>根據報導，青年運動宣稱他們向沙烏地阿拉伯發射了飛彈和無人機，鎖定首都利雅德及其他城市，像是吉達的煉油廠和輸油站等能源設施。雖然沙烏地阿拉伯的防空系統攔截了大部分的攻擊，但仍然造成了一些損害。例如，在一個重要的儲油槽區發生了火災，現場濃煙密佈，所幸沒有造成重大人員傷亡。這些攻擊特別針對沙烏地阿拉伯賴以出口石油的基礎設施。</p><p>這些攻擊其實是葉門長期衝突的一部分。沙烏地阿拉伯在葉門的戰爭中，支持對抗青年運動的政府軍。而青年運動則常常透過這種方式，向沙烏地阿拉伯發動反擊，試圖給他們壓力。沙烏地阿拉伯政府認為，青年運動的這些行動，不僅威脅到他們國家的安全，也可能對全球的石油供應穩定造成影響，因此必須嚴肅處理。</p><p>面對這樣的狀況，沙烏地阿拉伯的國防部已經明確表示，他們將會採取一切必要的措施來保護自己的領土和人民，並且將會以堅決的態度回應這些攻擊。他們同時也呼籲國際社會，應該要正視青年運動的這種行為，認為這對整個區域的和平與穩定都是一種威脅。目前，大家都密切關注沙烏地阿拉伯接下來會採取什麼樣的具體行動來回應。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，青年運動組織攻擊了沙烏地阿拉伯的哪些地方？他們主要想攻擊什麼樣的目標？",
-      "生活與未來：你覺得這個事件，會對中東地區乃至全世界的石油供應產生什麼樣的影響？為什麼？",
-      "獨立思考提案：如果類似的衝突持續發生，你覺得國際社會可以怎麼做，才能幫助解決這些問題，減少戰爭對平民的傷害？"
-    ],
-    "enTitle": "Saudi Arabia Vows Response After Houthi Attacks on Cities and Energy Facilities",
-    "enContent": {
-      "basic": "Houthi rebels have attacked cities and important oil facilities in Saudi Arabia. Saudi Arabia has announced it will respond to these attacks. This is part of the ongoing conflict in Yemen where Saudi Arabia is involved.",
-      "intermediate": "Yemen's Houthi rebels launched missile and drone attacks targeting Saudi Arabian cities and crucial energy infrastructure. Saudi Arabia's government has strongly condemned these actions and vowed a decisive response, emphasizing the threat to national security and global energy supplies. These attacks are a continuation of the protracted conflict in Yemen.",
-      "advanced": "Saudi Arabia has declared its intent to retaliate following a series of missile and drone assaults by Yemen's Houthi rebels on its cities and vital energy installations. The attacks, which reportedly targeted oil refineries and storage depots, have been denounced by Riyadh as a threat to both national security and global energy supply stability. This escalation is rooted in the ongoing Yemen conflict, where Saudi Arabia leads a coalition against the Houthi movement, prompting international calls for de-escalation."
-    },
-    "vocabulary": [
-      {
-        "word": "facilities",
-        "zh": "設施：指的是提供特定用途的建築物或地方，像是工廠、車站、學校，或是新聞中的能源設備等等。"
-      },
-      {
-        "word": "vows",
-        "zh": "誓言／發誓：指公開且鄭重地承諾或宣示要做某件事情，通常帶有堅定的決心，像新聞中沙烏地阿拉伯「誓言」反擊。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-09",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IWV9FejJ5aUZpYTlWMnFqU2tneHRuOW52WE9KdlczNW9ZN0tIN1FQRzR1LWs0cmpLcTFLSzV3VkFwV3YxVDJMU3ZMWmpTUU5qTndkclVienFRS2ZC?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞正在蓋超多「AI大腦」？科技巨頭搶進AI資料中心大戰！",
-    "zhSummary": "隨著全球對人工智慧（AI）需求大增，東南亞各國正成為建立大型AI資料中心的熱門地點。許多國際科技公司投入巨資，要在這裡建造處理AI運算的「超級電腦機房」，讓東南亞快速變成全球AI發展的重要基地。",
-    "zhContent": "<p>最近，東南亞地區正在經歷一場「AI資料中心」的熱潮。你可能會問，這是什麼呢？簡單來說，這些AI資料中心就像是巨大無比的「超級電腦腦袋」，專門用來處理、分析和儲存所有跟人工智慧（AI）有關的龐大資料。隨著全球對AI技術的需求越來越高，從手機裡的智慧助理到複雜的科學研究，都需要更強大的運算能力，而這些中心就是提供這種力量的關鍵。</p><p>這股熱潮之所以在東南亞特別明顯，是因為許多國際科技大公司都看中了這裡的優勢。建立這些AI資料中心需要大量的土地、穩定的電力供應，以及良好的冷卻系統來防止機器過熱。東南亞的一些國家具備這些條件，加上政府政策的支持，讓它們成為吸引這些高科技投資的理想地點，也因此吸引了數十億美元的投資。</p><p>這些資料中心的建造，不只帶來了龐大的資金，也改變了當地的科技發展面貌。想像一下，當你使用AI相關的應用程式時，背後可能就有一個在東南亞的巨大機房正在努力運作，讓資訊傳輸更快、AI反應更即時。從提供雲端服務到訓練更先進的AI模型，這些中心正默默地成為全球數位基礎設施中不可或缺的一部分。</p><p>目前，東南亞各國的AI資料中心建設仍在如火如荼地進行中。這個趨勢不僅持續吸引著更多國際企業進駐，也加速了該區域在全球科技版圖中的地位提升。可以說，東南亞正快速成為支援未來AI發展的關鍵樞紐之一。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Southeast Asia's AI Data Centre Boom",
-    "enContent": {
-      "basic": "Southeast Asia is seeing a big increase in AI data centers. These are like huge computer facilities that power artificial intelligence. Many big tech companies are building them there because of the growing need for AI and suitable conditions in the region.",
-      "intermediate": "Driven by the global surge in Artificial Intelligence, Southeast Asia is experiencing a significant \"boom\" in the construction of AI data centers. These facilities are crucial for processing, storing, and analyzing vast amounts of data required by AI technologies. The region's suitable infrastructure, energy resources, and supportive government policies are attracting billions of dollars in investment from major tech corporations, transforming it into a key hub for digital infrastructure.",
-      "advanced": "The BBC reports on an accelerating trend in Southeast Asia: the rapid proliferation of AI data centers. This phenomenon is directly attributable to the escalating global demand for AI-driven services and computational power. Major international technology firms are strategically investing substantial capital in the region, leveraging its confluence of favorable conditions including land availability, energy infrastructure, and governmental incentives. This massive influx of data center development is poised to profoundly reshape Southeast Asia's digital economy and solidify its role as a pivotal nexus in the global AI ecosystem."
-    },
-    "vocabulary": [
-      {
-        "word": "Boom",
-        "zh": "熱潮、快速發展：指某件事物在短時間內突然快速成長或變得非常流行。"
-      },
-      {
-        "word": "Data Centre",
-        "zh": "資料中心：一個裝滿了許多電腦伺服器的大型設施，專門用來儲存、處理和傳輸大量的數位資料。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-09-09",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzWG5nM2VVQlhKMU1NZlU3dEEwYTloLUdULW5TU1hjMjFGNjAzWWdjV2p2eHFOMUdOZnlWakxHUEhweWRkZFFTVDZrT1N1MWN1?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "亞洲富豪錢去哪？他們的財產正在「搬家」！",
-    "zhSummary": "亞洲地區最有錢的人們，正在將他們的大筆財產和投資，重新安排到全球其他地方。這是一個龐大的「資金搬家」趨勢，他們這麼做是為了找到更穩定的經濟環境、更好的投資機會，以及保護自己的財富。",
-    "zhContent": "<p>亞洲的超級有錢人最近有個新動向，那就是他們正悄悄地把自己的財富重新安置到世界各地。這些「超級有錢人」可不是一般的富裕家庭，他們通常是擁有龐大資產的企業家、投資者或繼承巨額財產的人。CNBC 的報導指出，這不是小額資金的移動，而是數十億美元計的龐大財產轉移，顯示出一個明顯的趨勢：亞洲的頂級財富正在重新規劃他們的「金錢地圖」。</p><p>那麼，這些富豪們是如何「搬家」他們的錢呢？這不只是把現金從一個銀行轉到另一個銀行那麼簡單。通常，這涉及到重新配置投資組合、設立新的家族辦公室，甚至可能將企業總部或部分業務轉移到新的地點。報導提到，他們選擇新地點時，會考慮當地的經濟穩定性、法律制度的健全程度，以及是否有吸引人的投資機會或稅務政策。這些考量讓財富得以在更安全、更有潛力的環境中繼續增長。</p><p>為什麼會有這樣的變化呢？報導分析，這背後的原因是多方面的。全球經濟環境的變化、地緣政治局勢的不確定性，以及不同國家對於財富管理的政策差異，都讓這些超級有錢人開始重新評估他們財產的存放地點。他們的目的通常是為了分散風險、保護資產，並尋找更好的長期增長機會。可以說，這是一種非常策略性的財富管理行動，目的是確保他們的財產能夠世代相傳，並且持續增值。</p><p>這個現象正在全球金融市場上引起廣泛關注。CNBC 的消息指出，某些特定的城市或國家因此吸引了大量的資金和人才，逐漸成為新的財富管理中心。這股亞洲富豪的「資金遷徙潮」仍在持續進行中，金融專家們也持續觀察這會對全球經濟格局帶來什麼樣的影響。這是一個複雜但真實的趨勢，直接影響著全球財富的流動與分配，未來仍將是財經新聞的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Asia's Ultra-Rich: Where Their Money Is Going",
-    "enContent": {
-      "basic": "...",
-      "intermediate": "...",
-      "advanced": "..."
-    },
-    "vocabulary": [
-      {
-        "word": "Ultra-rich",
-        "zh": "「超級有錢人」或「極度富有者」。這個詞用來形容那些非常有錢、財產多到不可思議的人，比一般人想像中的「有錢」還要再高好幾個等級。"
-      },
-      {
-        "word": "Asset",
-        "zh": "「資產」。資產就是一個人或一間公司所擁有的任何有價值的事物，例如房子、車子、存款、股票、珠寶等等，這些東西都可以換成錢，或是未來能帶來收入。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-09-09",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjJIZWZ2eC1kZXBMdWpJcS1TRmt3cHRScnNKVy1pdl9Ydk9NTWhuREtLdkRRdlRmV0E0WndMVXBUSjNyMTRRTGFqLU9aTU42YWgxb19lMXJscVBOYUY2aTduRlNSaGNEdE40cDRhU0JDUjAyZDBRc2pXdXVXa3FBQ05abVp0cW9zN2VHSEdaMm55Y1FmOHFiR3YwMVHSAaIBQVVfeXFMTng5ZThwbUJqbEZBSEN1ZjFXVjRhb2ZEVDRQdjFrUVJrakNBRnZJQWI1RzY5UDlKU0ZoaTRweFJ3WHl5RlpXcFVLcTlLNVRUOWdSVXBCMy0xUnpWeHhKQ0hqaWI5U3czUUJVeUg3STBUSXhRUTJ4UnNwQlhVRDRYZWVIZXhOM01NdmpNb3RYeDA0QXVKeHZ2RDc0WXdfOGpDOTB3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "澳洲太平洋「盟友網」更新：索羅門群島要加入囉！",
-    "zhSummary": "澳洲正積極鞏固與太平洋島國的關係，最新的計畫是將索羅門群島納入其區域合作聯盟中，強化雙邊交流與區域穩定。",
-    "zhContent": "<p>澳洲最近在太平洋地區的外交行動引人注目！根據報導，澳洲正努力加強他們與太平洋島國之間的關係，目標是將索羅門群島納入他們的「太平洋盟友網」中。這個盟友網可以想成是一個合作圈，澳洲希望透過這個網絡，和周圍的鄰居們一起在各種議題上互相幫忙。</p><p>這項計畫顯示澳洲對太平洋地區的重視。澳洲長期以來一直將太平洋島國視為重要的合作夥伴，並積極投入資源，從基礎建設、經濟發展到安全議題都有合作。把索羅門群島納入這個盟友網，意味著兩國之間的交流與合作關係將會更加緊密，可能包含更多高層對話、共同計畫或是互相支援的項目。</p><p>澳洲此舉主要是為了鞏固在太平洋地區的影響力，確保區域的和平與穩定。對澳洲來說，一個穩定且繁榮的太平洋地區非常重要，因此他們會持續投入精力，與區域內的各國建立深厚的友誼和合作。這也能讓太平洋島國在面對各種挑戰時，擁有更多的支持與協助。</p><p>目前，將索羅門群島納入澳洲太平洋盟友網的計畫正在進行中。這代表澳洲政府正在積極推動相關的協議與準備工作，未來索羅門群島將會更正式地成為這個「合作圈」的一份子。新聞報導就到這裡，沒有提到更進一步的細節或最終完成的時間表。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，澳洲建立「盟友網」的主要目的是什麼？你認為這樣做對澳洲和索羅門群島分別會帶來哪些好處？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，索羅門群島的居民生活會因此有什麼不同嗎？",
-      "獨立思考提案：針對澳洲擴大盟友網的策略，你覺得還可以怎麼做會更好，以確保太平洋地區的長期穩定和繁榮？"
-    ],
-    "enTitle": "Australia's Pacific Alliances Set to Expand, Solomon Islands on Board",
-    "enContent": {
-      "basic": "Australia is working to make its friendships with countries in the Pacific Ocean stronger. They plan to include the Solomon Islands in their group of allies, which means they will work together more closely on different issues.",
-      "intermediate": "Australia is actively seeking to expand its network of regional alliances in the Pacific. The country aims to integrate the Solomon Islands into this cooperative framework, signaling a commitment to deepening diplomatic and collaborative ties across the region, covering areas from infrastructure to security.",
-      "advanced": "Australia is strategically bolstering its diplomatic presence and cooperative frameworks within the Pacific region, with a specific initiative to incorporate the Solomon Islands into its established web of alliances. This move underscores Australia's foreign policy objective to enhance regional stability, security, and mutual prosperity through strengthened bilateral and multilateral engagements, fostering closer collaboration on various critical issues."
-    },
-    "vocabulary": [
-      {
-        "word": "Alliance",
-        "zh": "盟友網/聯盟 (méngyǒu wǎng/liánméng)。想像一下，一群好朋友為了共同的目標，約定好要互相幫助、一起合作，這就叫做聯盟或盟友網。國家之間也會組成聯盟，來處理像是經濟、安全或環境保護等重要的事情。"
-      },
-      {
-        "word": "Pacific",
-        "zh": "太平洋 (tàipíngyáng)。這是地球上最大、最深的一片海洋，它連接了亞洲、澳洲和美洲大陸。太平洋上有很多美麗的島嶼國家，像索羅門群島就是其中之一。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-09-09",
-    "sourceName": "Taipei Times",
-    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjSGotbVVOeUN2REdrRnZsQ0J1RGxocDdqaWEwc1RFQVN6VEx2ek5ZVHZTSUVlbzlyWUF4N25ILW1DQ1hKOVhmckZmRXNLX0N0SEN3TUc3OGtwUDBSMlVucVFBZzB2ZW0wUGdwLU9kMEVaVG1DSjczMw?oc=5",
     "isFeatured": false
   }
 ]
