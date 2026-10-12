@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "諾貝爾化學大發現：藥物製造的魔術師，破解分子鏡像之謎！",
+    "zhSummary": "諾貝爾化學獎得主們最近解決了一個長期困擾科學家的「分子鏡像難題」，這項突破將大幅改進藥物製造，讓未來能生產出更有效、更安全的藥品。",
+    "zhContent": "<p>最近在化學界，有個超級厲害的消息！一群獲得諾貝爾化學獎的科學家們，成功解決了一個困擾大家很久的「分子鏡像難題」。這個了不起的大突破，預計會為我們未來的藥物製造帶來非常大的進步！</p><p>你可能聽不懂「分子鏡像」是什麼？想像一下你的左手和右手，它們看起來是不是很像？但其實它們是互相的鏡像，你沒辦法把左手和右手完全疊合在一起。化學分子也有類似的情況，它們常常會有「左手」和「右手」兩種鏡像形態。麻煩的是，在藥物裡面，一種形態的分子可能可以治病，另一種卻可能完全沒用，甚至會有害。</p><p>以前，科學家在製作藥物時，常常會不小心同時做出這兩種「鏡像分子」。要怎麼才能精準地只做出我們需要的那一種分子，一直以來都是個非常困難的挑戰。而這些諾貝爾獎得主們，就是發明了一種很聰明的新方法，簡單來說，他們找到了一種很特別的「化學小幫手」，它能精準地引導分子，只生成我們需要的那個「手性」的分子，就像只製造左手或右手一樣。</p><p>這個創新技術非常重要，因為它讓藥物的製造變得更有效率、更環保，而且也更安全。未來，醫生們將有更多機會，製造出更精準、副作用更少的藥物來治療各種疾病。這可是一件能大大改善我們生活品質的大事喔！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，諾貝爾獎得主們解決了什麼樣的「難題」？這個難題對藥物製造造成了什麼困擾？",
+      "生活與未來：你覺得這個「分子鏡像難題」的解決，會對我們未來生病時吃到的藥物造成什麼實際影響？",
+      "獨立思考提案：如果有一種技術，可以讓藥物精準到只針對病灶產生作用，完全沒有副作用，你覺得這對人類社會會帶來哪些想像不到的改變？"
+    ],
+    "enTitle": "Nobel Chemistry Breakthrough: Molecular Mirror Mystery Solved, Revolutionizing Drug Manufacturing!",
+    "enContent": {
+      "basic": "Nobel Chemistry laureates have cracked the 'molecular mirror image problem,' a major hurdle in drug manufacturing. This breakthrough means better and safer medicines for the future.",
+      "intermediate": "The recent Nobel Chemistry Prize recognized scientists who solved the 'molecular mirror image problem.' Molecules can exist in two mirror-image forms, like our left and right hands. In medicine, one form might be therapeutic, while the other could be inert or harmful. This discovery provides a precise method to create only the desired molecular form, promising significant advancements in drug development.",
+      "advanced": "The Nobel Chemistry laureates' groundbreaking work addresses the long-standing challenge of enantioselective synthesis. Molecules often exist as enantiomers—non-superimposable mirror images. For pharmaceuticals, distinguishing and selectively synthesizing one enantiomer is crucial, as their biological activities can vastly differ. The developed methodology, likely asymmetric organocatalysis, enables chemists to precisely control the chirality of synthesized molecules, leading to more efficient, sustainable, and safer drug production with reduced side effects."
+    },
+    "vocabulary": [
+      {
+        "word": "Molecule",
+        "zh": "分子：構成物質的最小單位，就像樂高積木一樣，所有東西都是由分子組成的。有時候分子會有像我們的左右手一樣的鏡像版本。"
+      },
+      {
+        "word": "Catalyst",
+        "zh": "催化劑：一種很厲害的化學小幫手，它能讓化學反應更快發生，而且自己不會被消耗掉，就像一個超級有效率的機器人，加速工作但自己不累。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-12",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DZUVGMjlTOXY5WVhTU2xyTEhlS1JaR25GVWxvLUhTOUdtWjM4TTB0ci1GeVFSZVBnbUtfN1ZiUXlXTnc2ZDRQcU03cFBnWjY3amdvbVZJTmtLU0ZLUVFF?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "「氣候科學巨人」也卡關？全球氣候峰會內部爭議大公開！",
+    "zhSummary": "全球最權威的氣候科學組織「政府間氣候變遷專門委員會」（IPCC）最近內部意見不合，在撰寫重要報告時陷入僵局，讓各國代表為了如何描述氣候變遷的嚴重性與應對方式而爭論不休。",
+    "zhContent": "<p>嘿，同學們，提到「氣候變遷」，大家腦中會浮現什麼？融化的冰山？還是越來越熱的夏天？今天我們要聊的不是氣候本身，而是關於研究氣候的「世界頂尖智囊團」──也就是聯合國旗下的「政府間氣候變遷專門委員會」（IPCC）最近發生的一件事。這個專門負責把全球最棒的氣候研究整理出來的組織，最近卻在內部會議裡卡關了，搞得大家意見不合、僵持不下。</p><p>據路透社報導，IPCC在準備最新一份關於氣候變遷的重大報告時，遇到了前所未有的困難。這份報告本來是要統整全球數千位科學家的研究成果，告訴大家氣候變遷現在到底有多嚴重、未來會怎樣，以及我們該怎麼做。結果，在大家針對「如何用字遣詞」來描述氣候變遷的急迫性，以及「誰該負最大責任」這些問題上，不同國家代表之間竟然爭論不休，遲遲無法達成共識。</p><p>為什麼會這樣呢？原來，每個國家對於氣候變遷的感受和面對方式都不太一樣。有些國家覺得，這份報告應該要更嚴厲地警告大家，氣候危機就在眼前，必須馬上採取行動。但也有一些國家，特別是那些還在發展中、經濟高度依賴傳統能源的國家，他們擔心如果報告的語氣太強硬，會讓他們在經濟發展上遇到更大的壓力，甚至被要求承擔過多的責任。這種各自考量的差異，讓會議現場氣氛一度很緊張，甚至必須好幾次延長討論時間。</p><p>最終，為了讓報告能夠順利發布，大家不得不做出一些妥協。這意味著，有些國家本來希望報告能更「大聲疾呼」的內容，可能被稍微調整或淡化了。這場僵局凸顯了，即使是在科學團體裡，要讓所有人都對複雜的全球議題達成一致意見，也是一件多麼不容易的事情。這次事件也讓外界看到，氣候政策的制定，不單單是科學問題，更包含了各國之間的利益權衡與政治角力。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Inside the Deadlock at the World's Top Climate Science Body",
+    "enContent": {
+      "basic": "The world's leading climate science body, the IPCC, faced disagreements recently. Member countries could not agree on key parts of their new climate report.",
+      "intermediate": "According to Reuters, the Intergovernmental Panel on Climate Change (IPCC) struggled to reach a consensus while drafting a major climate report. Representatives from different nations debated how to phrase the urgency of climate change and assign responsibility.",
+      "advanced": "The deadlock within the IPCC highlighted the complex interplay between scientific findings and national interests. While some countries pushed for stronger warnings, others, often those reliant on traditional energy, feared economic repercussions, leading to compromises in the final report's language. This reveals that climate policy is not solely a scientific matter but also involves significant political and economic considerations among nations."
+    },
+    "vocabulary": [
+      {
+        "word": "deadlock",
+        "zh": "僵局 (jiāng jú)：意思就是事情卡住了，雙方意見不合，誰也說服不了誰，導致進展停滯不前，就像下棋走到沒有辦法移動的局面一樣。"
+      },
+      {
+        "word": "consensus",
+        "zh": "共識 (gòng shí)：指大家經過討論後，都能接受的共同想法或決定。簡單來說，就是所有人都點頭說「好，我同意」的結果。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-12",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkFJRWlmcmZtRXBVSHoyQzF5a0FqVkE4RkRuLUExQWxxaTRtTDdNTnBXLUFVSVFlbUw5Zm1YWDFoRzk4dDBlNm1CWEpNa1NOV3BRbFdKd3J5dVZ2MVhRVlBOVUhTenFEOXZYLUdCREl3dHA5OTRDMEE3YjhOdW5LTmttSThFWkpPX2psU0VsNXItVFJYY0VTNDVIX2ludThsaGdHbg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "普普藝術大師「李奇登斯坦」重量級特展！你不知道的秘密等你來解鎖？",
+    "zhSummary": "普普藝術巨星羅伊·李奇登斯坦的「重量級」特展在全球掀起熱潮，這次展覽不只回顧經典，更承諾帶來全新視角與未曾公開的作品，要讓藝術迷們重新認識這位漫畫風格大師的多元魅力。",
+    "zhContent": "<p>最近有個超級酷的藝術展覽在國際上引起轟動，主角就是大名鼎鼎的普普藝術大師羅伊·李奇登斯坦（Roy Lichtenstein）。這位藝術家你可能不熟悉名字，但他的作品你一定看過！就是那種把漫畫變成超大畫作，還有點點構成的圖案，充滿了鮮豔色彩和超大格子點的風格。這次展覽不只規模龐大，更被譽為「重量級」的藝術盛事，吸引了全球藝術迷的目光。</p><p>這場盛大的展覽可不是一般的作品回顧展，而是希望帶給大家全新的視角去認識李奇登斯坦。展覽策劃者們特別強調，他們想探索「還能發現什麼新東西？有什麼是前所未見的？」這句話，暗示著這次展覽可能會展出一些過去較少公開、或是從未一起呈現的作品，讓大家重新思考這位藝術家對現代藝術的影響力。它挑戰了人們對李奇登斯坦作品的既有印象，挖掘出更多元的創作面向。</p><p>羅伊·李奇登斯坦在藝術史上是個非常重要的人物，他將日常生活中的漫畫圖像和廣告元素帶進了藝術殿堂，徹底改變了人們對「什麼才是藝術」的看法。他的創作風格獨特，利用仿印刷的網點、粗黑的線條和鮮明的色彩，讓平凡的圖像變得具有藝術價值。這次展覽匯集了他不同時期的代表作，從他早期鮮為人知的實驗性作品，到他那些經典的普普藝術代表作，都將一一呈現在觀眾眼前。</p><p>這個被外媒形容為「重量級」的李奇登斯坦展覽，目前正在國際藝術圈掀起一股熱潮。它不僅讓許多資深藝術愛好者有機會深入了解這位大師更全面的創作歷程，也同時吸引了年輕一代的觀眾走進美術館，感受普普藝術的獨特魅力。目前，許多人正期待這場展覽能持續在全球巡迴，讓更多地方的民眾都能親眼目睹這些精彩的作品。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Roy Lichtenstein Blockbuster Exhibition Sparks Global Excitement",
+    "enContent": {
+      "basic": "A big art show about Roy Lichtenstein is happening. He was an artist famous for making paintings that look like comic books with dots. People are excited because the show wants to find \"what's new\" about his art. It's not just old art, but a new way to see his work.",
+      "intermediate": "A major exhibition celebrating the works of Pop Art legend Roy Lichtenstein is currently making waves internationally. Known for his distinctive comic-book style paintings featuring bold outlines and Ben-Day dots, this \"blockbuster\" show promises more than a simple retrospective. Organizers hint at uncovering new perspectives and potentially unseen aspects of his artistic journey, sparking curiosity about what fresh discoveries await attendees.",
+      "advanced": "The global art scene is abuzz with the unveiling of a significant Roy Lichtenstein exhibition, hailed as a \"blockbuster\" event. This major presentation dedicated to the iconic Pop Art master aims to transcend a mere chronological retrospective, actively posing the question: \"What could be discovered? What is new there?\" Curators suggest the exhibition will delve into lesser-known facets of Lichtenstein's extensive oeuvre, potentially showcasing previously unexhibited works or recontextualizing his celebrated comic-strip inspired canvases, thereby offering a fresh and re-evaluative perspective on his enduring legacy."
+    },
+    "vocabulary": [
+      {
+        "word": "exhibition",
+        "zh": "展覽 (zhǎnlǎn): 一個公開展示藝術品、收藏品或產品的活動，讓大家可以去參觀欣賞。"
+      },
+      {
+        "word": "blockbuster",
+        "zh": "重量級大片/超受歡迎的活動 (zhòngliàngjí dàpiàn/chāoshòu huānyíng de huódòng): 形容一部非常成功、受歡迎的電影，或是一個非常盛大、吸引大量人潮的活動。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-10-12",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPel90WHh6cnkwTWtGcDNWcmZWVzc3enpUcWxoQlZueFlvY1BJV096cjUtb0l1QThMYTk1ZWxHMFFHbmx5WGlBQXZfbzlHUkYwa3FPSDZXQWlqNVdMS0M4dDh0dkJEQnJrWjlQYnlTU3RMdU5hU3pxUXBJYVhpbDg1U0NGcGd1TTRCMFItS3BDTUFVUS1raVFpc0h5SQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI的「安全守門員」浮出水面：這些幕後英雄終於站上舞台！",
+    "zhSummary": "隨著人工智慧快速發展，過去在幕後默默工作的AI安全團隊，他們確保AI系統不會出錯或造成傷害的角色，現在正受到前所未有的關注，成為了科技界的新焦點。",
+    "zhContent": "<p>現在AI科技發展得又快又猛，好像每天都有新消息。但你們知道嗎？在這些酷炫的AI背後，有一群人以前總是默默無聞，他們的工作就是確保這些AI工具不會「暴走」、不會做出危險或錯誤的事情。這些人就像是AI的「安全守門員」，過去他們的存在感不高，但最近，他們突然從幕後走到了鎂光燈下，成為了大家熱烈討論的對象。</p><p>這些安全守門員具體做些什麼呢？他們其實肩負著重大的責任，必須仔細檢查AI模型，看看它們會不會生成有害的內容，例如歧視、假新聞，或是提供不正確的資訊。他們的任務是在AI正式推出給大眾使用之前，找出所有可能的漏洞和風險，就像是為AI產品進行一次又一次的嚴格安全測試。這項工作既耗時又需要專業，但卻是確保AI能安全、可靠運行的關鍵。</p><p>為什麼這些「安靜的英雄」會突然受到這麼大的重視呢？主要原因是AI的應用已經非常廣泛，從寫文章、畫圖到程式設計，幾乎無所不在。當AI的能力越來越強大，人們對它可能帶來的潛在風險也越來越警惕。許多科技公司和研究機構都意識到，不能再把安全問題當作可有可無的環節，而是必須在開發AI的最初階段就將其納入考量。</p><p>因此，現在許多大型科技公司都開始擴大它們的AI安全團隊，並且給予這些團隊更大的權力和資源。這表示未來AI產品的開發，將會更注重安全性和可靠性，而不再只是追求速度和新功能。這些幕後的安全守門員們，終於從默默無聞的狀態，變成AI發展中不可或缺的核心力量，這也代表著整個產業對AI安全的重視程度提升到了新的層次。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，AI安全團隊以前與現在的處境有什麼不同？他們的職責是什麼？",
+      "生活與未來：你覺得AI安全守門員的角色變重要，對我們這些使用者來說有什麼實際好處？",
+      "獨立思考提案：如果AI會影響到你的日常生活，你覺得除了安全把關，還有什麼是AI開發者應該特別注意的地方？"
+    ],
+    "enTitle": "AI's Hidden Heroes: Safety Gatekeepers Step into the Spotlight",
+    "enContent": {
+      "basic": "AI technology is growing fast, and now the people who make sure it's safe are getting noticed. These \"safety gatekeepers\" used to work quietly behind the scenes. Their job is to check if AI might say bad things, spread fake news, or make mistakes. With AI being used everywhere, people are starting to worry more about its risks. So, big tech companies are now giving these safety teams more power and resources, making sure AI is safe from the start.",
+      "intermediate": "The rapid advancement of artificial intelligence has brought its once-unseen \"safety gatekeepers\" into prominence. These teams are responsible for rigorously testing AI models to prevent issues like the generation of harmful content, biases, or misinformation. Historically operating in the background, their role has become crucial as AI applications proliferate across various sectors. Growing public and industry concerns about potential AI risks have prompted major tech companies to significantly expand these safety divisions, integrating security measures earlier into the development process.",
+      "advanced": "As the rapid proliferation of artificial intelligence technologies continues, the previously unsung \"safety gatekeepers\" of AI are now commanding significant attention. These specialized teams are tasked with the critical responsibility of thoroughly vetting AI models to mitigate risks associated with the generation of offensive content, propagation of misinformation, or the manifestation of algorithmic biases. The escalating integration of AI across diverse industries has amplified public and regulatory concerns regarding its potential societal impact. Consequently, leading technology firms are increasingly prioritizing and investing in these dedicated safety divisions, elevating their influence and resources to ensure robust ethical and security protocols are embedded from the initial stages of AI development."
+    },
+    "vocabulary": [
+      {
+        "word": "Gatekeepers",
+        "zh": "把關者 (bǎ guān zhě) - 就像是守門員或檢查員，他們負責把關，確保某個東西在出去之前是安全、正確的。"
+      },
+      {
+        "word": "Spotlight",
+        "zh": "聚光燈 (jù guāng dēng) - 原本是指舞台上把光線集中在某個人身上的燈，現在常用來比喻某人或某件事受到大家的特別關注。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-12",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkNDdnRWWFBiR3hyNnh2OTBuRV95allJVUM5SktPQTVpZEI3R19oa2d1NmRiVkxtcFpxdGtxX3NQNzF5Tm1fTk91N3BnbUpYaDRqOWQzcGFFMlU4UElwZkcxWUtodmFKeHRWaFRRZUNQWW1BdHZIUUNPOFkyaktpMUZKRFlaRktYSm5DSmExaHR0TE42V2RJNmVDY1Bjd9IBowFBVV95cUxPdVUyM0VuR2k4VE83c2dCVDlHM0h3ZUNvaUpEQjN5ZUJoZE5aVWJMNHlHNnc5WVZaaXhVV2g3dHROMU56Qm1rNEIta0lHVUpQTnViODBwUDlqZVVZTWdQeVd0UzNRU1dJQ1hSUGx5dzhhRW5uamowc2t2M1BVQ2dOU01nb3E0QkRTajRzbHdRUU5kVS10bHJrVURaOHBnZ0otaUxF?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "週末不無聊！TAPinto 幫你發掘當地好去處",
+    "zhSummary": "美國地方媒體 TAPinto 定期發布「週末活動指南」，詳細列出當地社區在特定日期（如10月9-12日）舉辦的各種好玩活動，從市集、體育賽事到藝術工坊，讓居民輕鬆規劃週末行程，豐富在地生活。",
+    "zhContent": "<p>「本週末當地有哪些好玩活動？10月9日至12日」— 當你在找週末去哪兒玩的時候，是不是也希望有個懶人包，把所有好康活動都整理好呢？美國地方媒體 TAPinto 就常推出這樣的報導，特別是在特定週末，像是今年10月9日到12日這幾天，他們就會整理出當地社區裡各種適合全家大小、或是青少年朋友參與的活動清單，讓大家可以輕鬆找到出門走走的新點子。</p><p>這類型的報導通常會涵蓋各種活動。舉例來說，你可能會看到像是農夫市集、當地學校的體育賽事、藝術工作坊、戶外健行或自行車活動，甚至是圖書館舉辦的特別說故事時間。這些活動通常由當地的社團、學校、教會、政府單位或小型店家發起，目的是希望居民能更積極參與社區生活，也提供不同興趣的人多樣的選擇。</p><p>TAPinto 這樣的在地媒體會持續提供這類資訊，主要是為了服務當地居民。透過定期發布「週末好去處」清單，他們能幫助社區成員掌握最新動態，避免錯過精彩活動。同時，這也是一種支持當地經濟和文化發展的方式，讓更多人注意到這些社區活動背後的努力，並促進人與人之間的連結，讓大家知道除了在家看電視或玩手機，還有很多有趣的事可以做。</p><p>因此，每當週末來臨前，這樣的活動指南就成了當地人規劃行程的好幫手。它不是一個單一的突發事件，而是一種持續性的社區服務，確保居民能充分利用在地資源，享受充滿樂趣的閒暇時光。下次如果你在自己的城市也看到類似的活動列表，就知道它是當地媒體用心整理，希望能讓大家週末不無聊的好意。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Don't Be Bored This Weekend! TAPinto Helps You Discover Local Fun",
+    "enContent": {
+      "basic": "TAPinto, a local news website, often tells people about fun things to do on the weekend. For example, from October 9-12, they shared a list of activities happening in the area. This helps families and kids find new ways to spend their free time.",
+      "intermediate": "Local media like TAPinto regularly publishes \"weekend activity guides\" for its readers. These guides feature various events, such as farmers' markets, school sports, art workshops, and outdoor activities, all organized by local groups. The goal is to encourage community engagement and provide residents with diverse entertainment options.",
+      "advanced": "TAPinto serves its local community by curating and disseminating comprehensive lists of upcoming weekend events. These typically encompass a wide range of activities, from cultural festivals and educational workshops to recreational sports and civic gatherings, all taking place between specific dates, such as October 9th to 12th. This consistent service not only helps residents efficiently plan their leisure time but also fosters local economic activity and strengthens community bonds by highlighting opportunities for participation beyond digital engagement."
+    },
+    "vocabulary": [
+      {
+        "word": "Local",
+        "zh": "當地，指特定的小區域或一個地區，例如你住的城市、城鎮或鄰近的區域。"
+      },
+      {
+        "word": "Community",
+        "zh": "社區，指住在一起的一群人，他們分享共同的區域和一些共同的興趣或規則。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-10-12",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFJyWUV2bC1DMDlZMUt3M1RTX3hGcTVfdVc3akQxbzlOWnJINnAtSDRmZjZhVnRMYXR4Q1VBMmtXTGhUbjBFd29xZWN3ZkpSaTRWU0ZYNnY0V0lmNWU5S1VJRmxGRzRZTjBxV1pjT0RCUGxTNFFjd3MzX09OQ0xmQlJZaTFzRkpoVkJMY2dqOFRSOUh3SVRVWHdOdFdZUGlheE9yVXQ1c0tFQlZZYlBaRG5vWUJzSnk0NnFVQTF1c3VhWDhZVzVz?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國死刑「重回大眾視野」？百年後新變化惹關注",
+    "zhSummary": "美國近一世紀以來，行刑大多在私密環境中進行。然而，近期有報導指出，某些州可能正在改變這項傳統，讓死刑執行再次變得「公開」，引發社會廣泛討論。",
+    "zhContent": "<p>你或許會覺得很不可思議，在美國，過去幾乎一百年來，死刑的執行都非常低調、不公開。簡單來說，就是一般民眾和媒體很難親眼看見整個過程。但最近，有外國媒體報導說，這種情況可能要改變了！雖然這不是要回到以前那種大家圍觀的「公開處刑」，但的確有些跡象顯示，美國某些州政府，正在讓這個原本很隱密的過程，再次回到大家的視野中。</p><p>這種「重回大眾視野」的改變，具體來說是什麼呢？其實，這主要是跟一些州重新啟用或考慮使用某些特殊的行刑方式有關。例如，有些州因為找不到合適的藥物來進行傳統的藥物注射死刑，所以開始考慮使用像是「瓦斯毒氣室」或「槍決」等方式。這些方法本身就比較罕見，也更容易引發公眾的關注和討論，讓大家對死刑執行的細節有更多好奇和想像。</p><p>那為什麼這些州會突然想改變呢？其中一個主要原因，就是藥物短缺。歐美國家製造藥物給死刑使用的公司，因為人道考量，不願意供應這些藥物，導致美國各州很難買到。於是，為了能繼續執行死刑，一些州政府只好找尋替代方案。有些州認為，這些「老方法」雖然聽起來比較驚悚，但或許能讓行刑過程更透明，也能回應社會對於死刑執行效率和正義的各種聲音。</p><p>目前來看，這個趨勢已經在一些州引起了實質的行動。有的州已經通過法案，允許重新啟用這些特殊行刑方式，甚至已經有實際執行的案例，或正在規劃中。當然，這也引發了非常多的爭議，包括人道立場、法律挑戰等等。這個現象讓美國的死刑議題，從原本私密的角落，重新成為了社會討論的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Executions Returning to Public View After a Century? New Changes Stir Debate",
+    "enContent": {
+      "basic": "US executions are becoming more public after a long time. Some states are using old methods like gas chambers again because of drug shortages. This makes people talk about it more.",
+      "intermediate": "After nearly a century of private executions, some US states are reintroducing methods like gas chambers or firing squads due to shortages of lethal injection drugs. This policy shift is bringing the execution process back into the public eye and sparking debate.",
+      "advanced": "Nearly a century after they largely ceased, public awareness and debate surrounding executions are intensifying in the US. Driven by a nationwide shortage of lethal injection drugs, several states are reverting to previously abandoned methods such as gas chambers or firing squads, thereby increasing the transparency and public scrutiny of capital punishment processes."
+    },
+    "vocabulary": [
+      {
+        "word": "Execution",
+        "zh": "行刑：執行死刑的過程，通常指對被判處死刑的人進行處罰。"
+      },
+      {
+        "word": "Transparency",
+        "zh": "透明度：指事情的過程或細節是公開的，能夠被大家看到、了解和檢視的程度。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-12",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QZERwYlJCLUktZmljdXlkanNveXFsNkhOZUM0cXdlMnhqR1Q5WXlKTlZKWEE1dTl2YzhreURvNW1BdG1xNjhjY01lTVI1NS1JZjhjWFU0ek9MNHM?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "野生動物園驚傳老虎襲人！男子不幸身亡",
+    "zhSummary": "國外一間野生動物園發生老虎攻擊人類的悲劇，一名男子在園內遭老虎襲擊後不幸身亡，相關單位已介入調查。",
+    "zhContent": "<p>同學們好，今天我們來關心一則來自國外的沉重消息。根據英國廣播公司（BBC）的報導，在某處野生動物園裡，發生了一起老虎攻擊人類的悲劇，導致一名男子不幸喪命。這個消息讓許多人感到震驚與難過，也再次提醒我們野生動物的不可預測性。</p><p>這次事件發生在野生動物園內，一名男子在不明情況下遭到園區內的老虎攻擊。雖然具體細節和過程目前仍在釐清，但可以確定的是，老虎的強大力量與野性瞬間爆發，讓這場意外發生得猝不及防。男子在被攻擊後，因傷勢過重，最終不治身亡，令人感到非常遺憾。</p><p>野生動物園通常是讓民眾近距離觀察和認識野生動物的地方，同時也肩負著動物保育的責任。然而，這些動物畢竟保有牠們的原始野性，管理與安全措施一直是園區營運的重中之重。這次事件再次提醒我們，即使是在受控的環境中，野生動物仍有其不可預測的一面，需要高度的警覺與專業管理。目前，當地政府和動物園管理部門已經針對事件展開詳細調查。</p><p>調查的重點將放在釐清男子為何會與老虎發生接觸、園區的安全防護措施是否到位，以及事發當時的具體情況。園方也將配合調查，檢討並可能加強相關的安全規範，以避免類似的悲劇再次發生。這起不幸的事件目前仍在調查中，待官方公布更多細節。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Man dies after tiger attack at wildlife park - BBC",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "wildlife",
+        "zh": "野生動物，指在大自然中自由生長的動物，沒有被人類馴養或飼養的動物。"
+      },
+      {
+        "word": "attack",
+        "zh": "攻擊，指用暴力衝向或傷害別人、動物或事物。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-10-12",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNVE4NkdyTkFGQVVpeEh4aDBpQWRjT0FBN0xKRV9BdWtWbWg0NjNlV24zWndpRklocW45UllwTGZnZkozbi1sZWsxVDZtNmhqMUxyM3BPdmVpZjg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "德國人口大風吹：有些地方變少，有些卻更熱鬧？",
+    "zhSummary": "德國總人口雖然有減少的趨勢，但這不是全國都一樣。有些大城市人口持續增加，而其他城鎮則面臨人口減少的挑戰，反映出各地發展的差異。",
+    "zhContent": "<p>「德國人口正在減少！」這條新聞標題聽起來有點嚇人，但仔細一看，後面還有半句話：「但不是每個地方都這樣。」這句話點出了德國目前一個很特別的現象：雖然從全國來看，德國的總人口數量有在慢慢變少的趨勢，但如果你仔細觀察，會發現其實並不是德國的每個城市或每個地區都在減少。有些地方甚至逆勢成長，人口不減反增，變得越來越熱鬧。</p><p>這種「此消彼長」的變化，主要體現在城鄉之間。簡單來說，許多大城市和它們周邊的區域，因為提供了更多的工作機會、學校選擇和文化活動，吸引了許多年輕人搬進去。這些地方的人口仍然持續穩定地增加。然而，一些過去經濟比較不發達、或是原本就比較偏遠的小城鎮和鄉村地區，就面臨了挑戰。年輕人為了更好的發展而離開，導致這些地方的人口逐漸減少，學校裡的孩子越來越少，有些商店也因為客人變少而關門。</p><p>為什麼會這樣呢？其實原因很複雜。一方面，德國和許多先進國家一樣，出生率比較低，也就是說，平均每個家庭生的小孩變少了。另一方面，人們的壽命越來越長，這讓老年人口的比例相對提高。再加上前面提到的「內部遷徙」，也就是德國人自己從一個地方搬到另一個地方，通常是從鄉村搬到大城市。政府和專家們觀察到，這種人口流動導致了不同地區發展上的差異。</p><p>目前，德國政府和各地區都在努力應對這種人口結構的變化。例如，人口增加的城市需要興建更多的住宅、學校和交通設施來滿足需求；而人口減少的地區則需要思考如何吸引新居民回流，或是調整公共服務的規劃，以適應當地逐漸減少的人口。這是一個持續進行的過程，影響著德國每個角落的未來發展。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞提到德國人口『正在減少，但不是每個地方都這樣』，這代表了什麼樣的現象？哪些地方可能人口變多，哪些地方可能減少呢？",
+      "生活與未來：你覺得這種城鄉人口分佈不均的改變，會對當地人的生活造成什麼實際影響？例如，對學校、工作機會或基礎設施會有什麼影響？",
+      "獨立思考提案：針對這種人口變化趨勢，你覺得德國政府或地方社區可以提出什麼新想法來應對，讓城鄉發展能更平衡或更具活力？"
+    ],
+    "enTitle": "Demographic Change in Germany: Decline, But Not Everywhere",
+    "enContent": {
+      "basic": "Germany's population is changing. While the total number of people in the country is slowly going down, it's not the same everywhere. Big cities and nearby areas are still growing because they offer more jobs and schools. But smaller towns and rural areas are seeing fewer people as young people move away. This happens because fewer babies are born, people live longer, and Germans move from villages to cities. Germany's government and local areas are working to deal with these changes, like building more homes in growing cities and finding ways to bring people back to shrinking towns.",
+      "intermediate": "Germany is experiencing a complex demographic shift. Although the overall national population shows a declining trend, this pattern is not uniform across all regions. Major cities and their surrounding areas continue to see population growth, largely due to the availability of more employment, educational opportunities, and cultural activities, which attract younger generations. Conversely, less developed or more remote small towns and rural areas face the challenge of population decline as residents move to urban centers for better prospects. This phenomenon is attributed to factors such as low birth rates, an aging population, and internal migration within Germany. Both the federal government and local authorities are actively addressing these disparities, planning for increased infrastructure in growing areas and strategizing to revitalize or adapt public services in shrinking regions.",
+      "advanced": "Germany is navigating a nuanced demographic transformation characterized by an overall national population decline that belies significant regional variations. Urban centers and their peripheral zones are experiencing sustained population growth, primarily driven by the agglomeration of economic opportunities, educational institutions, and cultural amenities, which act as powerful magnets for internal migration. In stark contrast, numerous smaller towns and rural municipalities are contending with population contraction, as younger cohorts migrate to more vibrant urban environments. This multifaceted demographic shift is underpinned by several factors: persistently low birth rates, an increasingly aging populace, and a pronounced pattern of internal migration from rural to urban areas. Governmental bodies at both federal and local levels are actively formulating strategies to mitigate the consequences of these diverging demographic trajectories, including investments in urban infrastructure and initiatives aimed at stimulating regional development or recalibrating public services in depopulating areas."
+    },
+    "vocabulary": [
+      {
+        "word": "Demographic",
+        "zh": "「人口統計」或「人口變化相關的」。它指的是研究一個國家或地區的人口數量、年齡分布、性別比例、出生率、死亡率等這些特性的學問，可以幫助我們了解一個地方的人口在怎麼改變。"
+      },
+      {
+        "word": "Migration",
+        "zh": "「遷徙」或「移民」。意思是人或動物從一個地方搬到另一個地方居住。如果是在同一個國家裡搬家，叫做「內部遷徙」；如果搬到不同國家，就叫做「國際移民」。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-12",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEhRNTdydjF3M3VsLWhBdkpGY2c0dlNoWGExaW9ndW12eW4yZExnSGMyNjBzSjJCVzlvNXBrTVdzMVZpZzhOWHBDdkVRa2pZbkQ4ZXNpVG8wSGx6bmN5MlBESDBKZU1MZHE0NFdKdkVna0RYQlpPdEpEaU9VS3BjNWZNMzBFT19HbG94NNIBjAFBVV95cUxOMjlMTkJraWdnaElaSkVrRE5wa0NwX0VJZjVTc1NudmdWZmcxbUhjNlROeEluZUEycXdKT3NXNWRRblhPQjVWUWhELVdiNnFhTjhsay1uRHh3aFN2cTI5YldIejNtTDNjUU5NLUtfazgtNXI2WDRfekZaN3lfRGNiSlByMndMeUZTZFBkXw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "板球戰報：澳洲隊大放異彩！倫蕭狂轟190分，第二天大幅領先南非隊",
+    "zhSummary": "澳洲隊在與南非隊的板球測試賽中表現強勁，明星球員麥特·倫蕭單人拿下驚人的190分，讓澳洲隊在比賽第二天就遙遙領先南非隊363分。",
+    "zhContent": "<p>最近在板球世界掀起了一股熱潮！根據美聯社報導，澳洲隊目前在一場與南非隊的比賽中表現得非常出色。尤其是一位名叫麥特·倫蕭（Matt Renshaw）的選手，他單槍匹馬就拿下了驚人的 190 分，讓澳洲隊在比賽的第二天就取得了巨大的領先優勢。</p><p>這場精彩的板球對決在第二天就已經呈現出一邊倒的局面。麥特·倫蕭這次的得分幾乎是澳洲隊總分的一半，他的表現無疑是這場比賽的焦點。憑藉他的出色發揮，澳洲隊總計領先了南非隊高達 363 分。這個分數差距在板球比賽中是相當可觀的，顯示澳洲隊目前佔據了絕對的優勢。</p><p>在板球比賽中，一位選手能夠獨自拿下 190 分，是非常不容易且令人讚嘆的成就。這代表他長時間穩定地擊球得分，沒有被對手淘汰出局。而團隊能在第二天就累積 363 分的領先，意味著南非隊在之前的比賽中得分較低，並且澳洲隊的擊球員們整體表現都非常強勁，成功地積累了大量的分數，給南非隊帶來了巨大的壓力。</p><p>截至目前為止，比賽仍處於進行中，但澳洲隊已經建立了一個非常穩固的基礎。他們在第二天就取得了這麼大的領先，這讓他們在接下來的比賽中擁有很大的操作空間和策略選擇。南非隊將面臨巨大的挑戰，必須在剩餘的比賽時間內想辦法追回這個巨大的分數差距，才能避免澳洲隊最終獲勝。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，澳洲隊和南非隊正在進行什麼樣的比賽？麥特·倫蕭在這場比賽中做了什麼特別的事？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Matt Renshaw scores 190 as Australia leads South Africa by 363 runs on Day 2 - AP News",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "scores",
+        "zh": "得分：在體育比賽中，選手或隊伍透過成功完成某個動作而獲得的分數。"
+      },
+      {
+        "word": "runs",
+        "zh": "跑分：在板球運動中，球員成功擊球後，在球場兩端之間來回跑動所獲得的分數。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-12",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEhhOFVTS1pOOEk2VEE3bnJVSC1mc1lURUJIaVRoaS1hT0REUGNSUlNFUEVqRGM1SXNpd0toR29oc3R1dzU2M19CMVJUSVJ1OXFmVWVpZGVEME9JZGFBcEJ4NWR1a1pKcXI5S1ctUnNhalRSalYwenZwYjkyNjhuR3ZxTmNHYVJ4M2twZHMxd2p4VFNKNGV2RXBQdjM5UlRS?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "伊朗風波延燒！全球油價跟著緊張，這一切怎麼了？",
+    "zhSummary": "中東地區的緊張局勢，尤其是圍繞著伊朗的事件，對全球的能源供應帶來了巨大影響。本文將帶你了解伊朗與世界能源的關聯，以及這些變動如何牽動著我們的日常生活。",
+    "zhContent": "<p>最近，國際新聞上經常聽到關於中東地區局勢緊張的消息，特別是提到伊朗的時候，很多人都會立刻聯想到「石油」。你可能好奇，究竟是發生了什麼事，讓這個國家的動態會影響到全世界的能源供應呢？簡單來說，伊朗是世界上重要的石油生產國之一，它每天能產出大量的原油。因此，任何與伊朗相關的「戰爭」或是衝突，無論是實際的軍事行動還是國際間的政治角力，都可能讓全球的石油市場跟著心臟病發。</p><p>根據外國媒體的報導，當伊朗周邊地區的衝突升溫時，全球能源供應鏈就會亮起紅燈。其中一個關鍵地點是「荷莫茲海峽」，這條狹窄的海峽是連接波斯灣和國際水域的唯一通道，世界上有將近五分之一的石油，每天都要從這裡運出去。如果這裡的航運受到威脅，或是伊朗受到國際制裁，導致它無法正常出口石油，那麼全球市場上的石油供給就會立刻減少，就像大家都在搶有限的商品一樣，價格自然就會飆升。</p><p>歷史上，每當伊朗或中東地區發生重大事件時，國際油價都會有劇烈的波動。這是因為各國政府和石油公司會擔心未來的供應不穩定，於是開始囤積石油，或是尋找其他的替代來源。而當石油價格上漲時，不只我們汽機車要加的油變貴，連帶也會影響到貨物的運輸成本，進而可能讓日常用品的價格跟著上漲，這對全球經濟來說，都是一個不小的考驗。</p><p>目前，國際社會對於中東地區的穩定仍然保持高度關注，期望能夠透過外交途徑化解緊張局勢。因為大家都知道，這不只是區域性的問題，更是牽動著全球能源脈動的關鍵。能源市場的起伏，直接反映了這些衝突的嚴重性，以及它對世界經濟可能帶來的深遠影響。在這些事件還沒有明確結果之前，能源市場的變動仍是各國緊盯的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「荷莫茲海峽」為什麼對於全球石油供應如此重要？",
+      "生活與未來：你覺得如果全球油價持續上漲，可能會對你的家庭生活或學校有什麼實際影響？",
+      "獨立思考提案：除了依賴單一地區的石油供應，你覺得國際社會還可以怎麼做，才能降低因地區衝突而造成的能源危機風險？"
+    ],
+    "enTitle": "Iran Tensions Fuel Global Energy Concerns: What's Happening?",
+    "enContent": {
+      "basic": "Recent news about Iran's situation in the Middle East often brings up oil. Iran is a big oil producer. Any conflict there, even political fights, can make global oil prices jump. A key place called the Strait of Hormuz, where a lot of oil passes, can be affected. If oil shipping there is threatened, or if Iran can't sell its oil, there's less oil for everyone, so prices go up. This means gas for cars and even prices of everyday things might rise. The world is watching closely, hoping to solve these issues with talks, because it affects everyone's energy and economy.",
+      "intermediate": "The ongoing tensions in the Middle East, particularly involving Iran, have significant implications for the world's energy supply. Iran is a major oil-producing nation, and any military conflict or political friction involving the country can send shockwaves through the global oil market. A critical chokepoint, the Strait of Hormuz, facilitates the passage of nearly a fifth of the world's daily oil consumption. Threats to shipping in this strait, or international sanctions limiting Iran's oil exports, lead to a reduction in global supply, inevitably driving up prices. Historically, such events have caused severe volatility in oil prices, affecting transportation costs and potentially increasing the cost of daily goods worldwide. The international community is actively seeking diplomatic solutions to stabilize the region, as the energy market's stability is directly tied to geopolitical events in this critical area.",
+      "advanced": "The geopolitical landscape surrounding Iran continues to exert considerable influence over global energy markets. As a pivotal oil-producing nation, any escalation of 'war' or conflict, whether overt military action or intensified political and economic pressure, inherently introduces volatility into the international crude oil trading system. Al Jazeera's reporting underscores the tangible impacts, particularly concerning critical maritime chokepoints like the Strait of Hormuz, through which a substantial proportion of the world's seaborne oil transits. Disruptions to this vital artery, alongside the imposition of international sanctions curtailing Iran's hydrocarbon exports, directly diminish global supply availability. Such supply-side shocks invariably trigger upward price pressures, translating into elevated costs across the energy value chain—from fuel at the pump to broader logistical expenses that influence consumer goods pricing. The sustained vigilance of the international community highlights the complex interplay between regional stability and global economic well-being, as stakeholders strive to mitigate the far-reaching repercussions of geopolitical tensions on the energy sector."
+    },
+    "vocabulary": [
+      {
+        "word": "Strait",
+        "zh": "海峽：想像兩塊陸地之間有一條很窄的水道，連接了兩片大海或大湖，船隻常常會從這裡經過，這種地形就叫做海峽。例如：台灣海峽。"
+      },
+      {
+        "word": "Sanctions",
+        "zh": "制裁：當一個國家做了某些事讓其他國家不開心，其他國家可能會用一些方法來「懲罰」它，比如不跟它做生意、不讓它賣東西到國外等等，這種手段就叫做制裁。目的通常是希望那個國家能改變行為。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-12",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "天空被偷走了！印尼野火讓新加坡籠罩「毒」霧",
+    "zhSummary": "新加坡近期籠罩在一片厚重的灰濛濛煙霧中，這股有毒霧霾來自鄰國印尼的野外大火，嚴重影響了城市的空氣品質與居民生活。",
+    "zhContent": "<p>「看哪！印尼野火讓新加坡天際線籠罩在有毒的霧霾中」— 這不是科幻電影的場景，而是新加坡最近的真實畫面。原本應該是高樓林立、充滿活力的城市，卻被一層厚厚的灰濛濛煙霧包圍，連著名的地標都看不清楚了。這場突如其來的「大霧」，其實是來自鄰國印尼的野外火災，飄散過來的有毒霧霾，讓新加坡的空氣變得非常糟糕，也讓當地人的生活受到不小影響。</p><p>從新聞畫面可以看到，新加坡標誌性的摩天大樓群，像是濱海灣金沙酒店，都幾乎「消失」在煙霧裡。整個城市的天空變成一片黃灰色，遠處的景色更是模糊不清，就像是被一層濾鏡罩住了一樣。這種情況讓很多居民感到非常不習慣，畢竟新加坡向來以乾淨整潔聞名。而造成這一切的元兇，就是印尼境內的大規模野火，尤其是在一些森林和泥炭地，火勢一旦蔓延就難以控制。</p><p>這些野火通常不是意外，而是與當地一些為了開闢農地或棕櫚油種植園的「燒芭」行為有關。在乾燥季節，這些火勢更容易失控，產生的濃煙就會隨著風向，飄到周邊國家，首當其衝的就是距離較近的新加坡和馬來西亞。煙霧中含有許多細小的懸浮粒子，被稱為PM2.5，如果吸入過多，對呼吸道和心臟健康都有不良影響，所以這不僅僅是能見度的問題，更是嚴重的公共衛生隱憂。</p><p>面對這樣的霧霾，新加坡當局迅速發出了空氣品質警報，提醒民眾盡量減少戶外活動，特別是兒童、老人和有呼吸道疾病的人，建議待在家裡，如果非要出門，也要戴上N95口罩保護自己。學校也可能因為空氣品質惡化而考慮停課，甚至取消戶外體育活動。目前，各方都在密切關注火勢的發展，並評估這場跨境霧霾對環境和民眾健康的長期影響。這是每年特定季節都會重演的問題，需要持續的努力才能解決。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，新加坡受到了什麼樣的影響？這些影響的源頭在哪裡？",
+      "生活與未來：你覺得這種野火和霧霾問題，會對當地居民的日常生活帶來哪些實際的困擾？",
+      "獨立思考提案：針對印尼野火造成的跨境霧霾問題，你覺得除了戴口罩和減少外出之外，還有哪些長期的解決辦法可以思考？"
+    ],
+    "enTitle": "Singapore's Skyline Shrouded in Toxic Haze from Indonesia Wildfires",
+    "enContent": {
+      "basic": "Indonesia wildfires caused thick, toxic haze in Singapore, making the air bad and hiding the city's buildings.",
+      "intermediate": "Massive wildfires in Indonesia, often linked to land clearing, have sent a toxic haze drifting over Singapore, significantly reducing air quality and visibility and prompting health advisories.",
+      "advanced": "Recurring transboundary haze, originating from extensive agricultural and peatland fires in Indonesia during dry seasons, has once again engulfed Singapore's urban landscape in a dense, particulate-laden shroud, necessitating public health warnings and raising persistent environmental and diplomatic concerns."
+    },
+    "vocabulary": [
+      {
+        "word": "Haze",
+        "zh": "英文單字「Haze」是指空氣中因為灰塵、煙霧或污染物質太多，導致能見度下降，看起來灰濛濛的現象。就像空氣裡充滿了細小的灰塵，讓遠方景物變得模糊不清。"
+      },
+      {
+        "word": "Wildfires",
+        "zh": "「Wildfires」是指野外或森林裡發生的、難以控制的大火。跟一般家裡的火災不一樣，野火通常發生在沒什麼人住的地方，會燒掉很多樹木和植物，而且會產生大量的煙霧。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-12",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55ZEtkRk9sWlVKRU50WGVqU0pKOE9YTnowSW9SSlBIV3NFMWFOOF9UOExKeFdUU3pLSlltaXU1SnVZSl9KOW9rSkxZUTF1SVFobzBkUHRvQUI?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "尼泊爾閃電洪水襲擊！建築物被大水沖走的驚險事件",
+    "zhSummary": "尼泊爾中部近日遭遇突發性洪水，強勁的水流沖毀並捲走了多棟建築物，對當地造成嚴重破壞。",
+    "zhContent": "<p>尼泊爾中部最近發生了一場讓人觸目驚心的自然災害。強大的「突發性洪水」突然來襲，導致許多居民的房屋和建築物被奔騰的洪流無情地沖垮，甚至整個捲走，畫面非常驚人。這場突如其來的災難，讓當地許多人的家園和生活瞬間受到嚴重打擊，許多家庭在一夜之間失去了庇護所。</p><p>這次造成破壞的是一種叫做「突發性洪水」或「山洪暴發」的現象。它通常是指在非常短的時間內，例如幾個小時之內，因為下了極大量的雨，導致山區的河流或溪流的水位急速上升，水流變得又急又快，力量大到足以將沿途的樹木、車輛，甚至是堅固的房屋都從地基上連根拔起，然後隨著泥沙與巨石一起向下游猛衝。在尼泊爾中部，這次的洪水就是以如此猛烈的方式，吞噬了多棟建築。</p><p>尼泊爾這個國家，因為大部分地區都是崎嶇的山地和丘陵，加上每年都有一個固定的雨季，也就是俗稱的「季風季節」。在雨季期間，來自印度洋的暖濕氣流會帶來豐沛的降雨，當雨勢特別猛烈且集中時，地面來不及吸收的水分就會快速匯集，形成巨大的徑流，沿著山坡向下奔流。由於當地許多建築物可能就蓋在河岸邊或容易受到沖刷的低窪地區，因此更容易成為這類突發性洪水的受害者。</p><p>根據外電報導，這次發生在尼泊爾中部的突發性洪水，已經導致當地大量的建築物被洪水徹底沖毀或捲走，造成了嚴重的財產損失。雖然目前尚未有更詳細的人員傷亡報告，但可以確定的是，這場災難對當地居民的日常生活造成了巨大的影響，許多人可能需要很長一段時間才能從失去家園的打擊中恢復過來，重建之路艱辛。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，尼泊爾的「突發性洪水」有哪些特點，以及它造成了什麼直接的後果？",
+      "生活與未來：你覺得這種突發的自然災害，會對當地居民的生活帶來哪些最立即的影響？",
+      "獨立思考提案：如果類似的洪水發生在你所在的地區，你認為政府或社區可以預先做哪些準備，來減少災害造成的損失？"
+    ],
+    "enTitle": "Flash Floods Hit Central Nepal, Sweeping Away Buildings",
+    "enContent": {
+      "basic": "Central Nepal experienced sudden floods that destroyed buildings.",
+      "intermediate": "Flash floods in central Nepal caused significant damage, sweeping away multiple structures due to heavy rainfall.",
+      "advanced": "Severe flash floods, likely exacerbated by intense precipitation typical of the regional monsoon, devastated central Nepal, resulting in the structural integrity compromise and complete displacement of numerous buildings across affected communities."
+    },
+    "vocabulary": [
+      {
+        "word": "Flash flood",
+        "zh": "突發性洪水 / 山洪暴發：指在很短的時間內下了非常大的雨，導致河水或溪水突然暴漲，水流又急又快，像一道牆一樣沖下來的洪水。"
+      },
+      {
+        "word": "Swept away",
+        "zh": "沖走 / 沖毀：形容水流的力量非常大，把東西（例如房子、車子）從原來的地方連根拔起，甚至完全摧毀並帶走。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-12",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sV2FPck1oYnZGSGZvck9veGFkU2lTaTRRMXJZLVlSTXlEX2xieDVIY3ZVd3FnZTVtVFZkd2U5NFdpR1ZzUC1VRjRHMUYtM2lZTEtkX0VHY0I?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "所羅門群島渡輪海上驚魂：七十多人漂流數日後平安獲救",
+    "zhSummary": "一艘載有超過七十人的渡輪在所羅門群島海域失去動力，在海上漂流多日後，所幸最終所有乘客和船員都獲救。",
+    "zhContent": "<p>最近在遙遠的太平洋島國所羅門群島，發生了一件讓許多人掛心的事件。一艘載有超過七十名乘客和船員的渡輪，原本計畫從首都荷尼阿拉啟程，前往西部的舒瓦瑟爾省。然而，在漫長的航行途中，這艘大型渡輪卻突然遭遇機械故障，完全失去了推進動力。在茫茫大海上，它只能隨波逐流，這一漂就是好幾天，讓船上所有人的安危都成了未知數，引起了廣泛的關注。</p><p>想像一下，在沒有電力、沒有方向的大海上漂流，日夜交替，卻不知道何時能靠岸，那種不安與焦慮肯定難以言喻。隨著漂流時間拉長，船上的食物和飲用水開始變得非常稀缺，乘客們必須非常節省地使用每一滴水和每一份食物。在熱帶地區的悶熱環境中，大家只能互相打氣，望著一望無際的海平面，期盼著救援船隻的出現。同時，岸上的家屬們也心急如焚，盼望著能聽到親人平安的消息。</p><p>據當地海事單位初步判斷，這起事故的主因是渡輪的引擎系統發生了嚴重的機械故障，導致船隻完全失去航行能力。所羅門群島的海事搜救中心在接到渡輪失聯的通報後，立即啟動了大規模的搜救行動。他們不僅調動了當地船隻和海岸警衛隊，還向國際社會發出了援助請求。鄰近的澳洲廣播公司（ABC News）也報導了此事，澳洲政府的搜救隊也提供了空中偵察機協助，共同在廣闊的南太平洋上搜尋這艘渺無音訊的渡輪。</p><p>經過數天的緊張搜尋與協調，搜救人員終於成功定位並靠近了這艘漂流的渡輪。所有船上超過七十名的乘客和船員，雖然經歷了漫長且驚心動魄的海上漂流，但最終都平安無事地獲救上岸。他們隨後接受了醫療檢查，確認身體狀況良好，沒有人受重傷或失去生命。這艘渡輪也被安全拖回港口，等待專業團隊進行徹底的檢查與維修。這起事件最終以所有人員安全歸來，畫下了一個令人鬆一口氣的句點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Solomon Islands Ferry Stranded for Days, Over 70 Rescued",
+    "enContent": {
+      "basic": "A ferry carrying over 70 people in the Solomon Islands was stranded at sea for several days after its engine failed. All passengers and crew were eventually rescued safely.",
+      "intermediate": "A ferry traveling from Honiara to Choiseul Province in the Solomon Islands experienced engine trouble, leaving over 70 people stranded at sea for multiple days. Rescue efforts, including assistance from Australia, were launched. Fortunately, all passengers and crew were safely found and brought back to shore, with no serious injuries reported. The ferry was towed for repairs.",
+      "advanced": "An incident unfolded in the Solomon Islands where a passenger ferry, en route from the capital Honiara to Choiseul Province, suffered a catastrophic mechanical failure, rendering it adrift in the vast Pacific Ocean for several days with over 70 individuals on board. As food and water supplies dwindled, an extensive search and rescue operation was initiated by the Solomon Islands Maritime Rescue Coordination Centre, with support from international partners, including aerial assistance from Australia, as reported by ABC News. Ultimately, all passengers and crew were located and safely evacuated, albeit after a harrowing ordeal, with no significant casualties. The vessel was subsequently towed to port for comprehensive assessment and repairs."
+    },
+    "vocabulary": [
+      {
+        "word": "stranded",
+        "zh": "擱淺/受困。想像你在沙灘上玩，突然漲潮，你被水圍住了，不能離開，這就是受困。船如果失去動力，停在海上不能動，就像受困了。"
+      },
+      {
+        "word": "ferry",
+        "zh": "渡輪。這是一種用來載送人或車輛橫渡水域的船隻，就像公共汽車在路上有固定路線，渡輪則是在水上按固定路線和時間往返。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-12",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjVxYUZFWl9ZVnJPZ0hTU0pxZzRMeUNfbFlSVTZmMUlFWnl3aGlLZTJJT3lJbnJkRGZYRW1IU09oTmhZeV9lUnRnVUwxc1V5WG16S2hibWJhZUhMRVBIakN1QlV5SV9BWU9HSlhoSG1rQ0wwa2RrSWdEZGZveF8zNGdKVUlWS29wNjFyakZoUG9fSlAzQ0hNUHBsbUpuTWpuQ1E?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "破解分子鏡像之謎：諾貝爾獎得主讓製藥更精準！",
     "zhSummary": "諾貝爾化學獎得主們成功解決了分子「左右手」的難題，這項突破性進展對藥物製造有著巨大影響，讓未來的藥物能更安全、更有效率地被生產出來。",
     "zhContent": "<p>最近，國際上傳來一則令人振奮的消息：幾位傑出的科學家因為破解了化學領域一個長久以來的「分子鏡像」難題，共同榮獲了諾貝爾化學獎。他們的發現，不僅是基礎科學上的一大步，更被視為藥物製造上的一項重大里程碑，預計將徹底改變我們製作和使用藥物的方式。</p><p>你可能不知道，很多分子都有一個奇特的「鏡像」特性，就像我們的左右手一樣，形狀看似一樣，卻無法完全重疊。在化學世界裡，科學家把這種現象叫做「手性」。問題來了，當我們在製造藥物時，同一個分子的「左手」和「右手」可能效果完全不同。舉例來說，一種「左手」分子可能是治療疾病的良藥，但它的「右手」鏡像分子可能根本沒用，甚至會產生副作用，這就讓藥物製造變得非常困難又充滿挑戰。</p><p>而這次獲獎的諾貝爾化學獎得主們，他們的貢獻就是找到了一種巧妙的方法，可以精準地分離這些「左右手」分子，或者更厲害的是，他們可以直接合成出我們想要的、只有單一「手性」的分子。這就像是過去做藥常常會同時產生兩種鏡像分子，就像每次都做出左右手套一樣；但現在，科學家們能選擇只做出左手套，而且還能做得又快又好。</p><p>這項技術的突破，讓藥物製造變得前所未有的精確。未來藥廠在開發新藥時，可以更有效地去除那些不必要、甚至可能有害的鏡像分子，確保藥物的純度和療效，同時大幅降低潛在的副作用。簡而言之，這代表著我們未來將能用上更安全、效果更好的藥物，為醫療領域帶來了實質的進步。</p>",
@@ -10392,426 +10847,6 @@
     "date": "2026-09-12",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVFwb0FnY3RIX1BtdDJLaHVnUzBJelZhZnJsSzJseFVVSHFyV3NqMXJtTjM4SUdnNHM1Qnl3ZElHaXJKRHZFeV8wc09PSV9wcXZIMEFIbEFyb0wtd3lTbV83a3NZcVl0dGJwZ1g0UHdrMHlMNkRYOWFpbW9mT1pvdm9n?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美伊衝突再起：反擊飛彈攻勢，美國軍方摧毀五艘伊朗油輪",
-    "zhSummary": "為反擊伊朗的飛彈攻擊，美國軍方採取行動，摧毀了五艘屬於伊朗的原油油輪，再次凸顯了兩國之間持續的緊張關係。",
-    "zhContent": "<p>哈囉！同學們，最近國際上有一則新聞引起了大家的關注，它發生在遠方的中東地區。中央社報導指出，美國軍方為了反擊伊朗之前發動的飛彈攻勢，採取了一項相當果斷的行動。他們證實摧毀了五艘屬於伊朗的原油油輪，這個消息馬上成為了國際間熱議的焦點。</p><p>這場緊張情勢的開端，是伊朗方面對美國發起了飛彈攻擊。為了回應這項軍事行動，美國軍隊決定採取措施，展現他們的堅決立場。他們鎖定了幾艘在海上行駛、準備運送大量原油的伊朗油輪，並且將其摧毀。這些大型油輪就像海上貨車，專門負責將原油從產地運往世界各地，是國際貿易中非常重要的交通工具。</p><p>摧毀油輪的舉動，不只是單純的軍事反擊，也帶有經濟上的意義。因為原油是伊朗非常重要的出口商品，也是國家主要的收入來源之一。因此，破壞這些油輪，其實也是在某種程度上打擊伊朗的經濟命脈。這也顯示出，美國對於伊朗近期一系列的軍事挑釁行為，選擇了強硬的態度來回應，讓兩國之間的關係持續處於高度緊張的狀態。</p><p>截至目前為止，我們可以確定的是，這五艘伊朗原油油輪已經在這次的衝突中被美國軍方摧毀。這項軍事行動已經告一段落，但它所帶來的連鎖效應，以及兩國後續將如何發展，全球各國都在密切地觀察。這起事件再次提醒我們，國際間的和平與穩定，往往是需要各方努力才能維持的。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國軍方摧毀伊朗油輪的原因是什麼？",
-      "生活與未來：你覺得這個軍事行動，對國際原油市場或相關國家的經濟會造成什麼實際影響？",
-      "獨立思考提案：針對國際間的軍事衝突，除了直接的軍事反擊，你覺得還有哪些方式可能可以避免衝突升級？"
-    ],
-    "enTitle": "US Destroys Five Iranian Oil Tankers in Retaliation for Missile Attacks, Heightening Tensions",
-    "enContent": {
-      "basic": "The US military destroyed five Iranian oil tankers. This action was taken in response to missile attacks from Iran. The situation between the US and Iran is very tense right now, according to reports.",
-      "intermediate": "In a recent international development, the US military carried out an operation to destroy five Iranian crude oil tankers. This move was described as a direct retaliation following missile offensives launched by Iran. The incident highlights the ongoing and heightened tensions between the United States and Iran.",
-      "advanced": "International headlines report a significant escalation in geopolitical tensions between the United States and Iran. The US military confirmed the destruction of five Iranian crude oil tankers, stating the action was a direct response to recent missile attacks initiated by Iran. This event underscores the volatile nature of US-Iran relations and the complex security landscape in the Middle East."
-    },
-    "vocabulary": [
-      {
-        "word": "Crude oil",
-        "zh": "原油 - 還沒加工、最原始的石油，通常從地底下或海裡挖出來，需要提煉後才能變成汽油或塑膠等日常用品。"
-      },
-      {
-        "word": "Retaliate",
-        "zh": "回擊 - 當別人攻擊你或做了傷害你的事情後，你採取行動反制回去。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-09-11",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pRFoybENJR1hQQVhHUVkwQkVhM1l1aW5yMGVjOHhsU3ZSVjRkWHdnQnBScWtkMlNZQVhZb3Y5YzVJUXpPTGVUTlVhdWNncWJKcWZuY1hTYlZ5WUxvQVE4?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "地球燒起來了？科學家：今年八月是史上最熱月份！",
-    "zhSummary": "全球科學家發布驚人報告，指出今年八月是地球有史以來測量到最熱的一個月，打破了所有過去的高溫紀錄。這項結果是透過全球各地的精密監測數據分析得出，顯示地球氣候正在經歷顯著變化。",
-    "zhContent": "<p>嘿，大家！有一個讓科學家們都非常關注的消息要告訴你們。根據美國國家公共電台（NPR）的報導，我們的地球在今年的八月，竟然達到了有史以來最熱的月份！這不是隨便說說，而是世界各地的科學家們透過各種精密儀器，仔細測量後得出的結論。這個新的紀錄，徹底打破了過去所有的高溫紀錄，讓這個夏天顯得特別不尋常。</p><p>為了確認這個驚人的數字，科學家們在全球各地，包括海洋、陸地以及高空，都設置了密集的監測站。他們夜以繼日地收集著海面溫度、空氣溫度等數不清的數據。這些龐大的資訊被匯集起來，再與過去數十年，甚至上百年的歷史紀錄進行了嚴謹的比對和分析。結果非常明確：今年八月的全球平均溫度，不僅超越了所有以前的八月，甚至可以說是自人類有系統測量以來，任何一個月份的最高溫紀錄，這絕對是前所未有的熱。</p><p>科學家們解釋說，這樣的極端高溫並非偶發事件，而是長期以來他們一直在觀察到的氣候變化趨勢中的一個明顯環節。他們表示，地球的整體氣候系統正在發生變化，這導致了我們近年來常常聽聞的各種極端天氣現象，像是長時間的熱浪、嚴重的乾旱，或是突如其來的強降雨等等。今年八月創下的這個新紀錄，無疑是讓全球科學界對氣候變化現象更加關注的一個重要指標。</p><p>總而言之，今年八月，地球確實經歷了一個史無前例的炎熱月份，刷新了全球高溫紀錄。這是一個經過全球頂尖科學家們透過嚴謹方法測量、分析後，一致認定的客觀事實。這個結果明確地告訴我們，地球的環境正在持續地展現變化，而這個創下歷史新高的八月，就是其中一個最直接且不容忽視的具體證明。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Scientists Confirm August Was Earth's Hottest Month on Record",
-    "enContent": {
-      "basic": "Scientists have announced that August was the hottest month ever recorded on Earth. This news comes from NPR, based on detailed measurements from around the world. This new record shows our planet is getting warmer.",
-      "intermediate": "Global scientists, as reported by NPR, have confirmed that this past August was the Earth's hottest month ever measured. They collected vast amounts of temperature data from oceans, land, and air. Comparing this to decades of past records, they found August's global average temperature surpassed all previous months, indicating a significant shift in our planet's climate.",
-      "advanced": "NPR reports that an international consortium of scientists has declared August to be the hottest month on Earth ever recorded since systematic measurements began. This finding is derived from a meticulous analysis of extensive global temperature data collected from various monitoring stations across land, sea, and atmosphere. The unprecedented global average temperature for August underscores a persistent trend in climate change, prompting heightened scientific scrutiny of Earth's evolving environmental dynamics."
-    },
-    "vocabulary": [
-      {
-        "word": "Measured",
-        "zh": "測量：指的是用工具（例如尺子或溫度計）來精確地算出東西的大小、數量、長度或溫度。就像你用身高尺量自己長高了多少一樣。"
-      },
-      {
-        "word": "Record",
-        "zh": "紀錄：是指把過去發生的事情、數據或成就保存下來的資料。當新聞說「打破紀錄」，意思就是創造了一個新的、比以前更好的成績或數字。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-09-11",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tMXdTb0lIYnQzQUZicEYtQ0hyNDI4WXAxb3l4Nkp4OGh4NVZtUnlKU1J0RmRMa3M2Q3JtQXdEM3lOXzJ5RmNWcWUtY2JoSlFFcXBLUWRPUVRYOVM3Nm84UEFUYlVRbThUazUwbDl2dUZvLVFXNWwwMFB3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "佛州大學變變變：州長如何影響高等教育？",
-    "zhSummary": "美國佛羅里達州州長羅恩·迪尚特被指控將他的「忠實擁護者」安插到州內大學和學院的高層職位，這對當地的教育系統帶來了顯著的變化與影響。",
-    "zhContent": "<p>佛羅里達州的青少年們，你們知道嗎？最近，美國佛羅里達州州長羅恩·迪尚特（Ron DeSantis）在當地的大學和學院裡做了一些引人注目的改變。根據《衛報》的報導，他正在把一些支持他政治理念的人，安插到這些教育機構的重要職位上，這讓佛羅里達的「高等教育」系統，也就是大學和研究所，產生了很大的變化。</p><p>這些改變是怎麼發生的呢？簡單來說，迪尚特州長有權力任命州立大學和學院的董事會成員。他利用這個權力，選派了一些認同他保守派理念的人來擔任這些職位。這些新上任的「忠實擁護者」可能會影響學校的課程設計、研究方向，甚至是哪些老師會被聘用。舉例來說，有些政策會要求學校減少關注「多元、平等與包容」（DEI）等議題，轉而強調「傳統」的教學內容。</p><p>迪尚特州長表示，他這麼做是為了確保大學專注於學術本身，而不是捲入他所謂的「覺醒文化」（woke ideology）。他認為，教育系統應該培養學生的技能和知識，而不是傳播特定的政治觀點。不過，這也引起了一些討論，批評者認為，這樣的做法可能會損害大學的學術自由和獨立性，讓大學變成政治的延伸，而不是獨立思考的場所。</p><p>目前，佛羅里達州的一些大學已經看到了這些變化。新的領導團隊正在逐步到位，校園內的討論方向和重點也隨之調整。這些舉動正在重塑佛羅里達州高等教育的面貌，影響著當地學術界的走向。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，佛羅里達州州長如何改變當地高等教育系統？他這麼做的原因和目的又是什麼？",
-      "生活與未來：你覺得這個改變會對在佛羅里達州上大學的學生，或是在當地任教的老師造成什麼實際影響？",
-      "獨立思考提案：針對這類政治人物任命教育機構高層的事件，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top",
-    "enContent": {
-      "basic": "Florida Governor Ron DeSantis has been influencing the state's higher education. He's putting people who support his ideas into important roles at universities. This means changes for colleges, like what they teach and how they operate. Some say it's to make schools focus on traditional learning, but others worry about academic freedom.",
-      "intermediate": "Ron DeSantis, the Governor of Florida, has been actively reshaping the state's higher education landscape. Reports indicate he's appointing individuals loyal to his political agenda to key leadership positions within public universities and colleges. This strategy is leading to shifts in curriculum, academic focus, and potentially hiring practices, with a stated aim to move away from what he calls 'woke ideology' and emphasize traditional education. This move, however, has sparked debate, with critics expressing concerns about academic autonomy and institutional independence.",
-      "advanced": "Florida Governor Ron DeSantis has embarked on a significant overhaul of the state's higher education system, as reported by The Guardian. His approach involves strategically appointing political loyalists to top administrative and board positions across Florida's public universities and colleges. This calculated maneuver aims to align these institutions more closely with his conservative political ideology, influencing policy, curriculum development, and institutional priorities, often with an emphasis on challenging 'woke' initiatives and promoting traditional academic values. While proponents argue this ensures accountability and academic focus, opponents raise serious concerns about potential infringements on academic freedom, intellectual diversity, and the depoliticization of educational governance."
-    },
-    "vocabulary": [
-      {
-        "word": "politicized",
-        "zh": "政治化：指的是一件事情原本是中立的，或應該依照專業判斷來決定的，卻因為加入了政治上的考量或影響，而改變了它原本的性質。"
-      },
-      {
-        "word": "loyalists",
-        "zh": "忠實擁護者：指的是那些非常支持某個領導人、政黨或團體，並且會按照他們的意思去做事或執行政策的人。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-09-11",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDFLQkdhazdyOHBfTHoyVHd1NzJQYXBiMWp4bXpiRTRoOWlKeldkRDViN3NKb3pKN1NpY3FQMGRxUUhVQnhDZjlGdXNmLUl1Y2huM0lnUW5MOGVGZXBRdEtQendxUklyMGpiZ09TYnpMSTlKVkJDN080X1VIVmJwZFBodWMwNFVLdEZjTkl6Qk5zY0VnQ2ZhcE5R?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "大銀行踩煞車！AI 技術害慘公司，摩根大通減少貸款！",
-    "zhSummary": "美國摩根大通銀行因合作夥伴Situational Awareness公司使用AI技術蒙受損失，決定減少對其的貸款，顯示金融機構對新技術風險的謹慎態度。",
-    "zhContent": "<p>美國有一家非常非常大的銀行，叫做摩根大通（JPMorgan），他們最近對一家名叫「Situational Awareness」的科技公司減少了貸款。為什麼會這樣呢？原來，根據路透社的消息來源指出，這家科技公司在使用人工智慧（AI）技術的過程中，不小心賠了一些錢，結果讓摩根大通決定要收緊對他們的資金援助。</p><p>這件事聽起來是不是有點酷又有點嚇人？想像一下，銀行把錢借給公司，就像在提供子彈，讓公司可以去發展業務。可是當公司因為某些原因虧損了，銀行自然就會開始擔心，是不是應該要少給一點「子彈」了。Situational Awareness公司就是在運用某些AI應用時，發生了意料之外的損失，才導致摩根大通做出這個決定。</p><p>對銀行來說，借錢出去是為了賺錢，所以他們在決定要不要借、以及要借多少錢的時候，都會非常仔細地評估這家公司的狀況和潛在風險。當一家公司，即使是走在科技尖端的AI公司，出現了財務上的問題，特別是因為新技術而造成的虧損，銀行就必須重新審視他們之間的合作關係，以及提供資金的策略。</p><p>因此，現在「Situational Awareness」公司從摩根大通那裡獲得資金的管道，已經受到了一定的限制。這則由路透社報導出來的新聞，也直接說明了即使是最先進的人工智慧技術，在實際的商業運作中，仍然可能帶來需要仔細評估和管理的財務風險。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "JPMorgan Curbs Lending to Situational Awareness Following AI Losses",
-    "enContent": {
-      "basic": "JPMorgan, a big bank, decided to lend less money to a company called Situational Awareness. This happened because Situational Awareness lost money after using artificial intelligence (AI) technology.",
-      "intermediate": "Sources close to the matter revealed that the major financial institution, JPMorgan, has reduced its lending to Situational Awareness. The decision was made after the technology company reportedly suffered financial losses stemming from its application of artificial intelligence. This shows banks are cautious about new tech risks.",
-      "advanced": "Reuters reported that banking giant JPMorgan Chase has curbed its lending activities to the firm Situational Awareness. The curtailment was prompted by significant financial losses incurred by Situational Awareness, which were attributed to issues arising from its deployment of artificial intelligence technology, highlighting a cautious stance by financial institutions towards AI-related commercial risks."
-    },
-    "vocabulary": [
-      {
-        "word": "Curb",
-        "zh": "「限制」、「抑制」。想像一下，你玩手機玩太久，爸媽會「限制」你的使用時間。銀行對公司借錢也是，如果發現風險，就會「限制」它能借的金額。"
-      },
-      {
-        "word": "Lending",
-        "zh": "「貸款」、「借貸」。就是銀行把錢借給公司或個人，對方之後要連本帶利還錢。就像你向朋友借錢，這就是一種借貸行為，你就是被借貸的人。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-09-11",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYXZzWjNxUTdwUHp5NFJydUZnRU1VU3VIZWpxaHRGMGZ2YWFfekVHV1RHSGhlOEN4Ym9ZTjNmZ016SVJfR2ltTG5GUndNWXhkUDdhUUNOWU41UnRoXzhBQlQ4MjlIZGZzdS1wc0tPV3FfSG01SGd1dzA1ZTdnYkdpeWJ2R0NKWm11MzliVGVQcW1tUC1PUHV3dHhTYnJual94YWdEQ0p6Q3dxbjMwWWREY25DRWxMYm9PTmhsdFc2T3R3anpfaDR4OQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "法蘭克林週末玩什麼？秋季活動與歷史探險等你來！",
-    "zhSummary": "TAPinto報導了美國法蘭克林鎮即將到來的週末活動，內容豐富多元，包含了適合全家大小的秋季慶典、深入歷史的文化導覽，以及各種能讓大家度過愉快時光的精采選擇。",
-    "zhContent": "<p>嗨，各位週末探險家！這次我們要來看看美國一個叫做法蘭克林的小鎮，他們每個週末都有好多新鮮事。最近，當地媒體TAPinto就幫大家整理了一份超棒的清單，告訴你在這個週末，法蘭克林周圍有哪些好玩的事情可以做！從充滿秋天氣息的慶典到認識歷史的活動，聽起來是不是很棒呢？這份報導主要是為了當地居民和遊客，提供一個完整的指南，讓大家不會錯過任何精彩。</p><p>根據TAPinto的報導，如果你喜歡秋天，那這個週末在法蘭克林絕對不會無聊。他們提到好幾個地方都有舉辦「秋季慶典」，通常這些慶典會有蘋果採摘、南瓜田尋寶，還有刺激的玉米迷宮。想像一下，在陽光下走進一大片金黃色的玉米田，試著找出出路，是不是很酷？有些地方還會有農夫市集，可以買到新鮮的農產品，嚐嚐當地秋天的味道。這類活動特別適合全家大小一起參與，享受戶外時光。</p><p>除了秋季主題，法蘭克林這個週末也沒忘記歷史愛好者。報導中提到，有些地點會舉辦特殊的「歷史導覽」，你可以跟著導遊走訪老建築，聽聽當地過去發生過什麼有趣的故事。這就像是穿越時空一樣，可以更了解這個小鎮的背景與發展脈絡。另外，可能還會有社區活動，像是當地藝術家的展覽、小型的音樂表演，或是手工藝市集，讓大家能體驗更多元的文化活動，充實週末時光。</p><p>總之，這個週末的法蘭克林，就像是一個裝滿驚喜的寶盒，無論你是想享受秋天的氣息，還是對歷史文化感興趣，都能找到適合自己的活動。TAPinto這份報導就像是法蘭克林鎮送給大家的週末禮物，讓居民們可以輕鬆規劃，度過一個充實又愉快的週末假期。所以，如果你剛好在法蘭克林，不妨參考這份清單，去體驗一下這些特別的活動吧！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，法蘭克林這個週末主要有哪些類型的活動呢？",
-      "生活與未來：你覺得如果你的家鄉也有類似的週末活動指南，會對你和你的家人造成什麼實際影響？",
-      "獨立思考提案：針對這份活動清單，如果你是法蘭克林的青少年，你最希望新增哪些有趣的活動？為什麼？"
-    ],
-    "enTitle": "Things to Do In and Around Franklin This Weekend: Fall Fun, History and More",
-    "enContent": {
-      "basic": "Hey everyone! This weekend, the town of Franklin has lots of fun things to do. A local news site, TAPinto, shared a list of activities. You can find fall festivals, where you can pick apples or find pumpkins. There are also corn mazes, which are like big puzzles in a field. If you like history, you can go on tours to old buildings and learn about the town's past. There might also be art shows or music. It's a great way for families to enjoy the autumn weather and learn new things.",
-      "intermediate": "Hello, weekend explorers! This report focuses on the upcoming activities in Franklin, as highlighted by the local media outlet TAPinto. For those seeking autumn enjoyment, various fall festivals are scheduled, offering classic experiences like apple picking, pumpkin patch visits, and challenging corn mazes. Additionally, history enthusiasts will appreciate the organized historical tours, providing insights into Franklin's rich past through its architectural landmarks. Community events, such as art exhibitions and live musical performances, are also anticipated, promising a diverse range of cultural engagement for residents and visitors alike.",
-      "advanced": "Addressing local engagement and leisure, TAPinto has released a comprehensive guide detailing a myriad of activities available in and around Franklin this weekend. The offerings are notably diverse, catering to a wide array of interests. Prominently featured are several fall-themed festivals, designed to capture the essence of the season with activities such as apple harvesting, pumpkin patch explorations, and intricate corn maze challenges. Complementing these autumnal celebrations are culturally enriching historical tours, which delve into the town's heritage by exploring significant landmarks and narratives. Furthermore, the weekend schedule is expected to include various community-centric events, encompassing local art exhibitions, musical performances, and artisan markets, ensuring a robust and engaging experience for the public."
-    },
-    "vocabulary": [
-      {
-        "word": "Festival",
-        "zh": "慶典：慶祝特定節日、文化或事件的大型活動，通常會有音樂、美食、遊戲和表演，讓大家一起開心熱鬧。"
-      },
-      {
-        "word": "Historic",
-        "zh": "歷史性的：指與過去重要事件、人物或地方相關的，通常有特別的文化或歷史意義。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-09-11",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONnEtSmxLTzBGU1U3UWh6eWFIY1BBTXoydi1tMkt6TUhBVS1XRGhvZjFxeTd4U2VtZkt5eFNZWk9QemtVRkZPVTRVWWotSmVaRUc3ZXk4NmFKZWVoZjdqZUdxaHdmbk1ZNkl6bXRBUkQ4TlVUNV9BRmVqWGdhSDJLYmNjcFNSS0hQS3ZfRWVqODdQcUtOdG0zWXJpekhhTHZPZ2M4cDNsNmtSZ1ZKc3lpREdjVXRKNWxoTFBfZ1paZWtFOFVxSlp6ZFRkUTVyTnFuTFZkMFMxMXZWQS1EdEt6VkFmV2VfajVXd2ppSzk0NXUzRVF3Wnc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國柴油價衝上新高點：一加侖破六美元，到底發生了什麼事？",
-    "zhSummary": "美國的柴油價格最近創下歷史新高，一加侖突破了六美元。這波漲價主要是受到烏克蘭和伊朗地區衝突的影響，導致全球石油供應鏈不穩定，燃料成本也跟著提高。",
-    "zhContent": "<p>嘿，各位青少年讀者們，今天我們要來聊一個在地球另一端、美國發生的重要消息。最近，美國柴油的價格創下了歷史新高，一加侖柴油的價錢竟然突破了六美元！你可能覺得，這跟我們有什麼關係？先別急，柴油可是非常重要的燃料，許多大卡車、巴士和機器都靠它才能動起來，就像我們每天使用的手機需要充電一樣重要。</p><p>根據外媒CNBC的報導，美國的柴油價格最近確實飆到了前所未有的高點，超過每加侖六美元。這可不是個小數字，要知道，柴油在美國的日常生活中扮演著關鍵角色。想想看，我們吃的食物、穿的衣服、用的電器，很多都是靠大型貨車運送的，而這些貨車大多都使用柴油。所以當它的價格一直往上衝，影響的範圍可不小。</p><p>那麼，為什麼柴油會突然變這麼貴呢？新聞指出，這背後的主要原因與烏克蘭和伊朗的戰事有關。這些地區的衝突，會影響全球石油和能源的供應鏈，讓石油的生產和運輸變得更困難、成本也更高。當市場上的石油變少，或是取得的費用變高，煉製出來的柴油自然也就跟著漲價了。簡單來說，就是國際情勢不穩，導致大家要花更多錢才能買到燃料。</p><p>目前，美國的柴油價格就是維持在這個創紀錄的高點上。這代表著運輸成本變高，最終可能會反映在各種商品的價格上。新聞報導到此為止，它客觀地陳述了美國柴油價格創歷史新高的事實，以及其背後與國際衝突相關的原因。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美國柴油價格上漲的主要原因是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對國際衝突影響能源價格的現象，你覺得國際社會還可以怎麼做會更好？"
-    ],
-    "enTitle": "U.S. Diesel Price Hits Record High Amid Global Conflicts",
-    "enContent": {
-      "basic": "The price of diesel fuel in the United States has reached a new record, going above $6 per gallon. This is happening because of wars in Ukraine and Iran, which make it harder and more expensive to get oil and fuel around the world. Since many trucks and buses use diesel, this higher price could make other things more expensive too.",
-      "intermediate": "CNBC reported that U.S. diesel prices have topped $6 per gallon, marking an unprecedented high. This surge is attributed to the ongoing conflicts in Ukraine and Iran, which are disrupting global oil and energy supply chains. As a result, the cost of producing and transporting fuel has increased, leading to higher pump prices for diesel, a critical fuel for freight and public transport.",
-      "advanced": "The United States has witnessed its diesel fuel prices breach the $6 per gallon threshold, establishing an all-time record, as reported by CNBC. This significant inflationary pressure is primarily linked to the geopolitical ramifications of the conflicts in Ukraine and Iran. These protracted engagements have demonstrably constrained global crude oil supply and elevated logistical expenses within the energy sector, thereby directly impacting refined product costs such as diesel. The sustained high price environment for this essential industrial and transportation fuel portends potential downstream inflationary effects across various consumer goods and services."
-    },
-    "vocabulary": [
-      {
-        "word": "Diesel",
-        "zh": "柴油 (一種燃料，常用於卡車、巴士等大型交通工具，或是工廠裡的機器，可以讓它們啟動和運作。)"
-      },
-      {
-        "word": "Gallon",
-        "zh": "加侖 (一種液體的計量單位，常用於美國，像買牛奶或汽油時會用到。一加侖大約等於3.78公升。)"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-09-11",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF30gGQAUFVX3lxTFBlTGo4VFF4bjBsZE5NaGNTR0FQSVM1RWp2blpWM2ZZenVJNjZLMTRrS0JBSTBYXzhIaklhVldfWHdPR2x2NVF3cUVrd3hCTE1YanV5VGFkNG5LdmJtNmF3YklkbkdiT3NWQm5YQVEtTEhqMW9CRTdmV0ZTVVZYNzRhNXhKTVdEeUNLdEtEd1JKUQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "跨國戀愛詐騙大追緝：六名嫌犯將被引渡美國",
-    "zhSummary": "六名奈及利亞籍男子因涉嫌透過網路「戀愛詐騙」，向多名女性騙取高達六百萬美元，目前正被引渡至美國接受法律審判。",
-    "zhContent": "<p>最近，一則來自美聯社的新聞震驚了許多人：有六名奈及利亞籍男子，因為涉嫌利用一種稱為「戀愛詐騙」的手法，成功從多位女性手中騙取了總計高達六百萬美元的巨額財物，目前正被引渡到美國，準備面臨嚴峻的法律制裁。這起跨國案件凸顯了網路交友潛藏的風險，也讓大家再次關注詐騙集團的犯罪手法。</p><p>所謂的「戀愛詐騙」，通常是指詐騙者會在網路交友平台或社群媒體上，假扮成有魅力、事業成功的對象，與受害者建立起親密的關係。他們會透過甜言蜜語、噓寒問暖，甚至許下未來承諾，讓受害者完全信任他們。一旦感情基礎建立，詐騙者便會開始編造各種理由，例如急需資金周轉、生意投資、生病開刀、或遇到突發意外等等，一步步誘使受害者匯款給他們。這些被騙的女性，往往是投入了真感情，才導致財物損失。</p><p>據了解，這些奈及利亞籍嫌犯鎖定的受害者大多是美國女性。他們利用網路的匿名性與跨國界特性，讓受害者難以辨識其真實身份與意圖。當受害者發現被騙時，往往為時已晚，而且因為涉及跨國匯款，要追回被騙的錢財也困難重重。美國當局經過長期追查，成功鎖定了這些嫌犯，並透過國際合作，促成了這次引渡行動。</p><p>目前，這六名嫌犯正在被引渡的途中，他們抵達美國後，將會面對美國司法機關的起訴與審判。他們將為自己利用虛假愛情詐取錢財的行為付出代價。這起案件的結果將是這些跨國詐騙集團，將在美國的法庭上，接受公平的審判，並根據當地的法律受到應有的懲罰。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，所謂的「戀愛詐騙」是如何進行的？",
-      "生活與未來：你覺得這個事件會對人們透過網路交友的態度造成什麼實際影響？",
-      "獨立思考提案：如果有人懷疑自己遇到類似的詐騙，你覺得他可以怎麼做會更好？"
-    ],
-    "enTitle": "Six Nigerians Extradited to US for $6M Romance Scams",
-    "enContent": {
-      "basic": "Six men from Nigeria are being sent to the US. They tricked women online, pretending to be in love to get money. They stole about $6 million. Now they will face charges in America.",
-      "intermediate": "Six Nigerian nationals are currently undergoing extradition to the United States. They are accused of operating a sophisticated romance scam operation, defrauding multiple women of approximately $6 million. This extensive online scheme involved building emotional relationships with victims before soliciting money under false pretenses.",
-      "advanced": "In a significant international law enforcement effort, six Nigerian individuals are being extradited to the United States to face charges related to a large-scale romance scam. These individuals allegedly defrauded numerous women, collectively swindling over $6 million, through elaborate online schemes that leveraged emotional manipulation and fabricated financial distress to illicitly obtain funds."
-    },
-    "vocabulary": [
-      {
-        "word": "extradite",
-        "zh": "引渡：意思是指一個國家把在自己國家境內的犯人或嫌犯，交給另一個國家，讓他們在那個國家接受審判或服刑。就像國家之間互相幫忙，把壞人送回該受罰的地方。"
-      },
-      {
-        "word": "swindle",
-        "zh": "詐騙：意思是用欺騙的手段，從別人那裡騙取金錢或物品。通常會假裝成好人，說假話，讓受害者相信他們，然後再把錢騙走。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-09-11",
-    "sourceName": "AP News",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzhMei1TMmZ5QlRJQ29PSm5jZDBzRklzc3hibmNSLV8yOVF5ZDNiSW95dC1CVldyZzBySkV2Wjc1VGxKRndleXlMS3JZNzg5R2MwRW82UEZ1YnNFOWZEQmkzN0llM1lPb0lDUV9LRkxWLWs4ZVh2YzVZZTBHcFNVNm00dG1hNlV1cEZsRE9qdFZXdHpreVYzSmFSeFZvbS1XMGc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "英國國會否決「協助死亡」合法化法案：生命權利引發爭議",
-    "zhSummary": "英國國會議員最近投票反對一項讓「協助死亡」合法化的法案。這項法案希望讓患有重病且痛苦的病人，能在特定條件下選擇結束生命。法案最終未通過，代表「協助死亡」在英國仍維持不合法。",
-    "zhContent": "<p>「協助死亡」這個話題，在世界各地都引起很多討論。最近，英國的國會議員們就針對一項希望讓「協助死亡」合法化的法案進行了投票，結果是大多數議員都投了反對票，這表示這項法案沒能通過。簡單來說，「協助死亡」指的是當一個人患有無法治癒的重病，並且感到極度痛苦時，在醫生協助下結束自己的生命。這跟一般的醫療程序很不一樣，所以在英國一直都是一個非常敏感、複雜的議題。</p><p>這項提案並不是英國第一次提出。過去幾十年來，英國社會對於是否應該讓「協助死亡」合法化，一直有著激烈的爭論。這次的法案是由一位議員提出的，目的就是希望能夠修改現行的法律，讓符合特定條件的末期病患，能夠在嚴格的規範下，選擇以這種方式結束痛苦。提案裡通常會詳細說明哪些人有資格，需要經過哪些醫生評估，以及確保病患是在完全自願且理智的狀況下做出決定。</p><p>國會議員們在投票前，考慮了各種不同的意見。有些支持者認為，讓重病患者有權利選擇結束生命，是一種展現同情與尊嚴的方式，可以減輕他們巨大的痛苦。但同時，也有很多議員和團體表達了反對意見。他們擔心如果法案通過，可能會讓一些弱勢的病患感到壓力，或者出現誤用的情況。比如，他們認為醫生主要的職責是救治生命，而不是協助結束生命，也擔心可能會影響對殘疾人士的保護，這些都是這次投票中考量的重點。</p><p>由於多數議員投下反對票，這項希望讓「協助死亡」合法化的法案，最終沒能在英國國會通過。這表示，在目前英國的法律下，「協助死亡」依然是被禁止的行為。這場投票反映了英國社會對於生命倫理、個人選擇權以及醫療責任等議題的深刻分歧。雖然這次法案被否決了，但可以預見，關於「協助死亡」的討論在英國未來仍會繼續，只是短時間內，法律上不會有改變。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，英國國會議員投票反對的是什麼法案？這個法案想讓什麼事情合法化？",
-      "生活與未來：你覺得這個投票結果（讓「協助死亡」維持不合法）會對英國的重症病患、他們的家人以及醫生們造成什麼實際影響？",
-      "獨立思考提案：如果未來英國再次討論類似的法案，除了這次提到的考量，你覺得還可以從哪些方面去思考或規劃，讓各方意見能有更多被聽見的機會？"
-    ],
-    "enTitle": "UK Lawmakers Reject Assisted Dying Bill",
-    "enContent": {
-      "basic": "UK lawmakers recently voted against a bill. This bill wanted to make \"assisted dying\" legal. Assisted dying means a doctor helps a very sick person end their life if they are suffering a lot and won't get better. The lawmakers voted no, so the bill did not pass. This means assisted dying is still against the law in the UK.",
-      "intermediate": "In the United Kingdom, a significant vote took place recently in Parliament. Lawmakers debated and ultimately voted against a bill aimed at legalizing \"assisted dying.\" This practice involves a medical professional providing assistance to terminally ill patients, allowing them to end their lives with dignity when facing unbearable suffering and no prospect of recovery. The rejection of the bill means that current UK law, which prohibits assisted dying, will remain unchanged.",
-      "advanced": "The United Kingdom's Parliament recently concluded a pivotal vote, with lawmakers ultimately rejecting a bill that sought to legalise \"assisted dying.\" This complex and ethically charged issue involves the provision of medical assistance for terminally ill individuals to end their lives, typically under stringent conditions of unbearable suffering and an irreversible prognosis. The debate saw passionate arguments from both proponents, who advocate for patient autonomy and the alleviation of suffering, and opponents, who raise concerns about potential coercion, the sanctity of life, and the role of medical practitioners. The bill's failure to pass signifies the prevailing legal stance in the UK, maintaining the prohibition on assisted dying despite ongoing societal discussions about end-of-life choices."
-    },
-    "vocabulary": [
-      {
-        "word": "lawmaker",
-        "zh": "國會議員 - 指的是那些由人民選出來，在國會（或議會）裡負責制定和修改法律的人。他們的工作就是代表大家決定國家的規矩和政策。"
-      },
-      {
-        "word": "assisted dying",
-        "zh": "協助死亡 - 這是一種當重病患者飽受痛苦，且已無治癒希望時，由醫生提供協助，讓患者可以有尊嚴地結束自己生命的方式。跟一般治療很不一樣，是很嚴肅的選擇。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-09-11",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkxXY0JLU0VPM0JNMmxZZ3g2djFWcXdGQ081VDBiQl9naVF4a0hfMjVSU3h4aGRRb3dsMVRnZnU1YUFHeWxMZHZZbzFfWTVVYlFJbTNjaUhjQWticWhtTjYwdHhjUTcyWWh1c0R1MkhUcWpiNEFtcWRCUUY2Y0czUE5ZNmdJdjNXSDhRNDFPX0xZQk9zSzNaYTlsdUpWZEnSAaQBQVVfeXFMT3N1Y3h0QU01YVJqeXZld3VmcE5haTNmNDVOWmtRQ1FBWjIyRUNHemMxNjJXZFVER1BhY011QWJRRmppZTJRZXZyU2dmX1BsTXFnOHJPQXV5RENOaWlydVUyak5TYm9MMTVIbDlVUmNZdnprRzVZOGdpcFFrNlFWZnd6RGZ5Z2l0dVg1UEJZNldaVGprSTVuNU5BeFQtM0tsdlhqbkk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "奈及利亞國會喊卡！暫停所有代表團拜訪南非",
-    "zhSummary": "奈及利亞國會近期做出決定，暫時停止所有代表團訪問南非。這項舉動的起因是多起奈及利亞公民在南非遭受暴力攻擊的事件，引發奈及利亞國內強烈不滿與對南非政府保護不力的擔憂。",
-    "zhContent": "<p>嘿，同學們，今天我們要來聊一則來自非洲的新聞。最近，非洲國家奈及利亞的國會做了一個很重要的決定，他們宣佈將暫時停止所有代表團前往南非進行訪問。這聽起來可能有點複雜，但簡單來說，就是奈及利亞的民意代表們，不希望他們的官方人員在現在這個時間點去南非。</p><p>為什麼會這樣呢？原來是因為最近南非發生了一些讓奈及利亞人民很不開心的事情。在南非，許多奈及利亞公民遭受到攻擊，這些攻擊不僅造成財物損失，甚至有人因此受傷或失去生命。這些暴力事件讓奈及利亞國內的民眾非常憤怒，覺得自己的同胞沒有受到應有的保護。</p><p>奈及利亞國會對於這些暴力事件表達了嚴重的擔憂。他們認為，南非政府在保護外國僑民，特別是奈及利亞公民方面做得不夠好。這其實不是第一次發生類似的情況，過去也曾有過奈及利亞人在南非遭遇不友善對待的事件，讓兩國關係時不時地就有些緊張。</p><p>因此，奈及利亞國會決定採取這個暫停訪問的措施，希望藉此向南非政府表達他們的立場與不滿。他們期待南非政府能夠更認真地對待這些暴力事件，並採取更有效的行動，確保所有在南非的外國人，包括奈及利亞公民，都能夠安全地生活與工作。這個決定也直接地告訴大家，兩國關係目前需要被嚴肅看待。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Nigerian Parliament suspends visits to South Africa",
-    "enContent": {
-      "basic": "",
-      "intermediate": "",
-      "advanced": ""
-    },
-    "vocabulary": [
-      {
-        "word": "suspend",
-        "zh": "暫停：指將原本正在進行或預定要進行的事情停止下來，通常是暫時的。"
-      },
-      {
-        "word": "parliament",
-        "zh": "國會：一個國家中，由人民選出來的代表組成，負責制定法律和監督政府運作的機構，也稱為議會。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-11",
-    "sourceName": "APAnews - Agence de Presse Africaine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qVndjNzNwNUc1ZllrN01WR0JLTUppZ1FVN0UxeW9oSzFWeXpMNkw1UWFlcFBRazc0bmRrMTZlRE9CWVR4RU56dC1aV3R1dVpSQ3dkaGZ3RXd1NTIweFdZT3ZOSHBxRVBUa0NBOXppdkx6SC1qSkZwTDJUMjk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "葉門戰火再起！胡塞反叛軍攻佔紅海重要港口摩卡市",
-    "zhSummary": "葉門的胡塞反叛軍最近成功攻佔了位於紅海沿岸的戰略港口城市——摩卡市。這個被伊朗支持的組織，在與葉門政府軍的長期衝突中，取得了這次重要的進展，讓摩卡港的控制權再度改變。",
-    "zhContent": "<p>嘿，各位讀者！今天我們要聊聊一個遠在中東的新聞。根據法國24電視台的報導，在葉門這個國家，有一個被叫做「胡塞反叛軍」的團體，他們最近成功奪下了摩卡市。這可不是普通的城市，它位於非常重要的紅海沿岸，還是一個重要的港口。</p><p>摩卡市過去在國際貿易中就扮演著關鍵角色，特別是它曾經是咖啡的重要出口港。在葉門這場持續多年的衝突中，誰能控制摩卡港，誰就能掌握重要的物資運送路線。這次胡塞反叛軍成功攻佔這裡，無疑是對他們在當地影響力的一次大提升，也意味著他們能更好地控制紅海的航運通道。</p><p>胡塞反叛軍其實是葉門內戰中的一個主要勢力，他們獲得了伊朗的支援。這場內戰已經持續了很久，葉門國內的不同派系都在爭奪控制權，而摩卡市的易手，顯示出這場衝突仍在激烈進行中，而且不同勢力之間的拉鋸戰，對當地人民的生活有著巨大的影響。</p><p>目前，摩卡港已經確定落入胡塞反叛軍手中。這對葉門的整體局勢來說，是一個不小的變動。這次的事件也提醒大家，這場衝突還沒有結束，未來的發展仍是未知數。新聞的報導就到此為止，沒有進一步的評論或預測。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，摩卡市為什麼會被稱為「戰略港口」？你覺得這代表什麼意思？",
-      "生活與未來：你覺得這個事件會對葉門當地居民的日常生活造成什麼實際影響？",
-      "獨立思考提案：如果有一個國際組織想要幫助葉門平息衝突，你覺得他們應該從哪些方面著手，才能真正幫助到當地的人民？"
-    ],
-    "enTitle": "Yemen's Iran-backed Houthi Rebels Seize Strategic Red Sea Port City of Mocha",
-    "enContent": {
-      "basic": "In Yemen, a group called the Houthi rebels took control of the city of Mocha. Mocha is an important port city located on the Red Sea. The Houthis are supported by Iran. This is a big event in the ongoing fight in Yemen.",
-      "intermediate": "Yemen's Iran-backed Houthi rebels have successfully seized the strategic Red Sea port city of Mocha. This capture is a significant development in the country's long-running civil conflict. Mocha's location on the Red Sea makes it a vital point for shipping and trade, giving the Houthis more control over maritime routes.",
-      "advanced": "The Iran-backed Houthi rebels in Yemen have made a key strategic gain by seizing the Red Sea port city of Mocha, as reported by France 24. This move marks a critical shift in the complex Yemeni conflict, where various factions are vying for control. Mocha's strategic position as a maritime gateway on the Red Sea has profound implications for regional trade and humanitarian aid, intensifying the ongoing struggle for power and territorial dominance in the war-torn nation."
-    },
-    "vocabulary": [
-      {
-        "word": "rebels",
-        "zh": "反叛軍：指那些起來反抗、挑戰國家或政府的人或組織，他們通常不認同現有的統治方式，想爭取改變或奪取權力。"
-      },
-      {
-        "word": "strategic",
-        "zh": "戰略性：形容某個地方、計畫或行動非常重要，會對大局或未來產生關鍵影響，就像下棋時，一個「戰略性」的棋子可能決定勝負。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-11",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmhxMGpwcUp4ekxXQnBpSUMxazB5dnZfb2JVQThIb0c4Tk15TklsNDhyVmEwMHFTV3kwWm5JUExnbld4SkVIQ25jakVoRzNNR1UtLW80R3FfakwzVTVTRnZ3OGJCTGNYUWh0VzFHd1FQTUktQ1lPZEJUeWxDcWMyalBDazVXZGc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "韓國出口業大豐收！連旺15個月，成長速度驚人！",
-    "zhSummary": "路透社報導，南韓八月份出口額大幅成長68.7%，這已經是他們連續第15個月出口量增加，顯示經濟表現非常強勁。",
-    "zhContent": "<p>各位同學，你們知道一個國家的經濟表現好不好，常常會看他們的「出口」成績嗎？最近，根據知名媒體路透社的報導，南韓的出口表現簡直是嚇嚇叫！光是今年八月，他們的出口額就比去年同期增加了超驚人的68.7%。這代表南韓賣到國外的東西，比去年多了將近七成呢！</p><p>而且這不只是一個月的亮眼成績喔。報導中特別提到，南韓的出口已經連續第15個月都在成長了，意思就是他們從去年開始，每個月賣出去的貨物都在增加，而且是持續不停地在變多。想像一下，如果你做生意能連續一年多都越來越好，那會是多麼棒的事啊！這個「年增68.7%」指的是跟去年同一個月比起來，增加了這麼多。</p><p>這些出口的商品，通常包含了各種高科技產品，像是大家熟悉的電子產品、半導體，或是汽車、化工產品等等。南韓這些產品在全球市場上很受歡迎，所以才會看到這麼高的成長數字。這也顯示了全球市場對這些「韓國製造」的需求非常旺盛，讓他們的貨物能持續賣到世界各地。</p><p>總而言之，南韓在八月的出口成績單非常漂亮，不僅成長幅度驚人，更重要的是，這股成長動能已經持續了一年多。這個消息讓大家看到南韓在國際貿易上的強大實力，以及他們產品在世界各地的受歡迎程度。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korea's Exports Soar: 15 Consecutive Months of Growth!",
-    "enContent": {
-      "basic": "South Korea's exports went up a lot in August, by 68.7% compared to last year. This is the 15th month in a row that their exports have grown.",
-      "intermediate": "According to Reuters, South Korea's export value in August increased by an impressive 68.7% year-on-year. This remarkable growth marks the 15th consecutive month of expansion for their export sector, highlighting strong international demand for Korean products like electronics and automobiles.",
-      "advanced": "Reuters reports that South Korea's August exports surged by an astounding 68.7% year-on-year, extending a streak of growth for the 15th consecutive month. This robust performance is indicative of strong global demand for key Korean industrial products, including semiconductors, automobiles, and petrochemicals, bolstering the nation's economic outlook amidst global trade dynamics."
-    },
-    "vocabulary": [
-      {
-        "word": "Exports",
-        "zh": "出口：指的是一個國家把他們自己生產的東西，賣到其他國家去。"
-      },
-      {
-        "word": "Economy",
-        "zh": "經濟：指的是一個國家怎麼生產、分配和使用財富的方式，跟人民的生活、工作和收入都有關係。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-09-11",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejNodnl5c09oR1U5aW13bl9lZHdQQVFweGc3ZnE2bDJ0NzdlSmdoNHFqOG5EcXZmRDZ5aXU1UGJDa3dGbjhpWDhzeU12NFBPbHZJWWttLWtqU2ZFNjNTSXE3UjBNSEpBQ3dKRmtLNGNnS0hVMC1faWFhRFRXOUg3bC1oTzYzOHRfemlnMVB3VlNfdVdQTzVmdjh2TFJ4T1c4RXJjT05raVJKVHN6UmZYX25NclVpWDA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "「財政部愛怎麼寫就怎麼寫！」紐西蘭外交部長力挺主辦太平洋島國論壇",
-    "zhSummary": "紐西蘭外交部長溫斯頓·彼得斯堅決捍衛政府主辦太平洋島國論壇的決定，即使面對財政部可能提出的疑慮，他仍強調這項外交決策的重要性。",
-    "zhContent": "<p>紐西蘭外交部長溫斯頓·彼得斯最近在一次公開發言中，針對主辦「太平洋島國論壇」的決定，說出了一句讓人印象深刻的話：「財政部愛怎麼寫就怎麼寫。」這句話清楚表明了他捍衛這項決定的強硬立場，暗示了財政部可能對此有所保留，但他認為外交決策不應完全受其影響。</p><p>「太平洋島國論壇」是一個對太平洋地區非常重要的年度盛會，各國領袖會齊聚一堂，討論氣候變遷、區域安全、經濟發展等關鍵議題。紐西蘭作為太平洋地區的重要國家，主辦這個論壇不僅能展現其領導力，也能加強與鄰國的關係。然而，主辦國際級會議通常需要投入大量資源，包括人力與經費，這正是財政部需要評估的地方。</p><p>彼得斯部長之所以會有此番言論，很可能與財政部對活動開銷或預算效益的評估報告有關。財政部習慣從數字和經濟角度來審視政府支出，確保公共資源被有效運用。但彼得斯部長認為，主辦「太平洋島國論壇」的意義遠超金錢成本，它更多關乎國家在國際舞台上的形象、對區域盟友的承諾，以及長期的戰略利益。在他看來，這是一項必須要做的外交投資，不能只用會計師的眼光來衡量。</p><p>因此，儘管財政部可能提出了他們的專業意見，溫斯頓·彼得斯部長的堅決立場表明，紐西蘭政府將會持續推進主辦「太平洋島國論壇」的計畫。這顯示了在政府決策過程中，不同部門會有各自的職責與評估標準，而最終拍板的決策者，則會綜合考量各種因素，尤其是國家整體的外交與政治目標。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，紐西蘭的外交部長與財政部之間可能在什麼事情上出現了不同的意見？他們各自關心的重點是什麼？",
-      "生活與未來：你覺得主辦像「太平洋島國論壇」這樣的國際會議，除了花錢和展現國家形象，還可能帶來哪些你看不到的實際影響？",
-      "獨立思考提案：針對這次主辦國際會議的決定，如果讓你來權衡外交效益和財政支出，你會怎麼評估？"
-    ],
-    "enTitle": "Winston Peters Defends Pacific Islands Forum Hosting Decision",
-    "enContent": {
-      "basic": "New Zealand's Foreign Minister, Winston Peters, has defended the country's decision to host the Pacific Islands Forum. He mentioned that the Treasury might have its own opinions, but the final decision stands.",
-      "intermediate": "New Zealand Foreign Minister Winston Peters firmly defended the government's choice to host the upcoming Pacific Islands Forum, stating that 'Treasury can write what it likes.' This comment suggests a difference in perspective with the Treasury, which typically assesses the financial aspects of government spending. Peters likely emphasizes the diplomatic importance over pure cost analysis.",
-      "advanced": "New Zealand's Foreign Minister, Winston Peters, has staunchly defended the government's commitment to hosting the Pacific Islands Forum, dismissing potential fiscal concerns from the Treasury with the remark, 'Treasury can write what it likes.' This statement highlights a common tension between political leadership, which prioritizes diplomatic strategy and regional influence, and bureaucratic bodies like the Treasury, which focus on financial prudence and cost-effectiveness. Peters' position underscores the strategic significance of the Forum for New Zealand's role in the Pacific."
-    },
-    "vocabulary": [
-      {
-        "word": "Treasury",
-        "zh": "財政部 (cái zhèng bù) - 一個國家管理錢、稅收和政府花費的部門，就像是政府的大會計師，負責確保錢用得對、用得好。"
-      },
-      {
-        "word": "Forum",
-        "zh": "論壇 (lùn tán) - 一個讓大家聚在一起討論特定議題的公開會議或平台，通常有很多來自不同地方的人參加，一起交換意見、解決問題。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-09-11",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkZUWVhCTlctUGNHb3lPTEVpcFkzSVYxSDFYZWs3Vlc1SVI3czU5U1JJMmNzQ2pmMm5DVVZLSVdlcVZlY091ZHhHV1RPOG1pNzg3SmZGejI0WmJjbWZZTXJyS3VZdmVKdEV1bzJtQ1Y0ZEg4WF9pcjNzMlhmVUxJQzM5X0xRbHhnaWliZjJabmlXc2w2QjhMejRicTVRYlpFQ3B5ZklRZHZlaGtZVTEwME1mWHI0aUI4OHRod2JvVmxrR0lsWmE4Nm12VVg2R1NaRV9J?oc=5",
     "isFeatured": false
   }
 ]
