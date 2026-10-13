@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "美軍大動作調整將領、蓋新基地！科技巨頭美光也宣布在台大筆投資！",
+    "zhSummary": "美國軍方宣布大規模改革，包括裁減高階將領並建造四十年來第一座新基地；同時，全球記憶體大廠美光也預計在台灣投入超過一兆六千億台幣，擴建四座生產基地。",
+    "zhContent": "<p>最近全球有幾則新聞很引人注目，特別是美國軍方和科技大廠美光各自宣布了非常重大的計畫。這些變革和投資不僅規模龐大，也顯示了未來策略方向的調整。就好比你在玩戰略遊戲時，突然大幅調整兵力配置或蓋新建築，這些都是會對全局產生影響的大事。</p><p>首先來看美國軍方，他們正準備進行一場自稱「重大變革」。根據赫格塞斯先生的宣布，美軍計畫要裁減大約兩成的將領。這意思就是說，在軍隊裡職位很高的指揮官，將會有五分之一的人數被調整。不只如此，美國軍方還打算興建一座新的基地，這可是四十年來第一次有這麼大規模的新基地計畫。據說這個新基地能夠容納兩萬五千名軍人，對美軍來說，這無疑是一個非常大的硬體建設升級。</p><p>另一方面，國際記憶體大廠美光（Micron）也發布了驚人的消息。美光宣布將大幅加碼對台灣的投資，總累積投資金額將會超過新台幣一兆六千億元。這筆龐大的資金將會用於同時擴建美光在台灣的四大生產基地。這表示美光在台灣的營運規模將會變得更大，而且將同時在多個地方進行擴張，展現了他們對台灣市場的信心與長期規劃。</p><p>綜合來看，這些來自美國軍方和美光企業的消息，都代表著各自領域的重要發展。美軍的改革包括了高階軍官的調整和新基地的建造，而美光則是在台灣大規模投入資金擴廠。這些公告都是中央社在2026年10月1日全球晚間新聞中報導的重點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Military Undergoes Major Changes, Micron Expands Investment in Taiwan",
+    "enContent": {
+      "basic": "The US military is making big changes! They plan to cut many high-ranking officers and build a new huge base, the first in 40 years, that can hold 25,000 soldiers. At the same time, a big tech company called Micron is putting a lot of money into Taiwan. They will invest over 1.6 trillion New Taiwan Dollars and make their four factories in Taiwan bigger. These are big news stories about the military and business.",
+      "intermediate": "Significant developments are underway as the US military announces a major reform. Plans include reducing 20% of its generals and constructing a new base, the first in four decades, capable of accommodating 25,000 service members. Concurrently, memory giant Micron has committed to substantially increase its investment in Taiwan, reaching a cumulative total of over 1.6 trillion New Taiwan Dollars, to simultaneously expand its four operational bases there. These announcements signal strategic shifts in both defense and technology sectors, as reported by CNA on October 1, 2026.",
+      "advanced": "The global landscape observes pivotal shifts as the United States military embarks on a comprehensive reform initiative, notably featuring the reduction of 20% of its general officers and the construction of its first new major base in forty years, designed to house 25,000 personnel. Simultaneously, Micron Technology, a global leader in memory solutions, has declared an amplified investment in Taiwan, projecting a cumulative sum exceeding 1.6 trillion New Taiwan Dollars earmarked for the concurrent expansion of its four primary facilities. These dual announcements, reported by CNA on October 1, 2026, underscore strategic reorientations within both geopolitical defense postures and advanced technological manufacturing capacities."
+    },
+    "vocabulary": [
+      {
+        "word": "reform",
+        "zh": "改革 / 變革 (biàngé)：指為了讓事情變得更好、更有效率而做出的重大改變。就像學校為了讓大家上課更有趣，改掉了舊的教學方式，就是一種改革。"
+      },
+      {
+        "word": "investment",
+        "zh": "投資 (tóuzī)：意思是把金錢或資源投入到某個計畫或事業中，希望未來能獲得更大的回報。例如，你買儲蓄險，就是一種對未來的投資。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-13",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FdHJUNG95eHVNVGh6SUNOQktoajNGX3lhc2QtSjFmek56dDZXYW94YzZLQlJmMkxEcEhSekZzeXJ1TzVVd3Q5d3BsRUJMTWVpLV80Z05NMWwzV00?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "全球氣候報告卡關：頂尖科學家也吵翻天？",
+    "zhSummary": "全球最權威的氣候科學組織，在撰寫最新氣候報告時，因為各國代表與科學家們意見不合，陷入嚴重的「僵局」，導致報告的發布時程可能延後，凸顯了氣候議題背後的複雜挑戰。",
+    "zhContent": "<p>「全球頂尖氣候科學組織」聽起來是不是很厲害？沒錯，它就是一個集結全球最聰明氣候科學家的團體，負責告訴我們地球氣候變化的最新狀況。他們發表的報告，是世界各國制定環保政策的重要依據。但是最近，根據路透社的報導，這個重要的組織卻遇到了大麻煩——他們在內部陷入了一場僵局，讓一份重要的氣候報告卡關了。這就好像全班最聰明的一群人，為了寫一份關於地球未來的報告，卻遲遲無法達成共識一樣。</p><p>這場僵局不是小事，它關係到這份即將發布的報告會怎麼描述氣候變化的緊急程度，以及我們應該如何應對。想像一下，當科學家們努力整理出所有數據後，要寫成一份大家都看得懂、並且能被各國接受的報告時，意見分歧就開始出現了。一些國家或科學家可能認為，報告應該用更強烈的語氣，強調氣候危機的緊迫性；而另一些國家或代表，可能因為擔心經濟影響，希望能用比較溫和的字眼。這些不同立場的拉扯，讓報告中的每個詞句都變成討論的焦點。</p><p>為什麼會這樣呢？其實，這背後有很多複雜的原因。首先，每個國家面對氣候變化的挑戰和自身利益都不同，這導致他們對報告內容的期待也不同。舉例來說，有些國家可能非常依賴傳統能源，他們會希望報告不要太過於強調放棄這些能源的必要性；而另一些深受氣候變遷影響的國家，則急切地需要更明確、更有力的警告。這些現實的考量，讓本該純粹的科學報告，變得充滿了政治和經濟的角力。</p><p>目前看來，這個全球頂尖氣候科學組織仍在努力尋求一個平衡點，希望各方都能接受最終的報告版本。這場僵局凸顯了即使是科學界，要在全球層面就如此重大的議題達成一致，也是一件非常困難的事情。我們能確定的是，這份報告的發布時間可能會因此延後，而科學家們和各國代表，還需要更多的時間來協商，才能讓這份關乎地球未來的報告順利問世。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，全球頂尖氣候科學組織遇到了什麼樣的「僵局」？這個僵局主要是因為哪些原因造成的？",
+      "生活與未來：你覺得這份報告的內容，如果措辭太過溫和或太過強烈，會對我們的生活造成什麼實際影響？",
+      "獨立思考提案：針對這種科學報告被政治和經濟因素影響的狀況，你覺得還有什麼方式可以讓報告更客觀、更有效率地被產出？"
+    ],
+    "enTitle": "Inside the deadlock at the world's top climate science body",
+    "enContent": {
+      "basic": "The world's top climate scientists are facing a major challenge. They are currently in a \"deadlock\" and can't agree on how to write their latest climate change report. This is because different countries have different ideas and concerns, which is making it hard to finish the report on time.",
+      "intermediate": "A leading global climate science organization is experiencing a significant internal deadlock, hindering the finalization of its crucial climate report. Disagreements stem from a complex mix of scientific interpretations and national economic interests, as representatives struggle to find consensus on the report's language regarding the urgency and implications of climate change.",
+      "advanced": "The Intergovernmental Panel on Climate Change (IPCC), the preeminent authority on climate science, is reportedly in a state of deadlock. Internal divisions among member states and scientific contributors are delaying the completion of a vital assessment report. The contention often involves the framing and intensity of language used to describe climate risks and policy imperatives, reflecting a challenging intersection of scientific consensus, geopolitical considerations, and economic concerns."
+    },
+    "vocabulary": [
+      {
+        "word": "deadlock",
+        "zh": "僵局 – 指的是事情發展到一個停滯不前的狀態，各方意見無法達成一致，導致事情無法繼續推進，就像是卡住了一樣。"
+      },
+      {
+        "word": "consensus",
+        "zh": "共識 – 指的是一群人對於某件事情，經過討論後，想法或意見都達到一致的認同，大家都能接受相同的決定或結論。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-13",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkFJRWlmcmZtRXBVSHoyQzF5a0FqVkE4RkRuLUExQWxxaTRtTDdNTnBXLUFVSVFlbUw5Zm1YWDFoRzk4dDBlNm1CWEpNa1NOV3BRbFdKd3J5dVZ2MVhRVlBOVUhTenFEOXZYLUdCREl3dHA5OTRDMEE3YjhOdW5LTmttSThFWkpPX2psU0VsNXItVFJYY0VTNDVIX2ludThsaGdHbg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "藝術與愛心齊飛：高中生彩繪鳥屋，為鳥兒打造溫暖新家",
+    "zhSummary": "美國南帕克斯堡高中的藝術學生們正在進行一個特別計畫，他們發揮創意，彩繪各式各樣的鳥屋，準備送給一處新建的鳥類保護區，希望能為這些空中居民打造安全又美麗的家。",
+    "zhContent": "<p>你喜歡畫畫嗎？美國西維吉尼亞州的南帕克斯堡高中有一群超有才華的藝術學生，他們最近把畫筆拿起來，不是為了畫風景或人物，而是要為一群特殊的「房客」打造溫暖的家！這群學生正在投入一項特別的計畫，他們要彩繪各式各樣的鳥屋，讓這些美麗的小屋成為藝術品，也成為鳥兒們的新家，準備送到一處剛成立的鳥類保護區。</p><p>這些高中生們發揮了滿滿的創意，把原本平凡的木製鳥屋，變成了一幅幅生動又充滿想像力的畫作。有的鳥屋被漆上鮮豔的色彩，好像熱帶雨林一樣；有的則是有著可愛的卡通圖案，或是充滿大自然氣息的植物花紋。他們在創作的過程中，不只學到了如何用不同的顏料和技巧來美化鳥屋，更重要的是，他們也為這些未來的小主人們，注入了滿滿的關愛，希望鳥兒們能喜歡這些充滿藝術氣息的新住處。</p><p>這項有意義的活動，其實是南帕克斯堡高中與新建的鳥類保護區合作的成果。保護區的目標是為當地的野生鳥類提供一個安全、不受打擾的棲息環境，讓牠們能夠安心地築巢、繁衍。而學生們的藝術鳥屋，正好能為這個保護區增添更多色彩與生命力。在創作前，老師們也特別提醒學生，選用的顏料必須是環保無毒的，確保鳥兒們住得健康又安全，這份細心也讓整個計畫更加完善。</p><p>現在，這些由高中生親手彩繪的鳥屋已經陸續完成，準備好要「入住」全新的鳥類保護區了。想像一下，當五顏六色的鳥屋高掛在樹上，吸引各種鳥兒前來棲息，那畫面肯定非常美麗。這項特別的藝術計畫，不僅讓學生的作品有了實際的用途，更為當地的生態環境盡了一份心力，也讓鳥兒們在新的保護區裡，多了一份由愛心堆疊而成的溫暖歸宿。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Parkersburg South Art Students Paint Bird Houses for New Sanctuary",
+    "enContent": {
+      "basic": "Art students from Parkersburg South High School are painting bird houses. These bird houses are for a new place where birds can live safely. The students use their art skills to make the bird houses look nice. This project helps both art and nature.",
+      "intermediate": "Students in the art program at Parkersburg South High School are engaged in a creative community project. They are hand-painting bird houses specifically designed for a newly established bird sanctuary. This initiative allows students to apply their artistic talents while contributing to local wildlife conservation efforts, providing safe and visually appealing homes for various bird species.",
+      "advanced": "Art students from Parkersburg South High School are currently undertaking an inspiring community project, utilizing their creative talents to paint bird houses for a newly developed bird sanctuary. This endeavor not only provides a practical application for their artistic skills but also fosters a direct connection to local environmental conservation. The carefully decorated bird houses will serve as vital new habitats, enriching the sanctuary and supporting various avian populations within the region."
+    },
+    "vocabulary": [
+      {
+        "word": "Sanctuary",
+        "zh": "保護區 / 避難所：專門為動物或植物提供安全生活環境的地方，讓牠們可以安心居住，不會被打擾。"
+      },
+      {
+        "word": "Conservation",
+        "zh": "保育 / 保護：為了避免動植物或自然環境消失，而努力保護它們，讓它們能繼續存在和發展的行動。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-10-13",
+    "sourceName": "WTAP",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEotemdBTkdCYkM1S2t0MFRrVVV1dkZkQnpIRGllS2pfbG96S3J6YTBTRGE4OTd6Wjc1TDBXT3hnVlFSTmprRGs3MnZjczZfMDFZVEVJOEpZOFljMnBCeVNFWHB6WGRORVVmNE9lTXVKdFI2bFFiWW5TNEhHT2s3SElVMnQtT1E4UGR2SFdXRHpBTGdIRmU5ckdJc9IBrwFBVV95cUxOczREaWprOTlCTFhqQWI5M045MHl6el9jay1tTzVDMkF0UHRWUTBQXzQ3dElWN0ZnX0NVTlZkWG54aENod3ZhV1NUMlhILTV1djZHMU9RQk9qTEM1ZER6ZmpPbG9oOV8wS0xDX3ZpTGw1V3o4OEpfU2g3MkVCTFQ3eGQ3bHRPRUtYQk95a2ZBVVRpcll4ODNtbXMycS1VeXpkaTZLNzV4LVhMaGNVZzJR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "微軟總裁警告：AI 比你喝的牛奶還沒人管！",
+    "zhSummary": "微軟總裁史密斯近期提出嚴正警告，指出人工智慧（AI）目前的監管程度遠低於牛奶等日常商品，這引發了對AI技術安全與潛在風險的深切關注，並呼籲各國政府盡速制定相關規範。",
+    "zhContent": "<p>「微軟總裁：AI 比牛奶還沒人管！」你沒聽錯，這不是在開玩笑。最近，科技巨頭微軟的總裁史密斯（Brad Smith）對外發出了一個驚人的警告。他指出，目前人工智慧（AI）的發展和應用，受到的規範和限制，竟然比我們每天喝的牛奶還要少。這句話聽起來很誇張，但背後其實是在提醒大家，AI快速進步的同時，它的安全問題卻可能被忽略了。他認為，如果沒有適當的規定來把關，未來可能會面臨一些意想不到的風險。</p><p>史密斯這番「AI不如牛奶安全」的言論，主要是想強調法規的不足。想想看，我們喝的牛奶從牧場到餐桌，每個環節都有嚴格的衛生檢查、品質標準和保存期限規定，確保消費者喝得安心。但AI呢？當它被應用在越來越多重要的領域，例如醫療診斷、自動駕駛或是日常決策時，卻沒有像牛奶那樣一套明確的「安全標準」或「審查機制」。他的意思是，目前對於AI的設計、測試、使用限制以及當它出錯時該如何負責，都還沒有一套完善的規範。</p><p>為什麼AI會面臨這種「沒人管」的困境呢？其中一個主要原因就是AI技術的發展速度實在太快了。它不斷地創新和演進，讓各國政府和立法機構很難在短時間內跟上它的腳步，制定出合適的法規。這不僅是微軟一家公司的看法，許多科技專家、社會觀察家甚至其他國家的領導人，都開始對AI的潛在風險表達擔憂。他們擔心在沒有足夠約束的情況下，AI可能會被濫用，或者在某些情況下產生不公平、不透明的結果，甚至影響到人類社會的運作。</p><p>面對這樣的狀況，微軟總裁史密斯的這番話，正是希望能夠引起各界對於AI監管的重視。他呼籲全球的政策制定者和政府，應該要盡快行動起來，共同討論並建立一套能夠有效管理和監督AI發展的規範。他的目標很明確，就是要確保AI在造福人類的同時，也能在一個安全、負責任的框架下運作，避免潛在的危險。這場關於AI未來走向的討論，才剛剛開始。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Microsoft President Warns: AI Less Regulated Than Milk, Posing Safety Risks",
+    "enContent": {
+      "basic": "Microsoft's president, Brad Smith, recently said that artificial intelligence (AI) has fewer rules than even milk. He thinks this is a problem for safety. Milk has many rules to keep it safe, but AI, which is used everywhere from cars to hospitals, does not. Smith is worried that without proper rules, AI could cause unexpected problems. He wants governments to make rules for AI so it can be safe and helpful.",
+      "intermediate": "Brad Smith, the president of Microsoft, has issued a stark warning: artificial intelligence (AI) currently operates with less regulation than everyday products like milk. He emphasized that while food products undergo stringent safety checks and quality standards, AI applications, despite their growing integration into critical sectors like healthcare and autonomous vehicles, lack comparable oversight. Smith's concern stems from the rapid advancement of AI technology, which has outpaced legislative efforts, potentially leaving a gap where misuse or unintended consequences could arise. He urges global policymakers to develop comprehensive regulations to ensure AI's responsible and safe deployment.",
+      "advanced": "Microsoft President Brad Smith has articulated a critical concern regarding the burgeoning field of artificial intelligence, stating that its regulatory framework is significantly less developed than that governing basic consumables such as milk. This provocative comparison underscores a perceived deficit in comprehensive oversight, as AI systems are increasingly deployed across high-stakes domains including medical diagnostics, autonomous systems, and critical infrastructure, yet lack the rigorous safety protocols and accountability mechanisms typically applied to regulated industries. Smith attributes this regulatory lag to the exponential pace of AI innovation, which has historically outstripped governmental legislative capabilities. He advocates for an urgent, concerted effort among international policymakers to establish robust governance structures, ensuring that AI development proceeds within an ethical and secure paradigm to mitigate potential societal risks and foster responsible technological stewardship."
+    },
+    "vocabulary": [
+      {
+        "word": "regulated",
+        "zh": "規範 (guīfàn) / 被管制的。就像學校有校規，家裡有家規一樣，一個東西被「規範」，就是說它有一套規則或法律來管理，限制它能做什麼、不能做什麼，通常是為了安全或秩序。"
+      },
+      {
+        "word": "safety",
+        "zh": "安全 (ānquán) / 不受傷害或威脅的狀態。當我們說「安全」，就是指沒有危險，讓人感覺放心。比如玩遊戲要注意安全，不要受傷。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-13",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakhDNFlaMk9mSGQwbi0zcWlFSW1hQVRUckFFekhNbWF0MUVHSFVFNUhDYXRicUpQV1dTcEFka2RsNXk2a2tYV21NcUJOWWFJU09NTjNMVlBjOHBHa0tfRW1UTUJpRFl3bE96LUZTZzhFUm8waHR0dTdHZmlmd2E4dTQ4bWRKY3dlWUR2RkpUOW42clIwUUxYa0ZsTHNZT0JyRW9NNWY3c0c0Rk5QSTFJcm9McnFfMThhdnoydEE5WQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "驚！你以為的動物常識，其實是迷思？BBC挑戰你的野生動物知識庫！",
+    "zhSummary": "BBC最近推出了一篇有趣的報導，挑戰讀者辨別關於動物的常見說法究竟是真實科學事實，還是廣為流傳的迷思。這篇文章透過互動方式，揭露許多你可能從未想過的動物世界真相。",
+    "zhContent": "<p>BBC 最近推出了一篇超有趣的報導，它挑戰大家對動物的認識！這篇報導的主題很簡單，就是想問問看，我們平常聽到那些關於動物的「小知識」，究竟是真的科學事實，還是根本就是以訛傳訛的「迷思」呢？文章一推出就吸引了不少讀者，因為許多我們以為的常識，可能跟你想的不一樣。這就像玩一個小測驗，要看看大家對動物世界的了解程度到底有多深。</p><p>這篇報導以互動的方式，列出許多關於動物的敘述，然後請讀者猜猜看，這些說法究竟是「事實」還是「迷思」。舉例來說，你可能聽過「鴕鳥在害怕的時候會把頭埋進沙子裡」，或是「金魚的記憶只有三秒鐘」。這些都是我們常常聽到的說法，但真的是這樣嗎？BBC 的報導就透過科學家的解釋和動物專家的觀察，一一揭開這些說法的真面目。文章中還可能提到，有些動物的特徵或行為，其實跟大眾的「誤解」很不一樣，讓人看了大開眼界。</p><p>為什麼 BBC 會想製作這樣一個內容呢？很可能他們發現，許多關於動物的傳聞，其實早在很久以前就開始流傳，但這些說法從來沒有真正被證實。隨著網路資訊發達，這些未經求證的「迷思」更容易被快速散播開來。因此，BBC 希望藉由這篇文章，幫助讀者釐清真相，不再人云亦云。這不僅能增加我們對動物的正確知識，也能培養大家多一份好奇心，去探索自然界的真實樣貌。</p><p>這篇關於動物真假知識的報導，成功地引起了大家的討論和學習熱情。許多讀者發現，原來自己對某些動物的了解竟然是錯誤的，也重新審視了自己接收資訊的習慣。這篇文章的目的就是提供一個平台，讓大家可以輕鬆有趣的學習，並且知道在面對各種「知識」時，都要多問幾個為什麼。文章並沒有強硬地給出任何結論，而是將思考的空間留給大家，鼓勵大家自己去尋找答案。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Are These Real Animal Facts or Total Myths? BBC Challenges Your Wild Knowledge!",
+    "enContent": {
+      "basic": "The BBC recently published an interesting article that challenges people's understanding of animals. The article asks readers to guess if common animal 'facts' are real science or just myths. It uses an interactive style to reveal surprising truths about the animal world. For example, it might ask if ostriches bury their heads in sand when scared, or if goldfish only remember things for three seconds. The BBC created this article to help readers tell truth from myth and encourage curiosity about nature. Many readers found they had wrong ideas about animals after reading it, sparking lots of discussion and learning. The article simply presents facts and leaves readers to think for themselves.",
+      "intermediate": "The British Broadcasting Corporation (BBC) has released an engaging report designed to test public knowledge about the animal kingdom. Titled 'Can you tell if these are real animal facts or total myths?', the article presents various widely-held beliefs about animals and prompts readers to determine their veracity. Through an interactive format, the report debunks common misconceptions, such as the myth of ostriches burying their heads in sand when frightened or the notion of goldfish possessing only a three-second memory. The BBC's initiative aims to combat the rapid spread of unverified information online by providing scientifically backed explanations and observations from animal experts. This encourages critical thinking and fosters a deeper appreciation for the authentic natural world. The article has successfully stimulated considerable discussion and intellectual curiosity among its audience, prompting many to re-evaluate their understanding of animal behaviors and features. It serves as an educational tool, encouraging readers to question conventional wisdom without imposing definitive conclusions, thereby promoting independent inquiry.",
+      "advanced": "The British Broadcasting Corporation (BBC) has recently unveiled an incisive article, 'Can you tell if these are real animal facts or total myths?', meticulously crafted to challenge prevailing public perceptions regarding the animal kingdom. This interactive exposé systematically scrutinizes numerous pervasive assertions about fauna, compelling readers to discern their scientific authenticity from prevalent mythological narratives. The report adeptly deconstructs entrenched misconceptions, such as the apocryphal tale of ostriches burying their crania in sand during distress or the simplistic attribution of a three-second mnemonic capacity to goldfish. Driven by a desire to counter the proliferation of unverified information in the digital age, the BBC leverages scientific elucidation and expert ornithological and ichthyological observations to unveil underlying truths. This journalistic endeavor not only augments accurate zoological knowledge but also cultivates a spirit of empirical inquiry into the intricacies of the natural world. The article has demonstrably ignited significant public discourse and educational engagement, prompting a collective re-evaluation of established animal lore and fostering a more discerning approach to information consumption. Its objective presentation provides an accessible platform for learning, advocating for a critical stance toward received 'knowledge' and empowering readers to independently seek verified answers rather than offering prescriptive conclusions."
+    },
+    "vocabulary": [
+      {
+        "word": "Myth",
+        "zh": "迷思：指一個在很多人之間流傳，但其實是錯誤的觀念或故事，通常沒有科學根據。"
+      },
+      {
+        "word": "Misconception",
+        "zh": "誤解：指對某件事情有錯誤的理解、看法或判斷，與事實不符。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-10-13",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teFB2empGdUNrY3NydExGU0xDRHd1Q1lMTFgwSWVidzMxemxSdTl1QVRIN1lVT0dFX0lwV0cxbmdHTmJNaWJ6aXgyaTFMNGxUZk1qMGFPOTV6Z2tXaHJIUWU2RVdJRnVJc2FYZFhkZ0ZFRjNUOS1Cc29DVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "逆境求生！古巴擺脫石油困境，大力擁抱綠色能源",
+    "zhSummary": "面對美國的長期石油禁運，加勒比海國家古巴並沒有退縮，反而積極轉型，大力發展太陽能、風力等再生能源，希望能建立更穩定、環保的能源供應。",
+    "zhContent": "<p>古巴，這個位於加勒比海的美麗島國，最近做了一件引人注目的事情：他們正積極推動使用太陽能、風力等綠色能源。為什麼呢？原來，古巴長期以來面臨來自美國的石油禁運，這讓他們很難獲得足夠的傳統燃料。面對這樣的困境，古巴決定不再被動等待，而是自己找出路，大力發展再生能源，希望能夠自給自足，讓國家更有活力。</p><p>為了實現能源轉型，古巴政府設定了宏大的目標。他們計畫在未來幾年內，將全國電力供應中再生能源的比例大幅提高，不再那麼依賴進口的石油。具體來說，古巴已經開始投資興建新的太陽能發電廠和風力發電設施，並且也在研究利用甘蔗等農業廢料來生產生質能源。這些計畫不僅希望能穩定供電，減少停電次數，更長遠的目標是打造一個更環保、永續的能源系統。</p><p>古巴會如此努力發展再生能源，主要原因就是美國對其實施的經濟制裁，其中包含了石油禁運。這項政策從很早以前就開始了，導致古巴在國際市場上採購石油變得非常困難且昂貴。傳統發電廠多半需要燃燒石油來運作，當石油供應不穩時，整個國家的電力系統就會受到影響。因此，發展再生能源對古巴來說，不只是一種環保選擇，更是確保國家能源安全和經濟穩定的重要策略。他們需要找到一個不受外部因素限制的能源來源。</p><p>儘管面臨許多挑戰，古巴在推動再生能源的道路上並沒有停下腳步。他們繼續投入資源，訓練人才，並尋求國際合作夥伴的技術支援，努力將這些綠色能源計畫一步步實現。目前，古巴政府展現出堅定的決心，要讓國家擺脫對化石燃料的依賴，邁向一個由太陽能和風力驅動的未來。這個轉變仍在進行中，但其重要性對於古巴的長遠發展來說不言而喻。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cuba Forges Ahead with Green Energy Amidst US Oil Blockade",
+    "enContent": {
+      "basic": "Cuba, a Caribbean island nation, is actively pursuing renewable energy like solar and wind power. This is happening because the country faces a long-standing oil blockade from the United States, making it hard to get traditional fuel. To overcome this challenge, Cuba is investing in green energy to become more self-sufficient and vibrant. They plan to increase the share of renewable energy in their electricity supply, building new solar and wind farms and researching bioenergy from sugarcane. This move is crucial for their energy security and economic stability. Despite challenges, Cuba is committed to this shift, working towards a future powered by sun and wind, reducing its reliance on fossil fuels.",
+      "intermediate": "Cuba is aggressively advancing its renewable energy plans, such as solar and wind power, as a direct response to a persistent oil blockade imposed by the United States. This blockade has severely hampered Cuba's access to traditional fuels, prompting the island nation to seek energy independence. The Cuban government has set ambitious targets to significantly boost the proportion of renewable energy in its national grid. They are actively investing in new solar parks and wind farms, and exploring the use of agricultural waste like sugarcane for biomass energy. This transition is not merely an environmental choice but a critical strategy to ensure national energy security and economic stability, providing a reliable energy source free from external constraints. Despite ongoing challenges, Cuba remains steadfast in its commitment, dedicating resources and seeking international partnerships to achieve a fossil-fuel-independent future.",
+      "advanced": "Amidst the enduring US oil blockade, Cuba is strategically pivoting towards a robust renewable energy infrastructure, prioritizing solar, wind, and biomass power. This proactive shift is a direct imperative stemming from the blockade's severe curtailment of conventional fuel imports, compelling the Caribbean nation to forge a path towards energy autonomy. The Cuban government has articulated ambitious national targets to substantially elevate the contribution of renewables to its electricity matrix. Implementation includes significant investments in new utility-scale solar photovoltaic arrays and wind turbine installations, alongside research into bioenergy conversion from agricultural residues such as sugarcane. This comprehensive transition transcends mere ecological aspirations, constituting a foundational pillar for bolstering national energy security and fostering economic resilience by mitigating vulnerabilities inherent in external fuel dependencies. Despite formidable logistical and resource challenges, Cuba maintains an unwavering resolve, channeling investments, cultivating specialized human capital, and pursuing international technical collaborations to realize its vision of a future primarily powered by indigenous, sustainable energy sources."
+    },
+    "vocabulary": [
+      {
+        "word": "Blockade",
+        "zh": "禁運 (jìn yùn) - 指一個國家或團體，禁止特定商品（像石油、武器）進口或出口到另一個國家，就像一道牆，讓商品過不去。"
+      },
+      {
+        "word": "Renewable",
+        "zh": "再生能源 (zài shēng néng yuán) - 指那些用之不竭、可以不斷補充的能源，例如太陽能、風力、水力等，它們比燒石油那種傳統能源更環保。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-13",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblcwTlFBZTZVb1F0WG5fdUw3SFdndDlENGc3RFZXRkZ5ZllBSjlXLTJEUGpZRUZxaTUxdUFlZUZIdmJNUk1LRnV0cHFNdS1DQ0ctdlZ2RDlKamtMQ0hETDlwc3ZjVDNpTDVlWXhVc0VkUTA4NDl6czRCSm1GdTd4ZDItUkh6WTZuSjU5MWVuZmY4c2xpdkFzcXBVMmVxNkNscTRKQzBDX0VaMGl6cWJJLdIBtgFBVV95cUxQUktvRjhzNFdBNkVFQXNDNW5EZktPa0NqRHg3M2Z5VEhmYkFmNmNxUF9wbURxNHVJNFZnSHV3UldYdXlCOEF1QzZDbWx2Z21KUVJ1VHpGcThFNDJ6LXNJa2ViSjItd2tibVdKWEViMXAzUjl6ZzRpQ05vdEFUR3JsNnlxV09BbVRpSW5NelluWUdlWHVwanNQTnJKOFZjQloxdWFNSGdNVDUwbkdiT3JoamhqOWtsdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南英格蘭的「大視角」：一週影像故事集錦",
+    "zhSummary": "英國廣播公司（BBC）每週推出「大視角」專題，精選一系列來自英格蘭南部地區的精彩影像，帶領讀者一同快速瀏覽當地過去一週的生活點滴與特別時刻。",
+    "zhContent": "<p>英國廣播公司（BBC）定期推出名為「大視角」（Big Picture）的特別報導，這個專欄每週都會精挑細選來自英格蘭南部地區的多張照片，用最直觀的方式呈現過去七天發生的重要事件、當地風情與日常生活面貌。它就像一本快速翻閱的影像日記，讓讀者能快速掌握這片區域的最新動態。</p><p>這些被選中的照片包羅萬象，從壯麗的自然景觀到充滿活力的社區活動，從不期而遇的野生動物畫面到當地舉辦的各式慶典，幾乎無所不包。攝影師們透過鏡頭，捕捉了英格蘭南部獨有的魅力與脈動，有時是陽光灑落在古老城堡的瞬間，有時是海邊沖浪者的英姿，甚至可能是一群鴨子穿越馬路的逗趣景象，每一張照片都在訴說著它自己的小故事。</p><p>「大視角」專欄的用意，是希望讓大眾能透過視覺，更深入地了解英格蘭南部地區的豐富性與多元性。BBC的編輯團隊會從各方投稿以及新聞團隊拍攝的照片中，仔細篩選出那些最具代表性、最具故事性或最令人驚豔的影像。這不僅是對當地攝影師的一種肯定，也讓全球讀者有機會，在短短幾分鐘內，就能對這個區域的一週進行一次「深度」遊覽，看見那些可能被忽略的美好與變化。</p><p>因此，每週的「大視角」系列文章，都像是一場精心策劃的視覺饗宴，它持續地記錄著英格蘭南部地區的每一刻。讀者們可以透過這個專欄，跟隨鏡頭的腳步，體驗當地的季節更迭、感受人文溫度，並觀察到社會環境的細微變化。這項報導將每週持續更新，忠實地呈現這片土地上正在發生的點點滴滴，提供一個客觀而生動的視覺紀錄。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South England's 'Big Picture': A Weekly Collection of Image Stories",
+    "enContent": {
+      "basic": "BBC has a special part called 'Big Picture'. Every week, it shows many photos from South England. These photos tell us what happened and what life is like there. You can see nature, people, and fun events. It's like a photo diary for the area, helping people quickly see what's new and interesting.",
+      "intermediate": "The BBC regularly publishes a special feature titled 'Big Picture,' which curates a selection of images from the South of England each week. This column aims to visually capture the significant events, local culture, and daily life from the past seven days. It presents a diverse range of photographs, from stunning natural landscapes to vibrant community gatherings, offering readers a quick and engaging overview of the region's activities and unique charm.",
+      "advanced": "The British Broadcasting Corporation (BBC) consistently presents its acclaimed 'Big Picture' series, a weekly editorial feature meticulously curating a compelling array of photographs from the diverse regions of Southern England. This initiative serves to encapsulate, through vivid imagery, the pivotal occurrences, distinctive local flavor, and quotidian rhythms that have characterized the preceding week. The column's objective is to provide an immersive visual narrative, thereby enabling its audience to gain a profound and immediate apprehension of the area's evolving dynamics and inherent beauty."
+    },
+    "vocabulary": [
+      {
+        "word": "Curate",
+        "zh": "策劃／精選：指像博物館館長一樣，仔細挑選、整理並展示物品。在這裡，意思是BBC很用心挑選照片。"
+      },
+      {
+        "word": "Snapshot",
+        "zh": "快照／概覽：指迅速拍下的照片，也常用來形容對某個時間點或狀況的快速、簡要的呈現。這篇報導就是南英格蘭的「一週快照」。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-10-13",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lajBWZjNMb3J1QWNGbUZtc19pWXJxQlFMNTFKcEQ2X2JQd2JSUVFqTFVXTmFINVA5T1JGWmpXMW04d3JmYUdSQ0lueEpOTVBlbzdYVHE2dlJSeE0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "「史上最重手」！歐盟出招，德國議員談對俄羅斯制裁",
+    "zhSummary": "歐盟近日對俄羅斯實施了新一波的經濟制裁，德國資深政治家華德富（Wadephul）形容這些措施對俄羅斯來說是「前所未有」的巨大打擊。這些制裁旨在透過經濟壓力，促使俄羅斯改變其對烏克蘭的政策，範圍涵蓋金融、貿易及能源等多個關鍵領域。",
+    "zhContent": "<p>德國的政治人物華德富最近發言指出，歐盟對俄羅斯實施了一系列新的制裁措施，他認為這些措施對俄羅斯來說，會是「前所未有」的嚴重打擊。簡單來說，這表示歐盟這次的行動非常大膽且強硬，希望能夠透過這些手段，對俄羅斯造成巨大的經濟壓力，並影響其在國際上的行動。</p><p>所謂的「制裁」，指的是歐盟成員國聯合起來，決定對俄羅斯在經濟、金融或貿易上設定一些限制或禁止，目的就是要讓俄羅斯賺錢的管道變少，或是讓它在國際市場上遇到困難。華德富之所以會用「前所未有」來形容，是因為這次的制裁範圍非常廣泛，包括限制俄羅斯銀行使用全球的金融系統，禁止進口某些俄羅斯的商品，甚至連俄羅斯重要的能源產業也受到影響。這些規定，讓俄羅斯在對外貿易和金融往來上，都面臨了前所未有的挑戰。</p><p>這些嚴厲的制裁措施，主要是歐盟對俄羅斯在烏克蘭採取軍事行動的回應。歐盟和許多其他國家都認為，俄羅斯的行為違反了國際法，並且威脅到地區的和平與穩定。因此，歐盟希望透過這種經濟施壓的方式，能夠迫使俄羅斯重新思考其在烏克蘭的策略。華德富作為德國的重要政治家，他的這番話也反映出德國政府乃至整個歐盟，對於這些制裁的高度重視，以及他們希望透過這些措施向俄羅斯傳達的強硬立場。</p><p>目前來看，這些新的制裁確實已經對俄羅斯的經濟帶來了不小的衝擊。許多俄羅斯的大型企業和一些富有的個人，因為這些制裁而面臨資產被凍結的問題，同時，不少國際品牌和企業也紛紛撤出俄羅斯市場，使得俄羅斯民眾的日常生活和國家的經濟發展都感受到了壓力。這些制裁措施目前仍在持續執行中，歐盟也正密切觀察，這些手段能否達成他們預期的目標，也就是促使俄羅斯改變其對烏克蘭的政策。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Germany's Wadephul Calls New EU Sanctions on Russia 'Unprecedented'",
+    "enContent": {
+      "basic": "Germany's politician Wadephul said new EU rules against Russia are a huge hit. These rules, called 'sanctions,' are like punishments. They make it harder for Russia to do business with other countries. The EU put these rules in place because of what Russia did in Ukraine. It makes Russia's banks and trade difficult. Many companies are also leaving Russia. The EU hopes these rules will make Russia change its mind.",
+      "intermediate": "German politician Johann Wadephul stated that the latest round of EU sanctions against Russia represents an 'unprecedented' blow. These sanctions are economic penalties designed to limit Russia's financial and trade capabilities, thereby pressuring it to alter its policies concerning Ukraine. The measures target critical sectors, including banking, exports, and energy, making it challenging for Russia to engage in international commerce and finance. The EU aims for these strong actions to significantly impact Russia's economy and influence its decisions.",
+      "advanced": "In a significant statement, German politician Johann Wadephul characterized the European Union's newly imposed sanctions on Russia as an 'unprecedented' blow. These punitive economic measures are designed to exert maximum pressure on Russia, compelling a reconsideration of its actions in Ukraine. The comprehensive sanctions package targets vital Russian economic sectors, including restrictions on its banking system's access to international finance, prohibitions on certain exports and imports, and limitations impacting its crucial energy industry. This broad and severe approach is intended to disrupt Russia's global economic engagement and financial stability, with the EU closely monitoring their efficacy in achieving policy objectives."
+    },
+    "vocabulary": [
+      {
+        "word": "sanctions",
+        "zh": "制裁：這是一種懲罰措施，當一個國家或組織對另一個國家不滿時，就會在經濟或政治上施加限制，例如不買他們的東西，或是不跟他們做生意，目的是要讓對方感受到壓力。"
+      },
+      {
+        "word": "unprecedented",
+        "zh": "前所未有：意思是從來沒有發生過，是第一次出現的。當我們說某件事情是「前所未有」，就代表它的規模、嚴重程度或方式，是以前從來沒見過的，非常特別。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-13",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFBDRG1uc0VicDE2RVNPN0hpQW84SXJZeXp1S3h0QmhRUzJselNBTmVQVUZPWndDV3lub0JVZllGTTU1ZkdxOV9MQVp0bXdxOHFFVVlITTlSR1pKMkUyaG5XTzR2dXRsT09iamowM2lkQ0lVbExNak1WOEQ2QzJ0ZmFmYXJwZEx2Y2RDYUhpbGdham5UNFBrcE5FTTRtOUVzdTZiLdIBpAFBVV95cUxPRjRnbHBFNm5xMjljcHJjOTBzMmFRMFViSVFwQTZzVGVqRnREMnNzU2xZX3VGMk1qamNDNmFTcU1yWGw2dUU1aWJxX3FaZXJHQ2diSjVCbGp0dFJmMmNoeVpKbGZIQ3QzU0NIN3hZN3QwZFFUajE1bjh1dDl6dV9Sd3Q3N2JWNXR0LS02R0FJak1zR0lFN3ZOTW52UXJzQ21nXzFvSA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非想請法院幫忙：庇護規則到底怎麼用？",
+    "zhSummary": "南非政府正在向法院尋求指引，希望釐清現有關於「庇護」申請的規定，確保這些法律能被正確且一致地解讀與執行。",
+    "zhContent": "<p>南非最近有一個重要的消息，他們正在向法院尋求幫助，希望法院能給一些關於「庇護」規定的指導。這個消息來自非洲通訊社 APAnews，顯示這件事在非洲地區受到關注。簡單來說，「庇護」指的是一個人因為在自己的國家遇到危險，例如戰爭或迫害，所以向另一個比較安全的國家請求保護和居住的權利。南非政府現在就是想讓法院幫忙釐清，以前有些關於庇護的決定該怎麼正確解讀和執行。</p><p>這聽起來可能有點複雜，但其實就是當一個國家有很多外來的人申請保護時，就會有很多法律和規定要處理。這些規定通常很詳細，涉及到什麼樣的人符合資格、申請流程如何、以及他們在新的國家可以獲得什麼權利等等。南非政府現在遇到的情況，可能是有些現行的庇護裁決或相關規定，在實際執行上出現了疑問，或者不同的部門有不同的理解，所以才需要最高權威——法院來給出一個明確的答案。</p><p>會需要法院來給指導，通常是因為這些法律案件涉及的人數眾多，而且影響深遠。對於尋求庇護的人來說，這關係到他們是否能安全地在南非生活；對於南非政府來說，這關係到他們如何公正且一致地處理每一個申請，確保法律的公平性。所以，當法規執行面遇到挑戰或需要統一解釋時，向法院尋求指示，是確保所有人都按照相同的規則辦事的重要步驟。</p><p>目前，南非政府已經正式向法院提交了請求，希望能夠得到明確的指引。這表示法院將會仔細審查相關的法律和先前的判例，然後給出一個清晰的解釋，告訴大家這些庇護的規定到底應該怎麼理解和執行。這是一個正在進行的過程，南非政府希望透過這個方式，讓未來的庇護申請和相關事務都能有更明確、更一致的處理依據。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南非政府為什麼需要向法院尋求幫助？",
+      "生活與未來：你覺得法院針對「庇護」規定給出明確指引後，會對申請庇護的人帶來什麼影響？",
+      "獨立思考提案：針對國家處理庇護申請的過程，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa Seeks Court's Clarity on Asylum Ruling",
+    "enContent": {
+      "basic": "South Africa has asked its highest court for help. They want to understand some rules better. These rules are about people who ask for 'asylum.' Asylum means asking another country to keep you safe when your home country is dangerous. The court will now look at the old rules and say what they mean clearly. This helps everyone follow the same rules.",
+      "intermediate": "South Africa has approached its highest court for clarification regarding existing asylum rulings. The government seeks judicial guidance to ensure a consistent and proper interpretation of the laws governing individuals seeking refuge within its borders. This move suggests a need to resolve ambiguities or differing applications of current regulations. The court's role will be to provide a definitive understanding, which will guide future asylum processes and decisions, ensuring fairness and uniformity across the system.",
+      "advanced": "The Republic of South Africa has formally petitioned its apex judicial body for interpretive guidance concerning prevailing asylum adjudications. This strategic legal recourse is indicative of a governmental imperative to harmonize the application and understanding of complex immigration statutes pertaining to refugee status. The initiative underscores a commitment to legal consistency and procedural rectitude, particularly in light of potential discrepancies or divergent interpretations encountered in the practical implementation of asylum policies. The High Court's impending directive is anticipated to establish a singular, authoritative framework for future asylum claims, thereby enhancing jurisdictional clarity and administrative efficiency in this critical area of international law and human rights."
+    },
+    "vocabulary": [
+      {
+        "word": "asylum",
+        "zh": "庇護：這個字指的是一個人因為在自己的國家遇到危險，例如戰爭、迫害或暴力，而向另一個比較安全的國家請求保護和居住的權利。就像是尋求一個安全的避風港。"
+      },
+      {
+        "word": "ruling",
+        "zh": "裁決：指的是法院或權威機構對一個案件或問題做出的最終決定或判斷。就像是裁判在比賽中做出的判決，大家都必須遵守。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-13",
+    "sourceName": "APAnews - Agence de Presse Africaine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lNzFpOXpkT2lXSk9SRXBjb3NEWDlQTnpveFVwSkxRSl9QczRROXdudVlxYmE2bFNtMGdCeG9lRjJrT1hpT0tOdGRKY2dmZ2NmVVRkVGUyVmlOMGI2ZklSQmlaMy01RUZfZUtwazRJS1pKWXpkbEkwVlFWWQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "利雅德機場又被打了？沙烏地阿拉伯兩天內遭攻擊兩次！",
+    "zhSummary": "沙烏地阿拉伯首都利雅德的國際機場，在短短兩天內遭到葉門叛軍「青年運動」的飛彈或無人機襲擊，這讓地區的緊張情勢再度升高。",
+    "zhContent": "<p>沙烏地阿拉伯的首都利雅德，最近成了新聞焦點。這裡的國際機場，在短短兩天內連續遭受了兩次襲擊。根據英國廣播公司（BBC）的報導，這些攻擊被指來自葉門的「青年運動」（Houthi）叛軍。這突如其來的狀況，讓大家對於這個中東區域的衝突又多了一層關注與緊張。</p><p>就在第一次襲擊發生還不到48小時，利雅德的阿布都拉國王國際機場（King Khalid International Airport）又再次遭到攻擊。沙烏地阿拉伯官方隨即發布消息表示，他們的防空系統成功地攔截並摧毀了來襲的飛彈或無人機。雖然這次攻擊的目標顯然是機場區域，但由於防禦系統的有效運作，目前並未傳出機場設施有嚴重損毀或是人員傷亡的消息。</p><p>這些頻繁的襲擊不是沒有原因的。「青年運動」是一群來自葉門的武裝團體，他們和沙烏地阿拉伯以及其他盟友的部隊已經打了好幾年的仗。這場長期的衝突被稱為葉門內戰，沙烏地阿拉伯支持葉門政府軍，而青年運動則控制著葉門大部分地區。他們常常用飛彈或無人機攻擊沙烏地阿拉伯的機場、石油設施，甚至是邊境城市，試圖向沙烏地施壓，這是他們常用的戰術之一。</p><p>面對這些持續的攻擊，沙烏地阿拉伯官方對於國家安全保持高度警惕，並強調他們有能力保護領土與民眾的安全。雖然這次機場襲擊沒有造成實質的人員傷亡，機場的運作也沒有受到嚴重影響，但這兩天內連續發生的攻擊，仍然讓地區的緊張情勢升高。這次事件也顯示，這個區域的和平之路依然充滿挑戰，衝突尚未真正結束。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Riyadh Airport Attacked Twice by Houthis in Two Days",
+    "enContent": {
+      "basic": "Saudi Arabia's capital city, Riyadh, and its international airport, King Khalid International Airport, have been attacked twice in just two days. The attacks were reportedly carried out by the Houthi rebels from Yemen. Saudi officials said their defense systems successfully stopped the attacks, and there were no serious damages or injuries. These attacks show that the conflict in the region is still ongoing.",
+      "intermediate": "In a span of less than 48 hours, Riyadh's King Khalid International Airport experienced two separate assaults, attributed to Yemen's Houthi rebels. Saudi authorities confirmed the successful interception of the incoming missiles or drones by their air defense systems, preventing major damage or casualties. These repeated strikes highlight the persistent tension in the region, where the Houthi group has been engaged in a long-standing conflict with Saudi Arabia and its allies, frequently targeting Saudi infrastructure as a tactic.",
+      "advanced": "The Kingdom of Saudi Arabia's capital, Riyadh, notably its King Khalid International Airport, has recently been the target of two consecutive Houthi rebel attacks within a two-day period. Official statements from Saudi Arabia indicate that their sophisticated air defense systems effectively neutralized the incoming projectiles, believed to be either missiles or drones, thereby averting significant infrastructure damage or human casualties. These escalated hostilities underscore the enduring and complex geopolitical conflict in the Arabian Peninsula, where the Houthi movement continues its campaign of strategic strikes against Saudi assets in retaliation for its involvement in the Yemeni civil war."
+    },
+    "vocabulary": [
+      {
+        "word": "Houthi",
+        "zh": "青年運動 (胡塞武裝) – 葉門的一個武裝團體，經常跟沙烏地阿拉伯等國家發生衝突。他們控制著葉門的部分地區。"
+      },
+      {
+        "word": "Strike",
+        "zh": "襲擊 – 指用武力攻擊某個地方或目標，例如用飛彈或無人機去打擊。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-13",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Si1vSmZEUFp6Z1luY3QtNXZFOVZTeERMT1gyb0NvYW9WcG00V1M1WHNBdmFtOGZiWndLaDFpMkc2RnlPLXpZX0kwNG9aU3F5OEtTalpiYms4c3A5S2c?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓埃及關係大升級！從普通朋友變「戰略夥伴」",
+    "zhSummary": "南韓與埃及兩國最近決定，要將彼此的關係從一般的夥伴，直接提升到「戰略夥伴關係」。這代表未來雙方會在更多重要的領域，展開更緊密、更全面的合作。",
+    "zhContent": "<p>南韓和埃及最近決定，要把他們兩國的關係再往上提升一個檔次，從普通的朋友變成「戰略夥伴」。這個重要的消息，是根據路透社的報導，由南韓的官員李（Lee）所證實的。這表示未來南韓和埃及將會在許多更關鍵的領域，一起努力合作，讓彼此的關係變得更緊密、更全面。</p><p>通常，當兩個國家決定成為戰略夥伴時，代表他們的高層會更頻繁地見面，討論更多重要議題。這可能包括了經濟貿易、先進科技的交流、國防安全，甚至是在文化和教育方面的合作。這次關係的升級，就是雙方經過深思熟慮後，決定要建立起一個更穩固、更長期的合作框架。</p><p>為什麼南韓和埃及要這樣做呢？對南韓來說，埃及是中東和非洲地區一個非常重要的國家，有很多發展的潛力。跟埃及合作，可以幫助南韓開拓新的市場，也能增加它在國際事務上的影響力。而埃及則看中南韓在科技、工業和基礎建設方面的先進經驗，希望透過合作，學習南韓的發展模式，帶動自己國家的經濟成長。</p><p>總結來說，南韓和埃及的關係已經正式邁入了一個新紀元。這個「戰略夥伴關係」的建立，預計將會引導兩國在未來展開更多具體的合作計畫，像是共同投資一些大型專案、進行技術轉移，或是針對一些國際議題協調彼此的立場。這是一個公開的結果，也為兩國未來的發展方向，畫下了明確的藍圖。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Korea and Egypt Elevate Ties to Strategic Partnership",
+    "enContent": {
+      "basic": "South Korea and Egypt have decided to become closer friends. They are now \"strategic partners.\" This means they will work together on many important things, like business and new technology. A South Korean leader named Lee said this.",
+      "intermediate": "South Korea and Egypt have announced that they are upgrading their bilateral relationship to a strategic partnership. This significant move was reported by Reuters, with a South Korean official, Lee, making the statement. This new level of cooperation is expected to deepen collaboration across various sectors, including economic, defense, and technological areas.",
+      "advanced": "South Korea and Egypt have officially elevated their diplomatic ties to a strategic partnership, as confirmed by a South Korean official identified as Lee, according to Reuters. This upgrade signifies a more comprehensive and deepened level of cooperation between the two nations, spanning critical areas such as trade, investment, defense, and advanced technology. The mutual benefits of this enhanced relationship are anticipated to include increased regional influence and economic growth for both parties."
+    },
+    "vocabulary": [
+      {
+        "word": "strategic",
+        "zh": "戰略的：這個字通常指「很重要的計畫或方法」。就像玩遊戲時，你要想一個好的「戰略」才能贏。在國家之間，戰略夥伴就是指他們會一起規劃很多重要的事情，讓彼此都更好。"
+      },
+      {
+        "word": "partnership",
+        "zh": "夥伴關係：就像你和你的好朋友一起完成作業，你們就是「夥伴」。國家之間的夥伴關係，就是指兩個國家決定要一起合作，做一些對雙方都有好處的事情。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-13",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWwxZGRkZjFzUFc5RjdZTHk2MFplRkkzWVFKQWpmRTRQQkFyZmM4dXJGeF91bUxLR1praTZuQWgyT3BrTWxKcTBUS28zeVFEV21EUFJQLWZCMFQ3MFJMOGd4dkM2VWJuNmk2OTFXSEQ3TFZTRGtDMHYtQjFDM3pfd1R6dGJvNWZfM3NCeDduLW5zS2pSM0JSd3Z6RVF2eUZPTllyWDN2RDFoNEJfOFdLNmVKRkpZNWJr?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "總裁點評：新加坡「無聊」反成全球熱門避風港？",
+    "zhSummary": "東南亞最大銀行DBS的總裁最近表示，在目前全球經濟不穩定的情況下，新加坡的「無聊」反而成為一種優勢，吸引了許多尋求穩定的企業和投資者，讓新加坡變成了一個安全的避風港。",
+    "zhContent": "<p>你曾想過「無聊」其實是一種超能力嗎？最近，東南亞最大銀行DBS的總裁Piyush Gupta在接受外國媒體CNBC採訪時，就丟出了一個有趣的想法。他說，雖然新加坡可能看起來「無聊」，但在這個全球局勢混亂、充滿變數的時代，這種「無聊」反而是個大優點。他認為，新加坡的穩定性，讓它在世界動盪中脫穎而出，成為了大家口中的「避風港」。</p><p>Piyush Gupta總裁會這樣說，是因為現在很多國家都面臨經濟挑戰，像是通貨膨脹飆高、利率不斷上升，甚至有些地方還出現了地緣政治的緊張。在這樣的大環境下，企業和投資者都非常渴望找到一個安全、穩定的地方來發展。而新加坡，憑藉著它相對平靜的政治環境和穩健的經濟表現，成功地吸引了這些目光。</p><p>他解釋說，當世界各地都像坐雲霄飛車一樣時，新加坡那種「波瀾不驚」的特質，就顯得特別珍貴。簡單來說，就是這裡的政策穩定、市場預期明確，不會有太多突如其來的變化，讓大家可以比較安心地在這裡做生意或投資。這種「可預測性」和「可靠性」，正是許多國際企業和富裕家庭現在最看重的。</p><p>所以，DBS總裁的這番話，其實是在告訴全世界，如果你正在尋找一個能夠躲避風暴、安心發展的地方，新加坡或許就是你的最佳選擇。他透過這個方式，積極地向全球展示新加坡的獨特魅力，試圖吸引更多資金和人才來到這個看似「無聊」卻充滿機會的城市，鞏固它在國際上的地位。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，DBS總裁提到的「全球動盪」可能包含了哪些事情？他認為新加坡「無聊」的特質，具體來說指的是什麼？",
+      "生活與未來：你覺得這種「無聊但穩定」的城市，會對青少年未來的學習或就業選擇產生什麼實際影響？",
+      "獨立思考提案：針對新加坡這種「穩定吸引力」，你覺得其他城市要怎麼做，才能也打造出自己的獨特優勢呢？"
+    ],
+    "enTitle": "CEO Pitches Singapore as a 'Boring But Safe' Haven Amid Global Turmoil",
+    "enContent": {
+      "basic": "The CEO of DBS, a big bank in Southeast Asia, said that Singapore's 'boring' nature is actually a good thing. He believes that because the world is unstable right now, Singapore's calm and steady environment makes it a safe place for businesses and people to invest their money. He is trying to tell the world that Singapore is a good place to be when other places have problems.",
+      "intermediate": "Piyush Gupta, the CEO of DBS Bank, which is the largest bank in Southeast Asia, recently shared his views on Singapore's role in the current global climate. He highlighted that while Singapore might be perceived as 'boring,' its stability is a significant advantage amidst worldwide economic and political uncertainty. He emphasized that this steady environment makes Singapore an attractive 'haven' for companies and investors seeking security and predictability.",
+      "advanced": "In a recent interview with CNBC, Piyush Gupta, the CEO of DBS Bank, articulated a compelling narrative for Singapore as a refuge amidst pervasive global turmoil. He contended that Singapore's perceived 'boring' characteristics, particularly its political stability and economic predictability, serve as invaluable assets in an era marked by heightened inflation, rising interest rates, and geopolitical tensions. This strategic positioning aims to draw international capital and talent seeking a secure and consistent operational environment, thereby reinforcing Singapore's appeal as a premier financial hub."
+    },
+    "vocabulary": [
+      {
+        "word": "Turmoil",
+        "zh": "動盪不安、混亂。當一個地方或情況很不穩定，讓人感到不安或不知所措時，我們就可以用這個字來形容。"
+      },
+      {
+        "word": "Haven",
+        "zh": "避風港、安全的地方。想像一下，外面風雨交加，但你找到了一個安全又舒服的地方可以躲避，那個地方就是你的避風港。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-13",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFg4cmxxc25YUDFTLTQ4clhQSVlSS0RHZ1Z1Z2psTWdzMG5ndFhQU01wc2RGWUhmYldWMWdGWm56eXZ4RnR3NXA3eDgzOWhwcGU2TklkNmVRYS03OGNtSE8zS2psek84WjIzQndDamR2bWdkZWhhbXo1R0FqNkMxYtIBhgFBVV95cUxQbDk1enUtSzBhajB6alhmMll0QXNoNFY5TC1XOEgxRUNSWEptVlJtWnpRWlBybTZxTE9MUF9ZVGkzbU5NN1RZTlRuVG1fU1pBS0t6aFBvV3c4MFNEVHZzQXFMTGZYVDcwR201MXBpVDFlbmZHNnVwVG82TTdGN19QVklKTXUxZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋島國振奮！2026橄欖球聯盟世界盃陣容與賽程大公開！",
+    "zhSummary": "RNZ宣布，2026年橄欖球聯盟世界盃中，所有太平洋島嶼國家的參賽隊伍陣容和詳細賽程已經正式公布，讓全球球迷和選手都興奮不已。",
+    "zhContent": "<p>「2026年橄欖球聯盟世界盃」即將到來，全球各地的橄欖球迷都期待著這場體育盛事。最近，太平洋島國的球迷們收到超級令人振奮的消息！主辦單位RNZ宣布，這場大賽中所有太平洋島嶼隊伍的參賽陣容和賽程安排已經敲定並公開。對於這些熱愛橄欖球的國家來說，這無疑是一個重要的里程碑，也代表著他們通往世界舞台的道路越來越清晰。</p><p>這次公布的詳細內容，包含了哪些太平洋島嶼國家將會派出隊伍，以及他們在世界盃中的具體比賽日期和對手。雖然報導中沒有逐一列出所有隊伍的名字，但我們知道像是斐濟、薩摩亞、東加和巴布亞紐幾內亞等傳統強隊，通常都是這項賽事的常客。他們的隊伍陣容，也就是大家說的「國家隊名單」，以及每場比賽的「賽程表」都已經準備就緒，讓選手們可以開始為大賽做更精準的訓練和準備。</p><p>對太平洋島國的人民來說，橄欖球聯盟不只是一種運動，它更是文化和身份認同中不可或缺的一部分。許多孩子從很小的時候就開始接觸這項運動，並且把成為國家隊選手視為最高的榮譽。因此，2026年世界盃的參賽資格和賽程安排，對於這些國家意義重大。這不僅是展現體育實力的機會，也是團結整個國家、凝聚社區精神的重要平台。每個太平洋島國的球迷，都將為他們的英雄們加油打氣。</p><p>隨著這些關鍵資訊的公布，2026年橄欖球聯盟世界盃的氣氛也越來越熱烈。太平洋島國的選手們現在可以更清楚地知道他們的目標和挑戰，而球迷們則能開始規劃如何支持自己的國家隊。這項賽事的籌備工作持續進行，我們將會持續關注這些充滿力量的太平洋隊伍，期待他們在世界盃賽場上帶來精彩的表現。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "2026 Rugby League World Cup: Pacific Island Squads and Fixtures Announced",
+    "enContent": {
+      "basic": "RNZ announced the release of all Pacific Island squads and fixtures for the 2026 Rugby League World Cup. This is big news for the Pacific nations and their fans.",
+      "intermediate": "The specific teams from Pacific Island nations and their game schedules for the 2026 Rugby League World Cup have been finalized and revealed by RNZ. This marks a crucial step for countries like Fiji, Samoa, and Tonga as they prepare for the global tournament.",
+      "advanced": "Excitement builds for the 2026 Rugby League World Cup following RNZ's official announcement of all Pacific Island national squads and their detailed match fixtures. This release provides vital information for teams and supporters, highlighting the significant cultural role rugby league plays in these island nations."
+    },
+    "vocabulary": [
+      {
+        "word": "Rugby League",
+        "zh": "橄欖球聯盟：一種在世界各地，特別是太平洋島國非常受歡迎的團隊運動。兩隊各有13名隊員，目標是將橢圓形的球帶到對方的達陣區得分，或是把球踢過球門柱。"
+      },
+      {
+        "word": "Squads",
+        "zh": "陣容：指的是一支運動隊伍裡的所有成員，特別是那些被選中參加某項比賽或錦標賽的選手名單。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-13",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTdSNXQ2ZXNGMkkzVFpqekpNbG41Nk5xdGpLVVlCa0hpcGxteFhfaGlvUlRldFVpQVdhZS1wOXoyaDREcmJoWm93dDQwbjJOeUp0aXhhVHVjMC1uTS1uejhXZFF0OXZJNWNUVTVoZ2JBWUtMWnJjV1paVTczcV95OEhLb29TR1lSbVNudGEtd29PRGkwUE5wdU42WlpVWm5hSnZNMzRSNm1rUVFhb2c?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "諾貝爾化學大發現：藥物製造的魔術師，破解分子鏡像之謎！",
     "zhSummary": "諾貝爾化學獎得主們最近解決了一個長期困擾科學家的「分子鏡像難題」，這項突破將大幅改進藥物製造，讓未來能生產出更有效、更安全的藥品。",
     "zhContent": "<p>最近在化學界，有個超級厲害的消息！一群獲得諾貝爾化學獎的科學家們，成功解決了一個困擾大家很久的「分子鏡像難題」。這個了不起的大突破，預計會為我們未來的藥物製造帶來非常大的進步！</p><p>你可能聽不懂「分子鏡像」是什麼？想像一下你的左手和右手，它們看起來是不是很像？但其實它們是互相的鏡像，你沒辦法把左手和右手完全疊合在一起。化學分子也有類似的情況，它們常常會有「左手」和「右手」兩種鏡像形態。麻煩的是，在藥物裡面，一種形態的分子可能可以治病，另一種卻可能完全沒用，甚至會有害。</p><p>以前，科學家在製作藥物時，常常會不小心同時做出這兩種「鏡像分子」。要怎麼才能精準地只做出我們需要的那一種分子，一直以來都是個非常困難的挑戰。而這些諾貝爾獎得主們，就是發明了一種很聰明的新方法，簡單來說，他們找到了一種很特別的「化學小幫手」，它能精準地引導分子，只生成我們需要的那個「手性」的分子，就像只製造左手或右手一樣。</p><p>這個創新技術非常重要，因為它讓藥物的製造變得更有效率、更環保，而且也更安全。未來，醫生們將有更多機會，製造出更精準、副作用更少的藥物來治療各種疾病。這可是一件能大大改善我們生活品質的大事喔！</p>",
@@ -10567,286 +11022,6 @@
     "date": "2026-09-13",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3E3ZUZ5M0VSeDN2ZGlBOG4yU1k1bXE3dENrdTBJOFFCaXlqTXhpSW9DMFJnbjVUenJWZTFIci0yWV85cmY1OWZLRFJHX25QTHliVVlrMVNnSGV2amE1Yy1QWV9jdkNUeXVNR0FDVVkyLWN5U2UzcDZsbTJrYnpwUnY0Y05SNk5QU3Z5dkl3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "全球午間快報：美伊戰火再起，大峽谷遭暴洪猛襲！",
-    "zhSummary": "美軍再次突襲轟炸伊朗火箭發射器，兩國關係持續緊張。與此同時，美國大峽谷遭遇暴洪，造成逾20人失聯。",
-    "zhContent": "<p>美軍與伊朗之間，在本月又再次出現了緊張情勢。根據中央社的全球午間快報報導，美軍發動了一場突襲行動，針對伊朗境內的火箭發射器進行轟炸。這已經是兩國相隔僅一個月後，再次傳出交火事件，讓中東地區的局勢持續緊繃。</p><p>這次美軍的軍事行動，據稱是為了回應此前伊朗方面或其代理人對美軍目標的襲擊。美方表示，此舉是為了保護該區域的美軍人員和設施，並傳達一個明確的訊息。而伊朗方面對此則表達強烈不滿，譴責美軍的行為是對其主權的侵犯。雙方雖然沒有演變成全面戰爭，但這種不斷升級的軍事衝突，無疑讓全球都繃緊了神經。</p><p>同一時間，遠在美國的著名自然地標——大峽谷，也遭遇了嚴重的自然災害。據報導，該區域近日受到猛烈的暴雨侵襲，引發了突如其來的暴洪。暴洪是指山區或河谷地區因為短時間內大量降雨，導致水位在極短時間內快速上漲，形成奔騰洪水的現象。這次的暴洪來得又急又快，沖毀了部分設施和道路。</p><p>這場突如其來的暴洪，讓在大峽谷附近活動的遊客和工作人員措手不及。初步消息指出，有多達20多人疑似因此失聯，情況令人擔憂。當地緊急應變部門已經動員了大量人力和資源，在大峽谷範圍內展開大規模的搜救行動。目前搜救行動仍在持續進行中，希望能盡快找到這些失聯的民眾。確切的失聯與傷亡人數，還在持續確認當中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，美軍對伊朗的突襲行動，以及大峽谷的暴洪事件，它們的起因分別是什麼？",
-      "生活與未來：你覺得像這樣的軍事衝突和自然災害，可能會對當地居民的生活造成哪些實際影響？",
-      "獨立思考提案：針對大峽谷暴洪導致失聯的情況，你覺得除了事後搜救，還可以怎麼做來提前預防或減少災害影響呢？"
-    ],
-    "enTitle": "Global Midday Express: US-Iran Conflict Flares Up Again, Grand Canyon Hit by Flash Flood!",
-    "enContent": {
-      "basic": "Tensions between the US military and Iran have risen again this month. According to CNA, the US launched a surprise attack, bombing rocket launchers in Iran. This is the second clash in just one month, keeping the Middle East on edge. Meanwhile, a famous US natural spot, the Grand Canyon, faced a severe natural disaster. Heavy rain caused a sudden flash flood. More than 20 people are feared missing. Rescue teams are now searching for them.",
-      "intermediate": "The US and Iran are seeing renewed tensions this month. As reported by CNA's global midday express, the US military carried out a strike, bombing rocket launchers within Iran. This marks the second exchange of fire in just a month, maintaining high alert in the Middle East. Simultaneously, America's iconic Grand Canyon experienced a serious natural disaster. Recent heavy rainfall triggered sudden flash floods, a phenomenon where water levels rise rapidly due to intense rain. This swift flood led to over 20 people being potentially unaccounted for, prompting large-scale search and rescue efforts.",
-      "advanced": "Tensions between the United States military and Iran have escalated once again this month. As reported by the Central News Agency's global midday express, the US launched a precision strike, targeting Iranian rocket launchers. This incident marks the second direct confrontation within a single month, contributing to persistent regional instability in the Middle East. Concurrently, the renowned Grand Canyon in the United States encountered a significant natural disaster. The area recently experienced torrential rainfall, triggering sudden flash floods—a rapid surge in water levels in rivers or valleys due to intense, short-duration precipitation. This swift and powerful flood has reportedly left over 20 individuals missing, necessitating extensive search and rescue operations by local emergency response teams."
-    },
-    "vocabulary": [
-      {
-        "word": "Raid",
-        "zh": "突襲：指軍隊或特種部隊突然、迅速地攻擊敵人，通常目的是破壞敵人的設施或抓捕重要人物，讓敵人措手不及。"
-      },
-      {
-        "word": "Flash Flood",
-        "zh": "暴洪：指在短時間內，因為大量降雨或冰雪融化，使得河川、溪流的水位突然暴漲，形成急速而具破壞力的洪水。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-09-12",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY0tORWRkaFhVNDU1V1M5MVVSbDVBSk9XeVU4VklwWDJVS3Z6WFctYzdTU3BHbXp3d0ExejBxOHVkWmU4aHNvXzhRWlE1Yy1GT1EyOVh3Z2xDa28?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "智利安養院大火 16名長者不幸罹難",
-    "zhSummary": "智利一間安養院發生嚴重火災，造成16位住在裡面的長者喪生。目前當地政府已展開調查，希望能找出火災發生的原因。",
-    "zhContent": "<p>智利發生了一件令人難過的事情。在當地一間專門照顧長者的安養院裡，不幸發生了一場猛烈的大火。這場火災導致了十六位住在那裡的長輩因此喪生。這個消息由英國廣播公司（BBC）報導出來，震驚了許多人，也讓大家對這些逝去的生命感到非常惋惜。</p><p>根據報導，這場火災發生在智利某處的安養院，火勢非常猛烈，蔓延得很快。當地的消防隊和緊急救援人員接獲報案後，立刻趕到現場進行搶救。他們努力撲滅火焰，並試圖救出受困在建築物裡的長者們。但由於火勢過大，加上安養院的特殊環境，情況十分危急，救援工作面臨了巨大的挑戰。</p><p>由於安養院住的大多是年紀較大、行動可能不太方便的長輩，他們在遇到緊急情況時，逃生的速度會比較慢，這使得火災的救援變得更加困難。目前，智利當局已經開始對這場火災的起因進行調查。他們希望能找出火災發生的確切原因，並釐清是否有人為疏失或其他因素導致這場悲劇的發生。</p><p>這次事件造成了十六名長者的寶貴生命逝去，對他們的家人來說是巨大的打擊。當地政府表示將會盡力協助受影響的家庭，並對火災中受傷的人提供醫療照護。同時，相關單位也承諾會檢討安養院的安全標準和緊急應變措施，希望能避免未來再次發生類似的憾事。火災的詳細調查仍在進行中，後續將會公布更完整的報告。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，你覺得安養院的「特殊環境」指的是什麼？",
-      "生活與未來：你覺得安養院的安全標準和緊急應變措施，還可以從哪些方面做改進？",
-      "獨立思考提案：如果類似的意外發生在你身邊，你覺得哪些人會受到影響？他們可能會有什麼感受？"
-    ],
-    "enTitle": "Tragic Fire at Chilean Nursing Home Claims 16 Lives",
-    "enContent": {
-      "basic": "A sad event happened in Chile. A big fire broke out at a nursing home, a place where older people live. Sixteen elderly residents died because of the fire. The BBC reported this news. Firefighters worked hard to put out the fire and save people. The government is now looking into why the fire started to make sure similar things don't happen again. It was a very sad day for many families.",
-      "intermediate": "A devastating fire occurred at a nursing home in Chile, resulting in the tragic deaths of sixteen elderly residents. The BBC reported on this incident, highlighting the severity of the blaze. Emergency services, including firefighters, rushed to the scene to combat the flames and rescue those trapped inside. Given that nursing homes house many elderly and less mobile individuals, evacuation efforts were particularly challenging. Chilean authorities have launched an investigation to determine the exact cause of the fire and assess any potential lapses in safety. This event has caused immense grief for the victims' families, and the government has pledged support while reviewing safety protocols for such facilities.",
-      "advanced": "A profound tragedy unfolded in Chile as a fierce fire engulfed a nursing home, leading to the untimely demise of sixteen elderly residents. As reported by the BBC, the blaze presented significant challenges for local fire brigades and emergency responders who valiantly fought to control the inferno and extract individuals from the compromised structure. The inherent vulnerabilities of nursing home populations, often comprising individuals with limited mobility, compounded the difficulties of a swift evacuation. Chilean authorities have since initiated a comprehensive investigation to ascertain the precise origins of the fire and evaluate compliance with safety regulations. This heart-wrenching incident has left a deep impact on the victims' families, with the government committing to provide assistance and conduct a thorough review of safety standards to prevent future occurrences."
-    },
-    "vocabulary": [
-      {
-        "word": "nursing home",
-        "zh": "安養院 (ān yǎng yuàn) - 一個專門照顧年長者的地方，提供他們居住、飲食和醫療協助，讓他們可以安心度過晚年。"
-      },
-      {
-        "word": "resident",
-        "zh": "住戶 (zhù hù) - 指住在某個地方的人，可以是公寓的住戶、學校宿舍的住戶，或是像新聞中安養院裡的住戶。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-09-12",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzVVVkLVZ6VU9wSXZtS1Y4cE5ZWVpfX0lxdUdoREMyY1JyaEZMdG12ZXc2WkFQWC1wUWo1MFZyd1VPZXhVVXBnMzBMM2RCZVJieXFWa2VVZUV0UQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普驚人發言：統一的愛爾蘭會是「太棒了」？",
-    "zhSummary": "前美國總統川普在訪問愛爾蘭期間，公開表示他認為「統一的愛爾蘭」會是一件「很棒」的事，引起了當地和國際媒體的廣泛關注。這番話觸及了愛爾蘭島上歷史悠久且敏感的分裂與統一議題。",
-    "zhContent": "<p>嗨，各位少年偵探！今天我們要聊一個前美國總統川普在愛爾蘭訪問時，說出的一段讓很多人都感到驚訝的話題。川普先生在那趟行程中提到，他覺得「統一的愛爾蘭」會是一件「很棒」的事。聽到「統一的愛爾蘭」，你可能有點疑惑吧？簡單來說，現在的愛爾蘭島上其實有兩個部分，一個是獨立的「愛爾蘭共和國」，另一個是屬於英國的「北愛爾蘭」。所以，「統一的愛爾蘭」指的就是北愛爾蘭和愛爾蘭共和國合而為一，變成一個國家。川普的這個說法，自然引起了不少關注。</p><p>這件事發生在川普訪問愛爾蘭的時候。他當時主要是去探望他在當地經營的私人高爾夫球場，並且也跟愛爾蘭的總理瓦拉德卡會面。在一次跟媒體見面的場合中，當被問到關於愛爾蘭統一的問題時，他沒有迴避，而是直接表達了他的個人看法。要知道，愛爾蘭的分裂與統一，是當地歷史上一個非常敏感且複雜的議題，許多人為此奮鬥了一輩子，也有過不少衝突和討論。所以，像川普這樣一位國際級的重要人物，公開談論這個話題，意義很不一樣。</p><p>為什麼他會這樣說呢？雖然川普已經不是在任總統，但他的言論仍然在全球有很大的影響力。他的這番話，可以被看作是他個人的想法，他自己說這會是「很棒的」。這個話題之所以再次浮上檯面，也跟英國脫歐後，愛爾蘭島上的邊境問題變得更複雜有關。許多人開始重新思考北愛爾蘭的未來走向，以及它與愛爾蘭共和國的關係。川普的說法，等於是在這個敏感的時刻，為這個歷史悠久的爭議，又添上了一筆新的討論。</p><p>總之，川普在愛爾蘭的這趟行程中，他的高爾夫度假村之旅，加上這番關於「統一的愛爾蘭」的評論，成為了當時新聞媒體的焦點。他的說法明確表達了個人支持統一的立場，但這是一個涉及歷史、政治和民意的複雜議題，並非單一言論就能決定。這次的發言，只是眾多關於愛爾蘭未來討論中的其中一個聲音，也讓大家再次關注到這個長期存在的問題。新聞就報導到這裡，關於這件事，還有更多值得我們去觀察和了解的空間。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，川普對於「統一的愛爾蘭」的發言，是基於什麼樣的背景和場合說出的？",
-      "生活與未來：你覺得如果北愛爾蘭真的與愛爾蘭共和國統一，對於愛爾蘭島上的居民，在文化、經濟或生活方式上可能會造成什麼實際影響？",
-      "獨立思考提案：針對愛爾蘭這樣一個歷史上存在分裂問題的地區，你認為在推動統一或維持現狀時，有哪些不同的考量點是重要的？"
-    ],
-    "enTitle": "Trump's Surprising Statement: A Unified Ireland Would Be 'Fantastic'?",
-    "enContent": {
-      "basic": "Former US President Donald Trump visited Ireland. During his trip, he said that a \"unified Ireland\" would be \"fantastic.\" This means that Northern Ireland and the Republic of Ireland would become one country. This comment got a lot of attention because the division of Ireland is a very old and sensitive topic. Trump's words made people think about this issue again, especially after Brexit made border questions complicated. He said it was his personal opinion, not an official policy. His statement added to the ongoing discussions about Ireland's future.",
-      "intermediate": "During a visit to Ireland, former US President Donald Trump made a notable comment, stating that he believes a \"unified Ireland\" would be \"fantastic.\" A unified Ireland refers to the idea of Northern Ireland, currently part of the United Kingdom, joining the independent Republic of Ireland. This remark garnered significant media attention due to the historical and political sensitivities surrounding the division of the island. Trump's statement, made during a trip that included a visit to his golf resort and a meeting with Taoiseach Leo Varadkar, was presented as his personal viewpoint. The context of Brexit and its impact on the Irish border has brought the discussion of Ireland's future status back into public discourse, making Trump's intervention all the more significant.",
-      "advanced": "Former US President Donald Trump's recent visit to Ireland, primarily for a personal engagement at his golf resort and a meeting with Taoiseach Leo Varadkar, took a notable turn when he publicly declared that a \"unified Ireland\" would be \"fantastic.\" This assertion reignited discussions surrounding one of the most historically complex and politically sensitive issues in the region: the potential amalgamation of Northern Ireland, a constituent part of the United Kingdom, with the independent Republic of Ireland. Trump's comments, presented as a personal opinion rather than a formal policy position, are particularly salient given the current geopolitical landscape, specifically the ongoing ramifications of Brexit on the Irish border and the renewed focus on Northern Ireland's constitutional future. While not an official endorsement, his statement from a figure of global stature nonetheless injected a high-profile voice into an enduring debate, prompting further scrutiny of the various historical, social, and economic considerations inherent in any potential unification."
-    },
-    "vocabulary": [
-      {
-        "word": "unified",
-        "zh": "統一 (tǒngyī) - 指的是把原來分開、不同的東西，變成一個整體。就像拼圖把碎片拼在一起，或兩個地方變成一個國家。"
-      },
-      {
-        "word": "Taoiseach",
-        "zh": "總理 (zǒnglǐ) - 這是愛爾蘭共和國政府首腦的特別稱呼，類似其他國家的總理或首相，是負責領導國家行政事務的人。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-09-12",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWW43MElKSjVneUtCWnZzcWZuWlRxN3o2U2gwZmM0WFBENGZCT2o0eE9icmV1NHVvbFhacWtmY1lvN1h6M3hBelVOVmdvMDN1ejEybHpFd1FhVFA5NmF0ZjZOeXRCdFB1Ym1sd3JZeUtmQVVNNXFqbFYwOFNaQUw1WDA1U0s4TnBOeW40dy0tazJrRU5WRWRMR1BabGZtSGdINEZMeWJEekRPWHfSAbABQVVfeXFMTmlCaUw5bVhsMXRKMzd1QVI1bk1TSjcyOGkwaE5VbXhoWHhodGFjZ19Ua3U3MjVmWUd6dXB5NmNZSEpLVHFoNWZhWWdJVi1ndVVJLTZDWGRhSmp0MExXVUpKZTZrUjhTMEdTT2RDalozV051ZzJsdGNxRjNpQUR6ejIyNTUyRERBZUtacjNtamJDVFc3TGp5S3NIaTJzTUY1VnpKMzJmMm5DTUlZdjZXV3Q?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非的未來藍圖：一位年輕設計師的綠色革命",
-    "zhSummary": "這則新聞介紹了南非一位有遠見的女性設計師，她正透過創新的建築理念和永續發展策略，努力改造社區面貌，為南非的社會和環境挑戰帶來實際的解決方案。",
-    "zhContent": "<p>南非有位名叫蕾拉·恩科西的年輕設計師，她正用她的創意和熱情，為這個國家描繪一個全新的未來。蕾拉不只是一位建築師，更是一位社會實踐家，透過創新的設計理念，努力解決南非面臨的居住和環境挑戰。她的目標很明確：要讓更多人住進有尊嚴、也對地球友善的家園，同時重建社區的連結與活力，讓南非的每個角落都能充滿希望。</p><p>蕾拉的做法很有趣，她不是光蓋房子，而是從整個社區的角度出發。她專注於用在地、可持續的材料，例如再生磚或竹材，來建造實用又美觀的建築。她特別強調「參與式設計」，也就是說，她會讓當地的居民一起討論、規劃他們未來的居住空間，確保設計符合他們真正的需求。例如，在開普敦的一個貧困社區，她帶領團隊設計了一系列模組化、可擴展的綠色住宅，這些房子不僅能源效率高，還附帶小型的菜園，鼓勵居民自給自足。</p><p>南非曾經歷過一段複雜的歷史，造成了嚴重的社會和經濟不平等，許多人至今仍住在簡陋甚至不安全的環境中。蕾拉正是看見了這些問題，才決定投入這個領域。她認為，好的設計不應該只是服務少數人，而應該是改善所有人的生活品質。她相信，透過創新的建築方法和社區協作，不僅能提供實質的居住空間，更能重新點燃社區的希望，讓大家對未來有更好的想像，共同打造一個更包容、更永續的社會。</p><p>至今，蕾拉和她的團隊已經在幾個試點社區成功推動了多個項目。他們所建造的綠色住宅，不僅讓上百個家庭擁有了一個舒適安全的家，也減少了社區對傳統能源的依賴，大幅改善了居民的生活品質。這些案例獲得了廣泛的關注，她的理念也吸引了許多志同道合的年輕人加入。蕾拉的故事證明，一位有遠見的女性，確實能透過她的專業，為一個國家的未來帶來實實在在的改變。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，蕾拉·恩科西改造南非未來的主要方法是什麼？",
-      "生活與未來：你覺得這種「參與式設計」的建築模式，會對居住在裡面的居民造成什麼實際影響？",
-      "獨立思考提案：針對南非這種不平等居住環境的問題，除了蕾拉·恩科西的做法，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The Future Blueprint of South Africa: A Young Designer's Green Revolution",
-    "enContent": {
-      "basic": "Meet Laila Nkosi, a young South African designer. She is using her creativity to build a better future for her country. Laila is an architect, but also a social changemaker. She uses new design ideas to solve housing and environmental problems in South Africa. Her goal is to help more people live in good, earth-friendly homes and make communities stronger. She focuses on using local, sustainable materials like recycled bricks. She also lets local people help design their own homes. For example, she helped build green homes with small gardens in a poor community. This project made hundreds of families happier and helped the environment. Laila shows how one person can make a big difference for a country's future.",
-      "intermediate": "Laila Nkosi, a visionary young designer in South Africa, is actively reshaping the nation's future through innovative and sustainable architectural solutions. Beyond traditional building, she is a social innovator addressing critical housing and environmental challenges. Her mission is clear: to provide dignified, eco-friendly homes for more people while revitalizing community bonds. Laila champions 'participatory design,' involving residents in planning their living spaces. In a Cape Town community, her team developed modular, green residences with high energy efficiency and integrated vegetable gardens, promoting self-sufficiency. These projects have significantly improved living conditions, reducing reliance on conventional energy sources and inspiring others. Laila's work demonstrates how professional vision can drive substantial change for a country's development.",
-      "advanced": "Hailing from South Africa, Laila Nkosi stands as a formidable young designer, actively charting a new course for her nation's future. Her role transcends mere architecture; she is a dedicated social practitioner leveraging innovative design principles to tackle South Africa's pressing housing and environmental predicaments. Nkosi's explicit objective is to facilitate access to dignified, ecologically sound housing and to reignite communal vitality. Her methodology is characterized by a holistic, community-centric approach. She prioritizes the deployment of locally sourced, sustainable materials—such as recycled bricks or bamboo—in crafting both functional and aesthetically pleasing structures. A cornerstone of her work is 'participatory design,' which empowers local residents to co-create their future living environments, thereby ensuring designs genuinely cater to their needs. A notable example includes her leadership in developing modular, expandable green residences within a deprived Cape Town community, which are not only energy-efficient but also incorporate small-scale food gardens, fostering self-sufficiency. Nkosi's initiatives have garnered widespread acclaim, inspiring a new generation of like-minded individuals and unequivocally demonstrating the profound impact a visionary professional can have on a nation's trajectory."
-    },
-    "vocabulary": [
-      {
-        "word": "Sustainable",
-        "zh": "可持續的。意思是某種做法或發展方式，能在滿足我們現在的需要時，也不會損害到未來世代滿足他們需求的能力。"
-      },
-      {
-        "word": "Visionary",
-        "zh": "有遠見的。意思是形容一個人很有眼光，能預見未來可能發生的事，或對未來有著很棒、很獨特的想法和計畫。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-12",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa01kT3Y5TWZWVWM1UF85T1FJZkJoVmZLdVE2RVFxS2VEOXA4aFR2MlV0bTEzLWlBcUJtYVNFM09MR2xRWVhDSk0tNXo5aENMMlBWclh1cGJubGFfMmVySzUyVmhkeDRJYlN6NEVNbUtJREE2OG56b01obHlJOHNEcm1qZ3VsQkRmbmJzXw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "全球大事都在這裡談！普丁飛抵印度，金磚國家高峰會聚焦中東與烏克蘭戰事",
-    "zhSummary": "俄羅斯總統普丁前往印度參加金磚國家高峰會。這次會議的重頭戲是各國領導人將會討論中東地區和烏克蘭的戰事。",
-    "zhContent": "<p>最近，國際間有個大消息！那就是俄羅斯總統普丁飛到了印度，準備參加一場很重要的會議，叫做「金磚國家高峰會」。這個高峰會的名稱聽起來有點特別，但它其實是由幾個快速發展的國家，像是巴西、俄羅斯、印度、中國和南非組成的團隊，他們會定期聚在一起，討論全球的經濟和重要大事。這次會議之所以備受矚目，是因為大家預期，討論的主題將會圍繞在中東地區和烏克蘭的緊張戰事上。</p><p>這場高峰會選在印度舉行，而普丁總統的到來，讓這場會議更加引人關注。想像一下，來自不同國家的領導人齊聚一堂，他們要面對的是目前世界上最棘手的幾個問題。中東地區的衝突，以及烏克蘭發生的戰事，這些事情不僅影響著當地人民的生活，也牽動著全球許多國家的安全和經濟發展。因此，各國領導人都希望能在這次會議上，找到一些解決問題的辦法，或是至少能達成一些共識。</p><p>這種國際高峰會的意義，就像是我們學校裡開的班級會議，只是規模更大、討論的議題更複雜。來自不同國家的總統、總理們，會坐下來好好聊聊，試圖理解彼此的立場，看看有沒有機會能一起合作，找出讓世界更和平、更穩定的方法。雖然會議的內容往往很嚴肅，但這些面對面的交流，對於解決國際紛爭來說，是不可或缺的環節。</p><p>目前，普丁總統已經抵達印度，而這場金磚國家高峰會也正式展開。各國媒體都在密切追蹤會議的進展，想知道這些領導人將如何討論中東和烏克蘭的局勢。這次會議的結果，將會影響未來國際關係的走向，也會讓大家更清楚地看到，各國在這些重大問題上的立場和可能的合作方向。會議的討論仍在進行中，而我們也會持續關注最新的發展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，普丁總統前往印度參加的金磚國家高峰會，主要討論了哪些國際大事件？為什麼這些事件會成為會議的重點？",
-      "生活與未來：你覺得像這樣的國際會議，領導人之間的討論，對我們一般人的生活會產生什麼樣的實際影響？",
-      "獨立思考提案：如果讓你來規劃這次高峰會，除了中東和烏克蘭的戰事，你認為還有哪些全球議題是各國領導人應該優先討論的？為什麼？"
-    ],
-    "enTitle": "Putin Arrives in India for BRICS Summit, Focus on Middle East and Ukraine Conflicts",
-    "enContent": {
-      "basic": "Russian President Putin has arrived in India for an important meeting called the BRICS summit. BRICS is a group of big countries like Brazil, Russia, India, China, and South Africa. They meet to talk about world money and important global issues. This time, they will mostly talk about fights in the Middle East and the war in Ukraine. These are very big problems that affect many people and countries. Leaders hope to find ways to make things better.",
-      "intermediate": "Russian President Vladimir Putin is now in India to attend the BRICS summit. BRICS stands for Brazil, Russia, India, China, and South Africa—a group of major emerging economies that regularly gather to discuss global economic issues and other significant world events. This particular summit is expected to focus heavily on the ongoing conflicts in the Middle East and the war in Ukraine. These are critical global challenges that have far-reaching impacts on international security and economies, prompting leaders to seek solutions or common ground.",
-      "advanced": "Russian President Vladimir Putin has arrived in India for the eagerly anticipated BRICS summit, a gathering of the major emerging economies of Brazil, Russia, India, China, and South Africa. This year's agenda is largely anticipated to be dominated by pressing geopolitical issues, specifically the ongoing conflicts in the Middle East and the protracted war in Ukraine. These complex crises represent significant global challenges, influencing international stability and economic landscapes, and leaders are expected to engage in crucial discussions aimed at seeking resolutions or formulating coordinated responses to their far-reaching implications."
-    },
-    "vocabulary": [
-      {
-        "word": "Summit",
-        "zh": "高峰會：指由各國的總統、總理等最高領導人，為了討論重要事情而聚集在一起的大型會議。就像是學校裡最重要的會議，只有校長和老師們會參加，討論學校的大事。"
-      },
-      {
-        "word": "BRICS",
-        "zh": "金磚國家：這是巴西、俄羅斯、印度、中國和南非這五個國家的英文名稱字首組成的。這些國家都是世界上經濟發展快速的大國，他們組成的這個團體，會一起討論全球經濟和國際上的重要議題。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-12",
-    "sourceName": "France 24",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXVzWGRkRUdoelVwTkRmeXdEcFhqZjhIYktGeU1tNVpyLURLSnBVWFVNQVhUZEJ2V3hqdHV5WDk5WXZPeWE4SEoyNExUVUltbmV0VU9kVjY3TnZtQzNRVWdjSUFaYnhNYVJ5QkZrakpsdVhkYmthckxtWENnUnF2RjlCd3NhV0VIY3hVdUdBOFRKWktwdFJEX0NBQ1JXczNHX0g5Tg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南韓商品全球熱賣！出口成績亮眼，連續15個月成長！",
-    "zhSummary": "南韓在八月的出口表現非常出色，與去年同期相比大幅成長了將近七成，這已經是他們連續第十五個月出口量增加，顯示南韓的產品在全球市場上持續受到歡迎。",
-    "zhContent": "<p>嘿，各位青少年讀者們！大家知道南韓除了K-POP和韓劇很紅，他們的經濟表現也常常讓全球驚訝嗎？最近，根據路透社的報導，南韓在八月份的出口成績單簡直是嚇嚇叫！他們出口到國外的商品總額，跟去年同期相比，竟然大幅增加了快要七成，也就是68.7%！這代表南韓製造的東西在全球各地都超級受歡迎，訂單多到爆棚呢！</p><p>更厲害的是，這可不是南韓偶爾爆發一次而已喔！從統計數據來看，這已經是南韓的出口連續第十五個月呈現成長趨勢了。想像一下，每個月都比去年同一個月賣出更多東西，這股強勁的成長動力真的是不簡單。這代表全球對南韓的各種產品需求一直都很高，而且這個勢頭還持續了一年多，完全沒有停下來的跡象呢。</p><p>這種驚人的出口成長，其實反映出全球經濟活動正在逐漸恢復。當世界各國的工廠開始重新運作，大家也漸漸恢復消費力，對南韓的半導體、汽車、石化產品等主要出口商品的需求自然就會跟著增加。南韓的許多大企業在全球市場上都佔有重要地位，他們的產品只要一有訂單，就能快速反應，滿足市場的需求。這也讓南韓在全球貿易中，扮演著非常重要的角色。</p><p>因此，這次八月的出口大爆發，以及連續十五個月的成長紀錄，都顯示南韓的經濟目前正處於一個非常強勁的擴張期。這對南韓國內的產業發展、就業市場都會帶來正面的影響。對外國來說，這也代表南韓的製造業和高科技產業在全球供應鏈中依舊保有很強的競爭力，持續為全球市場提供高品質的產品。這次的數據，無疑替南韓的經濟前景增添了不少光彩。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Korea's Exports Soar, Marking 15th Straight Month of Growth",
-    "enContent": {
-      "basic": "South Korea's exports in August went up a lot, almost 70% compared to last year. This is the 15th month in a row their exports have grown, showing their products are very popular worldwide.",
-      "intermediate": "South Korea reported a significant 68.7% year-on-year increase in exports for August. This marks the fifteenth consecutive month of export growth, signaling robust global demand for Korean goods and a strong economic recovery.",
-      "advanced": "Reuters reported that South Korea's August exports surged by 68.7% year-on-year, extending its growth streak to an impressive fifteen consecutive months. This data highlights the sustained strength of global demand for South Korean products, particularly in key sectors like semiconductors and automobiles, and underscores the country's robust position in the global supply chain amidst a recovering world economy."
-    },
-    "vocabulary": [
-      {
-        "word": "Export",
-        "zh": "出口 (chū kǒu)：把一個國家自己生產的商品賣到國外去。想像一下，如果你把家裡做的餅乾拿到學校賣給同學，這就是一種小型的「出口」喔！"
-      },
-      {
-        "word": "Consecutive",
-        "zh": "連續 (lián xù)：指一連串的事情一個接一個地發生，中間沒有中斷。就像你連續玩了三小時的遊戲，就是指三個小時一直都在玩，沒有停下來。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-09-12",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejNodnl5c09oR1U5aW13bl9lZHdQQVFweGc3ZnE2bDJ0NzdlSmdoNHFqOG5EcXZmRDZ5aXU1UGJDa3dGbjhpWDhzeU12NFBPbHZJWWttLWtqU2ZFNjNTSXE3UjBNSEpBQ3dKRmtLNGNnS0hVMC1faWFhRFRXOUg3bC1oTzYzOHRfemlnMVB3VlNfdVdQTzVmdjh2TFJ4T1c4RXJjT05raVJKVHN6UmZYX25NclVpWDA?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "「美」到底誰說了算？DW挑戰狹隘審美觀",
-    "zhSummary": "國際媒體DW.com發起一場關於美的討論，挑戰傳統單一審美標準，展示多元外貌，鼓勵大家思考美的真正意義。",
-    "zhContent": "<p>國際媒體DW.com最近推出了一個特別報導系列，直接點出很多人好奇卻很少被公開討論的問題：「到底誰有權利來決定什麼叫做美？」這個報導掀起了一場關於美的意義的討論，挑戰了社會上長期以來對美貌的傳統看法，讓大家重新思考所看到的「美」，是不是真的只有一種標準。</p><p>這系列報導並非要給出唯一的「美」的答案，而是透過訪問世界各地、背景各異的人們，展示多樣化的外貌和身形。他們採訪了不同膚色、體型、年齡，甚至身心狀況特殊的人，讓這些不常在主流媒體出現的真實人物分享他們對美的理解和親身經歷。DW.com透過攝影和文字，呈現許多日常生活中容易被忽略的美，鼓勵讀者觀眾欣賞那些獨特且不被傳統審美框架定義的魅力，打破過去只有特定「完美」臉蛋或身材才算美的單一想像。</p><p>DW.com指出，長期以來，時尚產業、廣告宣傳及主流媒體常共同營造狹隘的「美」的標準，這讓許多不符合這些標準的人感到焦慮、自卑，甚至懷疑自己的價值。他們認為，這種情況限制了人們對美的想像，也可能導致不健康的自我比較。因此，這次特別報導就是要打開這個話題，讓大家有機會質疑那些被社會灌輸的「美」的定義，並鼓勵每個人去擁抱自己的獨特，同時學會欣賞他人的多樣性，理解美不該被單一框架所限制。</p><p>這項特別報導推出後，在社群媒體上引起了廣泛回響，許多讀者和觀眾都熱烈參與討論，分享了自己對於「美」的看法和經驗。DW.com表示，他們希望這次的討論能持續發酵，讓更多人開始主動思考並挑戰那些根深蒂固的審美觀念。不過，他們並沒有給出任何最終的「標準答案」，而是讓這個關於美的定義權問題，留給大家去持續探索和重新定義。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Who Decides What Beauty Means? DW Challenges Narrow Standards",
-    "enContent": {
-      "basic": "DW.com, a global news site, launched a special report asking: \"Who truly decides what beauty means?\" This report questions traditional ideas of beauty by showing many different types of people and their unique views.",
-      "intermediate": "DW.com's new series explores the question, \"Who gets to define beauty?\" The project challenges common beauty standards by showcasing diverse individuals and their unique views on what beauty is, moving beyond typical media portrayals that often highlight narrow definitions.",
-      "advanced": "German international broadcaster DW.com has launched a compelling special report titled \"The Look: Who gets to decide what beauty means?\" This initiative actively interrogates conventional beauty standards perpetuated by media and industries, presenting a multifaceted exploration of beauty through diverse personal narratives and visual representations. The project aims to stimulate a broader public discourse on aesthetic perception, encouraging individuals to embrace their unique qualities and challenge deeply ingrained societal ideals."
-    },
-    "vocabulary": [
-      {
-        "word": "aesthetic",
-        "zh": "審美觀 (shěn měi guān) – 審美觀就是一個人對什麼是「美」的看法和標準。每個人或每個文化對美都有不同的想法。"
-      },
-      {
-        "word": "diverse",
-        "zh": "多樣化 (duō yàng huà) – 多樣化是指有很多不同種類、不同樣子的事物。就像世界上有各種膚色、體型的人，這就是多樣性。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-09-12",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVE5GemxIMy1lV0hRc2psYS1MV1I1Uk5Sb3BsNUctNXZfRVhtem9UenBBaHBaa0JINHBnVzItS3YwZndVck1NdXZ0VDl6ck4zZnR5SFlWbHBJQldVR2kxR2M4T1YxUlZIallPV2R4SGN4bFFkU1U0QTg4bDNWekJYZ3UtbWVwWGVHQlE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國七人制橄欖球賽，羅托魯瓦熱鬧開打！",
-    "zhSummary": "紐西蘭的羅托魯瓦將主辦太平洋島國七人制橄欖球賽，這項重要賽事不僅是地區年度盛事，更攸關一些隊伍能否晉級國際大賽。",
-    "zhContent": "<p>各位年輕的運動迷們，有個大消息！來自RNZ（紐西蘭廣播電台）的報導指出，一項在太平洋地區相當受到矚目的體育賽事——「大洋洲七人制橄欖球賽」（Oceania 7s），確定將在紐西蘭的羅托魯瓦（Rotorua）熱鬧舉行。這項賽事是橄欖球世界裡一個快速、刺激的項目，吸引著來自太平洋各地的頂尖隊伍前來較勁，也讓羅托魯瓦這座城市再次成為體育界的焦點。</p><p>「七人制橄欖球」跟傳統的十五人制有些不同，每隊場上只有七名球員，比賽節奏更快、得分機會更多，因此深受許多人喜愛。這次在大洋洲七人制橄欖球賽中，通常會有斐濟、薩摩亞、東加、紐西蘭等區內強隊參與。對許多隊伍來說，這場比賽不只是爭奪地區冠軍的榮譽，更是他們爭取進入更大型國際賽事（比如世界七人制橄欖球系列賽，甚至奧運會）的關鍵機會，所以每支隊伍都會全力以赴。</p><p>羅托魯瓦之所以能成為這項重要賽事的主辦城市，除了當地擁有不錯的體育設施和承辦大型活動的經驗外，也預期能為這座城市帶來觀光人潮和經濟效益。組織單位對此都表達了興奮之情，認為這不僅能展現羅托魯瓦的熱情好客，也能提升當地體育文化氛圍。球員們能在這樣熱情的環境中比賽，想必會更加賣力，為觀眾帶來精彩的表現。</p><p>目前這場賽事預計在今年稍後的特定日期舉行，屆時各國好手將齊聚羅托魯瓦，為了勝利和國際賽事的入場券而奮戰。無論是哪支隊伍最終奪冠，這場大洋洲七人制橄欖球賽都將是一次充滿速度與激情的體育盛會，也讓更多人能欣賞到橄欖球運動的獨特魅力。所有的準備工作都在有條不紊地進行中，等待著比賽哨音響起的那一刻。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，大洋洲七人制橄欖球賽對於參與的隊伍來說，除了爭奪冠軍榮譽，還有什麼特別的意義？",
-      "生活與未來：你覺得羅托魯瓦主辦這樣一個國際體育賽事，對當地居民和這座城市會造成什麼實際影響？",
-      "獨立思考提案：如果由你來規劃一個地區性的運動賽事，你覺得最需要考慮的三件事情會是什麼？為什麼？"
-    ],
-    "enTitle": "Oceania 7s Rugby Tournament to be Hosted in Rotorua",
-    "enContent": {
-      "basic": "Rotorua, New Zealand, is set to host the Oceania 7s rugby tournament. This event is very important for the teams, as it helps them qualify for bigger international competitions like the Olympics. Rugby sevens is a fast-paced game with seven players per team, making it exciting to watch. Hosting this event will bring many visitors to Rotorua, which is good for the city.",
-      "intermediate": "The Oceania 7s rugby tournament is coming to Rotorua, New Zealand. This prestigious event is a key qualifier for major international rugby competitions, including the Olympic Games and the World Rugby Sevens Series. Teams from across the Pacific, such as Fiji, Samoa, and New Zealand, will compete in the faster, seven-a-side format of rugby. Rotorua's selection as host reflects its capable facilities and is expected to boost local tourism and economy, bringing excitement to the city.",
-      "advanced": "Rotorua, New Zealand, has been selected to host the upcoming Oceania 7s rugby tournament, as reported by RNZ. This significant regional event not only showcases top-tier rugby talent from nations like Fiji, Samoa, Tonga, and New Zealand but also serves as a crucial qualifying pathway for major global competitions, including the Olympic Games and the World Rugby Sevens Series. The accelerated pace of the seven-a-side format promises thrilling action for spectators. Beyond the sporting spectacle, Rotorua's role as host is anticipated to deliver substantial economic benefits through tourism and to invigorate the local sports culture, with organizers expressing enthusiasm for the city's readiness to welcome the teams and fans."
-    },
-    "vocabulary": [
-      {
-        "word": "tournament",
-        "zh": "錦標賽/賽事：指一連串的體育比賽，通常會選出一個冠軍。就像學校裡的班際籃球賽，最後選出第一名一樣。"
-      },
-      {
-        "word": "qualifier",
-        "zh": "資格賽：指某項比賽，其目的是為了選出隊伍或選手，讓他們可以參加更重要、等級更高的比賽。像是晉級奧運會前的選拔賽。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-09-12",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVFwb0FnY3RIX1BtdDJLaHVnUzBJelZhZnJsSzJseFVVSHFyV3NqMXJtTjM4SUdnNHM1Qnl3ZElHaXJKRHZFeV8wc09PSV9wcXZIMEFIbEFyb0wtd3lTbV83a3NZcVl0dGJwZ1g0UHdrMHlMNkRYOWFpbW9mT1pvdm9n?oc=5",
     "isFeatured": false
   }
 ]
