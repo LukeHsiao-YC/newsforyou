@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "捷克看過來！台灣駐捷代表投書：台海和平與國際參與是全球焦點",
+    "zhSummary": "台灣駐捷克代表最近投書當地媒體，強調台灣海峽的和平穩定與台灣的國際參與，不僅關係到台灣自身，更是全球，特別是捷克等國必須正視的重要議題。",
+    "zhContent": "<p>最近，台灣在捷克共和國的代表，也就是我們在當地的大使，在當地媒體上發表了一篇文章。這篇文章想讓捷克的朋友們知道，台灣海峽的和平穩定，其實和捷克如何看待並支持台灣參與國際事務有著很大的關係。這位代表透過這篇文章，希望讓更多人理解，台灣海峽的狀況不只影響台灣，也關係到更廣闊的世界和平與穩定。</p><p>這篇文章提到，台灣海峽是一個非常重要的航運通道，許多貨物和資訊都會經過這裡。如果這個區域不穩定，可能會影響到全球的經濟和供應鏈，這也會間接影響到像捷克這樣與世界緊密連結的國家。所以，維持這裡的和平，不只是台灣的責任，也是國際社會共同的關切。台灣代表強調，台灣一直都努力保持區域的和平，並且願意和大家一起合作。</p><p>文章中也呼籲捷克，要更正視台灣在國際社會中的角色。台灣代表認為，台灣作為一個民主的國家，有很多地方可以貢獻給世界，例如在科技、醫療和人道援助等方面。如果台灣能有更多機會參與聯合國或世界衛生組織等國際平台，就能和其他國家分享經驗、一起解決全球面臨的挑戰。支持台灣參與，不僅對台灣有幫助，對全球的進步和穩定也都有好處。</p><p>這篇投書的目的是希望透過媒體的力量，讓捷克以及其他國家更能理解台灣的處境和重要性。它傳達了一個明確的訊息：台灣海峽的和平與台灣的國際參與是相互關聯的。這是一次重要的外交努力，讓更多人看到台灣願意為世界和平與發展付出的決心，也讓大家思考國際社會可以如何共同維護區域穩定。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Taiwan's Representative in Czechia: Cross-Strait Peace Linked to Taiwan's International Participation",
+    "enContent": {
+      "basic": "Taiwan's representative in the Czech Republic wrote an article for a local newspaper. The article said that peace around Taiwan is important for global stability. It also asked the Czech Republic to support Taiwan's role in world activities.",
+      "intermediate": "Taiwan's envoy to the Czech Republic recently published an op-ed in a Czech media outlet. The article highlights the crucial link between peace in the Taiwan Strait and the Czech Republic's recognition of Taiwan's involvement in international affairs. It argues that stability in the Strait is a global concern affecting economies and supply chains worldwide, urging support for Taiwan's participation in international organizations.",
+      "advanced": "Taiwan's representative to the Czech Republic has penned an op-ed for a local publication, asserting that peace and stability in the Taiwan Strait are inextricably linked to the Czech Republic's stance on Taiwan's international participation. The article posits that cross-strait tranquility is a matter of profound global consequence, impacting international trade routes and supply chain resilience. It underscores Taiwan's democratic values and its capacity to contribute to global challenges, urging the international community, including the Czech Republic, to advocate for Taiwan's inclusion in multilateral platforms for collective benefit and security."
+    },
+    "vocabulary": [
+      {
+        "word": "Representative",
+        "zh": "代表。意思就是「代表某個國家或團體的人」。就像班級代表會替大家發聲，國家的代表則是在國外替自己的國家處理事務、傳達訊息。"
+      },
+      {
+        "word": "Strait",
+        "zh": "海峽。指的是連接兩片大海或兩個國家之間，比較狹窄的水域。想像一下兩塊陸地中間有一條水路，那就是海峽。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-10-17",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RS2tRT0E2X2tzRUp0clJnM1czbDd5QVhTMXV5eHJYSS1CLUxIWlpEb0xsQkpDTGFTS09SNmNJUmhPeVk5ZDVQT0FIamhlSjZoQmJnWU5PMmpKdk9WVUtn?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "最高法院大戰！氣候變遷的損害，到底誰該負責？",
+    "zhSummary": "美國最高法院正在審理一個重要的案子，要決定那些因氣候變遷受損的城市和州政府，控告大型能源公司的官司，應該在哪種法院審理，這將影響未來許多類似案件的走向。",
+    "zhContent": "<p>嗨！你可能聽過氣候變遷，就是地球變得越來越熱、天氣越來越奇怪的問題。最近，美國的最高法院正在處理一個超級重要的案子，這個案子不是在問氣候變遷是不是真的，而是要決定「誰應該為氣候變遷帶來的損害負責」！簡單來說，美國有些城市和州政府覺得，那些生產石油、天然氣的大公司應該要為地球暖化造成的損害賠錢。</p><p>這些城市和州政府因為海平面上升、極端天氣變多等等原因，需要花很多錢來保護自己或重建家園，所以他們決定提告這些能源公司。不過，現在的重點是，這些官司到底應該在哪裡打？是地方的「州法院」管，還是全國性的「聯邦法院」管？這兩種法院有不同的規矩和法律，所以在哪裡打官司，對結果會有很大的影響。</p><p>那些被控告的能源公司認為，氣候變遷是一個全球性的問題，不是單獨一個城市或州可以處理的。他們也覺得自己是在合法範圍內生產能源，所以這些官司應該交給聯邦法院來處理，因為聯邦法院才能從全國甚至國際的角度來看待這件事。但提起訴訟的城市和州政府則說，他們是直接受害者，當地居民的生活受到影響，所以應該在州法院，用當地的法律來尋求補償。</p><p>美國最高法院這次的任務，不是要判斷這些能源公司有沒有錯，也不是要決定他們該不該賠錢。他們唯一要做的，就是決定這些關於氣候變遷損害的訴訟，究竟要由州法院還是聯邦法院來審理。這個決定非常關鍵，因為它會影響未來美國所有類似的氣候變遷官司，到底要怎麼進行下去。這個案子還在審理中，大家都非常關注最高法院會怎麼說。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，引起訴訟的雙方分別是誰？他們各自主張什麼？",
+      "生活與未來：你覺得最高法院決定了訴訟的審理地點後，對未來類似的氣候變遷相關案件會產生什麼實際影響？",
+      "獨立思考提案：針對這個爭議，你覺得還有哪些方式可以幫助各方找到一個更公平的解決方案？"
+    ],
+    "enTitle": "Supreme Court Case: Who is Liable for Climate Change Harms?",
+    "enContent": {
+      "basic": "The U.S. Supreme Court is hearing a big case about climate change. Cities and states are suing big oil companies, saying they should pay for the damage caused by a warming planet. The main question isn't whether climate change is real, but where these lawsuits should be handled – in state courts or federal courts. This matters because different courts have different rules. Companies want federal courts, arguing climate change is a global problem. Cities want state courts, saying they are directly hurt and need local solutions. The Supreme Court will decide only which court system will hear these cases, which will set a rule for many similar lawsuits in the future.",
+      "intermediate": "A significant legal battle has reached the U.S. Supreme Court, focusing on the question of liability for climate change harms. Several American cities and states have filed lawsuits against major energy companies, seeking compensation for damages attributed to global warming, such as rising sea levels and extreme weather events. The central issue before the Supreme Court is jurisdictional: whether these lawsuits should be litigated in state or federal courts. This distinction is crucial due to varying legal frameworks and precedents. Energy companies advocate for federal court jurisdiction, contending that climate change is a complex, global issue beyond the scope of individual state laws. Conversely, the plaintiff cities and states argue that they are direct victims experiencing localized impacts, and thus their claims should be heard under state law. The Supreme Court's decision will not determine the culpability of the energy companies or mandate compensation, but rather establish the appropriate judicial venue for these and future climate change-related cases.",
+      "advanced": "The U.S. Supreme Court is currently deliberating a pivotal case concerning the allocation of liability for climate change-related damages, following lawsuits initiated by various cities and states against prominent energy corporations. These municipalities and states contend that the impacts of climate change, including but not limited to sea-level rise and increased frequency of extreme weather phenomena, necessitate financial remediation from entities whose operations are significant contributors to greenhouse gas emissions. The core jurisdictional dispute revolves around whether these claims fall under the purview of state or federal courts. Energy companies argue for federal jurisdiction, positing that climate change represents a national and international policy challenge unsuitable for state-level tort litigation. Conversely, the plaintiffs advocate for state court adjudication, emphasizing the localized nature of the damages and the applicability of state common law. The Supreme Court's forthcoming ruling will not address the substantive merits of the climate change claims or determine liability directly. Instead, its decision will primarily establish the appropriate judicial forum, thereby setting a critical procedural precedent for a multitude of ongoing and prospective climate litigation cases across the nation."
+    },
+    "vocabulary": [
+      {
+        "word": "Liability",
+        "zh": "責任：當一件事發生了不好的結果，法律上判斷某人或某公司要不要負責、要不要賠償，這個「責任」就是 liability。"
+      },
+      {
+        "word": "Precedent",
+        "zh": "判例：在法律上，一個法院對某個案子做出的決定，可以成為未來處理類似案子時的一個參考標準或範例，這個就叫做判例。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-10-17",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmFiVkxJMmE0TzhUSjlUM3pMODJpcUJ1d25fbVBMQWIyTVBOT28zTzdsT0VkclBCaGEzY2hNcUxmVHh5dzR6R3ZOazdKSDk0Y0JuRFRBa2xzVndCejhub2M3VmtVZXhMMzJQbHJSbmxRSEFhOXJlN3FhOG9PRk5TdHhlMXJNU01TSm5TZHJwUU5XSFJ5a0w0RTlCWXRla0tDMzJsdXA5M1VBTFIxek5iNEVKVUdUd05ERW1WTFd3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "佛羅里達藝術商販售假名畫，被判近四年徒刑！",
+    "zhSummary": "美國佛羅里達州的一位藝術品商人，因為長期販賣仿冒的普普藝術大師安迪·沃荷等知名藝術家作品，最終被法院判處將近四年的有期徒刑。",
+    "zhContent": "<p>美國佛羅里達州最近發生了一起令人震驚的藝術品詐騙案。一位名叫丹尼爾·埃利·布阿齊茲（Daniel Elie Bouaziz）的藝術品商人，因為長期販賣假的普普藝術大師安迪·沃荷（Andy Warhol）等知名藝術家作品，最終被法院判處將近四年的監禁。這起事件揭露了藝術市場中的欺詐行為，讓多位買家蒙受了巨額損失。</p><p>布阿齊茲先生在佛羅里達州的棕櫚灘經營著兩間藝術畫廊。他的手法是從網路上購買便宜的仿製品或海報，然後裝裱，再向不知情的買家宣稱這些都是真品。他販賣的「名家作品」包括安迪·沃荷、尚-米榭·巴斯奇亞（Jean-Michel Basquiat）和羅伊·利希滕斯坦（Roy Lichtenstein）等人的「畫作」。為取信買家，他甚至提供偽造證明，將每幅假畫以數萬到數十萬美元售出，賺取大量不法所得。</p><p>這場騙局持續一段時間，直到聯邦調查局介入，才讓真相水落石出。調查發現，布阿齊茲從假畫交易中賺取了超過四百三十萬美元。這筆巨款來自誤以為買到珍貴藝術品的受害者。布阿齊茲最終承認了郵件詐欺和洗錢等多項罪名。法官判決時，考量受害者人數與經濟損失，認為其行為嚴重破壞藝術市場誠信。</p><p>最終，法院判處布阿齊茲先生三年又十個月的聯邦監禁，並命令他必須向受害者賠償約四百三十萬美元的損失。此外，他透過詐騙所得來的資產也將被沒收。這個判決不僅是對布阿齊茲個人行為的懲罰，也向所有試圖在藝術市場上進行詐騙的人發出了嚴厲警告：任何欺騙的行為，都將付出沉重的代價。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，藝術品商人丹尼爾·布阿齊茲的詐騙手法具體是怎樣的？他使用了哪些方式來欺騙買家？",
+      "生活與未來：你覺得這起藝術品詐騙案會對未來想購買藝術品的人造成什麼實際影響？會讓大家對藝術市場產生哪些不同的看法嗎？",
+      "獨立思考提案：如果有人想購買高價藝術品，你覺得除了尋求專業鑑定外，還可以怎麼做來避免自己受騙上當？"
+    ],
+    "enTitle": "Florida Art Dealer Jailed for Selling Fake Andy Warhol Art",
+    "enContent": {
+      "basic": "A Florida art dealer was sent to prison for nearly four years because he sold fake paintings by famous artists like Andy Warhol. He tricked many people and made over $4.3 million.",
+      "intermediate": "A Florida art dealer named Daniel Elie Bouaziz received a nearly four-year prison sentence for running a scheme to sell counterfeit artworks, including pieces falsely attributed to Andy Warhol and other well-known artists. He operated two galleries, selling cheap reproductions as genuine masterpieces and made over $4.3 million from unsuspecting buyers.",
+      "advanced": "Daniel Elie Bouaziz, a 69-year-old Florida art dealer, has been sentenced to three years and ten months in federal prison for orchestrating an elaborate fraud. Operating two galleries in Palm Beach, he purchased cheap reproductions and posters online, then falsely marketed them as genuine masterpieces by iconic artists like Andy Warhol, Jean-Michel Basquiat, and Roy Lichtenstein. To convince buyers, he provided forged certificates of authenticity, selling each fake for tens or hundreds of thousands of dollars. His scheme defrauded collectors of over $4.3 million, leading to convictions for mail fraud and money laundering, along with orders for restitution and forfeiture of assets."
+    },
+    "vocabulary": [
+      {
+        "word": "scheme",
+        "zh": "計畫、陰謀 (這裡指詐騙的詭計或安排，通常是為了不正當目的而秘密策劃的計畫。)"
+      },
+      {
+        "word": "counterfeit",
+        "zh": "仿冒品、偽造的 (指那些假冒真品，用來欺騙別人的物品。)"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-10-17",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDBycjBXMV9lU0JuRGRoTDNDWUtyY1Nqc3V4bW1Pcm9sU3VVWjktYVd3Q1BTelY4N2Q5OXVlV1o0VzZfM1RRanFXR0xlOGRmak1rbVNyc29LaHlYdWw1S3BTYVdkWXkteU9yOUNWTndTUlNPanZQNWpFbjhoTDQ0MERmWUx3SEtrR2I0eU1sSmwwNmZGSmUtQkJxaw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國大選警戒！政府警告官員小心AI假訊息",
+    "zhSummary": "美國政府發出警報，提醒負責選舉的官員們，在即將到來的中期選舉前，要特別留意利用人工智慧製作的各種欺騙性內容，以防影響選民。",
+    "zhContent": "<p>美國政府最近發出了一則重要的警報，提醒全國各地負責選舉事務的官員們，在接下來的期中選舉之前，一定要特別小心，因為有人可能會利用現在很夯的「人工智慧」（AI）來搞一些小把戲或假消息。簡單來說，就是擔心有人會用AI做出假的影片或聲音，試圖欺騙選民，影響選舉的結果。</p><p>這些「AI小把戲」聽起來有點科幻，但其實已經越來越真實。美國的國土安全部和聯邦調查局等單位，很清楚地告訴各地選舉辦公室，他們要注意的可能包括那些由AI生成的假影片（俗稱「深偽」Deepfakes），或是模仿某人聲音的假音檔，甚至是看起來像真的一樣，但內容卻是捏造的新聞報導。這些都是設計來迷惑大家，讓大家難以分辨真假，進而可能誤導大家的投票選擇。</p><p>為什麼美國政府會這麼緊張呢？主要是因為現在的AI技術發展得太快了，製作這些假的內容變得越來越簡單，成本也越來越低。以前可能只有專業人士才能做出以假亂真的影片，但現在就算是一般人，只要透過一些AI工具，也能做出非常逼真的假訊息。所以，美國官方提早預警，就是希望能讓所有選舉相關人員都能提高警覺，學會如何辨識這些潛在的威脅，做好防範。</p><p>因此，美國政府現在最主要的目的，就是確保這次的期中選舉能在公平、透明的環境下進行。他們已經清楚要求各地的選舉官員，必須對任何可疑的AI生成內容保持高度的警惕，並且做好準備，一旦發現有這類欺騙性的「AI把戲」出現，就要能快速地應對和澄清，保護選舉的公正性。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Election Alert: Officials Warned to Watch Out for AI-Powered Deception",
+    "enContent": {
+      "basic": "US officials are telling people who run elections to be careful. They need to watch out for clever tricks made with computers, called AI, before the next big election. These AI tricks might try to fool voters with fake videos or sounds.",
+      "intermediate": "Ahead of the upcoming midterm elections, the United States government has issued a warning to election officials. They are urged to be vigilant against advanced AI-powered methods that could be used to create misleading information or deceptive content, potentially affecting voters and the election process. This includes things like 'deepfake' videos or fake audio recordings.",
+      "advanced": "In anticipation of the pivotal midterm elections, US federal authorities have proactively advised state and local election administrators to heighten their defenses against sophisticated AI-powered disinformation campaigns. This directive underscores growing concerns that malicious actors could leverage generative AI technologies to produce highly convincing deepfakes, synthetic media, or misleading narratives, thereby undermining electoral integrity and public trust. Officials are tasked with enhancing their capacity for early detection and rapid response to such emerging threats to safeguard the fairness of elections."
+    },
+    "vocabulary": [
+      {
+        "word": "Midterms",
+        "zh": "美國期中選舉，簡單來說，就是美國總統任期中間舉行的全國性選舉，會選出國會議員和一些州政府官員。"
+      },
+      {
+        "word": "Artificial Intelligence",
+        "zh": "人工智慧，簡稱AI，就是讓電腦像人一樣學習、思考和解決問題的技術。像手機裡的語音助手或推薦你看的影片，都用到AI。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-10-17",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjBfRnhSUUg5ODBUcVpqMHhfWkVYempmd0pFTmFrZXMtYV9UODRjZHpTZVFrTVVDMXdkc2plSGVKa2V4ZmhtWGtNODl3dm9kOFZxUmJ6cjQ3WG1DU0dLMF9vSjhRMC1HWjJRdGJHaGpWYllvWG5hY1dQSG9MT212NlpFNXA3MnFuOGg3UDVSZzc1RXRSSi1HcjBLYjRJdm1paEQxMmV6MFBtUUxxZFo4TzlxSjVVZ1FnaWlybGc0OGZvZHExUmJyOEtn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "揭開動物世界的真相：你以為的「常識」是真的嗎？BBC帶你一探究竟！",
+    "zhSummary": "許多我們從小聽到大的動物「常識」，其實可能只是代代相傳的迷思。最近，英國廣播公司BBC就推出了一項特別的內容，要帶大家一起來分辨，哪些關於動物的說法是科學事實，哪些又是以訛傳訛的錯誤資訊。",
+    "zhContent": "<p>你曾聽過「鴕鳥遇到危險會把頭埋進沙子裡」嗎？或是「蝙蝠都是瞎子，只能靠聲波導航」？這些關於動物的說法，是不是讓你覺得理所當然？事實上，許多我們從小耳濡目染的動物知識，可能並非完全正確。英國廣播公司BBC最近就注意到這個有趣的現象，許多人對於動物世界的了解，其實參雜了大量的迷思與誤解。為了幫助大家釐清真相，BBC特別策劃了一系列的內容，邀請讀者們一起來挑戰，看看自己是否能分辨出哪些是真正的動物知識，哪些又是長久以來的錯誤觀念。</p><p>這項特別的企劃，以互動問答的方式呈現。BBC會提出各種關於動物的有趣說法，例如：「變色龍會根據周圍環境來改變體色，以達到偽裝的效果。」、「旅鼠會集體跳崖自殺。」或是「金魚的記憶力只有三秒鐘。」等等。讀者可以根據自己的判斷，選擇這些說法究竟是「事實」還是「迷思」。透過這樣的方式，BBC讓學習動物知識變得更生動有趣，不再只是枯燥的課本內容，而是像玩一場猜謎遊戲一樣，充滿驚喜與發現。</p><p>BBC之所以推出這樣一個專題，主要是因為他們發現，不少關於動物的迷思，已經流傳了好幾個世代，甚至成為文化的一部分，出現在卡通、電影或書籍中。然而，隨著科學研究的進步，許多舊有的觀念被推翻，新的發現也層出不窮。BBC希望藉由這個企劃，提供一個客觀且經過證實的資訊平台，幫助大眾更新對動物世界的認知，破除那些長久以來的誤解，讓大家都能擁抱最新的科學知識，更準確地了解地球上這些奇妙的生命。</p><p>當讀者完成挑戰並提交答案後，BBC會立即揭曉正確的結果，並針對每一個動物說法，提供詳細且科學的解釋。這些解釋不僅會明確指出哪個說法是真，哪個是假，還會進一步說明背後的原因或最新的研究發現。舉例來說，你可能會發現鴕鳥把頭埋在沙裡其實是在翻動巢穴，而不是真的躲避危險。透過這樣即時的回饋與深入的解析，BBC成功地將動物知識的學習轉化為一場引人入勝的探索之旅，讓大家在輕鬆的氛圍中，學到更多關於動物的正確資訊。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，BBC提出了哪些關於動物的有趣迷思？為什麼他們會想做這樣的專題？",
+      "生活與未來：你覺得這個企劃對大眾了解動物世界會有什麼實際影響？你身邊是否也有類似的「常識」其實是錯誤的？",
+      "獨立思考提案：如果由你來設計一個關於「破除迷思」的活動，除了動物，你還會想挑戰哪些領域的常見誤解？你會怎麼設計這個活動？"
+    ],
+    "enTitle": "BBC Challenges Readers: Animal Facts or Total Myths?",
+    "enContent": {
+      "basic": "Many things we believe about animals might not be true. BBC, a big news company, made a fun quiz. They want people to guess if common animal ideas are real facts or just stories. For example, 'Do ostriches hide their heads in sand?' or 'Are all bats blind?' After you guess, BBC tells you the right answer and explains why. They did this because many old stories about animals are wrong. BBC wants everyone to learn the true science about animals and stop believing old myths.",
+      "intermediate": "The BBC has launched an engaging interactive project titled 'Can you tell if these are real animal facts or total myths?' The initiative aims to challenge widespread misconceptions about the animal kingdom. Participants are presented with various statements, such as 'Chameleons change color for camouflage' or 'Goldfish have a three-second memory,' and are prompted to identify them as either facts or myths. This approach transforms learning into an enjoyable quiz-like experience. The BBC developed this project to correct long-standing errors and update public knowledge with current scientific findings, providing detailed explanations for each answer to clarify truths and debunk popular folklore.",
+      "advanced": "Addressing the prevalence of enduring animal misconceptions, the British Broadcasting Corporation (BBC) has introduced an interactive educational feature titled 'Can you tell if these are real animal facts or total myths?'. This initiative presents users with commonly held beliefs regarding various species, challenging them to discern scientific fact from popular folklore. The project's design facilitates an engaging learning process, moving beyond traditional dissemination of information. The BBC's motivation stems from the recognition that numerous animal-related myths have been culturally embedded for generations. By providing meticulously researched explanations for each statement, the platform seeks to update public understanding, correct erroneous information, and foster a more accurate, scientifically informed appreciation of global biodiversity."
+    },
+    "vocabulary": [
+      {
+        "word": "Myth",
+        "zh": "迷思：指那些雖然很多人相信，但其實不是真的、錯誤的觀念或故事。就像是古代的神話故事，或是大家誤以為是真的事情。"
+      },
+      {
+        "word": "Fact",
+        "zh": "事實：指經過證實、真實存在、有證據支持的資訊或情況。就是可以被證明是真的事情。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-10-17",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teFB2empGdUNrY3NydExGU0xDRHd1Q1lMTFgwSWVidzMxemxSdTl1QVRIN1lVT0dFX0lwV0cxbmdHTmJNaWJ6aXgyaTFMNGxUZk1qMGFPOTV6Z2tXaHJIUWU2RVdJRnVJc2FYZFhkZ0ZFRjNUOS1Cc29DVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國期中選舉倒數計時：經濟表現牽動選情",
+    "zhSummary": "美國一場重要的全國性選舉即將到來，許多專家和媒體都將焦點放在「經濟」上。有報導指出，經濟狀況可能會對美國前總統川普所支持的候選人造成不利影響。",
+    "zhContent": "<p>美國的政治舞台上，正熱烈討論著一場即將登場的全國性選舉——「期中選舉」。這場選舉不像總統大選那麼聲勢浩大，卻是決定國家未來政策方向的重要時刻。最近，有外國媒體特別點出一個核心議題，那就是：「經濟」的表現，很可能成為這次選舉結果的關鍵因素。對一些政治人物來說，這或許不是個好消息。</p><p>所謂的「期中選舉」，指的是在總統任期中間舉行的選舉，主要選出國會的議員。而經濟，顧名思義就是國家和大家的生活收支狀況，包括物價、工作機會、薪水多寡等等。新聞指出，許多選民在投票時，最在意的就是自己的生活有沒有過得更好、錢包有沒有縮水。如果大家覺得物價變貴、工作不好找，他們在投票時就可能會做出不同的選擇。</p><p>這次，新聞特別提到美國前總統川普。雖然他本人沒有參選，但他支持的政黨和候選人，在這次期中選舉中也面臨著選民對經濟表現的檢視。根據外媒的觀察，當經濟狀況讓民眾感到擔憂時，這通常會讓在任或與現任政府相關的政黨，在選舉中承受較大的壓力。因此，這次選舉的結果，很大程度上將取決於選民對於目前經濟情勢的感受。</p><p>總結來說，隨著期中選舉的腳步越來越近，美國國內的經濟狀況，從通膨壓力到就業市場的變化，都成為民眾熱議的話題。許多人正密切關注著這些數據，並以此作為他們決定選票投給誰的重要參考。這也意味著，在選舉中，候選人如何回應和解決經濟問題，將是他們能否獲得選民支持的關鍵。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼經濟會成為美國期中選舉的關鍵因素？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Midterm Elections: Economy Takes Center Stage, Posing Challenge for Trump's Allies",
+    "enContent": {
+      "basic": "The US is preparing for an important election called the 'midterms.' A news report says that how well the economy is doing will be a big deal for voters. This might be tough for people who support former President Trump.",
+      "intermediate": "Ahead of the US midterm elections, foreign media are highlighting the economy as a crucial factor. This means that voters will largely decide based on their personal financial situations, such as prices and job availability. If the economy is struggling, it could be 'bad news' for the political party connected to the current or recent administration, including those supported by Donald Trump.",
+      "advanced": "With the US midterm elections approaching, analysis from foreign media, notably The Guardian, suggests that economic performance remains the paramount concern for the electorate. The famous maxim 'it's still the economy, stupid' underscores the prevailing sentiment that voters' financial well-being will heavily influence their ballots. This economic focus is posited to present a significant challenge for candidates endorsed by former President Trump, as public perception of economic stability often dictates electoral outcomes against the incumbent or associated parties."
+    },
+    "vocabulary": [
+      {
+        "word": "Midterms",
+        "zh": "期中選舉 (qí zhōng xuǎn jǔ)：指在一個國家總統任期中間舉行的選舉，通常是用來選出國會的議員，不是選總統喔！"
+      },
+      {
+        "word": "Economy",
+        "zh": "經濟 (jīng jì)：指的是一個國家或地區人們怎麼賺錢、花錢、生產和買賣物品的整體狀況。它會影響物價、工作機會和薪水等等。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-10-17",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGVMcFdTWjhOQUxraHZreXMta3lMM1VONVh2R2JsMHMteG53TDdUTHUweVRVclE1Q1VQc2k5b1F3T2F4QTZLWVhtQlhMOElKNll3QXVDaC1NMld3bzJsejMyY2lBNWNwTlB6TTdQeGgyZ2ZTcVd0aU04QWcxc3p3R1FsdUhCWXc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "阿根廷新總統米雷伊：力挺川普，這場美國大選對「西方世界」很重要！",
+    "zhSummary": "阿根廷新上任的總統米雷伊，最近公開表達了他對美國前總統川普的支持。他認為美國接下來的一場重要選舉，對於共享民主和自由價值觀的「西方世界」來說，意義非常重大。",
+    "zhContent": "<p>最近全球政治圈有個新聞引起不少討論。那就是阿根廷的新總統哈維爾·米雷伊（Javier Milei）在公開場合表達了他對美國前總統唐納·川普（Donald Trump）的堅定支持。米雷伊總統是一位以其自由主義和對政府干預持批判態度而聞名的政治人物，他的言論讓不少人好奇，為什麼他會特別強調這場遠在大西洋彼岸的美國選舉呢？</p><p>米雷伊總統之所以力挺川普，是因為他認為川普是一位代表自由理念的領導者。他曾表示，自己與川普在政治理念上有很多共通點，例如都強調個人自由、減少國家對經濟的干預，並反對社會主義的政策。米雷伊本人在阿根廷的競選中，就曾以「自由主義者」的形象，提出許多大膽的經濟改革方案，希望能讓國家更自由、經濟更有活力。</p><p>米雷伊更進一步指出，美國接下來的這場重要選舉，對於整個「西方世界」來說都是「關鍵的」。他所指的「西方世界」，通常泛指那些共享民主制度、自由市場經濟和個人權利等價值觀的國家。在他看來，美國選舉的結果不僅會影響美國自身，更可能對全球的政治格局和這些西方國家所堅守的價值觀產生深遠的影響。</p><p>這項來自阿根廷總統的支持，正好發生在川普正積極為可能再次參選美國總統做準備的時刻。米雷伊的表態，也顯示了在全球範圍內，一些具有相似政治理念的領導人之間，正在形成一種新的合作與支持關係。這也讓大家更加關注，美國的這場選舉最終會如何發展，以及它將對國際社會帶來什麼樣的變化。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，阿根廷總統米雷伊支持美國前總統川普的原因是什麼？他為什麼認為這場選舉很重要？",
+      "生活與未來：你覺得像米雷伊和川普這樣，不同國家的領導人互相支持，會對國際關係產生什麼樣的影響？",
+      "獨立思考提案：如果兩個國家的領導人在政策理念上很相似，你認為他們之間會更容易合作嗎？為什麼？"
+    ],
+    "enTitle": "Argentina's New President Milei Endorses Trump, Calls US Vote Crucial for 'The West'",
+    "enContent": {
+      "basic": "Argentina's new president, Javier Milei, has publicly supported former US President Donald Trump. Milei believes an upcoming important US election is very important for what he calls the 'Western world,' which shares values like democracy and freedom.",
+      "intermediate": "Javier Milei, the recently elected President of Argentina, has openly declared his backing for former US President Donald Trump. Milei, known for his libertarian views and critique of government intervention, sees Trump as a leader who champions freedom and shares similar political ideologies, particularly in economic matters. He stated that the outcome of the next significant US election will be 'crucial' for the 'Western world,' referring to countries that uphold democratic institutions, free-market economies, and individual rights.",
+      "advanced": "Argentina's newly inaugurated President, Javier Milei, has extended a notable public endorsement to former U.S. President Donald Trump. Milei, an outspoken libertarian and staunch critic of state intervention, articulated his support by highlighting a perceived ideological alignment with Trump, particularly concerning principles of individual liberty and market-oriented economic policies. He emphasized that the forthcoming pivotal U.S. election holds 'crucial' implications for the 'Western world,' encompassing nations that collectively subscribe to democratic governance, free-market principles, and fundamental individual liberties. This international backing arrives as Trump actively positions himself for a potential return to the presidency."
+    },
+    "vocabulary": [
+      {
+        "word": "endorse",
+        "zh": "支持、力挺：公開表達對某人或某事的贊同與支持，像是明星為商品代言，或政治人物支持另一位候選人。"
+      },
+      {
+        "word": "crucial",
+        "zh": "關鍵的、非常重要的：表示某事具有決定性的重要性，影響到結果的成敗，就像考試中的最後一題可能就是你過關的關鍵。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-10-17",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUlaM3M1dW45UXZKeFhyV1VUdzV6eHJJQjI4ZkFWdnJHVmxQTk9fMnVfdUFIZ2E1ZEd4M0RFcktTZUhKeGhxMWNJM1BmTV9ZVndJa1ZmRHpOaUpRUVh2WXByT2VmRTJYTVFMZ29WMzR2bTBhQVU4c2NVWUE4RnBpR0lQRFNrOHM5R3hHWFNPd0I3WUpMbHp6YTVVUDBnS3VHZjFia19WYkthckIzR1ZTRVd0YXfSAboBQVVfeXFMUHlpOExEVDBrUUxfQ09mMFlYTU5meHRoc1JTcFlfUEVvT2RhQWtoUGFNQjA1dGZVVU1xZlVfa2J4TlM2QThka0U2YzlOMWk2RXg1TUtMWGZ1TXZzQUtoWEh4M05nRjVaY2pHXzN4cmhLbDF3cWsxRHZFUXdZWHZXOEQ4ZUxyTTR3cUNyVUc3d25ZMDhqNFNkQmxiMjBjTXJPVHE3UVNoVllEMDlUVGYtRVlvWFVMMzFoMkNR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "澤倫斯基訪歐盟峰會：尋求更多支援，川普言論引發關注",
+    "zhSummary": "烏克蘭總統澤倫斯基近日出席歐盟峰會，向歐洲各國領導人請求更多支援，同時，他與前美國總統唐納·川普之間關於援助的言論分歧，也成為國際社會討論的焦點。",
+    "zhContent": "<p>烏克蘭總統澤倫斯基最近前往布魯塞爾參加了一場重要的歐盟峰會。這次會議的目的是希望再次凝聚歐洲各國對烏克蘭的支持，特別是在烏克蘭目前仍然面臨挑戰的情況下，他希望能夠獲得更多的武器、資金以及政治上的幫助。對澤倫斯基和烏克蘭來說，這些支援對於他們持續下去至關重要，因此他不斷向盟友發出呼籲。</p><p>在這次峰會上，澤倫斯基詳細說明了烏克蘭目前最需要的援助項目，包括先進的防禦系統、彈藥，以及幫助國家經濟穩定復甦的資金。歐盟各國領導人也趁此機會進行了熱烈的討論，探討如何能更有效率地提供協助，確保烏克蘭能夠有足夠的能力應對當前的局面。這場峰會是烏克蘭持續爭取國際支持的重要舞台。</p><p>然而，這次峰會的背景還有一個特別的插曲，那就是澤倫斯基與前美國總統唐納·川普之間的一些言論爭執。川普過去曾多次對美國提供烏克蘭的大量援助表達疑慮，甚至暗示他若再次掌權，可能會重新評估美國對烏克蘭的支持方式，或者試圖透過其他途徑來解決衝突。這些言論讓國際社會對於未來烏克蘭可能獲得的援助量，產生了一些不確定的聲音。</p><p>儘管有這些討論和挑戰，澤倫斯基仍然在歐盟峰會上努力爭取支持，強調維護國家主權和地區和平的重要性。他與歐洲領導人的會談仍在進行中，而國際社會也持續關注這場峰會會如何影響烏克蘭未來的走向，以及全球對烏克蘭援助的整體態勢。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，澤倫斯基和川普各自在做什麼？他們的主要訴求或立場是什麼？",
+      "生活與未來：你覺得各國領導人在國際會議上爭取支援，對他們國家的人民會造成什麼實際影響？",
+      "獨立思考提案：如果有一個國際問題需要多個國家共同解決，你認為哪個國家的意見最重要？為什麼？"
+    ],
+    "enTitle": "Zelenskyy at EU Summit Seeking Support, Trump's Comments Draw Attention",
+    "enContent": {
+      "basic": "Ukrainian President Volodymyr Zelenskyy attended an EU summit. He asked European leaders for more help like weapons and money. This happened while there were disagreements between him and former US President Donald Trump about aid for Ukraine. Trump has questioned how much help the US gives to Ukraine. Zelenskyy's visit is important to keep getting support for his country.",
+      "intermediate": "Ukrainian President Volodymyr Zelenskyy recently visited Brussels for an important EU summit. His main goal was to gather continued support from European leaders, asking for more military aid, financial assistance, and political backing for Ukraine. This support is crucial for Ukraine as it faces ongoing challenges. Meanwhile, a public disagreement between Zelenskyy and former US President Donald Trump over the future of aid to Ukraine also drew significant international attention during this period. Trump has previously expressed skepticism about the level of US assistance to Ukraine, suggesting potential changes if he were to return to power. Despite these discussions, Zelenskyy continued to press his case for support, emphasizing the importance of sovereignty and regional stability.",
+      "advanced": "Ukrainian President Volodymyr Zelenskyy recently participated in a crucial EU summit in Brussels, aiming to solidify and expand European support for Ukraine amidst persistent challenges. During the summit, Zelenskyy meticulously outlined Ukraine's urgent requirements, including advanced defense systems, ammunition, and financial aid necessary for economic stabilization and recovery. The European leaders engaged in extensive deliberations on effective mechanisms to sustain and enhance their assistance, ensuring Ukraine's resilience. Concurrently, the summit unfolded against the backdrop of an ongoing 'spat' between Zelenskyy and former US President Donald Trump. Trump has consistently voiced reservations regarding the substantial US aid to Ukraine, hinting at potential policy shifts or alternative conflict resolution strategies should he regain the presidency. These pronouncements have introduced an element of uncertainty into the global aid landscape for Ukraine, prompting international scrutiny. Nonetheless, Zelenskyy steadfastly advocated for continued support, underscoring the imperative of national sovereignty and regional peace. The outcomes of these high-stakes discussions are closely observed by the international community, as they are expected to significantly influence Ukraine's trajectory and the broader framework of international assistance."
+    },
+    "vocabulary": [
+      {
+        "word": "summit",
+        "zh": "高峰會／峰會：指國際上重要的國家領導人或代表們，為了討論特定的國際大事而舉行的會議。想像成班級裡的「班長會議」，但規模更大，討論的是國家大事喔！"
+      },
+      {
+        "word": "spat",
+        "zh": "口角／爭執：指兩個人或多個人之間，因為一些意見不合而發生的小爭吵或不愉快。它不像打架那麼嚴重，更像是言語上的小小分歧。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-17",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWtBTXRYS3JBcXIwNGdaLWMzNUUzTTlrU29YT1ZQMmhBYkZJQTE5MXNzS1lUNlVYVGo2V0hLWG1BdGVndzhFQkRIT0RzWHMwVjlZUTVEUUlOQ0dSYU1RRV9CZENwQk02emJhQ3NQeng3ZEx4aF90MnBza1FHaVV6S1BINWtySXJBcUE4blRaWXZNSGJOa2FZWUJIWEQwejN6MlZXY2JwcHN1eDhDcF9V0gGvAUFVX3lxTE51QkVXUDdlZnV0VlBBWDVGUUhJT3htalZCdV8zUkpJakJzV3AtWk53TklYeW1NOUIwanRMWXlsNHl4dVMyTFlSRnBtVEZtQkluRXdla1BocTdvZmluUWNkVVNoU1Y3MjVDb1MzRHNnRWxodE4xeFVGa3BjbUNEdDMyeERaeVA1MlhWOTJ0dnZ0a2xFeVF5dW96ZnRxS2FQeGhGeTRVSWNEaENudkJSREU?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非經濟闖關記：央行總裁怎麼面對大挑戰？",
+    "zhSummary": "南非中央銀行總裁最近公開表示，面對國家經濟遭遇的各種挑戰，他們正努力尋找對策，希望穩定物價、維持經濟成長，就像一位船長努力駕駛著船穿越風暴。",
+    "zhContent": "<p>南非最近的日子可能有點難過！這個國家的經濟正在面臨好多挑戰，就像一艘船在海上遇到大風大浪一樣。不過別擔心，南非的「船長」——也就是他們的中央銀行總裁，最近就公開說明，他們要怎麼穩住這艘船，讓國家經濟能平安度過這些難關。中央銀行就像是國家的錢包守護者，確保錢幣穩定、大家都有工作，還會控制物價，不要讓東西漲得太快。</p><p>到底是什麼樣的「經濟衝擊」呢？通常，這可能包括物價不斷上漲（大家常說的「通膨」）、全球經濟成長速度變慢，還有一些當地特有的問題，比如工作機會不夠多等等。這些都會讓國家裡的錢變「小」了，大家買東西變貴，生活壓力變大。中央銀行總裁的工作，就是想辦法用各種工具來應對，其中一個重要的工具就是調整「利率」。</p><p>當物價漲得太快，中央銀行通常會考慮「升息」。升息的意思是，如果你把錢存到銀行，會拿到比較多的利息；如果你跟銀行借錢，利息也會變高。這樣一來，大家和企業會比較不願意借錢花錢，市場上的錢就會少一點，物價上漲的速度可能就會慢下來。但這也是個兩難，升息的同時，也可能讓經濟成長的腳步慢下來，影響到大家的工作。所以，總裁的挑戰就是要在這中間找到最好的平衡點。</p><p>所以這次，南非中央銀行總裁的發言，主要是在告訴大家，面對這些多重挑戰，他們正在仔細觀察局勢，並會採取各種策略來保護國家的經濟。這不是一件容易的事，就像一位經驗豐富的船長，正努力駕駛著國家這艘大船，穿越重重風暴，希望讓大家都覺得安心，確保經濟的穩定和發展。這是一個持續進行的任務，需要時間和智慧來應對。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，南非的中央銀行總裁正在面對哪些主要的「經濟衝擊」？他打算用什麼方法來應對？",
+      "生活與未來：你覺得如果一個國家的物價一直上漲，會對你和你的家人造成什麼實際影響？",
+      "獨立思考提案：針對新聞中提到的「升息」政策，你覺得除了對抗物價上漲，它可能還會帶來哪些好處或壞處呢？"
+    ],
+    "enTitle": "South Africa Reserve Bank Governor on navigating multiple economic shocks",
+    "enContent": {
+      "basic": "South Africa's main bank leader, called the Governor, recently talked about how the country is dealing with many money problems. He explained they are trying to keep prices stable and help the economy grow. It's like guiding a ship through a big storm.",
+      "intermediate": "The South African Reserve Bank Governor discussed how the nation is navigating several economic challenges. These often include rising prices (inflation), slower global economic growth, and local issues like unemployment. The central bank uses tools like adjusting interest rates to help manage these problems. Raising interest rates can slow down spending and help control inflation, but it can also slow down economic growth.",
+      "advanced": "The South African Reserve Bank Governor addressed the complex task of navigating multiple economic shocks, emphasizing the delicate balance required to maintain economic stability. These shocks typically encompass persistent inflation, global growth deceleration, and domestic structural issues. The central bank's strategy involves leveraging monetary policy tools, such as interest rate adjustments, to curb inflationary pressures. However, this approach necessitates a careful consideration of its potential impact on economic growth and employment, highlighting the governor's critical role in steering the economy through turbulent times."
+    },
+    "vocabulary": [
+      {
+        "word": "Economic shocks",
+        "zh": "經濟衝擊。想像你的存錢筒不小心被撞了一下，裡面的錢可能少了或變得不值錢。經濟衝擊就是指一些突如其來、會讓國家經濟狀況變差的大問題，像是物價突然暴漲、很多人失業等等。"
+      },
+      {
+        "word": "Inflation",
+        "zh": "通貨膨脹（簡稱通膨）。意思就是東西越來越貴，以前100元可以買到的東西，現在可能要120元甚至更多才能買到。也就是說，錢的購買力變低了。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-17",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2xJS2h5d3FBZnRvQVhqQkxHSVRRekY5SGFmUnVJSE5neGpYS1RwZ1F6bFVYMTVKYzZYOGJPQ182a093VE13ejlxcmFRYzZtMmtOTC1oZXZ1OHkyc3lHY0U3T0s0bGR1Y3FFRFlPb0lDUFpNTFB2SFp0RGtfSlpFU1p4TF9Fbm9mWWplWHJFRG9GdXpfaVQzV1JLOFFZRlhWZXgyUHFVU0d0MTA2aWc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "葉門胡塞組織再發威脅 波斯灣股市皮皮剉！",
+    "zhSummary": "葉門的反抗軍「胡塞組織」近期再次對沙烏地阿拉伯發出攻擊威脅，這項消息立刻讓波斯灣地區的金融市場感到不安，投資人開始擔心不確定性，導致股市出現震盪。",
+    "zhContent": "<p>最近，來自葉門的一個名為「胡塞組織」的反抗團體，又再次對鄰國沙烏地阿拉伯發出了準備發動攻擊的威脅。這個消息一傳出，立刻在波斯灣地區的金融圈引起了一陣騷動，許多人開始緊張，擔心未來可能發生的狀況。</p><p>當「波斯灣股市皮皮剉」這句話傳開時，它的意思是說，波斯灣地區的股票市場因為這些威脅而開始動盪不安。投資人，也就是那些把錢投入股市的人，他們擔心一旦真的發生衝突，該地區的穩定會受到影響，進而影響到公司的營運和獲利。因此，許多投資人選擇賣出他們手中的股票，導致股價下跌，讓整個市場顯得有些混亂。</p><p>其實，胡塞組織和沙烏地阿拉伯之間的緊張關係並不是第一次發生。長期以來，葉門一直處於內戰狀態，而沙烏地阿拉伯則帶領著一個聯盟，介入這場戰爭。胡塞組織過去就曾多次對沙烏地阿拉伯發射飛彈或無人機，讓沙國必須提高警戒。因此，這次的威脅才又特別引起了市場的擔憂。</p><p>這些最新的威脅，已經實際造成了金融市場的波動。在各個波斯灣國家的證券交易所，都能看到股價受影響的狀況。投資人和分析師們都正密切關注著事態的發展，思考這些威脅會不會真的變成行動，以及後續會對區域經濟帶來什麼樣的衝擊。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「胡塞組織」和「沙烏地阿拉伯」是哪些國家或團體？他們之間為什麼會有衝突？",
+      "生活與未來：你覺得新聞中提到的「股市皮皮剉」對該地區的普通民眾（例如你的同齡人或他們的家人）會造成什麼實際影響？",
+      "獨立思考提案：如果類似的地區衝突不斷發生，你覺得國際社會還可以怎麼做，來幫助這些國家減少衝突和不穩定性？"
+    ],
+    "enTitle": "Yemen's Houthi Threats Shake Gulf Stock Markets Again",
+    "enContent": {
+      "basic": "Yemen's Houthi group has threatened to attack Saudi Arabia again. This news made stock markets in the Gulf region unstable. People who buy and sell stocks are worried about what might happen next. They are selling their stocks, making prices go down. This shows that the conflict between the Houthis and Saudi Arabia is still causing problems for the economy.",
+      "intermediate": "The Houthi group in Yemen has issued new threats against Saudi Arabia, causing significant concern across the financial markets in the Gulf region. Investors, fearing potential instability and conflict, have begun selling off their shares, which has led to a noticeable decline in stock prices. This market reaction highlights the ongoing tension between the Houthis and a Saudi-led coalition, a conflict that has previously seen the Houthis launch attacks on Saudi territory.",
+      "advanced": "Recent threats by Yemen's Houthi movement to launch further attacks against Saudi Arabia have rattled Gulf bourses, reflecting heightened investor anxiety over regional stability. The prospect of renewed hostilities between the Houthis and the Saudi-led coalition, which has been engaged in Yemen's protracted conflict, has prompted a wave of selling activity in the stock markets across the Persian Gulf. This immediate market response underscores the significant economic implications of geopolitical tensions in the region, as financial stakeholders reassess risk exposure amidst escalating rhetoric."
+    },
+    "vocabulary": [
+      {
+        "word": "Houthis",
+        "zh": "胡塞組織：這是一個來自葉門的反抗團體，他們是葉門內戰中的主要勢力之一，有時候會跟鄰近國家（像沙烏地阿拉伯）發生衝突。"
+      },
+      {
+        "word": "Bourses",
+        "zh": "股市/證券交易所：這是一個比較正式的詞，指的就是股票市場或證券交易所。在股市裡，人們可以買賣公司的股票，當新聞說「股市皮皮剉」，就是指股票的價格因為某些原因而下跌，市場氣氛很緊張。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-17",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRno4UkRJYXkzMldxaU9XbzNpLWtsNVd4SmUtelluWEFxOHNCTjdpSmVJVzBac0h1TDF6TE8wY2FZNHBHaF9XTjZ0WTByY29yOTR4SDVKaG02YWItZkNVdXlQWWF6bWROd0ZSRDM5SDRSSEs2M0dBZHRVekJTVHhpYnMzemVCa3RQY3dmZ3g5UFBUZ2ZySWRjT0g0M2FuZElsaVkzUk1KSHB4ODRTdjBkbzJR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "晶片巨頭SK海力士股價暴跌8%！亞洲科技圈為何嚇得皮皮挫？",
+    "zhSummary": "韓國晶片大廠SK海力士的股票價格近期大跌8%，這波恐慌不只影響它，更波及整個亞洲科技股。主要原因有二：一是美國聯準會可能升息的傳聞，讓企業借錢成本增加；二是投資人開始擔憂人工智慧（AI）領域的投資資金可能放緩，進而影響晶片需求。",
+    "zhContent": "<p>最近亞洲科技界可說是不太平靜！你知道嗎，韓國有家製造晶片的大公司——SK海力士（SK Hynix），他們的股票價格最近一下子跌了8%！這可不是小數字，就像你的零用錢突然少了快一成，是不是會嚇一跳？這波下跌不只影響SK海力士，而是整個亞洲科技股都感覺到一股涼意。</p><p>造成這波恐慌的原因之一，是美國聯準會（簡稱Fed）可能會升息的傳聞。你可能會問，美國升息跟韓國公司有什麼關係呢？簡單來說，升息就是銀行借錢的利息變高。當利息變高，企業要借錢擴張或投資就比較貴，大家就不太敢亂花錢。投資人也會擔心公司未來賺錢速度變慢，因此可能會賣掉股票，導致股價下跌。</p><p>另一個讓投資人不安的原因，是對「人工智慧（AI）的投資資金」開始有點擔心。AI技術目前超級熱門，許多公司都投入大筆資金開發。SK海力士正是生產高效能記憶晶片的公司，這些晶片對AI發展非常重要。但如果大家覺得AI領域的投資可能放慢腳步，像SK海力士這樣供應關鍵零件的公司，未來訂單可能也會減少，自然讓投資人緊張。</p><p>總之，就是這些對利率上漲和AI投資趨勢的擔憂，讓原本表現不錯的SK海力士，股價在短時間內掉了8%。這也讓其他亞洲科技公司股票跟著面臨壓力，整個市場顯得有點低迷。這就是最近在亞洲科技界發生的大事，目前情況就是這樣。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "SK Hynix Stock Plummets 8% Amid Asia Tech Rout on Rate Hike and AI Funding Concerns",
+    "enContent": {
+      "basic": "SK Hynix, a big chip company in South Korea, saw its stock price fall by 8%. This happened because people are worried that the US central bank (called the Fed) might raise interest rates. When interest rates go up, it costs more for companies to borrow money, which can make investors nervous. Also, there are worries that funding for AI projects might slow down. Since SK Hynix makes chips important for AI, less AI funding could mean fewer orders for them. This made other tech stocks in Asia fall too.",
+      "intermediate": "South Korean semiconductor giant SK Hynix experienced an 8% drop in its stock value, contributing to a broader tech downturn across Asia. Two primary factors are cited for this market reaction: mounting fears of an interest rate hike by the U.S. Federal Reserve, which typically increases borrowing costs for corporations and dampens investment sentiment; and growing concerns regarding the future funding landscape for Artificial Intelligence initiatives. As a key supplier of high-performance memory chips essential for AI development, a slowdown in AI investment could directly impact SK Hynix's future order volumes, leading to investor anxiety.",
+      "advanced": "SK Hynix, a pivotal player in the global semiconductor industry, witnessed an 8% plunge in its stock value, exacerbating a broader 'tech rout' across Asian markets. This significant downturn is primarily attributed to a confluence of macroeconomic anxieties: the escalating anticipation of a rate hike by the U.S. Federal Reserve, which inherently tightens monetary conditions and raises the cost of capital for corporate expansion; and a burgeoning apprehension among investors regarding the sustainability and future trajectory of funding for Artificial Intelligence projects. Given SK Hynix's strategic importance in supplying high-bandwidth memory crucial for advanced AI computations, any perceived contraction in AI investment flows inevitably triggers concerns about future demand and revenue streams, leading to a bearish market sentiment."
+    },
+    "vocabulary": [
+      {
+        "word": "Plunge",
+        "zh": "暴跌：指股票或某樣東西的價格「下跌」得很厲害，速度很快，就像一個人突然跳進水裡一樣。"
+      },
+      {
+        "word": "Fed",
+        "zh": "聯準會（美國中央銀行）：這是美國的「中央銀行」，主要工作是管理國家的錢和利率，確保經濟穩定，就像一個國家的財務管家。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-17",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0JCNlBQQTBBMXpWVk50c0NZc2hNR3ZrNkd4Yy1vbVZnbGdYVjRncUVRNVZ5WVlQUFNWWU1ueklCa2FTWF9uUExRTjBMX2ZqWWNUQkZKcGZhWV93ek9QQnVOUXd2bDBOc3RyYVBUZDRuSlB3ZDVLMkRwY19yNVVjaWZIVkVWeHhWZUtyYXNWaEtXQW1aT0ZRck5EVHdaUTQzajBzQ01oM1dVRmvSAasBQVVfeXFMTV9CQjZQUEEwQTF6VlZOdHNDWXNoTUd2azZHeGMtb21WZ2xnWFY0Z3FFUTVWeVlZUFBTVllNbnpJQmthU1hfblBMUU4wTF9malljVEJGSnBmYVlfd3pPUEJ1TlF3dmwwTnN0cmFQVGQ0bkpQd2Q1SzJEcGNfcjVVY2lmSFZFVnh4VmVLcmFzVmhLV0FtWk9GUXJORFR3WlE0M2owc0NNaDNXVUZr?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "印尼股市響警報！恐遭全球重要指數「除名」",
+    "zhSummary": "印尼正面臨被國際主要指數提供商MSCI從其全球指數中移除的可能，此舉被視為對印尼金融市場的重大警示，可能影響國際資金流入。",
+    "zhContent": "<p>最近，有個國際財經的大新聞讓印尼的金融界繃緊神經。全球知名的指數提供商MSCI（摩根士丹利資本國際公司）正在考慮，將印尼從他們旗下的全球股票指數中移除。這對印尼來說，就像是突然接到了一通大聲的「警醒電話」，讓他們意識到自己的金融市場可能有些地方需要趕快改進了。</p><p>你可能會好奇，MSCI指數到底是什麼？簡單來說，這些指數就像是提供給全球各大投資基金的「國家股市成績單」和「投資建議清單」。當一個國家被列在這些全球指數裡面，就代表它的股票市場表現不錯，容易被國際大資金注意到並投資。但如果被MSCI從名單上剔除，那麼國際投資者，尤其是那些追蹤MSCI指數的基金，可能就會減少對印尼股市的投資，甚至賣出印尼的股票。</p><p>那麼，MSCI為什麼會做出這樣的考量呢？通常，MSCI在評估一個國家的市場時，會關注幾個重點，比如外國投資人要買賣當地的股票容不容易？資金進出有沒有太多限制？還有市場的交易是不是夠透明、夠有效率？這次印尼面臨的「警醒電話」，暗示了國際投資者可能在印尼的金融市場操作上遇到一些不便或問題，需要印尼政府和相關單位去檢視並改善。</p><p>目前，MSCI只是表示「準備」將印尼從其全球指數中移除，這代表他們仍在評估階段，尚未做出最終決定。這個消息給了印尼一個非常重要的機會，讓他們能趕快檢視並改善金融市場的體質，提升對國際投資者的吸引力。印尼後續會如何應對，以及這是否會影響他們在全球金融市場的地位，都是各界持續關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，MSCI考慮將印尼從其全球指數中移除，這個事件的起因是什麼？你覺得MSCI為什麼會這樣做？",
+      "生活與未來：如果印尼真的被MSCI從全球指數中移除，你覺得這會對印尼的經濟和人民的生活造成什麼實際影響？",
+      "獨立思考提案：針對這次事件，你覺得印尼政府或金融單位可以做些什麼，來避免類似情況再次發生，並吸引更多國際投資？"
+    ],
+    "enTitle": "Indonesia's Market Gets 'Wake-Up Call' as MSCI Considers Expulsion from Global Indexes",
+    "enContent": {
+      "basic": "MSCI might remove Indonesia from its global stock indexes. This is a big warning for Indonesia's financial market. If removed, big international investors might pull their money out. Indonesia needs to fix its market to keep investors.",
+      "intermediate": "Indonesia is facing a potential removal from MSCI's global indexes, a move seen as a significant 'wake-up call' for its financial sector. These indexes guide major investment funds worldwide. Expulsion could lead to reduced foreign investment as funds tracking MSCI indexes might divest from Indonesian stocks. MSCI's assessment typically focuses on market accessibility, liquidity, and transparency, suggesting possible issues in these areas for Indonesia.",
+      "advanced": "The potential expulsion of Indonesia from MSCI's global indexes signifies a critical juncture for the Southeast Asian nation's capital markets. MSCI, a leading provider of investment decision support tools, evaluates markets based on criteria such as ease of foreign investment, capital mobility, and market efficiency. This impending decision serves as a stern warning to Indonesia to address perceived shortcomings in its regulatory framework or market infrastructure to prevent a significant outflow of international portfolio investment. The situation underscores the pressure on emerging markets to align with global investment standards to maintain attractiveness to institutional investors."
+    },
+    "vocabulary": [
+      {
+        "word": "Expel",
+        "zh": "除名 (chú míng) 或 剔除 (tī chú)。想像你在一個社團裡，因為某些原因被要求離開，不能再是社團的一份子。在金融上，就是一個國家或公司從某個重要的名單或組織中被移除了。"
+      },
+      {
+        "word": "Index",
+        "zh": "指數 (zhǐ shù)。就像是學校老師用來評估學生表現的「成績單」或「排行榜」。在金融市場，指數就是用來追蹤一群股票或一個國家市場整體表現的指標，讓大家知道它整體是漲還是跌。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-17",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "女子庫克群島困境：移民難題讓律師也頭大",
+    "zhSummary": "一名女子在太平洋島國庫克群島面臨複雜的移民問題，導致她無法正常離開或合法居留，這個棘手的案子目前正由一位移民律師處理中。",
+    "zhContent": "<p>最近，遙遠的太平洋島國庫克群島發生了一件讓許多人關注的事件。有一名女子因為移民身份問題，目前陷入了進退兩難的困境，既無法順利離開這個國家，也難以合法地長期居住。她的情況非常複雜，甚至連專業的移民律師都形容這是一個「難以處理」的燙手山芋。</p><p>據了解，這名女子原本在庫克群島的身份可能因為某些原因變得不明確，導致她的居留許可面臨挑戰。當她試圖釐清自己的情況或尋求解決方案時，卻遇到了重重阻礙。這些阻礙可能包括文件不齊全、法律條文解釋上的困難，或是相關行政程序異常繁瑣，使得她的處境變得越來越棘手。</p><p>一位移民律師針對此案指出，這並非一般的移民案件，而是涉及到許多細節與法律條款的特殊情況。律師提到，庫克群島的移民法規有其獨特之處，加上這名女子案例中的特殊性，讓當局在處理時也面臨挑戰，需要投入大量的時間和資源來研究如何合法且妥善地解決。</p><p>目前，這位女子和她的律師正積極尋求一個可行的解決方案，希望能幫助她擺脫目前的困境。儘管各方都在努力，但由於案情的複雜性，以及庫克群島移民當局需要謹慎審核所有細節，整個事件的最終結果和進度仍然充滿變數，需要時間才能釐清。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，你認為這名女子「被困」在庫克群島的主要原因是什麼？",
+      "生活與未來：你覺得這個事件會對庫克群島的移民政策或未來想前往當地的人造成什麼實際影響？",
+      "獨立思考提案：針對這類因為身份不明確而導致的困境，你覺得還可以怎麼做會更好，以避免類似情況再次發生？"
+    ],
+    "enTitle": "Woman's Immigration Predicament in Cook Islands Proves Challenging for Lawyer",
+    "enContent": {
+      "basic": "A woman is stuck in the Cook Islands because of immigration problems. She can't leave or stay legally. An immigration lawyer says her case is very hard to deal with. This situation shows how complicated travel and living in other countries can be.",
+      "intermediate": "A complex immigration issue has left a woman stranded in the remote Pacific nation of the Cook Islands. She is unable to either depart the country or legally reside there long-term. Her predicament is so intricate that even a specialized immigration lawyer has described it as 'hot to handle,' indicating significant legal and procedural challenges.",
+      "advanced": "A challenging immigration quandary has emerged in the Cook Islands, involving a woman who finds herself in a precarious state of limbo, unable to secure legal residency or facilitate her departure from the nation. Her case, fraught with intricate legal specificities and administrative hurdles, has been deemed 'hot to handle' by an immigration lawyer, highlighting the complexities inherent in resolving her status within the host country's regulatory framework."
+    },
+    "vocabulary": [
+      {
+        "word": "immigration",
+        "zh": "移民：指一個人從一個國家移居到另一個國家去生活和工作，或指管理這種移動的相關規定和手續。"
+      },
+      {
+        "word": "predicament",
+        "zh": "困境：指一種非常困難、尷尬或令人不愉快的處境，很難找到解決辦法。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-17",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRkt3Sm84eHZCcDBzNFcwMUEydEZzaUxIeXVOTlI0dGNuZ2xFUG56WndjVno0Yk4wcC1MZFZWS3hsdWtUY1ZJZzRSb2Znal9KZ1ZISDE3cFJkNU5DcFBRV0xsN2pYWUFFSzhSVFlKRTMwOE5pY3RpcUdtYkZFbzh4ektCdGV3WC1iaWFiUFpqZUFZREk3bWVSTU0tTlRaVmlnUWI1eG1WR09Qc3N4WmJQdEtlYm10UGdGbHMwM3MyLTFUc2s?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "台灣代表捷克投書：台海和平與國際合作有什麼關係？",
     "zhSummary": "台灣駐捷克代表在當地媒體刊登文章，強調台灣海峽的和平穩定，與捷克對台灣參與國際事務的態度息息相關。",
     "zhContent": "<p>最近，代表台灣在捷克工作的代表，在捷克當地的媒體上發表了一篇文章。這篇文章的重點很明確，它提出一個看法：台灣海峽的和平與穩定，其實和捷克這個國家如何看待並支持台灣參與國際事務，有著非常密切的關係。</p><p>這位台灣代表在投書中詳細解釋，台灣在國際上雖然面臨一些挑戰，但在許多領域，特別是科技和貿易上，都扮演著重要角色。因此，如果像捷克這樣的國家，能夠更積極地支持台灣參與全球性的合作，例如在健康議題或環境保護等方面的國際會議或組織，這不只對台灣有幫助，也能為整個區域的和平穩定貢獻一份力量。</p><p>之所以有這次投書行動，是因為台灣希望讓更多國家了解，台灣不僅是經濟夥伴，也是一個堅定支持民主自由價值的國家。透過在捷克媒體發表文章，能直接向捷克的民眾和政府傳達台灣的聲音，讓他們知道台灣在國際社會中的重要性，以及台灣海峽和平對全球的意義。</p><p>這篇投書是台灣持續進行外交努力的一部分，目的在於增進國際社會對台灣處境的理解與支持。這篇文章已成功在捷克媒體刊登，屬於台灣對外溝通的一項行動。</p>",
