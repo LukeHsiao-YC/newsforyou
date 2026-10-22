@@ -1,5 +1,215 @@
 [
   {
+    "zhTitle": "法國社會動盪：一場席捲全國的風暴",
+    "zhSummary": "法國近期因為一場警察槍擊事件，引發大規模暴動，造成社會治安惡化，多個歐洲國家因此向法國發出旅遊警示。",
+    "zhContent": "<p>近期在法國，發生了一起引發全國關注的嚴重社會事件。這一切，源於一名青少年遭到警察槍擊身亡。這起事件迅速點燃了民眾的不滿與怒火，從首都巴黎的郊區開始，各地都出現了大規模的抗議與暴動。許多城市陷入混亂，街道上到處是焚燒的車輛與被破壞的公共設施，社會治安迅速惡化，情勢非常緊張。</p><p>這場暴動的規模非常廣泛，數不清的汽車被燒毀，許多商店和公共建築也遭到破壞或搶劫。示威者與警方之間不斷發生衝突，法國政府緊急部署了數以萬計的警察和憲兵到全國各地，試圖恢復秩序。在一些受影響特別嚴重的地區，當局甚至實施了宵禁，限制民眾在夜間外出，希望能夠控制住混亂的局面，避免更多破壞發生。</p><p>這起事件的導火線，是一位年僅十七歲的少年納赫爾（Nahel M.）在交通攔檢中被警察射殺。這讓許多法國民眾，特別是年輕一代，對警方的執法方式和潛在的社會不公表達了強烈不滿。雖然法國政府高層嚴厲譴責暴力行為，呼籲民眾保持冷靜，但事件的影響已經波及了日常生活、交通運輸，甚至許多商店因此暫停營業。由於治安狀況不佳，包括德國、英國在內的歐洲多國也對前往法國旅行的國民發布了旅遊警示，提醒遊客注意安全。</p><p>經過了多個日子的動盪，法國各地的暴動情勢逐漸趨緩，通報的衝突事件數量也有所下降。警方持續在各地巡邏，逮捕了數千名涉嫌參與暴動的人。法國政府目前正在評估這次事件造成的巨大經濟損失，並開始著手討論如何修復受損的城市設施與重建社會信任。多國發布的旅遊警示，也提醒著大家這場風暴所帶來的深遠影響。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致法國發生大規模的暴動？法國政府採取了哪些措施來平息暴動？",
+      "生活與未來：你覺得這個事件會對法國當地居民的日常生活造成什麼實際影響？對於計畫前往法國旅遊的人又會有什麼影響？",
+      "獨立思考提案：如果類似的社會衝突發生在你的城市，你覺得政府除了部署警力外，還可以怎麼做來緩和民眾的情緒，避免情況失控？"
+    ],
+    "enTitle": "France's Social Unrest: A Nation-Wide Storm",
+    "enContent": {
+      "basic": "Recently, France experienced major social unrest after a teenager was shot by police. This sparked large protests and riots across the country, leading to safety concerns. Many cars were burned, and shops were damaged. The government sent many police officers and set curfews in some areas. Other European countries advised their citizens to be careful when traveling to France. After several days, the riots calmed down, and the government is now looking at the damage and planning for recovery.",
+      "intermediate": "France recently faced widespread social unrest following a police shooting that killed a teenager. This incident triggered extensive protests and riots in multiple cities, leading to a significant deterioration of public safety. Authorities deployed thousands of police and imposed curfews in certain areas to restore order. The riots involved property damage, including burning vehicles and looted shops. The event prompted several European nations, such as Germany and the UK, to issue travel advisories for France. While the situation has since de-escalated, the French government is now assessing the damage and planning reconstruction.",
+      "advanced": "A fatal police shooting of a teenager recently plunged France into widespread social unrest, catalyzing extensive riots across the nation and prompting concerns over public safety. The incident, involving 17-year-old Nahel M. during a traffic stop, ignited significant public anger and protests, which escalated into violent clashes with authorities, widespread arson of vehicles, and looting of businesses. In response, the French government mobilized tens of thousands of police and gendarmerie forces, implementing curfews in severely affected areas to quell the disturbances. This volatile situation led multiple European countries, including Germany and the United Kingdom, to issue travel advisories for their citizens visiting France. As the intensity of the riots has subsided, French authorities are now confronting the extensive damage and initiating efforts towards societal rebuilding and reconciliation."
+    },
+    "vocabulary": [
+      {
+        "word": "Riot",
+        "zh": "暴動 (bào dòng)：一群人因為強烈的不滿或憤怒，聚集在一起，用暴力破壞公物或攻擊他人，造成社會混亂的行為。"
+      },
+      {
+        "word": "Curfew",
+        "zh": "宵禁 (xiāo jīn)：政府或軍方在特殊情況下，規定民眾在晚上特定時間內不能離開家門或進入公共場所的命令，目的是為了維持社會秩序或安全。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-10-22",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52VGtGN1JDZHVrTXNfa0U3LW9CeVlReGRaYzduazY4alBnbmw1TlE2d0k1ZHFwVE9zR0xybGN4Qk9RR1Z0cWE0dk53aDZka2xVQ2k5bkwxNy12bEhXZFdj?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非政府佛心大放送！國家「荷包滿滿」 汽油稅再減幫民眾省荷包",
+    "zhSummary": "南非政府近期宣布，由於國家財政狀況意外好轉，他們決定重新啟動燃油稅的減免政策，希望藉此減輕民眾在生活上，特別是加油方面的經濟負擔。",
+    "zhContent": "<p>南非政府最近宣布，他們要「再次」啟動一項針對汽油和柴油的稅金減免政策。這項好消息對南非的駕駛朋友們來說，可真是個大大的福利！為什麼呢？因為這代表大家很快就能用比較便宜的價格加到油囉！原來，南非國家的「荷包」最近比預期中還要飽滿，財政狀況出乎意料的好，所以政府決定把這筆額外的錢回饋給民眾，希望能幫大家減輕一點生活上的壓力。</p><p>燃油稅到底是什麼呢？簡單來說，它就是政府向所有購買汽油和柴油的民眾收取的一筆稅金。這筆稅金通常會直接加在油價裡面，所以你每次加油的時候，其實也付了這筆稅。之前南非政府也曾為了減輕民眾負擔，暫時停止過這項稅金的徵收，但後來因為種種考量又恢復了原狀。現在，隨著國家經濟情勢的好轉，政府再次決定把這項稅金的優惠減免給拿出來，讓廣大的用路人可以稍微喘口氣。</p><p>這次能夠實施減稅政策，主要原因是南非的財政部最近審視國家的收入狀況時，發現成果比他們原本預期的還要好。這可能代表國家的經濟活動更加活絡，企業繳納的稅款增加，或是出口表現亮眼等等。有了這筆「意外之財」，政府就有了更充裕的彈性，去思考如何將這些額外的資源用來支持民眾。而減免燃油稅，正是他們評估過後，認為能夠最直接且快速讓大眾感受到的「福利」之一。</p><p>所以，這項燃油稅減免政策的重新啟動，對於南非的普羅大眾來說，絕對是個好消息。當油價因為稅金減少而變得比較便宜時，不僅僅是開車上班、出遊的成本會降低，就連貨物運輸的費用也可能間接下降，這表示日常商品的價格也有機會跟著緩和。總的來說，這就是南非政府根據國家財政的最新狀況，所做出一項旨在減輕民眾生活負擔的重要措施，為大家帶來實質的幫助。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa Reinstates Fuel Levy Cuts Amid Stronger Finances",
+    "enContent": {
+      "basic": "South Africa's government is cutting fuel taxes again. This will make petrol and diesel cheaper for people. The country's money situation has improved, giving the government more funds to help its citizens.",
+      "intermediate": "The South African government has announced it is bringing back cuts to the fuel levy. This means the tax on gasoline and diesel will be reduced, which will lower fuel prices for consumers. This decision comes as the nation's financial health has strengthened, providing the government with more capacity to offer economic relief to its citizens.",
+      "advanced": "The South African government has confirmed the reinstatement of fuel levy cuts, a strategic move aimed at providing financial relief to its populace. This policy adjustment follows a period of robust national finances, which have provided the necessary fiscal space for such interventions. By reducing the tax component on petrol and diesel, the government intends to alleviate the burden of rising living costs for consumers and potentially stimulate economic activity by lowering transport expenses. This measure reflects an adaptive fiscal policy responding to improved revenue collection and overall economic performance."
+    },
+    "vocabulary": [
+      {
+        "word": "Levy",
+        "zh": "一種稅金或費用，通常是由政府為了特定目的，對某樣商品或服務收取的。"
+      },
+      {
+        "word": "Finances",
+        "zh": "一個國家、公司或個人的錢財狀況；也就是指他們有多少錢、怎麼賺錢、怎麼花錢等等。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-22",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjliekdkc1RrYWx0dmY2SFFmOHNZUld4OGQzWTFFdjlITUZOa0ZmOFFyd3RCNXBRWVFPT1VocVItN2FQNWNPcTdVY05KT29lWEhwWFBNV0hsWC1wam1fbUdja1NSaEh5NVRsYWR1cFNjb0p1cndOcHpCMTd1VUdKX2xnS1VzLVVtQndfZXItSlRTeHlKS3czVlZmMlN1MzR3SHd0ZHZuMVZYYUs4Q3B0dWx1SFphU0w2c2xoNHQ1YWZWMHdncEdObEV3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "巴基斯坦總統會晤IMF高層，討論國家經濟大計",
+    "zhSummary": "巴基斯坦總統札達里在總統府與國際貨幣基金組織中東與中亞部門主管吉哈德·阿祖爾會面，雙方主要討論了巴基斯坦的當前經濟狀況與未來發展方向。",
+    "zhContent": "<p>巴基斯坦的總統阿西夫·阿里·札達里最近與一位來自國際貨幣基金組織（簡稱IMF）的重要官員見面了。這位官員是中東與中亞部門的主管吉哈德·阿祖爾。他們會面的地點就在巴基斯坦的總統府，叫做艾萬-e-薩德爾。這場會面對於巴基斯坦來說，是很受關注的一件事，因為這代表他們正在與國際間的金融機構討論國家經濟狀況。</p><p>這次的會談主要聚焦在巴基斯坦的經濟情況。國際貨幣基金組織是一個很重要的國際機構，他們主要的工作就是幫助世界各國維持經濟穩定，特別是那些遇到財政困難的國家。札達里總統與阿祖爾主管的會面，目的就是讓雙方能針對巴基斯坦當前的經濟挑戰進行深入的交流，看看有沒有什麼方法可以讓國家的經濟發展得更好。這類型的會議通常會討論到國家的收支、債務狀況以及未來的經濟計畫。</p><p>巴基斯坦過去曾經多次與國際貨幣基金組織合作，尋求金融上的援助，以穩定國家財政。因此，總統這次與IMF主管的會面，可以說是在這長期合作關係下的一個最新進展。會中，雙方可能會回顧過去的合作方案，評估目前的經濟改革措施是否有達到預期效果，並討論未來可能需要實施的新政策，以確保巴基斯坦的經濟能夠持續健康地運作。這對於巴基斯坦的發展來說，是相當關鍵的一步。</p><p>這場在總統府舉行的會面，是巴基斯坦政府與國際貨幣基金組織之間持續對話的一部分。目前新聞報導僅指出這場會議已經順利進行，目的在於為巴基斯坦的經濟未來尋求穩定與成長。雙方預計會持續保持密切溝通，以期共同找出對巴基斯坦最有利的經濟發展方向。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pakistan's President Meets IMF Official to Discuss Economy",
+    "enContent": {
+      "basic": "Pakistan's President Asif Ali Zardari met with Jihad Azour from the International Monetary Fund (IMF) at the presidential palace. They talked about Pakistan's economy.",
+      "intermediate": "President Asif Ali Zardari of Pakistan held a meeting with Jihad Azour, the Director of the International Monetary Fund’s Middle East and Central Asia Department, at Aiwan-e-Sadr. The main topic of their discussion was Pakistan's current economic situation and strategies for future growth and stability.",
+      "advanced": "In a significant diplomatic engagement, Pakistan's President Asif Ali Zardari convened with Jihad Azour, Director of the International Monetary Fund’s Middle East and Central Asia Department, at Aiwan-e-Sadr. The high-level talks focused on critically assessing Pakistan's economic landscape, addressing prevailing fiscal challenges, and strategizing comprehensive reforms to foster sustainable economic stability and growth within the nation."
+    },
+    "vocabulary": [
+      {
+        "word": "International Monetary Fund (IMF)",
+        "zh": "國際貨幣基金組織 (IMF)：這是一個國際組織，主要幫助各國穩定經濟，例如在國家缺錢時提供貸款，也會給一些建議，讓國家的經濟能更好。"
+      },
+      {
+        "word": "Economy",
+        "zh": "經濟：指的是一個國家生產、分配和消費各種商品和服務的活動。簡單來說，就是一個國家如何賺錢、花錢，以及人民的生活富不富裕。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-22",
+    "sourceName": "| Associated Press Of Pakistan",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbFZNYzhBZnFPRHp2UDBld0MwNDUyOVNJVExUNHdDckN5eFVmUjI0dGdoaVBpczROMnkxNGNOak80dlB5UFFTNWFpTHFGRk5JT0Z5UTQ2bVlaTWRLV3VlaWRfMVBJM2F1OTJPZThnNjB0QW5ZTzlrUWxlRFM2N0xfSGZCWXJKbDlmTU5pOWlFODBsREdwX2Q4cnp4MGJ3LUx2eDl3WGRDWVo5dmdlTEhRR2xTbk5NWFFkT1NmLUFCS3BSaVFmbTVpNnI5UExWV2ZWNTFUYk4xNzFuVk52bWxHbGNFNDZaSEJUbzZpNjlnT0FnQkNRcXM3LTFwdngwcVFqa0M0akRMZ28wSHZqRDBrYjdSX08tMjRpV0JOTzN0V3otdw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "釜山海灘奇遇記：鯊魚擱淺引發大批民眾圍觀！",
+    "zhSummary": "韓國釜山的海灘上，一條鯊魚意外擱淺，吸引了龐大的人群圍觀。這起事件引起了當地廣泛的關注。",
+    "zhContent": "<p>最近在韓國的第二大城市釜山，發生了一件很不尋常的事情，讓當地居民和遊客們都大吃一驚。在某個海灘上，突然出現了一條鯊魚，但牠不是在海裡悠游，而是困在了岸邊的淺水區，動彈不得。這條龐然大物被發現時，引來了許多人的注意，大家紛紛停下腳步，好奇地觀察著這難得一見的景象。</p><p>這條擱淺的鯊魚，根據媒體報導，吸引了數量驚人的圍觀民眾。許多人在聽到消息後，特地趕到現場，想要親眼看看這條困境中的海洋生物。人們站在安全距離外，有的人拿出手機拍照，有的人則竊竊私語地討論著。當時的畫面，就像是辦了一場臨時的戶外生物展，只是主角是一條不小心迷路的鯊魚。大家臉上都帶著驚訝又好奇的表情，整個海灘因此變得非常熱鬧。</p><p>至於這條鯊魚為什麼會擱淺，目前並沒有明確的官方說法詳細說明。不過，根據以往的經驗，鯊魚擱淺的原因有很多種，有可能是因為潮汐變化、追逐獵物時不慎游得太淺，或是因為生病、受傷導致牠迷失了方向，無法回到深海。無論原因為何，這條體型不小的鯊魚在淺灘上的掙扎，都讓在場的人感到既心疼又緊張。</p><p>面對這突如其來的狀況，當地相關單位很快就接獲了通報，並派員前往處理。他們需要評估鯊魚的狀況，並想辦法安全地將牠送回大海，或者在必要時提供進一步的救援。這次在釜山發生的鯊魚擱淺事件，最終獲得了妥善的處理，相關單位也對現場秩序進行了維持，確保了民眾的安全。報導中沒有提到後續的細節或更戲劇性的發展，就如同這條鯊魚在淺灘上短暫停留後，這起事件也平靜地告一段落。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Bukangi: Huge crowds watch shark stranded in Busan, South Korea",
+    "enContent": {
+      "basic": "A shark was stranded in Busan, South Korea. Many people came to see it. It was a big event.",
+      "intermediate": "In Busan, South Korea, a shark became stranded on the shore, drawing significant public attention. Large crowds gathered to witness the unusual sight of the marine animal out of its natural habitat.",
+      "advanced": "A captivating incident unfolded in Busan, South Korea, where a shark, reportedly identified as 'Bukangi,' found itself stranded in shallow waters, subsequently attracting a considerable congregation of onlookers. The event, highlighted by international media, underscored the public's fascination with marine life and unusual occurrences."
+    },
+    "vocabulary": [
+      {
+        "word": "Stranded",
+        "zh": "擱淺，意思是船隻、鯨魚、或像這次的鯊魚，因為某些原因困在岸邊的淺水區，無法回到深海裡。想像一下，就像你騎腳踏車不小心騎進了泥巴裡，動彈不得一樣。"
+      },
+      {
+        "word": "Crowds",
+        "zh": "人群，指很多、很多人聚集在一起。就像學校園遊會或演唱會現場，會有非常多的人聚在一起，就叫做人群。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-22",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meUF6S3ZCVjdNbVFGUHJLZDJUVktuRVhQZWtqT0Z5SUFUcm9NSTktLVVCNXVtRDd0MkNPLXBHYlFxcnh5NXg4Zk1PQVJiXzIxUmVhZXppYVo?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "供應鏈天天有狀況？企業這樣應變新挑戰！",
+    "zhSummary": "這則新聞指出，現在全球貨物運送與生產常常遇到中斷，企業不再把這些當成意外，而是學習如何讓貨物在持續變動的環境中也能順利抵達。",
+    "zhContent": "<p>大家有沒有想過，我們手上拿的零食、穿的衣服、玩的遊戲機，是怎麼從工廠送到我們手上的呢？這整個過程其實比你想像的還要複雜！最近，一家叫做SAP的國際大公司就提出了一個很重要的觀察：現在要讓這些東西順利送到消費者手上，已經不能期待一切都平順無事了。他們說，供應鏈常常會遇到各種狀況，而且這些狀況已經變成『新常態』了。</p><p>那什麼是『狀況』呢？可能是突然的天災、某個環節零件短缺、或是意想不到的國際事件等等，都可能讓貨物在運送途中卡住。以前大家遇到這些問題，可能會覺得是偶發事件，想辦法解決就好。但現在不一樣了，SAP的報告顯示，企業必須預期這些『中斷』會一直發生，而且還得學會在這些混亂中，找到辦法確保東西能被製造出來，並且送達客戶手中。</p><p>為什麼會變成這樣呢？全球的連結越來越緊密，一個地方出了問題，很容易影響到全世界。所以，企業不能再只靠一套固定的計畫來運作了。他們現在的重點是，如何讓整個生產和運送過程更有彈性、更能應變。他們會提早設想各種可能發生的困難，並且準備好備用方案，不讓任何意外輕易打亂原有的進度。</p><p>所以，現在很多大型企業，特別是那些和SAP合作的公司，都在努力建構一套更靈活的供應系統。他們的目的就是，即使世界狀況不斷，也能讓產品製造和運送的過程保持順暢。這代表未來當我們在買東西的時候，背後都有一群人，正默默地努力確保，就算外面再多變化，你想要的商品還是能夠準時到達你的手裡。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「供應鏈常常會遇到狀況，變成新常態」是什麼意思？你覺得會有什麼樣的狀況？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如：對生產商品的廠商、賣東西的商店，或是我們消費者？",
+      "獨立思考提案：針對企業需要「建構一套更靈活的供應系統」來應變挑戰，你覺得還可以怎麼做會更好，讓供應鏈即使面對中斷也能保持順暢？"
+    ],
+    "enTitle": "Navigating the New Normal: Supply Chains in a World of Constant Disruption",
+    "enContent": {
+      "basic": "Have you ever wondered how your favorite snacks or clothes get from a factory to you? It's more complex than you think! A big company called SAP noticed something important: getting things to customers smoothly isn't always easy anymore. They say that problems in getting goods where they need to go are now 'the new normal.' These problems can be things like bad weather, missing parts, or big global events. Companies used to fix problems as they came up, but now they have to expect them all the time. They need to find ways to make sure things get made and delivered, even when there are constant changes. This is because the world is very connected, so a problem in one place can affect many others. So, many companies are building smarter ways to move goods, making sure products can still arrive on time, no matter what happens.",
+      "intermediate": "The journey of products from factories to consumers, known as the supply chain, is facing unprecedented challenges. SAP, a leading enterprise software company, highlights a significant shift: disruptions are no longer isolated incidents but have become a 'new normal.' These disruptions can range from natural disasters and raw material shortages to geopolitical events, all capable of stalling product flow. Companies previously reacted to such issues, but now they must proactively anticipate and manage these constant interruptions. The globalized nature of our world means that problems in one region can rapidly spread, impacting supply chains worldwide. Therefore, businesses are now focusing on building more flexible and resilient supply systems. They are developing strategies and using advanced tools to predict potential problems and prepare backup plans, ensuring products continue to reach customers despite an ever-changing environment.",
+      "advanced": "The contemporary global economy is grappling with a profound transformation in supply chain dynamics. SAP's observations underscore that 'disruption-as-normal' characterizes the current landscape, necessitating a paradigm shift in how businesses manage their logistics and production. External factors, including but not limited to climate events, resource scarcity, and geopolitical instability, routinely interject, impeding the seamless flow of goods. Unlike past models that afforded reactive problem-solving, today's enterprises are compelled to embrace proactive and adaptive strategies. The intricate interconnectivity of global markets means localized disturbances can cascade rapidly, underscoring the imperative for robust, agile supply chains. Consequently, a concerted effort is underway, particularly among SAP-affiliated organizations, to engineer resilient systems capable of sustaining operational continuity and timely product delivery amidst persistent volatility. This strategic evolution ensures that consumer access to goods remains largely uninterrupted, irrespective of external flux."
+    },
+    "vocabulary": [
+      {
+        "word": "Disruption",
+        "zh": "中斷 (zhōng duàn)：指的是有事情突然發生，打斷了原本的計畫或正常的運作，讓事情無法繼續順利進行。例如，一場颱風可能造成交通中斷。"
+      },
+      {
+        "word": "Supply Chain",
+        "zh": "供應鏈 (gōng yìng liàn)：想像一下，你喜歡的零食從工廠生產出來，一路經過運送、儲存，最後才到商店讓你買到。這整個「從製造到你手上」的過程，就是供應鏈。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-22",
+    "sourceName": "SAP News Center",
+    "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00WC0zNGdTREFfdEkzdm5vdHFvS3pzNVVDcW9ITUI3MEpkTEJlaTI2TDd0RFpjOWNERHNQd2ZEdkh5b0lxYkJZMmFLaGpBcWR3MjhlbHZQY0hrUVJhdXl0WUtWeExMdEg3RWIwc2JfMXpSaGxLejlfUw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋島國力挺！世界衛生組織有望設立「醫藥共享池」",
+    "zhSummary": "太平洋島國最近在世界衛生組織大會上，共同表達支持一項設立「醫藥共享池」的提案。這個計畫希望能幫助像他們一樣的小國家，更容易買到、負擔得起重要的藥品。",
+    "zhContent": "<p>最近，在國際間很重要的世界衛生組織（WHO）會議上，來自太平洋地區的島嶼國家們，共同提出了一個很棒的建議，並且得到了大家的支持。他們希望能在WHO底下，建立一個專門的「醫藥共享池」。簡單來說，就是大家一起來團購藥品，這樣小國家們就能用更划算的價格，買到自己需要的藥物，不用再為此煩惱。</p><p>這個「醫藥共享池」的構想，其實是希望透過集合所有參與國家的力量，一起向製藥廠採購大量藥品。這樣一來，因為訂單數量大，就能爭取到更好的折扣，讓本來可能很貴的藥變得更便宜。對於那些資源比較少、人口也不多的國家來說，這無疑是一個能大幅減輕負擔，並確保國民都能用到基本藥物的好方法。</p><p>太平洋島國之所以會這麼支持這個提案，是因為他們有著特別的難題。這些國家大多地處偏遠，交通不便，而且人口相對較少，這使得他們在獨立採購藥品時，常常面臨藥品數量不足、價格昂貴，甚至是運送困難等困境。因此，一個由國際組織牽頭的「醫藥共享池」，對他們來說就像是一盞明燈，帶來了解決長期困境的希望。</p><p>目前，這項「醫藥共享池」的提案已經獲得了太平洋島國的明確支持，這表示它在世界衛生組織內部推動的機會更大了。這項提案若能順利實行，將有助於這些地理位置特殊、資源有限的國家，能更穩定地取得所需要的藥物，保障當地居民的健康福祉。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「醫藥共享池」是什麼意思？它和我們平常聽到的「團購」有什麼相似之處？",
+      "生活與未來：你覺得這個「醫藥共享池」的改變，會對太平洋島國的人民帶來什麼實際影響？例如在他們的日常生活中，可能會有什麼變化？",
+      "獨立思考提案：針對這個「醫藥共享池」的構想，你覺得還可以怎麼做，才能讓更多有需要的國家受惠，或讓這個機制運作得更順暢？"
+    ],
+    "enTitle": "Pacific Islands Back WHO 'Medicine Pool' Proposal",
+    "enContent": {
+      "basic": "Pacific Island nations are supporting a proposal at the World Health Organization (WHO) to create a 'medicine pool'. This idea aims to help smaller countries get essential medicines more easily and affordably by pooling resources for buying drugs.",
+      "intermediate": "Pacific Island nations have collectively voiced their support for a 'medicine pool' proposal at the World Health Organization (WHO). This initiative seeks to establish a shared mechanism for procuring essential medicines, aiming to make them more accessible and affordable for smaller nations that often face challenges in obtaining medical supplies due to their size and remote locations.",
+      "advanced": "A significant development at the World Health Organization (WHO) involves the strong endorsement from Pacific Island nations for a 'medicine pool' proposal. This strategic initiative aims to centralize the procurement of essential pharmaceuticals, thereby enhancing equitable access and affordability for geographically isolated and resource-limited countries. The backing from these nations underscores a collective effort to overcome supply chain vulnerabilities and high costs, ensuring critical medicines reach underserved populations."
+    },
+    "vocabulary": [
+      {
+        "word": "Proposal",
+        "zh": "提案：指一個正式的計畫或建議，提出來讓大家討論、考慮是否要執行。就像你和朋友討論週末去哪玩，你提出一個「去動物園」的提案一樣。"
+      },
+      {
+        "word": "Access",
+        "zh": "取得：指的是能夠得到或使用某樣東西的機會或權利。例如，新聞中提到「取得藥品」，就是指人們能否順利買到或拿到他們需要的藥物。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-22",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmczdWwyNmh0UFB4UzlRNVVDNmN4NTc5ZV9tc01LUkJWTkozUDY4c2w1NVVkRk1hRHBFaktldEdRMU5MUlJXNk1GeXFjbVRYbHlsR2dPalB6Z1p2d203dEVGOXVlU3BLOGdYZ2stNXREQmRlZzQ4cnZmNWZYc3RMOGhMTjB1ZFl3UjRvRXNsNGtpM2gyVEVrWnoxalFobEZKQVpjalgtWUs5QQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "法國街頭騷亂延燒，歐洲多國發布旅遊警示！",
     "zhSummary": "法國近期因一起警民衝突事件，引發全國性大規模暴動，造成社會動盪與治安惡化。周邊的歐洲國家也因此對前往法國旅遊的國民，發出安全警告。",
     "zhContent": "<p>最近，法國經歷了一場讓全球都十分關注的動盪。起因是六月底在巴黎近郊，一名十七歲的青少年在一次警方攔檢時不幸身亡，這件事像點燃引線一樣，迅速在全國各地引發了民眾的強烈不滿和大規模抗議。這些抗議活動很快演變成激烈的街頭騷亂，造成了嚴重的治安問題。</p><p>這些騷亂從巴黎周邊地區開始，快速蔓延到法國多個主要城市，包括馬賽、里昂和里爾等地。許多憤怒的抗議者走上街頭，破壞商店櫥窗、焚燒停在路邊的車輛，甚至有警局和市政廳等公共建築遭到攻擊。據官方統計，在高峰期，有數千人被逮捕，政府為了平息混亂，不得不動員了上萬名警察和憲兵加強維護秩序，部分地區也實施了宵禁。</p><p>這次暴動除了直接的事件導火線，也反映出法國社會內部一些長期存在的問題，尤其是在青年群體中的不滿情緒。面對失控的局面，法國政府除了強力執法，也呼籲社會各界保持冷靜，避免衝突升級。由於法國的社會秩序和治安狀況受到嚴重影響，不少歐洲國家，例如德國、英國、比利時等，紛紛對前往法國的本國公民發出旅遊警示，提醒大家務必注意人身安全。</p><p>截至目前，法國各地的街頭騷亂情勢雖然相較於初期已經有所緩和，但這些歐洲國家所發布的旅遊警示依然生效。這些警示建議旅客，在法國旅行時應特別小心，盡量避開人群聚集或可能有示威活動的區域，並隨時留意當地新聞與政府的安全公告。這都是為了確保前往法國的旅客能夠平安地度過旅程。</p>",
