@@ -1,5 +1,180 @@
 [
   {
+    "zhTitle": "全球晚間速報：颱風薔琵逼近台灣，伊波拉疫情延燒奈及利亞",
+    "zhSummary": "中央社於2026年10月21日報導，颱風薔琵路徑西修，恐發海上警報，台灣5縣市侵襲率逾8成；非洲伊波拉疫情擴大，奈及利亞出現首例確診。",
+    "zhContent": "<p>各位讀者晚安，這是中央社在2026年10月21日晚間為大家帶來的全球重點新聞。今天有兩個重要的消息，一個是關於西北太平洋上的強烈颱風「薔琵」，它的動向正受到密切關注；另一個則是來自非洲大陸的健康警訊，伊波拉疫情似乎正在擴大，甚至首次在奈及利亞出現病例。全球各地每天都有不同的事件發生，我們現在就來看看這些最新情況。</p><p>首先來看颱風「薔琵」。根據氣象單位的預測，最快在今天晚上就會發布海上颱風警報。這表示在台灣附近的海洋活動需要特別留意，因為颱風的路徑已經稍微往西邊調整，預計會更靠近台灣。目前有五個縣市被評估受到颱風影響的機率超過八成，代表這些地方可能會感受到比較大的風雨。居民和相關單位都已經在為可能的影響做準備，隨時關注颱風的最新路徑與天氣變化。</p><p>接著我們把視線轉向非洲。世界衛生組織和當地衛生單位正密切注意伊波拉病毒的疫情。這是一種嚴重的傳染病，過去主要影響非洲部分國家。不幸的是，這次疫情似乎正在擴散，最令人擔憂的消息是，奈及利亞已經確認出現了第一起伊波拉病例。這對奈及利亞的公共衛生系統來說是一個嚴峻的考驗，也讓國際社會對於疫情的擴散更加警惕，需要採取措施來控制病毒的傳播。</p><p>總結今晚的全球新聞，颱風「薔琵」的靠近使得台灣部分地區進入戒備狀態，海警可能即將發布；同時，非洲的伊波拉疫情也因為奈及利亞出現首例而變得更加複雜。這些都是今天晚間重要的國際消息，提醒我們地球上同時有許多事情在發生，而這些事件都會有其後續的發展。中央社將會持續追蹤並提供最新的報導。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Global Alerts: Typhoon Champi Nears Taiwan, Ebola Spreads to Nigeria",
+    "enContent": {
+      "basic": "Tonight, two big news stories are happening around the world. A strong typhoon named Champi is moving closer to Taiwan, and a sea warning might be issued soon. Five areas in Taiwan have a high chance of being affected. At the same time, a serious sickness called Ebola has been found for the first time in Nigeria, Africa. This shows the sickness is spreading. We are watching both of these important events.",
+      "intermediate": "Central News Agency's global evening report for October 21, 2026, highlights two major concerns. Typhoon Champi is forecast to trigger a sea warning for Taiwan tonight, with its path shifting westward, putting five counties at over 80% risk of impact. Simultaneously, the Ebola outbreak in Africa is expanding, with Nigeria reporting its first confirmed case. This development signifies a critical challenge for public health in the region and internationally.",
+      "advanced": "On the evening of October 21, 2026, global attention is drawn to dual unfolding crises: the imminent threat of Typhoon Champi to Taiwan and the escalating Ebola epidemic in Africa. Meteorological agencies predict a sea warning for Taiwan as Champi's path adjusts westward, placing five counties at an elevated risk exceeding 80% for direct impact. Concurrently, the Ebola virus, a severe communicable disease, has made its inaugural appearance in Nigeria, indicating a concerning geographical expansion of the African outbreak and necessitating heightened international public health vigilance and containment efforts."
+    },
+    "vocabulary": [
+      {
+        "word": "Typhoon",
+        "zh": "颱風：一種強烈的熱帶風暴，風速非常快，通常會帶來大雨，對陸地和海上活動構成威脅。"
+      },
+      {
+        "word": "Ebola",
+        "zh": "伊波拉：一種非常危險的病毒性疾病，會讓人發燒、出血，而且傳染力很強，需要嚴格的隔離和治療。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-10-23",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SR2Vic21Qa0E5UkVQOHVkYlV0VFJ2eWtXYVpWN0dGQlk4QWpoQ0ZaOE5nZjZTbHZqdklEekR6NU05OU9CcjdEOUlxQmUwTE5Cb0ZELVZ3dDJ6SVk?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "從一戰到葉門戰事：英國飛機如何串起與沙烏地阿拉伯的百年情誼？",
+    "zhSummary": "這篇報導將帶你了解英國與沙烏地阿拉伯之間，一段從第一次世界大戰延續至今的特殊軍事合作關係，特別聚焦於英國戰機在葉門衝突中的角色。",
+    "zhContent": "<p>你或許會好奇，為什麼遠在歐洲的英國，會和中東的沙烏地阿拉伯有著這麼深的軍事連結？最近，許多英國製造的噴射機被送到了沙烏地阿拉伯，用來協助他們應對葉門的「青年運動」（Houthis）。其實，這並不是什麼新鮮事，這兩國之間的軍事合作關係，可以說是從第一次世界大戰前後就開始了，一路延續到現在。</p><p>這段長久的軍事情誼，經歷了將近一百年。從早期英國為沙烏地提供軍事顧問和基礎裝備，幫助他們建立現代軍隊，到後來供應更先進的戰機、武器系統和培訓服務，兩國一直保持著緊密的防務往來。特別是在冷戰時期，以及後來中東地區局勢的變化，都讓英國成為沙烏地阿拉伯重要的軍備來源國。這些噴射機不只代表著武器，更象徵了雙方長期以來的互信與合作。</p><p>對英國來說，這些軍售訂單帶來了可觀的經濟效益，創造了許多工作機會，也讓英國在全球軍工產業中佔有一席之地。而對沙烏地阿拉伯而言，購買這些高性能的英國噴射機和相關技術，能有效提升他們的國防實力，尤其是在面對地區衝突時，例如目前與葉門青年運動的戰事。這就是為什麼，儘管國際社會對某些衝突有不同的看法，這筆軍售仍然持續進行。</p><p>因此，英國向沙烏地阿拉伯出售戰機的這件事，並非單一事件，而是兩國長期且深入的軍事合作關係的最新發展。這段關係不僅貫穿了歷史上的多個關鍵時期，也持續影響著現今中東地區的軍事平衡。這份連結至今仍在延續，雙方的合作依然是各自防衛策略中的一個重要環節。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "From WW1 to Houthis: Britain's Long Military Bond with Saudi Arabia",
+    "enContent": {
+      "basic": "Britain and Saudi Arabia have a very old military friendship. Recently, Britain sold fighter jets to Saudi Arabia. Saudi Arabia uses these jets to help them in a conflict with a group called the Houthis in Yemen. This friendship started around the time of World War 1 and is still strong today. Britain gives Saudi Arabia military equipment and training. This helps Saudi Arabia protect itself. For Britain, selling jets brings money and jobs. It’s an ongoing relationship that helps both countries.",
+      "intermediate": "You might wonder why Britain and Saudi Arabia have such a deep military connection. Recently, British-made fighter jets were delivered to Saudi Arabia to assist them in their conflict with the Houthis in Yemen. This long-standing military bond actually dates back to around World War 1 and has continued for nearly a century. Over time, Britain has provided military advisors, basic equipment, and later, advanced aircraft and training, becoming a key supplier for Saudi Arabia's defense needs. This partnership offers economic benefits and job creation for Britain, while Saudi Arabia gains advanced military technology to strengthen its defense, especially in regional conflicts. This ongoing cooperation remains a significant part of both countries' defense strategies.",
+      "advanced": "The enduring military alliance between Britain and Saudi Arabia, highlighted by recent deliveries of British-manufactured fighter jets to aid Saudi Arabia in its conflict with the Houthis in Yemen, is a relationship forged over a century, tracing its origins back to the era of World War 1. This extensive partnership has seen Britain evolve from providing initial military consultancy and foundational equipment to supplying advanced weaponry, sophisticated aircraft, and comprehensive training programs, solidifying its role as a pivotal defense partner for Saudi Arabia. From Britain's perspective, these substantial arms deals not only generate significant economic revenue and employment opportunities but also bolster its standing in the global defense industry. Conversely, Saudi Arabia leverages this access to high-performance British jets and technology to fortify its national security, particularly pertinent given ongoing regional instabilities. Consequently, the sale of these jets is not an isolated transaction but rather the latest chapter in a deep-rooted military collaboration that continues to shape the strategic landscape of the Middle East, remaining a critical component of both nations' defense frameworks."
+    },
+    "vocabulary": [
+      {
+        "word": "Bond",
+        "zh": "連結／情誼：指人與人之間或國家與國家之間，一種很深厚、很緊密的關係或情感聯繫。"
+      },
+      {
+        "word": "Jet",
+        "zh": "噴射機：一種速度非常快的飛機，通常用於軍事用途，例如戰鬥機或轟炸機。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-10-23",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkdfYm9xdHd3aFk4ZjlSalpIWU9HMnE3RTl2WEx6ODlWTjVsd1pPcWFYSVNsQVN6QXlJb04wV1JKcXYzYjdIbVhWQjFXMHhOdG1oS2lHOXNZazlHUXpzUi1XbGtNUGkwRVFPUUZ4OHRGTFlMZll2TzlDbXNISlB1LXlRc2Rlc0llNWdBVHQ3U1ZMbzJkTy1leVAycHJzTEVOZFAwVHlOb2Q0N2F3MEpKRUJzNk_SAboBQVVfeXFMTUI1bWRsR21rYnFTUmRKeE1NN01FclFmZ2p6bzRqX0V4R0NTam9XcHN5U0ppaG1OLWlHdUJCeG9Cd2I4bHpXaGV2OF8wMXp5b29VWmc2ekI1ZzF3WDZyY3E4X0E4SHlHTmtwWTFjUlBmQkRHZDAtT1MyZE9hbGVIeWdsTkZ3UmJrTXJLNGt1czNPUENab2dPa21pWERHSzlCcHZIbFhBWXItOVNzWDc3VjNGa2owLWxtVjl3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南韓釜山海灘驚見鯊魚擱淺！大批民眾圍觀",
+    "zhSummary": "一隻大型鯊魚在南韓釜山的海灘上擱淺，吸引了許多好奇的民眾圍觀，當地政府和救援單位迅速介入處理，最終成功將鯊魚送回大海。",
+    "zhContent": "<p>南韓釜山的海灘，平常都是充滿歡樂笑聲的地方，但在某個早晨，卻出現了意想不到的景象。一隻大型鯊魚被發現擱淺在沙灘上，動彈不得。這突如其來的「不速之客」立刻引起了當地居民和遊客的注意，大批民眾聽聞消息後，紛紛趕到海邊，想要一探究竟。整個海灘頓時擠滿了人潮，大家既好奇又帶著些許緊張地，遠遠地圍觀著這條在淺灘掙扎的海洋生物。</p><p>根據現場目擊者的說法，這條鯊魚被發現時，正努力地拍動著尾巴，試圖回到海中。隨著時間一分一秒過去，海水的潮位似乎逐漸退去，讓鯊魚離深海越來越遠。圍觀的民眾們，有的人拿起手機拍照錄影，有的人則竊竊私語地討論著。當地政府和相關海洋救援單位在接到通報後，也迅速派員趕往現場。救援人員抵達後，首先是拉起了警戒線，確保民眾的安全，同時評估這條擱淺鯊魚的狀況。</p><p>初步判斷，這條鯊魚的體型相當大，目測長度約數公尺。牠的品種和確切擱淺原因，初期並沒有立刻得到官方確認，可能是因為迷失方向、追逐獵物太靠近岸邊，或是身體不適。海洋專家隨後也趕到現場，他們仔細地檢查鯊魚的生命跡象，並思考該如何安全地將牠送回大海。現場氣氛既緊張又充滿期待，因為大家都希望這條珍貴的海洋生物能夠順利獲救。救援團隊討論了多種方案，包括使用特殊設備協助推回深水區，或是暫時將牠移至安全水域觀察。</p><p>經過專業人員的仔細評估和判斷，並考量到鯊魚的健康狀況以及現場環境，當地海洋部門最終決定採取特定的救援行動。在多名工作人員的努力下，他們小心翼翼地引導並推動這條擱淺的鯊魚，配合潮汐的變化，逐步將牠送回了較深的水域。整個救援過程耗費了不少時間和人力，但最終鯊魚成功游向了深海，消失在眾人的視線中。這次突發事件在釜山引起了不小的關注，但也隨著鯊魚安全返回大海，畫下了一個圓滿的句點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Shark Stranded on Busan Beach Draws Huge Crowds",
+    "enContent": {
+      "basic": "A big shark was found stranded on a beach in Busan, South Korea. Many people gathered to watch it. Local authorities and rescue teams quickly came to help. They tried to send the shark back to the deep sea. After much effort, the shark was successfully returned to the ocean.",
+      "intermediate": "In Busan, South Korea, a large shark was discovered stranded on a local beach, drawing a significant crowd of curious onlookers. As the shark struggled in the shallow water, local government and marine rescue units were dispatched to the scene. Experts assessed the shark's condition and planned a safe rescue operation. Eventually, rescue workers carefully guided the shark back into deeper waters, ensuring its safe return to the ocean.",
+      "advanced": "A compelling scene unfolded on a Busan beach in South Korea when a considerable shark became stranded, prompting a substantial congregation of onlookers. The marine creature, observed attempting to return to deeper waters, quickly became the focus of local attention. Upon receiving reports, government agencies and specialized marine rescue teams swiftly arrived, establishing a perimeter and assessing the shark's health and the environmental conditions. Marine experts formulated a precise strategy, which culminated in the careful and successful relocation of the shark back into its natural deep-sea habitat, concluding the high-profile incident."
+    },
+    "vocabulary": [
+      {
+        "word": "Stranded",
+        "zh": "擱淺 (gē qiǎn) - 指船隻或海洋動物被困在淺水區或岸邊，無法移動。想像一艘船靠岸太近，潮水退了它就動不了了，就是擱淺了。"
+      },
+      {
+        "word": "Crowds",
+        "zh": "人潮/圍觀者 (rén cháo / wéi guān zhě) - 指非常多的人聚集在一起。就像學校園遊會時，很多人擠在一起買東西，就是「人潮」。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-10-23",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meUF6S3ZCVjdNbVFGUHJLZDJUVktuRVhQZWtqT0Z5SUFUcm9NSTktLVVCNXVtRDd0MkNPLXBHYlFxcnh5NXg4Zk1PQVJiXzIxUmVhZXppYVo?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞「瘋」AI！賺錢門道不只付月費，還有好多新玩法！",
+    "zhSummary": "東南亞地區對人工智慧（AI）的需求非常高，企業和新創公司積極投入，而且他們發現AI的獲利模式非常多元，不只單靠訂閱服務，還有客製化解決方案、基礎設施建置等更多元的收入來源。",
+    "zhContent": "<p>你有沒有覺得，最近「AI」這個詞超級常聽到？它就像一個擁有聰明大腦的電腦，能幫我們做很多事。現在，在東南亞地區，大家對AI的熱情簡直是「飢腸轆轆」，所有人都搶著要導入這些智慧科技。而且，最有趣的是，大家發現AI能賺錢的方式，可不只是你想像中，每個月付錢訂閱服務這麼單純喔！</p><p>根據外國媒體的觀察，從印尼、新加坡到越南，整個東南亞地區的國家都對AI抱持著極大的興趣。當地的政府和企業都積極地投入資源，希望能夠搭上這股AI浪潮。我們看到許多新創公司如雨後春筍般出現，大家都在想辦法把AI應用到各種領域，像是讓工廠生產更有效率、幫助顧客找到需要的商品，甚至讓城市管理更聰明。</p><p>為什麼東南亞會這麼「餓」呢？專家們分析，AI技術可以解決當地許多實際問題，並帶來全新的商業機會。重點來了，這些錢不只來自「訂閱」模式。很多公司發現，他們可以透過提供客製化的AI解決方案給特定企業、幫忙建立AI系統的基礎設施、販售支援AI運作的硬體設備，甚至是用AI來分析龐大的數據資料，找出有價值的資訊，這些都是創造收入的新方法。</p><p>所以，現在東南亞的AI市場，已經形成一個非常多元又活潑的生態圈。它不再是傳統軟體公司那種單純的販售訂閱制服務，而是發展出更多元、更有彈性的獲利管道。這表示AI在東南亞的發展會越來越快，也越來越有創意，持續在各行各業中扮演重要的角色。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Southeast Asia's AI Appetite: Beyond Subscriptions, Diverse Revenues Emerge",
+    "enContent": {
+      "basic": "Southeast Asia is very interested in AI. Companies are finding many ways to make money from AI, not just by charging for monthly subscriptions. They are exploring new business models like custom solutions and infrastructure.",
+      "intermediate": "The CNBC headline suggests a strong demand for Artificial Intelligence in Southeast Asia. This region is not solely relying on subscription-based models for AI revenue but is actively pursuing and benefiting from diverse monetization strategies, including bespoke solutions, infrastructure development, and data services.",
+      "advanced": "Southeast Asia's burgeoning AI market signifies a dynamic shift from conventional subscription models towards multifaceted revenue streams. The demand for AI across various sectors in countries like Indonesia, Singapore, and Vietnam is leading to innovative approaches in commercializing AI technologies, encompassing customized enterprise solutions, AI infrastructure deployment, and specialized data analytics services."
+    },
+    "vocabulary": [
+      {
+        "word": "AI",
+        "zh": "人工智慧 (rén gōng zhì huì)。你可以把它想像成一個很聰明的電腦大腦，能學習、思考，幫忙解決問題或完成任務，就像個小幫手。"
+      },
+      {
+        "word": "Subscription",
+        "zh": "訂閱 (dìng yuè)。意思是定期付錢（像月費或年費），就能使用某個服務或軟體。就像你訂閱雜誌，每個月都會收到一樣。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-10-23",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVB4S0phOUtJdGN2X19yWURkaERESTRPcWh1cWl1ZkVHV2pfRFdkX2Uyanl3UzZqaEtGdzJWSkhYVzJUWXd4cjBIUjg2Q0xMYkVid2xUeFpHUGVidGFtQzVPd3JRbUZnS0p4c2IxTC1QSFFMYkJtcTh2bkRZTHZTOUU3bjZzQWvSAYwBQVVfeXFMT0JDb0pVVFRsRDQ3NlQ2VmMyVlRoMEY5UUV1R1lpY1hvaFM5dTY2bVgyYlhQYTFLdWJJQ01OWXNFRXZvWW0yQk5MbEV2VVZ3bXVGT3NZamxOVXdJMlpIQjdIYUhrdHRNaXpwVm1vU1pGallBRW5qRzZwNkV3ZXloZDhxdXlNelVpb1lnQlg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋教會團體發聲：以色列該不該參與「太平洋島國論壇」？",
+    "zhSummary": "太平洋地區一個重要的教會團體，最近呼籲重新檢視以色列在「太平洋島國論壇」的角色，認為這考驗著太平洋國家對區域自主的看法。",
+    "zhContent": "<p>最近，太平洋地區一個重要的教會團體，太平洋教會會議（PCC），針對以色列在「太平洋島國論壇」（PIF）中的角色，提出了重新審視的呼籲。他們認為這件事是對「區域主義」理念的一個考驗，也就是說，這挑戰了太平洋國家如何定義自己的區域特色和處理對外關係，希望論壇的決策能更聚焦於太平洋自身的利益和價值觀。</p><p>這個呼籲並不是隨意提出的。太平洋教會會議指出，太平洋島國論壇這個區域性的最高政治組織，應該更聚焦在維護太平洋地區的自身利益與獨立性。他們認為，邀請非區域國家如以色列參與，可能會讓論壇的焦點偏移，甚至引入一些不符合太平洋價值觀的外部影響。他們特別提到，論壇的決策過程應確保以太平洋人民的聲音為核心，而不是被外來勢力主導。</p><p>教會團體進一步解釋，他們之所以提出質疑，是因為擔心某些外部勢力可能會利用在論壇中的參與，來推動他們自己的國家利益，而非真正服務太平洋島國的需求。這份呼籲也暗示，論壇成員國在決定誰能參與或扮演什麼角色時，需要更謹慎地考量這些外部關係對區域團結和自主性的潛在影響，以避免複雜的國際政治問題滲透到太平洋地區。</p><p>目前，太平洋教會會議已經明確表達了他們希望太平洋島國論壇能正視這個問題，並對以色列的參與角色進行一次全面的檢討。他們期待論壇成員國能夠展開內部討論，確保所有決定都真正代表太平洋地區的共同利益和聲音。這項呼籲的後續發展，將會是太平洋國家如何定義自身區域關係的重要觀察點，並可能影響未來的國際合作模式。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，太平洋教會團體為什麼會對以色列在「太平洋島國論壇」的角色提出質疑呢？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pacific Church Group Calls for Review of Israel's Role in Regional Forum",
+    "enContent": {
+      "basic": "A major church group in the Pacific wants the Pacific Islands Forum (PIF) to re-evaluate Israel's involvement. They see it as a test of what 'regionalism' means for Pacific nations.",
+      "intermediate": "The Pacific Conference of Churches (PCC) has urged the Pacific Islands Forum (PIF) to review Israel's role, calling it a crucial test of regionalism. The group believes the forum should prioritize Pacific interests and ensure non-regional entities do not overshadow local voices or values.",
+      "advanced": "The Pacific Conference of Churches (PCC) has issued a robust call for the Pacific Islands Forum (PIF) to scrutinize Israel's engagement, characterizing the situation as a definitive 'test of regionalism'. This advocacy highlights concerns that the forum's core mission of upholding Pacific sovereignty and addressing indigenous priorities could be diluted or compromised by external influences, necessitating a re-evaluation of current partnerships and observer statuses."
+    },
+    "vocabulary": [
+      {
+        "word": "Regionalism",
+        "zh": "區域主義 (qū yù zhǔ yì) - 指的是一個地區的國家或人民，為了共同的利益和特色，聚在一起合作，並且優先考慮自己地區的事情。就像我們班級有個「同學區」社團，大家一起決定和處理班級內的事。"
+      },
+      {
+        "word": "Forum",
+        "zh": "論壇 (lùn tán) - 指的是一個大家聚在一起，公開討論特定議題的會議或平台。通常會有很多人參加，每個人都可以發表自己的看法。像是學校舉辦的「學生意見論壇」，讓大家討論校園的改善方案。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-10-23",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEUtV1ZIWjlkS1RCNUFGcWRVd25lNlZkSVVURWt1dldzN09qaFhRdElRTzZ1UkZhMUszMWp5Rjl5WFN5c2o2anVURjB5LUZza29oWWstYUt0U2t6MjM1VGZBSEtwRzFHNEF2WGNKYmVvYnh5SF9BVjV4UHd3dG1XVDZlaTRMckVTLTBmUThhdUlITXV5NGlMSXY2V2liMzRSWEFrbXZiZjBWTXJCN1NnNlhxb29YUzRDa19fUUFR?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "法國社會動盪：一場席捲全國的風暴",
     "zhSummary": "法國近期因為一場警察槍擊事件，引發大規模暴動，造成社會治安惡化，多個歐洲國家因此向法國發出旅遊警示。",
     "zhContent": "<p>近期在法國，發生了一起引發全國關注的嚴重社會事件。這一切，源於一名青少年遭到警察槍擊身亡。這起事件迅速點燃了民眾的不滿與怒火，從首都巴黎的郊區開始，各地都出現了大規模的抗議與暴動。許多城市陷入混亂，街道上到處是焚燒的車輛與被破壞的公共設施，社會治安迅速惡化，情勢非常緊張。</p><p>這場暴動的規模非常廣泛，數不清的汽車被燒毀，許多商店和公共建築也遭到破壞或搶劫。示威者與警方之間不斷發生衝突，法國政府緊急部署了數以萬計的警察和憲兵到全國各地，試圖恢復秩序。在一些受影響特別嚴重的地區，當局甚至實施了宵禁，限制民眾在夜間外出，希望能夠控制住混亂的局面，避免更多破壞發生。</p><p>這起事件的導火線，是一位年僅十七歲的少年納赫爾（Nahel M.）在交通攔檢中被警察射殺。這讓許多法國民眾，特別是年輕一代，對警方的執法方式和潛在的社會不公表達了強烈不滿。雖然法國政府高層嚴厲譴責暴力行為，呼籲民眾保持冷靜，但事件的影響已經波及了日常生活、交通運輸，甚至許多商店因此暫停營業。由於治安狀況不佳，包括德國、英國在內的歐洲多國也對前往法國旅行的國民發布了旅遊警示，提醒遊客注意安全。</p><p>經過了多個日子的動盪，法國各地的暴動情勢逐漸趨緩，通報的衝突事件數量也有所下降。警方持續在各地巡邏，逮捕了數千名涉嫌參與暴動的人。法國政府目前正在評估這次事件造成的巨大經濟損失，並開始著手討論如何修復受損的城市設施與重建社會信任。多國發布的旅遊警示，也提醒著大家這場風暴所帶來的深遠影響。</p>",
@@ -11302,461 +11477,6 @@
     "date": "2026-09-24",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmJFSlBVbVJPTWFlYmF6dmY1Q0FyRDloWkNYZ2JwX0k1VzdEam5tTngzYjFIQ2VmeWU2MnBReURPbDBXVjMydVlneHpfUUUyYXJOWTJHUEl1LVpRUE5kWU5JYk9jU2s2Sjk1b2JRRWlsWXRCMmxuZGw3a2RWT05wSkY4NkR0VVlMWnMyclFhNE43eVBiOWVkRmU3bEo?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "台灣發起全球防災新計畫 賴總統：半世紀來重要一步",
-    "zhSummary": "台灣總統賴清德宣布發起「世界災害管理聯盟」，希望集合全球力量，共同應對天災。這被視為台灣在國際合作上的一大進展。",
-    "zhContent": "<p>最近，台灣傳出一個大消息！我們的賴清德總統宣布，台灣將要發起一個叫做「世界災害管理聯盟」的國際合作計畫。這聽起來是不是很厲害？根據總統的說法，這不只是一個普通的合作，更是一項「半世紀以來的重大突破」。簡單來說，就是台灣要帶頭，跟全世界的朋友一起想辦法，怎麼在面對地震、颱風、水災這些天災時，能做得更好，保護大家的安全。</p><p>這個「世界災害管理聯盟」的目標很明確，就是要集合不同國家的經驗和智慧。大家知道嗎，地球上很多地方都會遇到各種災害，每個國家都有自己一套應對的方法。有些國家在地震應變上很有經驗，有些則擅長防範颱風。聯盟成立後，大家就能互相學習，分享彼此成功的經驗，看看哪種方法最有效。這樣一來，未來遇到災害時，大家就能有更充足的準備，更快地互相支援，把傷害降到最低。</p><p>為什麼賴總統會說這是一個「半世紀的重大突破」呢？這可能是因為過去台灣在國際上的參與，有時候會遇到一些困難。但這次，台灣主動提出要建立一個全球性的防災平台，邀請世界各國一起來，這顯示了台灣在全球事務上扮演的角色越來越重要。我們自己也常常面臨地震和颱風，所以對於災害的了解和應對經驗很豐富。透過這個聯盟，台灣不僅能貢獻自己的經驗，也能和其他國家建立更深的合作關係。</p><p>目前，這個「世界災害管理聯盟」已經由台灣正式發起。這代表著一個新的國際合作時代可能已經來臨。接下來，聯盟將會邀請更多國家和相關組織加入，共同討論具體的合作計畫和執行方式。台灣的目標是希望透過這個平台，讓全球的災害管理能力更上一層樓，創造一個更安全、更有韌性的地球家園。這個重要的里程碑，正開啟台灣與世界攜手防災的新篇章。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「半世紀重大突破」指的是什麼？你覺得為什麼這對台灣來說是個重要的進展？",
-      "生活與未來：你覺得這個「世界災害管理聯盟」成立後，對地球上的人們會帶來什麼實際的幫助？例如，如果你居住的城市遇到地震，聯盟可能會如何發揮作用？",
-      "獨立思考提案：如果讓你來為這個聯盟提出一個具體的合作計畫，你會建議做什麼？為什麼？"
-    ],
-    "enTitle": "Taiwan Launches Global Disaster Management Alliance, President Lai Calls it \"Half-Century Breakthrough\"",
-    "enContent": {
-      "basic": "Taiwan's President Lai Ching-te announced the formation of a \"World Disaster Management Alliance.\" This initiative aims to bring countries together to improve global responses to natural disasters like earthquakes and typhoons. President Lai described it as a \"major breakthrough\" for Taiwan's international engagement.",
-      "intermediate": "President Lai Ching-te of Taiwan has officially launched the \"World Disaster Management Alliance,\" a significant international initiative aimed at bolstering global resilience against natural calamities. This alliance seeks to foster collaborative efforts among nations, facilitating the exchange of expertise and best practices in disaster preparedness, response, and recovery. The President emphasized its importance as a \"half-century major breakthrough,\" underscoring Taiwan's proactive role in addressing pressing global challenges and expanding its international contributions.",
-      "advanced": "In a landmark move, Taiwan's President Lai Ching-te has inaugurated the \"World Disaster Management Alliance,\" positioning the nation at the forefront of international efforts to enhance global disaster resilience. This collaborative framework is designed to serve as a nexus for multilateral cooperation, enabling participant states to synergize their resources, share cutting-edge strategies, and implement coordinated responses to a spectrum of natural hazards. President Lai characterized the alliance as a \"half-century major breakthrough,\" signifying a strategic elevation of Taiwan's diplomatic profile and its commitment to contributing substantively to humanitarian and environmental security on a global scale."
-    },
-    "vocabulary": [
-      {
-        "word": "Alliance",
-        "zh": "聯盟 – 想像一群好朋友或幾個國家，為了同一個目標而手牽手、一起努力，這個團體就叫做「聯盟」。"
-      },
-      {
-        "word": "Breakthrough",
-        "zh": "突破 – 指的是本來遇到困難或瓶頸，後來突然找到新方法或有了很大的進展，就像你解開一道很難的數學題，就是一個「突破」。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-09-22",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OHFvWlU4WnJMcURfdDRpMmdfUldVTEdjcmpwU1ZwdUpSRUVmanlXUVYzVFdxaWJHbnpOTkY4aVc5RW9NZzFocnZmZ0czQzhhUkxBT2JjNVlJMVhtZ2VZ?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "氣候變遷大搞怪？英國樹木正在「變身」！",
-    "zhSummary": "最新消息指出，氣候變遷正在悄悄改變英國樹木的生態。一些傳統樹種開始面臨生存挑戰，而某些來自溫暖地區的樹木卻意外地在英國發展起來，讓英國的森林景觀逐漸走向不同的未來。",
-    "zhContent": "<p>嘿，大家有沒有想過，樹木也會因為天氣變化而改變長相？最近在英國，科學家們發現，當地有許多樹木正悄悄地經歷一場大變身，而這一切都跟「氣候變遷」有關喔。這可不是開玩笑，原本我們熟悉的英國森林，可能再過幾年就會長得不太一樣了。</p><p>過去在英國很常見的橡樹、山毛櫸，現在有些開始生長不良，葉子提早變黃，甚至更容易受到蟲害攻擊。反過來，一些原本在較溫暖地區才看得到的樹種，像是在地中海地區很常見的栓皮櫟，卻開始在英國長得不錯。這代表英國的森林組成可能會跟我們印象中的很不一樣了，一些不耐熱、不耐旱的樹種面臨生存考驗，而更適應暖和天氣的樹種則趁機擴展地盤。</p><p>為什麼會這樣呢？專家們解釋，這主要是因為英國的冬天變得不那麼冷，夏天卻變得更熱、更乾燥。某些傳統英國樹種需要足夠的寒冷才能好好休眠，但現在氣溫不夠低，牠們的生長節奏被打亂了。同時，新的害蟲和疾病也因為氣候變暖，更容易在英國生存並擴散，讓樹木面臨雙重壓力，健康狀況大不如前。</p><p>面對這些變化，英國的林業專家們正在嘗試不同的方法。他們開始研究哪些樹種更能適應未來的氣候，甚至考慮引進一些非本地但更能抗旱抗熱的樹種。他們也密切監測現有森林的健康狀況，希望能幫助這些樹木度過難關。這場大變身還在持續進行中，英國的森林未來會變成什麼樣子，大家都在密切關注。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，英國的樹木正經歷哪些具體變化？",
-      "生活與未來：你覺得這個改變會對相關的人（例如林業工作者、觀光客）造成什麼實際影響？",
-      "獨立思考提案：針對英國專家們為了應對樹木變遷所採取的行動，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Climate Change's Surprising Effect: Britain's Trees Are Transforming!",
-    "enContent": {
-      "basic": "Climate change is making big changes to trees in Britain. Some trees that are common there are struggling, but other trees from warmer places are starting to grow well. Scientists are watching how the British forests are slowly changing.",
-      "intermediate": "In Britain, climate change is noticeably altering the landscape of its forests. Traditional British trees like oak and beech are showing signs of stress, such as early leaf yellowing and increased vulnerability to pests. Conversely, species typically found in warmer, Mediterranean climates, like cork oak, are now thriving, suggesting a shift in the composition of British woodlands.",
-      "advanced": "The ongoing phenomenon of climate change is profoundly reshaping Britain's arboreal ecosystems. Researchers observe a decline in the health and vitality of indigenous species such as the sessile oak and European beech, evidenced by premature defoliation and heightened susceptibility to novel pathogens and pests. Concurrently, thermophilic species, historically confined to warmer latitudes like the Mediterranean, are demonstrating improved growth and establishment within the UK, portending a significant ecological transition in British forestry composition. Experts attribute these shifts to warmer winters, which disrupt the cold dormancy periods crucial for native trees, and hotter, drier summers, which favor more drought-tolerant species and facilitate the spread of invasive pests."
-    },
-    "vocabulary": [
-      {
-        "word": "Climate change",
-        "zh": "氣候變遷：指地球的氣候在長時間內發生的重大變化，通常是因為人類活動導致溫室氣體增加，讓地球變熱。"
-      },
-      {
-        "word": "Reshaping",
-        "zh": "重塑：意思是把一個東西改變成新的形狀或樣貌，就像捏黏土一樣，讓它變得不一樣。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-09-22",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxUjBra3RCMFppVW9fM1BlRGptN0tuSV9FZjE2bG5Jc0lubGRzZi0wSHhDX1p2S1hwbEJuYzA0d3JQaUhac0NZaU1yck1iWWNSN0NvYXJtdENjUnB6R3c?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "色彩世界的魔術師：60年代代表藝術家彼得．馬克斯88歲辭世",
-    "zhSummary": "以鮮豔普普藝術風格聞名、被譽為「60年代象徵」的美國藝術家彼得．馬克斯，最近以88歲高齡過世。他的作品充滿「迷幻」與「自由」氣息，深刻影響了當時的流行文化。",
-    "zhContent": "<p>美國一位超級有名的藝術家，彼得．馬克斯（Peter Max），最近以88歲的高齡過世了。他的名字可能很多青少年還不熟悉，但你絕對看過或感受過他的藝術風格！馬克斯先生的畫作以極度鮮明的色彩和夢幻般的線條著稱，是1960年代文化革命的象徵，他用畫筆為那個「愛與和平」的時代寫下了最繽紛的註解，只要看到他的作品，就彷彿立刻被拉回那個充滿自由與創新的年代。</p><p>彼得．馬克斯的藝術生涯始於1960年代中期，當時他的作品快速風靡全球。他的風格融合了普普藝術、新藝術運動和迷幻藝術的元素，創造出一種獨特的視覺語言。你可以在他的畫中看到許多色彩爆炸的宇宙景觀、飛舞的星星、充滿愛心與和平符號的人物，以及各種奇幻的動物。這些充滿正能量和奇思妙想的圖像，不僅展現了他豐富的想像力，也完美呼應了當時年輕世代對傳統的反叛、對新世界的好奇與嚮往。</p><p>他不只是一位畫家，更像是一位文化傳播者。馬克斯的藝術超越了畫廊的圍牆，他的作品曾被大量應用在海報、雜誌封面、搖滾樂專輯封面，甚至美國郵票和康乃爾大學的校園壁畫上。他讓藝術不再是高高在上，而是變成人人都可以接觸、感受到樂趣的日常風景。透過這些媒介，彼得．馬克斯的「酷炫」風格深入了流行文化的核心，讓全世界的年輕人都能透過他的畫作，共享60年代獨特的精神與氛圍。</p><p>彼得．馬克斯的藝術，就像是60年代的一首搖滾樂，充滿了活力與激情，至今仍然不斷地迴響。他的離世，讓我們回顧這位傳奇藝術家如何用他的色彩，為一個時代寫下經典。他對普普藝術和流行文化的巨大貢獻，以及他所代表的樂觀與創造力，將永遠在藝術史上留下濃墨重彩的一頁，持續激勵後世的藝術家和每一個追尋夢想的人。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Peter Max, Iconic Artist Symbolizing the 60s, Dies at 88",
-    "enContent": {
-      "basic": "Peter Max, a very famous artist, has passed away at 88. He was known for his bright, colorful art that became a symbol of the 1960s. His work showed the 'groovy' and free spirit of that time. He used bold colors and unique designs in his paintings. His art was popular on posters and magazines, making it fun and easy for everyone to see and enjoy.",
-      "intermediate": "Renowned artist Peter Max, whose vibrant and psychedelic pop art defined the spirit of the 1960s, has died at the age of 88. Max's distinctive style, characterized by bold lines, cosmic imagery, and an explosion of color, quickly became a cultural phenomenon. His artwork wasn't confined to galleries; it appeared on numerous posters, album covers, and even a U.S. postage stamp, bringing the 'groovy' aesthetic of the counterculture movement to a wider audience. He effectively channeled the era's optimism, peace, and love into a universally recognized visual language.",
-      "advanced": "Peter Max, the celebrated artist whose kaleidoscopic and highly recognizable works became synonymous with the psychedelic counterculture of the 1960s, passed away at 88. Max's prolific career saw him create a unique visual lexicon that blended elements of Pop Art, Art Nouveau, and psychedelic abstraction. His iconic imagery—featuring cosmic landscapes, vibrant portraits, and mystical figures—resonated deeply with a generation seeking liberation and self-expression. Beyond traditional canvases, Max's art transcended into mainstream consciousness through its ubiquitous presence on posters, advertisements, and various commercial products, thereby democratizing art and making it an intrinsic part of the era's collective identity and 'groovy' ethos. His profound influence on art and popular culture solidified his status as a true icon of the epoch."
-    },
-    "vocabulary": [
-      {
-        "word": "groovy",
-        "zh": "時髦、酷炫。這個字是1960年代很流行的俚語，用來形容東西很時髦、很酷、很棒，或是很流行、很有趣的感覺。它代表了一種自由奔放、充滿活力的風格。"
-      },
-      {
-        "word": "symbolize",
-        "zh": "象徵、代表。當我們說某個東西「象徵」著什麼，就是指這個東西代表了某種意義、思想、情感，甚至是某個時代的特色。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-09-22",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHVNSGNKbm5Cd0tNMFJZUHlQTk9MYlJDMjdmYzRjVUpZUGpIY0t6NW9wMGdSVGRIT05XemN5blBVSGZNZUwtMXFrSUM3S3FhNmRVTndfQXRLWWpoV0NNNEFaeFB3WTVBWXZFdlByb29BY3NxZG5DeGcwdE1MeDd5aFl1bzc0SzhxVm83NGhCbERsRExfS3ZlZnplejNkRm1Fa1BnWEtSaw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普政府：AI開發商別想有「免死金牌」！",
-    "zhSummary": "美國前總統川普執政時期，政府明確表示不會給予人工智慧（AI）企業特殊的「責任保護傘」，也就是說，如果AI產品出了問題，開發公司仍需負全責，不能減少或避免法律責任。",
-    "zhContent": "<p>美國前總統川普執政時期，對於快速發展的人工智慧（AI）產業有個重要決定：他們明確表示，不會給予AI公司或開發者「責任保護傘」。這個消息是由當時的政府官員貝森（Michael Bessent）在接受財經媒體CNBC採訪時透露的。所謂的「責任保護傘」，簡單來說，就是一種法律上的特別保護，讓這些開發AI的企業在產品出問題時，可以減少或避免法律上的責任。</p><p>這項決定意味著，川普政府希望AI產業能和其他傳統產業一樣，自行承擔產品可能帶來的後果。換句話說，如果AI軟體或產品造成了傷害、錯誤或是任何問題，開發這些AI的公司將不能指望政府會提供特殊的法律豁免權，來避免被追究責任。他們必須像汽車製造商生產出有缺陷的汽車一樣，對自己的產品負全責。</p><p>當時，許多科技公司都在積極推動AI技術，這項技術被認為潛力巨大，但也伴隨著許多未知風險。有些AI公司可能會擔心，如果AI系統出錯導致嚴重的問題，它們可能會面臨巨額的訴訟賠償。因此，他們可能希望能有某種「責任保護傘」來降低風險。然而，川普政府的看法是，這項新興技術的發展，仍需在現有的法律框架下進行，不能因為是新科技就享有特權。</p><p>因此，根據貝森在CNBC的說法，川普政府的政策方向很清楚：AI技術的創新固然重要，但開發商必須為他們的創造物負責。這個決定傳達了一個訊息，就是政府不會為AI產業提供「免死金牌」，而是要求他們在推動科技進步的同時，也要承擔相應的社會和法律責任。這就是當時針對AI責任歸屬的官方立場。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「責任保護傘」是什麼意思？川普政府為什麼不願意給予AI公司這種保護？",
-      "生活與未來：你覺得這個改變會對相關的人（例如AI開發者、使用AI產品的普通人）造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得政府在鼓勵AI發展和確保安全責任之間，還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump Admin Says No 'Liability Shield' for AI Leaders",
-    "enContent": {
-      "basic": "The Trump administration announced it would not give special legal protection to companies developing Artificial Intelligence (AI). This means if their AI products cause problems, the companies will still be fully responsible, just like other businesses. This statement was made by Michael Bessent to CNBC.",
-      "intermediate": "During the Trump presidency, a significant policy decision regarding the rapidly advancing field of Artificial Intelligence (AI) was announced: the administration would not grant a \"liability shield\" to AI companies or developers. This meant that firms creating AI technology would not receive special legal protections that might reduce their responsibility for issues arising from their products. Michael Bessent conveyed this stance during an interview with CNBC.",
-      "advanced": "The Trump administration, as articulated by Michael Bessent to CNBC, made a definitive policy choice against providing AI industry leaders with a \"liability shield.\" This decision underscored a governmental philosophy that emerging technologies, particularly Artificial Intelligence, should not be exempt from existing legal frameworks of accountability. Consequently, developers of AI products would be expected to bear full legal responsibility for any malfunctions, errors, or damages caused by their creations, mirroring the standard liability applied to conventional industries. This approach aimed to foster responsible innovation without offering special carve-outs for the tech sector."
-    },
-    "vocabulary": [
-      {
-        "word": "Liability",
-        "zh": "責任、法律責任。想像一下，如果你不小心把同學的水瓶弄壞了，你就要負責賠償或修好它，這就是你的「責任」。在法律上，就是指你必須承擔的後果或賠償義務。"
-      },
-      {
-        "word": "Shield",
-        "zh": "盾牌、保護。就像超級英雄用盾牌來擋住攻擊一樣，這裡的「盾牌」是指一種法律上的保護，讓AI公司在產品出問題時，可以減少法律上的攻擊或指責。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-09-22",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbUxvcXExa3VOQmE4RG9MLWJFRGJuSFZUUnhDYVNod29kZ2dRWFNMSHp2NWRtcjJLbnJkRXR4VGQ2MWc2MUlsNFpRNXNZNC0yYk41Tkp1M1pEZTNFQTBnQ1pxME80VHpkbW55TUhfNFBVTW00eWhaTFBUYWN6M0FWOW51ZmJhbUY0dHpFX3RSdjlGTjTSAZgBQVVfeXFMT05jMENlb1RtWlo2RnRmdl9kTWF3aDZtZ2dXV3hSRUx2MVg3TDhCeVhmZW4zbURxcVd5Y0JQREk0MGlqU1NKZG9iLXVFOGF5YUZvS2FUSW5VOWhNdzhhVXlXMmxoZk1YaVJieDdGNTI2WE9FZ01PVWFGSVRIV0tCWTFvSjUxckhXLTItT1ZaNUJSUkN2WkhLV2c?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "迪士尼動物王國「特別導覽」大揭密：跟著動物管理員，體驗不一樣的非洲大草原！",
-    "zhSummary": "迪士尼動物王國最近舉辦了一場非常特別的行程，讓幸運的遊客能和動物管理員一起搭乘吉力馬札羅草原探險車，深入了解園區動物的日常生活和照護工作，體驗一趟與眾不同的非洲草原之旅。",
-    "zhContent": "<p>說到迪士尼動物王國，大家最期待的莫過於搭乘「吉力馬札羅草原探險」車，近距離觀察長頸鹿、犀牛和大象這些壯觀的野生動物了吧！但最近，一項超特別的活動讓這個經典遊程變得更加精彩。據外媒報導，園區舉辦了一場限定的「特別搭乘」體驗，邀請遊客們和一位真正的動物照護經理一同踏上這趟旅程，揭開平時難以窺見的動物世界。</p><p>這趟特別的草原之旅，與我們平常所認知的探險可大不相同。參與的幸運兒們不僅能像往常一樣在開放的棲息地中尋找動物身影，更棒的是，他們有機會直接向那位經驗豐富的動物照護經理提問、交流。這位經理分享了許多關於動物們的飲食習慣、醫療照護、以及如何維護牠們健康生活環境的寶貴知識，讓整個旅程充滿了教育意義和驚喜。</p><p>想像一下，當你看到一群斑馬在草原上奔跑時，旁邊的動物管理員能告訴你牠們獨特的個性、牠們如何與其他動物互動，甚至分享一些不為人知的幕後故事。透過專業人士的解說，遊客們能夠更深入地了解迪士尼動物王國在動物保育上的努力，以及每一隻動物背後的故事。這不只是一趟觀光行程，更像是一堂生動活潑的戶外生物課。</p><p>這次的特別搭乘體驗，讓遊客們用全新的角度看待吉力馬札羅草原探險，不只看到動物，更理解了牠們的生活與守護者們的付出。這樣的活動大大提升了遊客對動物保育的認識，也讓大家對這些可愛的動物們產生更深厚的連結，為這趟旅程畫下了難忘又富有意義的句點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，和「動物管理員」一起搭乘吉力馬札羅草原探險車，和一般遊客自己搭乘有什麼不同？",
-      "生活與未來：你覺得這個改變會對相關的人（例如：遊客、動物管理員、迪士尼園區）造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Special Ride with Animal Care Manager on Kilimanjaro Safaris at Disney’s Animal Kingdom",
-    "enContent": {
-      "basic": "Disney's Animal Kingdom recently offered a special tour. Guests could ride the Kilimanjaro Safaris truck with an Animal Care Manager. This gave them a chance to learn about how animals are looked after. They heard stories about animal diets, health, and how their homes are kept safe. It was a unique way to see the park and understand animal care.",
-      "intermediate": "At Disney's Animal Kingdom, a unique experience allowed visitors to join an Animal Care Manager on the popular Kilimanjaro Safaris. Unlike a regular tour, this 'special ride' provided an exclusive opportunity to gain insights into the daily lives and welfare of the park's animals. The manager shared detailed information about animal nutrition, veterinary care, and habitat management, enriching the educational aspect of the safari and highlighting Disney's commitment to conservation efforts.",
-      "advanced": "Disney's Animal Kingdom introduced an exceptional program, inviting guests to participate in a 'special ride' on Kilimanjaro Safaris alongside an Animal Care Manager. This unique offering transcended the typical safari experience by providing participants with an in-depth, expert-led exploration. The Animal Care Manager offered firsthand accounts and professional insights into the intricate details of animal husbandry, including dietary regimens, medical protocols, and environmental enrichment strategies, thereby fostering a deeper appreciation for wildlife conservation and the dedicated efforts behind the park's animal welfare initiatives."
-    },
-    "vocabulary": [
-      {
-        "word": "Safari",
-        "zh": "非洲草原探險：指在非洲或其他地方，搭車去野外觀察野生動物的旅行或活動。"
-      },
-      {
-        "word": "Conservation",
-        "zh": "保育：指保護動物、植物、自然環境或歷史古蹟，讓它們不被破壞或消失的行動。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-09-22",
-    "sourceName": "WDW News Today",
-    "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc051ZmRiWWZhZE82TTJjQ2J3TW1lRnRLZ0dWRXd0ZnJuNHk4bHppTzRleUhqU2JYNDZSM296VXlPT3hxY19QeW41YWhYVUZnaFVVemFmbF9RWkMzMTRXbWxici1MOC0zTDNqT1VhdlRfS3EtTmowUU1NMUZWQVdwMDE1Skc0TFRRM0RzN3lLcGJfMFVaSGNNbXBTcTYzc2tUTkp0YUtZLW5xT25hVlo4aDE2ZktVeVcweS1valI1NjY2N0hl?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "加拿大和法國變麻吉？兩國決定手牽手，一起在國防和經濟上變更強！",
-    "zhSummary": "加拿大和法國最近達成一項重要協議，決定在國防和經濟領域加強合作，讓兩國關係更緊密，共同應對未來的挑戰。",
-    "zhContent": "<p>最近，加拿大和法國這兩個國家決定要「變成更好的朋友」！他們達成了一個協議，要讓彼此在「國防」和「經濟」兩個方面，關係更緊密，合作更順利。這個消息是由德國之聲（DW.com）報導出來的。這代表著他們未來將會一起做更多事情，處理一些重要的大事。</p><p>具體來說，在「國防」方面，這兩個國家希望能夠更緊密地合作，一起面對國際上可能遇到的安全挑戰。這可能包括交換一些重要的訊息，或者在某些需要兩國共同努力的國際事務上互相幫助。而在「經濟」方面，他們則會想辦法促進彼此的貿易和投資，讓兩國之間的商業交流變得更頻繁、更方便。這樣一來，雙方人民都有機會從中受益。</p><p>為什麼加拿大和法國會在這個時間點決定要加強合作呢？其實，這兩個國家長期以來就有很多共通的價值觀和想法。他們都非常重視國際合作、環境保護以及維護世界和平。面對現在全球遇到的各種問題，像是氣候變遷的挑戰、或是國際情勢的變化，他們認為團結起來，互相支持，是讓彼此更強大、更有能力處理這些問題的好方法。</p><p>因此，這次的協議就是他們對外宣告，接下來他們會朝著這個方向努力。雙方政府會開始規劃，怎麼把這些「更緊密合作」的想法變成實際的行動。這將會是加拿大和法國之間，一段新的合作關係的開始，也預計會對兩國未來的發展帶來正面的影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，加拿大和法國決定加強哪兩個領域的合作？你覺得為什麼這兩個領域對國家很重要？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，可能對加拿大的學生或法國的商人有什麼不同？",
-      "獨立思考提案：針對這兩個國家加強合作的決定，如果你是其中一個國家的公民，你會希望他們在哪些具體事情上優先合作呢？"
-    ],
-    "enTitle": "Canada and France Agree to Closer Ties in Defense, Economy",
-    "enContent": {
-      "basic": "Canada and France have decided to work more closely together. They made an agreement to strengthen their relationship in two main areas: defense and economy. This means they will help each other with security and make it easier to trade and invest. This news was reported by DW.com.",
-      "intermediate": "According to DW.com, Canada and France have formally agreed to enhance their bilateral relations. The agreement focuses on strengthening cooperation in defense and economic sectors. This strategic move aims to foster mutual support in addressing global challenges and promoting shared prosperity. Leaders from both nations believe that deeper collaboration will benefit their respective countries and citizens.",
-      "advanced": "Canada and France have solidified their commitment to bolster bilateral ties, as reported by DW.com. This comprehensive agreement emphasizes enhanced collaboration across critical domains, specifically defense and economy. The initiative reflects a shared strategic vision to navigate complex geopolitical landscapes, reinforce collective security, and stimulate economic growth through increased trade and investment. This deepened partnership is poised to yield significant mutual advantages for both nations."
-    },
-    "vocabulary": [
-      {
-        "word": "Defense",
-        "zh": "國防：保護國家安全的力量。想像一下，就像你家裡的大門和警衛，讓大家可以安全生活，不用擔心外面的危險。"
-      },
-      {
-        "word": "Economy",
-        "zh": "經濟：一個國家賺錢、花錢、生產和買賣東西的方式。這就像你每個月的零用錢怎麼用、怎麼存、買了什麼東西，都是經濟活動的一部分。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-09-22",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmJpNER6VjVGMDdCazlMMnFtdVNLdHYwNjVleTJqN1VudFAyUUlUc2R1V1A4bzd2T2FoeDFyVERKZEJPUlF4ejhneGY2aC1NbW9OeTZHTjVDTGhpcXRqeTVoQ2h6U0dCdFpMQ01KakhRNmhXcWljOUQ5SVFoMUYzS3NjcHY1MlNHUFp3ODBmWdIBjwFBVV95cUxPRkpUU0JzMjRHZTNWdkxZd1BrZGRkdXN2TU02UGFYWXZsX01NbkNOdnlTdHBkZFhwYXYyWnZhWlB3MElUT0hGcFViY0dteU9ISnUxcE1mclc0eVJoUmVnTFF2TTRCT21qRnBybVl1R0tNYktyWWtKWkdHYW4zZTdoeTJlT1loemxQMG5PRGwtaw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "聯合國專家發聲：美國打擊毒品船行動，恐構成「危害人類罪」？",
-    "zhSummary": "一位聯合國專家指出，美國針對海上疑為運毒船隻的攻擊行動，可能已嚴重到可被視為「危害人類罪」，引起國際社會對行動合法性的高度關注。",
-    "zhContent": "<p>最近，聯合國一位專家發表了嚴肅的看法，他指出美國在打擊毒品走私時，對一些被指稱是運毒船隻的襲擊行動，可能已經嚴重到足以構成「危害人類罪」。這個消息是由英國知名的《衛報》報導出來的，讓各界開始重新審視這些反毒行動的合法性與影響。</p><p>這項指控的背景是，美國長期以來為了阻止毒品從海上流通到世界各地，會對那些被懷疑載有毒品的船隻採取軍事或其他強力手段。雖然打擊毒品的目的在於維護社會安全，但這位聯合國專家擔心，這些行動在執行過程中，可能超越了國際法的規範，特別是在保護人權和生命方面。</p><p>「危害人類罪」在國際法上是一個非常嚴重的指控，通常是指政府或組織對平民進行大規模、有計畫性的攻擊，例如造成無辜民眾死亡或受到嚴重傷害。這位聯合國專家的說法，並不是最終的法律判決，而是根據他的調查和判斷，提醒國際社會這些打擊行動可能已經觸犯了國際上保護人類的基本準則。</p><p>因此，聯合國這位專家呼籲相關國家和國際組織，必須仔細審查這些針對運毒船隻的攻擊行動，確保所有做法都符合國際人權法和戰爭法規。目前，這項指控仍在初步階段，等待更進一步的調查和討論，以釐清這些行動究竟是否真的造成了嚴重的國際法違規。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，聯合國專家為什麼會提出「危害人類罪」這麼嚴重的指控？他的角色是什麼？",
-      "生活與未來：你覺得這個新聞事件會對美國未來的反毒政策，或是在海上巡邏時的行為，造成什麼實際影響？",
-      "獨立思考提案：針對這類打擊犯罪但又可能觸犯人權的事件，你認為國際社會還可以怎麼做，才能在打擊犯罪的同時，也確保人權不受侵犯？"
-    ],
-    "enTitle": "UN Expert: US Strikes on Alleged Drug Boats May Constitute 'Crimes Against Humanity'",
-    "enContent": {
-      "basic": "A UN expert says US attacks on boats suspected of carrying drugs might be 'crimes against humanity'. This serious claim was reported by The Guardian. The US often targets drug boats to stop drug trafficking. But the expert is worried that these attacks might have gone too far, harming people or breaking international laws that protect human rights. 'Crimes against humanity' means large-scale attacks on civilians. The expert wants everyone to look closely at these US actions to make sure they follow international rules. This issue needs more looking into to find out the truth.",
-      "intermediate": "A United Nations expert has voiced significant concerns, stating that US military actions targeting vessels suspected of drug trafficking could potentially amount to 'crimes against humanity'. This alarming report, published by The Guardian, has prompted calls for a closer examination of the legality and ethics of these anti-drug operations. The US frequently conducts strikes on alleged drug boats as part of its global effort to combat illegal drug trade. However, the UN expert's concern centers on whether the methods used in these operations have violated international human rights laws, possibly leading to unnecessary harm or death. 'Crimes against humanity' is a grave accusation under international law, referring to widespread or systematic attacks directed against any civilian population. The expert emphasizes that this is not a final judgment but a critical alert for the international community to scrutinize these actions and ensure adherence to international legal standards.",
-      "advanced": "A United Nations expert has raised a profound concern, suggesting that US kinetic actions against vessels allegedly involved in drug trafficking may constitute 'crimes against humanity'. This serious allegation, reported by The Guardian, underscores a critical tension between global anti-narcotics efforts and adherence to international humanitarian law. The United States frequently employs various methods, including military force, to intercept and disable suspected drug boats as part of its extensive counter-narcotics strategy. However, the UN expert's apprehension stems from the potential for these operations to transgress established international legal frameworks, particularly those pertaining to the protection of human rights and civilian lives. 'Crimes against humanity' denotes a severe category of international offenses, characterized by widespread or systematic attacks directed against any civilian population. The expert's statement serves not as a definitive legal ruling but as an urgent call for transparent scrutiny and accountability, urging all relevant state and international actors to rigorously assess these operations for compliance with international law and human rights principles."
-    },
-    "vocabulary": [
-      {
-        "word": "alleged",
-        "zh": "據稱的、被指稱的。表示某件事情還沒有被證實，只是大家這麼說或懷疑，不一定是真的喔。"
-      },
-      {
-        "word": "constitute",
-        "zh": "構成、形成。意思是指幾樣東西或事情加起來，組成了某種結果、狀態或罪名。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-09-22",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjBMczBFMWxMNm9ucUFmS0Y2TVhMVHZpOGR3S0Z2T2ExdVpidkI1bDFhT2thcVZoY3BQUVZCbkRYRXhvY3FRT3hlb3VRbkYtWnBFYmJVaHVmcmgya183VC1ua2cwQ0JzZGZhZHhmYW80SVNkNnBXcVlPQUdlS3hZeFBLbGtzeVlvazdGZg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "德國總理堅持不退讓，政黨地方選舉失利仍「站穩腳跟」！",
-    "zhSummary": "德國總理蕭茲所屬政黨在近期的地方選舉中遭遇挫敗，但蕭茲總理公開表示將會「堅持立場」，不會因此改變目前的施政方向，引發各界關注。",
-    "zhContent": "<p>德國最近發生了一件引起大家關注的事情。他們的總理，也就是國家的領導人，叫做蕭茲，他所屬的政黨在幾個地方的選舉中表現不如預期，可以說是輸了。照理說，政黨選舉失利，領導人可能會面臨很大的壓力，甚至會被要求檢討或改變方向。但蕭茲總理的反應卻很特別，他公開表示自己會「堅持立場」，意思是，儘管黨在地方選舉中遭遇挫敗，他依然會維持現有的施政方針，不會輕易改變。</p><p>這些「地方選舉」指的不是全國性的總理大選，而是德國各個聯邦州各自舉辦的選舉。你可以想像成台灣的縣市首長或議員選舉。今年，德國有幾個重要的州進行了投票，結果顯示蕭茲總理所屬的「社會民主黨」（SPD）失去了不少選票，也有一些地區的支持度明顯下滑。這代表選民對他們在這些地方的表現，或是對整體政策走向，似乎有些不滿意。選舉結果出爐後，許多人都在觀察蕭茲總理會如何回應黨內外的質疑。</p><p>然而，蕭茲總理選擇的態度是「站穩腳跟」。他向大眾強調，這次地方選舉的結果，並不會影響他對國家未來發展的整體規劃和信心。他認為這些地方選舉的議題，跟全國政府所面對的挑戰不盡相同，每個州都有各自的狀況。換句話說，他並不想把這次地方的選舉失利，直接視為民眾對他全國性施政方針的全盤否定。他表明自己會繼續領導國家，推動現有的政策議程，比如經濟發展和能源轉型等。</p><p>所以，雖然總理的政黨在地方選舉中遭遇了挫折，但蕭茲本人並沒有因此改變他的領導策略或辭職。他堅定地表示會繼續履行總理的職責，並且推動他的政策。這次事件也讓德國的政治局勢變得更加複雜，他的政府未來將可能在推動法案或政策時，面臨更多來自其他政黨的挑戰和阻力。目前，蕭茲總理的立場依然明確，他選擇堅持自己的施政方向。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Germany's Leader Stands His Ground After State Election Losses",
-    "enContent": {
-      "basic": "Germany's leader, Chancellor Olaf Scholz, is not changing his plans even though his party lost in some state elections. He says he will stick to his policies. State elections are like local votes, not for the whole country's leader. Many people are watching to see what happens next.",
-      "intermediate": "Chancellor Olaf Scholz of Germany is maintaining his position despite his party's recent setbacks in state elections. These regional votes saw his Social Democratic Party (SPD) lose support in several key states. However, Scholz has stated that these results will not sway his national policy agenda, asserting his commitment to current government plans and rejecting calls for a major change in direction. His decision could lead to increased political challenges for his administration moving forward.",
-      "advanced": "Germany's Chancellor Olaf Scholz is asserting unwavering resolve following his party's diminished performance in recent state elections. While the Social Democratic Party (SPD) experienced significant electoral losses in various federal states, signaling potential public dissatisfaction with regional or broader policies, Chancellor Scholz has publicly affirmed his intention to 'stand his ground.' He maintains that the outcomes of these localized contests do not necessitate a fundamental recalibration of his national governmental strategy, including initiatives on economic development and energy transition. This resolute stance suggests a potentially more contentious political landscape ahead for his coalition government as it navigates legislative processes."
-    },
-    "vocabulary": [
-      {
-        "word": "stands his ground",
-        "zh": "「堅持立場」 指的是一個人面對挑戰或壓力時，不退縮、不改變原本的決定或態度。就像在辯論時，雖然遇到反對意見，還是堅定地說出自己的看法。"
-      },
-      {
-        "word": "state elections",
-        "zh": "「地方選舉」 指的是一個國家裡，各個地區（像是德國的聯邦州、台灣的縣市）為了選出當地代表或首長而舉辦的投票。跟選出國家領導人的全國大選是不一樣的。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-09-22",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Yckd6anZYZ1ZHSGNWeTQ5TTh6QXIxbzRzUTVoTFJPNkVpRWV6bFhublBfc2JiWXRUXzZFdjZHS2NYYkdjdmxGeVE4UnkyWDBZQmVfTkNrY3NOSnJxcGZlNjI5U1d3U2FHVVIzX1J4b0xjVTN0SDU0QWVpSQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "非洲新挑戰：AI訓練只是起點，真正的變革才要開始！",
-    "zhSummary": "非洲的領導人和專家認為，雖然教導民眾AI技術很重要，但这只是第一步。他們正在思考如何更深入地將AI融入各行各業，並為全面的經濟轉型做準備，建立一個完整的AI生態系。",
-    "zhContent": "<p>最近，非洲的許多專家和領導人都在討論一個很重要的問題：雖然教導大家認識和使用人工智慧（AI）聽起來是個好主意，但這其實只是個開始。根據CNBC Africa的報導，他們發現光是會操作AI工具是不夠的，真正的挑戰才剛要登場。各國現在都在思考，要怎麼把AI的潛力發揮到最大，讓它不只停留在學習階段，而是能真正改變社會和經濟。</p><p>為什麼說AI訓練只是開始呢？因為AI技術的發展非常快，它不只是一種工具，更是一種全新的思考方式和產業變革。報導指出，非洲各國需要的不僅是讓人民學會基礎的AI知識，更重要的是如何策略性地將這些技術應用到農業、醫療、金融等關鍵產業中。這意味著要設計出能解決當地問題的AI方案，建立相應的基礎設施，並持續推動創新，讓AI融入日常運作，創造出新的價值。</p><p>許多非洲的業界領袖和政策制定者都強調，要真正從AI中獲益，國家必須建立一個完整的「AI生態系」。這不單指技術層面，還包括了健全的法規、充足的資金投入、鼓勵研究開發的環境，以及培養出既懂AI又懂產業的複合型人才。他們認為，只有當這些環節都能互相配合，形成一個良性循環，AI才能真正成為推動經濟成長和社會進步的強大引擎，而不僅僅是停留在理論層面。</p><p>因此，現在許多非洲國家已經開始調整他們的AI發展策略。他們不再只專注於提供零星的AI課程或訓練營，而是轉向制定更宏觀、更具前瞻性的國家級AI發展藍圖。這些計畫通常包括了長期投資於AI研發中心、建立數據共享平台、鼓勵新創企業投入AI領域，並確保AI的應用符合倫理道德規範。這顯示了他們正從單純的技能培訓，邁向全面性的國家轉型目標。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到「AI生態系」是什麼意思？包含了哪些要素？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對農夫、醫生或銀行員工來說？",
-      "獨立思考提案：針對這項新的AI發展策略，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Training People in AI Is Only the Beginning: Africa's Next Steps",
-    "enContent": {
-      "basic": "African leaders and experts believe that while teaching people about Artificial Intelligence (AI) is important, it's just the start. They say countries need to do much more than basic training to truly benefit from AI technology. It's about changing how whole industries work and building new ways to use AI for progress.",
-      "intermediate": "According to CNBC Africa, many experts in the region are emphasizing that basic AI training is insufficient for unlocking the technology's full potential. The focus is shifting towards strategically integrating AI into key sectors like agriculture, healthcare, and finance. This requires not only skilled individuals but also robust infrastructure, innovative solutions, and clear policies to adapt economies to an AI-driven future.",
-      "advanced": "The narrative emerging from CNBC Africa highlights a significant paradigm shift among African policymakers and industry leaders concerning AI development. Beyond foundational AI literacy, the discourse now centers on establishing comprehensive AI ecosystems. This entails fostering an environment conducive to research and development, securing substantial investment, implementing supportive regulatory frameworks, and cultivating a hybrid workforce capable of leveraging AI across diverse industrial landscapes. The ambition is to transition from discrete training initiatives to holistic national AI strategies aimed at sustainable economic transformation and societal advancement."
-    },
-    "vocabulary": [
-      {
-        "word": "Ecosystem",
-        "zh": "「生態系」－ 這個詞原來是指一個地方的生物和環境怎麼互動。但在新聞裡，它指的是發展 AI 所需的所有條件和環節，像是技術、人才、資金和政策，它們互相影響，形成一個完整、健康的系統。"
-      },
-      {
-        "word": "Integration",
-        "zh": "「整合」－ 意思是把不同的東西或部分合併起來，讓它們變成一個完整、協調的整體。在這裡，是指把 AI 技術很自然地融入到各行各業和我們的日常生活中，讓它發揮最大的作用。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-09-22",
-    "sourceName": "CNBC Africa",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tQZnNJZG1xeEx3eFRyTXc4Sm5qbnd3YS02X0s5dndlYW8xdEIwV0lSdFBabzJZaHBlVHpoX1dUU3Rxcl85ZDFldEFsNk1DelJZbUllYlN1cHE2ZVFUY1YxQ1Uwa2h4STF4N09idFhhX2dCdUNGRVZQTExwZUVqU0dR?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "英國宣布將提供「防禦性」軍事協助給沙烏地阿拉伯，這是怎麼回事？",
-    "zhSummary": "英國透過一位官方發言人伯恩漢宣布，將會向中東國家沙烏地阿拉伯提供軍事上的支援，但這項支援會是「防禦性」的，目的是協助沙烏地阿拉伯強化自我保護的能力。",
-    "zhContent": "<p>最近，從英國廣播公司（BBC）傳出了一則消息，引起了國際社會的關注。英國政府透過一位名叫伯恩漢（Burnham）的官員對外表示，他們將會向中東的沙烏地阿拉伯提供「防禦性」的軍事協助。這項聲明讓大家開始思考，究竟是什麼原因讓英國決定給予沙烏地阿拉伯這樣的支持，而所謂的「防禦性」軍事協助，具體來說又代表了什麼呢？</p><p>根據英國官方的說法，「防禦性」軍事支援，指的是那些用來保護國家安全、抵擋外部威脅的行動或資源。這通常可能包括提供防禦性的武器裝備，例如防空系統，或是分享重要的情報資訊，幫助沙烏地阿拉伯更有效地偵測並預防潛在的攻擊。英國政府特別強調，這項支援並不是為了讓沙烏地阿拉伯去攻擊其他國家，而是純粹為了協助他們加強自身的保護，確保國家的穩定與安全。</p><p>雖然新聞報導沒有詳細說明英國做出這項決定的具體導火線，但國家之間提供這類型的軍事協助，通常都與該地區的安全情勢有關。英國此舉也顯示出他們在國際事務上的立場，希望透過與盟友的合作，共同維護區域的和平與穩定。伯恩漢這位官員的發言，無疑是為了清楚闡明英國這項支援的性質，避免外界對其目的產生誤解。</p><p>目前看來，英國承諾向沙烏地阿拉伯提供防禦性軍事支援，已經是一個確定的國際合作項目。這項合作的主要目標，是希望透過軍事防衛能力的提升，幫助沙烏地阿拉伯應對各種安全挑戰，並進一步鞏固兩國在安全領域的夥伴關係。雖然具體的實施時間表和細節可能還在規劃中，但這項承諾已明確對外公布，標誌著兩國在安全合作上的新進展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，英國提供給沙烏地阿拉伯的軍事支援，為什麼要特別強調是「防禦性」的？你覺得這當中有什麼特別的意義？",
-      "生活與未來：你覺得一個國家如果得到了「防禦性」軍事支援，對他們的人民生活和國家發展會造成什麼實際影響？",
-      "獨立思考提案：針對這類型的國際軍事合作，如果你是決策者，你覺得在提供協助時，除了「防禦性」之外，還需要考慮哪些重要的原則？"
-    ],
-    "enTitle": "UK to Provide 'Defensive' Military Support to Saudi Arabia, Says Burnham",
-    "enContent": {
-      "basic": "The UK announced it will give military help to Saudi Arabia. A UK official named Burnham said this. The help is 'defensive,' meaning it's to help Saudi Arabia protect itself from attacks, not to attack others.",
-      "intermediate": "According to the BBC, a UK official, Mr. Burnham, stated that the United Kingdom intends to offer 'defensive' military support to Saudi Arabia. This support is aimed at strengthening Saudi Arabia's ability to protect its own borders and interests against potential threats, emphasizing that it is not for offensive military actions.",
-      "advanced": "In a report by the BBC, a senior British official, Mr. Burnham, confirmed the United Kingdom's commitment to providing 'defensive' military support to Saudi Arabia. This strategic move is designed to bolster Saudi Arabia's self-defense capabilities against potential aggressors, with a clear emphasis on the non-aggressive nature of the assistance provided."
-    },
-    "vocabulary": [
-      {
-        "word": "defensive",
-        "zh": "防禦性：這個字通常用來形容那些為了保護自己、抵擋別人攻擊的行動或設備。就像玩遊戲時，你不是要去打別人，而是努力保護自己的城堡不被攻破。"
-      },
-      {
-        "word": "support",
-        "zh": "支援：意思就是給予幫助、協助。當有人遇到困難需要幫助時，你提供力量、物資或建議，這就是支援。就像隊友在你遇到困難時伸出援手一樣。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-09-22",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tYU5fQmFsOWpDQkVJSEU3b243a3FxVVBaOWY2MHZiX1M3Rm9FQWNQTUlBRTVGRllOM0NacVRnTGhpYURKQ0R0am42bjZubUhhaDdxeDVuSW4xMUR4Nnc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞國家電力大作戰：核能重回討論桌？",
-    "zhSummary": "東南亞許多國家因為經濟成長快速，用電量大增，紛紛將過去曾被擱置的核能發電，重新列入國家能源發展的重要議程中，希望能找到更穩定、環保的電力來源。",
-    "zhContent": "<p>「能源」是我們每天生活都離不開的東西，從手機充電到搭捷運，都需要它。你知道嗎？在東南亞，有許多國家最近又重新把一個大家曾經有點害怕的「能源選擇」拿出來討論，那就是核能發電。這些國家因為經濟快速成長，用電量也越來越大，所以他們正在努力尋找更多、更穩定的發電方式，讓大家每天的生活都能夠順順利利。</p><p>過去，很多國家因為對核能安全的疑慮，特別是像日本福島核災那樣的大事件後，都暫緩或放棄了發展核電的計畫。但現在，東南亞的一些國家像是菲律賓、印尼、越南，甚至泰國和馬來西亞等，都開始認真考慮要不要重啟或首次發展核能。他們認為，核能發電不像燒煤或天然氣那樣會排放大量二氧化碳，對環境比較好，也能減少對進口燃料的依賴，讓國家的能源供應更自主。</p><p>當然，重新考慮核能並不是一件簡單的事。各國政府和專家們都在仔細評估。一方面，核能可以提供大量且穩定的電力，有助於應付不斷增加的用電需求，同時也能支持他們在減少溫室氣體排放的國際承諾。另一方面，核電廠的建造成本非常高，而且核廢料的處理方式也需要非常謹慎和長期規劃。安全問題仍然是民眾最關心的重點，所以這些國家需要投入大量的技術和資金來確保一切都在掌控之中。</p><p>目前，這些東南亞國家還處於評估和規劃階段。他們正在研究新的核能技術，思考如何安全地管理核電廠，並向國際組織和有經驗的國家學習。許多國家已經成立了專門的小組，甚至開始修訂相關法規，為未來可能發展核電預做準備。這代表核能不再是個被遺忘的選項，而是正式回到了他們國家能源發展的重要討論清單上。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Nuclear Power Returns to Southeast Asia's Energy Agenda",
-    "enContent": {
-      "basic": "Countries in Southeast Asia are looking at nuclear power again. They need more electricity because their economies are growing fast. Nuclear power can help them get stable energy and reduce pollution, but building nuclear plants is expensive and raises safety concerns. These countries are now studying how to use nuclear energy safely.",
-      "intermediate": "Southeast Asian nations are reconsidering nuclear power due to rapidly increasing energy demands from economic growth. After previously pausing nuclear development following incidents like Fukushima, countries like the Philippines and Indonesia are now exploring it as a cleaner alternative to fossil fuels. While nuclear energy offers stable power and helps meet climate goals, it presents challenges like high costs, waste disposal, and safety concerns. Governments are currently evaluating new technologies and preparing regulations for potential future nuclear projects.",
-      "advanced": "Driven by robust economic expansion and escalating energy consumption, several Southeast Asian nations are reactivating discussions surrounding nuclear power, which had largely been deprioritized in the wake of past safety incidents. This renewed interest stems from a desire for energy independence, a stable power supply, and a commitment to reducing carbon emissions, presenting nuclear energy as a viable alternative to conventional fossil fuels. However, the path forward involves significant hurdles, including substantial capital investment, the intricate challenge of nuclear waste management, and persistent public safety concerns. Consequently, regional governments are engaged in comprehensive assessments, exploring advanced nuclear technologies, and updating regulatory frameworks in anticipation of potential nuclear power implementation."
-    },
-    "vocabulary": [
-      {
-        "word": "Agenda",
-        "zh": "議程：指會議或計畫中要討論或處理的事情清單，就像是課表上今天要上的課目一樣。"
-      },
-      {
-        "word": "Fossil fuels",
-        "zh": "化石燃料：像是煤炭、石油、天然氣這些從地底下挖出來的燃料。它們燃燒時會產生空氣汙染，也會讓地球變熱。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-09-22",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXUzMXZOVlJnbm4tcnpKZ0laZF93LU1xcjdlck42UHpnZ1YyWlYwbjVMUnBwZXlFNGpfZm9DMkVBQm80QlJMSXBzb3hGeDZEOW1fQy1UUWxqSzY3XzdnTGhpSzZUSHVZMU94TW45NUFQeUVHNURoWl9tbnpFMEgtSVQ1bDI0aHFXLUJPZFk1ZFDSAZABQVVfeXFMTTcxOU56QzVIVGw5dGNQMW5RbXhXY2RscEFLZjlqTjNMS0tYOE5RcncyekgtWTFMMUJOTS1VV0ZTY05VeUFMZG96dFlJUkhRNGFrbzdETE1OakE5M2FyYy1wWF9HSi1kbTZzN19fRko4dUg3a3VsXzNCTnZRNUhtVFRQUWpZeGhsdXBWanZ5dHdN?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "新加坡衛生局出海交朋友？攜手亞非歐夥伴共築醫藥安全網！",
-    "zhSummary": "新加坡衛生科學局最近跟非洲、亞洲和歐洲的許多國家和組織合作，一起制定醫藥和健康產品的管理規則，讓大家能更快、更安全地用到需要的醫療用品。",
-    "zhContent": "<p>新加坡的「衛生科學局」（HSA）最近做了一件大事！他們開始和世界各地的夥伴們，特別是在非洲、亞洲和歐洲的一些國家與組織，建立起緊密的合作關係。這不是普通的交朋友，而是要一起努力，讓大家用的藥品、醫療器材等健康相關產品，都能更安全、更有保障。他們這次合作的範圍非常廣泛，希望能透過大家一起討論和制定更好的規則，來確保這些重要的產品能夠受到更完善的監管。</p><p>這項合作的重點，在於各國主管機關之間要互相學習、分享經驗。想像一下，如果每個國家對同一種藥品的審查標準都不同，藥廠要進入不同市場就會很困難。透過HSA推動的這些「聯盟」，參與的國家可以共同討論、盡量統一或協調藥品的審核流程和安全要求。這樣一來，不只製造商能更有效率地把好產品帶給需要的人，消費者也能更快用到符合國際標準的、經過嚴格把關的醫療用品。這次合作的目標就是提升整體的管理效率和產品品質。</p><p>新加坡衛生科學局之所以這麼積極地推動國際合作，是因為他們認為，在全球化的時代，健康產品的管理不能只靠單一國家。許多藥品和醫療器材都是跨國生產和流通的，如果各國的法規可以互相協調，就能有效防止不合格的產品流入市場，也能加速新藥和醫療技術的審批。這樣的合作不僅能保障民眾的健康，也能幫助各國的醫療產業發展，讓更多人受惠於最新的醫療科技。這項舉動被視為是新加坡在全球健康法規領域扮演重要角色的展現。</p><p>目前，新加坡衛生科學局已經成功和許多亞、非、歐洲的政府機構與專業組織建立了穩固的聯繫。這些聯盟的成立，代表著未來在醫療產品的審查、監管和資訊交流方面，各方將會有更頻繁、更深入的合作。儘管具體的成果和影響還需要時間來觀察，但這次大規模的跨區域結盟，無疑是全球醫療產品安全管理上一個重要的里程碑，預示著一個更緊密、更有效率的國際合作時代的來臨。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「新加坡衛生科學局」（HSA）是什麼樣的機構？他們為什麼要跟其他國家建立「監管聯盟」呢？",
-      "生活與未來：你覺得這個國際合作的改變，會對我們日常生活中接觸到的藥品或醫療器材造成什麼實際影響？",
-      "獨立思考提案：如果讓你來規劃一個國際合作項目，你會選擇在醫療產品監管的哪個環節進行加強？為什麼？"
-    ],
-    "enTitle": "Singapore's Health Authority Builds Global Regulatory Alliances",
-    "enContent": {
-      "basic": "Singapore's Health Sciences Authority (HSA) is working with countries in Africa, Asia, and Europe. They are making partnerships to set rules for medicines and health products. This helps make sure all products are safe and good. This means people can get important medical items faster and know they are well-checked.",
-      "intermediate": "The Singapore Health Sciences Authority (HSA) has been actively forming partnerships with organizations and countries across Africa, Asia, and Europe. These alliances aim to establish unified or coordinated regulatory standards for medical products and health devices. By sharing knowledge and streamlining approval processes, the HSA seeks to ensure product safety and quality on a global scale, making it easier for essential medical items to reach consumers securely and efficiently.",
-      "advanced": "In a significant move to enhance global health product governance, Singapore's Health Sciences Authority (HSA) has initiated broad regulatory alliances spanning Africa, Asia, and Europe. This strategic collaborative effort focuses on harmonizing standards and sharing best practices in the oversight of pharmaceuticals and medical devices. The objective is to foster a more efficient, secure, and internationally consistent regulatory environment, thereby expediting access to safe and effective medical technologies while mitigating risks associated with cross-border product distribution. This initiative underscores Singapore's growing leadership in international health regulation."
-    },
-    "vocabulary": [
-      {
-        "word": "regulatory",
-        "zh": "監管的。就是指跟「管理」或「規定」有關的事情。像學校規定不能帶手機，這就是一種「監管」。在這裡是指對藥品和醫療產品的檢查與管理。"
-      },
-      {
-        "word": "alliance",
-        "zh": "聯盟、結盟。當一群人或幾個國家決定要一起合作，為了共同的目標而結合，就像組成一個團隊，我們就稱這個為「聯盟」。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-09-22",
-    "sourceName": "RAPS",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUI0RFozNTJXWHhHRHBYTW4yeXFEeDdzUURHd19JbUJJNTZncmZDLXREeU10djAyX2plVDZHVEdpT2tFTDMxN2ZQTWYwVmNiRVZfYjdRNm5iU2tmWndCS3hGeTdpNTNWYXAwWlk0bDN4dkR1Z3ZLMTM5RDZKeDdlQ0NvSlpadjR3RTJpYTdZc3VLcEIzYm1sUmFqSXpjSEN5VDU2YTNkaVJhS2M2ZXFHNC1PVmpseUkxOUtVZGJYQzdkcVd2TlJTbQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國要開口！全球最大會議上，他們要為家園發聲！",
-    "zhSummary": "太平洋島國的領導人們準備在聯合國大會上，替自己家鄉面臨的問題發聲，希望全球聽到他們的心聲，特別是關於氣候變遷的挑戰。",
-    "zhContent": "<p>嗨，你知道世界地圖上，在廣闊的太平洋上散落著許多美麗的小島嗎？這些地方雖然看起來像天堂，但他們正努力面對一些很嚴峻的挑戰。最近，這些太平洋島嶼國家的領導人，也就是我們說的「論壇領袖們」，有了一個重要的任務：他們準備在一個全球最盛大的會議上，替他們的家園發聲。這個會議就是每年都會舉行的「聯合國大會」，全世界許多國家的領導人都會出席。對這些島國來說，這是一個讓全世界聽到他們心聲的超級好機會。</p><p>這些論壇領袖們為什麼這麼積極呢？因為他們深知自己的國家正面臨著許多迫切的問題，尤其是全球氣候變遷帶來的衝擊。想像一下，海平面因為地球暖化而慢慢上升，可能讓許多地勢較低的島嶼面臨被海水淹沒的危機，這會嚴重威脅到島上居民的生活與文化。除了氣候問題，他們也關心如何永續利用珍貴的海洋資源，以及如何發展自己的經濟，讓年輕一代有更好的未來。</p><p>這些領袖們代表的是許許多多大小不一的島嶼國家。他們很清楚，單一國家在國際舞台上的影響力有限，但如果這些太平洋國家能團結起來，共同發出一致的聲音，那麼他們的影響力就會大大增加，更容易吸引到全球的目光。透過集體行動，他們希望能夠讓更多有能力的大國，以及重要的國際組織，看見太平洋地區面臨的獨特困境，並且伸出援手。</p><p>所以，這次在聯合國大會上的發言，對太平洋島國來說意義重大。這不僅僅是一場演講，更是他們向世界呼籲採取行動的機會。他們希望藉此讓國際社會更加重視太平洋地區的氣候問題和發展需求，推動各國共同找出解決方案。這也是他們展現決心，讓全世界知道太平洋島國絕不會在這些嚴峻挑戰面前保持沉默的實際行動。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Pacific Island Leaders to Speak Up at UN for Their Homes",
-    "enContent": {
-      "basic": "Pacific island leaders are going to a big meeting called the United Nations General Assembly. They want to talk about important problems their islands face, like how climate change affects their homes. They hope other countries will listen and help.",
-      "intermediate": "Leaders from various Pacific island nations, known as \"Forum leaders,\" are preparing to attend the United Nations General Assembly. Their main goal is to advocate for critical issues impacting their region, with a strong focus on the challenges posed by climate change, such as rising sea levels and their effects on island communities. They aim to raise global awareness and seek international support.",
-      "advanced": "Representatives from the Pacific Islands Forum are slated to present their pressing concerns at the upcoming United Nations General Assembly. These leaders intend to spotlight the existential threats faced by their island nations, primarily emphasizing the devastating impacts of climate change, including accelerating sea-level rise and its profound implications for indigenous populations and ecosystems. Their collective advocacy seeks to galvanize concerted international action and secure sustained multilateral cooperation to address these multifaceted challenges."
-    },
-    "vocabulary": [
-      {
-        "word": "advocate",
-        "zh": "倡導/呼籲：當你「倡導」一件事情時，就是積極地向大家說明這件事有多重要，並且鼓勵別人一起支持或採取行動。"
-      },
-      {
-        "word": "Assembly",
-        "zh": "大會：通常指的是一個大型的、很多成員或代表都參加的會議，用來討論重要的議題、做出決定。這裡指的是聯合國大會。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-09-22",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGFGZ1BCUDk1LVlpLUdhU1NncDZrZUZ3VnZrYlJHakpjcFRabWRwamRoaXZlQndSUnN6NlFzWDF4Z0ZmUURMRmwtWHRka1pib2c0R0hDX0d1ZVhVR2FNZ2YwX2Z3Y1dnVnNGWjdxdEZWd0JrX3ZYeE9YNXM4Y2ZDbVhJN1cwVjQ5eS14a19qY3V4LWJ3TlBkQW15T3BqU2ZENXZuVUplTnZKWURFVGVUQ2dEYks0OUVoWWtIRzRhQQ?oc=5",
     "isFeatured": false
   }
 ]
