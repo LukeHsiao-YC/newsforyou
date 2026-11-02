@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "西班牙高鐵驚魂！一年兩起重大事故，安全亮紅燈？",
+    "zhSummary": "西班牙一列高速列車近期發生追撞事故，造成至少30人死亡。令人擔憂的是，這已是同條鐵路線在一年內發生的第二起重大意外。",
+    "zhContent": "<p>西班牙又出事了！最近，從外國傳來一則令人震驚的消息：一列高速行駛的火車在西班牙發生了嚴重的追撞事故，造成至少30人死亡，這個數字讓人非常心痛。更令人擔憂的是，這已經是這條鐵路線在短短一年內，第二次發生這麼重大的意外了。</p><p>這次的事故地點在西班牙，涉及的是當地的高速鐵路。具體來說，就是一輛高速列車在行進過程中發生了追撞。雖然新聞沒有詳細說明是被什麼追撞，或是撞上了什麼，但可以確定的是，這起意外的衝擊力非常大，導致車廂嚴重損毀，許多乘客因此受到重傷，甚至失去了生命。現場情況一定非常混亂和危險，對所有經歷者來說都是可怕的經歷。</p><p>這起事故之所以特別引人關注，不單是因為死傷人數眾多，更因為它發生在一年內已經出過一次大問題的同一條鐵路線上。這表示這條路線的安全性，可能存在一些需要嚴肅面對的問題。人們可能會開始思考，為什麼會在這麼短的時間內，同一個地方連續發生兩次重大意外？這會讓當地交通部門和鐵路公司面臨很大的壓力，必須好好檢討這條路線究竟哪裡出了狀況。</p><p>截至目前為止，這場可怕的列車追撞事故已經確認造成至少30人死亡，還有更多人受傷。當地政府和相關單位正在處理善後事宜，並針對事故原因展開調查。這次的慘劇，連同去年在同一條路線上發生的另一起重大意外，共同畫下了這條高速鐵路線上令人不安的紀錄。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Spain's High-Speed Train Collision: A Second Tragedy on the Same Line",
+    "enContent": {
+      "basic": "There was a very bad train accident in Spain. A high-speed train crashed, and at least 30 people died. This is very sad news. What makes it worse is that this is the second big crash on the same train track in just one year. People are worried about why this is happening. The crash caused a lot of damage to the train. Many people were hurt. The government is looking into what caused this accident.",
+      "intermediate": "A concerning incident recently occurred in Spain, where a high-speed train was involved in a serious collision, resulting in the deaths of at least 30 individuals. This devastating event marks the second significant accident on the identical railway line within a single year, raising serious questions about safety protocols. The impact of the collision was severe, causing extensive damage to the train carriages and leading to numerous injuries alongside the fatalities. Authorities are currently investigating the circumstances surrounding the incident to determine its cause.",
+      "advanced": "Spain is grappling with the aftermath of another catastrophic high-speed train collision, an incident that has claimed the lives of no fewer than 30 people. This latest tragedy is particularly alarming as it represents the second major mishap to occur on the very same railway route within an unprecedented twelve-month period, prompting widespread concern and scrutiny over infrastructure safety. The profound impact of the collision caused considerable structural damage to the train's carriages, leading to a substantial number of casualties and injuries. Investigations are promptly underway by relevant authorities to ascertain the precise factors contributing to this devastating recurrence."
+    },
+    "vocabulary": [
+      {
+        "word": "Collision",
+        "zh": "「碰撞」或「相撞」。指兩個移動的物體，例如火車、汽車或船，突然撞在一起。"
+      },
+      {
+        "word": "Tragedy",
+        "zh": "「悲劇」。指一件非常不幸、令人難過，甚至造成很多人死亡或痛苦的事件。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-11-02",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LNU1pS1I2WVdIVmluWDZuSGtDc3NpNlUwTGlLaXJXaDNMamZoM3F0cWZsYzZRN09PbnNOMC1oMGxfQlIxajU0Ym91NmY3TDVrekV6WXNLRk53MWw5Nldv?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "冰河融化拉警報！山谷小鎮的家園保衛戰",
+    "zhSummary": "全球氣候變暖導致高山冰河快速融解，形成不穩定的冰湖，可能引發洪水威脅下游社區。歐洲阿爾卑斯山區的居民與科學家正努力建立監測系統和排水工程，來保護他們的家園不受自然災害影響。",
+    "zhContent": "<p>從歐洲的阿爾卑斯山區傳來一則讓人擔心的消息。幾十年來，那裡巨大、看似永恆的冰河，正在以驚人的速度融化。這些美麗的冰雪世界，當它們開始變小甚至消失時，卻可能對山下的村莊和居民造成意想不到的危險。這讓當地的人們不得不嚴肅思考一個問題：我們該怎麼保護自己的家園，不讓它被融化的冰水淹沒？</p><p>冰河融化帶來的最大問題之一，就是會形成不穩定的「冰湖」。這些湖泊通常被鬆散的冰磧物或殘餘的冰層阻擋著。隨著冰河持續融解，冰湖的水量不斷增加，湖泊的邊緣也可能變得越來越脆弱。一旦這些天然的堤防潰決，大量的湖水就會在短時間內像洪水一樣沖向下游，對住在山谷裡的城鎮和村莊造成毀滅性的衝擊。最近，當地就曾發生過冰湖水位快速上升，導致緊急撤離的事件。</p><p>為了避免悲劇發生，當地的科學家和工程師們正努力尋找各種保護社區的辦法。他們首先做的，就是建立一套嚴密的監測系統，全天候觀察冰河和冰湖的變化。這包括在冰湖邊緣安裝感應器，測量水位和水壓；利用無人機拍攝高解析度影像，檢查冰層的裂縫和不穩定區域；甚至使用雷達來探測冰層底部的狀況。這些收集到的數據會即時傳回控制中心，一旦發現任何異常，就能立即發出警報，讓居民有足夠時間撤離。</p><p>除了監測，一些更積極的防護工程也正在進行。例如，在某些被認為特別危險的冰湖旁，會建造排水隧道或安裝大型抽水系統，將湖中多餘的水安全地引導出去，以降低湖水潰決的風險。這些工程通常耗時又困難，需要高超的技術和大量的資源，但對於居住在冰河周邊的社區來說，是確保家園安全的重要投資。目前，這些保護計畫仍在持續進行中，希望能透過科技與人為努力，在自然力量面前為居民們爭取到更多安全。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Alarming Glacier Melt: Alpine Communities Fight to Protect Homes",
+    "enContent": {
+      "basic": "Glaciers in the Alps are melting fast. This creates dangerous lakes that can flood towns. People are working hard to protect homes with alarms and special pipes.",
+      "intermediate": "In the Alps, glaciers are shrinking rapidly due to climate change. This forms unstable glacial lakes that pose a flood risk to communities below. Scientists and engineers are implementing monitoring systems and drainage projects to safeguard these towns from potential disasters.",
+      "advanced": "The accelerated melting of glaciers in the European Alps, a direct consequence of global warming, is leading to the formation of volatile glacial lakes. These lakes present a significant threat of outburst floods to downstream communities. Local authorities and experts are proactively deploying sophisticated monitoring technologies and extensive engineering solutions, such as drainage tunnels, to mitigate risks and protect vulnerable populations."
+    },
+    "vocabulary": [
+      {
+        "word": "glacier",
+        "zh": "冰河：它是一大塊由雪堆積變硬、再經過長時間壓縮而成的巨大冰塊，會緩慢地在地球表面移動。"
+      },
+      {
+        "word": "monitor",
+        "zh": "監測：意思是持續地觀察和檢查某件事情的變化或進度，通常是為了確保安全或掌控情況。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-11-02",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVFoOHM4c0EzcW1veVRJR2pSTjdBRFdJaDJKYnRZRkhxVzFlNXY3czN1R0huS2Nud2RGTjc1ODdObjQ3MkxzWUZJTUFaTHBPNGhJaUdoQllNTm1fSVE1cHFKYjItZkdRd3dNOXhSdWZ0NTdiUjVLSlczSHNIangzY21tLVRLUHJVbmhTeE5CV0xpbTdjc2ozRNIBmAFBVV95cUxQMXVEZWk4VmZoRGZnNnRRcEhKeHBZeE51QUtCbDNnWWpFeENNQjUzaW12TEVBUGk5U3lRUGs1S0E3SVZTR3NPYXk0a25YWDlqRVpIRE5oUktKWkh3MXpJaHVtMENpWjJoQTNna0FiZk5KWFRmUmU1RW5pcDN0WEd1dW82SUc1MF9ZRWY1TEYtRE13VVhEeHBGUg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "前「吉迪恩烘焙坊」藝術家 Mr Eyes 驚喜宣布！迪士尼幽靈公館主題藝術展將登場",
+    "zhSummary": "曾為知名烘焙坊吉迪恩創作的藝術家 Mr Eyes，正式宣布將與迪士尼合作，舉辦一場以經典設施「幽靈公館」為主題的藝術展覽。",
+    "zhContent": "<p>你或許聽過「吉迪恩烘焙坊」（Gideon's Bakehouse）這個名字，它以超大份量的美味餅乾和獨特的哥德式復古風格聞名，每次推出新品都造成搶購熱潮。而讓這個品牌更具神祕魅力的，正是他們的專屬藝術家 Mr Eyes。這位才華洋溢的創作者，用他獨特的插畫風格為吉迪恩打造出許多令人印象深刻的作品，讓餅乾店不只賣食物，更像一座小型的藝術博物館。現在，有個更令人興奮的消息傳來：Mr Eyes 要跟迪士尼合作，舉辦一場全新的藝術展覽，主題竟然是大家熟悉的「幽靈公館」！</p><p>這項重磅消息是由迪士尼新聞媒體 WDW News Today 獨家揭露的。Mr Eyes 將把他招牌的暗黑、細膩又帶點奇幻感的筆觸，帶到迪士尼經典的「幽靈公館」（Haunted Mansion）世界中。雖然目前還沒有公布太多細節，例如展覽的確切地點、時間，以及會展出哪些具體的藝術品，但光是「Mr Eyes x 幽靈公館」這個組合就已經讓許多粉絲期待不已。大家都在猜測，他會如何重新詮釋那些經典的幽靈角色，像是Madame Leota、Hitchhiking Ghosts 等等。</p><p>為什麼這次合作會引起這麼大的討論呢？主要是因為 Mr Eyes 的藝術風格與「幽靈公館」的主題簡直是天作之合。他擅長描繪帶有故事感、有點詭異卻又充滿吸引力的圖像，這與幽靈公館那種既恐怖又迷人的氛圍完美契合。吉迪恩烘焙坊的粉絲們一直都很喜歡他筆下那種帶有維多利亞時代風格，又有點超現實的暗黑美學。這次能將這種風格帶入迪士尼這個更廣闊的平台，不僅是 Mr Eyes 藝術生涯的一個里程碑，也讓迪士尼的粉絲們有機會從全新的角度來欣賞他們喜愛的經典角色。</p><p>目前，Mr Eyes 本人也已經透過各種管道證實了這項消息，並且表達了他對這次合作的興奮之情。他承諾將會帶來一系列充滿驚喜的藝術創作，讓粉絲們能沉浸在一個既熟悉又充滿Mr Eyes個人風格的「幽靈公館」世界裡。這次展覽的具體日期和更多資訊預計在近期公布，屆時相信會再次掀起一波熱烈討論，讓藝術與迪士尼的魔幻魅力碰撞出不一樣的火花。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，Mr Eyes 和「幽靈公館」的合作為什麼會引起這麼大的關注？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Former Gideon's Artist Mr Eyes Announces Disney Art Show With Haunted Mansion Characters",
+    "enContent": {
+      "basic": "Mr Eyes, a famous artist who worked for Gideon's Bakehouse, is going to have a Disney art show. The show will feature characters from Disney's Haunted Mansion. This is exciting because Mr Eyes has a unique dark and fantasy art style that fits the spooky theme of the Haunted Mansion perfectly. Fans of both Mr Eyes and Disney are looking forward to seeing how he will draw the ghosts and other characters. This news was shared by WDW News Today. More details about when and where the show will be are coming soon.",
+      "intermediate": "Mr Eyes, known for his distinctive gothic-inspired artwork for Gideon's Bakehouse, has officially announced an upcoming collaboration with Disney. He will be hosting an art exhibition centered around the beloved 'Haunted Mansion' attraction. This partnership is highly anticipated due to Mr Eyes' signature style—detailed, dark, and whimsical—which perfectly complements the spooky yet enchanting atmosphere of the Haunted Mansion. While specific dates, locations, and featured artworks are yet to be disclosed, the crossover between Mr Eyes' unique aesthetic and iconic Disney characters is generating significant buzz among fans, marking a new chapter for both the artist and Disney's creative ventures.",
+      "advanced": "The esteemed artist Mr Eyes, formerly instrumental in defining the visual identity of the popular Gideon's Bakehouse with his unique gothic and fantastical illustrations, has unveiled plans for a Disney-sanctioned art exhibition. The show will exclusively feature characters from the iconic Haunted Mansion attraction, as reported by WDW News Today. This collaboration is viewed as a natural fit, given Mr Eyes' masterful ability to evoke a sense of macabre charm and intricate storytelling through his art, aligning seamlessly with the Haunted Mansion's whimsical yet eerie narrative. The announcement has generated considerable excitement, indicating a significant artistic evolution for Mr Eyes and offering Disney enthusiasts a fresh, artist-driven interpretation of a classic attraction. Further details regarding the exhibition's logistics and content are keenly awaited by a broad audience of art and Disney aficionados."
+    },
+    "vocabulary": [
+      {
+        "word": "Former",
+        "zh": "前任的、以前的。意思是指「之前的」或「曾經是」某個身分或職位。像是「前任的班長」就是以前當過班長，現在不是了。"
+      },
+      {
+        "word": "Announces",
+        "zh": "宣布。意思就是「公開說出來」或「正式告訴大家一個消息」。想像學校升旗的時候，校長宣布一個新規定，這就是宣布。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-11-02",
+    "sourceName": "WDW News Today",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHZOclRfRDBkc1duS3o1eGdEY3Z2bHFfck1jeWltWHhVaVFlRTc4a0hGUG41YnREcnNDb3lxQ2pnMWRTN0FwbXRPVWxKdFpMWGdSbHdQRkZfWVJWYjBBZkpTc1ZGYU91ZTE4TkEtUWlvTVBnNWljZXNVejNIWFM1MlJyUVZSMkhFRUxKejgtNDFHYmxUSER4ZkhGMkFqMDBHalVNaXF4RjU0Rk5PVk02U1VlZTA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "油價、AI 和債券市場大變動，最近一個月到底發生了什麼事？",
+    "zhSummary": "最近一個月，全球市場在石油、人工智慧和債券這三個重要領域都經歷了不小的變化，引起了財經專家的關注。",
+    "zhContent": "<p>嘿，大家有沒有想過，大人們每天看的那些財經新聞，有時候其實跟我們生活也很有關係呢？最近，國外一家知名的財經媒體CNBC報導了一個有趣的消息，標題寫著：在過去一個月，石油、人工智慧（AI）和債券的買賣方式都發生了巨大的變化。這聽起來可能有點複雜，但簡單來說，就是這些非常重要、關係到全球經濟的大項目，它們的市場行情在短短一個月內，突然間有了很不一樣的發展，讓很多專家都感到驚訝。</p><p>那到底發生了什麼變化呢？我們一個個來看。首先是「石油」，這是我們日常生活中汽油、塑膠製品的原料，它的價格變動會影響很多東西。過去一個月，石油的買賣出現了一些讓市場觀察者意想不到的狀況，可能是價格上漲或下跌的速度比預期快，或是大家對未來石油需求的看法改變了。接著是「人工智慧」，這聽起來很未來感，但它已經影響到科技公司的股票和投資。CNBC的報導暗示，關於AI的投資風向或大家對其價值的判斷，也產生了某些轉變，可能是有新的技術突破，也可能是大家對它未來的發展有了新的看法。</p><p>最後是「債券」，這是一種借錢和還錢的工具，政府或大公司會發行債券來籌錢，而買債券的人會定期收到利息。債券市場的變化，通常跟全球經濟的狀況、各國中央銀行的利率政策有很大的關係。報導指出，過去一個月，債券的交易也出現了明顯的變化，這可能代表著投資人對未來經濟走向有了新的判斷，或是他們在尋找更安全或更高回報的投資機會。這些變化都讓金融市場的分析師們，開始重新評估這些重要資產的價值和未來的走勢。</p><p>總之，這則新聞告訴我們，在石油、人工智慧和債券這三大領域，市場的風向和投資人的態度，都在短短一個月內出現了顯著的調整。這些變化影響著全球的資金流向，也牽動著許多大型企業和國家的經濟活動。財經專家們正密切關注這些趨勢會如何繼續發展，以及它們會對全球經濟帶來什麼樣的長遠影響。目前的情況就是，這些重要市場的變化正在發生，而且是大家都很關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「石油」、「人工智慧」和「債券」各是什麼意思？為什麼它們的市場變化會引起大家關注？",
+      "生活與未來：你覺得這些全球市場的變動，可能間接對我們的日常生活或未來的科技發展產生什麼影響？",
+      "獨立思考提案：如果這些市場持續不穩定，你認為個人或政府可以怎麼做來應對這種快速變化的經濟環境？"
+    ],
+    "enTitle": "Everything Changed for Oil, AI, and Bond Trades Last Month",
+    "enContent": {
+      "basic": "Big news from CNBC says that things changed a lot for oil, AI, and bonds last month. Oil is what cars use. AI is like smart robots. Bonds are like promises for money. Many people who buy and sell these things saw big changes. Experts are watching what happens next.",
+      "intermediate": "According to CNBC, the markets for oil, artificial intelligence (AI), and financial bonds experienced significant shifts over the past month. Oil prices, investment trends in AI technology, and the value of bonds have all seen noticeable changes. Financial experts are now re-evaluating these key sectors to understand what caused these rapid developments and what they might mean for the global economy moving forward.",
+      "advanced": "A recent report from CNBC highlighted that the trading landscapes for oil, artificial intelligence (AI) and financial bonds underwent substantial transformations within the last month. Market participants observed significant volatility and re-evaluations across these critical sectors. The shifts encompass areas from energy commodity pricing to investment sentiment in cutting-edge AI technologies, and investor behavior in sovereign and corporate debt markets. Analysts are currently focused on deciphering the underlying causes of these rapid changes and projecting their potential impact on global economic stability and future market dynamics."
+    },
+    "vocabulary": [
+      {
+        "word": "Oil",
+        "zh": "石油：我們開車用的汽油、製作塑膠的原料，是一種很重要的能源和商品。它的價格變動會影響到很多東西的成本。"
+      },
+      {
+        "word": "Bond",
+        "zh": "債券：想像你借錢給政府或大公司，他們會給你一張證明，承諾未來會還你錢，並定期給你利息。這張證明就叫做債券。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-11-02",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dmNrd1FhM2Y4WF9rSFZ5Tm91U1p6T0lkcDFtMjdSTC1HeW1nckRObm80bGNoMkIxVGMtenhNZERydEk0Y1Y0ZGNsZnhCVmR1UjQwcnE2cHloLVZDT3VXT3E3dzNnR2k0NFZtLTg0TdIBdEFVX3lxTFBvYzVYUk8tSlRXcDhuMVh4bU56TVJaRjNfc0pjcmctU1JPaUtmWmhFZzMtWXhkdGxRTlRYQ2xHblVGRVRUbXZleVh0UHJQUWdpazlKMjBxa1RRaGtPMl95a1hwUjMteUp2NzJIV1dPMTZOeW1z?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "眼睛狂跳不停？科學家來揭密，原來是這些原因！",
+    "zhSummary": "你的眼睛有時候會突然自己跳動，讓你覺得又好笑又有點煩嗎？別擔心！這不是什麼奇怪的魔法，而是我們身體裡一個常見的科學現象。這篇報導將根據外媒資訊，揭開這個惱人小毛病背後的科學原因，告訴你為什麼會發生，以及在大部分情況下，身體想告訴你什麼。",
+    "zhContent": "<p>你的眼睛有沒有突然自己跳動，讓你覺得又好笑又有點煩？這不是魔法，也不是什麼奇怪的預兆，而是我們身體裡一個常見又有趣的科學現象！最近，BBC科學焦點雜誌就特別探討了這種叫做「眼瞼痙攣」的小問題，背後到底藏著什麼科學秘密，讓青少年們一起來了解。</p><p>其實，這種不自主的眼睛跳動，通常是眼瞼周圍的肌肉在發出「小抗議」。科學家解釋，它叫做「肌顫」或「眼瞼肌顫動」，通常是眼睛周圍的微小肌肉纖維在不經意間收縮。想像一下，你睡著時腳會突然抖一下，眼睛跳動也有一點像那樣，只是發生在你的眼皮上，這種輕微的、反覆的跳動，常常讓人感到困擾但通常無害。</p><p>那為什麼眼睛會突然開始跳呢？根據外國媒體的報導，常見的原因其實很多。比如，當你太累、睡不好，或者喝了太多含有咖啡因的飲料（像咖啡或某些汽水），眼睛就比較容易出現這種情況。長時間盯著螢幕，讓眼睛太過疲勞，或是壓力太大、身體缺乏某些營養素，也都被認為是可能的原因。科學家們指出，這些因素會讓神經系統變得比較敏感，進而導致眼部肌肉出現這種輕微的、不規律的收縮。</p><p>幸好，大多數的眼皮跳動都只是暫時的，而且通常沒有什麼危險，它們會自己慢慢停下來。醫生或專家們建議，如果你眼睛一直跳，試著多休息、減少咖啡因攝取、少用手機電腦，讓眼睛放鬆一下，通常就會有所改善。除非跳動得很頻繁、很久都沒停，或者伴隨其他身體不適，那時候才需要找醫生看看。總之，這個惱人的小毛病，其實是身體在提醒你該好好休息囉！</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "The Science Behind That Irritating Eye Twitch",
+    "enContent": {
+      "basic": "Have you ever experienced an annoying twitch in your eye? This common phenomenon, often called an eyelid twitch, is usually harmless and temporary. Science explains that these are tiny, involuntary muscle spasms in your eyelid.",
+      "intermediate": "Eyelid twitching, or myokymia, occurs when the orbicularis oculi muscle around your eye spasms involuntarily. Common triggers include stress, fatigue, lack of sleep, excessive caffeine intake, and eye strain from prolonged screen use. Scientists suggest these factors can make the nervous system more sensitive, leading to minor, irregular muscle contractions.",
+      "advanced": "Benign essential blepharospasm is a rare, more severe form of eye twitching, but common eyelid myokymia is typically stress-induced. It involves hyperactive neuronal firing in the facial nerve, leading to spasms of the orbicularis oculi muscle. While often perceived as irritating, it's usually self-limiting and responsive to lifestyle adjustments such as increased rest, reduced stimulant consumption, and management of psychological stress. Persistent or severe cases, especially those accompanied by other symptoms, warrant medical evaluation."
+    },
+    "vocabulary": [
+      {
+        "word": "twitch",
+        "zh": "抽動；輕微的、不自主的肌肉跳動，就像眼皮突然跳一下那樣。"
+      },
+      {
+        "word": "fatigue",
+        "zh": "疲勞；身體或精神感到非常累、需要休息的狀態。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-11-02",
+    "sourceName": "BBC Science Focus Magazine",
+    "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHSHN1al9fclFQM0RjVEVwVnFHUVYyMTRGdkF0aC1zRm1qNnBsQkwtM3BwUmFOZE9GcE5Ub2pPZ0w2OUZWQzdMSnNwZkhPcjZQeHZ4emV0YXd2R2xreEc2YjFHdll1UWYwSlVYVA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "密西根州選戰大驚奇：民主黨議員跨越黨派，力挺共和黨對手！",
+    "zhSummary": "美國密西根州近期的一場參議院選舉中，出現了罕見的政治事件。一位民主黨籍的議員海莉·史蒂文斯，公開宣布支持一名共和黨候選人，這個打破傳統政黨界線的舉動，引起了各界高度關注。",
+    "zhContent": "<p>嘿，你覺得政黨之間一定要是對手嗎？最近在美國的密西根州，發生了一件讓很多人跌破眼鏡的事！一位名叫海莉·史蒂文斯（Haley Stevens）的民主黨議員，竟然公開表示她支持一位共和黨的候選人，一起競爭密西根州的參議院席位。這通常很不常見，因為民主黨和共和黨在選舉時大多是互相競爭的對象。</p><p>這場在密西根州舉行的參議院選舉，是要選出代表該州的議員，他們會在美國的國會中參與國家大事的討論和決策。通常，當一位政治人物公開支持某位候選人時，這表示他們希望自己的支持者也能把票投給這位被支持的對象。史蒂文斯議員身為民主黨人，公開表態支持共和黨候選人，這個舉動在政治上非常特別，因為一般來說，不同黨派的政治人物在選舉時，都是站在對立面的。</p><p>這則來自英國廣播公司（BBC）的新聞，點出了一個在美國政治中比較罕見的現象。通常，民主黨和共和黨這兩大政黨，在重要的選舉中都會各自推出候選人，並且互相競爭，黨員之間會團結一致支持自己黨派的人。所以，當有像史蒂文斯議員這樣，一位民主黨的政治人物選擇支持另一黨的對手時，自然會引發不少關注和討論。</p><p>總之，海莉·史蒂文斯議員公開支持共和黨候選人的消息，是這次密西根州參議院選舉中一個重要的發展。這個事件顯示了在某些情況下，政治人物可能會做出超越傳統黨派界線的選擇。這項由民主黨議員對共和黨候選人做出的罕見背書，已是這次選舉中的一個客觀事實，也讓這場選戰充滿了特別的討論話題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Michigan Election Surprise: Democrat Endorses Republican Rival",
+    "enContent": {
+      "basic": "In Michigan, a Democrat named Haley Stevens surprised many by supporting a Republican in a Senate election. This is unusual because Democrats and Republicans usually don't support each other in elections. Her public support has made the election more interesting.",
+      "intermediate": "A surprising political development has emerged in Michigan's Senate race: Democratic Congresswoman Haley Stevens has publicly endorsed a Republican candidate. This act of crossing party lines is particularly noteworthy as politicians typically back their own party's nominees, generating significant discussion and attention in the political arena.",
+      "advanced": "The Michigan Senate race has witnessed an unconventional political maneuver, as Democratic Representative Haley Stevens publicly announced her endorsement of a Republican contender. This significant departure from traditional party loyalty has garnered considerable media attention and sparked extensive debate, underscoring a rare instance of bipartisan backing in a highly contested electoral landscape, as reported by the BBC."
+    },
+    "vocabulary": [
+      {
+        "word": "Endorse",
+        "zh": "背書 (bèi shū) 或 力挺 (lì tǐng)。當一個有影響力的人（比如名人或政治人物）公開說他支持某個產品、想法或，尤其是某個候選人時，就叫做「背書」。意思就是他公開推薦大家也去支持那個對象。"
+      },
+      {
+        "word": "Partisan",
+        "zh": "黨派的 (dǎng pài de)。這個詞形容一個人或一個行為，非常偏向某個政黨或團體，只考慮自己那一邊的利益或觀點。在政治上，如果一個行為是「黨派的」，就表示它是依據政黨立場來做的，而不是考慮整體或不同意見。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-11-02",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzcmxwU2pKejlDSnBrOU4yNVZ3WUJMMXpOVjlNQmtHRWIxYjZpUEZ1UWQ5Q3VsaGNzR2tRWDFfUEVVVHVvdzM0aUZ5VV96cjBqcTJhTktweDlDNEE?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "教宗南美行：性侵倖存者將向教會要求負起責任",
+    "zhSummary": "一群在過去曾遭受傷害的倖存者，計劃利用教宗訪問南美洲的機會，向天主教會提出嚴肅要求，希望教會能對過去的神職人員性侵事件負起責任，並採取實際行動。",
+    "zhContent": "<p>想像一下，教宗弗朗西斯即將前往南美洲進行訪問。這趟旅程，除了預期會受到當地信徒的熱烈歡迎外，還將面臨一群特別的人發出的嚴肅要求。他們是過去曾遭受過傷害的倖存者，希望趁著教宗到訪的機會，向天主教會提出一個非常重要的訴求：那就是要為過去發生過的事情負起責任。</p><p>這些倖存者長久以來都承受著許多傷痛，他們所說的「傷害」，其實是指過去在教會內部，曾發生過一些令人難過、不應該發生的事情，也就是一些神職人員性侵兒童的醜聞。這些事件在世界各地都曾被揭露過，不僅讓許多受害者身心受創，也讓教會的聲譽受到嚴重打擊。倖存者們認為，教會過去對於這些事件的處理方式，常常沒有給予受害者足夠的幫助，也沒有對犯錯的人採取足夠嚴厲的懲罰，甚至有些時候還被指控試圖隱瞞真相。</p><p>因此，這次教宗前往南美洲，對這些倖存者來說是一個寶貴的機會。他們希望能直接把自己的聲音傳達給教宗，並要求教會拿出實際的行動。他們希望教會能公開承認過去的錯誤，徹查所有相關案件，並建立更完善的制度來保護孩子，確保未來不再發生類似的悲劇。同時，他們也希望教會能給予受害者更多的支持與賠償，並且讓那些犯錯的人受到應有的懲罰，而不是被輕易放過。</p><p>倖存者們計劃在教宗訪問期間，透過舉辦記者會、集會等方式，將他們的訴求公諸於世，甚至希望能與教宗本人見面，親自遞交他們的陳情書和受害故事。他們的目的很明確，就是要讓全世界看見他們的困境，並且確保教會不能再迴避這些問題。這場對話能否真正帶來改變，還有待觀察，但倖存者們已經下定決心，要為自己與未來的孩子們爭取一個更安全、更誠實的環境。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，倖存者們希望透過什麼方式來傳達他們的訴求？",
+      "生活與未來：你覺得教會如果真的對這些事件負起責任，會對受害者和整個教會造成什麼實際影響？",
+      "獨立思考提案：針對這類長期存在的社會問題，你覺得除了要求相關單位負責，我們年輕一代還可以做些什麼來避免類似事件再次發生？"
+    ],
+    "enTitle": "Abuse Survivors to Press Church on Accountability During Pope's South America Trip",
+    "enContent": {
+      "basic": "During the Pope's visit to South America, people who survived abuse plan to ask the Church to take responsibility. They want the Church to be open about past problems. These survivors hope to talk directly to the Pope. They want the Church to protect children better and help those who were hurt. Many years ago, there were sad stories about church leaders harming children. Survivors want the Church to act now and fix these old problems. They hope their voices will make a big change.",
+      "intermediate": "As Pope Francis embarks on his journey to South America, a group of abuse survivors is preparing to make a powerful statement. They intend to use this high-profile visit to press the Catholic Church for greater accountability regarding past instances of abuse. For years, survivors have sought justice and transparency concerning cases where children were harmed by clergy members. They aim to engage directly with the Pope, advocating for comprehensive measures to protect minors and provide support for those who have suffered. Their collective effort during this trip is a crucial step in demanding that the Church acknowledge its historical failings and implement lasting reforms.",
+      "advanced": "During Pope Francis's upcoming apostolic journey to South America, a coalition of abuse survivors is poised to amplify their long-standing demands for ecclesiastical accountability. Utilizing the international spotlight of the papal visit, these individuals seek to compel the Catholic Church to confront its historical failures regarding clergy sexual abuse. Survivors across the globe have consistently advocated for greater transparency, robust protective measures for minors, and comprehensive support for victims. Their strategic engagement during the Pope's trip is designed to ensure their testimonies and calls for systemic reform are heard at the highest levels of the Church hierarchy, thereby pressing for concrete actions beyond mere apologies and verbal commitments to change."
+    },
+    "vocabulary": [
+      {
+        "word": "Accountability",
+        "zh": "負責、問責。意思是當你做錯事或發生問題時，需要清楚說明情況，並且為結果承擔責任，不能逃避。"
+      },
+      {
+        "word": "Survivors",
+        "zh": "倖存者。指那些在危險、災難或困難中活下來的人，這裡特別指曾經遭受過傷害，但努力挺過來的人。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-11-02",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMzJHek1TWWR3bHZhTVNkR2tsVjFDNjdJWlA5STIwV3ZQTXZhLVhiY3ZGeW0yNWpSMFZwUEx3aXQzZm9pRkRpTEM2N09LYUppZk9qTDNkX294c05jenpPS1Z2akhyTVZ0YzlKWm9ZOXJsSDQ5THhmNHd6Vy1Db3B3YzVPdW1uc2FfblVjWnVIbDZRY3dBcVhwaDhFaGlMaWJYcU16RFJrS1lWcjJiN0c4ejVFakZhc0lpOEhYaEhnMXJqei1m?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國街頭風暴：退休年齡改革引爆數十萬人怒火",
+    "zhSummary": "法國政府推動退休金改革，計畫將退休年齡延後，引發全國性大規模抗議與罷工，雖然政府已通過法案，社會上的不滿和衝突仍在持續。",
+    "zhContent": "<p>最近法國很不平靜，好幾十萬人走上街頭，因為他們不同意政府推動的一項重要改革。這項改革主要就是把大家可以退休的年齡往後延，讓更多人必須工作更久才能領退休金。從媒體報導中可以看到，法國多個城市都發生了大規模的抗議活動，場面既緊張又充滿火藥味。</p><p>從年初開始，法國各地就陸續發起大規模示威遊行和罷工，參與人數每次都非常多。抗議者不只走上街頭，還會發動火車、學校、煉油廠等各行業的罷工，甚至封鎖道路，讓整個國家運作受到影響。雖然大部分遊行是和平的，但也有些地方出現了警民衝突，示威者和警察之間氣氛很緊張。</p><p>法國政府表示，這項退休金改革是為了確保國家退休金制度的長久穩定，因為現在退休的人口越來越多，工作的人卻沒有同步增加，國家的財政壓力很大。然而，許多民眾和工會認為，提高退休年齡對辛苦工作的人來說不公平，特別是那些從事體力勞動的基層員工，會讓他們工作到老都無法好好享受退休生活。</p><p>儘管社會反彈聲浪很大，法國政府還是動用了特別憲法權力，直接通過了這項退休改革法案，沒有經過國會投票。這個舉動讓更多人不滿，抗議活動並沒有因此停止，甚至還有一些法律挑戰和更多的示威行動正在進行中。整個法國社會對這項改革的討論和分歧依然非常大。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，法國民眾抗議的原因是什麼？他們採取了哪些行動來表達不滿？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？例如，對於快要退休的人、剛出社會的年輕人，或是整個法國社會？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "France's Street Storm: Pension Age Reform Ignites Hundreds of Thousands",
+    "enContent": {
+      "basic": "Hundreds of thousands of people in France are protesting a new law. The government wants people to work longer before they can retire. Many cities saw big protests. People went on strike from their jobs, like trains and schools. Some protests were peaceful, but others had clashes with police. The government says the change is needed to pay for pensions in the future. But people say it's unfair, especially for hard workers. The government passed the law, but protests are still happening. Many people in France are still divided about this.",
+      "intermediate": "France is currently experiencing widespread unrest as hundreds of thousands of citizens protest a controversial government reform. The proposed change aims to raise the national retirement age, requiring individuals to work longer before receiving their pensions. Large-scale demonstrations and strikes have taken place across many French cities, leading to both peaceful gatherings and some confrontations between protestors and police. The government argues that this reform is essential to ensure the long-term financial stability of the country's pension system, citing an aging population and fewer workers. However, many citizens and unions view the increased retirement age as unfair, particularly for those in physically demanding jobs. Despite strong public opposition, the government utilized a special constitutional power to pass the law without a parliamentary vote. This decision has only intensified public discontent, with ongoing protests and legal challenges continuing to fuel the debate across French society.",
+      "advanced": "France has been gripped by significant social tension as hundreds of thousands of citizens mobilize in protest against a contentious government-led pension reform. This legislative change seeks to increase the legal retirement age, compelling individuals to extend their working lives before becoming eligible for state pensions. Widespread demonstrations, marked by both large-scale peaceful marches and instances of clashes with law enforcement, have occurred in major French cities. Protesters have also initiated extensive strikes across various sectors, including public transport and education, significantly disrupting daily life and economic activity. The French government defends the reform as a critical measure to safeguard the fiscal viability of the national pension system, citing demographic shifts characterized by an aging populace and a relatively stagnant workforce. Conversely, unions and a substantial segment of the public contend that the increased retirement age places an unjust burden on workers, particularly those in arduous professions. Despite considerable public outcry, the government controversially invoked a special constitutional article to bypass a parliamentary vote and enact the reform into law. This executive action has further exacerbated public anger, ensuring that protests and legal challenges persist, maintaining a deep societal division over the future of France's social security framework."
+    },
+    "vocabulary": [
+      {
+        "word": "Protest",
+        "zh": "抗議：當人們不同意某件事時，會用遊行、罷工或公開表達意見的方式來表達不滿。"
+      },
+      {
+        "word": "Reform",
+        "zh": "改革：改變或改善現有的制度或做法，通常是政府或組織為了讓事情變得更好而推動的。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-11-02",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUoyQ2VKVzRUWXF0eGt6NW4wdGRmTFBkaDM2YjJ1VHIwcURiZngtZnZfc0xkbk8yZEFxMEZieVdkd2lSOTJZY0g3N1dOX1hzOEVkTVZLSXpOZkhEUTlUWVNUZHlaVldYZGNlSEFzRXJyTkJUMnVkQ0g4T2xWc3Y4cXVvUEpOYlktYnlQT3JZYUcwNDlQRHVTalE5aFpDWjBqZ2N4dUxoeUFlVlVMRnVn0gG0AUFVX3lxTE0xWERDRjA3Slc2bmlpZTdvQkNjOGVrVWxvOWlvVDJ5VG9VZTJJTE1kVHRCczRtUHFSQVRrOWdvLTlIYlBTbkc0Y2dNS29SeE1vbTMxNkJ4cVUzNXFWSnFSaVpfU0d6R29fSGlwY1RvUmR2bTlER0luU19WaVpFT041LXFOSEVYLW04eVZSTEM5c05QZnlDeXBpMVplQmVBM0c3aWlPSGFWSDFWMWxLZEExN1pOUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "澳洲板球隊奇特選人踢到鐵板？南非賽事結果引熱議",
+    "zhSummary": "澳洲國家板球隊在南非的比賽中，採取了不尋常的球員選拔策略，結果表現不佳，證實了許多賽前評論員的擔憂，引發了媒體對其選人方式的強烈質疑。",
+    "zhContent": "<p>最近，澳洲國家板球隊在南非進行的一系列重要比賽，因為他們在選人方面做出了一些不同尋常的決定，結果不如外界預期。根據權威體育媒體《衛報》的報導，這些讓許多人感到意外的選人安排，最終導致澳洲隊在比賽中表現不佳，讓他們付出了代價。</p><p>據了解，在這次遠赴南非的比賽中，澳洲隊的教練團選擇了幾位讓體育評論員和球迷們都感到詫異的球員上場，同時也讓一些大家認為會是主力的人坐了冷板凳。這些不尋常的隊伍配置在比賽開始前就引起了熱烈的討論，許多專家當時就預測，這樣的選擇可能會有風險，甚至可能讓球隊陷入困境。</p><p>事實證明，這些賽前的擔憂並非空穴來風。比賽過程中，澳洲隊的整體發揮並未達到大家期待的水準。這些特別的選人策略，並沒有帶來預期中的驚喜或優勢，反而讓球隊在關鍵時刻顯得有些力不從心，未能有效應對南非隊的挑戰。</p><p>最終，比賽結果如同許多人事前所預料的那樣，澳洲隊的表現未能贏得勝利，讓這些出乎意料的選人決定被認為是導致失利的重要原因之一。這也讓許多媒體呼籲，澳洲板球隊現在需要好好審視他們的球員選擇方式，進行一次「現實檢查」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，澳洲板球隊的「奇特選人策略」指的是什麼？為什麼這會被認為是造成他們輸球的原因？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Australia's Controversial Cricket Selections Backfire in South Africa",
+    "enContent": {
+      "basic": "The Australian cricket team made some unusual player choices for their matches in South Africa, which many people thought were strange. These choices led to the team not playing well and losing, just as some experts predicted before the games started.",
+      "intermediate": "During their recent tour in South Africa, the Australian national cricket team implemented what were widely described as 'bizarre selection choices' for their playing squad. These unconventional decisions stirred considerable pre-match debate among sports commentators and fans, many of whom expressed concerns that such strategies could negatively impact the team's performance.",
+      "advanced": "The Australian national cricket squad recently faced significant scrutiny following their series in South Africa, where their unconventional player selection strategies reportedly 'backfired' with predictable outcomes. Esteemed publications like The Guardian highlighted how these unorthodox choices, which deviated considerably from anticipated lineups, ultimately contributed to the team's subpar performance and subsequent defeat, prompting calls for a critical 'reality check' within the team's management."
+    },
+    "vocabulary": [
+      {
+        "word": "bizarre",
+        "zh": "奇特的、不尋常的。可以想像一下，如果你看到有人穿著超級奇怪的衣服去參加很正式的場合，大家就會覺得「哇，他的穿搭也太bizarre了吧！」就是指非常古怪或特別的意思。"
+      },
+      {
+        "word": "backfire",
+        "zh": "適得其反、產生反效果。就像你本來想惡作劇嚇朋友，結果不小心把自己嚇到了，那就是你的惡作劇「backfire」了。意思是原本預期的結果沒有發生，反而出現了負面或相反的效果。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-11-02",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEpZc3JBSlp5NWJlUlc0Qmd4NGtkWEMtWk9LVjMwenY2YnJzS3RXX09GNG9wVklNLWk4WVBPWWw0WmZsNlFQQ2kyQW5NQWtpakRKOTJOMWdOdVlhNEppS0dGMUNkOHkyUmljM3laNk43R0FyM3BQMk1YMXlPSTVySUZ1TnJVSXVaWW50OGtHYVFlSzZuTkJGdEFrRVRnM3Fib1oxR2lDNm5RTmZoMzNzcnMzMXVDYW1vbXZRVndZQ1pFaXdfR1k2dEY3SjRDd05EUWVFSG91UzhwTHFyLVlPSFBqZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "葉門衝突再起：二十九萬人無家可歸，孕婦面臨嚴峻威脅",
+    "zhSummary": "聯合國指出，葉門近期爆發的新一輪衝突已導致近二十九萬人流離失所，其中孕婦群體面臨特別高的風險，人道危機持續惡化。",
+    "zhContent": "<p>最近在中東的葉門，又發生了讓人很難過的事情。一場新的戰鬥在當地爆發，讓許多人被迫離開自己的家園。聯合國向大家發出警告，光是這次的衝突，就已經造成了將近二十九萬人無家可歸。更讓人憂心的是，那些懷孕的婦女們，她們的生命安全和健康正受到非常大的威脅。</p><p>根據國際新聞媒體半島電視台的報導，這場新的衝突集中在葉門的某些區域，導致當地居民必須在短時間內，緊急撤離他們原本生活的地方。聯合國表示，這個「流離失所」的人數非常龐大，數字不斷增加，表示每天都有更多的人被迫踏上逃難的旅程。他們可能連基本的日常用品都來不及帶，就必須離開熟悉的一切。</p><p>葉門這個國家，其實已經經歷了好幾年的戰亂，所以很多人道救援組織一直在那裡提供幫助。然而，新的戰鬥讓情況變得更糟。尤其對懷孕的婦女來說，在沒有固定住所、食物短缺、衛生條件又很差的環境下，她們很難得到適當的休息和醫療照顧。這對她們自己和肚裡的寶寶來說，都是極度危險的狀況，隨時可能發生意外。</p><p>面對這樣嚴峻的局面，聯合國呼籲各方必須停止衝突，並確保這些受戰火影響的民眾，尤其是婦女和兒童，能夠獲得保護和協助。許多國際組織也正努力提供人道物資，例如糧食、飲用水和醫療用品，希望能減輕他們所承受的痛苦。然而，只要戰火一天沒有平息，葉門人民，尤其是這些流離失所的家庭，就無法真正回到安全平靜的生活。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "New Fighting in Yemen Displaces 290,000, Pregnant Women at Risk",
+    "enContent": {
+      "basic": "Recent fighting in Yemen has made nearly 290,000 people leave their homes, according to the UN. Many of these are pregnant women who are now in danger. They need safe places to stay, food, and doctors. The UN and other groups are trying to help them and stop the fighting.",
+      "intermediate": "New clashes in Yemen have led to a significant humanitarian crisis, with the United Nations reporting approximately 290,000 people displaced from their homes. Al Jazeera highlighted the particular vulnerability of pregnant women, who face severe risks due to the lack of shelter, food, clean water, and medical care. The UN is urging an end to the conflict and increased protection for affected civilians, especially women and children, while aid organizations strive to provide essential supplies.",
+      "advanced": "The escalation of hostilities in Yemen has resulted in a dire humanitarian situation, with the UN announcing that nearly 290,000 individuals have been newly displaced. Al Jazeera's reporting underscores the critical plight of pregnant women, who are disproportionately affected by the conflict, facing heightened risks due to disrupted access to healthcare, adequate nutrition, and safe shelter. International calls for a cessation of violence and robust protection for civilians, alongside humanitarian relief efforts, remain paramount amidst the ongoing instability."
+    },
+    "vocabulary": [
+      {
+        "word": "Displace",
+        "zh": "流離失所：當你因為戰爭、天災或其他原因，被迫離開你原本的家，到別的地方去住，這就叫流離失所。你可能沒有固定的住所，生活也會變得不穩定。"
+      },
+      {
+        "word": "Vulnerable",
+        "zh": "脆弱的／易受攻擊的：指某人或某群人因為某些原因（例如年幼、年長、生病或身處危險環境），比一般人更容易受到傷害或影響，需要特別的保護和照顧。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-11-02",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDJwdWJtb3p4TXNSdXczYVNzenNsbi1VSGJ1ZFc0akQ0enhNaUE3V1E1bVNRVlhKVFo3S29pNEMxWl9Leml0QkdrNVlqSEJWaE0tcFlITGJHeXlvUFBMSWtxOXB1dlBWU0hvTXRaRXlIaEw2ZEk4RTdsZlVrTVlVS2xLdTZRRnplQzJIQ01rZnlqdjlvWDVCXzkza3BaWVJac0YxU2xwV3pWNE43NS1jcERHY9IBuAFBVV95cUxNeDFzRVpOektoczR4Mm5ldWh6Z3FXOTdXaUZVd3JwMkxwQWFxWnNQUWY2aDNhZENUUm5tYjV0UVNZYnJhU2hjTkNfZzFmTUI2MUZKOHFZeGNBTE9YY3MtVHZSR3FUSndfNzZweFJhLXhpZTQtYjF0U01SbjdiZHVWN3NoVFJFbjJGbFlpaFRvUmxDVm5yaW1pTlVxVDNUSVd5RUZ2WEY4UDAzT05STW9RZnIwY1NyeGNy?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "德國高層亞洲行：總理總統齊出動，究竟為了什麼？",
+    "zhSummary": "德國總理與總統共同訪問亞洲，旨在深化與亞洲國家的合作，加強經貿和政治關係，為未來發展奠定基礎。",
+    "zhContent": "<p>你最近有沒有聽說，德國的總理和總統兩位超重要的人物，竟然一起跑到亞洲進行一場「超級任務」呢？這可不是一般的旅行，這兩位代表德國的最高領導人，同時踏上了遙遠的亞洲土地。這趟特別的出訪，其實代表著德國對亞洲地區非常重視，他們希望透過這次機會，和亞洲各國建立更深厚的連結，為未來的合作鋪路。</p><p>想像一下，德國總理和總統就像是代表整個國家的「外交大使」。他們來到亞洲的許多國家，主要任務就是和這些國家的最高領導人見面，進行一場又一場的重要對話。這些討論的內容包羅萬象，可能會聊到如何促進彼此的貿易往來，讓更多商品能流通；也可能針對全球氣候變遷、國際安全等議題，交換彼此的看法，尋找共同解決問題的方法。更重要的是，透過面對面的交流，能夠增進彼此的信任和了解。</p><p>為什麼亞洲會這麼重要呢？其實，亞洲是全世界人口最多、經濟發展最快速的地區之一，這裡有很多國家都在科技創新和經濟成長上展現了強大的潛力。對於像德國這樣一個在歐洲有重要影響力的國家來說，與亞洲保持緊密的關係，對他們未來的發展至關重要。這次兩位最高領導人親自造訪，就是要向亞洲國家表達德國希望成為長期且可靠的夥伴，共同面對世界的挑戰並抓住新的機會。</p><p>這趟德國總理和總統的亞洲之行，主要的目標就是加強德國與亞洲各國之間的友誼與合作。雖然每次外交出訪的具體成果需要時間來慢慢展現，但這種高層次的直接對話本身就具有非常大的意義。它為德國和亞洲國家之間未來的經濟貿易、文化交流和政治合作，開啟了更多扇大門，讓雙方關係能夠在更堅實的基礎上持續發展。這趟旅程，正是國際社會如何努力建立和維繫彼此關係的一個真實寫照。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "German Chancellor and President Tour Asia",
+    "enContent": {
+      "basic": "German Chancellor and President are visiting countries in Asia to meet leaders and discuss cooperation.",
+      "intermediate": "Germany's Chancellor and President have embarked on a joint tour across Asia. This high-level visit aims to strengthen diplomatic ties, foster economic partnerships, and address shared global challenges with various Asian nations.",
+      "advanced": "In a significant diplomatic endeavor, both the German Chancellor and President are undertaking a comprehensive tour of Asia. The meticulously planned itinerary is designed to engage with key regional leaders, facilitate discussions on crucial bilateral and multilateral issues such as trade, climate policy, and security, and strategically reinforce Germany's engagement with the rapidly evolving Asian geopolitical and economic landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "Chancellor",
+        "zh": "總理 (zǒng lǐ) - 一個國家最高層的政府首長，通常負責領導政府和處理國家大事，類似其他國家的首相或總裁。"
+      },
+      {
+        "word": "Diplomacy",
+        "zh": "外交 (wài jiāo) - 國家之間為了維護關係、解決問題或達成協議而進行的溝通和談判活動，就像國與國之間的「協商」。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-11-02",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkVDVW9KdTRoejlfLXI3VGZfUVRzaWZqODFxNFRtRzNSRWFQOHdTZGtEZm1NZE9ob2ZIRmJZZU8zcDVBczYwd28yazBBU2tBenRVY3Fnb21rNk4zTjVQc2pVSVQ5R3dtWHIwdlBFTXNvX2NVUmNyRUc0ZmtYVko0YnEzMEo?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞「探油大作戰」升級！地質學家出奇招",
+    "zhSummary": "地質學家們正在想辦法，用新的技術和思考模式，讓東南亞地區尋找石油和天然氣的行動變得更有效率、更有趣。他們希望能在這個地區找到更多重要的能源寶藏。",
+    "zhContent": "<p>東南亞的能量探險故事，最近要來點不一樣的！來自「美國石油地質學家協會」（AAPG）的消息指出，一群厲害的地質學家和能源專家們，正在想方設法，要讓東南亞地區的石油和天然氣探勘工作「加點料」、變得更精彩。這不只是單純的尋找資源，更是一場運用新點子和新技術的腦力激盪，希望能找到更多沉睡在地底深處的能源寶藏。他們想透過新的角度，重新檢視這片充滿潛力的土地。</p><p>這些專家們究竟出了什麼奇招呢？他們不再只是用傳統的方法，而是開始導入更先進的「地震探測」技術，就像是幫地球做X光掃描一樣，能更清楚地看見地底下的結構。此外，他們也開始回頭研究一些過去被認為「沒什麼搞頭」的區域，或利用全新的電腦模型來分析複雜的地質資料，希望能從中找出被忽略的蛛絲馬跡。簡單來說，他們正努力讓尋找石油和天然氣的過程，從過去的「大海撈針」變成更精準的「衛星導航」。</p><p>為什麼要這麼大費周章呢？主要原因是，東南亞地區目前一些老舊的油氣田，開採量逐漸減少，但大家對能源的需求卻還是不斷增加。為了確保未來有足夠的能源供給，就必須積極地去尋找新的能源來源。因此，這些地質學家們透過各種研討會和合作計畫，互相分享最新的發現和技術，希望能夠集思廣益，找出最有效率的探勘策略，共同為東南亞的能源未來努力。</p><p>目前，這項「探油升級計畫」正在積極推動中。地質學家們正陸續應用這些新技術和新思維，深入東南亞的各個角落進行探勘。雖然尋找新的油氣田總是充滿挑戰，但透過這種「加點料」的方式，他們希望能大幅提升找到重要能源儲藏的機會。整個計畫的目標很明確，就是為了讓東南亞地區的能源供應能夠更穩定、更充足，持續滿足當地社會的發展需求。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Geologists Revitalize Oil and Gas Hunt in Southeast Asia",
+    "enContent": {
+      "basic": "Geologists are working to make finding oil and gas in Southeast Asia more exciting and effective. They are using new ideas and tools to look for energy hidden deep underground. This effort aims to keep the region supplied with enough power as older oil fields produce less. Experts are sharing knowledge and trying new ways to explore, hoping to discover more valuable energy sources for the future.",
+      "intermediate": "The American Association of Petroleum Geologists (AAPG) reports that experts are enhancing oil and gas exploration in Southeast Asia. This initiative involves adopting innovative techniques and fresh perspectives to uncover new energy reserves. As existing oil fields in the region mature and energy demands grow, there's a pressing need to identify additional sources. Geologists are employing advanced seismic technology and revisiting overlooked areas, transforming the search into a more precise and data-driven process. Through collaboration and the exchange of cutting-edge ideas, they aim to secure a stable energy future for the region.",
+      "advanced": "In a significant push to bolster energy security, the American Association of Petroleum Geologists (AAPG) highlights intensified efforts in hydrocarbon exploration across Southeast Asia. Faced with declining yields from mature fields and burgeoning energy consumption, geoscientists are deploying sophisticated methodologies to revitalize the search for new oil and gas deposits. This comprehensive strategy encompasses the integration of advanced seismic imaging, high-resolution geological modeling, and a critical re-evaluation of previously marginalized prospective basins. Collaborative initiatives and knowledge-sharing platforms are central to these endeavors, fostering an environment where innovative exploration concepts can be rapidly developed and implemented. The objective is to leverage cutting-edge geological insights and technological advancements to significantly improve discovery rates and ensure a resilient energy supply for the region's sustained development."
+    },
+    "vocabulary": [
+      {
+        "word": "Exploration",
+        "zh": "「探勘」或「探險」。想像你是一個尋寶家，努力尋找一個從來沒人去過、或是被遺忘的地方，看看那裡有沒有什麼寶藏。探勘就是指這種有計畫地去調查和尋找資源（像是石油、天然氣）的過程。"
+      },
+      {
+        "word": "Geologist",
+        "zh": "「地質學家」。他們是研究地球構造、石頭、土壤和山脈的科學家。就像是地球的偵探，他們透過觀察和分析地底下的線索，來了解地球過去發生了什麼事，以及未來可能會有哪些變化。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-11-02",
+    "sourceName": "AAPG",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmpyek9zTm1ndGlKekNzVUkzUEdJbmZMenJQbDI0VHRJSE5ReGtzcWdwQzhzbEYtaXdrVVlsQlBuLXo1NEVidXIxeWhMbUZWNmFIa0lQUHN3czZBdXVCYTZQNU8xWmV3YTlqN0pSOHR6QmFhLUpsQmxDTTFqaENtZWJtUHZJbWNQZk56U29iZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "異鄉生病無法歸：斯里蘭卡婦女困在庫克群島，家人心碎求助",
+    "zhSummary": "一名斯里蘭卡婦女在遙遠的庫克群島工作時重病，因醫療資源不足且無法長途飛行而滯留。她的家人心急如焚，甚至提出「若不幸離世，請將遺體運回」的請求，凸顯海外工作者的困境。",
+    "zhContent": "<p>想像一下，你的家人在遙遠的異鄉生病了，而且無法回家，這會有多麼令人擔心？最近，紐西蘭媒體報導了一位斯里蘭卡婦女的故事，她的家人正焦急地為她請求幫助。這位婦女名叫德瓦妮，她目前身在庫克群島，健康狀況不佳。家人最心碎的請求是：「如果她不在了，請把她的身體送回斯里蘭卡。」這句話透露出他們深深的恐懼與無助，也讓這個遠在他鄉的故事，透過媒體傳到了更多人的耳中。</p><p>根據報導，德瓦妮的家人透露，她是在庫克群島工作時生病的。她原本持工作簽證來到這裡，但因為身體狀況惡化，需要更專業的醫療照顧。然而，庫克群島的醫療資源相對有限，無法提供她所需的高階治療。她的家人曾多次嘗試安排她返回斯里蘭卡，但因為她的健康狀況不適合長途飛行，加上相關的程序和費用都很複雜，讓她一直無法順利離開，被困在異鄉。</p><p>德瓦妮的家人非常沮喪，因為他們覺得自己已經用盡了所有辦法。他們聯絡了斯里蘭卡的政府單位，也尋求了庫克群島當地社區的協助。雖然有些組織表示願意幫忙，但要將一位重病的病人從一個小島國運送回亞洲，牽涉到醫療轉運、簽證問題和龐大的費用，這些都成為了巨大的障礙。她的家人甚至透過媒體發聲，希望引起更多關注，讓德瓦妮能獲得適當的幫助。</p><p>截至目前為止，德瓦妮的狀況依然沒有改善，她仍然被困在庫克群島。她的家人表示，他們會繼續努力，希望能找到方法克服醫療運送和相關費用的困難，讓德瓦妮能安全地返回家鄉。這個事件持續受到關注，但德瓦妮何時能回家，目前仍是個未知數。他們仍在等待來自各方的支援，希望能為德瓦妮找到一條回家的路。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致德瓦妮無法回國？庫克群島的醫療資源狀況又是如何？",
+      "生活與未來：你覺得這個事件對於身在海外工作或留學的人來說，會帶來什麼樣的提醒？",
+      "獨立思考提案：針對這個情況，除了家人求助媒體之外，你覺得還有哪些組織或方法可以幫助德瓦妮？"
+    ],
+    "enTitle": "Sri Lankan Woman Stranded in Cook Islands: Family Fears and Repatriation Plea",
+    "enContent": {
+      "basic": "A Sri Lankan woman working in the Cook Islands fell seriously ill and cannot return home. Her family is very worried because the islands have limited medical care. They are asking for help to bring her back, even stating: 'If she passes away, please send her body back to Sri Lanka.' She is stuck there because she is too sick to travel and it's hard to arrange her return.",
+      "intermediate": "The headline 'If not alive... repatriate my body': Family fears for Sri Lankan woman stranded in Cook Islands highlights a distressing situation. A Sri Lankan national, who had been working in the remote Cook Islands, developed a severe illness. Due to the limited medical facilities on the islands, she cannot receive the specialized care she needs. Her family, gravely concerned for her well-being, has made an emotional appeal for assistance, including the difficult request for her body to be repatriated to Sri Lanka should the worst happen. Travel restrictions and her critical health condition have complicated efforts to transport her home.",
+      "advanced": "An urgent humanitarian crisis is unfolding for a Sri Lankan woman currently stranded in the Cook Islands, as reported by RNZ. The woman, whose identity has been withheld for privacy, became critically ill while working abroad. Her family has issued a poignant plea, expressing profound fears for her life and requesting the repatriation of her body to Sri Lanka should she succumb to her illness. The remote Pacific island nation's healthcare infrastructure is insufficient to address her complex medical needs, and her delicate condition prevents her from undertaking long-haul travel. Efforts to facilitate her return have been hampered by logistical complexities, visa issues, and the prohibitive costs associated with medical evacuation, underscoring the severe challenges faced by expatriate workers in remote locales when confronted with unforeseen health crises."
+    },
+    "vocabulary": [
+      {
+        "word": "repatriate",
+        "zh": "「遣返（遺體、國民）」意思是將一個人送回他們的祖國，特別是用在將已故者的身體送回原國家安葬，或將身在異國的國民送回本國。"
+      },
+      {
+        "word": "stranded",
+        "zh": "「滯留、受困」意思是因某些原因（例如交通中斷、疾病或經濟困難）而無法離開某地，困在原地。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-11-02",
+    "sourceName": "RNZ",
+    "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2JPbTJlWVVDdGJRdnB6NjBMTTFBcDFFbHZ3Ni0tRmZtMGFKbXZBV29IVXVQNU1uTHQxM0J2bXVCRUh4S0N2Nk9aR2ZoOGxWeElEbkJ4azNoYnA1WEpVeVFzMTNPN0V1VFB0NmRuMHZMdG91WEVfT3ZfUk43c1RYYUF4alk0dnYtVEFrVDRrbVlMMlNWZXBvd0pKVnQyWjJCemtmWGFLSGx1WGJDbE93TVVIcmU0TzVGSW9lR3ZGaER2U1NKajFkUkQ2bDVmQQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "西班牙高鐵驚傳連環追撞！至少30人喪生，同路線一年內二度出事",
     "zhSummary": "西班牙一列高速列車近日發生追撞事故，造成至少30人死亡，多人受傷。令人擔憂的是，這已經是同一個鐵路路段在一年內發生的第二起重大事故。",
     "zhContent": "<p>各位讀者好！今天我們要來聊聊一個發生在遙遠國度西班牙的嚴肅新聞。那裡，一列高速列車在行駛途中發生了嚴重的追撞事故，造成了令人心痛的結果。根據當地媒體報導，這場事故至少導致了30人不幸喪生，還有許多乘客受到輕重傷。現場救援人員在第一時間趕到，全力進行搶救，希望能夠將受困的人們盡快救出。</p><p>這起意外發生在西班牙境內一條重要的高速鐵路路線上。雖然我們目前還不清楚事故發生的詳細原因，但「追撞」意味著可能是一列火車從後方撞上了另一列火車，或是撞上了軌道上的其他障礙物。高速列車的運行速度非常快，因此一旦發生碰撞，造成的衝擊力道和傷害往往會非常巨大，這也解釋了為何這次事故會造成如此多的傷亡。</p><p>更讓人感到不安的是，這條發生事故的鐵路路段並不是第一次出事。事實上，在過去一年內，同一個高鐵路線就曾經發生過另一起嚴重的重大事故。這代表著，在短短一年時間裡，同一個地點已經連續發生了兩次足以造成大量傷亡的火車意外。這個情況讓當地民眾和相關單位都非常關注，究竟是不是這個路段本身存在什麼樣的潛在問題。</p><p>目前，事故現場的搜救工作仍在持續進行，而西班牙當局也已經啟動了全面調查。調查人員將會仔細檢視事故現場的每一個線索，包括列車的機械狀況、駕駛員的操作紀錄以及鐵路系統的訊號與控制設備，希望能盡快釐清這起高鐵追撞事故的確切原因，並對所有不幸的受害者及其家屬表示哀悼。這是一則讓人難過的消息，我們將持續關注後續的發展。</p>",
@@ -10427,461 +10882,6 @@
     "date": "2026-10-03",
     "sourceName": "The Guardian",
     "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmJwc2ZJUnZJT3NJZmZidU5IWndpWVl0eTFucTFIV1FOTHJSd0dFdE5PcDlFbVRrNnJkSF9zZTFqQmFDYWhfU1JGc0NiamMxdHF5R2t0TnU4ZGhnVmZxaDdZZmgycHhWSTB5VVhZbzFnVlZMMExXMHpOc3FHTnItcWtQNFRPQlVPdUN5NHpnWldNYXQzUjQzeDhJMXFucDVxWkJZZmJCdmhfS0ZwQXNjdQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "國際新動向：美軍將領裁減與巨額投資台灣",
-    "zhSummary": "美國軍方近期宣布重大改革，將裁減兩成將領並興建40年來首座新基地；同時，科技大廠美光也加碼投資台灣，總計將投入逾1.6兆台幣擴建四大基地，兩大新聞事件展現全球不同領域的變化。",
-    "zhContent": "<p>最近國際上發生了兩件大事，都受到全球高度關注。其中一項是美國軍方宣布進行一項重大變革，這將會影響到軍隊的組織結構，甚至會打造新的基地。同時，另一則消息則來自科技業，知名記憶體製造商美光科技決定大手筆加碼投資台灣，計畫擴大他們在台灣的生產基地。這兩項新聞分別展現了國際政治與經濟領域的重要新動向。</p><p>關於美國軍方的大變革，發言人赫格塞斯（Heggses）已經對外宣布了具體內容。他們將大幅裁減軍隊中的高階將領，預計會有高達兩成的將領職位被取消。此外，美軍還將著手興建一座全新的軍事基地，這可是40年來首度有新的基地落成。這座新基地規模龐大，預計將能容納大約2.5萬名軍人，顯示出美國軍方對未來戰略部署的調整與規劃。</p><p>與此同時，在台灣方面，全球半導體產業的巨頭美光科技（Micron）也傳來了振奮人心的消息。美光決定持續增加在台灣的投資金額，截至目前為止，他們在台灣累積的總投資額已經超過了新台幣1.6兆元。為了配合這項龐大的投資計畫，美光在台灣的四大主要生產基地也將同步進行擴廠工程，以提升產能並強化其在全球市場的競爭力。</p><p>總結來看，美國軍方正朝向精簡高層人力和強化基礎建設的方向邁進，這些改革將塑造其未來的軍事力量。而美光科技則透過在台灣的大規模投資與擴廠，展現了對台灣半導體產業鏈的信任與長期合作的承諾。這兩大事件都明確指出了相關領域的發展與最新佈局，呈現了國際間在軍事與科技經濟上各自的重大進展。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Global Highlights: US Military Reforms and Micron's Major Investment in Taiwan",
-    "enContent": {
-      "basic": "The U.S. military is making big changes, cutting 20% of its top leaders and building a new base for 25,000 soldiers. Also, Micron is investing over NT$1.6 trillion in Taiwan to expand four factories.",
-      "intermediate": "The U.S. military is undergoing significant reforms. Heggses announced a 20% reduction in generals and the construction of a new military base, the first in 40 years, capable of housing 25,000 personnel. Separately, Micron is increasing its investment in Taiwan, committing over NT$1.6 trillion to expand four of its facilities simultaneously.",
-      "advanced": "Major transformations are underway in the global landscape, as reported by CNA. The U.S. military has announced sweeping reforms, including a 20% reduction in its general officer corps and the establishment of its first new base in four decades, designed to accommodate 25,000 service members. Concurrently, semiconductor giant Micron is significantly expanding its footprint in Taiwan, with an accumulated investment exceeding NT$1.6 trillion aimed at the simultaneous development of four key production sites."
-    },
-    "vocabulary": [
-      {
-        "word": "General",
-        "zh": "將領（軍隊中職位很高、負責指揮作戰的人，通常就是軍隊裡的「長官」。）"
-      },
-      {
-        "word": "Investment",
-        "zh": "投資（把錢或資源放進一個計畫或公司，希望未來能賺更多錢或得到好處。）"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-10-02",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FdHJUNG95eHVNVGh6SUNOQktoajNGX3lhc2QtSjFmek56dDZXYW94YzZLQlJmMkxEcEhSekZzeXJ1TzVVd3Q5d3BsRUJMTWVpLV80Z05NMWwzV00?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "青少年腦力激盪，為氣候變遷找出路！",
-    "zhSummary": "一場全球性的活動，鼓勵年輕世代發揮創意，設計各種方案來應對氣候變遷帶來的挑戰，展現了青少年在環境議題上的潛力與行動力。",
-    "zhContent": "<p>全球暖化、極端天氣，這些聽起來很嚴肅的詞，其實是我們這個世代都在面對的大挑戰。但別擔心，解決問題可不是大人的專利！最近在國際上，有一群年齡落在10到15歲的青少年，他們把腦筋動到了氣候變遷上，用他們的創意和科學知識，設計出許多令人驚豔的點子，要來找出對抗環境問題的方法。這不只是一場活動，更像是一場大型的腦力激盪，展現了年輕世代的無限可能。</p><p>這項受到國際媒體關注的計畫，主要是為了鼓勵這些年輕學子，思考如何在日常生活中，甚至是更廣泛的社會層面，為環境保護貢獻一份心力。許多青少年透過學校的專案、地方的社團或網路平台組隊參與。他們從概念發想開始，一路進行研究調查，最後實際提出解決方案。這些提案包羅萬象，有能減少碳排放的APP、開發友善環境的新材料，或是規劃社區型的再生能源計畫，不僅充滿創新，也考量到實際執行的可行性。</p><p>推動這類活動的幕後單位，通常是教育機構、非營利組織或政府部門。他們希望藉此讓年輕人提早理解氣候變遷的複雜性，同時培養他們的獨立思考和解決問題的能力。參與評選的專家們表示，他們不只看點子的新奇程度，更重視這些方案是否具備科學依據、能否有效執行，以及是否能帶來實質的環境效益。專家們強調，即使是一些看似微小的創意，只要能集結眾人的力量，也能產生巨大的影響力。</p><p>活動最終圓滿落幕，許多出色的提案都獲得了肯定。部分方案甚至得到了進一步發展的機會，例如獲得專業導師的指導，或是得到小額贊助來實際測試他們的想法。這類活動不僅讓參與的青少年獲得了成就感，也讓他們的聲音被世界聽見，證明了年齡從來不是限制創意的藉口。這些年輕人對環境的熱情與行動力，才正要開始發光發熱。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Young Minds Innovate to Tackle Climate Change",
-    "enContent": {
-      "basic": "Young people around the world are coming up with new ideas to fight climate change. They are designing solutions for global warming and other environmental problems. This shows how creative young minds can be.",
-      "intermediate": "A recent international initiative encouraged 10-15 year olds to develop solutions for environmental protection. Through school projects and group work, they proposed ideas like carbon-reducing apps or renewable energy plans, focusing on both innovation and practicality.",
-      "advanced": "Organizations and experts behind these initiatives aim to educate youth on climate change complexities and foster problem-solving skills. Winning projects receive recognition, mentorship, or even funding to develop their concepts further, proving that age is no barrier to impactful innovation."
-    },
-    "vocabulary": [
-      {
-        "word": "tackle",
-        "zh": "應對，處理。意思是努力解決一個困難的問題或挑戰，就像在橄欖球比賽中「擒抱」對手一樣，但這裡是指面對並解決問題。"
-      },
-      {
-        "word": "climate change",
-        "zh": "氣候變遷。指的是地球的氣候系統長期發生的變化，特別是因為人類活動導致的全球暖化、極端天氣事件增多等現象。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-10-02",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PUHdxX2FSUEF1bWJMZGhFaUY3NFZKY0Q2MlFIU2FsNVIzR0xoR2lONzRKeExCS0ZXSEIxLUlWbExfV1F2SXhkRWNTRDlBWHZueUhlWjRtcS1XUG11QXc?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國監獄藝術展：高牆裡的創意與希望",
-    "zhSummary": "一場特別的藝術展覽，讓美國受刑人的作品走出高牆，向外界展示他們隱藏的才華，也讓大家看見藝術如何帶來改變。",
-    "zhContent": "<p>最近在美國，一場很不一樣的藝術展覽悄悄地吸引了許多目光。這次展出的作品不是出自名家之手，而是來自美國各地監獄裡的受刑人。他們將在高牆內創作的藝術品，透過這個特別的平台展示出來，就像是一個充滿希望的「救贖的姿態」，向外界展示了藝術如何能帶來意想不到的力量和可能性。</p><p>這次展覽匯集了各式各樣令人驚豔的作品。從細膩的畫作、充滿巧思的雕塑，到利用有限材料製作出來的精緻手工藝品，每一件都獨一無二。這些創作不只是受刑人打發時間的方式，更是他們在艱困環境下，用真心和創意打造出來的。每件藝術品都像在訴說著創作者的故事、他們內心的情感起伏，以及對自由與美好事物的渴望。</p><p>舉辦這個藝術展覽最主要的目的，是希望能打破社會大眾對監獄與受刑人固有的刻板印象。它提供了一個難得的機會，讓大家看見，即使身處高牆之中，人類依然能保有無限的創意與潛能。對於受刑人來說，藝術創作不只是一種情感表達，更是他們尋找自我價值、維持尊嚴，甚至規劃未來生活的重要途徑。這也讓更多人開始思考藝術在心靈療癒和重新融入社會方面的巨大潛力。</p><p>這個被稱為「救贖的姿態」的藝術展覽，目前正在持續展出中，成功地搭建了一座橋樑，讓這些來自監獄深處的作品，與更廣闊的世界進行對話。許多參觀者都被作品的深度、背後的故事以及創作者的堅韌毅力所打動。這個展覽不僅證明了創意與希望的光芒，即使在最嚴峻的環境中也能閃耀，也讓社會各界對受刑人的潛能有了全新的理解。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "The Art Exhibition Spotlighting US Prisoners' Creations: A Saving Gesture",
-    "enContent": {
-      "basic": "An art exhibition in the United States is gaining attention. It displays artworks made by prisoners from various US jails. These creations are shown to the public as a 'saving gesture,' highlighting how art can bring hope and change. The exhibition aims to challenge old ideas about prisoners and show their creativity. Many visitors are surprised by the artworks and the strong will of the creators. This event proves that creativity and hope can shine even in difficult places.",
-      "intermediate": "A distinctive art exhibition in the United States is currently capturing public interest. Unlike typical shows, this one features creations by inmates incarcerated across the nation. Their artwork, developed within prison walls, is presented as a 'saving gesture,' showcasing art's unexpected power and potential for transformation. The exhibition gathers diverse pieces, from paintings and sculptures to crafts made with limited resources, each telling a story of emotions and aspirations for freedom. Its primary goal is to challenge societal stereotypes about prisoners, revealing that creativity and talent can flourish even in confinement. For the inmates, art is a means of expression, self-discovery, and maintaining dignity, prompting reflections on art's role in rehabilitation.",
-      "advanced": "Dubbed 'a saving gesture,' a significant art exhibition in the United States is currently spotlighting the intricate and poignant creations of individuals incarcerated across the nation. This unique initiative seeks to transcend conventional perceptions of prisoners, offering a profound glimpse into their untapped artistic potential and emotional landscapes. The exhibition curates a compelling collection of works, ranging from meticulous paintings and inventive sculptures to resourcefully crafted items, each piece serving as a powerful narrative of resilience, internal experiences, and yearnings for liberty within the confines of incarceration. Beyond aesthetic appreciation, the primary objective is to dismantle societal stigmas associated with prisoners, fostering a deeper understanding of their capacity for creativity and self-expression, which for many, becomes a vital conduit for preserving identity and dignity while exploring pathways for rehabilitation."
-    },
-    "vocabulary": [
-      {
-        "word": "gesture",
-        "zh": "姿態 / 表示。簡單來說，就是一個動作或表情，用來表達你的感受或想法，或傳達一個訊息。"
-      },
-      {
-        "word": "spotlight",
-        "zh": "聚光燈 / 聚焦。意思就是把光線打在某個地方，讓它特別顯眼；或者指特別強調某件事情，讓大家注意到它。"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-10-02",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzVjcWhsTTZBNHE4U3g3Ykl0NnBzLWl5NnlVWjBHTHV4Qzkzd0R5UXVNT0xBNXJiV0o2bXJLWTN6TlZ1dDZ6ZmV1OXRHRHVUZkFEZHRWYkJwYkE0VUdUeWlxNGZqT2JzdjV6bDZIekF2LUNNWS00UC14NHlrRE1hQ1ZNX0NNWElvSE1vbm0tSDFranFyMEpoZlA4bnZSeVRzTTk1Vm9YNUEwTkhLUVhpbDZfYUE0V3BybkVDWGlR?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "超進化網路戰開打！AI大戰AI，你的網路我來守護！",
-    "zhSummary": "全球安全技術公司Thales的執行長在網路安全會議上提出，未來對抗不斷升級的網路威脅，必須運用人工智慧（AI）來反制駭客的AI攻擊，強調AI在防禦上的重要性。",
-    "zhContent": "<p>近期，全球知名的安全技術公司Thales（泰雷茲）的執行長，在一個討論網路安全的重要會議上，提出了一個讓大家非常關注的新想法。他表示，在對抗日益複雜的網路威脅時，我們應該要「以AI對抗AI」。這句話聽起來有點像電影情節，但其實是關於如何運用最先進的人工智慧技術，來保護我們的網路世界。這場會議聚集了許多網路安全的專家和領導者，而這位執行長想傳達的訊息非常明確：人工智慧不僅是威脅的來源，也可以成為我們最厲害的防禦工具。</p><p>大家可能都知道，現在的網路攻擊越來越聰明、越來越難防堵。駭客們也開始利用人工智慧來開發新的攻擊方法，讓傳統的防禦系統很難察覺。Thales的執行長指出，如果我們只用舊方法，很可能會跟不上駭客的腳步。他認為，為了有效抵擋這些由AI驅動的新型網路威脅，我們必須升級我們的防禦策略，也導入人工智慧來偵測、分析和回應這些攻擊。簡單來說，就是用更快的AI來找出那些搞破壞的AI，然後阻止它們。</p><p>這位執行長強調，這不是要大家恐慌，而是要正視現實並找出解決方案。他解釋說，人工智慧擁有強大的學習能力和處理大量數據的速度，這讓它在分析網路流量、辨識異常行為和預測潛在威脅方面，比人類或傳統軟體有巨大優勢。透過讓防禦系統也具備AI，它們可以更快地學習新的威脅模式，更精準地判斷哪些是真正的攻擊，哪些只是系統的正常運作。這就像是在網路世界裡，讓我們的防守隊伍也擁有了「超能力」。</p><p>因此，Thales等許多科技公司目前都在積極投入研發，探索如何將人工智慧更深度地整合到網路安全解決方案中。他們的目標是創造出能夠自主學習、自動防禦的系統，讓我們的網路環境更安全。這位執行長在會議上提出這個觀點，也代表著全球網路安全領域的一個重要趨勢：未來的網路戰爭，將會是一場人工智慧之間的較量。目前，許多企業和政府機構都已經意識到這點，並開始評估和導入相關的AI防禦技術。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Thales CEO Advocates Fighting AI with AI in Cybersecurity",
-    "enContent": {
-      "basic": "Thales CEO urges using AI to combat AI-driven cyber threats, stating that AI can be a powerful defense tool. This news highlights the evolving strategies in cybersecurity.",
-      "intermediate": "The CEO of Thales, a leading security technology company, emphasized at a cybersecurity conference that leveraging artificial intelligence (AI) is crucial for countering increasingly sophisticated AI-powered cyberattacks. He argued that traditional defense mechanisms are insufficient against advanced threats and that AI can rapidly detect and respond to such attacks.",
-      "advanced": "Addressing a cybersecurity gathering, the Thales CEO articulated a strategic imperative: employing artificial intelligence (AI) as a primary defense mechanism against the burgeoning threat of AI-driven cyber warfare. He underscored AI's superior capabilities in real-time threat detection, anomaly identification, and predictive analysis compared to conventional security protocols, advocating for the integration of AI into robust, adaptive cybersecurity frameworks."
-    },
-    "vocabulary": [
-      {
-        "word": "Cybersecurity",
-        "zh": "網路安全：指的是保護電腦系統、網路、程式和資料不受數位攻擊、損壞或未經授權存取的技術和流程。就像是為你的手機或電腦加裝防護罩，不讓壞人偷偷入侵。"
-      },
-      {
-        "word": "Artificial Intelligence",
-        "zh": "人工智慧 / AI：是一種讓電腦系統可以模仿人類學習、解決問題和做決定的技術。就像教電腦學習一樣，讓它變得越來越聰明，甚至可以自己思考和判斷。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-10-02",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlN6bWY1dXlxX1Z5T00yNGdvSEphTTg1R001TnhZVWtwa2c3MWo1MHItbFhnZFFzNkhyY0FObHFQR2E1WEZQQmdXazhmSkZiWDRGTVZtS3dPUzQ1bTlscURLLTJISEc0MHN2NE5FWDdyUFN6QWxKQ005UlhUa1hDd1lPcENxTVN6YjdCeTRNMTFoZ0lLVHREN29rZm5NMTEx?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "BBC揭密：你以為的動物小知識，是真的還是誤傳？",
-    "zhSummary": "英國廣播公司（BBC）最近發布一篇文章，挑戰大家對動物的普遍認知。許多從小聽到大的「動物事實」，其實可能是大錯特錯的迷思！這篇文章帶領讀者一探究竟，解開動物世界的神秘面紗。",
-    "zhContent": "<p>英國廣播公司（BBC）最近發布了一篇有趣的文章，邀請讀者一起挑戰對動物的認識。你是不是也常常聽到一些關於動物的「小知識」？比如金魚的記憶只有三秒、蝙蝠都是瞎子，或者鴕鳥遇到危險時會把頭埋進沙子裡？這些說法流傳已久，很多人都信以為真。但BBC這篇文章指出，許多我們深信不疑的動物「事實」，其實都是大錯特錯的迷思！他們鼓勵大家，別再被這些錯誤觀念誤導，一起來解開動物世界的真實面貌。</p><p>文章中列舉了許多讓人驚訝的例子。例如，金魚的記憶力根本不只三秒，科學家證明牠們能夠記住事物長達數個月，甚至能學習和分辨不同的形狀與顏色。而蝙蝠雖然喜歡在夜間活動，但牠們並非盲人，大多數蝙蝠其實看得到東西。在漆黑的環境中，牠們更依賴一種叫做「迴聲定位」的特殊能力來導航和捕食。至於鴕鳥把頭埋在沙子裡，這其實是牠們在整理巢穴或翻動蛋的行為，而不是因為害怕而躲藏。</p><p>這些動物迷思之所以廣為流傳，有些可能源於古老的傳說、電影情節，或是人們對動物行為的錯誤解讀。比如說，金魚記憶短的說法，可能來自於早期對魚類智力的誤解；蝙蝠看不見的觀念，或許是因為牠們夜行性的特點讓人產生聯想。BBC的文章解釋了這些迷思的由來，並引用最新的科學研究成果，為讀者們提供正確資訊，幫助大家釐清這些長久以來的疑問，更真實地認識動物的本能與習性。</p><p>透過這樣一篇充滿趣味又富有知識性的文章，BBC希望能激發大家對自然界的好奇心，並鼓勵讀者們在接收資訊時，能抱持求證的態度。了解真實的動物行為，不僅能讓我們對這些生物有更深的尊重，也能幫助我們建立起更正確的世界觀。這篇文章的目的，就是讓大家知道，學習的過程就是不斷探索、不斷更新知識的旅程，永遠都有更多有趣的真相等著我們去發現。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「動物迷思」有哪些，你以前也聽過嗎？",
-      "生活與未來：你覺得為什麼人們會容易相信這些關於動物的迷思？這對我們認識自然有什麼影響？",
-      "獨立思考提案：除了動物之外，你覺得還有哪些領域或話題，可能存在類似的「迷思」？我們該如何辨別資訊的真偽呢？"
-    ],
-    "enTitle": "BBC Reveals: Real Animal Facts or Total Myths?",
-    "enContent": {
-      "basic": "The BBC recently released an interesting article. It asks readers to check what they know about animals. Many things we think are true about animals might actually be wrong. The article helps us learn the real facts and understand animal behavior better.",
-      "intermediate": "The British Broadcasting Corporation (BBC) recently published an engaging piece challenging common perceptions of animal facts. This article aims to distinguish between widely believed animal \"facts\" and actual myths. By presenting a series of popular animal beliefs, the BBC encourages readers to critically evaluate what they know and explore the scientific truth behind various animal behaviors, ultimately fostering a more accurate understanding of the natural world.",
-      "advanced": "The British Broadcasting Corporation (BBC) has recently unveiled a compelling article designed to critically examine and deconstruct prevalent misconceptions surrounding the animal kingdom. This initiative prompts readers to scrutinize long-held \"animal facts,\" many of which have been revealed through scientific inquiry to be entirely mythical. The piece serves as an educational tool, meticulously dissecting widely accepted notions and presenting validated scientific explanations, thereby enriching public understanding and fostering a more informed appreciation of biodiversity and ethology."
-    },
-    "vocabulary": [
-      {
-        "word": "Myth",
-        "zh": "迷思 (mí sī)。指那些被很多人相信，但實際上是錯誤的觀念或故事。"
-      },
-      {
-        "word": "Fact",
-        "zh": "事實 (shì shí)。指那些真實發生或被科學證實的資訊。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-10-02",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teFB2empGdUNrY3NydExGU0xDRHd1Q1lMTFgwSWVidzMxemxSdTl1QVRIN1lVT0dFX0lwV0cxbmdHTmJNaWJ6aXgyaTFMNGxUZk1qMGFPOTV6Z2tXaHJIUWU2RVdJRnVJc2FYZFhkZ0ZFRjNUOS1Cc29DVQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美國法官裁定 威斯康辛州清真寺領袖面臨驅逐出境",
-    "zhSummary": "美國威斯康辛州的一名清真寺負責人沙拉赫·薩蘇爾，被當地法官裁定可以驅逐出境。這項決定是在經過法律程序後做出，引發了當地社群和外界的關注。",
-    "zhContent": "<p>最近，美國有一則新聞引起了不少關注。在威斯康辛州，有一位名叫沙拉赫·薩蘇爾（Salah Sarsour）的清真寺負責人，被美國一名法官裁定，可以將他驅逐出境。這個消息由外國媒體《半島電視台》報導出來，讓當地社群對此非常關心，也引發了外界對於類似移民案件的討論。</p><p>所謂「驅逐出境」，指的是一個國家的政府，在法律授權下，要求某位非公民離開其領土，並且不能再繼續居住在這裡。對薩蘇爾先生而言，法官的這項裁決，意味著他在法律上將面臨必須離開美國的情況，無法繼續他在威斯康辛州清真寺的日常工作與生活。這項重要的決定，是經過了一段時間嚴謹的法律程序和多方審查後才最終做出的。</p><p>根據公開資訊，這類型的驅逐出境案件，通常會嚴格審視與美國移民法規相關的條款。法官會依據這些法律條文，仔細審查當事人的居留權狀態、過往的紀錄，以及是否有違反移民法的行為，然後做出裁決。雖然新聞標題並未詳述薩蘇爾先生被裁定驅逐出境的具體原因，但整個過程都是在嚴謹的法律框架下進行，讓政府與當事人雙方都有機會在法庭上陳述自己的立場和證據。</p><p>目前，美國法官已經明確做出裁定，允許相關單位執行對沙拉赫·薩蘇爾先生的驅逐出境程序。這是一個具有法律效力的最終結果，意味著薩蘇爾先生未來將無法繼續居住在美國境內，必須離開這個國家。這起事件的後續進展，以及驅逐出境的實際執行狀況，將會是各界持續關注的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
-    "enContent": {
-      "basic": "A US judge has ruled that Salah Sarsour, a leader of a mosque in Wisconsin, can be deported. This decision follows a legal process and has drawn attention from the local community and beyond.",
-      "intermediate": "The news from Al Jazeera reports that a US judge has issued a ruling allowing the deportation of Salah Sarsour, a prominent leader at a mosque in Wisconsin. This signifies a significant development in his immigration case, concluding a period of legal review and deliberation. Deportation means the individual will be required to leave the country and will not be permitted to reside there any longer.",
-      "advanced": "A recent Al Jazeera report highlights a significant legal development in the United States, where a federal judge has authorized the deportation of Salah Sarsour, a leader of a mosque located in Wisconsin. This ruling represents the culmination of a protracted legal process, during which Sarsour's immigration status and eligibility to remain in the country were thoroughly examined. The decision underscores the complexities of immigration law and its enforcement, sparking discussions within the local community regarding its implications."
-    },
-    "vocabulary": [
-      {
-        "word": "Deportation",
-        "zh": "驅逐出境：指一個國家的政府，依法要求某位非公民離開這個國家，不能再在這裡居住。"
-      },
-      {
-        "word": "Mosque",
-        "zh": "清真寺：是伊斯蘭教信徒（穆斯林）進行禮拜、學習和舉行宗教活動的場所，就像基督教徒會去教堂一樣。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-10-02",
-    "sourceName": "Al Jazeera",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDYzRU5nS2tlLTFVUE1yRWJWYnN6aEN3MmhwZXdlbmNKTUIwbXMxWFVmSGp2RUR3ellYRk43WVdTWEZxVzA4NjhadzZPd1dDYzMwRVdoZG1jUDlRZjRRWmNMbHpMU2gzSDRVMWUyTndFa2pzWnZwYkFRVW5UY1MtVkF3blpaQzZuYTdlRG1zS0lROXc4Qm0yMEwtN3c5aFAxbU1waGw4d1ZydC14M0HSAbMBQVVfeXFMT05mQWVCeklsdEhtNUZmYUtoLW1Xb215WVl5bGkzbVUtY1FEX0RDeGY3RlVmWE8wN2hCTUFMTGFuMW5sT1VCUGtEb3NMdlNQR0V6REpUZDJLZG44dTNhT2xtVVpxS2s5dnNWdVVzbkwzdXUydkhNb1lLY09XUUpfaHVpLUsxNFV5Q1ZOeExVaXpENWxWMXNneXpneTVVR29rZlduVGc1aGpZQ21FeVFOc2tzX2M?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "電視名廚駕到！「頂級料理課」開進社區，和居民一起動手做美食！",
-    "zhSummary": "美國知名電視節目《早安美國》的明星主廚們，把他們的招牌料理課程「頂級料理課」帶到了馬瓦鎮的白蘭地酒莊社區，和當地的居民們一起享受美食與烹飪的樂趣。",
-    "zhContent": "<p>最近，美國馬瓦鎮的白蘭地酒莊社區可熱鬧了！原來是有幾位在電視上常常看到的名廚，親自來到這裡，要為社區的居民們帶來一堂特別的料理課程。這些大廚可不是省油的燈，他們曾經在美國家喻戶曉的節目《早安美國》中大展身手，現在卻把他們拿手的「頂級料理課」（Cooking with Class）搬到了社區裡，要和大家一起玩轉廚房。</p><p>這項獨特的活動讓白蘭地酒莊的居民們有機會近距離接觸這些烹飪高手。課程的設計很用心，主廚們不只是示範，還會和居民們互動，手把手地教大家一些實用的烹飪技巧，分享他們多年的料理秘訣。從食材的挑選、準備，到如何巧妙地運用香料，甚至是如何擺盤讓食物看起來更美味，所有細節都不藏私，讓現場氣氛既專業又充滿歡樂。</p><p>這場「頂級料理課」的舉辦，主要是希望透過美食的力量，為社區生活注入更多活力。對白蘭地酒莊的居民來說，這不僅僅是一堂料理課，更是一次難得的體驗，讓他們能和頂尖主廚們面對面交流，學習新的技能，也結交新的朋友。活動的發起人認為，烹飪不只是一種技能，也是一種享受生活的方式，能為人們帶來快樂。</p><p>目前，這系列課程已經在白蘭地酒莊社區展開，受到居民們的熱烈歡迎。許多參與的居民都表示，能夠親自跟著電視上的名廚學習做菜，是個非常特別且有趣的經驗。這項活動成功地將專業的廚藝帶入日常社區生活，讓更多人感受到烹飪的魅力，也為社區居民創造了美好的共同回憶。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Acclaimed Chefs Bring \"Cooking with Class\" to Brandywine Residents",
-    "enContent": {
-      "basic": "Famous chefs who appear on \"Good Morning America\" are now teaching special cooking classes called \"Cooking with Class\" to people living in the Brandywine community in Mahwah. They show residents how to cook and share their kitchen secrets. This helps bring fun and new skills to the community.",
-      "intermediate": "Well-known chefs, recognized for their appearances on the popular show \"Good Morning America,\" have launched a unique culinary program titled \"Cooking with Class\" for the residents of Brandywine in Mahwah. This initiative offers participants an opportunity to learn practical cooking techniques and culinary insights directly from professional chefs, enriching community life through engaging food experiences.",
-      "advanced": "Esteemed culinary professionals, whose expertise has been showcased on the prominent national television program \"Good Morning America,\" are spearheading an innovative gastronomic education series, \"Cooking with Class,\" tailored for the residents of the Brandywine community in Mahwah. This immersive program aims to empower participants with refined culinary skills and a deeper appreciation for food preparation, fostering community engagement and enhancing quality of life through interactive, chef-led workshops."
-    },
-    "vocabulary": [
-      {
-        "word": "acclaimed",
-        "zh": "名聲響亮的，被讚揚的。你可以想像一位藝人或運動員因為表現非常出色，受到大家的肯定和稱讚，他就是一位「名聲響亮」的人物喔！"
-      },
-      {
-        "word": "residents",
-        "zh": "居民。指住在某個地方的人。例如，住在你家隔壁的王伯伯、李阿姨，還有住在整個社區裡的每一個人，都是這個社區的「居民」。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-10-02",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNR1NjUXJtNUc3MlpNX0pVOVkxWl8zMFpYX3V0Zno2QVItUXFGYjR6OTZxa0pvQm9WRFNOOE4zSzNkUEh4eUpRUnJRazAtU3E3T0ZLNG9ocEp6eTNsLVJMRGsyWmtYN0ZhUENzOXg1Nk9NZW5aOURwVi1CdnRzcW5XREVQU256LUtjRlF4NHppRkZCMHNOamo2WG5yc3p3Tmd3QWVEX2ZaYkx5NG03bXVRanBoZkJsT3Nrb1BmUFJmbEJueEpXRGVyOFZ5Mi0wazJtelp3MWJUWWYwa1F1R0Ztb0ZIODFCaUlWemFSSXRFdGpEa2c1dmloTEc3azZzSVJNbTdQNmpLUlVaUTQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "歐盟大錢包怎麼分？大計畫遇上小爭吵！",
-    "zhSummary": "歐盟每年都要決定一筆龐大的預算，用來推動各種大計畫。但這筆錢怎麼分配，卻總是讓各成員國爭論不休，因為每個國家都有自己的考量和利益。",
-    "zhContent": "<p>大家可能知道，歐洲有個叫「歐盟」的大組織，裡面有很多國家。他們每年都會決定一個「歐盟預算」，這就像是大家湊錢，然後決定怎麼花這筆錢來做大事。這些錢會用在很多地方，比如研究新科技、保護環境，或是幫助比較弱勢的國家。不過，就像《經濟學人》這本雜誌點出的，雖然歐盟有許多「大計畫」的願景，但在實際分配預算時，卻常常變成一場「小爭吵」。這究竟是怎麼一回事呢？</p><p>想像一下，一群朋友要一起分錢買禮物給老師，但每個人想買的禮物不同，而且也希望能少出點錢。歐盟預算的情況有點像這樣。每年各國領導人討論預算時，每個國家都有自己的「願望清單」。有些國家希望多給農業補助；有些則更關心氣候變遷，想把錢投入綠色能源。還有一些國家，希望自己能少繳一點錢，或多分到一些。這些想法不同，讓預算會議常常變成一場漫長又複雜的「討價還價」。</p><p>會這樣爭吵，其實背後有很多原因。首先，每個成員國都有自己的國民要照顧，政府當然希望替自己的國家爭取到最多好處。再來，歐盟有自己的「大方向」，例如共同對抗全球暖化，發展更強大的數位技術，甚至是支持烏克蘭等國際事務。這些目標都需要一大筆錢，但錢從哪裡來？各國要怎麼分擔？誰應該付出更多？這些問題都沒有簡單答案。所以，宏大的歐洲願景，總是會遇到實際的國家利益拉扯。</p><p>儘管每次預算討論都像拔河一樣困難，但歐盟最終還是會達成共識，通過預算案。這通常意味著每個國家都得做出一些妥協，沒有人能得到全部想要的東西，但至少能保證歐盟的運作不會停擺，各種計畫也能持續進行。所以，歐盟預算案的拍板定案，總是各國領袖們在無數次協商、讓步之後的成果。這不是一次性事件，而是歐盟治理中，每隔一段時間就會上演的「固定戲碼」。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "EU's Budget Battles: When Big Visions Clash with Small Disputes",
-    "enContent": {
-      "basic": "The European Union (EU) has a large budget, like a big shared piggy bank, which is used for important projects across many countries, such as science, environment, and helping poorer nations. Deciding how to spend this money is really hard because each country wants different things and hopes to pay less, leading to lots of arguments and compromises before an agreement is finally reached.",
-      "intermediate": "The EU budget is a major financial plan that outlines how funds contributed by member states will be allocated to various pan-European initiatives. While the EU aims for 'grand strategies' like climate action or digital transformation, the actual budget negotiations often devolve into 'petty squabbling'. This is because each member state prioritizes its national interests, leading to complex bargaining over contributions and spending on sectors like agriculture, research, or defense. Ultimately, a compromise is reached to ensure the Union's operational continuity.",
-      "advanced": "The annual EU budget serves as the operational blueprint for the bloc's strategic objectives, encompassing areas from cohesion policy to research and development, and increasingly, geopolitical support. The Economist highlights the inherent tension in this process: the 'grand strategy' articulated at the supranational level frequently confronts the 'petty squabbling' of member states vying for national advantage. These negotiations are characterized by profound disagreements over fiscal contributions, spending priorities, and the equitable distribution of funds, reflecting the diverse economic realities and political imperatives within the Union. Despite these perennial conflicts, a consensus, often a hard-won compromise, is eventually forged to ensure the continuity of EU programs and policies."
-    },
-    "vocabulary": [
-      {
-        "word": "Strategy",
-        "zh": "策略；計謀。指的是為了達成一個大目標，所規劃出來的完整計畫或方法。"
-      },
-      {
-        "word": "Squabbling",
-        "zh": "爭吵；口角。意思是為了小事情而互相爭論或吵架。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-10-02",
-    "sourceName": "The Economist",
-    "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWhkSl9xV2Vrems4M3lzcG12ZUJUdWlNMXZTUlFrR0dhRTRvSGQ0YnFlRjBLMnNhbTBVWXBwZDc5QkxnQWRTYlVnaDlnVmpCb0xXVEhiMTlYMHJiakppaldESXgwQlNxUmh6eWJvRFpfYmZLNDRLMUQ1eU5XS25KVnI0eVd5aHctcWdUc1BrQUdtVDZpX19EQ0xJVFBQa1F2QnUxeVhJRQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非中央銀行「智囊團」擴大！增添新成員，經濟決策更給力",
-    "zhSummary": "南非中央銀行決定增加一位新成員，讓負責國家貨幣政策的委員會從六人擴大到七人，強化了他們對經濟的決策能力。",
-    "zhContent": "<p>各位關心世界大小事的朋友們，南非最近有個金融圈的重要新聞！根據CNBC Africa的報導，南非的中央銀行做了一個決定，他們要為負責制定國家經濟策略的「貨幣政策委員會」增加一位新成員。這代表這個委員會從原本的六個人，現在擴大成為七位成員的團隊，這是他們在人事結構上的一個顯著調整。</p><p>那麼，「貨幣政策委員會」究竟是什麼呢？你可以把它想成是南非中央銀行裡的一個「超級智囊團」。這個小組的任務非常重要，他們主要負責決定國家要如何管理金錢，比如市場上應該有多少錢在流通、銀行之間的借貸利率要怎麼設定等等。這些看似遙遠的數字，其實都會直接影響到我們每天去超市買東西的價格、企業的投資意願，甚至整個國家的經濟成長速度。他們的每一個決策，都關係到南非老百姓的荷包與未來。</p><p>中央銀行之所以需要這個委員會，是為了要確保國家的物價保持穩定，不要讓東西的價格忽高忽低，造成人民生活上的困擾。同時，他們也希望能夠促進經濟的健康發展，讓企業有機會成長，創造更多工作機會。這次他們決定加入第七位成員，背後的考量可能是為了讓委員會能吸納更多元的專業意見，增加決策的廣度與深度，或者應對日益複雜的全球經濟挑戰。</p><p>因此，從現在開始，南非中央銀行的「貨幣政策委員會」將正式由七位專家共同運作。他們會定期會面，密切關注南非國內外的經濟數據變化，並根據這些分析來調整貨幣政策，確保國家經濟能持續穩定前進。這次的人事擴編，標誌著南非中央銀行在應對經濟情勢上，加強了其決策團隊的陣容。新聞內容就到此結束。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "South Africa's Central Bank Expands Key Economic Committee",
-    "enContent": {
-      "basic": "The South African central bank has added a new person to its \"Monetary Policy Committee.\" This group, which used to have six members, now has seven. They are important because they decide how much money is in the country and how much it costs to borrow money. These decisions help keep prices stable for everyone.",
-      "intermediate": "South Africa's central bank announced the appointment of a seventh member to its Monetary Policy Committee (MPC), as reported by CNBC Africa. This expansion of the committee, from six to seven members, aims to strengthen the body responsible for key economic decisions. The MPC sets interest rates and manages the nation's money supply to maintain price stability and foster economic growth.",
-      "advanced": "In a significant development for South Africa's economic governance, the South African Reserve Bank (SARB) has officially announced the appointment of a seventh member to its Monetary Policy Committee (MPC). This strategic expansion, reported by CNBC Africa, sees the committee increase from its previous six-member composition, indicating a potential move towards diversifying expertise and strengthening decision-making capacity in navigating complex economic landscapes. The MPC is instrumental in formulating and implementing monetary policy, primarily through setting the repurchase rate and influencing the money supply, with core objectives of maintaining price stability and supporting sustainable economic growth. This augmented committee is expected to bring a broader range of perspectives to the country's critical monetary policy deliberations."
-    },
-    "vocabulary": [
-      {
-        "word": "Monetary Policy",
-        "zh": "貨幣政策：一個國家怎麼管理自己的錢和銀行借錢的利息高低，目的是讓物價穩定、經濟發展。"
-      },
-      {
-        "word": "Central Bank",
-        "zh": "中央銀行：一個國家的主要銀行，負責印錢、管理市場上錢的數量，還有決定銀行借貸的利息。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-10-02",
-    "sourceName": "CNBC Africa",
-    "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2c3RkZhNVRaSWJLNmtVdUhHRGU1NWd5UFlrTWJOWXd0Y01JRU5FYWczRFNVQVBsOXlIdHViM281OThIc0tSMHVkWUI2TVdHSk01Q1E0blo3TjRFODYwQ1FEVzdTb0FjTVlJTkJuTVB1RFNWZWgxMTZtQ2w2VklSa1pfWXFPVHlfRFRPaEgzTjNhX1llbXNMX1NKdTQ1M2haWlNQY0lEcl9wZ1A0?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "新加坡投資巨頭淡馬錫 進軍中東，開設兩大新辦公室！",
-    "zhSummary": "新加坡的國家投資公司淡馬錫，宣布將在中東地區的沙烏地阿拉伯利雅德和阿拉伯聯合大公國阿布達比設立新辦公室，展開其在中東的業務拓展計畫。",
-    "zhContent": "<p>淡馬錫是新加坡一個很有名的投資公司，可以想像成他們管理著新加坡國家的很大一筆錢，拿這些錢去投資各種公司或計畫，希望能讓這些錢變多。最近，淡馬錫宣布了一個重要計畫：他們打算在中東地區拓展業務，並準備在沙烏地阿拉伯的首都利雅德和阿拉伯聯合大公國的首都阿布達比，開設兩個新的辦公室。</p><p>這項拓展計畫代表著淡馬錫看好中東地區未來的發展潛力。過去，他們主要集中在亞洲、歐洲和北美洲等地進行投資。但現在，他們發現中東的經濟也在快速成長，有許多新的機會等著他們去發掘。開設實體的辦公室，可以讓淡馬錫的團隊更深入地了解當地市場，直接接觸到有潛力的公司和合作夥伴，這樣他們就能更快地做出投資決策。</p><p>淡馬錫做出這個決定，是他們全球投資策略的一部分。他們希望透過這種方式，讓自己的投資組合更多元化，不要把所有的雞蛋都放在同一個籃子裡。中東地區除了傳統的石油產業，近年來也在大力發展科技、再生能源、觀光等其他產業，這些都是淡馬錫感興趣的領域。所以，設立新辦公室能讓他們更直接地參與這些新興產業的成長。</p><p>總結來說，新加坡淡馬錫公司已經確定將在利雅德和阿布達比開設新的辦公室。這兩個新據點將成為淡馬錫在中東地區業務發展的重要基地，幫助他們更積極地尋找並執行投資計畫。這也顯示了這家新加坡大型投資公司對於中東市場未來潛力的看好，並採取了實際行動來抓住這些機會。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Singapore's Temasek to open Riyadh, Abu Dhabi offices in Middle East expansion",
-    "enContent": {
-      "basic": "Singapore's big investment company, Temasek, is opening new offices in the Middle East. They will have offices in Riyadh, which is in Saudi Arabia, and Abu Dhabi, which is in the United Arab Emirates. This is part of their plan to grow their business in that part of the world.",
-      "intermediate": "Temasek, a major investment firm owned by the Singapore government, announced its plans to expand operations into the Middle East. As part of this strategy, the company will establish two new offices: one in Riyadh, Saudi Arabia, and another in Abu Dhabi, United Arab Emirates. This move aims to strengthen Temasek's presence and explore new investment opportunities in the region.",
-      "advanced": "Singapore's state-owned investment company, Temasek Holdings, is set to significantly broaden its footprint in the Middle East with the planned opening of new offices in Riyadh, Saudi Arabia, and Abu Dhabi, United Arab Emirates. This strategic expansion signals Temasek's intent to tap into the growing economic dynamism and diversification efforts across the region, allowing for closer engagement with local markets and potential investment opportunities."
-    },
-    "vocabulary": [
-      {
-        "word": "Temasek",
-        "zh": "淡馬錫 (dàn mǎ xī)：這是新加坡政府擁有的一家大型投資公司，他們會把國家的錢投資到世界各地的公司，讓這些錢能夠增加價值。"
-      },
-      {
-        "word": "Expansion",
-        "zh": "擴張 (kuò zhāng)：意思是一間公司或組織把他們的業務範圍變得更大，到更多地方去做生意，像淡馬錫這次就是在中東地區『擴張』他們的投資業務。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-10-02",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2V0TVBUV1ZJd2szdmxYM0c0a0twRU9rakZpQ1FYWE1tTzNuV2s3dlloZkxMS240bjcxZFJUTGFJNDNBN2NRa2FyQjA0bXo1SUQxUmpqVXVDeXJTSHVUdlJuc0Y0WTFiX2otalJIb294QXJRcXVGS2FPT2pUSDJkSGdPOTJjRWJGY0tQTmdkRlVtY0M1ajNmTmU5a2diSG5TR0xBOHBaSUF4akRBQzh5c05oSlctbUdZbzdvOGhnd1VXQkE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI來襲！東南亞大選的「假消息」風暴，你準備好了嗎？",
-    "zhSummary": "衛報報導指出，人工智慧（AI）科技正大幅提高東南亞地區選舉中的風險，特別是在假消息、深偽技術和影響選民判斷方面，為該地區的民主進程帶來了新的挑戰。",
-    "zhContent": "<p>嘿，同學們！你們有沒有想過，科技進步也會帶來新的煩惱呢？最近，外國媒體《衛報》報導了一個讓人有點緊張的消息：在東南亞國家的大選中，人工智慧（AI）技術可能會變成一個大問題，讓選舉變得更危險。這可不是在演電影，而是真實發生在我們身邊的改變！報導提到，AI特別容易被有心人士拿來製造假消息，甚至做出「深偽」影片（就是看起來超像真人的假影片），可能會大大影響選民的判斷和選舉結果。</p><p>那麼，AI到底是怎麼讓選舉風險變高的呢？報導中指出，最主要的問題就是「假資訊」的快速散播。AI可以很輕易地生成大量假新聞稿、社群媒體貼文，甚至是模仿政治人物聲音的錄音檔。這些假消息透過網路快速傳播，讓大家很難分辨真假。更厲害的是「深偽」（deepfake）技術，它可以把一個人的臉換到另一個人身上，或是讓某人說出他從來沒說過的話。想像一下，如果有人做出一段假影片，讓某位候選人說了些不該說的話，選民看了之後會怎麼想？這對選舉公平性絕對是一大打擊。</p><p>為什麼東南亞特別容易受影響呢？報導中沒有詳細說明原因，但我們可以想像一下，許多東南亞國家擁有龐大且多元的人口，網路使用率快速上升，但民眾對於分辨網路資訊真偽的能力可能還在培養中。在這樣的環境下，AI製造的假消息就像是點燃了火種，可能會讓原本就複雜的選情變得更加混亂。這些假消息不僅可能誤導選民，還可能挑撥社會對立，讓大家對選舉結果產生不信任感，這對一個國家的穩定發展可不是好事。</p><p>目前，這項挑戰已經引起了國際社會和當地政府的關注。雖然AI技術在很多方面都能幫助人類，但在選舉這件事情上，它的「雙面刃」特質就顯得特別突出。東南亞各國正在努力思考，如何在享受科技便利的同時，也能保護選舉的公正性，避免AI變成破壞民主的工具。這是一個需要大家共同面對的新課題，畢竟，確保每個人都能在真實的資訊基礎上做出選擇，才是健全民主最重要的基石。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "AI's Election Impact: Southeast Asia Faces 'Fake News' Storm",
-    "enContent": {
-      "basic": "AI technology is making elections in Southeast Asia more risky, according to The Guardian. The report says AI can create fake news and 'deepfake' videos that look very real. This might make it hard for voters to know what's true. It could also make people believe false things about politicians, which is bad for fair elections. Countries in Southeast Asia are now trying to find ways to stop AI from causing problems in their elections.",
-      "intermediate": "A recent report by The Guardian highlights how Artificial Intelligence (AI) poses significant risks to elections across Southeast Asia. AI's ability to generate vast amounts of misinformation, including fake news articles and 'deepfake' audio/video that convincingly impersonate public figures, could severely influence voter perception. This technology allows false narratives to spread rapidly, making it challenging for the public to discern truth from fiction. The potential for AI to disrupt democratic processes and erode public trust in election outcomes is a growing concern for the region's governments and international observers.",
-      "advanced": "The Guardian's recent coverage underscores a critical emerging threat: the potential for Artificial Intelligence (AI) to 'supercharge' election risks throughout Southeast Asia. The core concern revolves around AI's sophisticated capabilities in generating and disseminating misinformation, ranging from fabricated news content and social media propaganda to hyper-realistic 'deepfake' audio and video impersonations of political candidates. This technological advancement presents an unprecedented challenge to the integrity of democratic processes, potentially manipulating public opinion, sowing discord, and eroding voter confidence at an accelerated pace. Stakeholders in the region are now confronted with the complex task of mitigating these AI-driven risks while navigating the broader societal integration of advanced technologies."
-    },
-    "vocabulary": [
-      {
-        "word": "deepfake",
-        "zh": "深偽技術：這是一種利用AI科技把一個人的臉換到另一個人身上，或是讓某人說出他從來沒說過的話的技術。簡單來說，就是製作超級逼真的假影片或假聲音。"
-      },
-      {
-        "word": "misinformation",
-        "zh": "假資訊：指那些不正確或誤導人的訊息，而且傳播這些訊息的人可能不知道它們是假的。跟「假新聞」很像，但範圍更廣，可以是圖片、影片或文字。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-10-02",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmJwc2ZJUnZJT3NJZmZidU5IWndpWVl0eTFucTFIV1FOTHJSd0dFdE5PcDlFbVRrNnJkSF9zZTFqQmFDYWhfU1JGc0NiamMxdHF5R2t0TnU4ZGhnVmZxaDdZZmgycHhWSTB5VVhZbzFnVlZMMExXMHpOc3FHTnItcWtQNFRPQlVPdUN5NHpnWldNYXQzUjQzeDhJMXFucDVxWkJZZmJCdmhfS0ZwQXNjdQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "泰國半導體大躍進！德國巨頭英飛凌斥資14億美元設新廠",
-    "zhSummary": "德國半導體公司英飛凌近期在泰國開設了一座價值14億美元的新工廠，此舉是泰國政府積極推動半導體產業發展的最新里程碑。",
-    "zhContent": "<p>近年來，全球對電子產品的需求持續增長，而製造這些產品的關鍵「晶片」也就變得越來越重要。在這樣的背景下，泰國正積極努力發展自己的半導體產業。最近，他們就迎來了一個大新聞：德國知名的半導體公司「英飛凌」（Infineon）正式宣布，已經在泰國啟用了一座全新的大型工廠。這座新工廠的投資額高達14億美元，折合約450億泰銖，是泰國在半導體領域的一項重大進展。</p><p>這座由德國英飛凌公司投資興建的新廠，代表了其對泰國市場的高度信心，以及對未來半導體需求成長的積極佈局。雖然新聞標題沒有說明這座工廠具體會生產什麼樣的產品，但作為一家全球領先的半導體製造商，英飛凌的產品通常涵蓋了各種用於汽車、工業控制和消費性電子產品的晶片與零組件。這座新工廠的啟動，將有助於增加英飛凌在全球的生產能力，並強化其供應鏈的穩定性。</p><p>對於泰國來說，這次英飛凌的投資設廠意義非凡。泰國政府一直致力於將國家經濟從傳統產業轉型，大力發展高科技和附加價值更高的產業，其中半導體就是一個重要的目標。透過吸引像英飛凌這樣的國際大廠進駐，泰國希望能學習到先進的技術、創造更多高技術工作機會，並逐步建立起更完整的本土半導體生態系統，提升其在全球供應鏈中的地位與競爭力。</p><p>總體而言，德國英飛凌耗資14億美元在泰國開設新工廠，不只對英飛凌自身擴大生產規模有幫助，更明確顯示泰國在推動半導體產業發展上取得了實質進展。這項新投資為泰國實現其產業升級的目標，邁出了重要的一步，也讓這個東南亞國家在國際半導體版圖上，增添了更多關注與期待。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，德國英飛凌公司為什麼選擇在泰國投資設廠？這對泰國來說有什麼好處？",
-      "生活與未來：你覺得這個事件會對泰國的年輕人或一般民眾的生活造成什麼實際影響？請舉例說明。",
-      "獨立思考提案：如果台灣也想吸引更多像英飛凌這樣的大企業來投資高科技產業，你認為政府和相關單位可以做哪些努力或提供哪些誘因？"
-    ],
-    "enTitle": "German Chip Giant Infineon Opens $1.4 Billion Plant in Thailand",
-    "enContent": {
-      "basic": "Infineon, a German company that makes computer chips, has opened a big new factory in Thailand. They spent $1.4 billion on it. This is part of Thailand's plan to make more computer chips and grow its technology industry.",
-      "intermediate": "German semiconductor company Infineon has inaugurated a new $1.4 billion manufacturing plant in Thailand. This significant investment is a key part of Thailand's strategy to boost its domestic semiconductor industry and attract high-tech foreign investment, aiming to transform its economy.",
-      "advanced": "German semiconductor powerhouse Infineon has officially unveiled a state-of-the-art $1.4 billion fabrication facility in Thailand. This substantial investment is a direct response to Thailand's ambitious drive to bolster its semiconductor manufacturing capabilities, fostering economic diversification and technological advancement within the nation's industrial landscape."
-    },
-    "vocabulary": [
-      {
-        "word": "Semiconductor",
-        "zh": "半導體 (一種特殊的材料，介於導體和絕緣體之間，是製造各種電子產品，像是手機、電腦裡晶片的關鍵原料。)"
-      },
-      {
-        "word": "Plant",
-        "zh": "工廠 (一個大型的建築物或園區，裡面有機器和工人，專門用來製造或生產各種商品。)"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-10-02",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnA3NHdrUFByMm9wS09DSzd3NmxTbWlNVjFaOVJoUGRmeXZaMlNzV2FWV2RINVN1RDNCYVdDWTRfX3Y1cjg5WTdYakl1clIwWDU0N2lNRno4V0lMY21OcmFIOGRTNWk2Nk1KNXdJVUJhY2pHTFkzQXVGSkRtOEN2M2hDU1kzYTlkeW56bEpWUm5ieDRzUTBIdEs4MVF6Z00wQmJUYUMwQ19nUDdqQ2pjUGNrdlotVU9PSUJFcg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國隊伍 全力備戰青年奧運！",
-    "zhSummary": "新聞報導指出，太平洋地區的年輕運動員們正積極為即將到來的夏季青年奧運會做準備，目標是代表各自的國家在國際舞台上展現他們的才能和體育精神。",
-    "zhContent": "<p>嘿！大家好，最近體育界有一件讓整個太平洋地區都熱血沸騰的大事！那就是，來自太平洋各島國的年輕運動員們，正卯足全力，積極投入訓練，為即將到來的「夏季青年奧林匹克運動會」做最完善的準備。這場專為年輕人打造的國際體育盛會，對他們來說不只是一場比賽，更是展現家鄉驕傲和個人實力的重要舞台。</p><p>這些年輕選手們的備戰過程可不輕鬆，他們可能要面對嚴格的選拔、日復一日的體能訓練，以及不斷精進專業技巧。對於許多太平洋島國來說，前往國際賽事不僅需要克服地理上的遙遠距離，還得在有限的資源下，讓年輕選手們獲得最好的訓練機會。但儘管如此，這些潛力新星們都展現了超乎想像的毅力和決心。</p><p>對太平洋地區來說，參與青年奧運不僅僅是為了爭奪獎牌。更重要的是，它提供了一個讓年輕一代拓展視野、與世界各國選手交流的寶貴機會。這些選手們帶著故鄉親友的祝福與期待，在賽場上揮灑汗水，用體育精神向世界證明自己的存在與實力。這份為國爭光的熱情，正是他們不斷前進的最大動力。</p><p>目前，這些充滿活力的太平洋隊伍正進入最後的備戰階段。無論是調整訓練計畫、模擬比賽情境，還是確保選手們的身心狀態達到最佳，所有人都緊鑼密鼓地進行著。他們的目標很明確：站上青年奧運的舞台，盡情展現最好的自己。我們都期待著看到他們在賽場上的精彩表現！</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「太平洋島國」隊伍在準備青年奧運時，你覺得他們可能會遇到哪些獨特的困難？",
-      "生活與未來：你覺得如果這些年輕運動員在青年奧運表現出色，會對他們自己或他們的家鄉帶來什麼樣的實際影響？",
-      "獨立思考提案：針對這則新聞，如果你是奧運籌備委員會的成員，你會提出什麼樣的方案來幫助這些資源相對較少的國家，讓他們能更順利地參與國際賽事？"
-    ],
-    "enTitle": "Pacific Island Teams \"Gear Up\" for Summer Youth Olympics",
-    "enContent": {
-      "basic": "Teams from Pacific island nations are getting ready for the Summer Youth Olympics. Young athletes are training hard to represent their countries on a global stage. This is a big event for them to show their talents and national pride.",
-      "intermediate": "Pacific island teams are actively preparing for the upcoming Summer Youth Olympics. This involves intense training, athlete selection, and overcoming challenges like geographical distance and limited resources. The event offers young athletes a valuable opportunity to compete internationally and connect with peers from around the world.",
-      "advanced": "Athletic delegations from Pacific island nations are meticulously preparing for their participation in the forthcoming Summer Youth Olympics. Despite facing unique challenges such as logistical complexities and resource constraints, these young competitors are demonstrating remarkable dedication and resilience. Their involvement transcends mere competition, serving as a significant platform for cultural exchange and showcasing their national identity and sporting prowess on a global stage."
-    },
-    "vocabulary": [
-      {
-        "word": "Gear up",
-        "zh": "準備好。意思就是為了迎接某個重要的活動或挑戰，預先做好所有的準備工作，像是訓練、規劃或收集必要的裝備。"
-      },
-      {
-        "word": "Olympics",
-        "zh": "奧運。是世界上最大的國際性體育賽事，每四年舉辦一次，有來自世界各國的運動員參加各種比賽項目，目標是展現人類的極限與和平的體育精神。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-10-02",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVNmOTFnYWotYXN5RVZnZEdTOURSX1cxUy0wSk4tU0tYVVRFVlQ3OG5OR05nTmxGU092U3RtUFR2dWlDaDA4bVdxdHJPUE5zMHlOQVZ2cFE2bzhEQUhiZ05uTVNadnRRWGxWWUFueEdPcmFGWDFXN1AyRURKc1BKZzN1ZnF0OURFazlpVlE0bXRaOTcy?oc=5",
     "isFeatured": false
   }
 ]
