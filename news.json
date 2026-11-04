@@ -1,5 +1,355 @@
 [
   {
+    "zhTitle": "挪威小鎮「清淨海洋」大作戰！社區總動員 找回純淨海岸",
+    "zhSummary": "挪威一座美麗的海岸小鎮「奧勒松」，近年來積極推動「清淨海洋計畫」。透過當地居民的志工活動與政府支援，成功清理了大量海洋垃圾，讓海灘重現昔日風光，也為全球的海洋保育樹立了新的典範。",
+    "zhContent": "<p>挪威有一個風景如畫的海岸小鎮，叫做奧勒松（Ålesund），這裡過去幾年受到海洋垃圾問題的困擾。不過最近，當地卻傳來好消息！奧勒松居民發起了一場大規模的「清淨海洋計畫」，透過所有居民一起動手清理海灘和周邊水域，成功找回了他們引以為傲的純淨海岸線，這項社區型的環保行動，也引起了國際媒體的廣泛關注。</p><p>這項計畫的成功，要歸功於奧勒松居民的熱情參與。當地政府與環保團體合作，定期舉辦淨灘活動，號召大小朋友一起來當海洋的守護者。大家戴上手套、提著垃圾袋，仔細撿拾海灘上的塑膠瓶罐、漁網碎片，甚至還有被沖上岸的各種生活廢棄物。除了淨灘，當地漁民也貢獻力量，在出海捕魚時，若發現海上有大型垃圾或漂浮物，也會主動撈起帶回岸邊處理。</p><p>奧勒松之所以啟動這項計畫，是因為他們發現每年有越來越多的海洋垃圾被海浪帶到岸邊，這些垃圾不僅破壞了海灘的美麗景色，也嚴重威脅到當地的海洋生物。許多海鳥或魚類會因為誤食塑膠垃圾而生病，甚至死亡。為了保護海洋生態，也為了讓奧勒松繼續保持其獨特的自然風光，當地居民決定不再坐視不管，開始用實際行動來改變現況。</p><p>經過持續一年的努力，「清淨海洋計畫」的成果相當豐碩。根據當地政府公布的報告，奧勒松已經從海岸線和周邊海域移除了超過三十噸的塑膠和其他廢棄物。現在的奧勒松海灘比以往任何時候都更加乾淨，清澈的海水也吸引了更多海洋生物回到這個區域。當地政府表示，他們計畫將奧勒松的成功經驗分享給其他面臨海洋垃圾問題的城市，希望這份「清淨海洋」的精神能夠持續傳播下去。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Norway Town's \"Clean Ocean\" Mission: Community Unites for Pure Coasts",
+    "enContent": {
+      "basic": "A beautiful town in Norway called Ålesund had a big problem with trash in its ocean. But now, it's good news! The people in Ålesund started a 'Clean Ocean Project'. Everyone worked together to clean the beaches and the water. They made their coast clean again. Many people around the world are talking about this project.",
+      "intermediate": "Ålesund, a scenic coastal town in Norway, has been battling ocean pollution for several years. Recently, the town announced a significant success: their ambitious 'Clean Ocean Project' has restored the pristine beauty of their coastlines. This community-driven environmental initiative, which involved local residents actively cleaning beaches and surrounding waters, has garnered international attention.",
+      "advanced": "The picturesque Norwegian coastal town of Ålesund, long plagued by the escalating issue of marine debris, has recently achieved a remarkable triumph. Its comprehensive 'Clean Ocean Project,' a testament to collaborative community action, has successfully revitalized the region's pristine coastlines. This widely lauded environmental initiative, emphasizing sustained local engagement in beach and waterway clean-ups, has garnered considerable international recognition."
+    },
+    "vocabulary": [
+      {
+        "word": "initiative",
+        "zh": "計畫、倡議：一個為了解決問題或達成目標而開始的新方案或計畫。就像學校發起一個新的讀書計畫，讓大家更愛看書一樣。"
+      },
+      {
+        "word": "volunteer",
+        "zh": "志工、志願者：一個自願提供幫助或做事情而不要求報酬的人。像是假日去淨灘、幫忙照顧小動物的哥哥姊姊，都是志工喔！"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-11-04",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lQWhrV2hRMVd3MlNybDYxLXR5aUpTMVNLcVdLNVpHNG1FSE16anp4dXFRc1lndTAySXBQeGVVLXFNQQ?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "冰雪世界拉警報：科學家警告全球升溫超標，冰凍圈恐永久受損！",
+    "zhSummary": "科學家最新警告指出，如果全球平均溫度超過《巴黎協定》設定的1.5度C目標，地球上的冰雪和冰川等「冰凍圈」將遭受不可逆轉的永久性損害。這意味著即使未來溫度下降，這些重要的冰雪結構也可能無法恢復，對全球環境影響深遠。",
+    "zhContent": "<p>嘿，大家！最近科學家們發出了一個超級重要的警告，跟我們賴以生存的地球息息相關。他們說，如果全球暖化速度持續太快，讓地球平均溫度比工業革命前高出超過攝氏1.5度，那麼我們現在看到的冰山、冰川還有所有冰雪覆蓋的地方，也就是所謂的「冰凍圈」，將會面臨「永久性」的損害。這可不是開玩笑的，意思是有些傷害一旦造成，就再也回不去了。</p><p>你可能會問，冰凍圈是什麼？簡單來說，它就是地球上所有以固態水存在的區域，包括高山上的冰川、南北極的巨大冰蓋，還有深層的永凍土。科學家解釋說，一旦全球溫度突破1.5度C這個門檻，這些冰雪融化的速度會大幅加快，甚至有些冰川會完全消失。這些改變是長期且無法逆轉的，就算之後氣溫稍微下降，許多冰雪結構也已經徹底改變，難以恢復原狀。</p><p>為什麼「1.5度C」這麼關鍵呢？科學家們強調，這個數字是《巴黎協定》的目標，目的是避免地球氣候系統發生更嚴重的變化。一旦超過，不僅會加速海平面上升，讓更多沿海城市面臨淹水威脅；冰雪減少也會讓地球表面反射陽光的能力降低，地球就會吸收更多熱量，形成惡性循環。這項警告來自全球頂尖研究機構的共同評估，他們希望各國能更認真看待這個問題。</p><p>目前，這項來自全球科學界的嚴肅警告，清楚地告訴我們，我們現在正處於一個關鍵時刻。如果不積極控制全球暖化，那麼許多我們視為理所當然的自然景觀，像是壯麗的冰川和極地冰原，都可能面臨永久性的破壞。科學家們將繼續密切監測地球冰凍圈的變化，並持續提供最新的數據，提醒大家這個問題的嚴重性。他們表明，這不再是未來遙遠的事，而是正在發生的現實挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cryosphere in Crisis: Scientists Warn of Permanent Damage if Global Warming Exceeds 1.5C",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Cryosphere",
+        "zh": "冰凍圈 (bīng dòng quān) - 指地球上所有以冰、雪、冰川、永凍土等固態形式存在的水。簡單來說，就是地球上所有結冰的地方，像是南北極、高山上的冰川。"
+      },
+      {
+        "word": "Overshoot",
+        "zh": "超出目標 (chāo chū mù biāo) - 在這裡指的是全球平均溫度超過了科學家設定的某個安全界線或目標。就像你考試沒考到及格分數，或超過了時間限制一樣。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-11-04",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdklpR0U3S3Fld3hsM1JuR3BNZ2xtdUw1NVljdDV2amhBT3d6R1RvRHZ6TTBWaTVPdE1aV2ltSUluWG8yb3ZzWFF3ajAzMDllRFphSlQ2SW9nYUktc0p6Zlo1em0xcFBQSUVDcVdnVkVkVERzYThzQklPSTBNVlNZcl9PV3lWS2JTWWVINmVYTnFkTU9CLS11UTlXMWcwU3JXN1JWUkp0V1NWZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "希臘校園大串連：學生老師上街，只為教育和薪水發聲！",
+    "zhSummary": "最近在希臘，有成千上萬的學生和老師走上街頭，用和平的方式表達他們對教育體制和薪資待遇的不滿。這場大規模的抗議活動，讓整個社會再次關注校園內外的各種挑戰。",
+    "zhContent": "<p>你知道嗎？在遙遠的歐洲國家希臘，最近發生了一件大事！成千上萬的學生和老師浩浩蕩蕩地走上街頭，用行動表達他們的訴求。這場大規模的抗議活動，主要就是為了教育政策和老師的薪水問題。從新聞標題來看，不難想像當時的街頭有多熱鬧，許多人聚集在一起，希望能讓政府聽到他們的心聲。</p><p>這次抗議的參與者非常廣泛，不僅有大學生、中學生，甚至連小學老師都加入了行列。他們手持標語，高喊口號，沿著市區的主要街道遊行。新聞中提到，人數多到可以形成好幾條長長的隊伍，場面十分壯觀。大家聚集在一起，為的就是讓更多人知道，他們認為目前的教育環境還有很大的改善空間，而老師們也覺得自己的付出沒有得到應有的合理報酬。</p><p>這些學生和老師之所以會上街，背後其實有幾個主要原因。在教育方面，他們可能覺得學校的教學資源不足，或是政府推出的新教育政策對學生和老師都造成了壓力。至於薪水問題，老師們可能覺得他們的薪資已經很久沒有調整，跟不上現在的生活開銷，導致許多老師生活得很辛苦，也影響了他們教學的熱情。這些都是他們希望政府能夠正視並解決的困境。</p><p>這場由學生和老師共同發起的抗議活動，讓希臘社會再次把目光投向了教育領域。遊行隊伍和平地表達了訴求，沒有發生任何衝突。活動結束後，參與者們各自散去，但他們傳達出的訊息，卻清晰地留在了公眾的視野中。目前，各界都在關注政府會如何回應這些來自校園的聲音，以及後續是否會有新的政策調整。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，為什麼學生和老師要一起上街抗議？他們主要在抗議什麼？",
+      "生活與未來：你覺得希臘政府如果沒有處理好這些抗議，會對當地的教育和社會造成什麼實際影響？",
+      "獨立思考提案：如果類似的事情發生在你所在的城市，你覺得政府或學校還可以怎麼做，才能更好地避免或解決這類問題？"
+    ],
+    "enTitle": "Thousands of Greek students, teachers protest over education, pay",
+    "enContent": {
+      "basic": "Thousands of students and teachers in Greece recently held protests. They were unhappy about the country's education system and the pay for teachers. People gathered in large numbers to show their concerns. They walked in the streets, holding signs and shouting. They want the government to listen to them. They believe schools need better resources. Teachers also think their salaries are too low. This big protest brought attention to these important issues.",
+      "intermediate": "Thousands of Greek students and teachers recently took to the streets in widespread protests, voicing their discontent over issues within the education system and teacher remuneration. The demonstrations involved a diverse group, from university students to elementary school teachers, all marching peacefully to highlight their grievances. Key concerns included inadequate educational resources, problematic new government policies affecting learning and teaching, and stagnant teacher salaries that fail to keep pace with living costs. These large-scale actions aimed to pressure the government into addressing the challenges faced by the academic community.",
+      "advanced": "In a significant display of public dissent, thousands of Greek students and educators recently mobilized across the nation to protest perceived deficiencies within the education sector and inadequate teacher compensation. The demonstrations, which drew participants from all educational levels, underscored a collective dissatisfaction with current government policies. Protesters articulated concerns ranging from underfunded school systems and impactful curriculum reforms to stagnant teacher salaries that have reportedly failed to keep pace with inflation and the rising cost of living. This large-scale civic action has brought considerable public and political scrutiny to the state of Greece's educational infrastructure and the economic well-being of its teaching professionals."
+    },
+    "vocabulary": [
+      {
+        "word": "Protest",
+        "zh": "抗議：當一群人對某件事不滿意，想要表達自己的意見，讓大家注意到，他們就會用「抗議」的方式，可能是遊行、示威或寫信等等。"
+      },
+      {
+        "word": "Salary",
+        "zh": "薪水：這是你工作之後，老闆定期付給你的錢。就像老師辛苦教書，學校會給他們薪水當作報酬。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-11-04",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmpDNmowRGc0cUFFMXR4M1dHWXpTODZPQVBWV2ZjSXVhbXpHaFY4NlpBX1QtTEtISkJiQ1BUVkt6UWNhM2FubFVSdmhDNjZOZkZNcGlzR2ZqQkhLY3FadE5WWFcyMXZRcXdOVEY0a3otMnllaTQ1cFgza1EwMHVsbDdoMXlXVTMyM0dtS3J2YzkyWmcyQlVhV1RIUjZqTGV3a281Vg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "網路安全大發現！AI殺手開關讓科技專家都驚呼",
+    "zhSummary": "網路安全公司CrowdStrike推出「AI殺手開關」，旨在應對AI帶來的網路威脅，獲得知名財經主持人Jim Cramer的讚賞，並看好其公司股票。這項創新為AI應用帶來更多安全保障。",
+    "zhContent": "<p>「AI殺手開關」聽起來是不是超酷的？最近，一家在網路安全界很有名的公司叫CrowdStrike，就推出了他們的一個新功能，讓很多人都非常好奇。連美國知名的財經節目主持人Jim Cramer都特別點名說他很喜歡這個新東西，還看好這家公司的股票呢！這個新功能被稱為「AI殺手開關」，它主要是為了解決現在越來越複雜的網路威脅而設計的。簡單來說，它就像給你的電腦或網路系統裝了一個超級警衛，隨時準備應對那些壞蛋用AI搞出來的新把戲。</p><p>那麼，這個「AI殺手開關」到底是做什麼用的呢？其實，它不是真的要殺誰，而是指一種在緊急情況下，能夠快速停止或控制人工智能（AI）運作的機制。在網路安全領域，現在許多駭客也會利用AI技術發動更聰明、更難被發現的攻擊。想像一下，如果我們的防禦系統AI突然出問題，或被敵人利用了，後果會很嚴重。有了這個「AI殺手開關」，CrowdStrike的客戶就能在危急時刻，手動或自動關閉可能被濫用或失控的AI功能，讓系統回到安全狀態，避免更嚴重的損失。</p><p>為什麼像Jim Cramer這樣的財經專家會這麼看重這個功能呢？在現今科技世界，AI應用越來越廣泛，也伴隨新的風險。CrowdStrike推出「AI殺手開關」，正抓住了市場對AI安全的高度需求。它讓企業和用戶在使用AI技術時，多了一層保障和掌控感。這不僅提升CrowdStrike產品的競爭力，也讓服務顯得更可靠和創新。對投資人來說，這代表公司有能力應對未來技術挑戰，自然會對其未來發展充滿信心，股票表現也可能因此更好。</p><p>因此，Jim Cramer公開表示他對CrowdStrike的「AI殺手開關」抱持正面看法，看好這家網路安全公司的股票。這顯示市場和金融界對這種能有效管理AI風險的創新解決方案給予肯定。這項新功能讓CrowdStrike在不斷變化的網路安全市場中又往前邁進一步，也為企業應用AI技術時提供更安心的選擇。目前，「AI殺手開關」已成功引起業界和投資者的關注。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Cybersecurity Breakthrough: CrowdStrike's AI Kill Switch Impresses Tech Expert",
+    "enContent": {
+      "basic": "CrowdStrike, a company that helps keep computers safe from bad guys, has made something new called an \"AI kill switch.\" Famous TV guy Jim Cramer likes it a lot and thinks CrowdStrike's shares are a good buy. This \"kill switch\" helps stop AI parts of computer programs if they start doing wrong things or get attacked. It's like an emergency stop button for smart computer brains.",
+      "intermediate": "Cybersecurity firm CrowdStrike has unveiled an innovative \"AI kill switch,\" a feature designed to address the growing complexities of AI-powered cyber threats. Financial expert Jim Cramer publicly endorsed the new tool, expressing optimism for CrowdStrike's stock performance. This \"kill switch\" offers a crucial mechanism to rapidly halt or control AI functions within a system if they become compromised or operate unexpectedly, providing an enhanced layer of security and control against sophisticated attacks.",
+      "advanced": "In a move lauded by CNBC's Jim Cramer, cybersecurity leader CrowdStrike has introduced a novel \"AI kill switch,\" a strategic innovation aimed at mitigating the emergent risks associated with AI-driven cyber warfare. This feature empowers users to promptly neutralize or manage AI functionalities within their systems, preempting potential misuse or malfunction in the face of increasingly sophisticated, AI-powered adversarial tactics. Cramer's endorsement underscores the market's appreciation for proactive, robust solutions that enhance governability and resilience in an evolving AI landscape, signaling positive prospects for the company's valuation."
+    },
+    "vocabulary": [
+      {
+        "word": "kill switch",
+        "zh": "「緊急斷電開關」或「中止鈕」。想像一下，你玩電動的時候，如果遊戲突然卡住或出錯，你會按一個按鈕讓它馬上停止或重新啟動。在機器或系統上，「kill switch」就是那個緊急按鈕，可以在危險或失控時，立刻讓它停下來，避免更大的問題發生。"
+      },
+      {
+        "word": "cybersecurity",
+        "zh": "「網路安全」。網路安全就是保護你的電腦、手機，還有所有你在網路上傳送的資料，不被壞人偷走、破壞或濫用。就像幫你的數位生活蓋了一層防護罩，避免病毒、駭客和各種網路攻擊。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-11-04",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGxYbmYxQldRTmQ3cHVRZlhTTnF3eFcyb2lya3hXMUNSQ1NOcTd2S2pUbXNJczdCeklxRzlEbV84QlNuZ3BaRE1Pa0NHRFg3N1AyOWN6X0lRUGRxMlhhUmt3OUJXdFlWRlA5S041NWJMX0kxTU8td2pwT3EtbWhzRFBERzF0aDZFVVlCQ1VkaXdwdHNCbms5QjgzLWNrdmxMUWdjVGdaQzdUUTY2djZIcFVpYko5UXJWMGkw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "帕西帕尼週末樂翻天！社區活動等你來！",
+    "zhSummary": "美國新澤西州的帕西帕尼鎮每逢週末都會推出許多趣味活動，邀請當地居民一同參與，享受節慶氣氛與社區活力。",
+    "zhContent": "<p>美國新澤西州有個充滿活力的帕西帕尼鎮，每當週末來臨，總是會舉辦各式各樣的精彩活動，讓居民們能暫時放下課業或工作，享受悠閒時光。這些活動包羅萬象，從闔家歡樂的市集到充滿節慶氣氛的特色表演，應有盡有。當地媒體TAPinto帕西帕尼分部，近期就特別整理了一份「週末活動清單」，提醒大家別錯過身邊的歡樂。</p><p>根據報導預告，這個週末帕西帕尼將化身為一個大型遊樂場。你可以想像，小鎮廣場上可能會有熱鬧的農夫市集，販售當地新鮮農產品與手作小物；或許還有專為孩子們設計的臉部彩繪、充氣城堡，以及街頭藝人的精彩演出。如果正逢特殊節日，像是萬聖節或聖誕節前夕，還會有應景的慶典，例如南瓜燈大賽或聖誕點燈儀式，把整個小鎮點綴得五彩繽紛，處處充滿驚喜。</p><p>這些豐富的活動通常是由帕西帕尼的市政廳、當地商家或志工團體共同籌劃舉辦。他們希望透過這些精心安排的聚會，讓居民有更多機會走出家門，與鄰里親友互動交流，凝聚社區意識。無論是大小朋友，都能在這些活動中找到屬於自己的樂趣，同時也促進了當地商業的發展，讓小鎮在週末假日更加熱鬧非凡。</p><p>因此，如果你身在帕西帕尼，不妨隨時留意當地新聞或社區公告，掌握最新的活動資訊。透過參與這些精心準備的週末盛會，不僅能感受到小鎮的熱情與活力，更能與家人朋友一同創造難忘的回憶。這份「週末活動清單」的公布，就是為了確保每個想參與的居民，都能輕鬆找到自己感興趣的節目，讓週末生活過得充實又愉快。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Festive and Fun Things to Do Around Parsippany This Weekend!",
+    "enContent": {
+      "basic": "Parsippany has many fun things to do this weekend! You can go to a market. There might be games for kids. Some events are festive, like for holidays. It's a good way to enjoy the town with family.",
+      "intermediate": "Looking for exciting plans in Parsippany this weekend? TAPinto Parsippany shared a list of festive and enjoyable activities. You might find local farmers' markets with crafts, or family-friendly shows and games. These events are great opportunities for residents to come together and experience the community's vibrant spirit.",
+      "advanced": "The local news outlet, TAPinto Parsippany, has curated a comprehensive guide to festive and engaging activities scheduled across the township this weekend. These events, often spearheaded by the municipal government, local businesses, and volunteer organizations, aim to foster a stronger sense of community by encouraging residents to participate in diverse cultural and recreational offerings. From artisan markets to seasonal celebrations, Parsippany's weekend calendar promises a dynamic array of options for all ages, contributing to both local commerce and social cohesion."
+    },
+    "vocabulary": [
+      {
+        "word": "Festive",
+        "zh": "節慶的；歡樂的。想像一下聖誕節或新年那種充滿特別裝飾、燈光和歡樂氣氛的感覺，就是「節慶的」。"
+      },
+      {
+        "word": "Community",
+        "zh": "社區；社群。指的是住在同一個地方的一群人，或是擁有共同興趣和目標的一群人。大家會互相幫助、一起參加活動。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-11-04",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcW9vUE9nbnFvZnJmYkRXcEVFd1M2NGtnalRnMWFDTnVpMXhRbTQ4T0lRdWZiTkpTSE1MTWY1T244OFpkVkEtUEdFX0VXVS1ydjFGMnk5em1DWTlKS2hzUmRERWwtUTNUTUdRb2piZVpUZEdlek5MN214MXRMRkdlMUI0YkotVVBLcnNiTzJiVnhjaDhIQl9wME1JZDNtclptc1FwTThhbUtid01uZFlBZE83U3VxRDdKWll0aDQxUmU1TGI5d1h6bVBOMmNNaThhemZ3?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國中期選舉：一場可能決定川普未來影響力的關鍵投票",
+    "zhSummary": "美國最近舉行了中期選舉，這場投票選出的國會議員將影響國家未來政策，同時也被視為衡量前總統川普在美國政治舞台上影響力是否依然強大的重要指標。",
+    "zhContent": "<p>美國最近舉行了一場全國性的投票，叫做「中期選舉」。你可以想像成，這就像是我們選班長、學藝股長，但規模更大，是選出決定國家未來方向的重要議員。這次的選舉特別受到大家的關注，因為它不只選出誰來領導國會，還可能決定一位很有名氣的前總統——川普，他未來在美國政治舞台上的影響力會有多大。</p><p>那麼，什麼是中期選舉呢？跟每四年一次選總統的大選不一樣，中期選舉是在總統任期的中間點舉行。這時候，美國人民會投票選出新的國會議員，包括參議員和眾議員。這些議員的工作非常重要，他們負責制定法律、審核預算，可以說是國家運作的關鍵人物。這次選出來的議員們，將會影響接下來兩年美國的政策走向，像是經濟、教育、外交等等。</p><p>這次選舉之所以特別，還有一個原因，就是它被認為是檢視前總統川普政治影響力的重要指標。川普雖然已經卸任，但他仍然在共和黨內擁有許多支持者，也一直對美國政治有很大的發言權。這次中期選舉的結果，不只會告訴我們現任政府的表現如何，也會讓大家看清楚，川普在選民心中是否依然有強大的號召力，這將影響他未來是否可能再次回到政治中心。</p><p>現在，美國各地區的選票正在緊鑼密鼓地統計中。隨著計票結果陸續公布，我們很快就會知道哪個政黨將會掌握國會的主導權，以及這對美國未來的政策制定有什麼影響。對許多人來說，這也是觀察川普政治時代「下一個篇章」如何被「定義」的關鍵時刻。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Midterms: A Vote That Could Define Trump's Political Future",
+    "enContent": {
+      "basic": "Americans recently voted in important elections called 'midterms.' These are not for president, but for people who make laws in the government. This election was special because its results might show how much power former President Trump still has in politics.",
+      "intermediate": "In the United States, 'midterm elections' happen in the middle of a president's four-year term. People vote for members of Congress, like senators and representatives, who decide on important laws and government spending. This year's midterms were closely watched because they could tell us a lot about public opinion on the current government and, importantly, how much influence former President Donald Trump still holds over voters and the Republican party. The outcome will shape policies for the next two years.",
+      "advanced": "The recent US midterm elections, occurring at the midpoint of the presidential term, saw Americans cast votes for all 435 seats in the House of Representatives and 35 of the 100 Senate seats, along with numerous state and local positions. These elections are crucial as their results determine which party controls Congress, significantly impacting the legislative agenda and the current administration's ability to pass laws. For former President Donald Trump, these midterms were widely seen as a litmus test of his enduring political power and his sway within the Republican Party, potentially defining his future role in national politics, including any potential 2024 presidential bid. Voter turnout was high, reflecting the perceived stakes involved in the outcome."
+    },
+    "vocabulary": [
+      {
+        "word": "Midterms",
+        "zh": "中期選舉：簡單來說，就是美國在總統任期中間舉行的全國性選舉，主要選的是國會議員，而不是選總統喔。"
+      },
+      {
+        "word": "Define",
+        "zh": "定義／決定：意思就是清楚地說明或劃定某事物的特質、意義或範圍。在這裡是指這次選舉的結果，會「決定」或「確立」川普未來在政治上的影響力。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-11-04",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OdnJnNXRmV0JsZXdPcVNsUmJ5U0c4OUZhcnBhNmtBZ1dPTHlkWl9GOFhYTUpLbHBLZDgzMzUwd190aWtQNTRGLXdHR1pJMG5UekhXckF4SmF2NHc?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "美國貿易政策新變動：南非與盧安達不再享免關稅待遇",
+    "zhSummary": "美國宣布將南非與盧安達從一項重要的免關稅貿易計畫中移除，這代表這兩個國家出口到美國的某些商品未來可能需要支付關稅，影響它們的出口競爭力。",
+    "zhContent": "<p>美國最近宣布了一項貿易政策的重大調整，決定將非洲國家南非和盧安達從一個名為「非洲成長與機會法案」（AGOA）的貿易計畫中移除。這項計畫原本讓這些國家的某些產品出口到美國時，可以不用支付關稅，也就是我們常說的「免關稅」待遇。現在，這兩個國家將不再享有這項特別的貿易優惠，這對他們來說是一個重要的改變。</p><p>「非洲成長與機會法案」是美國在多年前推動的一項政策，目的是為了幫助非洲國家的經濟發展，鼓勵他們將更多商品賣到美國。透過這項法案，許多非洲國家，像是南非和盧安達，他們的紡織品、農產品等特定商品，在進入美國市場時可以省下不少成本，這對他們國家的出口商來說是非常大的幫助。每年，美國政府都會評估參與國家的資格，確保他們符合法案中的一些條件，例如在人權、法治和市場開放方面有所進步。</p><p>這次美國決定將南非和盧安達排除，根據官方的說法，是因為這兩個國家在某些方面沒有完全達到「非洲成長與機會法案」所要求的標準。例如，美國會審視這些國家是否有效保護人權、促進民主，以及是否對美國的產品保持公平的市場開放態度。如果這些條件沒有被完全滿足，美國政府就有權利重新評估他們的貿易資格。這並非第一次有國家被移除，過去也有其他國家因為類似的原因而失去免關稅資格。</p><p>這項新的決定預計將在明年初正式生效。從那時候起，南非和盧安達的出口商在將受影響的產品銷往美國時，可能就需要支付關稅了。這可能會讓這些產品在美國市場上的價格提高，進而影響到它們的競爭力。對於這兩個國家來說，這意味著他們需要調整貿易策略，並可能尋求其他方式來維持或開拓出口市場。目前，美國政府已經正式通知這兩個國家關於這項變動的決定。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「非洲成長與機會法案」（AGOA）對哪些國家有好處？美國為什麼會重新評估參與國家的資格？",
+      "生活與未來：你覺得這個改變會對南非和盧安達的哪些產業造成實際影響？對於美國的消費者來說，你覺得會有什麼影響嗎？",
+      "獨立思考提案：如果一個國家因為某些原因被取消了貿易優惠，你覺得這個國家可以怎麼做來應對這種情況？"
+    ],
+    "enTitle": "US to Drop South Africa, Rwanda from Duty-Free Trade Initiative",
+    "enContent": {
+      "basic": "The United States has announced it will remove South Africa and Rwanda from a special trade program. This program, called the African Growth and Opportunity Act (AGOA), allowed certain products from these countries to be imported into the US without extra taxes, known as 'duty-free'. This change means some goods from South Africa and Rwanda might cost more when sold in the US, affecting their trade.",
+      "intermediate": "The U.S. government has decided to exclude South Africa and Rwanda from the African Growth and Opportunity Act (AGOA), a key trade initiative. AGOA provides eligible sub-Saharan African countries with duty-free access to the U.S. market for thousands of products. This decision, set to take effect early next year, implies that certain exports from these two nations will no longer enjoy preferential tariff treatment, potentially impacting their economic competitiveness and trade relations with the U.S. The U.S. annually assesses participating countries' adherence to AGOA's eligibility criteria, which include human rights, rule of law, and market access.",
+      "advanced": "The United States is set to revoke South Africa's and Rwanda's eligibility for the African Growth and Opportunity Act (AGOA), a cornerstone of U.S. trade policy with sub-Saharan Africa. This initiative grants qualifying nations duty-free access to the U.S. market for a broad range of goods. The impending removal, scheduled for early next year, suggests that the U.S. government has determined these countries have not met the established criteria, which encompass human rights, rule of law, and fostering market-based economies. This recalibration of trade status is anticipated to introduce tariffs on specific South African and Rwandan exports, potentially reshaping their trade dynamics and necessitating adjustments to their export strategies."
+    },
+    "vocabulary": [
+      {
+        "word": "duty-free",
+        "zh": "免關稅：當商品從一個國家出口到另一個國家時，通常會需要支付一筆稅金，叫做關稅。而「免關稅」就是指不需要支付這筆稅金，這樣商品的價格就會比較有競爭力。"
+      },
+      {
+        "word": "initiative",
+        "zh": "倡議/計畫：一個為了達成特定目標而開始的行動或計畫。例如，一個政府為了幫助國家經濟，可能會提出一個貿易計畫（Trade Initiative），或是為了保護環境提出一個環保倡議。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-11-04",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2d5N0tyajkyWmYydlVzN1JKSEpaXy1NNGVxVTlhajV6RTI5dDNQcFBpYUpEVzZnSkplLUk0YzV0OWVPb0oxOUUwNG5RUG9TRzl2ejZsNFJKRHZfRzhrdG02alQyZ2I1NkswQ2puTzVMMHBnb0JxNks5RHJQTFowTU03bDV3WEtRc0tPZlp4em9nUy13SmhiOEt1Z9IBmwFBVV95cUxOUkZNZURlb0l6aWsyM2Jfc0lhVTgwQ1hVU1JNcHZ1SUVNbTlPcnhCRWFtd0IyWVNJUEdNeFYxN29Ed3I2RWxHamRfT0VBb0Zlb0gyMDA4RjZOWm10TTdaRVpoTFFaNTh5c0VxS2dKeDFGank0SjRZSXR6amFCMjhjNWM0RkpBcUU1bzlYUFQya3hvbDFIbnVNelhhZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "歐洲天空大烏龍：假炸彈警報癱瘓航班，旅客行程全亂了",
+    "zhSummary": "歐洲各地的航班因假的炸彈威脅而嚴重延誤或取消，導致大量旅客行程受阻，最終證實只是虛驚一場。",
+    "zhContent": "<p>最近，歐洲的航空旅行經歷了一場不小的動盪。很多原定要飛行的班機，因為收到了假的炸彈威脅訊息，全都亂了套。這些聽起來很嚇人的威脅，讓歐洲各地的機場和天空都變得異常緊張，對整個航空系統造成了嚴重的影響。</p><p>這起事件導致了許多航班不得不延遲起飛，甚至有些班機直接被取消。更讓人頭痛的是，有些已經在空中飛行的飛機，為了安全考量，也被緊急要求轉降到其他機場。無數旅客因此被迫在機場裡長時間等待，所有的登機手續和行李檢查都變得更加嚴格，確保每個細節都沒有問題。</p><p>經過相關單位緊急調查後，很快就發現這些炸彈威脅其實都是虛驚一場，並沒有任何真正的爆炸裝置被發現。雖然最終證實沒有實際危險，但為了確保乘客和機組人員的生命安全，歐洲各國的航空單位和警方都不敢輕忽任何一個威脅訊息，必須投入大量人力和資源去仔細檢查每個環節。</p><p>儘管事件證明只是假警報，但這次的混亂仍然讓成千上萬的旅客行程受到嚴重影響，許多人因此錯過了重要的會議或轉機。歐洲各地的機場也承受了巨大的營運壓力。在所有安全疑慮都解除後，航班才陸續恢復正常。整個事件沒有造成任何人員傷亡，但確實給繁忙的航空業帶來了不小的困擾。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "European Air Travel Disrupted by False Bomb Threats",
+    "enContent": {
+      "basic": "Flights across Europe faced significant disruptions due to false bomb threats. Many planes were delayed, canceled, or diverted. Passengers experienced long waits and increased security checks. Authorities investigated and confirmed the threats were hoaxes, but the incident still caused major inconvenience for travelers and airports.",
+      "intermediate": "European air travel was thrown into disarray after a series of false bomb threats targeted multiple flights. This led to widespread delays and cancellations, with some airborne planes forced to land at alternate airports as a precautionary measure. Security protocols at airports were heightened, causing considerable wait times for passengers. Investigations revealed the threats were unfounded, highlighting the impact of such hoaxes on operational efficiency and passenger experiences.",
+      "advanced": "A wave of unsubstantiated bomb threats instigated considerable disruption across the European aviation sector. The widespread nature of these alerts precipitated extensive flight delays, cancellations, and involuntary diversions, severely impacting travel itineraries for thousands of passengers. Heightened security enforcement became standard procedure at major hubs, leading to substantial operational bottlenecks. Subsequent investigations confirmed the illicit communications as hoaxes, underscoring the vulnerabilities of critical infrastructure to malicious, albeit false, intelligence and the logistical complexities involved in verifying such threats."
+    },
+    "vocabulary": [
+      {
+        "word": "Disruption",
+        "zh": "擾亂、中斷。想像一下，當你正在很專心寫作業，突然有人大聲講話，讓你沒辦法繼續，這就是一種「擾亂」。這篇新聞裡的「擾亂」是指飛機班次被弄亂了。"
+      },
+      {
+        "word": "Threat",
+        "zh": "威脅。當有人說要做一些不好的事情，讓你覺得害怕或不安全，那就是一種「威脅」。新聞中是指有人發出「炸彈威脅」，雖然是假的，但還是讓大家很緊張。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-11-04",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "亞洲盃賽程大風吹！沙烏地足球聯賽跟著延期，球迷等一等！",
+    "zhSummary": "沙烏地阿拉伯的職業足球聯賽最近宣布，有幾場比賽要延後舉行。這是因為一項重要的國際足球賽事——亞洲盃的比賽時間被調整了，進而影響到聯賽的賽程安排。",
+    "zhContent": "<p>嘿，同學們！最近沙烏地阿拉伯的足球迷們可能要稍微等等了，因為他們的頂級足球聯賽（Saudi Pro League）宣布要延後幾場比賽。這一切都跟一個很重要的國際賽事「亞洲盃」的日期變動有關係喔！</p><p>事情是這樣的，本來亞洲盃足球賽應該在夏天舉行，但因為有些主辦國家的天氣實在太熱了，選手們在酷熱的環境下踢球會很辛苦，所以比賽時間就被改到了比較涼爽的冬天。而這次，比賽地點也從原本宣布的中國移到了卡達。這個大規模的日期和地點變動，直接影響了許多國家聯賽的賽程安排。</p><p>為什麼會影響到沙烏地聯賽呢？這是因為沙烏地阿拉伯的國家隊裡面，有很多厲害的球員都是在沙烏地超級聯賽踢球的。當亞洲盃在冬天舉辦時，這些明星球員就需要去為國家隊效力，參加國際比賽。如果聯賽的比賽還是照常進行，那這些球隊就沒有他們的關鍵球員可以上場了，這樣對比賽的公平性會受到影響，也可能讓國家隊無法派出最佳陣容。所以，為了讓國家隊選手們可以專心備戰，聯賽只好配合調整。</p><p>所以囉，根據《半島電視台》的報導，沙烏地超級聯賽的官方決定，將幾場受影響的比賽延後舉行。目前新的比賽日期還在安排中，但可以確定的是，球迷們得再耐心等等，才能看到接下來的精彩賽事了。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，是什麼原因導致沙烏地阿拉伯足球聯賽延期？比賽地點和時間的改變，對哪些人造成了直接的影響？",
+      "生活與未來：你覺得這個改變會對相關的足球俱樂部、球員、球迷帶來哪些實際的影響？例如，球員的訓練計畫、球迷的觀賽安排等。",
+      "獨立思考提案：針對國際賽事因天氣等因素必須調整時間，你覺得除了讓聯賽延期之外，還有沒有其他更好的解決方案，可以減少對聯賽的衝擊？"
+    ],
+    "enTitle": "Saudi Pro League Postpones Matches Due to Asian Cup Rescheduling",
+    "enContent": {
+      "basic": "The Saudi Pro League has announced that some of its football matches will be postponed. This change is happening because the Asian Cup, a major international football tournament, has changed its schedule. The Asian Cup was moved from summer to winter because of hot weather in some host countries. This rescheduling affects local leagues like the Saudi Pro League, as many national team players come from these clubs. They need time to play for their country in the Asian Cup.",
+      "intermediate": "Football fans in Saudi Arabia will have to wait for some upcoming matches as the Saudi Pro League has decided to postpone them. This decision directly stems from the rescheduling of the Asian Cup. Originally planned for summer, the tournament was shifted to winter, and its location moved to Qatar, primarily due to concerns about extreme heat affecting player performance. This significant calendar change requires the Saudi Pro League to adjust its fixtures to accommodate national team duties, as many key Saudi players participate in their domestic league.",
+      "advanced": "The Saudi Pro League has announced the postponement of several matches, a direct consequence of the recent rescheduling of the Asian Cup, as reported by Al Jazeera. The continental football tournament's shift from its traditional summer slot to winter, along with a change in host nation to Qatar, was necessitated by concerns over player welfare in extreme heat conditions. This alteration in the international football calendar impacts domestic leagues, particularly the Saudi Pro League, which contributes a significant number of players to the Saudi national team. To ensure player availability for national duties and maintain competitive fairness, the league has opted to adjust its schedule, with new dates for the affected fixtures yet to be finalized."
+    },
+    "vocabulary": [
+      {
+        "word": "Postpone",
+        "zh": "延後 (或延期)。意思就是把本來預定要做的事情或舉辦的活動，改到之後的某個時間再進行。就像你跟朋友約好今天去打球，但突然下雨，你們就「延後」到下週再打。"
+      },
+      {
+        "word": "Rescheduling",
+        "zh": "重新安排時間。當一個活動或會議的日期、時間因為某些原因需要改變，就要「重新安排時間」。例如，足球比賽本來在夏天，但因為太熱，所以「重新安排時間」到冬天舉行。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-11-04",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWZDR3ktWVNzWHJQelpUQXNjZXdFWHUzeTl3QUhHOFhCQVlSdVZVZ1pzNVdhY1d0YlZfRk1OZ283ZUFoMGU3RXpMcnJ5OXZwME5VT1BPbGdXT2d2N3NONVZsMDhXVVRUR01QdmhtSVBIdGVteEtHRm5jUmljYk5YWWJFNGNpV0VTajB1RTlzajBzOHEwT3cwbnMyUnhaU0hOTTc0c2s2NUJkZ9IBrwFBVV95cUxNNmx0bS1kSHhrcHI0NGhmM0xpa2Qwby1CQ2FNWkxvdWhYcklTRUl1VFZBV2ZTMEl0WTBMcnJ4dURPVllLLUo5djlQZFdsdGNvQS11bUVWY2g2eHcwTE1vLUd5ZEhuSG1EUUZqY3BfMko4Vkl2UWFKYUZrLUU4dlVtOXpQNWhEQThxX0pRV2FtZ2ZvZkFCcWFrNFQ3MlFQZ1Y0TVo2YWpEY09zeC1tYktR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "考試新挑戰！智慧眼鏡作弊，考場怎麼擋？",
+    "zhSummary": "近來在亞洲部分地區，學生利用高科技智慧眼鏡在考試中作弊的事件層出不窮，讓教育當局和監考人員面臨前所未有的挑戰，各方正努力尋找對策來維護考試的公平性。",
+    "zhContent": "<p>嘿！你有想過未來考試會是什麼樣子嗎？最近在亞洲一些地方，一個超酷卻有點麻煩的新聞引起大家注意：學生們竟然嘗試用「智慧眼鏡」在重要考試中作弊！這聽起來是不是很像科幻電影的劇情？沒錯，這種新花招讓原本很嚴謹的考場秩序，面臨了前所未有的挑戰，也讓教育單位和監考人員感到相當頭痛，因為傳統的監考方法，對付這種高科技工具，似乎有些力不從心。</p><p>根據外媒報導，這些智慧眼鏡通常都小巧且隱蔽，配備了微型攝影機和網路連線功能。聰明過頭的學生可以透過眼鏡，將考卷上的題目即時傳送出去，然後在很短的時間內，從外面收到答案，有些甚至還有語音提示功能，讓作弊手法更加難以察覺。為此，一些地區的考試機構不得不使出大絕招，像是要求考生在進入考場前，必須把所有電子產品，包括手機、智慧型手錶，當然還有智慧眼鏡，全部交出來保管，並且在入場前進行更仔細的掃描和檢查，以防萬一。</p><p>面對這種新型作弊工具的出現，各地的教育部門都繃緊了神經，因為這不只影響了考試的公平性，也考驗著他們的應變能力。他們正在努力研究各種對策，例如有些地方考慮引進特殊的訊號遮蔽器，希望能在考場內阻斷智慧眼鏡的無線通訊功能，讓作弊工具完全斷訊。同時，也有專家建議，除了從科技面著手，也應該加強對智慧型穿戴裝置的相關規定，並且訓練監考人員，提升他們辨識這些高科技作弊工具的能力，這樣才能雙管齊下。</p><p>儘管面臨的挑戰非常巨大，但許多地方的考試單位都明確表示，他們已經在多起事件中成功地阻止了利用智慧眼鏡作弊的行為。這些被抓到的學生都受到了嚴厲的處罰，包括取消考試資格或是記過等。雖然高科技作弊的問題仍需持續關注，且可能會不斷演變，但相關部門已展現出堅定的決心，要確保考試的公平和誠實原則不受任何作弊手段影響，並持續更新監考技術與規定來應對未來的挑戰，確保每個學生的努力都能被公平對待。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「智慧眼鏡」和「作弊」手法具體是什麼？考試單位用什麼方式來應對？",
+      "生活與未來：你覺得這種高科技作弊現象如果沒有被有效阻止，會對你身邊的學習環境和考試制度造成什麼實際影響？",
+      "獨立思考提案：針對這種新型態的作弊方式，你覺得除了新聞中提到的方法，還可以怎麼做，才能更有效地維護考試公平？"
+    ],
+    "enTitle": "Can smart glasses exam cheating be stopped? - Asia Pacific",
+    "enContent": {
+      "basic": "In some parts of Asia, students have been trying to cheat in exams using smart glasses. These glasses have tiny cameras and internet. Students can send exam questions out and get answers back. To stop this, exam centers are making students hand in all electronic devices and doing more checks. Authorities are also looking into signal blockers and training staff. They have caught some cheaters and punished them. This new challenge means exam rules need to keep changing.",
+      "intermediate": "Recent reports from various Asian regions highlight a growing concern: the use of smart glasses for cheating during high-stakes exams. These advanced wearable devices, often equipped with miniature cameras and internet connectivity, enable students to transmit exam questions and receive real-time answers. This sophisticated method poses a significant challenge to traditional invigilation. In response, examination bodies are implementing stricter pre-exam screenings, requiring all electronic gadgets to be surrendered. They are also exploring technological solutions like signal jamming and enhancing invigilators' capabilities to detect such devices. While some cheaters have been apprehended and penalized, the ongoing fight against tech-enabled cheating requires continuous adaptation of rules and monitoring techniques.",
+      "advanced": "The Asia-Pacific region is grappling with a burgeoning issue in academic integrity: the deployment of smart glasses as a sophisticated cheating mechanism during crucial examinations. These discreet wearable technologies, often integrating miniature cameras and seamless internet connectivity, facilitate the illicit transmission of test materials and reception of external assistance. This innovative form of malpractice challenges conventional proctoring methods, compelling educational authorities to devise more robust countermeasures. Measures include stringent pre-exam protocols such as mandatory surrender of all electronic devices and enhanced physical inspections. Furthermore, organizations are investigating advanced deterrents like signal jamming technologies and investing in comprehensive training for invigilation staff to identify and neutralize these high-tech tools. Despite successful interdictions and severe penalties for transgressors, the dynamic nature of such cheating necessitates perpetual refinement of examination policies and surveillance methodologies to safeguard fairness."
+    },
+    "vocabulary": [
+      {
+        "word": "Smart glasses",
+        "zh": "智慧眼鏡：一種結合了眼鏡外型和電腦科技的穿戴裝置，通常有螢幕、攝影機和連網功能，可以顯示資訊或錄影拍照。"
+      },
+      {
+        "word": "Cheating",
+        "zh": "作弊：在考試或其他競爭中，用不公平或不誠實的方法來獲取優勢，例如偷看答案或抄襲。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-11-04",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5palgzWjVpWXQ2Yzk0YjBxMmJ6UC0yVEhMdHY1MGdSMTAxWDN6dWR3Y3NCSi1VTThjSmcxTjBvVHhON0JNbmtVVDUxMGpNY0tf?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "全球晚間新聞精選：台日貿易新進展與佛州墜機悲劇",
     "zhSummary": "中央社報導兩則重要消息：日媒透露台日有望年底簽署全面貿易協議，以及美國佛羅里達州發生嚴重空難，機上九人全數罹難。",
     "zhContent": "<p>中央社在全球晚間新聞中報導了兩則重要消息。一則關於台灣和日本之間可能有個經濟上的「大進展」，據日本媒體透露，兩地最快在今年底前，或許就能簽訂一份重要的全面貿易協議。而另一則消息則令人心痛，美國佛羅里達州發生了一起嚴重的飛機墜毀事故，不幸造成機上九人全部罹難。</p><p>先來看看台日之間的這項「重大突破」。根據日本媒體的說法，台灣和日本正在積極討論一份「全面貿易協議」。簡單來說，這份協議的目標就是讓兩邊做生意時，可以減少一些限制和費用，讓商品買賣變得更簡單、更快速。如果一切順利，這個重要的協議最快可能在今年年底前就會正式簽署。這表示兩地未來在經濟上的合作關係可能會變得更加緊密。</p><p>接著是來自佛羅里達州的悲劇。當地有一架小型飛機突然從空中急墜，場面十分驚險，現在甚至有畫面流出。這起意外導致了機上所有九名乘客與機組人員全數喪生。這是一起令人非常難過、震驚的事件，目前相關的細節仍在關注中。</p><p>總結來說，中央社的全球晚間新聞提到了台灣和日本在年底前有望簽署貿易協議的最新消息，這是一個可能對未來經濟發展有影響的動態。同時，美國佛羅里達州也發生了慘痛的飛機失事，造成了九人不幸罹難，為全球帶來了悲傷。這些都是最近世界各地正在發生的重要事件。</p>",
@@ -10637,461 +10987,6 @@
     "date": "2026-10-05",
     "sourceName": "RNZ",
     "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM1A1TVhRM0dNUHNwZUxkSlRCNVBvdGpJN1VUWFF1UzE5MmFFa21RYXRiWGpxSjBjT3hQNFZQd3JhWXlrUDZmSHJncUxXampvM2hvOVNublNEQ3o4NG9uYVVONDFBTWV0eHY1Q2xwYlVSNHJJZ1FLUTg5akZBaGthVkw5eTlqemZhZ2N3SUF4clNjSHR3THFXS2xNcWNrcF9lZDl0X0FLMTRzZXFrcHpUWWU1UU1GWXMzelU5Ulp4UWhkYmliNjQ1Nk5n?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "美軍大變革！裁將領蓋新基地，四十年來頭一遭！",
-    "zhSummary": "美國軍方宣布重大變革，將裁減兩成將領，並興建四十年來首座可容納兩萬五千名軍人的大型新基地。",
-    "zhContent": "<p>美國軍方最近傳出了一則大消息，聽起來就像是要為未來做好準備一樣！根據中央社在2026年10月1日發布的全球晚間新聞，一位名叫赫格塞斯的人對外宣布了一項美國軍隊的重大變革計畫。這可不是一般的小調整，而是一系列會讓軍隊樣貌很不一樣的巨大改變喔。這個消息一出來，立刻引起了大家的注意。</p><p>首先，這項計畫中提到，美軍將會裁減約兩成的將領。將領就像是軍隊裡的高階主管，負責指揮軍事行動和制定策略。一次裁掉這麼多高層，顯示了美國軍方對於精簡組織、提升效率的決心。再來，另一個更讓大家驚訝的，是他們打算建造一座全新的軍事基地。這座新基地可不簡單，它將是美軍在過去整整四十年來，第一次蓋這麼大規模的新基地。</p><p>這座即將興建的基地，規模非常龐大，據說可以容納高達兩萬五千名軍人。想像一下，兩萬五千人住在一起工作、訓練，那會是一個多麼巨大的地方！這不僅僅是蓋新房子這麼簡單，它代表著美軍可能在戰略部署上有了新的考量，或是要為未來的軍事發展奠定更堅實的基礎。這項計畫的目標，可能是為了讓美軍的運作方式更靈活、更有效率。</p><p>總之，赫格塞斯所宣布的這些措施，包括減少高階將領的人數，以及動工興建四十年來的首座大型軍事基地，都清楚顯示美國軍方正朝著一個全新的方向前進。這些重大的變革，都已經在2026年10月1日這天，透過中央社的報導向全球公開。新聞只說到這裡，但可以肯定的是，未來美國軍隊的樣貌將會因此有很大的不同。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "US Military Undergoes Major Reforms: Generals Cut, New Base Built After 40 Years",
-    "enContent": {
-      "basic": "",
-      "intermediate": "",
-      "advanced": ""
-    },
-    "vocabulary": [
-      {
-        "word": "Generals",
-        "zh": "將領 (Generals)：軍隊裡職位很高的人，像是部隊的指揮官，負責規劃和帶領大家打仗或執行任務，通常穿著漂亮的制服，肩上會有代表階級的星星。"
-      },
-      {
-        "word": "Base",
-        "zh": "基地 (Base)：指的是軍隊或特定組織用來訓練、駐紮或存放裝備的特定地點。你可以想像成是軍人的「家」或「辦公室」，所有的行動和物資都從這裡出發。"
-      }
-    ],
-    "id": "t-1",
-    "type": "thematic",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "全球",
-    "date": "2026-10-04",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FdHJUNG95eHVNVGh6SUNOQktoajNGX3lhc2QtSjFmek56dDZXYW94YzZLQlJmMkxEcEhSekZzeXJ1TzVVd3Q5d3BsRUJMTWVpLV80Z05NMWwzV00?oc=5",
-    "isFeatured": true
-  },
-  {
-    "zhTitle": "南極迷你溫室之謎：科學家對極地小草的七年觀察",
-    "zhSummary": "科學家在地球上最冷的南極大陸，為那裡唯二的兩種開花植物蓋上迷你溫室，進行長達七年的觀察，目的是了解這些獨特植物如何應對氣溫的變化。",
-    "zhContent": "<p>想像一下，在地球上最冷、最遙遠的地方——南極，竟然有科學家搭建起迷你溫室！他們可不是為了種菜，而是把這些小小的透明庇護所，罩在南極唯二的兩種開花植物上，而且一放就是七年。這不是在拍電影，而是真實的科學實驗，想知道這些特別的植物在地球環境變化的影響下，會有什麼不一樣的反應。</p><p>這個特別的長期實驗，主角是兩種非常耐寒的植物：一種叫做南極髮草（Deschampsia antarctica），另一種是南極珍珠草（Colobanthus quitensis）。科學家們小心翼翼地把這些透明的小溫室，也就是像小帳篷一樣的塑膠罩，蓋在這些植物周圍。這些罩子能讓裡面的溫度比外面高一點點，模擬出一種比較溫暖的環境。接下來的七年裡，研究團隊定期回來觀察，仔細記錄植物的生長狀況、密度以及分佈範圍的變化。</p><p>那麼，科學家為什麼要花這麼長時間、這麼大的功夫做這個實驗呢？答案很簡單，他們想了解在氣溫逐漸升高的情況下，這些獨特的南極植物會有什麼樣的反應。你知道嗎，南極是地球上暖化速度最快的地方之一，每一點溫度變化，都可能對當地的生態系統產生巨大的影響。透過這些迷你溫室，科學家希望能預測，如果南極的氣溫真的持續上升，這些植物會不會長得更多、蔓延得更快，進而改變南極的植物面貌。</p><p>經過整整七年的漫長觀察與數據收集，實驗結果出爐了。科學家發現，被罩在迷你溫室裡的南極髮草和南極珍珠草，生長速度明顯比那些沒有罩子的植物快很多。它們不僅變得更茂密，分佈的區域也擴大了不少。這項研究清楚地顯示，即使是很小的溫度上升，都足以對這些原本生長在極端環境中的植物產生顯著的影響，證明了氣候變化對南極生態系潛在的衝擊。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Scientists Study Antarctica's Unique Plants with Mini Greenhouses for Seven Years",
-    "enContent": {
-      "basic": "Scientists in Antarctica put small clear covers, like tiny greenhouses, over two special flowering plants. They watched them for seven years. This helped them see how the plants grew when it was a bit warmer, like how the world is changing. They found the plants grew bigger and faster inside the warm covers.",
-      "intermediate": "For seven years, researchers in Antarctica conducted a unique experiment. They placed small, transparent enclosures, acting as micro-greenhouses, over the continent's only two native flowering plants: Antarctic hair grass and pearlwort. This setup created slightly warmer conditions, simulating potential future climate scenarios. The study aimed to observe how these specific plants, crucial to the fragile Antarctic ecosystem, would react to even minor temperature increases. Their findings indicated accelerated growth and spread within the warmer environments.",
-      "advanced": "A seminal seven-year study in Antarctica employed miniature greenhouse structures to investigate the phenological and morphological responses of the continent's two indigenous angiosperms, Deschampsia antarctica (Antarctic hair grass) and Colobanthus quitensis (Antarctic pearlwort), to localized thermal enhancement. Positioned over the plants, these transparent enclosures facilitated a marginal but consistent increase in ambient temperature, mimicking projected anthropogenic climate warming. The longitudinal data collection revealed statistically significant increases in biomass accumulation and spatial proliferation in the experimental groups, underscoring the acute sensitivity of these foundational Antarctic flora to even subtle environmental perturbations. This research provides critical empirical evidence for understanding the dynamic vegetative shifts likely to occur in polar ecosystems under ongoing global climate change."
-    },
-    "vocabulary": [
-      {
-        "word": "Antarctica",
-        "zh": "南極洲：地球最南端的大陸，也是最冷、最乾燥的地方，大部分被冰雪覆蓋。"
-      },
-      {
-        "word": "Greenhouse",
-        "zh": "溫室：一種通常由玻璃或透明塑膠建造的房子，用來種植植物，可以保持裡面的溫度比外面高，讓植物在冷天氣也能生長。"
-      }
-    ],
-    "id": "t-2",
-    "type": "thematic",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "全球",
-    "date": "2026-10-04",
-    "sourceName": "BBC Wildlife Magazine",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNko0WFM5X05vYWpwd1dDcUhWS1RtM0tCNENFOW15Um0yazVkcmxrY3dfVTNTeDljeUVOTkIwSnB0WmFmbHRxWXhwSERwT0NiSEY2cDNaZDJERWNTVFRPQ2t0MVpKM2Qta2VLNmdkUzVicTFpT29VSzF6Vnh2OVNfOFVwM2JTM2NvOEE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "喬治亞文化大變身：傳統與現代的火花",
-    "zhSummary": "喬治亞這個古老國家，正處於文化轉型的關鍵時刻。年輕一代如何在保有傳統的同時，擁抱現代世界的潮流，創造出獨特的新文化面貌。",
-    "zhContent": "<p>嘿，同學們！你們有沒有想過，一個國家在歷史的浪潮中會怎麼變身呢？今天我們要來聊聊一個很特別的國家——喬治亞。它位於歐洲和亞洲的交界處，擁有超級悠久的文化歷史。不過，就像我們每個人都會長大、會改變一樣，喬治亞的文化最近也經歷著一場巨大的轉型。這不是關於什麼大災難，而是它如何在現代世界的衝擊下，找到屬於自己的新樣貌。</p><p>喬治亞的年輕世代特別能感受到這種變化。過去，他們的傳統文化像史詩般的合唱、熱情的民族舞蹈，還有精緻的傳統手工藝，都深植人心。但現在，你可能在特比利西的街頭，聽到傳統音樂融合了電子節拍，看到年輕人穿著既有歐美時尚感又帶有喬治亞圖騰的服飾。他們透過藝術、音樂和網路，積極地探索著如何將古老的根基，延伸出充滿活力的現代枝葉。</p><p>這種文化上的「大變身」並非憑空而來。喬治亞自從脫離蘇聯獨立後，一直努力朝向西方世界靠攏，特別是希望能加入歐盟。這種對未來的渴望，自然也影響了他們的文化視野。年輕人渴望與世界接軌，擁抱全球化帶來的多元性，同時又不想失去祖先留下的寶貴傳承。所以在這個過程中，舊的價值觀和新的趨勢之間，常常會擦出有趣的火花。</p><p>總體來說，喬治亞的文化正在經歷一個不斷演進的時期。這不是單純的取捨，也不是非黑即白的選擇。它更像是一種創造性的融合，讓傳統與創新並存，甚至互相啟發。喬治亞的文化不是停滯不前的，它正在用自己的方式，向世界展示一個既古老又現代、既堅持又開放的獨特風采。這場文化探索之旅，至今仍在進行中。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，喬治亞的文化變革主要體現在哪些方面？",
-      "生活與未來：你覺得這種傳統與現代結合的現象，會對喬治亞年輕人的日常生活產生什麼實際影響？",
-      "獨立思考提案：針對喬治亞在文化轉型中面臨的挑戰，你覺得還可以怎麼做，才能更好地平衡傳統與創新？"
-    ],
-    "enTitle": "Georgia: Culture in Times of Change",
-    "enContent": {
-      "basic": "Georgia is an old country that is changing. Young people there are mixing old traditions with new ideas. They listen to new music and wear new clothes, but also remember their history. It's like a blend of the past and the present, creating something new and exciting.",
-      "intermediate": "Georgia, located between Europe and Asia, is undergoing a significant cultural evolution. Its post-Soviet identity and aspirations for closer ties with Europe are influencing its youth. They are creatively blending traditional elements like folk music and dance with modern trends in fashion, art, and technology, fostering a vibrant new cultural landscape.",
-      "advanced": "Positioned at a geopolitical crossroads, Georgia is experiencing a profound cultural metamorphosis, driven by its post-Soviet transition and its strategic alignment towards the European Union. This period sees its younger generation actively navigating the delicate balance between preserving their rich ancient heritage and embracing global contemporary influences. The result is a dynamic cultural fusion, evident in various art forms, fashion, and social practices, where traditional Georgian identity is reinterpreted and revitalized in a modern context. This ongoing evolution sparks dialogues about national identity and cultural authenticity."
-    },
-    "vocabulary": [
-      {
-        "word": "Fusion",
-        "zh": "融合 (不同元素的結合，創造出新的東西，就像把兩種口味的冰淇淋混在一起！)"
-      },
-      {
-        "word": "Heritage",
-        "zh": "遺產 (一個國家或民族從過去流傳下來的寶貴文化、傳統或歷史，像是家族傳下來的老照片或老故事。)"
-      }
-    ],
-    "id": "t-3",
-    "type": "thematic",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "全球",
-    "date": "2026-10-04",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zbTFpM1NZUHRfbXFfVGh6YUF4b1dhM0MzMkZZelJ6ZWFCRkVZdHh6ZWR2MVZmSmotaG03LXVuREVqeE9NZlZTU21ZTlp5Q05mbkJFa2hRUklkcjY5THZsajU1cWxmMjVEZEFCaFN3NWdaQzZCbXlQSG5Gaw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "AI來了，我們聽故事的能力會消失嗎？",
-    "zhSummary": "英國《衛報》專欄作家 Shirleene Robinson 提出擔憂，隨著人工智慧（AI）的普及，人類文化可能面臨巨大改變，其中最大的損失或許是我們對他人、對藝術、對世界的「傾聽」能力。",
-    "zhContent": "<p>最近AI（人工智慧）真的超夯，什麼都能做，從寫故事、畫圖到幫我們分析資料，感覺世界都要被AI改變了。不過，英國《衛報》的專欄作家 Shirleene Robinson 卻丟出了一個特別的疑問：當AI越來越厲害，會不會讓我們失去一些很重要的東西？她最擔心的是，我們「傾聽」的能力可能會因此受到威脅，甚至消失。</p><p>Robinson 指出，AI現在能創造出大量內容，無論是音樂、文章還是藝術品，都跟真人創作的作品越來越像。她認為，當我們被這些大量且看似完美的AI作品包圍時，人們對「真正的」人類表達的細膩感受和深度連結，可能會變得遲鈍。這裡說的「傾聽」，不只是用耳朵聽聲音，更是指一種理解、感受並投入於他人心聲和創作背後情感的能力。</p><p>她進一步解釋，人類文化的價值，很大一部分來自於每個人獨特的、有時候不那麼完美的表達。這些表達包含了創作者的掙扎、熱情和生命經驗，讓我們在欣賞作品時，也能感受到一種人與人之間的共鳴。如果AI能輕易地模仿這些人類特質，甚至創造出更「標準化」的內容，我們是不是會漸漸失去耐心，不再願意深入去挖掘和理解那些需要更多時間和心思才能體會的人類創作呢？</p><p>因此，Shirleene Robinson 只是客觀地觀察並提出這樣一個潛在的文化挑戰。她並不是要說AI不好，而是想提醒大家，在享受AI帶來的便利和創新時，或許也要留意它可能悄悄改變我們與文化互動的方式，以及我們身為人類獨有的「傾聽」能力是否會因此而受到影響。這是一個正在發生的討論，引導人們思考未來文化發展的走向。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "AI's Threat to Culture: Losing Our Ability to Listen",
-    "enContent": {
-      "basic": "AI is getting really good at making music, stories, and art. But one writer, Shirleene Robinson from The Guardian, is worried. She thinks AI might make us lose an important part of our culture: our ability to truly listen. She means not just hearing, but really understanding and connecting with human feelings in art and stories. If AI makes perfect things, will we stop caring about unique human creations?",
-      "intermediate": "Shirleene Robinson, a columnist for The Guardian, has raised concerns about the potential impact of artificial intelligence on human culture. Her main worry is that as AI generates vast amounts of content, from music to art, it could erode our capacity for genuine \"listening.\" This isn't just about hearing sounds, but about the deeper ability to comprehend, empathize with, and truly engage with the nuanced expressions and emotions embedded in human creative works. She questions whether an abundance of AI-generated perfection might lead to a superficial appreciation, diminishing our patience for the complexities of human-made art.",
-      "advanced": "In a thought-provoking commentary for The Guardian, Shirleene Robinson explores the profound cultural implications of advancing artificial intelligence, specifically spotlighting a potential decline in our collective \"ability to listen.\" Robinson posits that while AI's generative capabilities produce an overwhelming volume of media, from sophisticated musical compositions to compelling narratives, this proliferation might paradoxically desensitize us to the authentic, often imperfect, intricacies of human expression. She argues that true cultural engagement necessitates a deep, empathetic connection to the human condition manifested in art – an attunement that could be undermined if AI's flawless, yet potentially soulless, creations become the predominant cultural diet. The piece serves as a critical examination of how our evolving relationship with AI might redefine the very essence of cultural reception and human interaction."
-    },
-    "vocabulary": [
-      {
-        "word": "threatens",
-        "zh": "威脅 (wēi xié)：意思是說有某種不好的事情或危險可能會發生。例如：天氣報告說有颱風「威脅」到我們的城市。"
-      },
-      {
-        "word": "culture",
-        "zh": "文化 (wén huà)：指一個群體的人們共同的生活方式、信仰、藝術、習俗、知識等等。例如：不同的國家有不同的「文化」。"
-      }
-    ],
-    "id": "t-4",
-    "type": "thematic",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "全球",
-    "date": "2026-10-04",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaERRX3MzQWxKLWZuMWFwYV9EOE54LWVKY2NTTkIwb2xxOHMydnRxUEFPeEZfZ0RTcDJBV05HN01DT0JRX2NvVGRxOFFYcExqZTFoTnladUY5Tk83bWtoRUU4ZFNNRElibUYwUzU2cFI4M2RjWkREOFFuN3ItTjlxT0VhQncxM2tBWkxpTjVCd2JtYjNsMUp0cWFnRlVsTmp1NWxTWDN5NmxZNmFuVUFPdE1GRjZlYmdGa0t4YmFqVG9TWGMyYWRwX1VpQjRjN19ZdG04MTBTMm9wWlQ0ZjNmQkFOZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "週末不無聊！當地媒體TAPinto推出「玩樂指南」讓社區動起來",
-    "zhSummary": "美國當地媒體TAPinto為社區居民整理了一份實用的「週末玩樂指南」，詳細列出週六、週日各式各樣的活動，幫助大家輕鬆規劃週末行程，讓當地社區的週末氣氛更加熱鬧，也促進居民參與在地生活。",
-    "zhContent": "<p>「週末要做什麼？」這個問題，相信是很多青少年和家人朋友週末最常討論的話題。最近，美國當地媒體TAPinto就為他們社區的居民整理出了一份超實用的「週末玩樂指南」！這份報導詳細列出了本週末，也就是週六和週日，在當地可以參與的各種有趣活動。對於那些不知道週末該去哪裡玩、想找點新鮮事做的朋友們來說，這份指南無疑是個超級大幫手。它不僅讓大家更容易找到適合自己的活動，也讓整個社區的週末氣氛更加熱鬧起來。</p><p>這份特別的「週末玩樂指南」涵蓋了各式各樣的活動，從戶外探險到室內體驗都有。報導中可能會提到，例如，在某個公園有社區舉辦的家庭野餐日，或是可以參加一場青少年棒球賽。喜歡藝術的，或許可以到當地的畫廊參觀特展，或是有街頭藝人的表演。如果想挑戰自我，說不定還有機會參加小型路跑活動。此外，當地的農夫市集、手工藝品攤位，甚至是圖書館舉辦的特別讀書會，也都可能被收錄進去。TAPinto的編輯們精心挑選了這些活動，讓每個人都能找到自己感興趣的選項。</p><p>TAPinto之所以會定期推出這樣的報導，主要是希望能夠促進當地居民對社區的參與感，並讓大家發現自己周遭其實有許多精彩的活動正在發生。對於許多家庭來說，規劃週末行程常常需要花費時間搜尋資訊，而TAPinto的這份指南則能省去不少麻煩。它就像是社區的「情報站」，將零散的資訊彙整起來，讓居民能一目瞭然。同時，這也幫助了許多小型商家、社區組織或公益團體宣傳他們的活動，讓更多人有機會認識並支持在地發展。</p><p>這份「週末玩樂指南」目前已經透過TAPinto的平台發布，無論是紙本報紙還是線上網站，居民都可以輕鬆查閱。透過這份詳細的清單，青少年們可以和朋友相約體驗新鮮事，家人也能輕鬆找到適合全家大小一起參與的活動。指南的發布，讓當地的週末時光變得更加豐富多彩，也確實達到了它最初的目標：讓社區動起來，大家一起享受週末。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Your Weekend Guide: Fun Activities in Our Local Area by TAPinto",
-    "enContent": {
-      "basic": "TAPinto, a local media outlet, has published a special guide called 'Fun Things to Do in Our Local Area This Weekend.' This guide lists many exciting activities happening on Saturday and Sunday. It helps people in the community find fun events, like park days or sports games. This makes it easier for families and friends to plan their weekends and enjoy local activities.",
-      "intermediate": "To help residents plan their leisure time, TAPinto, a local media organization, has released a 'Weekend Fun Guide.' This report provides a comprehensive list of diverse activities available in the community on Saturday and Sunday. The guide covers everything from outdoor adventures, like community picnics and sports events, to indoor cultural experiences, such as art gallery visits and library programs. Its aim is to boost community engagement and support local businesses and organizations by making information easily accessible to everyone.",
-      "advanced": "Addressing the perennial question of weekend plans, local media outlet TAPinto has launched an comprehensive 'Weekend Fun Guide' for its community. This curated publication details a spectrum of activities scheduled for Saturday and Sunday, ranging from recreational outdoor events and sporting fixtures to cultural exhibitions and educational workshops. The initiative serves to consolidate disparate event information, thereby streamlining weekend planning for residents. Furthermore, it acts as a vital platform for local businesses, community groups, and non-profit organizations to promote their endeavors, fostering greater local participation and economic support within the area."
-    },
-    "vocabulary": [
-      {
-        "word": "local",
-        "zh": "當地、本地：指在自己住的地方或附近發生的事情，或是屬於那個地方的。"
-      },
-      {
-        "word": "community",
-        "zh": "社區：指一群住在同一個地方，彼此有聯繫和共同生活的人們所組成的團體。"
-      }
-    ],
-    "id": "t-5",
-    "type": "thematic",
-    "category": "趣味溫馨",
-    "tagClass": "tag-fun",
-    "region": "全球",
-    "date": "2026-10-04",
-    "sourceName": "TAPinto",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdEh2dndiTFhwMVN3ZUlUYmtBV3R4TEFYaTJHbUg4RTVLOUlXcks2V0J3T1N0eXJEejJFd25EdEg2YlhFS1BKS0tqTWJmY0NLTG1rampWSDhGcGFVZ2k3dmV5TVRBZm5JcUZBbjFJQXA0WV9yMkstS2I4NEF2Z2ZSWGxSNldmalo4SG51azFELUplcVhZTHlGLUtwSjNqV3daRXRmWDBGazZEbVhOajNuVjFybjFEbm1HdHhNcDRlQ3FPWUw3RHQ3MkJuUkVTMTBJUS1YUmlPMnFmZXpYT1E?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "俄亥俄參議院大戰：民主黨候選人如何爭取工人階級的心？",
-    "zhSummary": "美國俄亥俄州的一場重要參議院選舉正在激烈進行，民主黨候選人面臨的挑戰是，如何重新贏回過去曾是他們鐵票倉的「工人階級」選民的支持。",
-    "zhContent": "<p>美國政治圈最近很熱鬧，特別是在俄亥俄州，一場關鍵的參議院選戰正打得火熱。民主黨的候選人正卯足全力，目標是重新贏回那些傳統上曾是他們支持者的「工人階級」選民。這場選舉被認為是決定美國參議院未來權力版圖的關鍵戰役之一。</p><p>所謂「參議院待爭取」(up for grabs)，意思就是這場選舉的結果將會影響到哪個政黨能在美國參議院佔有主導地位，這對未來的立法方向影響重大。而在俄亥俄州，許多來自鋼鐵、汽車製造等傳統工業區的藍領工人家庭，他們在過去很長一段時間裡都是民主黨的堅定支持者。但近年來，這些選民的投票傾向卻發生了變化，不少人轉而將票投給了其他政黨。</p><p>因此，這名民主黨候選人目前最艱鉅的挑戰，就是如何再次打動這些工人階級的心。他需要展現出能真正理解並解決他們生活中實際困難的能力，例如提供更多好的工作機會、改善薪資福利，以及如何讓大家的生活開銷不再那麼沉重。這不只是一場單純的政治競爭，更是一場深層的溝通與信任建立，考驗著候選人與選民之間的情感連結。</p><p>這場牽動全國目光的選戰仍在如火如荼地進行中。民主黨候選人正透過各種宣傳和政策承諾，努力爭取這些「關鍵少數」的支持。最終的選舉結果，不僅會影響美國參議院的未來運作，也將展現俄亥俄州選民對於當前政治走向的集體選擇。新聞報導到這裡，沒有對結果做出預測，就讓我們靜觀其變。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Ohio's Senate Battle: Can Democrats Win Back Working-Class Voters?",
-    "enContent": {
-      "basic": "A very important U.S. Senate election is happening in Ohio. A Democrat candidate is working hard to get votes from working-class people again. These voters used to support the Democratic party but have started voting for other parties recently. The candidate needs to show they can help with jobs and better pay. This election will decide which party controls the Senate, and it is still going on.",
-      "intermediate": "A critical U.S. Senate race is underway in Ohio, where a Democratic candidate is actively trying to regain the support of the working-class electorate. This election is crucial because its outcome will determine which political party holds the majority in the Senate. Historically, many blue-collar workers in industrial areas of Ohio were strong Democratic supporters, but their voting patterns have shifted in recent years. The candidate's main challenge is to reconnect with these voters by addressing their concerns about job opportunities, wages, and the cost of living. This ongoing election will significantly impact the balance of power in the U.S. Senate and reflect Ohio's political direction.",
-      "advanced": "The political landscape in Ohio is currently dominated by a fiercely contested U.S. Senate election. A Democratic nominee is engaged in a concerted effort to recapture the pivotal working-class vote, a demographic traditionally aligned with the party but whose allegiances have have wavered in recent electoral cycles. The significance of this race is underscored by its potential to tip the balance of power within the U.S. Senate. Historically, Ohio's industrial heartland, populated by blue-collar workers in sectors like manufacturing, constituted a robust Democratic base. However, a noticeable realignment has seen many of these voters gravitate towards other parties. Consequently, the Democrat's primary strategic imperative is to articulate compelling solutions to the everyday economic pressures faced by these families, encompassing issues such as job creation, wage growth, and cost of living. This campaign transcends mere political contestation; it represents a profound attempt to rebuild trust and resonance with a crucial segment of the electorate. The outcome of this high-stakes election, which remains ongoing, will not only dictate the future legislative agenda of the U.S. Senate but also offer a barometer of Ohio's political sentiment at a national level."
-    },
-    "vocabulary": [
-      {
-        "word": "Senate",
-        "zh": "參議院 (cān yì yuàn)：美國國會的其中一個重要部分，負責審查法律、任命官員等，類似我們學校裡的學生議會，但權力更大，權力也比眾議院大。"
-      },
-      {
-        "word": "Working Class",
-        "zh": "工人階級 (gōng rén jiē jí)：指的是主要透過勞力工作賺取薪水的人們，像是工廠裡的工人、服務業人員等，他們的收入通常比較固定，很重視工作穩定和福利。"
-      }
-    ],
-    "id": "r-1",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "北美洲",
-    "date": "2026-10-04",
-    "sourceName": "NPR",
-    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1ZTWHgtbmtQV0ZCcjJpNncxdWxCN21halZka092dFFMdE42ZkNhTlBENmh1WFpaSEpiZFdGTWRpOXRMZVFXRHNzejhKZXc4T2NJRmtXQTd1ZlptYVI0Tmh5VnpNQkwzQVF5a1plajFVN1VUQWwtLTdza240bDNZZFBtcXNCdUZ5eEFpZQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普推銷阿拉斯加天然氣，韓國為何卻步？",
-    "zhSummary": "美國前總統川普提議韓國投資阿拉斯加液化天然氣計畫，希望能促進美國能源出口。然而，韓國考量到現有合約、巨額投資及其他供應商等因素，目前態度保守，尚未做出決定。",
-    "zhContent": "<p>最近，美國前總統川普有個想法，他希望韓國能參與阿拉斯加的一個大計畫，那就是幫忙開發那裡的液化天然氣（LNG）。不過，韓國對這個提議表現得有點謹慎，似乎沒有立刻答應。這個消息引起了不少討論，因為這牽涉到兩國之間的能源合作和經濟利益。</p><p>那麼，川普為什麼會有這個提議呢？主要是因為美國阿拉斯加州擁有豐富的天然氣資源，而液化天然氣就是把天然氣變成液體，這樣就能更容易地用船運到世界各地去賣。川普可能希望透過這個計畫，讓美國能把更多的天然氣賣出去，同時也能為阿拉斯加帶來經濟發展。他或許覺得，如果韓國這個重要的能源消費國加入，對雙方都有好處。</p><p>但是，為什麼韓國會這麼猶豫呢？主要有幾個原因。首先，韓國已經跟其他國家簽訂了長期的天然氣購買合約，所以要改變現有的供應鏈並不容易。其次，建造和運營液化天然氣設施需要非常龐大的資金和時間，這是一個很大的投資。而且，韓國可能也會考慮到其他地區的供應商，像是中東或澳洲，它們的價格和穩定性也是考量的重點。簡單來說，韓國在做這麼大的決定前，必須非常仔細地評估。</p><p>截至目前，韓國官方對於是否參與這個阿拉斯加液化天然氣計畫，還沒有給出明確的答覆。他們表示會繼續審慎評估這個提案的利弊。所以，這個計畫目前還處於討論階段，並沒有任何確定的結果。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump Pitches Alaska LNG to South Korea, Seoul Remains Cautious",
-    "enContent": {
-      "basic": "Former US President Trump wants South Korea to help with a big energy project in Alaska. It's about 'LNG,' which is natural gas turned into liquid so it can be shipped easily. Trump thinks this could help the US sell more energy and boost Alaska's economy. But South Korea is being careful. They already buy gas from other places and it costs a lot of money to build new facilities. So, South Korea is still thinking about it and hasn't said yes yet.",
-      "intermediate": "Former US President Donald Trump has proposed that South Korea invest in Alaska's liquefied natural gas (LNG) project. The aim is for the United States to expand its energy exports and stimulate economic growth in Alaska. However, South Korea, a significant energy consumer, has expressed caution regarding the proposal. Its hesitation stems from existing long-term energy contracts with other suppliers, the substantial financial investment required for developing LNG infrastructure, and the need to evaluate competitive pricing from other global providers. The decision is complex, involving economic and geopolitical considerations for Seoul.",
-      "advanced": "The former U.S. President, Donald Trump, has reportedly urged South Korea to engage in the development of Alaska's liquefied natural gas (LNG) resources. This initiative is framed as a strategic move to bolster American energy independence and enhance export capabilities, simultaneously promising economic revitalization for Alaska. Seoul, however, has adopted a cautious posture. Key impediments include South Korea's existing portfolio of long-term LNG supply contracts, which complicates the integration of new major procurement agreements. Furthermore, the immense capital expenditure and protracted timelines associated with constructing and operating large-scale LNG facilities present significant financial and logistical hurdles. Geopolitical considerations and the competitive landscape of global LNG suppliers, including those from the Middle East and Australia, also factor into South Korea's deliberations, necessitating a thorough cost-benefit analysis before committing to such a substantial investment. No definitive agreement has been reached, with Seoul currently evaluating the proposal."
-    },
-    "vocabulary": [
-      {
-        "word": "LNG",
-        "zh": "「液化天然氣」的縮寫。它是一種經過特殊處理，變成液態的天然氣，這樣可以更容易地用船運送，就像把瓦斯裝進罐子裡一樣，方便從產地運到需要的地方使用。"
-      },
-      {
-        "word": "Cautious",
-        "zh": "「謹慎的」或「小心的」意思。當一個人很謹慎時，表示他在做決定或行動前會仔細考慮，不輕易下判斷，以免出錯。"
-      }
-    ],
-    "id": "r-2",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "南美洲",
-    "date": "2026-10-04",
-    "sourceName": "CNBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTVWWVQwekpCcXZuX0h4WW1QNk9XRnRvREc2QlNnX1otUDRONDVaZUZtajRtZU91bFdkTUVWc2laREdCZHpDQkdETUVET2hiVHpEZVFhN1UweVR2ZTRldU9QWkxfSXJad29UeFM3b3Z3SlRPazRoc2loaFJiM2VMOTZmbWN0UkJJUGgtbk95MnJwM251TTFja3hpVjk4N2d1R183T1F2bVLSAa4BQVVfeXFMUFZncF9hYXdTRHFaWG9PVnZIX3I5TTUtc2Zidi1sRWxOdnU3b3dQc2pIRDlqT1BhM1ROSnVGbWstdnZFU3d3MThyMkUtd0dsS05jZkpKNTM5VWlQUEoxQ05wQUI2MGNsdnhMSFRzbEVlTXYwSDVuWUo2bnhadlZRRktnaEVzWXVQUGg5MjdFbU14YXlLMF9iTmx5dnZqYVRUeWdBUFk1bUhYeGxUNm5R?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "雷諾汽車大手筆！百億歐元投資法國，力推電動車和平價車款！",
-    "zhSummary": "法國汽車巨頭雷諾（Renault）宣布，將在法國本土投入超過100億歐元，這筆巨額資金主要用於加速電動車（EVs）技術的發展，並生產更多大眾能負擔得起的實惠型汽車。此消息已由雷諾執行長親口證實。",
-    "zhContent": "<p>法國著名的汽車品牌雷諾（Renault）最近拋出了一個重磅消息，引起了全球車壇的關注！他們計畫在法國本土投入超過100億歐元，這筆錢簡直是天文數字，主要目標是大力發展電動車（EVs）和大家都能負擔得起的實惠型汽車。這個重要的決定，已經由雷諾的執行長親口證實，顯示出公司對未來發展的堅定決心。</p><p>這次大規模的投資，清楚地表明了雷諾對未來汽車市場的判斷與佈局。在全球環保意識日益高漲，以及各國政府積極推動能源轉型的趨勢下，電動車無疑是汽車產業的必經之路。雷諾希望透過這筆巨額投資，加速電動車技術的研發與生產，確保他們在綠色交通領域能保持領先地位。同時，考量到並非所有消費者都追求高價位的豪華車款，他們也特別強調將致力於開發更多「買得起的」平價電動車，讓環保出行不再是少數人的專利。</p><p>根據雷諾執行長的說法，這項龐大的投資將會用於多個面向。包括法國境內的汽車工廠將會進行全面的升級和轉型，導入更多自動化與智慧生產的設備；新一代的電池技術和電動車平台也會是研發的重點，以提升電動車的續航里程和充電效率。此外，這筆資金也將用於培訓員工，讓他們具備操作最新技術的能力。這些舉措不僅能讓雷諾的產品更具競爭力，也能為法國當地創造不少新的就業機會，推動經濟成長。</p><p>總的來說，這項超過100億歐元的投資計畫，是雷諾在全球汽車產業轉型浪潮中的一個重要策略。預計在未來幾年內，我們將會看到雷諾推出更多創新且實用的電動車款，特別是那些價格更親民的選擇。這不僅鞏固了雷諾在法國汽車製造業的龍頭地位，也為法國的汽車工業注入了一劑強心針，更預示著一個更環保、更普及的交通新時代即將來臨。新聞報導到此，就讓我們一起期待這些改變的發生吧。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Renault to Invest Over €10 Billion in France for EVs and Affordable Cars",
-    "enContent": {
-      "basic": "French car giant Renault announced a huge investment of over €10 billion in France. This money will be used to develop electric vehicles (EVs) and affordable cars. The CEO confirmed this plan, showing Renault's strong commitment to future car technology and making cars accessible to more people.",
-      "intermediate": "Renault, a leading French automaker, plans to invest more than €10 billion in its operations within France. This significant capital infusion is primarily aimed at accelerating the development of electric vehicles and expanding the production of affordable car models. The company's CEO confirmed this strategic initiative, highlighting Renault's proactive approach to the global shift towards electrification and sustainable mobility, while also focusing on market accessibility.",
-      "advanced": "Renault, the eminent French automotive corporation, has declared a substantial investment exceeding €10 billion to be deployed in France. This considerable allocation of capital is strategically designated for the vigorous advancement of electric vehicle (EV) technology and the expansion of its portfolio of cost-effective, affordable automobiles. The public announcement, validated by the CEO, underscores Renault's unwavering dedication to consolidating its competitive edge in the rapidly evolving global automotive sector, prioritizing both environmental sustainability and broader market accessibility."
-    },
-    "vocabulary": [
-      {
-        "word": "Invest",
-        "zh": "投資 (把錢或資源投入某件事，期望將來能有更好的發展或回報)"
-      },
-      {
-        "word": "Affordable",
-        "zh": "實惠 (指東西的價格不貴，大多數人都能負擔得起，不會造成經濟壓力)"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-10-04",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmFPZmFUa2VCS2V3LVd1STlzak4yVHdXd2VoMW9hbGg0T1JsdDd3WUdIQkkxWExLa3RvQ3hZTVdYYXA3T19MOGN0eDlpcU9xbC1VM0tZcF9Idm9IdnVBQkNkaG44S0lWLTV5bU5faDZVR1lhYndvY2lIWE9ZZjJ5eGRveW4xMzRlWklmTkhWZFc4TnowWkNtVkFRalI5d2hxY2d1YnpDNlJFb1dMcWE1aThScw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "南非排外風暴：奈及利亞移民的血淚回鄉路",
-    "zhSummary": "南非近期爆發針對外來移民的暴力抗議，許多奈及利亞人成為攻擊目標，導致生命財產嚴重損失，最終被迫離開南非回到家鄉。",
-    "zhContent": "<p>最近，南非發生了一系列嚴重的抗議活動，目標鎖定當地外來移民，特別是許多來自奈及利亞的居民。這些原本只是示威的活動，很快就演變成暴力的衝突，許多奈及利亞人在這波動亂中受到了影響。根據從南非回到家鄉的奈及利亞人描述，他們親身經歷了讓人心碎的時刻，甚至有人悲痛地說：「我們許多同胞都已經走了。」這句話點出了這次反移民浪潮的極端與背後血腥的衝突。</p><p>這些抗議行動的模式經常是從街頭示威開始，接著就迅速演變成針對移民社區的攻擊。抗議者會衝進外來移民經營的商店，進行打砸搶劫，燒毀他們的住家和交通工具。這次事件中，許多奈及利亞移民在南非辛辛苦苦建立的生意和財產都成了攻擊目標，讓他們在一夜之間失去所有。當地居民會認為，這些外來移民搶走了他們的工作機會，或是覺得他們導致了當地社會問題，因此產生不滿，才會走向街頭表達訴求。</p><p>事實上，南非長年以來都面臨著非常高的失業率和貧富差距問題。在這樣的大環境下，部分當地民眾便將自身的經濟困境和社會問題歸咎於外來移民，認為他們是搶奪稀缺資源的元兇。來自奈及利亞的移民表示，他們在南非努力工作、守法經營，卻常常成為這種排外情緒的代罪羔羊。許多從南非被迫返回奈及利亞的人，在接受媒體訪問時，都沉痛地提到他們在暴力中失去了親人、朋友，或是辛苦建立的一切財產被毀，不得不空手回到家鄉。</p><p>由於這次劇烈的排外暴力事件，奈及利亞政府已緊急派出多架飛機，協助滯留在南非的本國國民撤離，將他們安全送回奈及利亞。這使得許多人被迫放棄了他們在南非的一切，只帶著僅存的少量物品，甚至是身無分文地離開。這起事件不僅造成了嚴重的生命財產損失，也在南非與奈及利亞兩個非洲大國之間，引發了不小的外交緊張關係，讓雙方關係陷入低谷。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Anti-Migrant Protests Rock South Africa: Nigerian Returnees Share Harrowing Experiences",
-    "enContent": {
-      "basic": "South Africa saw protests against migrants, especially Nigerians. Protesters attacked shops and homes. Many Nigerians had to leave and go back home. Some said their people died in the violence.",
-      "intermediate": "Recent anti-migrant protests in South Africa turned violent, targeting Nigerian residents and their businesses. Locals cited unemployment as a reason for their anger. Many Nigerians, after losing loved ones and property, were forced to repatriate. This has caused tension between South Africa and Nigeria.",
-      "advanced": "South Africa has been gripped by a wave of xenophobic protests, specifically targeting migrant communities, predominantly Nigerians. These demonstrations escalated into violent attacks, leading to the destruction of property and loss of life, as reported by Nigerian returnees. Underlying these tensions are South Africa's high unemployment rates, with some locals blaming migrants for economic woes. The Nigerian government has initiated repatriation efforts for its citizens, exacerbating diplomatic strains between the two nations."
-    },
-    "vocabulary": [
-      {
-        "word": "migrant",
-        "zh": "移民 (yí mín) – 指離開自己的國家到別的國家居住、工作的人。"
-      },
-      {
-        "word": "xenophobia",
-        "zh": "排外情緒 (pái wài qíng xù) – 指對外國人或來自其他文化的人產生不信任、厭惡或恐懼的感受。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-10-04",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGM3N4Vkp5c0gxMWRlaERMbjZUTGtHdkp3WmNzekxWa1NfaXZLSUExRHZvaUJHWjIzR3kwRXZzcTVzMjFQVFh5RThhczlETUdnNkdjdzEtc0JvdHIxTmfSAWNBVV95cUxNZHQyWm53LWl2bUdVR0ZqVHNnbEtEVTBCTFBfUmYxbExzeHowYURzeGl0OUZUck5aalh0emtDUU5LRTBnXzExRE5uTlVKSWRsN3R4c19rV1F3NHp1SU43VldYYzg?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "紅海航運危機：沙烏地阿拉伯計畫出手對抗青年運動",
-    "zhSummary": "沙烏地阿拉伯正準備對葉門的青年運動組織採取軍事行動，以解除該組織對紅海航運的威脅，確保這條重要海上通道的暢通與安全。",
-    "zhContent": "<p>沙烏地阿拉伯最近傳出正準備採取一項重要行動。新聞報導指出，他們計畫對葉門的『青年運動』組織發動攻擊，目標是解除青年運動對紅海航運的『窒息性控制』。這代表什麼呢？簡單來說，紅海是一條對全球貿易非常重要的海上通道，許多貨物和石油都會從這裡經過。而『青年運動』的某些舉動，讓這條航道變得不安全，限制了船隻的自由通行。</p><p>根據國際通訊社路透社的報導，沙烏地阿拉伯政府正研擬一項軍事行動，希望能解決青年運動在紅海地區造成的航運威脅。這項計畫的核心目的，是確保國際船隻能夠安全無虞地在紅海通行。青年運動被指控曾對經過紅海的船隻進行威脅或攻擊，導致許多航運公司不敢冒險使用這條路線，這讓全球物資運輸面臨挑戰。</p><p>紅海作為連接歐洲、亞洲和非洲的重要海上動脈，一旦出現問題，會直接影響到全球的供應鏈與經濟運作。如果航運長期受阻，貨物運送的時間和成本會大幅增加，甚至可能波及到各國的日常生活用品價格。沙烏地阿拉伯考慮採取『攻擊』，正是因為他們判斷青年運動的行為已經嚴重破壞了紅海地區的穩定，對國際海上安全構成威脅。</p><p>目前，這項對青年運動的行動仍處於沙烏地阿拉伯的『計畫』階段。這表示相關準備工作正在進行，但實際的軍事部署或衝突尚未發生。路透社的這則報導，揭示了沙烏地阿拉伯有此意圖與準備。全球各界目前都高度關注此事的後續發展，期待這場因紅海航運安全而起的緊張情勢，未來將如何演變。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，沙烏地阿拉伯為什麼想在紅海採取行動？『青年運動』又扮演了什麼角色？",
-      "生活與未來：你覺得紅海航運的安全問題，會對我們日常生活中的哪些事情產生影響？",
-      "獨立思考提案：針對這種區域性的衝突可能造成的全球影響，你認為國際社會可以怎麼做會更好？"
-    ],
-    "enTitle": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
-    "enContent": {
-      "basic": "Saudi Arabia is reportedly planning military action against the Houthi group in Yemen. The goal is to end the Houthis' control over shipping in the Red Sea, an important global trade route. This 'chokehold' makes it unsafe for ships to pass, impacting world trade.",
-      "intermediate": "Reuters reported that Saudi Arabia is preparing an 'assault' on the Houthis to break their 'chokehold' on the Red Sea. The Red Sea is a vital maritime passage for global commerce. The Houthis' actions have been disrupting shipping, leading Saudi Arabia to plan an intervention to ensure safe passage for vessels.",
-      "advanced": "Saudi Arabia is reportedly planning a military intervention against the Houthi movement in Yemen, aiming to dismantle their strategic 'chokehold' over the Red Sea, a critical international maritime corridor. The proposed 'assault,' as reported by Reuters, seeks to restore unimpeded navigation and security for global shipping, which has been jeopardized by alleged Houthi threats and attacks on vessels transiting the vital waterway linking Europe, Asia, and Africa."
-    },
-    "vocabulary": [
-      {
-        "word": "chokehold",
-        "zh": "窒息性控制：原本指掐住脖子讓人無法呼吸的動作，這裡則用來形容對某個重要通道或情況的完全控制，讓對方無法自由行動。"
-      },
-      {
-        "word": "assault",
-        "zh": "攻擊：指發動武力或暴力進攻的行為。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-10-04",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "川普揭密：美韓協議藏84億美元石油恢復金",
-    "zhSummary": "美國前總統川普近日表示，美國與南韓的一項協議中，包含一筆 84 億美元用於石油恢復的款項，由路透社報導。",
-    "zhContent": "<p>美國前總統川普最近對外透露了一項關於美國與南韓之間協議的重要細節。他指出，在這份協議當中，有一筆高達 84 億美元的資金，是特別規劃用來進行「石油恢復」相關工作的。這個消息是由知名的國際媒體路透社所報導的，讓大家對這份跨國協議有了新的認識。</p><p>川普表示，這筆龐大的款項是協議的一部分，專門針對石油的相關作業。雖然他沒有進一步解釋這「石油恢復」具體包含哪些內容，例如是開採新的油源、維護現有的油井，還是為了確保戰略儲備等，但他很明確地指出了這 84 億美元的用途。這代表美國與南韓的合作範疇，可能比一般人想像的還要廣泛。</p><p>過去，美國與南韓之間經常就經濟合作、貿易往來以及共同防禦等議題進行談判與協議。而這次，川普特別提出這筆用於「石油恢復」的巨額費用，無疑是這份協議中一個引人注目的焦點。這項細節的揭露，讓外界開始關注這份協議背後更深層的戰略或經濟考量。</p><p>因此，這則新聞的重點非常明確：美國前總統川普公開說明，美國與南韓之間簽訂的一份協議裡，包含了一項金額達 84 億美元的項目，其唯一目的就是用於與石油恢復有關的事務。目前所有公開的資訊，都停留在這個客觀事實的陳述上。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Trump Reveals $8.4 Billion for Oil Recovery in US-South Korea Deal",
-    "enContent": {
-      "basic": "Former U.S. President Trump said recently that a deal between the United States and South Korea includes $8.4 billion. This large sum of money is for 'oil recovery.' Reuters news agency reported this. Trump shared this detail about the agreement.",
-      "intermediate": "Former U.S. President Donald Trump recently disclosed a specific detail about an agreement between the United States and South Korea. He stated that this deal features a component worth $8.4 billion, specifically earmarked for 'oil recovery' operations. This information was reported by Reuters, shedding light on a particular aspect of the bilateral agreement.",
-      "advanced": "Former U.S. President Donald Trump recently articulated a heretofore undisclosed component of an existing or forthcoming accord between the United States and South Korea. He specified that this bilateral arrangement encompasses a provision for $8.4 billion, exclusively allocated for endeavors pertaining to 'oil recovery.' This particular revelation, disseminated via Reuters, underscores a potentially significant, though presently underspecified, dimension of the strategic and economic cooperation between the two nations."
-    },
-    "vocabulary": [
-      {
-        "word": "recovery",
-        "zh": "油料恢復/開採 - 當我們說「恢復」石油，可以指把地底下的石油挖出來，或是讓油田的生產力變好，找回之前沒用到的石油。"
-      },
-      {
-        "word": "deal",
-        "zh": "協議/交易 - 就像你跟朋友約定好一起做什麼事，或是買賣東西時的約定。在這裡是指美國和南韓之間，雙方同意的一份合作方案或協定。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-10-04",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpSdDRDc2MzeVQ0R28ycC03cXdDVTBvUGN0WTh3eGJSQ0I4UEN1Sk1PSzQ4NjF2QjVRTVhXbnMtN2JFSWxrUGtlTDhoNTRMVUZpTS1KT2xVcGh3czdZN0loQnNDb1d4UXVJMllkTk00cXhrUHNRbHpnakhJSGJ3OVRCRjA2QloydDZILUQyTl9UaFc5aHlmVjVYZWRBbUE4dXp4Q0ZfWEdGdEp1cTRLeXkxNVdvNFBObDVWd3hmWUtfZw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "城市巨型地標：為誰而蓋？華麗外表與實用需求的大哉問",
-    "zhSummary": "全球各地的高樓大廈和獨特建築如雨後春筍般出現，引發了「這些建築究竟是為居民生活著想，還是只為了追求城市聲望和吸睛度？」的討論。",
-    "zhContent": "<p>近年來，許多城市都卯足全力，希望蓋出最特別、最吸睛的建築，來展現自己的實力與特色。從超高摩天大樓、造型奇特的博物館，到新穎的音樂廳，這些建築常常變成城市的代表，出現在明信片上，甚至成為大家爭相打卡的熱點。不過，最近國際間開始出現一個重要的討論：這些花了好多錢蓋出來的建築，到底是真的為了住在這裡的人們好，還是只是為了讓城市看起來很厲害，很有「面子」？</p><p>為了追求獨特和壯觀，有些建築師和城市規劃者會設計出前所未有的造型，使用非常昂貴的材料，或是創造出挑戰地心引力的結構。這些建案常常在國際上引起話題，吸引媒體報導，也讓城市管理者覺得很有成就感。它們成了城市「門面」的一部分，甚至希望藉此吸引更多觀光客和投資，進一步提升城市的國際地位和經濟發展。</p><p>會有這樣的發展，是因為許多城市都希望能提升自己的國際知名度，展現經濟實力。他們認為，擁有幾個世界級的標誌性建築，能讓城市看起來更現代、更有活力。不過，也有不少建築評論家、都市規劃師和普通市民開始質疑，這些光鮮亮麗的建築，是不是真的能解決城市居民的實際問題，例如提供更多大家負擔得起的住宅、舒服的公園綠地，或是更方便的交通系統？他們擔心，過度追求外觀的建築，可能會忽略掉居住的實用性和人們真正的生活需求。</p><p>這場關於建築目的的討論，現在正變得越來越熱烈。全球各地對於城市建築的期望，不再只是外觀的華麗與獨特，而是開始更加關注這些建築能否真正提升居民的生活品質、提供充足的公共空間，以及如何更好地服務整個社區。這股新的思潮，促使建築界和都市規劃者重新思考，如何在追求宏偉設計的同時，也能兼顧人們的實際需求。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「為人」與「為聲望」的建築，兩者之間的主要差異是什麼？",
-      "生活與未來：你覺得這個關於建築目的的討論，最終會如何影響我們未來住的城市和使用的公共空間？",
-      "獨立思考提案：如果由你來決定一個新地標的興建，在考慮了「為人」與「為聲望」後，你會如何規劃或平衡兩者的需求？"
-    ],
-    "enTitle": "Architecture: For People or for Prestige? A Global Debate",
-    "enContent": {
-      "basic": "Cities around the world are building amazing, unique buildings. But some people are starting to ask if these buildings are really for the people who live there, or if they're just to make the city look famous. It's a big question about what kind of buildings we should have in our cities.",
-      "intermediate": "A growing debate is questioning the purpose of modern architecture. Many cities invest heavily in iconic skyscrapers and unique cultural landmarks, aiming for global recognition and economic growth. However, critics argue that this pursuit of 'prestige architecture' often overshadows the fundamental needs of residents, like affordable housing or accessible public spaces, raising concerns about whether buildings truly serve the community or merely enhance a city's image.",
-      "advanced": "The discourse surrounding contemporary urban development increasingly confronts the dichotomy between architectural innovation driven by prestige and designs rooted in human-centric functionality. As metropolises worldwide compete for global standing through monumental, often architecturally audacious structures, a critical examination emerges regarding the efficacy of these projects in addressing societal needs versus their role as symbols of power or economic prowess. This debate underscores a paradigm shift in urban planning philosophy, advocating for more equitable, sustainable, and community-integrated architectural solutions over purely aesthetic or iconic endeavors."
-    },
-    "vocabulary": [
-      {
-        "word": "Prestige",
-        "zh": "聲望、威望。指的是因為擁有特別的成就、財富或地位，而受到很多人尊敬和佩服的感覺。在建築上，可以指一座建築物因為它的宏偉、獨特或造價高昂而為城市帶來的榮譽感。"
-      },
-      {
-        "word": "Architecture",
-        "zh": "建築學、建築。這是一個關於如何設計和建造房屋、大樓等結構的學問和藝術。它包含了建築物的規劃、設計、施工以及其對環境和人們生活的影響。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-10-04",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzQ4MU4xaU5oZkJKalNUT2RYQm1Ydi14d2tOcVY3cDlhWEVXNnZVYllBWWtQUFJfU0pYLTkzNVR4ZGJXTlpWc3hjU29qSmExcG9pU2oxZ2lPYk1BWjBiLVFGRGdBUi1BUkxhUFJFbWRCbDhKb2JGS1pUVk1ta2VwWjlMZ0hCY1FLd3duNHVuWGVlNGpIRTBr?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋島國的「氣候時刻」：貴賓稀疏的會前會，呼籲全球聽見危機",
-    "zhSummary": "太平洋島國最近舉辦了一場重要的氣候變遷會前會，希望在聯合國氣候大會（COP）前，團結發聲，讓世界看見他們面臨海平面上升等威脅。然而，外媒指出，會議的貴賓名單稀疏，許多大國的重要人物並未出席，這讓他們推動氣候行動的努力面臨挑戰。",
-    "zhContent": "<p>你最近有沒有注意到，太平洋的一些小島國家，正為氣候變遷問題忙碌著？最近，他們舉辦了一場在國際氣候大會前的預備會議，也就是「會前會」。對這些國家來說，這是一個關鍵的「氣候時刻」，因為他們急著想讓全世界知道，氣候變遷對他們造成多大的威脅。然而，外媒報導指出，這場會議的「貴賓名單」卻顯得稀疏，沒有很多大國的重要人物出席。</p><p>所謂的「會前會」，你可以把它想像成是大型活動前的籌備會議。每年聯合國都會舉辦一個超大型的全球氣候高峰會，簡稱「COP」。太平洋島國的這場會前會，目的就是希望在正式的COP會議上，可以團結起來，讓他們的聲音被聽見。這些島嶼國家正面臨著海平面上升、極端天氣事件越來越頻繁的威脅，這些問題嚴重影響他們的生活和家園。</p><p>外媒報導中提到的「貴賓名單稀疏」，意味著那些在解決氣候變遷問題上最有影響力的大國，或者碳排放量多的國家，可能沒有派出高級代表來參加這次的太平洋島國會前會。這讓許多人擔心，如果沒有這些重要國家的支持和關注，太平洋島國的訴求，也就是他們希望全球能更積極減碳、提供幫助的願望，可能很難在正式的COP會議上得到足夠重視。</p><p>因此，儘管太平洋島國們努力爭取這次的「氣候時刻」，希望團結發聲，讓全球看見所面臨的危機，但由於重要貴賓的缺席，他們想推動更強而有力的氣候行動，可能還會面臨不少挑戰。這場會前會雖然提供了一個發聲平台，但實際效果，還得看後續國際COP大會的發展，才能知道他們的努力是否能被真正聽見。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，太平洋島國舉辦「會前會」的主要目的是什麼？為什麼「貴賓名單稀疏」會讓他們擔心？",
-      "生活與未來：你覺得如果氣候變遷繼續惡化，這些太平洋島國的人民可能會遇到什麼實際困難？",
-      "獨立思考提案：針對這則新聞提到的問題，你覺得國際社會還可以怎麼做，才能更好地幫助這些面臨氣候威脅的島國？"
-    ],
-    "enTitle": "Pacific Islands' Climate Moment: Pre-COP Meeting with Thin Guest List Highlights Urgent Crisis",
-    "enContent": {
-      "basic": "The Pacific Islands are facing big problems because of climate change. They held a special meeting before a huge global climate conference called COP. They wanted to tell the world how climate change is affecting their homes, like rising sea levels. But not many important leaders from big countries came to their meeting. This makes it harder for them to get help and make big changes happen.",
-      "intermediate": "The Pacific Islands recently convened a \"pre-COP\" meeting, a preparatory session ahead of the larger United Nations climate change conference (COP). For these island nations, which are highly vulnerable to rising sea levels and extreme weather, this meeting was a crucial moment to amplify their concerns and advocate for stronger global action. However, reports indicate that the guest list for this significant gathering was sparse, with many major nations failing to send high-level representatives. This limited attendance raises concerns about the Pacific Islands' ability to secure the necessary attention and commitments from influential countries at the main COP event, potentially hindering their efforts to push for more robust climate solutions and support.",
-      "advanced": "Pacific Island nations recently held a critical \"pre-COP\" meeting, a precursor to the United Nations Climate Change Conference (COP), aiming to consolidate their stance and articulate the severe impacts of climate change on their vulnerable communities. This gathering represented a pivotal moment for these states, which are disproportionately affected by phenomena such as sea-level rise and intensified extreme weather events, to garner international support and drive concrete mitigation efforts. Disappointingly, the guest list for this crucial forum was notably thin, with key high-emission nations and influential global powers exhibiting limited representation. This lack of high-level engagement poses a significant challenge to the Pacific Islands' collective advocacy, potentially diminishing their leverage and the urgency of their demands for more ambitious climate action and financial assistance during the principal COP negotiations."
-    },
-    "vocabulary": [
-      {
-        "word": "COP",
-        "zh": "締約方會議：這是聯合國每年會舉辦的一個全球性大會，各國的代表會聚在一起討論如何應對氣候變遷，並制定相關的政策和目標。"
-      },
-      {
-        "word": "Vulnerable",
-        "zh": "脆弱的／易受攻擊的：指某事物很容易受到傷害或影響。在這則新聞中，太平洋島國因氣候變遷，特別容易受到海平面上升或極端天氣的影響，所以說他們很脆弱。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-10-04",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFU3VE4tWktZV1p6MkcyTzdoMjZreEhDUTdYTGV2VWhxUTZDVnVtQlBLcGtZUjA1Nm14QjVxc2FYOVkwWEpZRjJEN3kxcDRINnoyU0pyeE5hOHdVdVRBTFZIc0hYSTVPVnN2RUw5elpRMTJwMlhsSjlpTmhDRGt0RjZMTHZEVnU4dTJLV1h5N2p6bEJmeEx5U19oRVZpc0dQX0xGUEVndlJxVkRVQXc3em04VjQtMU9QZWgwTTN5bmx5bEtnNlhHeER4anozaGto?oc=5",
     "isFeatured": false
   }
 ]
