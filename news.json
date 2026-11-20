@@ -1,5 +1,425 @@
 [
   {
+    "zhTitle": "APEC和平宣言：美中俄大咖聚首，世界期待什麼？",
+    "zhSummary": "在今年的APEC峰會上，美國、中國和俄羅斯這三大國家的領導人齊聚一堂，共同發表了一份重要的「和平宣言」。這份宣言象徵著即使各國之間存在分歧，仍願意努力尋求共同點，為全球的穩定與合作注入新的可能。",
+    "zhContent": "<p>這次要跟大家聊一個最近很重要的國際會議，叫做APEC。APEC全名是「亞洲太平洋經濟合作組織」，每年都會有好多國家的領導人聚在一起，討論怎麼讓大家經濟變好、合作更順利。今年的APEC會議很不一樣，因為美國、中國和俄羅斯這幾個全球重量級的國家，他們的領導人也都在場。最引人注目的是，他們共同發表了一份「和平宣言」，讓整個國際社會都非常關注。</p><p>什麼是「和平宣言」呢？簡單來說，就是這些國家透過這次會議，共同發出了一個希望能夠減少衝突、促進世界和平與穩定的公開聲明。這份宣言的出現，代表即使這些國家在很多事情上有不同的看法，甚至有些緊張關係，他們還是願意坐下來好好談，尋找能達成共識的地方。會議期間，各國領導人可能針對貿易、氣候變遷，還有一些地區的紛爭交換了意見，目標是讓大家可以有更多合作的機會。</p><p>為什麼美中俄這三個國家的參與特別重要呢？因為它們在國際上都扮演著非常關鍵的角色，它們之間的關係常常會影響到全球的穩定。當這三個國家能夠共同發表一個關於和平的宣言時，通常會被視為一個積極的訊號，表示大家至少在某些層面上，都希望能夠維持世界的和平，避免更嚴重的衝突發生。這也意味著，儘管大家各有各的考量，但都理解合作比對抗更重要。</p><p>這份「和平宣言」的發表，可以說是這次APEC會議一個非常大的成果。它展現了世界主要大國在面對一些全球性挑戰時，仍有共同努力的意願。至於究竟誰是這次會議的「最大贏家」，這就不是一個單純的問題了。不同的國家或團體，可能會從宣言中看到對自己有利的部分，或者將其視為一個促進全球對話和合作的機會。這次會議的焦點，可能更多在於促成這樣一個共同聲明的出現，為未來的國際關係奠定一個基礎。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "APEC Peace Declaration: US, China, Russia Gather, What Does the World Expect?",
+    "enContent": {
+      "basic": "At this year's APEC summit, leaders from the United States, China, and Russia gathered and issued a significant 'peace declaration.' This declaration symbolizes that even with differences, these nations are willing to seek common ground for global stability and cooperation.",
+      "intermediate": "The APEC summit saw key world leaders, including those from the US, China, and Russia, issue a joint 'peace declaration.' This move is seen as an important step towards easing tensions and promoting cooperation among major powers, despite existing disagreements on various global issues. The declaration signifies a collective desire for peace and stability.",
+      "advanced": "Amidst geopolitical complexities, the recent APEC summit garnered international attention as the United States, China, and Russia collectively issued a 'peace declaration.' This joint statement, emerging from a gathering of global powerhouses, underscores a shared commitment to de-escalation and collaborative approaches to global challenges, reflecting a nuanced diplomatic effort to forge common ground despite inherent divergences."
+    },
+    "vocabulary": [
+      {
+        "word": "APEC",
+        "zh": "亞太經濟合作組織。這是一個讓亞洲太平洋地區的國家領導人聚在一起，討論經濟合作、貿易、投資等重要議題的國際組織。"
+      },
+      {
+        "word": "Summit",
+        "zh": "峰會。這個字通常是指由國家或政府的最高領導人參加的「最高層級會議」，大家會聚在一起討論非常重要的事情。"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-11-20",
+    "sourceName": "天下雜誌",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SWTk0cmlvMXNKcGZ6LUZoTUFwWENZa1ZXRWUtb1ItUUdxaDZ1d2hGVnk2T291eFk2S085d3hUY1hBNnktdE52bkhtQUlCUQ?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "氣候行動升級中！「淨零排放」還不夠？全球新共識浮現",
+    "zhSummary": "全球為了應對氣候變遷，長期以「淨零排放」為主要目標。但最近，有越來越多專家和媒體指出，光是達到淨零可能已不足以應對氣候變化的速度和嚴重性。現在的討論焦點轉向，除了淨零之外，我們還需要更積極、更快速的行動來實際減少溫室氣體，並更全面地應對環境挑戰。",
+    "zhContent": "<p>我們要來聊一個最近大家都在討論，但可能聽起來有點複雜的話題：「淨零排放」。你可能聽過它，它指的是我們希望地球的溫室氣體排放量，可以跟移除量達到平衡，這樣大氣中的這些氣體就不會一直增加，地球也就不會持續發燒。過去幾年，世界各國和許多大企業都把「在某個時間點達到淨零排放」當成一個非常重要的目標，好像只要做到這點，就能解決氣候變遷的問題。但最近，有越來越多的專家和媒體開始提出一個新的看法：淨零排放雖然很重要，但光是它可能已經不夠了。</p><p>為什麼會說「不夠」呢？原因其實不難理解。雖然各國都在努力設定淨零目標，也做出了一些承諾，但地球的溫度上升速度卻比預期的還要快。氣候變遷帶來的極端天氣事件，像是熱浪、乾旱、暴雨，也越來越頻繁和嚴重。有些科學家擔心，即使我們都達成了淨零排放的目標，可能也來不及把全球升溫控制在最危險的程度以下。這不是說淨零不重要，而是我們實現目標的速度和方式，可能需要更有效率、更積極，甚至要加上其他的策略。</p><p>外國媒體的評論就指出，過去大家對淨零的理解，有時太過於依賴未來的技術，例如大規模捕捉空氣中的二氧化碳，或是寄望於大規模種樹來吸收碳。但這些技術的發展速度和實際效果，可能趕不上氣候變遷的速度。另外，一些國家或企業可能在設定淨零目標時，計算方式不夠全面，或是將排放量轉移到其他地方，而不是真正減少總量。因此，現在有聲音認為，我們必須更專注於「實實在在」地減少溫室氣體排放，而且要「快」。這意味著可能要更快地淘汰化石燃料，轉向再生能源，並在各行各業中推動更根本的綠色轉型。</p><p>所以，現在關於氣候行動的討論，已經從「要不要達到淨零」進化到「如何更快、更有效地達到淨零，以及除了淨零之外，我們還需要做些什麼」。世界各地的氣候會議和專家們都在重新思考，該如何制定更全面、更實際的行動計畫。淨零排放仍然是全球共同努力的方向，但它現在被視為一個「基礎目標」，而不是解決所有氣候問題的唯一答案。這場關於氣候行動的討論還在持續，大家都在尋找更積極、更快速的方法，來應對這個全球性的挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Climate Action Upgrade: Is \"Net Zero\" Still Enough? A New Global Consensus Emerges",
+    "enContent": {
+      "basic": "Net zero emissions is a big goal for fighting climate change. It means we want to balance the gases we put into the air with the gases we take out. But some experts are now saying that just reaching net zero might not be enough anymore. They think we need to do more, and do it faster, because the Earth is warming up quickly, and we see more bad weather events. The discussion is now about what *else* we can do to really make a difference, not just net zero.",
+      "intermediate": "For years, 'net zero emissions' has been the leading strategy for countries and companies to combat climate change, aiming to balance greenhouse gas output with removal. However, a growing number of experts and media outlets are now suggesting that while essential, net zero might no longer be sufficient. The concern stems from the accelerating pace of global warming and increasing severity of extreme weather events, which indicate that current approaches and timelines for achieving net zero may be inadequate. The conversation is evolving towards a demand for more aggressive and immediate emission reductions, alongside existing net zero pledges, and a more comprehensive set of climate actions beyond mere offsetting.",
+      "advanced": "The global discourse on climate action is undergoing a significant re-evaluation, moving beyond the singular focus on 'net zero emissions' as the ultimate panacea. While net zero, signifying a balance between anthropogenic greenhouse gas emissions and removals, remains a foundational objective, a consensus is emerging among climate scientists and commentators that it is, by itself, no longer sufficient to avert catastrophic global warming. This shift is driven by the observed acceleration of climate impacts, the slower-than-anticipated development and deployment of carbon removal technologies, and concerns regarding the robustness and comprehensiveness of current net zero pledges. The imperative now extends to front-loading deep, absolute emission reductions across all sectors and exploring complementary, more rapid decarbonization strategies to meet critical climate thresholds."
+    },
+    "vocabulary": [
+      {
+        "word": "Net zero",
+        "zh": "淨零排放 (Jìng líng pái fàng) - 指的是將人類活動產生的溫室氣體排放量，透過各種方式減少到最低，並將剩餘的排放量透過技術或自然方法（例如種樹）從大氣中移除，達到「排放量和移除量互相抵消」的平衡狀態，讓地球大氣中的溫室氣體不再增加。"
+      },
+      {
+        "word": "Commentary",
+        "zh": "評論 (Píng lùn) - 指的是針對某個新聞事件或議題，提出看法、分析和解釋的文章。它通常會提供作者對於事情的觀點，而不只是單純報導事實。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-11-20",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTBzMG5uQ2VXMEF2a0VoUmJ5bzNybDJHcUpxbUZvU0Fvamd5YmVNczNPaVJMTWUtWHhMcHBVSGlaQlRDZG9lRUVGNzUxWGVXcXZDLTV2N0JGOXE5NU5hNl8zOWtMUHhucWlxNy1UaU1sRDd4NHc0VXZrdm1lVG5zdWdHTktvRzhZRlJENEZEQUFIbzBITG1qenNiMTJIa0o5cXhnazBHQTV3NzdmWUdiU282NXJCY1lp?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "英國「單一性別空間」爭議延燒，官方呼籲大家「冷靜一下」！",
+    "zhSummary": "英國的平權機構正針對「單一性別空間」的指引草案進行討論，但各方意見非常兩極。機構負責人出面呼籲大家理性溝通，希望降低這場熱議的「溫度」。",
+    "zhContent": "<p>嘿，同學們！你們有沒有聽說英國最近有個新聞，搞得大家討論得很熱烈，甚至有點火藥味呢？原來，是英國的「平等與人權委員會」（Equality and Human Rights Commission, EHRC）正在處理一個關於「單一性別空間」的指引草案，結果引起了不小的爭議。而這個機構的負責人呢，就出來呼籲大家，希望這場討論可以「降溫」，用更平靜、更理性的態度來面對這個議題。</p><p>那什麼是「單一性別空間」呢？簡單來說，就是只允許單一性別的人進入的場所，像是女生的更衣室、公共廁所，或是專門為受暴婦女提供的庇護所等等。EHRC之所以要提出這個指引，就是為了要幫助各個機構和團體，在現行的法律框架下，搞清楚這些空間到底該如何運作，誰可以進入，誰又不能進入。但因為這個議題觸及到非常多人的權益和感受，所以討論的氣氛從一開始就很緊張，讓各方意見都爭鋒相對。</p><p>這場爭論的核心，其實是關於如何平衡不同群體的權利。一方面，有些團體非常堅定地認為，為了保障生理女性（也就是出生時就是女性的人）的安全和隱私，某些單一性別空間必須維持其專屬性，不能讓其他性別的人進入。但另一方面，也有許多人主張，所有性別認同的人，包括跨性別人士，都應該有權使用符合他們性別的空間，不能因此被排除在外。EHRC的負責人就是在這樣兩極化的意見中，試圖扮演一個橋樑的角色，希望大家不要情緒化，而是能好好坐下來，聽聽彼此的顧慮和想法。</p><p>目前，這份關於「單一性別空間」的指引草案還在討論和制定當中，還沒有一個最終的定案。EHRC負責人出面呼籲「降溫」，就是希望大家能給這個複雜的議題多一點思考的空間，不要讓激動的情緒影響了理性的判斷。他們期待，最終能提出一份既符合法律規定，又能盡量公平地兼顧到所有相關群體需求的指引。所以囉，這場討論還沒有結束，英國各界也還在努力尋找一個大家都比較能接受的平衡點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「單一性別空間」指的是什麼？而這個議題為什麼會在英國引起這麼大的爭議？",
+      "生活與未來：你覺得這個關於「單一性別空間」的規定如果定案，可能會對你或你身邊的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "UK Equalities Body Urges Calm in Single-Sex Spaces Debate",
+    "enContent": {
+      "basic": "The head of the UK's equalities body wants people to calm down when discussing rules for single-sex spaces like changing rooms. This topic has caused heated arguments, and they are asking for a more rational approach.",
+      "intermediate": "The head of the UK's Equality and Human Rights Commission (EHRC) has urged for a calmer discussion regarding official guidance on single-sex spaces. This guidance aims to clarify how organizations should manage places like women's changing rooms or shelters, which has become a sensitive topic due to differing views on gender identity and safety.",
+      "advanced": "Kishwer Falkner, head of the UK's Equality and Human Rights Commission (EHRC), has called for a de-escalation of the often contentious debate surrounding forthcoming official guidance on single-sex spaces. The guidance seeks to provide legal clarity for organizations regarding the provision and management of spaces designated for one sex, such as changing rooms and women's refuges, acknowledging the complex interplay between protecting the rights of biological women and ensuring inclusivity for transgender individuals."
+    },
+    "vocabulary": [
+      {
+        "word": "Equalities",
+        "zh": "平權；平等。指的是讓所有人在社會中都享有相同的機會和權利，不會因為性別、種族或其他差異而受到不公平對待。"
+      },
+      {
+        "word": "Guidance",
+        "zh": "指引；指導。就像老師給你的作業提示，或地圖上的方向指引，告訴你該怎麼做或該往哪裡走。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-11-20",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmZyaWhHSFBuU3pvV3JRUHhHYlBzVnFLTU51VG9NRU9zNWFSakhaWUZIQ1hiNG0xc1lqTnBDelZNLWlJcF9qdU1pTEFFMGFZM21hTWdZekFSYkVUZko1THNzcG4wQ0llbVZUUERLdTB4ZVBlV2t3YlZmN1FyeExMcFdGWl9rRWxCSlZBUDd3OFpGUUxnbEhiYmhhNVAtZVlaSFlNRTZuYVY?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "AI界的「好學生」 Anthropic：拯救產業卻遇到難題？",
+    "zhSummary": "人工智慧公司Anthropic曾被視為AI產業的希望，因為他們堅持打造安全、符合倫理的AI。但這個策略也讓他們產品推出的速度相對較慢，引發了外界對他們能否實現初衷的疑問。",
+    "zhContent": "<p>人工智慧（AI）發展飛快，從機器人到智慧語音助理，感覺無所不在。當大家都在搶快時，有一家叫Anthropic的公司，它很不一樣。他們從一開始就說，要做「安全又符合倫理」的AI。很多科技界的人都對Anthropic寄予厚望，覺得他們能為AI產業帶來一股清流，甚至可能「拯救」這個發展速度驚人的領域，讓AI在進步的同時，也能確保不會帶來危害。大家都在看，他們能不能真的走出跟別人不一樣的路。</p><p>然而，這條「安全至上」的路走起來並不容易。根據一些外電報導指出，Anthropic雖然堅持在研發AI時，會投入大量時間去審查模型的安全性和公平性，確保它們不會產生偏見或散播錯誤訊息，但這也讓他們的產品推出速度，比不上其他競爭對手。其他公司可能為了搶佔市場，推出速度更快、功能更多樣的AI產品，即使那些產品在倫理審查上可能沒有Anthropic那麼嚴謹。這使得原本被大家看好能引領AI新風潮的Anthropic，反而顯得有些緩慢。</p><p>業界對此也出現兩種不同的聲音。一部分人認為，Anthropic的堅持是正確的，因為AI的影響力會越來越大，如果一開始就沒有把安全和倫理放在第一位，未來可能會造成更大的問題。他們覺得，慢一點沒關係，把事情做好才是重點。但另一部分人則認為，在一個技術日新月異的產業中，速度是關鍵。如果Anthropic過於保守，可能會錯失市場機會，導致他們的影響力不如預期，甚至讓他們無法有效「拯救」這個產業，因為他們自己也沒能快速壯大。</p><p>因此，儘管Anthropic仍被視為AI領域的重要玩家，並且持續在推動負責任的AI發展，但它當初被賦予的「救世主」光環似乎已經沒有那麼閃亮了。這家公司依然努力實踐其創立初衷，不過，在快速變化的AI世界中，要同時兼顧創新速度與安全倫理，顯然是個比大家想像中更為艱鉅的挑戰。目前，Anthropic仍在持續營運和研發，市場也在觀察他們未來如何平衡這些不同的需求。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Anthropic's AI Mission: High Hopes and Hurdles",
+    "enContent": {
+      "basic": "Anthropic is an AI company that wanted to make safe and fair AI. Many people thought they would lead the AI world. But because they focused so much on safety, they might have been slower than other companies. This made some people wonder if they could still \"save\" the AI industry as expected.",
+      "intermediate": "Anthropic aimed to build \"ethical AI,\" setting them apart from competitors focused purely on speed. While their commitment to safety was praised, it also led to slower product development cycles. This strategic choice has prompted industry debate about balancing innovation with responsible AI, causing some to question if Anthropic can fulfill its initial promise to revolutionize the sector.",
+      "advanced": "Positioned as a vanguard for ethical AI, Anthropic garnered significant expectations to stabilize and responsibly guide the rapidly evolving AI landscape. However, its rigorous development ethos, prioritizing safety and fairness, has reportedly led to a more deliberate pace compared to its more agile competitors. This divergence has sparked industry discourse regarding the optimal equilibrium between rapid technological advancement and the imperative for robust ethical frameworks, consequently recalibrating perceptions of Anthropic's immediate impact on the broader AI trade."
+    },
+    "vocabulary": [
+      {
+        "word": "Ethical",
+        "zh": "倫理的：意思是「與道德、行為準則有關的」。想像你玩遊戲時，選擇做對的事，不作弊，這就是符合倫理的行為。"
+      },
+      {
+        "word": "Pioneer",
+        "zh": "先驅：意思是「在某個領域裡，第一個嘗試或開始做某事的人」。就像第一個登上月球的太空人，他就是太空探索的先驅。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-11-20",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVDhkb3hEeGNTUkQzaHdoTGlpWWd3V3VleW9WaEdHVGVER1ktZk9ISWRFS2ljQVJyU19abVh0UnJIaFU5YnRUUmwwOHo1NG9HaE9qUHFJXy1vcUt2N1czSXA4aWcwQTBrVXByNHBLTkU2NTIwbW5Z0gF8QVVfeXFMT2hOajR1ZlJzb1NvX0lmQUl2UUw1RENLeXRubnU5czEzMVVYNnU4TFY1dEpVM09oVWJvcnJNWWk0MWM2OWNvXzNYajhac2R2TkM1ZjdneHRQTlptR2V4WFFWOVhwVjZvNDNONGo2VG5NSVJaMkZnNGlqRm8xUg?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "大國角力：美國制裁下的伊朗，影響究竟有多深？",
+    "zhSummary": "美國對伊朗實施了嚴格的經濟措施，希望伊朗能改變某些政策。但伊朗堅決不從，表示不會屈服。這些措施的實際衝擊有多大，目前還很難判斷。",
+    "zhContent": "<p>在國際新聞版面，美國和伊朗之間的緊張關係一直受到關注。最近，美國對伊朗採取了一系列嚴格的經濟手段，有些媒體甚至稱之為「封鎖」。這些行動的目的是希望伊朗能改變一些國際社會認為有爭議的政策。不過，伊朗政府在首都德黑蘭則展現出堅決不退讓的態度，明確表示不會向這些壓力屈服。面對這樣複雜的局面，這些經濟措施到底會對伊朗產生多大的影響，現在連專家們都認為「為時尚早」，還無法清楚判斷。</p><p>這些美國實施的「封鎖」措施，主要是針對伊朗經濟的幾個重要命脈。其中最關鍵的就是限制伊朗出售石油，因為石油是伊朗主要的收入來源。另外，這些制裁也大大限制了伊朗進行國際金融交易的能力，這使得伊朗很難從國外進口商品，也難以將產品賣到其他國家，讓他們的對外貿易變得非常困難。美國方面認為，透過施加巨大的經濟壓力，可以迫使伊朗在核計畫、飛彈發展以及中東地區的影響力等議題上做出讓步。</p><p>然而，伊朗的回應一直非常強硬。德黑蘭政府認為，美國的這些制裁行為是不公平且具有侵略性的干預，並一再強調他們有權利按照自己的方式發展國家。伊朗不但沒有因為這些壓力而退縮，反而積極尋找方法來應對挑戰，例如嘗試與其他願意合作的國家建立新的貿易途徑，或是努力發展國內經濟，減少對石油出口的依賴。他們的核心訊息很清楚：儘管面臨重重困難，伊朗人民不會輕易被擊倒。</p><p>目前的狀況就是，美國和伊朗雙方都堅持自己的立場。美國的經濟措施持續生效，伊朗則持續尋求突破並表達不滿。雖然這些「封鎖」無疑給伊朗帶來了經濟上的挑戰，但要明確說出這些挑戰對伊朗社會、政治或國際地位造成的「最終」或「決定性」影響，的確還需要更多時間觀察。各國政府和國際組織都密切關注事態發展，但在這場複雜的國際角力中，最終結果仍然是個未知數。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US-Iran Standoff: Sanctions, Defiance, and Unknown Impacts",
+    "enContent": {
+      "basic": "The United States has put strong economic restrictions on Iran. These are meant to make Iran change some of its policies. But Iran says it will not give in to this pressure. People are still trying to understand how much these restrictions will affect Iran.",
+      "intermediate": "The US has placed strict economic sanctions on Iran, aiming to limit its oil sales and international banking. This makes it difficult for Iran to trade globally. Iran, however, is resisting these measures, stating that it will not be dictated to and is seeking ways to sustain its economy. The full impact of these sanctions remains uncertain, with observers noting it's too early to tell.",
+      "advanced": "The geopolitical tension between the US and Iran continues, marked by stringent US economic sanctions designed to compel policy shifts from Tehran, particularly concerning its nuclear program and regional influence. These measures target Iran's oil exports and financial transactions. Despite the pressure, Iran maintains a defiant stance, asserting its sovereignty and actively seeking alternative economic strategies to circumvent the sanctions. The efficacy and long-term ramifications of this \"blockade\" are still under evaluation, with experts emphasizing the prematurity of determining its full impact."
+    },
+    "vocabulary": [
+      {
+        "word": "Blockade",
+        "zh": "封鎖 (這是一種很強的經濟限制，讓一個國家很難跟其他國家做買賣，就像被圍起來一樣，目的是施加壓力。)"
+      },
+      {
+        "word": "Defiant",
+        "zh": "堅決不從 (即使面臨很大的壓力和困難，還是堅持自己的立場，不肯妥協或讓步，展現出不屈服的態度。)"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-11-20",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0tDOEoxcE1oTWlVYnFZX2w3SXQ4UHY5ZGM5NUhiOVNiblhqMm1ZblFiWFF4YTVPM0RaZURuMjFkNjNFOHRiaDExTGtFZEJrN0tMR0EycjdieDZCRHRPTFdvVDlqSE4wMnYzbl83TkJvRE11bWRtdVU3a1RWLXdwdzhyRXhmVndmU0ZHZ3NJLWowdWh1QVA3TkJyS0RfdnV1SFRRQlNCR3lGSnplWXVmUWgzMWfSAboBQVVfeXFMTU1hWUtoLVAyQ3VmUW1hVDJRRUxjYXRyODAzY2RrdWR0SnE2a09VMDROQjRfdUc3azJSU0R2djhtdTAyb0hwTHREMFZjcURxTDlyMHVKZjBlcDdYbzNtOTFCdzNadnZhZ3VjUV9tVmlDcUJvWVJNNU1xa3puRzVXVVZHNmhiSmhBai14WWQzbWpIVHJQVXIyVWlBaDVIWElzeDNmUVdDMTRuYmFNTzdUMVBSNDBXRkxaX0Jn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "水情告急！嚴重乾旱下，限水成了不得已的選擇",
+    "zhSummary": "由於某地區正遭遇一場嚴重的乾旱，導致水源大幅減少，當地水務管理單位正考慮實施自來水配給，這被視為維持基本供水的最後手段。",
+    "zhContent": "<p>最近在某個地區，當地居民可能要開始面對一個嚴肅的挑戰：自來水供應即將受到限制。根據外國媒體BBC的報導，這個情況之所以出現，是因為該地正遭遇一場非常嚴重的乾旱，導致水源不足。因此，當地水務管理單位正考慮實施「自來水配給」，並將其視為在水情告急時，確保基本供水能持續運作的「最後手段」。</p><p>那麼，這個「配給」究竟是什麼意思呢？它通常表示，大家每天能用的自來水會有一定的限制，比方說，有些時段會停水，或是規定哪些用水行為是被禁止的，像是不能用自來水澆花或洗車等等。水務單位會採取這種措施，通常是因為之前宣導大家節約用水，或者採取其他保護水源的方法都已經不夠用了，只好出動這個比較嚴格的辦法來應對當前的危機。</p><p>造成這次嚴重乾旱的原因，主要是因為當地已經好長一段時間降雨量非常少，甚至幾乎沒下雨。長期缺乏雨水，導致提供生活用水的那些水庫或河流的水位不斷下降，蓄水量變得非常低。加上天氣又很炎熱，大家對水的需求量也相對增加，在「進水少、出水多」的情況下，水資源就變得越來越稀缺。</p><p>目前，當地水務管理單位正密切監測水情變化，並持續評估是否需要啟動這項「最後手段」。他們也呼籲民眾盡量節約用水，希望能在真正實施限水之前，盡力維持現有的供水狀況。總之，這是一場關於水資源的嚴峻考驗，而當地的生活作息可能也將因此面臨調整。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，有哪些客觀事實讓你印象深刻？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Water Emergency! Severe Drought Leads to Water Rationing as Last Resort",
+    "enContent": {
+      "basic": "A severe drought is hitting a region, making water scarce. Local water authorities might start rationing tap water. This means people will have limited access to water. This is considered the very last option to keep water flowing for everyone. The drought happened because there hasn't been enough rain for a long time. Water levels in reservoirs are very low. People are also using more water because it's hot. Authorities are watching the situation closely and asking everyone to save water.",
+      "intermediate": "A region is currently facing a significant challenge as a severe drought has led to a critical shortage of water. According to BBC reports, local water management is considering implementing tap water rationing. This measure, seen as a 'last resort,' aims to ensure essential water supply can continue. Rationing might involve scheduled water shut-offs or restrictions on certain uses, like watering gardens. The lack of rainfall over an extended period has depleted reservoirs and rivers, while hot weather has increased demand. Authorities are monitoring the situation and urging the public to conserve water.",
+      "advanced": "A severe and prolonged drought in a particular region has prompted local water management authorities to consider the drastic measure of tap water rationing, described by the BBC as a 'last resort.' This intervention would limit residents' access to water, potentially through scheduled outages or prohibitions on non-essential uses, following insufficient results from previous conservation efforts. The crisis stems from a substantial deficit in rainfall over an extended period, leading to critically low water levels in reservoirs and rivers. Concurrently, increased demand during hot weather has exacerbated the scarcity. Authorities are closely observing hydrological conditions and appealing to the public for stringent water conservation to defer or mitigate the need for rationing."
+    },
+    "vocabulary": [
+      {
+        "word": "Drought",
+        "zh": "乾旱：指很長一段時間沒有下雨，導致水資源嚴重短缺的情況。"
+      },
+      {
+        "word": "Rationing",
+        "zh": "限水／配給：當某種資源（例如水）不夠所有人使用時，政府或管理單位會限制每個人或每個家庭能使用的數量。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-11-20",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcTRFcmdBd1dsaFowc1lFWXhGbDE5OHhRdzBENkpZNEwxNUZGUnlKb1pRTjBkQXFXNGJTTFZUSTRoTGFGRFdVNWZ4VUJISXBXaEk4d2JSUFNYbDA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "法國電影故鄉的「時光寶藏」：老舊家庭影片重見光明",
+    "zhSummary": "在法國這個電影的發源地，一群熱心的「影像守護者」正努力拯救那些被遺忘的家庭老影片，讓這些充滿回憶的珍貴畫面，能再次被看見、被保存下來。",
+    "zhContent": "<p>在電影的誕生地——法國，最近有一股特別的行動正在悄悄展開。想像一下，你家裡塵封已久的老舊錄影帶或底片，那些記錄著爺爺奶奶年輕時光、爸媽小時候頑皮樣子的珍貴畫面，可能因為時間久遠而逐漸損壞，甚至被人遺忘。現在，有一群被稱為「影像守護者」的熱血人士，正努力從各個角落收集這些老舊的家庭影片，目標是讓這些充滿回憶的「時光膠囊」重新發光。</p><p>這些影像守護者可不是隨便找找而已。他們會仔細地尋找那些被捐贈或遺棄的底片和影帶。這些看似不起眼的家庭影片，其實很容易隨著時間流逝而變質，像是底片發霉、顏色褪色，甚至是畫面完全損壞。他們的工作，就是要把這些脆弱的影像，經過專業處理，數位化保存起來。這不僅僅是技術活，更是和時間賽跑，因為每一秒鐘，這些珍貴的記憶都在面臨消失的危機。</p><p>為什麼家庭影片如此重要呢？它們不像專業電影那樣有華麗的佈景或明星演員，但卻是記錄尋常百姓生活最真實的素材。從影片中，我們可以看到過去人們的穿著、當時的街道風景、老舊的商店招牌，甚至是已經消失的傳統習俗。這些點滴畫面，就像是一本會動的歷史課本，讓我們能從一個非常親切、私密的角度，去了解過去的社會樣貌與文化氛圍。它們是小人物眼中的大歷史。</p><p>經過這些影像守護者的努力，許多一度被認為已經失傳或被遺忘的家庭影片，現在得以重新整理並呈現在大眾面前。有些甚至會舉辦小型的放映會，讓當年的家人或有興趣的觀眾，有機會一起回顧這些充滿溫馨與歷史感的畫面。這項行動不僅讓許多家庭找回了珍貴的回憶，也為法國的文化歷史保存，增添了一種獨特而感人的方式。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "France's Time Capsules: Old Home Movies Re-emerge",
+    "enContent": {
+      "basic": "In France, the birthplace of cinema, a group of dedicated 'activist archivists' are working hard to rescue old, forgotten home movies. These precious films, filled with memories, are being brought back to life and preserved for the future.",
+      "intermediate": "The land known for giving the world cinema, France, is now home to a unique preservation movement. Passionate archivists are actively collecting, restoring, and digitizing old home movies. Many of these films are decaying over time, risking the loss of personal and collective historical moments, which these groups are striving to save.",
+      "advanced": "In a nation synonymous with the origins of cinematic art, a grassroots initiative by activist archivists is gaining momentum. Their mission: to salvage and revitalize an often-overlooked segment of cultural heritage—the vast collection of deteriorating home movies. This concerted effort involves identifying, acquiring, restoring, and digitizing amateur footage, thereby preserving invaluable glimpses into quotidian life, local histories, and personal narratives that professional cinema rarely captures."
+    },
+    "vocabulary": [
+      {
+        "word": "cinema",
+        "zh": "電影；電影院。它來自希臘文，原意是「運動」，後來被用來指「活動影像」，也就是我們現在看的電影。"
+      },
+      {
+        "word": "archivist",
+        "zh": "檔案管理員；影像守護者。這個人專門負責收集、保存和管理重要的歷史文件、照片或影片等資料，確保這些珍貴的資訊不會消失。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-11-20",
+    "sourceName": "AP News",
+    "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmdpX3lDUWM0eElzVnZPMjVBVmlmYi04Y3JUbDlCOXRmUVFkWW9ibzQxdk1HMUhVTnF2S2o0NjBlbTJHVDZaSUVtMmZsLUVMeGt6bHV0b0RNdVFab3dQVDhFVkZvcWhneEVmUXpqX1NtclJ3MlVDbmZoX0sxOGF2cEhhLWJUQ1drTFdxNnl2UG90eG5DZlRtSGh4ZFFrWWg2Tm8zbzJSV2Rocm44Z3U0?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非金融巨頭Investec半年業績超亮眼！賺錢增加8.4%",
+    "zhSummary": "南非的金融服務集團Investec，最近公布了他們在過去六個月的業績報告，顯示公司收益大幅成長了8.4%，證明他們經營狀況良好。",
+    "zhContent": "<p>南非最近有個大消息，一家叫做 Investec 的金融服務集團，公布了他們最新的半年業績報告！這個消息是從知名的財經媒體 CNBC Africa 傳來的。簡單來說，Investec 在過去的六個月裡，賺到的錢比之前更多了，這對他們來說絕對是個好消息。</p><p>具體來說，Investec 報告說，他們這半年的「收益」（英文是 earnings，你可以理解為公司扣掉所有開銷後，真正賺進口袋的利潤）成長了 8.4%。或許你覺得 8.4% 聽起來不算特別高，但對於一個規模龐大的金融集團而言，這其實是個相當不錯的數字，顯示他們的經營狀況非常穩健且持續向上。</p><p>Imagine一下，就像你開了一家小店，賣出商品之後，要扣掉房租、請工人的錢、還有進貨的成本，最後剩下在手裡的，就是你的「收益」。Investec 做的雖然不是賣零食或玩具，而是提供銀行、投資、財富管理等等各種複雜的金融服務，但道理是一樣的。他們收益增加，代表有更多人使用他們的服務，而且他們的管理做得很好，才能讓公司賺更多的錢。</p><p>因此，這份來自 Investec 的最新財報，清楚地說明了他們在南非的業務運作非常成功，並且在過去的半年裡取得了亮眼的成果，實現了 8.4% 的收益增長。這就是這家公司對外正式發布的營運成績單，直接呈現了他們目前的發展狀況。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Africa's Investec Reports Strong Half-Year Earnings Growth",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "earnings",
+        "zh": "公司的「收益」或「利潤」。想像你開了一家店，把東西賣出去後，扣掉所有花費（像店租、請人的錢、進貨的成本），最後真正賺到的錢就是收益。"
+      },
+      {
+        "word": "rise",
+        "zh": "「增加」或「上升」。如果一個數字「rise」了，就是說它變大了，比以前更多了。就像你的考試分數從 80 分「rise」到 90 分一樣。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-11-20",
+    "sourceName": "CNBC Africa",
+    "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTliVUVKY0hlTGQzTXAyd2lqYmlSTkhZdGVHRkozUGhBZTBCbVRGdTgxSXlJVGJtMU42Vzd2YjZ2bnk5a0w1VXBvMmdWaU9PNTBaQndZZVBsZkFUbWhrWHIzSUViSjNWczA3Z1B2VHc4LTdjSGlFLUliTm5nbHlpVGNLU210ZzBHbzhndzdMU3ZHdVlGajZLeQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "沙烏地阿拉伯利雅德高樓受損：胡塞組織襲擊事件升溫",
+    "zhSummary": "沙烏地阿拉伯首都利雅德的一棟高樓近期在襲擊中受損，沙國官方報告來自葉門胡塞組織的這類攻擊數量明顯增加。",
+    "zhContent": "<p>最近，中東地區又傳出令人關注的消息。在沙烏地阿拉伯的首都利雅德，有一棟很高的建築物（我們稱它為「摩天大樓」或「高樓」）在近期的攻擊事件中受到了損壞。沙烏地阿拉伯官方也指出，來自葉門「胡塞組織」的這類襲擊行動，最近明顯增加了，讓區域緊張氣氛再度升溫。</p><p>根據外國媒體法國24電視台的報導，雖然這棟高樓受到了損傷，但目前沒有傳出人員傷亡的消息。這些攻擊通常是胡塞組織從鄰國葉門發射飛彈或無人機，瞄準沙烏地阿拉伯境內的目標。這次利雅德的高樓受損，就是其中一次襲擊的結果。沙烏地阿拉伯政府表示，他們偵測到好幾起針對城市發起的攻擊，並且成功攔截了大部分，但仍有部分造成了建築物損害。</p><p>胡塞組織是一股在葉門活動的武裝團體。自2014年以來，他們與沙烏地阿拉伯領導的聯軍在葉門陷入了一場長期衝突。胡塞組織宣稱，他們對沙烏地阿拉伯的襲擊，是對沙烏地聯軍在葉門行動的一種反擊。沙烏地阿拉伯則將這些襲擊視為對其國家安全的嚴重威脅，並指責伊朗在背後支持胡塞組織，但伊朗否認這項指控。</p><p>目前，利雅德的這棟受損高樓的具體損壞情況還在評估中，但官方強調沒有生命損失。儘管大部分攻擊都被攔截，這次高樓受損事件仍引起國際社會對中東區域衝突的關注。沙烏地阿拉伯軍方表示，他們會持續監控並採取行動，保護國家安全，並呼籲國際社會關注葉門問題。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Skyscraper Damaged in Riyadh Amid Surge in Houthi Attacks",
+    "enContent": {
+      "basic": "Recently, a tall building, known as a skyscraper, in Riyadh, the capital of Saudi Arabia, was damaged during a series of attacks. Saudi Arabian officials have reported a notable increase in these attacks, which they attribute to the Houthi group from Yemen. Foreign media, including France 24, confirmed the damage to the building but stated that no casualties were reported. These attacks typically involve missiles or drones launched from Yemen targeting areas within Saudi Arabia. The Houthi group has been in a long-standing conflict with a Saudi Arabia-led coalition in Yemen since 2014, and these attacks are considered by the Houthis as retaliation for the coalition's actions. Saudi Arabia views these incidents as serious threats to its national security and has said its military will continue to monitor and protect the country.",
+      "intermediate": "Saudi Arabia's capital, Riyadh, has experienced damage to one of its skyscrapers following a recent surge in attacks from Yemen's Houthi rebels. France 24 reported the damage but emphasized that there were no casualties. These cross-border attacks, often involving drones and missiles, are part of the broader, ongoing conflict in Yemen, where a Saudi-led coalition has been fighting the Houthis since 2014. The Houthis claim these assaults are retaliatory, while Saudi Arabia condemns them as severe threats to its sovereignty and security, often pointing to alleged Iranian backing of the Houthi movement. The situation highlights escalating regional tensions, with Saudi defense forces actively intercepting most incoming projectiles.",
+      "advanced": "A significant skyscraper in Riyadh, Saudi Arabia, sustained damage amidst a reported escalation of Houthi attacks originating from Yemen, as detailed by France 24. While no casualties were confirmed, the incident underscores a persistent and intensifying cross-border conflict. The Houthi movement, an Iran-aligned group, has claimed responsibility for these drone and missile strikes, asserting they are a legitimate response to the Saudi-led coalition's military campaign in Yemen since 2014. Saudi Arabia, in turn, characterizes these actions as acts of terrorism and a direct affront to its national security, routinely intercepting the majority of projectiles while calling for international condemnation and intervention against the Houthi aggressions. The geopolitical implications of these heightened hostilities continue to destabilize the region."
+    },
+    "vocabulary": [
+      {
+        "word": "Skyscraper",
+        "zh": "摩天大樓：指很高很高、有非常多層樓的建築物，通常是城市裡很引人注目的地標。"
+      },
+      {
+        "word": "Surge",
+        "zh": "激增：形容數量突然之間變得很多，快速地增加。比如一個東西的銷量突然激增，就是賣得特別多。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-11-20",
+    "sourceName": "France 24",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2dIclQtc0NCVUk0dVZ6NS1XcVNLVS1EZFh2aTY3b2pmbGFuM3ltaGYwRkJOLWpsQlZIT0lPbkdabDA2ajhMeW9qeXc5a1JZUWhCbEthYTliRFcwNFB5XzFkdUQxTlh5am91aWFhSGVWRmY0WGw3QWFhVW14TlJESExsVjdHTnRoRkdzaHJzajB1TXpaU3NfMUpnUHFGc1lPMGQzNllEMGFyM21EUVktOGdqMkRPX2NMNnMxOFZwbmJVLURWR01SeA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "驚天盜竊案後，加密貨幣巨頭幣安瞄準亞洲市場？",
+    "zhSummary": "全球最大的加密貨幣交易平台幣安，在數位貨幣世界發生一場金額高達63億美元的驚人盜竊事件後，宣布了他們將擴展亞洲市場的計畫。這顯示了即使面臨重大挑戰與風險，他們依然看好亞洲區塊鏈與數位貨幣的未來發展潛力。",
+    "zhContent": "<p>最近加密貨幣的世界很不平靜，先是發生了一起高達63億美元的巨額竊案，讓大家再次見識到數位金錢的風險有多大。然而，就在這起事件之後，全球最大的加密貨幣交易平台「幣安（Binance）」卻反其道而行，宣布他們正積極規劃在亞洲地區擴大業務。這聽起來是不是很矛盾？但這正是幣安接下來的重點目標。</p><p>這起高達63億美元的「加密貨幣竊案」，指的是有一大筆數位金錢被不明人士用不合法的方式從系統中轉移走了，就像是一場超大型的網路搶案。雖然新聞標題沒有詳細說明是誰或哪個平台直接受害，但如此龐大的金額，足以讓整個加密貨幣市場感到震撼，也提醒了大家在數位世界裡，資產安全是多麼重要的一件事。在這樣的背景下，幣安的下一步動態就顯得格外引人注目。</p><p>儘管面臨數位資產安全問題的疑慮，幣安選擇在這個時機點宣布深耕亞洲市場，可不是隨便想想的。他們相信亞洲地區，從日本、韓國到東南亞等國家，對加密貨幣和區塊鏈技術有著巨大的潛力。幣安的計畫包括在當地增設辦公室、雇用更多人才，並與各國政府積極合作，取得合法的營運執照。他們希望藉此建立更穩固的信任，吸引更多新用戶加入。</p><p>目前，幣安正忙著實施他們的亞洲擴張策略，努力在全球各地建立更完善的合規營運模式。這項大膽的行動，清楚地表明了幣安對於加密貨幣的長期發展抱持著高度信心，即使市場充滿變數與挑戰，他們依然決定繼續投資並推動這個數位金融的新領域。新聞報導就到這裡，沒有說明這次擴張會帶來什麼結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，加密貨幣竊案的金額有多高？幣安為何選擇在這樣一個敏感的時機點擴展亞洲市場？",
+      "生活與未來：你覺得在數位貨幣世界，像這樣的巨額竊案會對普通使用者產生什麼樣的影響？而幣安的亞洲擴張又可能帶來哪些改變？",
+      "獨立思考提案：針對數位資產的安全問題，你認為除了平台自身加強防護外，還有哪些方法可以更好地保護使用者的權益？"
+    ],
+    "enTitle": "After $6.3 Billion Crypto Heist, Binance Eyes Asia Expansion",
+    "enContent": {
+      "basic": "The crypto world saw a huge $6.3 billion theft recently. Even after this big security problem, Binance, a large crypto exchange, wants to grow in Asia. This shows they still believe in digital money's future there. They plan to open new offices, hire staff, and get licenses. Binance is working hard to expand, proving they are confident about crypto, even with risks.",
+      "intermediate": "A staggering $6.3 billion cryptocurrency heist recently shook the digital finance world, highlighting the significant security risks associated with digital assets. However, in a surprising move following this major event, Binance, the world's largest cryptocurrency exchange, has announced ambitious plans for expansion across Asia. This strategic decision underscores Binance's long-term confidence in the region's potential for blockchain technology and digital currencies, despite the prevailing industry challenges.",
+      "advanced": "The cryptocurrency landscape was recently unsettled by a monumental $6.3 billion heist, an event that sharply underscored the inherent security vulnerabilities within the digital asset ecosystem. Yet, in a counterintuitive strategic pivot in the wake of such a significant industry challenge, Binance, the preeminent global cryptocurrency exchange, has unveiled aggressive plans for a comprehensive expansion into the Asian market. This bold initiative reflects Binance's unwavering conviction in the substantial growth prospects of blockchain technology and digital currencies across the Asian continent, signaling a resilient long-term vision despite persistent market volatility and regulatory complexities."
+    },
+    "vocabulary": [
+      {
+        "word": "Heist",
+        "zh": "中文意思：竊盜案、搶劫案。解釋：指大規模、有計畫的偷竊或搶劫，通常是針對金錢或貴重物品，而且手法通常比較高明。"
+      },
+      {
+        "word": "Cryptocurrency",
+        "zh": "中文意思：加密貨幣、虛擬貨幣。解釋：一種只存在網路上的數位貨幣，沒有實體鈔票或硬幣，交易過程會用特殊技術加密，確保安全和匿名性。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-11-20",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnZiblFkQkE2ci1kNUpEUVB1YnE1SFZmSmV1VzEyUVN2ZmZkVVlvZW1UbEIwOVFMUi03OUVUQlFZYlViSy03WlFWd2JwTlpDaHhiMXJzMXJ0NUd1c0o0bUpsMENLMFNlbnRGT0NfbmNNZXg5ci1ybXVHRjNrcjN2LTNGaHJLZGRqU3B3bUVaM3dyeTc4SWowSzRYbF9QNVh2eTVnNnRQc3p4ZUxRa3VEZGRvbGtLWnNSYVB3d2Fmeno?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "東南亞資料中心超熱門，但美國新規定讓中國投資面臨變數？",
+    "zhSummary": "東南亞地區的資料中心產業本來發展得超級好，因為許多中國科技公司都在這裡大量投資。然而，最近美國政府出臺了新的規定，限制特定高科技產品的出口，這可能會影響到中國公司在東南亞的資料中心計畫，讓這個蓬勃發展的產業充滿了不確定性。",
+    "zhContent": "<p>嘿，同學們！你們知道嗎？最近在東南亞，有個叫做「資料中心」的產業發展得超快速！資料中心就像是巨大的數位倉庫，裡面裝滿了超級電腦，專門儲存和處理我們上網、玩遊戲、看影片時產生的各種資料。過去這段時間，很多中國的大型科技公司為了拓展業務或儲存資料，都把投資帶到東南亞，在這裡蓋了不少資料中心，讓這個產業變得非常熱門，也帶來了許多商機。</p><p>不過，最近情況出現了變化。美國政府出臺了一些新規定，主要限制特定高科技產品的出口，特別是那些對超級電腦運算能力很重要的先進晶片。這些晶片是建造高效能資料中心不可或缺的「心臟」。美國的這些新措施，就像是築起了一道科技高牆，讓那些需要先進晶片來打造資料中心的中國公司，在東南亞的投資計畫遇到了大麻煩，不再像以前那樣順利了。</p><p>中國科技公司之所以喜歡在東南亞設立資料中心，除了看好當地市場，也是為了遵守不同國家的數據儲存法規，或是尋求更彈性的營運環境。它們的大量投資曾帶動東南亞國家的經濟，創造許多工作。然而，美國這些新限制是出於國家安全和科技競爭的考量，擔心關鍵技術被用在不恰當的地方。這讓原本期待持續壯大的東南亞資料中心產業，突然面臨巨大挑戰。</p><p>所以，原本東南亞資料中心的快速成長，因為很大一部分是來自中國公司的強勁需求和投資，現在可能就不再那麼順利了。許多正在進行或規劃中的資料中心擴建案和新建案，都因為這些美國的新規定，使得未來蒙上了一層不確定性。簡單來說，這條通往高科技資料中心的「高速公路」，現在多了不少障礙，讓產業發展面臨重新評估的時刻。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Southeast Asia's Data Center Growth Faces Hurdles Due to New U.S. Rules",
+    "enContent": {
+      "basic": "Southeast Asia has seen a rapid increase in data centers, largely driven by Chinese companies. These centers store and process digital information. However, new U.S. rules restricting the export of advanced tech, like crucial computer chips, are now threatening these Chinese investments. This puts the booming data center industry in Southeast Asia at risk.",
+      "intermediate": "The expansion of data centers in Southeast Asia has been significantly fueled by investments from Chinese tech giants aiming to store data and expand services. These data centers are vital for handling vast amounts of digital information. The recent implementation of new U.S. regulations, particularly targeting the export of high-end semiconductor chips essential for advanced computing, is now casting a shadow over future Chinese-led data center projects in the region. This development poses a considerable challenge to the continued growth of Southeast Asia's data center sector.",
+      "advanced": "Southeast Asia's data center market has experienced robust growth, substantially propelled by substantial capital infusions from Chinese enterprises seeking to optimize data storage solutions and market expansion within the region. This infrastructural boom, however, is now confronting significant headwinds due to updated U.S. export controls. These regulations, which restrict the transfer of sophisticated semiconductor technologies critical for high-performance computing infrastructure, are directly impacting the viability and progression of Chinese-backed data center initiatives in Southeast Asia, thereby introducing considerable uncertainty into the regional digital economy."
+    },
+    "vocabulary": [
+      {
+        "word": "Boom",
+        "zh": "指某個產業或地方在短時間內，突然變得非常受歡迎或發展得很快，就像快速成長的現象。"
+      },
+      {
+        "word": "Demand",
+        "zh": "表示「需求」。想像一下，當大家都搶著買某個新出的手機，那表示這款手機有很大的市場需求。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-11-20",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1DbkROaFNtN1I2UjJPOW9Ca0pJNXBFYWVBTldRbjEtTEJKeFBCM3BLeWwtVE9OazNIbFNyTzYtcUxJTVhKQ0JEUUZ0MHVCRDFkWTVxX1Q2OFJGd243RldhZFVnY0pZS2RqRFBXVmxDTG1OS1V2aHNPT2NiTFRnUEJCVjFYSm1qU3g3SdIBkgFBVV95cUxNS1htQWRXZGtHQ2d1Si01c1FZZjNmYjhyOExvZzNGbUhWWEtrRlVHSWx5Y3UyVG5PSnRPWmk5VUY1Z1V6S1JPTFhVTkFnMEprN1A3aXNqZGd2YngxWGpCYmlGQ0FYN3Vmc2hXcWRqS0FmVDNNbnR1emZXNmxHUUYza1hkOG1pS0RpbXRIdzVyemFsUQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "太平洋國家領袖：氣候變遷，我們不再只談了！",
+    "zhSummary": "隨著第31屆聯合國氣候變遷大會落幕，太平洋島國領袖們發出嚴正聲明，指出他們已厭倦無休止的氣候談判，要求全球各國必須立即採取具體行動來應對氣候變遷的威脅。",
+    "zhContent": "<p>太平洋地區的國家領袖們，最近在全球氣候大會上發出了強烈的聲音。隨著第31屆聯合國氣候變遷大會（COP31）即將結束，這些來自小島嶼國家的代表明確表示，他們認為「談判的時間已經過去了」。他們不再滿足於只是討論氣候問題，而是迫切要求世界各國採取更具體、快速的行動來應對全球暖化。</p><p>這群太平洋國家領袖的立場，凸顯了他們對於現有氣候變遷進度的極度不滿。長期以來，他們的小島嶼國家首當其衝地面臨海平面上升、極端天氣等嚴重影響。儘管歷次氣候峰會有許多承諾，這些國家認為實際的減碳行動和對受災國家的援助仍然不足。因此，他們選擇在會議尾聲，以堅定語氣向全球傳達，要求各國「言行一致」的迫切期待。</p><p>這些太平洋島國發出堅決宣言，背後有沉重的現實原因。對他們而言，氣候變遷不只是抽象議題，更是國家存亡的生存危機。上升的海水侵蝕土地、污染淡水，迫使居民考慮遷離家園。魚群減少、農作歉收也威脅生計。因此，他們不願再花時間在重複談判上，而是希望各國政府能立即拿出實質資金、技術和政策，幫助他們應對這場危機。</p><p>太平洋國家領袖們在COP31會議即將畫下句點時的這番聲明，清楚地向國際社會傳達訊息：他們希望看到的不是更多承諾，而是即刻行動。雖然聲明本身並非會議官方結果，但它卻是對全球氣候治理進程的強烈呼籲。這也意味著，未來關於氣候變遷的國際對話，將面臨來自這些最受影響國家更大的行動壓力，希望焦點能從「如何談」轉變為「如何做」。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Pacific Leaders: Time for Climate Negotiation is Over!",
+    "enContent": {
+      "basic": "",
+      "intermediate": "",
+      "advanced": ""
+    },
+    "vocabulary": [
+      {
+        "word": "negotiation",
+        "zh": "談判：談判是指兩方或多方坐下來，針對某個議題進行討論，希望能達成共識或協議的過程。想像一下，你和朋友討論週末要去哪裡玩，各自提出意見，最後決定一個大家都滿意的地方，這就是一種談判。"
+      },
+      {
+        "word": "winds down",
+        "zh": "逐漸結束：當我們說一個活動或會議「wind down」，意思就是它慢慢地走向尾聲，準備要結束了。就像一場派對到了深夜，大家陸續離開，氣氛也漸漸平靜下來，我們就可以說這場派對正在「wind down」。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-11-20",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KbF8tTmM2cWowOHRfOVlSS1B2TnZGcnllTEJHZEI0ZUNRTFYwdUhpSWVLMUxXUGZfTl9WRlZuM1dtVEs4UGt6Y0QzdTQyZm1iQ2RHb1hoVWdsb1dwUkFxRnRkbEhjWTZHSWY3Vi1FTmtZX0lrQnZoRzNJWUJTaGs?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "輝達大動作！最新「H200晶片」證實不賣給中國了",
     "zhSummary": "晶片巨頭輝達的代理執行長最近證實，他們最新、最強大的H200晶片將停止銷往中國市場。",
     "zhContent": "<p>最近科技界傳出一個大消息，全球知名的晶片公司「輝達」（NVIDIA）有了一個重要決定。根據可靠消息，輝達的代理執行長親口證實，他們家最先進、功能超強的「H200晶片」將不會再賣給中國市場了。這對許多關注科技發展的人來說，都是一個值得注意的轉變。</p><p>H200晶片可不是普通的晶片，它被譽為專為人工智慧（AI）和高效能運算設計的「超級大腦」，能處理非常複雜的資料和運算任務，速度快又有效率。原本，各界都預期這款晶片會是市場上的明星產品，沒想到現在卻傳出停止銷往中國的消息，讓不少人感到意外。這個決定具體的原因，新聞中沒有詳細說明，但它確實標誌著輝達在銷售策略上的一個大調整。</p><p>過去一段時間，科技產品的國際貿易關係本來就備受關注，特別是像這樣用於高科技領域的關鍵零組件。輝達作為全球晶片技術的領頭羊，它的每一個商業決策都可能對整個產業產生影響。這次的變動，雖然只是針對H200這款特定晶片，但它背後所代表的商業考量和市場策略，都讓外界紛紛議論。</p><p>總的來說，目前確定的是，輝達的代理執行長已經親自出面，證實了最新的H200晶片將不會在中國市場上販售。這個消息讓科技圈掀起了一陣討論，大家都在觀察這項新的銷售政策將如何影響未來的科技版圖。這就是目前所知道的最新狀況，沒有多餘的猜測，就是這麼一回事。</p>",
@@ -9937,181 +10357,6 @@
     "date": "2026-10-21",
     "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
     "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHRFV0pHZjhxQVVuZVFQTUwzbTdmVVBFMU1hVDFNUHhvQ3NFYXI4QjdYQkZmNHgzUWgxcXlUQkF5UUdPc2VJbE9Ib1FTSWRjRXB2c0l1R3VOVkRvdHF0Q251aXVVcjBWX0JaYmYxbXV5elc5NEFuSGdRclRzbzVJQjZYbHk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "響應世界糧食日：愛女孩攜手烏干達大學推動智慧農業",
-    "zhSummary": "公益團體「愛女孩」與烏干達基督徒大學合作，在當地推廣智慧農業，希望能用現代科技幫助農民提升作物產量，解決糧食問題。",
-    "zhContent": "<p>為響應一年一度的世界糧食日，「愛女孩」團體與非洲烏干達的基督徒大學展開合作，在當地共同推動一項名為「智慧農業」的計畫。這項合作主要是希望能運用更科學、更有效率的方式來種植農作物，協助烏干達的農民提升生產力，並確保當地社區的糧食供應能夠更加穩定充足。</p><p>這個「智慧農業」計畫，並非要農民們像以前那樣單打獨鬥。他們會引進新的農業技術，像是教導農民如何分析土壤的狀況、選擇適合當地氣候的作物，還會使用一些現代化的工具。烏干達基督徒大學的專業人士會提供相關的知識與訓練，讓當地的學生和農民都能學習到如何更有效率地管理農田，從播種、灌溉到收成，每一個環節都變得更精準。</p><p>烏干達長期以來，許多農民都依賴傳統的耕作方式，容易受到氣候變遷的影響，像是乾旱或洪水都可能讓農作物收成不好，進而影響到大家的吃飯問題。「愛女孩」團體與大學合作，就是看到了這個挑戰。他們希望透過這些智慧農業的知識和技術，能幫助農民更懂得如何應對環境變化，減少農作物的損失，讓農民的生活過得更好，也能有更多的農產品可以分享。</p><p>目前，這項計畫已經開始推動，大學的學生們也參與其中，學習並協助推廣這些新的農業技術。目標是培養更多當地的人才，讓他們未來也能自主運用這些智慧農業的知識，在自己的土地上創造更好的收成。透過這樣的合作，希望能在烏干達建立一個永續發展的農業模式，讓更多家庭能夠吃飽穿暖，不再為糧食問題煩惱。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，『愛女孩』團體與烏干達基督徒大學合作推動的『智慧農業』，你認為它最主要的目的是什麼？",
-      "生活與未來：你覺得這個計畫對烏干達的農民和大學生會造成什麼樣的實際影響？",
-      "獨立思考提案：如果類似的農業計畫要推廣到其他國家，你覺得可能會遇到哪些困難，又該如何解決？"
-    ],
-    "enTitle": "Responding to World Food Day: Love Binti and Uganda Christian University Promote Smart Agriculture",
-    "enContent": {
-      "basic": "In response to World Food Day, the organization 'Love Binti' has partnered with Uganda Christian University in Africa to launch a 'Smart Agriculture' project. This collaboration aims to use scientific and efficient farming methods to help Ugandan farmers increase crop yields and ensure a more stable food supply for local communities.\n\nThe Smart Agriculture project is not about traditional farming. It introduces new agricultural techniques, such as teaching farmers how to analyze soil conditions, choose suitable crops for the local climate, and use modern tools. Experts from Uganda Christian University provide knowledge and training, enabling local students and farmers to learn how to manage their fields more efficiently, from planting and irrigation to harvesting, making every step more precise.\n\nFor a long time, many Ugandan farmers have relied on traditional farming, making them vulnerable to climate change. Droughts or floods can lead to poor harvests, affecting food security. 'Love Binti' and the university collaborated to address this challenge. They hope that smart agriculture knowledge and technology will help farmers better cope with environmental changes, reduce crop losses, improve their livelihoods, and provide more agricultural products.\n\nCurrently, the project is underway, with university students participating in learning and promoting these new agricultural techniques. The goal is to cultivate more local talent who can independently apply smart agriculture knowledge to achieve better harvests on their own land. Through this collaboration, they hope to establish a sustainable agricultural model in Uganda, ensuring more families have enough food and are no longer worried about food shortages.",
-      "intermediate": "Responding to the annual World Food Day, the non-profit organization 'Love Binti' has embarked on a collaborative 'Smart Agriculture' initiative with Uganda Christian University in Africa. The core objective of this partnership is to leverage scientific and efficient farming methodologies to empower Ugandan farmers, thereby boosting agricultural productivity and ensuring a consistently stable food supply for indigenous communities.\n\nThis 'Smart Agriculture' project transcends conventional farming practices. It introduces advanced agricultural techniques, including educating farmers on soil analysis, selecting climate-appropriate crops, and utilizing contemporary tools. Professionals from Uganda Christian University are providing crucial expertise and training, enabling local students and farmers to acquire proficiency in optimized field management—from precise planting and irrigation to meticulous harvesting—streamlining every aspect of cultivation.\n\nHistorically, Ugandan agriculture has predominantly relied on traditional methods, rendering it highly susceptible to the impacts of climate change, such as droughts and floods, which often result in diminished harvests and subsequent food insecurity. The collaboration between 'Love Binti' and the university directly confronts these challenges. Their aspiration is that the knowledge and technologies inherent in smart agriculture will equip farmers to better navigate environmental shifts, mitigate crop losses, enhance their quality of life, and contribute to a more abundant supply of agricultural produce.\n\nCurrently, the project is actively being implemented, with university students playing an integral role in both learning and disseminating these innovative farming techniques. The overarching aim is to foster local talent, empowering them to independently apply smart agricultural knowledge to achieve superior yields on their own land in the future. Through this concerted effort, the hope is to establish a sustainable agricultural paradigm in Uganda, ensuring food security and stability for a greater number of households.",
-      "advanced": "In a proactive response to the annual observance of World Food Day, the philanthropic entity 'Love Binti' has forged a strategic partnership with Uganda Christian University, initiating a comprehensive 'Smart Agriculture' program within the East African nation. This collaborative endeavor is fundamentally designed to optimize agricultural output and fortify food security for local Ugandan communities through the systematic application of advanced scientific and efficiency-driven cultivation practices.\n\nDistinct from traditional agrarian approaches, this 'Smart Agriculture' paradigm integrates cutting-edge methodologies. It encompasses instruction for farmers in sophisticated soil diagnostics, the judicious selection of climate-resilient crop varieties, and the deployment of contemporary agricultural implements. Experts affiliated with Uganda Christian University are furnishing specialized knowledge and hands-on training, thereby enabling indigenous students and agricultural practitioners to master efficient farm management techniques that refine every stage of the cultivation cycle, from precision planting and irrigation to optimized harvesting.\n\nUganda's agricultural sector has long contended with vulnerabilities stemming from its reliance on archaic farming practices, rendering it highly susceptible to the vagaries of climate change. Recurrent droughts and torrential floods frequently precipitate significant crop failures, directly impacting national food security. The collaborative genesis between 'Love Binti' and the university directly addresses these systemic challenges, aspiring to empower farmers with the requisite knowledge and technological acumen from smart agriculture to bolster resilience against environmental fluctuations, curtail crop wastage, elevate their socioeconomic standing, and augment the overall availability of agricultural commodities.\n\nThe program is presently in its operational phase, with university students actively engaged in both assimilating and propagating these innovative agricultural technologies. A central objective is the cultivation of a robust local talent pool, fostering self-sufficiency in applying smart agricultural principles to yield superior harvests. This collaborative framework seeks to establish an enduring and sustainable agricultural model across Uganda, thereby contributing significantly to improved nutritional outcomes and reducing the pervasive concerns surrounding food scarcity for a broader demographic."
-    },
-    "vocabulary": [
-      {
-        "word": "agriculture",
-        "zh": "農業：指的是種植農作物、飼養動物，來生產食物、纖維或其他產品的活動。"
-      },
-      {
-        "word": "collaboration",
-        "zh": "合作：指的是兩方或更多的人、團體或國家，一起工作、互相幫助，來達成共同的目標。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-10-20",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUVld5Vk1rdzM3dEYya3BWN0c0RnNBdjQ5TWZKNE9PdkRXZGY5dkVCZWlMNW81UHZGZ0hSSkdEYW9kck54VEpIVTdyc3FVaHhXYTF5YkFn?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "沙烏地處決孟加拉公民，孟加拉政府：我們沒被通知！",
-    "zhSummary": "沙烏地阿拉伯執行了數名孟加拉公民的死刑，但孟加拉國政府卻表示，他們在事件發生前毫不知情，引發了兩國之間的外交爭議。",
-    "zhContent": "<p>最近有一則來自外國媒體的報導，讓大家對兩國之間的外交關係產生了疑問。這則新聞提到，沙烏地阿拉伯執行了數名孟加拉公民的死刑，但孟加拉國政府卻表示，他們對這項決定毫不知情，甚至是在處決之後才得知消息。這起事件引發了孟加拉的強烈不滿，因為依照國際慣例，當一個國家要對他國公民執行死刑時，應該提前通知該國政府，讓他們有機會提供協助或了解情況。</p><p>根據孟加拉外交部的說法，沙烏地阿拉伯並沒有在處決其公民前，向孟加拉駐沙烏地的大使館發出任何正式通知。這意味著，孟加拉大使館無法及時聯繫被處決者的家屬，也無法提供領事協助，例如法律上的諮詢或探視。對於孟加拉政府來說，這不僅是對其公民權利的漠視，也是對兩國外交關係的不尊重。他們認為，這種未經知會的行動，讓孟加拉無法履行保護其公民的基本職責。</p><p>孟加拉官方強調，無論這些公民被控何種罪名，一個國家都有權利知道其國民在海外受到的司法處理，尤其是在涉及極刑時。他們希望沙烏地阿拉伯能解釋為何這次沒有遵循國際上的通報程序。雖然沙烏地阿拉伯有權利根據其法律判決罪犯，但孟加拉方面認為，透明的溝通和相互尊重是國際關係中不可或缺的一部分，尤其是在處理如此嚴肅的案件時。</p><p>面對這起事件，孟加拉國政府已經透過外交管道，向沙烏地阿拉伯表達了他們的嚴正關切和抗議。他們要求沙烏地阿拉伯未來必須嚴格遵守國際法和外交慣例，確保類似事件不再發生，並在所有涉及孟加拉公民的司法案件中，提前提供完整的資訊。目前，這起外交爭議仍在進行中，孟加拉政府正等待沙烏地阿拉伯方面做出回應。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，孟加拉政府不滿的主要原因是什麼？",
-      "生活與未來：你覺得如果沒有提前通知，對於在國外遇到困難的人會造成什麼實際影響？",
-      "獨立思考提案：針對這類涉及國際關係和公民權益的事件，你覺得除了政府抗議，還有哪些方式可以協助改善類似情況？"
-    ],
-    "enTitle": "Saudi Arabia Executes Bangladeshi Citizens, Bangladesh Claims No Prior Notification",
-    "enContent": {
-      "basic": "Saudi Arabia executed several people from Bangladesh. Bangladesh's government says they were not told about these executions before they happened. This has made Bangladesh upset because countries usually inform each other in such serious situations.",
-      "intermediate": "A recent report indicates that Saudi Arabia carried out the execution of multiple Bangladeshi citizens. However, the government of Bangladesh stated that it was not informed by Saudi authorities prior to these executions. This lack of notification is a significant diplomatic issue, as standard international practice dictates that a country should inform another's embassy when its citizens face capital punishment, allowing for consular assistance.",
-      "advanced": "A diplomatic contention has emerged following reports that Saudi Arabia executed several Bangladeshi nationals without prior notification to the Bangladeshi government, as reported by the BBC. Dhaka asserts that Riyadh's failure to communicate these executions constitutes a breach of international consular conventions, which typically mandate informing the respective embassy when a foreign citizen is facing the death penalty. This omission deprived Bangladesh of the opportunity to provide timely consular support or engage in diplomatic interventions, leading to strong protests from Bangladesh and demands for adherence to established international protocols in future judicial proceedings involving its citizens."
-    },
-    "vocabulary": [
-      {
-        "word": "Execution",
-        "zh": "處決：根據法律判決，將犯人處死，通常是指死刑的執行。"
-      },
-      {
-        "word": "Consular",
-        "zh": "領事：指一個國家派駐在另一個國家的外交代表，主要職責是保護自己國家公民的權利和協助他們在海外的生活事務。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-10-20",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZcWlyVkxFS2VNYzFtZkJ4aGxDQzliVG95SmdpLWRLZkVMb1pSTUpVWmc3UkZFdFBuUGtFQWl3X0xOWkduZTdaUlhQQXJtRl9GdkNvTWh0aW5ic29JQlE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "全球股市「凍蒜」？AI熱潮與升息壓力讓科技股悶悶不樂",
-    "zhSummary": "最近全球股市表現平平，尤其科技股受到影響。這主要因為大家對人工智慧（AI）的發展有些疑慮，加上各國央行可能持續提高利率，讓投資人對科技公司的前景感到不確定。",
-    "zhContent": "<p>嘿，各位好奇寶寶們！最近全球的股票市場，特別是那些科技公司的股票，表現得有點像是夏天的冰棒，融化得很慢，但又不太有精神。這並不是說它們在狂跌，而是它們沒有明顯的大漲，呈現一種「平平」的狀態。背後的原因，主要有兩個大咖在影響：一個是人工智慧（AI）的熱潮，另一個則是大家都在猜測，各國的中央銀行會不會繼續「升息」。</p><p>這個「平平」的意思，其實就是股市上上下下的波動不大，看起來沒什麼亮眼的表現。說到AI，它無疑是現在最熱門的話題，大家都在談論它能帶來多大的改變。但與此同時，也有一些投資人開始擔心，AI的實際效益是不是被過度預期了？又或者，哪些公司才能真正從AI這波浪潮中賺到大錢，都還不是很確定。這種不確定性，讓很多原本因為AI而飆漲的科技股，現在有點像卡關一樣，不知道下一步怎麼走。</p><p>再來聊聊「升息」這件事。簡單來說，升息就是銀行借錢給別人，或者收大家存款時，收取的費用（利息）變高了。為什麼要升息呢？主要是為了控制物價上漲，也就是俗稱的「通膨」。當物價漲得太快，中央銀行就會升息，希望讓大家借錢的成本變高，花錢的意願降低，這樣物價漲勢就會慢下來。但是，對於科技公司來說，它們經常需要大筆資金來研發新技術、擴大營運，升息就代表它們借錢的成本變高，公司的營運壓力也會隨之增加。</p><p>因此，在AI的未來發展還有些模糊，加上借錢成本可能越來越高的雙重壓力下，許多投資人選擇變得比較謹慎。他們不再像以前那樣瘋狂追捧科技股，而是採取觀望的態度。這就造成了我們看到全球股市，尤其是科技股，呈現出一種沒有大起也沒有大落的「平穩」狀態，等待著未來局勢更明朗。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，是什麼原因讓全球股市，尤其是科技股，表現得「平平」？這些原因分別對科技股造成了什麼影響？",
-      "生活與未來：你覺得這個市場現況，對我們日常生活中有在使用的科技產品或服務會帶來什麼樣的間接影響？",
-      "獨立思考提案：如果中央銀行持續升息，你覺得科技公司可以如何調整它們的策略，來應對成本增加的挑戰？"
-    ],
-    "enTitle": "Global Stocks Flat as AI and Rate Fears Hit Tech",
-    "enContent": {
-      "basic": "Global stock markets are not changing much, especially for technology companies. This is because people have worries about artificial intelligence (AI) and there are fears that central banks might keep raising interest rates. AI is a hot topic, but investors are unsure which companies will make the most money from it. Higher interest rates mean it costs more for companies to borrow money, which can hurt their plans to grow. So, investors are being careful, and tech stocks are not going up or down a lot.",
-      "intermediate": "Global stock markets have shown limited movement recently, particularly within the technology sector. This stable performance is largely attributed to two key factors: ongoing concerns surrounding Artificial Intelligence (AI) and the anticipation of further interest rate hikes by central banks. While AI generates significant buzz and investment, there's a degree of uncertainty among investors regarding its immediate profitability and which companies are best positioned to capitalize on its potential. Concurrently, rising interest rates increase borrowing costs for businesses, potentially curbing expansion plans and impacting future earnings, a scenario especially relevant for growth-oriented tech firms. This combination has led to investor caution and a relatively flat market for tech stocks.",
-      "advanced": "Global equities have exhibited a relatively flat trajectory, with the technology sector notably influenced by prevailing investor sentiment. This subdued performance is primarily driven by a dual dynamic: persistent apprehension surrounding the commercialization and sustained profitability of Artificial Intelligence (AI), alongside growing expectations of continued monetary tightening by central banks. The speculative fervor around AI is tempered by a lack of clarity regarding definitive market leaders and revenue generation models, fostering a degree of skepticism among institutional investors. Simultaneously, an environment of escalating interest rates elevates the cost of capital, potentially constraining the investment and expansion capacities of technology companies, which often rely on accessible financing for innovation and growth. Consequently, market participants are adopting a more cautious stance, resulting in a stable yet uninspired performance across tech equities."
-    },
-    "vocabulary": [
-      {
-        "word": "Stocks",
-        "zh": "股票：想像一下你買了一小部分公司，變成公司的「小老闆」，這就是股票。股票的價值會隨著公司經營的好壞和大家對它的信心而上上下下。"
-      },
-      {
-        "word": "Interest rates",
-        "zh": "利率：就像你跟朋友借錢，要付他一點感謝費，或者你把錢存到銀行，銀行會給你一點利息。利率就是借錢或存錢時，額外要付或賺的費用。升息就是這個費用變高了。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-10-20",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "印尼野火釀毒霾危機：BBC直擊空氣污染重災區",
-    "zhSummary": "印尼的野火問題在乾季特別嚴重，常因農民放火燒林而起，造成大面積的毒霧籠罩。BBC記者親身走訪災區，發現當地空氣品質惡劣，嚴重影響居民健康與日常生活，尤其泥炭地火災難以撲滅，使得毒霾問題持續不斷。",
-    "zhContent": "<p>最近，在遙遠的印尼，一場嚴重的環境危機正悄悄上演。英國廣播公司（BBC）的記者團隊親身到訪了印尼的野火災區，眼前的景象讓人震驚：大片土地被火燒過，空氣中瀰漫著一層厚厚的「毒霧」，能見度極差，連呼吸都變得困難。這場由野火引起的嚴重空氣污染，正深深地影響著當地居民的日常生活與健康。</p><p>這些讓人不安的野火，其實大部分並非自然發生。許多時候，是當地農民為了清理土地，準備種植棕櫚樹或生產紙漿的樹木，故意放火燒林。特別是在乾燥的季節，火勢會迅速蔓延，一發不可收拾。更棘手的是，如果火勢延燒到泥炭地，由於泥炭層富含有機質，火苗會在地下悶燒很久，難以撲滅，同時釋放出大量有毒且濃密的煙霧，這正是可怕「毒霾」的主要來源。</p><p>這種濃重的毒霾不僅僅讓天空灰濛濛一片，讓外出變得危險，它更含有許多對人體有害的微小顆粒和化學物質。長期吸入這些髒空氣，對肺部和心臟都會造成負擔，尤其對抵抗力較弱的兒童來說，更是巨大的健康威脅。印尼政府雖然清楚這些問題的嚴重性，也試圖立法禁止和阻止違法燒墾的行為，但由於印尼的土地面積廣大，監管起來十分困難，加上近年來氣候變遷導致的乾旱，讓撲滅這些頑強的野火變得更加艱鉅。</p><p>在災區，許多學校因此被迫停課，孩子們無法正常上學。居民們出門都得戴上口罩，以盡量避免吸入有害空氣。儘管有許多國際組織和印尼當地政府的努力，希望能夠撲滅火勢、改善空污，但這場野火與毒霾的戰役仍在持續。對當地環境和居民健康的長期影響，短時間內恐怕難以完全消除，他們仍舊在與這場看不見的敵人搏鬥。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中提到的「毒霾」是怎麼形成的？它對當地居民造成了哪些具體影響？",
-      "生活與未來：你覺得這種因為經濟活動（例如為了種植棕櫚樹）而引發的環境問題，會對全球氣候變遷帶來什麼樣的影響？",
-      "獨立思考提案：針對印尼野火和毒霾的問題，你認為除了政府的禁令之外，還有哪些方法可以從根本上減少這種現象的發生？"
-    ],
-    "enTitle": "Indonesia's Toxic Haze: BBC Reports from Wildfire Ground Zero",
-    "enContent": {
-      "basic": "Indonesia faces a serious problem called toxic haze, caused by wildfires. BBC reporters visited the areas where fires burn, especially in dry seasons. Farmers often start these fires to clear land for crops like palm oil. The smoke is very bad, making it hard to see and breathe, and it's unhealthy for people, especially children. Fires on peatlands are very hard to put out because they burn underground. The government is trying to stop it, but it's a big challenge. Schools sometimes close, and people wear masks to protect themselves.",
-      "intermediate": "Indonesia is grappling with severe environmental challenges due to widespread wildfires, which frequently lead to a blanket of toxic haze. BBC correspondents witnessed firsthand the devastation, noting that air quality is dangerously poor. These fires are often intentionally set by farmers to clear land for agricultural expansion, particularly for palm oil and pulpwood plantations. The situation is exacerbated during dry spells and by fires on peatlands, which can smolder underground for extended periods, releasing immense amounts of hazardous smoke. This air pollution causes significant health issues, low visibility, and disrupts daily life, leading to school closures and a need for residents to wear masks. Despite government efforts to curb illegal burning, the vast land area and challenging conditions make control difficult.",
-      "advanced": "Indonesia is confronting a persistent environmental crisis marked by extensive wildfires and subsequent toxic haze, a phenomenon extensively covered by the BBC. These conflagrations are predominantly anthropogenic, initiated for land clearing to facilitate agricultural expansion, notably for palm oil and pulpwood production. During dry seasons, often intensified by phenomena like El Niño, these fires spread rapidly. A significant challenge arises from peatland fires; these carbon-rich organic soils, when ignited, burn underground for prolonged durations, releasing massive quantities of greenhouse gases and particulate matter that form the hazardous haze. This transboundary haze severely impairs air quality, leading to widespread respiratory and cardiovascular illnesses, decreased visibility, and significant socio-economic disruptions, including school closures. While the Indonesian government has implemented regulations and enforcement measures, the scale of the problem, coupled with socio-economic drivers and climate change impacts, presents formidable obstacles to effective mitigation and prevention."
-    },
-    "vocabulary": [
-      {
-        "word": "haze",
-        "zh": "霾害 (máihài) 或 煙霧 (yānwù)。它指的是空氣中有很多肉眼看不見的小顆粒，讓天空看起來灰濛濛的，能見度變差，通常是空氣污染造成的。"
-      },
-      {
-        "word": "peatland",
-        "zh": "泥炭地 (nítàndì)。這是一種特殊的濕地，地底下經過非常久的時間，累積了大量沒有完全腐爛的植物殘骸，變成一種叫做「泥炭」的物質。這種地如果著火，會在地下慢慢悶燒，很難撲滅，而且會產生非常多濃煙。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-10-20",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTTBZSndKR1VOV1daVkQyYURNY3FtbnV1YVhaR3RkZjVQVE5vMUszamNfUnNWakxVS0Y5ZTltZmw4VlZJRzhEaTJSTGx0ZjFsZG9wd25oS0U?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "橄欖球世界盃激戰：斐濟隊力克庫克群島，晉級之路再進一步！",
-    "zhSummary": "在最近的橄欖球聯盟世界盃上，斐濟隊與庫克群島隊進行了一場精彩的對決。斐濟隊憑藉著強勁的攻勢和穩定的表現，最終以 32 比 18 的比分擊敗庫克群島隊，成功贏得比賽，並為晉級下一輪奠定了基礎。",
-    "zhContent": "<p>嘿！體育迷們注意囉！最近在熱鬧滾滾的「橄欖球聯盟世界盃」上，太平洋島國斐濟和庫克群島展開了一場激烈的對決，讓全場觀眾都為之沸騰。這場比賽不只是球員們的體力與技巧考驗，更是兩國爭奪晉級下一輪的關鍵戰役，大家都想知道哪隊能技高一籌，繼續他們的世盃夢想。</p><p>比賽一開始，斐濟隊就展現出強大的氣勢，他們的進攻如猛虎出閘，開場沒多久就成功達陣得分，並且順利地轉換射門，取得領先。庫克群島隊雖然努力防守，也嘗試反攻，但面對斐濟隊快速的傳球和衝刺，上半場結束時，斐濟隊以較大的比分優勢暫時領先，場上氣氛緊張刺激。</p><p>到了下半場，庫克群島隊展現出不放棄的精神，他們調整了戰術，加強了防守，也趁機完成了一次漂亮的達陣得分。然而，斐濟隊的經驗和整體實力還是技高一籌，他們在關鍵時刻穩住陣腳，再次突破庫克群島的防線，成功增加了得分，讓比分差距維持在安全範圍內，不給對手反超的機會。</p><p>最終，這場在「橄欖球聯盟世界盃」上的斐濟對決庫克群島的比賽，在裁判哨聲響起後正式落幕。斐濟隊以最終比數 32 比 18 擊敗了庫克群島隊，成功贏得了這場關鍵的比賽。這場勝利也讓斐濟隊在分組賽中取得寶貴的積分，朝著晉級淘汰賽的目標邁進了一大步。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Rugby League World Cup: Fiji Secures Dominant Victory Over Cook Islands",
-    "enContent": {
-      "basic": "The Rugby League World Cup saw Fiji play against the Cook Islands. Fiji won the game with a score of 32 to 18. They played very well and scored many times, moving them closer to the next round of the tournament.",
-      "intermediate": "In an exciting match at the Rugby League World Cup, Fiji faced off against the Cook Islands. Fiji showed strong offense early on, scoring several tries and conversions to build a lead. Although the Cook Islands fought hard in the second half, Fiji maintained their advantage. The final score was Fiji 32, Cook Islands 18, securing Fiji's progress in the competition.",
-      "advanced": "The Rugby League World Cup featured a pivotal group stage encounter between Fiji and the Cook Islands, as reported by RNZ. Fiji commenced the match with considerable vigor, executing multiple early tries and successful conversions that established a commanding lead. Despite a spirited second-half resurgence from the Cook Islands, which included a crucial try, Fiji’s strategic play and robust defense ensured they preserved their dominant position. The final whistle confirmed a 32-18 victory for Fiji, significantly boosting their prospects for advancing to the knockout stages of the tournament."
-    },
-    "vocabulary": [
-      {
-        "word": "Try",
-        "zh": "達陣 (dá zhèn) - 在橄欖球比賽中，球員將球帶到對方的達陣區並壓在地上，就能獲得分數。"
-      },
-      {
-        "word": "Conversion",
-        "zh": "轉換射門 (zhuǎn huàn shè mén) - 在達陣得分後，球隊可以再嘗試踢球射過球門柱，如果成功，可以再額外加分。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-10-20",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjd2Wk11d0MwekZuWVo2NTlqVklhU0pmbUNkNDVPNGI0eHRCWm5mb3dDRkZmbFNjdGwyWHUwUHdfUVpwSVZ1TWpuSFhtdGJfekNQSUo2UmVJRFJzTDFHUnNzVzdFNlNYMmxCM1RsRkpCUGNkeVEzbDNlaDRRM0FTSEVNV1hEY3czRkw5aVdKMHg2ZFpUSFE?oc=5",
     "isFeatured": false
   }
 ]
