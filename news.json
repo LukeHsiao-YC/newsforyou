@@ -1,5 +1,460 @@
 [
   {
+    "zhTitle": "三巨頭會談沒戲？美中俄峰會結果大公開！",
+    "zhSummary": "最近一場備受關注的國際會議，集合了美國、中國和俄羅斯三國的領導人，但會議並沒有像大家期待的那樣，達成重大的合作共識。",
+    "zhContent": "<p>最近全球的目光都聚焦在一場超級重要的會議上，因為美國、中國和俄羅斯這三個國家的最高領導人——美國總統川普、中國國家主席習近平，還有俄羅斯總統普丁，難得坐在一起開會。大家原本都很好奇，這三位重量級人物聚在一起，會討論出什麼驚天動地的大事？可惜的是，根據外國媒體的報導，這場被稱為「三巨頭峰會」的會議，並沒有取得什麼重大的突破。</p><p>這場峰會讓許多國際觀察家都抱著高度期待，畢竟美國、中國和俄羅斯在全球政治和經濟上都扮演著舉足輕重的角色。這次會議主要希望能討論一些大家都很關心的國際議題，像是貿易摩擦、地區衝突，或是全球的安全問題等等。儘管三位領導人都親自出席，而且面對面地進行了交流，但在許多關鍵問題上，他們似乎都難以達成一致的意見。</p><p>會談之所以沒有太大的進展，外媒分析可能是因為這三個國家都有自己非常明確的國家利益和目標。簡單來說，川普總統希望維護美國的利益，習近平主席有中國的盤算，而普丁總統也代表著俄羅斯的立場。他們各自有想推動的議程，也有需要堅守的底線，這使得他們在一些需要共同妥協的大議題上，很難找到一個讓大家都滿意的解決方案。</p><p>所以，這場原本可能改變國際局勢的會議，最終的結果就是大家坐下來談了，但並沒有簽署什麼重大的協議，也沒有對現有的國際僵局產生決定性的影響。雖然這不代表未來沒有合作的機會，但至少從這次峰會來看，美、中、俄三方目前在許多重大問題上，仍然是「各自有盤算」，沒有立刻要攜手合作的跡象。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US-China-Russia Summit Sees No Major Breakthrough",
+    "enContent": {
+      "basic": "Leaders from the United States, China, and Russia recently met for an important summit. Many hoped they would solve big global problems, but reports say no major agreements were made. Each country's leader seemed to have their own plans, making it hard to find common ground on difficult issues.",
+      "intermediate": "A highly anticipated summit bringing together the leaders of the United States, China, and Russia—President Trump, President Xi Jinping, and President Putin—recently concluded without achieving significant breakthroughs. While the leaders engaged in face-to-face discussions on various international issues, differing national interests and priorities reportedly prevented them from reaching major agreements. The outcome suggests that each superpower is currently focused on its own strategic agenda.",
+      "advanced": "The tripartite summit involving the heads of state from the U.S., China, and Russia—Donald Trump, Xi Jinping, and Vladimir Putin, respectively—failed to yield any substantial breakthroughs despite high expectations. Observers indicate that while the leaders convened to address pressing global concerns such as trade disputes, regional conflicts, and international security, fundamental divergences in national interests and strategic objectives precluded the formation of significant consensus or joint resolutions. The prevailing sentiment is that each nation continues to operate under its distinct geopolitical calculations, rendering immediate multilateral cooperation on critical issues unlikely post-summit."
+    },
+    "vocabulary": [
+      {
+        "word": "Summit",
+        "zh": "「峰會」或「高峰會議」。這不是指山頂的會議喔！在國際上，峰會是指不同國家的最高領導人（比如總統或總理）坐下來，討論重要國際事務的大型會議。想像成班級的班長、學藝股長和風紀股長一起開會討論班級事務，只是規模更大、討論的議題更嚴肅。"
+      },
+      {
+        "word": "Breakthrough",
+        "zh": "「突破」或「重大進展」。當我們說一個會議有「突破」，就是指經過討論後，大家終於在某個困難的問題上，找到了一個全新的、以前沒想到的解決方法，或者達成了重要的協議，讓事情往前邁進一大步。就像解開一道很難的數學題，突然找到關鍵的解題方法一樣！"
+      }
+    ],
+    "id": "t-1",
+    "type": "thematic",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "全球",
+    "date": "2026-11-24",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yekI0bENXVTRqVkhlM29wN1NZS2s1UjcyUkJKbDJENm1VMTNFTDFtU2RLRktvUmMzc0lqcERvX29CWlNKNjVIeVNvRTBXR3BIZEE4djVralJGYzZTTGZF?oc=5",
+    "isFeatured": true
+  },
+  {
+    "zhTitle": "氣候峰會出狀況？COP31「破局」挑戰全球環保合作！",
+    "zhSummary": "原定應凝聚全球共識的第31屆聯合國氣候變遷大會（COP31）傳出「破局」消息，讓國際社會對抗氣候變遷的努力面臨巨大考驗。現在，各國領導人必須思考如何在這次挫折後，繼續推動重要的氣候外交。",
+    "zhContent": "<p>嘿，同學們！你們知道全世界的國家每年都會聚在一起，討論怎麼一起對抗氣候變遷、拯救我們的地球嗎？這些超重要的會議，我們簡稱它們叫「COP」，是聯合國主辦的氣候變遷大會。本來大家對第31屆的COP31寄予厚望，希望能帶來更多好消息，沒想到最近卻傳出這場會議可能「破局」了，讓許多關心地球未來的人都非常擔心。</p><p>所謂的「破局」（collapse），指的是這場原本應該讓全球各國代表齊聚一堂，共同制定新計畫的重要會議，因為一些還沒完全公開的原因，沒辦法順利進行，或者沒有達到原本設定的目標。這對期待全球能夠團結起來，減少溫室氣體排放，共同減緩地球暖化的我們來說，無疑是一個相當令人擔憂的消息，因為它讓國際間的氣候合作蒙上了一層陰影。</p><p>想像一下，要讓世界上這麼多國家，每個國家都有不同的發展狀況、經濟考量和利益需求，大家都能夠在「什麼時候要減少多少碳排放」這樣艱難的議題上達成共識，這本身就是一件超級不容易的事情。這些會議上的氣候外交工作，總是需要長時間、複雜的談判和協商才能有所進展。因此，COP31的「破局」也凸顯了在這麼多不同意見中找到共同方向，真的是一件困難重重的大工程。</p><p>這次COP31的「破局」意味著，原本預計在這場會議上要討論、甚至是通過的一些新的環保措施和協議，可能都無法按照計劃實施了。現在，全球的目光都集中在一個大問題上：在遭遇這次挫折之後，世界各國的外交官和政策制定者們，還能不能找到新的方法，讓大家重新振作，繼續為地球的未來而努力呢？這將是未來一段時間內，國際社會必須共同面對的重大挑戰。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到的「COP31破局」具體是指什麼？它可能對全球氣候變遷的應對造成什麼影響？",
+      "生活與未來：你覺得這個狀況會對相關國家的人民造成什麼實際影響？你身邊的人會因此受到什麼衝擊嗎？",
+      "獨立思考提案：針對這樣的國際合作困境，你覺得除了政府之外，個人或青少年社群還可以怎麼做，來為地球的永續發展盡一份心力？"
+    ],
+    "enTitle": "Climate Summit Collapse: COP31 Fails to Build Global Climate Diplomacy",
+    "enContent": {
+      "basic": "The COP31 climate summit, a big meeting where countries discuss how to fight climate change, has reportedly 'collapsed.' This means the meeting didn't go as planned, or it failed to reach its goals. This news is worrying because it makes it harder for countries to work together to protect our planet. It shows how difficult it is for many different countries to agree on big issues like reducing pollution.",
+      "intermediate": "The 31st United Nations Climate Change Conference, or COP31, has faced a 'collapse,' meaning the highly anticipated international summit either failed to convene successfully or concluded without achieving its intended outcomes. This setback significantly challenges global efforts to address climate change, as these conferences are crucial for nations to negotiate and commit to greenhouse gas emission reduction targets. The difficulties highlight the complexities of climate diplomacy and the challenges of forging consensus among diverse nations.",
+      "advanced": "The impending 31st session of the Conference of the Parties (COP31) to the UNFCCC has reportedly 'collapsed,' a term signifying either the failure to successfully convene the summit or its conclusion without achieving the expected diplomatic outcomes. This development poses a considerable challenge to the trajectory of global climate diplomacy, particularly concerning the collaborative efforts required to mitigate climate change. The incident underscores the inherent complexities and difficulties in reaching multilateral consensus on critical environmental policies, especially given the divergent national interests and economic priorities of participating states."
+    },
+    "vocabulary": [
+      {
+        "word": "Diplomacy",
+        "zh": "外交：指的是國家之間透過談判、協商，來處理國際事務和關係的方式。就像朋友之間有意見不合，會坐下來好好溝通，找出解決辦法，而不是爭吵打架。"
+      },
+      {
+        "word": "Collapse",
+        "zh": "破局/崩潰：在這裡的意思是一個會議或計畫失敗了，沒有辦法達到原本預期的目標，或是會議進行不下去。想像你和一群朋友計畫一場很期待的旅行，結果因為大家意見太多沒辦法達成共識，最後決定取消，這就可以說是一種「破局」。"
+      }
+    ],
+    "id": "t-2",
+    "type": "thematic",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "全球",
+    "date": "2026-11-24",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "荷蘭單車文化遇上新麻煩：電動單車、手機、壞習慣大挑戰",
+    "zhSummary": "曾經是單車天堂的荷蘭，正面臨來自電動單車速度、手機螢幕分心以及騎車禮儀退步的三大挑戰，這正改變著他們引以為傲的單車文化。",
+    "zhContent": "<p>荷蘭被譽為單車王國，單車不僅是主要交通工具，更是當地人生活的一部分。大街小巷裡，單車隨處可見，充滿獨特魅力。但最近，這份引以為傲的單車文化正悄悄面臨挑戰。根據外國媒體報導，越來越多電動單車上路、人們騎車時頻頻查看手機，加上部分騎士禮儀退步，都讓荷蘭的單車道不再那麼和諧。</p><p>這些挑戰具體來說是什麼呢？首先是電動單車。它們速度比傳統單車快很多，在原本緩慢的單車道上，常讓其他騎士措手不及，增加了意外風險。其次，許多人騎單車時仍忍不住低頭看手機，無論傳訊息或看社群，這種分心行為讓他們對周遭環境反應變慢，騎車變得危險。最後，一些騎士的禮儀也變差了，例如缺乏耐心、不遵守交通規則，甚至對他人不友善。</p><p>為何會出現這些問題？主要與現代生活型態的改變有關。電動單車的普及讓更多人輕鬆騎車，但也引入了速度差異，衝擊原有秩序。同時，手機已是必需品，無論身處何地，人們都習慣隨時查看螢幕，單車上也不例外。這些新習慣與過去的單車文化產生碰撞，使得原本和諧共處的單車環境變得複雜。</p><p>總之，這些新現象正在逐步改變荷蘭單車文化的日常面貌。曾經充滿禮讓與友善的單車道，現在可能出現更多摩擦和混亂。對當地居民而言，他們過去引以為傲的單車體驗正經歷一場調整與適應。報導指出，這是一個持續且深刻的挑戰，並未提及任何具體的官方解決方案或結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Ebikes, Screens and Failing Manners Pose Challenge for Dutch Cycling Culture",
+    "enContent": {
+      "basic": "The Netherlands is famous for bikes, but things are changing. New electric bikes go very fast, making bike paths busy. People also look at their phones while riding, which is dangerous. Some riders are not as polite as before. These things are making cycling in Holland less fun and safe than it used to be.",
+      "intermediate": "The Netherlands, renowned for its extensive cycling culture, is facing new challenges. The increasing popularity of electric bikes (ebikes) means faster vehicles sharing paths with traditional bicycles, leading to more accidents and congestion. Furthermore, many cyclists are distracted by their mobile screens, which impairs their awareness and safety. There's also a noticeable decline in cycling etiquette, with some riders exhibiting impatience and disregard for rules. This shift is altering the once harmonious cycling experience for many Dutch residents.",
+      "advanced": "The deeply ingrained cycling culture of the Netherlands is undergoing significant disruption, as reported by The Guardian. The proliferation of ebikes introduces a new dynamic of speed disparities on traditionally slow-paced cycling infrastructure, contributing to increased accident rates and a sense of disorder. Concurrently, the pervasive use of mobile screens by cyclists leads to dangerous levels of distraction, compromising safety for themselves and others. Compounding these issues is a perceived decline in general cycling manners, characterized by impatience, disregard for traffic rules, and a less communal atmosphere among riders. These factors are collectively challenging the long-standing societal norms and practicalities of Dutch cycling, necessitating a period of adaptation for its citizens."
+    },
+    "vocabulary": [
+      {
+        "word": "Ebikes",
+        "zh": "「電動單車」就是裝了電池和馬達的腳踏車，可以不用很費力氣就能騎得很快。"
+      },
+      {
+        "word": "Manners",
+        "zh": "「禮儀」指的是大家在公共場合應該要有的禮貌和規矩，比如互相禮讓、說謝謝等。"
+      }
+    ],
+    "id": "t-3",
+    "type": "thematic",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "全球",
+    "date": "2026-11-24",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYm5QaFF4cEhrN3dvSjE0ZDQwTEY3RERqRDdXbVNEbV9TYkRSYnM2ZUM1aVhkclExNFFsUFhKWmsxNnFLRE5ZZ0VnSVhXQ2U3dXFtN0R5M2VOb3p4cVp6WlFJVlVoVlU2NWJCaWNQeGR5aUNGMEY0cktrZGdreGw1M25JeVQ4eWNfNnlYSHpHVVh6bEMtaGZUYU44N05mV2xNdVl3ckQzNTNmQU1VbDJER1ZkS1VSRU5tYXIzUjln?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "亞洲AI熱潮：用得多，但效益卻難計算？",
+    "zhSummary": "CNBC報導指出，亞洲各地區正在快速導入人工智慧技術，不論是企業還是各種服務，都希望能藉由AI帶來好處。然而，這股AI熱潮的實際效益到底有多少、該怎麼衡量，卻成了大家頭痛的問題。",
+    "zhContent": "<p>亞洲各地，人工智慧（AI）這項聽起來很酷的科技，正以驚人的速度被廣泛使用。從我們每天用的手機App、家裡的智慧音箱，到學校報告會用到的資料分析，甚至很多大公司決定事情的方式，AI都悄悄地參與其中。大家都很期待AI能讓事情變得更簡單、更有效率，就像擁有一位超級聰明的助手。不過，CNBC的報導指出，雖然AI越來越受歡迎，但它究竟帶來了多少「好處」？這些好處又該怎麼計算出來？這些問題卻讓許多人傷透腦筋。</p><p>這股AI熱潮在亞洲特別明顯。許多企業都爭相引進AI技術，希望藉此提升競爭力。例如，工廠會利用AI來監測生產線，及早發現機器問題，減少浪費；銀行可能用AI來快速審核貸款申請，或是找出潛在的詐騙行為；甚至連零售商店，也可能透過AI分析顧客的購物習慣，來推薦商品。這些例子都顯示，大家相信AI能替公司省下時間和金錢，並且提供更棒的服務。</p><p>然而，量化AI帶來的「成果」並不是一件簡單的任務。報導提到，這有點像我們要衡量一個同學的「聰明」，除了分數，還有很多方面是看不見、摸不著的。AI的效益有時候是間接的，例如它讓員工可以把時間花在更有創意的工作上，這很難直接換算成多少錢。又或者，AI讓決策過程更快、更準確，但這種「提升效率」的具體價值，也常常難以用數字清楚表達。加上不同行業對AI的期待和應用方式差異很大，想找一個統一的標準來評估，根本是不可能的任務。</p><p>所以，儘管亞洲對AI的投資和使用持續快速成長，但對於AI到底創造了多少實際價值，各界仍在努力摸索與討論。目前，沒有一個簡單的公式能直接告訴我們，哪些AI應用是真正「賺到」了，哪些只是趕流行。這個如何評估AI真正效益的課題，是亞洲各國在積極擁抱這項新科技時，必須不斷面對並尋求解答的挑戰。這場「AI價值評估」的探險，還在持續進行中。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，亞洲各國在導入AI的過程中，主要遇到了什麼樣的困難？",
+      "生活與未來：你覺得這個「難以評估AI效益」的狀況，會對導入AI的企業或服務造成什麼實際影響？",
+      "獨立思考提案：針對這個評估效益的問題，你覺得企業還可以怎麼做，才能更清楚地看見AI帶來的成果？"
+    ],
+    "enTitle": "Asia Embraces AI, But Measuring Its Benefits Is A Puzzle",
+    "enContent": {
+      "basic": "Many countries in Asia are starting to use Artificial Intelligence (AI) a lot more in daily life and businesses. People hope AI can make things better and faster. But, it's quite hard to figure out exactly how much good AI is really doing, or how to count its benefits.",
+      "intermediate": "Across Asia, the use of Artificial Intelligence (AI) technology is rapidly expanding within various sectors, from corporations to everyday services. The widespread adoption is driven by the expectation that AI will bring significant improvements in efficiency, productivity, and customer experience. However, a key challenge highlighted by CNBC is the difficulty in effectively measuring and quantifying the actual gains and return on investment from these AI implementations.",
+      "advanced": "CNBC reports that Artificial Intelligence (AI) adoption is experiencing robust growth across the Asian continent, reflecting a widespread institutional and commercial embrace of transformative technologies. While the proliferation of AI solutions is driven by the promise of enhanced operational efficiencies, cost reductions, and improved service delivery, a significant hurdle persists in accurately assessing and quantifying the tangible benefits and economic gains derived from these AI deployments. The complexity arises from factors such as indirect impacts, long-term realization of value, and the lack of standardized metrics across diverse industries and applications."
+    },
+    "vocabulary": [
+      {
+        "word": "adoption",
+        "zh": "導入／採納：指的是開始使用或接受某個新的東西、想法或技術。就像學校決定導入新的教學系統，或是大家開始採納一種新的穿搭風格。"
+      },
+      {
+        "word": "gains",
+        "zh": "收益／好處：指的是透過努力、投資或某個行為所得到的好處、進步或成果。例如，運動後身體的健康收益，或是公司導入新科技後，在效率或金錢上的好處。"
+      }
+    ],
+    "id": "t-4",
+    "type": "thematic",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "全球",
+    "date": "2026-11-24",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qd1lqN0hYeXlaSHY2Y3Vwb3ZDYXlDZHA5MkFUZjhza0VqRkZCd0hyNTl4RG5HZ2drdmwtbWxlT2JkbHJZaGRuWGswQlNLRG5oTlhvWTRwNWZoR3RSYXJERV9vZWRpUdIBa0FVX3lxTE9SSm5pQWdkeVNLSHJNSllLZ2M0cXo5VU5FaHRyU2N1QTdtYVliNm5KbWJqcXpGSzhyZ3ZIQ0ZOZ2lKMnpJQmVZWE1aSnZwYzFnMVFYa3kxTXdSbEl3VHktaWEzdDNkR1lEZUNF?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "鳳梨超有梗！原來它這麼多驚人秘密",
+    "zhSummary": "一則來自國外媒體的報導，揭露了熱帶水果鳳梨許多你意想不到的冷知識，從它的生長方式、歷史身價到獨特構造，都充滿了驚奇。",
+    "zhContent": "<p>最近，來自國外媒體的報導，為我們揭開了熱帶水果「鳳梨」背後許多不為人知的有趣秘密。你可能每天都吃鳳梨，甚至喝鳳梨汁，但你絕對想不到，這顆黃澄澄、甜滋滋的水果，其實藏著一堆超酷的冷知識。原來，鳳梨不僅外型特別，它的生長方式和歷史地位，都跟我們想像中很不一樣呢！</p><p>首先，鳳梨並不是單一的一顆果實，你眼睛看到的一大顆鳳梨，其實是由數百個小漿果緊密結合而成的「聚合果」。而且，一顆鳳梨從種植到成熟，需要將近兩年的時間，是不是很驚人？另外，鳳梨的英文名字「pineapple」其實很有趣，它的字面意思就是「松果蘋果」，因為早期的歐洲探險家覺得它長得像松果，味道又像蘋果，所以就這樣命名了。</p><p>你還知道嗎？鳳梨曾經是超級昂貴的奢華水果！在幾個世紀前，鳳梨在歐洲是只有王公貴族才吃得起的珍品，甚至被當作財富和地位的象徵，有錢人會把它放在家裡展示好幾天，才捨得吃掉。它還有一種特別的酵素叫「鳳梨蛋白酶」，這就是為什麼有時候吃鳳梨舌頭會感覺麻麻的，這種酵素能幫助消化，所以鳳梨被認為是對身體很好的水果喔！</p><p>這篇報導也提到，鳳梨的起源地其實在南美洲，大約是現在的巴拉圭和巴西一帶，後來才被帶到世界各地。它不只可以食用，連它的葉子纖維也能用來製作布料，是不是超酷的？下次再吃到鳳梨，你是不是也會覺得它不再只是一顆普通的水果了呢？</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Fun Facts About the Pineapple: More Than Just a Tropical Treat",
+    "enContent": {
+      "basic": "Did you know that the pineapple is not a single fruit? It's actually made up of many small berries fused together! This interesting tropical fruit takes almost two years to grow from planting to harvest. Originally from South America, pineapples were once so rare in Europe that they were a symbol of wealth and status. People would even display them at home before eating them. The name \"pineapple\" comes from its resemblance to a pine cone and its apple-like taste. It also contains an enzyme that helps with digestion.",
+      "intermediate": "A recent report from international media has revealed a fascinating array of \"fun facts\" about the humble pineapple. Far from being a simple, singular fruit, the pineapple is a composite fruit, formed by hundreds of tiny berries joined together. Its lengthy cultivation period, often stretching up to two years, makes its journey to our tables quite remarkable. Historically, pineapples held immense value in Europe, serving as a prominent symbol of prosperity and social standing among the elite due. Its distinct appearance, reminiscent of a pine cone, combined with its sweet, apple-like flavor, led to its English name. Furthermore, the fruit naturally contains bromelain, an enzyme known for its digestive properties.",
+      "advanced": "An insightful feature from a foreign media outlet has cast a spotlight on the numerous intriguing facets of the Ananas comosus, more commonly known as the pineapple. Contrary to popular perception, this iconic tropical fruit is botanically classified as a multiple fruit or syncarp, a result of the fusion of numerous individual berries into a single, cohesive structure. Its agricultural cycle is notably protracted, requiring an average of 18 to 24 months from planting to maturation. Historically, the pineapple transcended its role as a mere food item, evolving into a potent emblem of affluence and social distinction within 17th and 18th-century European high society, often displayed as a centerpiece before consumption. Its nomenclature, \"pineapple,\" is derived from its visual similarity to a pine cone and its aromatic profile. The fruit is also a natural source of bromelain, a proteolytic enzyme recognized for its efficacy in aiding digestion."
+    },
+    "vocabulary": [
+      {
+        "word": "Pineapple",
+        "zh": "鳳梨（fèng lí）：一種熱帶水果，外面有粗糙的皮，裡面果肉多汁香甜，常用來做果汁或甜點。"
+      },
+      {
+        "word": "Enzyme",
+        "zh": "酵素（jiào sù）：存在於生物體內，像小幫手一樣，能加快身體裡很多化學反應，像是幫助食物消化。"
+      }
+    ],
+    "id": "t-5",
+    "type": "thematic",
+    "category": "趣味溫馨",
+    "tagClass": "tag-fun",
+    "region": "全球",
+    "date": "2026-11-24",
+    "sourceName": "DW.com",
+    "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jUTBoOExndS1tVm02MktaenVRaGQtcHg4ak1YbjFGOU1BQTV2YklqRGp5Vy1xMndHdGJ0U25PWDlhWmpJTVMtTHNId1UxTFEzbXdGYlFiOXNKVXZlYTBuczNrM19VVDVYOFZadGZpVQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "科技巨頭NVIDIA的「艦長」：黃仁勳為何大到不能被開除？",
+    "zhSummary": "這則新聞深入探討了NVIDIA執行長黃仁勳在科技界無可取代的地位。報導指出，因為他對公司的關鍵影響力，以及在AI晶片領域的卓越領導，即使面臨各方壓力，他也早已被視為「大到不能被開除」的人物。",
+    "zhContent": "<p>你可能玩過電玩，也聽過最近很紅的AI人工智慧，但你知道讓這些酷東西運作順暢的幕後推手是誰嗎？答案就是NVIDIA這家超級厲害的公司，還有他們的「艦長」—創辦人兼執行長黃仁勳。最近外國媒體有一則報導，分析指出黃仁勳在科技界，已經達到「大到不能被開除」的程度。這可不是說他犯了什麼錯，而是代表他對公司的重要性，已經高到沒有人能夠取代了！</p><p>「大到不能被開除」聽起來有點戲劇化，但它背後的原因非常實際。在競爭超級激烈的科技圈，公司的領導人總是面臨著巨大挑戰，需要做出許多影響深遠的決定。黃仁勳之所以被這麼形容，正是因為他長年來對NVIDIA的願景、策略，還有他那份獨特的堅持與判斷力。他就像是隊伍中的靈魂人物，少了他就無法凝聚團隊、帶領公司做出突破性的發展，尤其是在NVIDIA最擅長的圖形處理晶片和AI運算領域。</p><p>想想看，現在全球都在瘋狂投入AI人工智慧，而NVIDIA的晶片，可以說是所有先進AI系統的「大腦」。少了NVIDIA的晶片，許多前沿的AI研究和應用都難以實現。這讓NVIDIA在全球科技產業中，扮演著一個舉足輕重的角色。而所有人都清楚，是黃仁勳這位領導人，成功地將NVIDIA從一個專門做電玩顯示卡的廠商，轉變成如今主導AI浪潮的科技巨擘，他的影響力無遠弗屆。</p><p>所以，儘管科技界總是變化快速，充滿著高壓與挑戰，但黃仁勳卻依然穩坐NVIDIA執行長的大位，繼續帶領公司航向未來。這篇報導正是在說明，他的卓越領導力、對產業趨勢的精準判斷，以及他對NVIDIA不可或缺的價值，讓他成為了一位真正的「大到不能被開除」的關鍵人物。他將持續引導NVIDIA在AI時代中，繼續寫下更多令人驚奇的篇章，這就是他如今的地位。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，黃仁勳被形容為「大到不能被開除」，你覺得這句話在這個情境中，最主要想表達的是什麼意思？",
+      "生活與未來：你覺得如果一位公司的領導人，因為能力太強而被形容為「大到不能被開除」，這對公司內部成員或外部競爭者會造成什麼實際影響？",
+      "獨立思考提案：針對新聞中提到的「大到不能被開除」這種現象，你覺得如果一家公司為了避免過度依賴單一領導者，還可以怎麼做會更好？"
+    ],
+    "enTitle": "NVIDIA's 'Captain': Why Jensen Huang Proved Too Big to Fire",
+    "enContent": {
+      "basic": "This news report explains why Jensen Huang, CEO of NVIDIA, is considered indispensable. It highlights his critical influence and leadership in AI chips, making him 'too big to fire' despite pressures.",
+      "intermediate": "The article from a foreign media source analyzes the unique position of Jensen Huang, co-founder and CEO of NVIDIA. It delves into why he is viewed as 'too big to fire,' emphasizing his visionary leadership and NVIDIA's dominant role in the rapidly expanding AI chip market.",
+      "advanced": "Drawing insights from a BBC analysis by Faisal Islam, this report explores the strategic indispensability of Jensen Huang, NVIDIA's CEO. It elucidates how Huang's foresight and consistent leadership have positioned NVIDIA at the forefront of the AI revolution, rendering him virtually irreplaceable and thus 'too big to fire' within the highly competitive technology landscape."
+    },
+    "vocabulary": [
+      {
+        "word": "Indispensable",
+        "zh": "不可或缺的：指某個人或某樣東西非常重要，重要到沒有它就不能正常運作，或是很難完成目標。"
+      },
+      {
+        "word": "Innovation",
+        "zh": "創新：指提出新的想法、方法、產品或服務，讓事情變得更好、更有效率，或解決舊有的問題。"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-11-24",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdmdJU3R5R2Y2Y2QtVXVKQ09NeGxKSU1jTVJwREhXcV85eWRLM3JYOTRCWWpQS0laeTRmODZuWU5OTElmcEdzd0x5QmpoSk5EMG40a1lsZ2dIbms?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "爺爺奶奶的「國家公園探險」：不用出門也能環遊美國！",
+    "zhSummary": "南普蘭菲爾德的老年活動中心為成員們舉辦了一系列特別活動，讓長輩們透過簡報和影片，在室內就能深度探索美國各地的國家公園，認識大自然的美麗與奧秘。",
+    "zhContent": "<p>你曾幻想過不費吹灰之力，就能輕鬆環遊世界，飽覽各地美景嗎？美國南普蘭菲爾德的老年活動中心，最近就為這裡的爺爺奶奶們實現了一個超酷的「旅行」夢想！他們不必打包行李，更不用搭飛機，就能舒舒服服地坐在活動中心裡，展開一場探索美國國家公園的精彩旅程，感受大自然的鬼斧神工。</p><p>這場「國家公園探索之旅」可不是真的跋山涉水，而是透過一系列精心準備的簡報和影片，帶領長輩們走進那些遙遠又壯麗的國家公園。活動中心的工作人員就像是專業導遊，他們準備了詳細的地圖、生動的照片，還會分享許多關於黃石公園的間歇泉、優勝美地的巨型神木，以及大峽谷的雄偉奇景等等有趣故事和知識。爺爺奶奶們只要坐在舒適的椅子上，就能透過螢幕，看見那些令人驚嘆的自然風光，了解每個公園獨特的地理特色和豐富的生態環境。</p><p>活動中心的工作人員表示，他們舉辦這個活動的主要原因，是希望讓長輩們即使行動可能沒那麼方便，也能保持一顆好奇、活躍的心，繼續學習新事物，並且體驗世界的美好。許多參與的成員都非常喜歡這個設計，覺得這是一個很棒的機會，讓他們能夠回憶起年輕時的旅行經驗，或是激發他們對戶外活動的興趣。大家在觀看和討論的過程中，也能互相交流彼此去過哪些地方，分享旅行的回憶。</p><p>這次的「國家公園探索之旅」非常成功，吸引了許多長輩熱情參與，讓活動中心裡充滿了歡聲笑語和學習的氣氛。中心也表示，他們未來計畫繼續推出更多類似的系列講座，主題可能涵蓋世界各地的歷史文化、自然奇觀或是各種生活知識，讓這裡的長輩們生活能更加豐富多彩，也提供一個持續學習和社交的好地方。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "South Plainfield Senior Center Members Take a Virtual Journey to America's National Parks",
+    "enContent": {
+      "basic": "Members of the South Plainfield Senior Center went on a special trip. They explored America's National Parks, but they didn't leave their center! They watched videos and presentations about beautiful places like Yellowstone. It was a fun way for them to learn about nature and see new things without having to travel far. The center plans more activities like this in the future.",
+      "intermediate": "The South Plainfield Senior Center organized an engaging program allowing its members to virtually explore America's National Parks. Through captivating presentations and videos, seniors learned about iconic landmarks such as Yellowstone and Yosemite. This initiative provides a wonderful opportunity for elders to experience the beauty of nature and expand their knowledge, even if physical travel is challenging. The program received positive feedback, encouraging the center to plan more educational series on diverse topics.",
+      "advanced": "The South Plainfield Senior Center recently hosted an innovative program that enabled its members to embark on an immersive virtual journey through America's National Parks. Utilizing a series of dynamic presentations, maps, photographs, and engaging narratives, participants were transported to iconic destinations like Yellowstone and Yosemite. This initiative aimed to foster continuous learning and engagement among seniors, offering them a unique opportunity to connect with nature's grandeur and share travel experiences from the comfort of their community center. The program garnered significant positive feedback, prompting plans for future educational series encompassing various cultural, historical, and general knowledge topics."
+    },
+    "vocabulary": [
+      {
+        "word": "Senior Center",
+        "zh": "老年活動中心：一個專為老年人設計的地方，讓他們可以聚會、參加活動、學習新東西或是獲得一些幫助。"
+      },
+      {
+        "word": "National Park",
+        "zh": "國家公園：由政府保護的超大自然區域，通常有非常美麗的風景、特別的野生動物和植物，目的是讓大家可以欣賞和保護這些珍貴的地方。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-11-24",
+    "sourceName": "TAPinto",
+    "sourceLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcVljLW5DQk1rOHpJVUZjNlp0dy13cXkzX1F4N25qd2pkWm0tcXcwZURuOVFPOERmNTk5TXBZQ3NJQ2t6alJoNjBaRlkxa215NjJGMEtQUXpJWm5pazFlcEZpYzY0bnJkdWhsWG5JUW1UWVFwOUZlWjVJWmVMMC1GUjl0bFZRWUYxSFNSbmZMVzVpcXBZVnRmZnczODVEalEzS3d1WHpPSE53aVNPQ1RwT3RyXzZDUWt3V3NDRzZ4VVFnNGZJYUlxZ1RwLTZubmVZQk9Rc3FFRXhGdF8xM0NhSHAtQmVneWhDUlhpckVR?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "歐盟出招！傳聞將禁止俄羅斯參與體育活動",
+    "zhSummary": "歐盟正討論對俄羅斯實施一系列新制裁，其中一項引人注目的提案是禁止俄羅斯參與體育活動，這是為了回應俄羅斯在烏克蘭的行動。",
+    "zhContent": "<p>歐洲聯盟最近有個大消息！他們正在討論一套全新的嚴厲措施，準備要針對俄羅斯。這些措施叫做「制裁」，而其中一個非常引人注目的提案，就是打算禁止俄羅斯參與各種體育活動。這個消息是由知名的媒體《半島電視台》報導出來的，代表這可能是歐盟用來表達立場的重大舉動。</p><p>這些「制裁」其實就像是一種經濟或政治上的懲罰，當一個國家做了某些事情，其他國家不認同，就會用這種方式來施壓。這次歐盟提出的新方案被形容為「全面性」的，也就是說它會影響很多不同的層面，不只體育。具體來說，關於體育的禁令可能包括禁止俄羅斯的運動員或隊伍參加在歐盟舉辦的比賽，或是歐盟的運動組織和選手可能無法前往俄羅斯參與活動。這將對國際體育界造成不小的影響。</p><p>歐盟之所以會考慮實施這麼大規模的制裁，主要是因為俄羅斯在烏克蘭的行動，引起了國際社會的廣泛關注和反對。歐盟希望透過這些限制，來表達他們堅決的立場，並試圖迫使俄羅斯改變目前的狀況。他們認為，切斷俄羅斯與部分國際交流的連結，包括重要的體育交流，是一種明確且有力的表態。</p><p>不過，目前這還只是一個「提案」，也就是說，這些措施還沒有正式拍板定案。它需要在歐盟內部經過討論和所有成員國的同意，才能真正實施。一旦通過，這將是歐盟對俄羅斯施加的又一波嚴厲制裁，體育禁令也將成為其中一個重要的環節。這件事情的後續發展，將會是國際社會持續關注的焦點。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "EU Plans Sports Ban on Russia Amid Sweeping New Sanctions Proposal",
+    "enContent": {
+      "basic": "The European Union is thinking about putting new rules on Russia. One big idea is to stop Russia from playing sports in many international events. This is part of a plan to show they are not happy with what Russia is doing in Ukraine. These new rules, called \"sanctions,\" are like punishments to make a country change its actions. Right now, it's just an idea, not a final decision.",
+      "intermediate": "The European Union is currently considering a comprehensive set of new sanctions against Russia. A significant component of this proposal involves implementing a ban on Russia's participation in sports. This initiative, reported by Al Jazeera, aims to exert pressure on Russia in response to its actions in Ukraine. Sanctions typically involve economic or political restrictions designed to compel a targeted nation to alter its policies.",
+      "advanced": "Al Jazeera reports that the European Union is deliberating a far-reaching new sanctions package targeting Russia, with a notable inclusion being a proposed sports ban. This move forms part of the EU's broader strategy to impose significant diplomatic and economic pressure on Russia, primarily in condemnation of its ongoing actions in Ukraine. As a proposal, these measures await formal consensus and approval from EU member states before potential implementation, signifying a substantial escalation in international punitive efforts."
+    },
+    "vocabulary": [
+      {
+        "word": "Sanctions",
+        "zh": "制裁。意思是一種對某些國家或團體實行的懲罰性措施。通常是為了讓對方停止做不被認可的事情，例如限制他們做生意、旅行或參加國際活動。想像成大人犯錯被罰不能玩遊戲，或不能買喜歡的東西一樣。"
+      },
+      {
+        "word": "Proposal",
+        "zh": "提案。意思是還沒有正式決定或執行的計畫、建議。就像你跟家人建議週末去哪裡玩，但還沒有得到大家的同意一樣。這代表事情還在討論階段，不一定會完全照著計畫進行。"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-11-24",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFBWaUtNV2pMbGVsbFJlZkF3RU9mczNYSUF2Q1Q0N2JqV2ljOGtxaEVPcDVHeXZUVklUTHAwNXVTQjJjQTZKVlF3eXBaTWZnaVR2M0ZmdWdmRDVmMndYc2lQQjQyNWdIWjBkekR6d3ZSaE9ld0dINmhUX2JGaUJjejNCN2FxanBJbzdDeUlZV1piLWlVd2VzaDVSdHZnOEUtQW0xUFN30gGrAUFVX3lxTE10OG84bk5ZSWoyLUMwemdRWDRCVjUxOXIzeW9YaVdpbGpFWkNxLW9LYnJ4ZjhFRTlNZEtEWHVPVnRDbUw2TTVUVUpET19udXJBX0hrYmtGZEJUbG9UeEZZdmZZVXNLVnM2QjlsSUNWYTVvT1ZWcnlFZFdGTjM2RmxWZWl4cVhzZVkycWx2dzJYMHRPTzNTSTVpcDM5ZGlZWS1lYVhLUDEySXUwMA?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非小作家崛起：讀寫計畫點燃孩子們的創作火花！",
+    "zhSummary": "南非一個特別的讀寫計畫，成功激發當地孩子們的寫作潛力，讓他們從讀者變身為小作家，出版自己的故事書。",
+    "zhContent": "<p>南非最近傳來一個超酷的消息！那裡有一群年紀輕輕的小朋友，居然已經變成貨真價實的「小作家」了！這不是因為他們天生神力，而是多虧了一個特別的「讀寫計畫」，讓他們有機會拿起筆，寫下自己的故事，甚至把作品出版成書，讓更多人看見他們的創意。</p><p>這個由非營利組織推動的讀寫計畫，目標是鼓勵南非的孩子們愛上閱讀和寫作。它提供了一個平台，教導小朋友們如何構思故事、如何用文字表達想法，以及怎麼把這些想法變成一篇篇有條理的文章。在計畫的引導下，這些孩子們不再只是讀別人的書，而是親自創作，體驗從零到有的寫作過程，親手打造屬於自己的故事世界。</p><p>在南非，提升識字率和閱讀風氣一直是一項重要課題。這個讀寫計畫的出現，正是為了解決這些問題，希望透過鼓勵創作，讓孩子們感受到文字的力量，進而提升他們的識字能力和對學習的興趣。參與計畫的孩子們會定期聚會，分享自己的草稿，互相給予意見，這不只鍛鍊了他們的寫作技巧，也培養了自信心和表達能力。</p><p>目前為止，這個讀寫計畫已經成功幫助許多南非兒童出版了自己的作品。這些充滿想像力與真實情感的書本，有些是關於他們日常生活的觀察，有些則是他們對未來的奇思妙想。透過這些出版品，這些年輕的小作家們不僅實現了夢想，也為當地的社區注入了新的活力，證明了只要有機會和引導，每個孩子都能創造出屬於自己的精彩故事。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Young Authors Emerge: Literacy Program Sparks Creativity in South Africa",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "literacy",
+        "zh": "讀寫能力：指一個人閱讀、書寫和理解文字的能力。一個讀寫能力好的人，可以輕鬆讀懂書報、寫信或文章。"
+      },
+      {
+        "word": "authors",
+        "zh": "作者：指那些寫書、文章、詩歌或其他作品的人。這些南非的孩子們，就是自己寫故事書的小作者。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-11-24",
+    "sourceName": "NPR",
+    "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkpqV3ZuancwLVlUMjdoVFllbDNERnZVSm00ZkhfY01NYmZQVmFFSWl0UmQyT0VDc2w1bkQwRmlPTmI1ZnFldUxPcHU0UURkT3dfbFBUc0d6b2VZNV8xU1cwQW1xd0FuUUhMcUJLbFg3TjBVRDBhX0JlWEJPVnBZeklHcXh1RzhiSVg4eEVoTG8?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "沙烏地攔截空襲威脅，胡塞組織稱首都遭殃",
+    "zhSummary": "沙烏地阿拉伯軍方成功攔截了從葉門胡塞組織發射的無人機和飛彈，避免了可能的攻擊。同時，胡塞組織也聲稱其控制的葉門首都薩那遭到襲擊。",
+    "zhContent": "<p>沙烏地阿拉伯軍方近期發出聲明，他們成功地在空中攔截了兩次來自葉門的威脅：一枚可能是彈道飛彈的飛行物，以及一架具備攻擊能力的無人機。根據沙烏地官方說法，這些攻擊都是由葉門境內的胡塞組織發射的。在同一時間，胡塞組織也透過媒體表示，他們所掌控的葉門首都薩那遭到了來自外部的攻擊。</p><p>這次沙烏地軍方的攔截行動展現了他們防空系統的效率。這類由胡塞組織發射的飛彈和無人機，過去曾多次嘗試攻擊沙烏地阿拉伯境內的機場、石油設施或居民區，試圖造成破壞或製造恐慌。因此，每一次成功的攔截都代表著保護了當地民眾的安全，避免了潛在的嚴重傷亡與財產損失。沙烏地當局也強調，他們會持續監控並反擊任何針對其領土的威脅。</p><p>這場衝突的背景要追溯到葉門持續多年的內戰。沙烏地阿拉伯與其領導的多國聯軍，主要支持葉門的國際承認政府；而胡塞組織則掌控了葉門北部的大片區域，包括首都薩那。雙方長時間處於敵對狀態，胡塞組織經常對沙烏地發動越境攻擊，而沙烏地聯軍也會對胡塞組織的據點進行空襲作為反制，導致地區局勢長期不穩定。</p><p>因此，這次沙烏地成功攔截無人機和飛彈，是這場漫長衝突中最新的一次交鋒。雖然避免了具體損失，但也凸顯了該地區的安全挑戰仍然嚴峻。至於胡塞組織聲稱薩那遭到攻擊一事，在這樣複雜的戰事中，各方互相發動攻擊或指責對方是常見的情況。這些事件共同反映出，葉門與鄰國沙烏地阿拉伯之間的緊張關係，短期內看來仍難以平息。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，沙烏地阿拉伯與胡塞組織之間發生了什麼事件？",
+      "生活與未來：你覺得這個衝突不斷的地區，會對當地一般居民的生活造成什麼實際影響？",
+      "獨立思考提案：如果沙烏地和胡塞組織要改善關係，你覺得他們可以從哪些方面開始嘗試？"
+    ],
+    "enTitle": "Saudi Arabia Intercepts Drone, Missile Amid Houthi Claims of Sanaa Attack",
+    "enContent": {
+      "basic": "Saudi Arabia's military announced it successfully stopped a drone and a missile coming from Yemen. They said these attacks were launched by the Houthi group. At the same time, the Houthis reported that Sanaa, the capital city they control in Yemen, was attacked. This shows ongoing conflict in the region.",
+      "intermediate": "Saudi Arabia's defense forces recently intercepted a ballistic missile and an armed drone that were launched from Yemen. Saudi officials stated these projectiles originated from the Houthi movement. Concurrently, the Houthis reported to media outlets that Sanaa, the Yemeni capital under their control, had come under attack. This incident highlights the continuous tension and exchange of fire in the protracted Yemeni conflict, where Saudi Arabia supports the internationally recognized government against the Houthi rebels.",
+      "advanced": "The Saudi-led coalition announced the successful interception of a ballistic missile and an explosive-laden drone originating from Houthi-controlled territory in Yemen. These defensive actions prevented potential strikes against Saudi Arabian civilian and critical infrastructure. Simultaneously, Houthi media channels reported alleged airstrikes on Sanaa, the Yemeni capital held by the group. This dual development underscores the volatile nature of the ongoing conflict in Yemen, where cross-border attacks by the Houthis against Saudi Arabia are often met with retaliatory strikes by the Saudi-led coalition on Houthi strongholds, indicating a persistent cycle of violence with no immediate resolution in sight."
+    },
+    "vocabulary": [
+      {
+        "word": "Intercept",
+        "zh": "攔截 (lán jié)：意思是在某個東西到達目的地之前，將它停下來或阻止它前進。想像你丟出一顆球，還沒到朋友手上就被另一個人接住了，這就是攔截。"
+      },
+      {
+        "word": "Drone",
+        "zh": "無人機 (wú rén jī)：是一種沒有人在裡面駕駛，而是透過遠端遙控或設定好程式自動飛行的飛機。它們可以用來拍照、送貨，也可以在軍事上用來偵查或發動攻擊。"
+      }
+    ],
+    "id": "r-5",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "中東與中亞",
+    "date": "2026-11-24",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcndOTTl3bzZwNVZ4ZWstZXBZdnVkbUhPanQ5VlhUVEJaSTRVdnc1YzVUdEhEd2M0QXdFVGxzRFVLeThYd0FfaGEzMnQzbWIzemFuZzRqSGJCQ2M5LVBzV0dadVlwUXpXR1hfMTllR2NsWmNuRnk4RmRSVVlraElfS3NjNFlJa0FWTGNRRS1XQTFxM3JoTVRYZEluNkVJUXZSdk1TSmFfWUfSAa4BQVVfeXFMTmplOTVHYzVsandyeWw3aS1QcWJiLWt5NXNnWHhYazFVV1pMZmdWdFdIdWxYSTRXNDJkWlYxdXJpOW1scUJTVUxJOWlqbDVST3VZcmR4U2RSdXVpc3NZczU2RVlZc0Jrd3BFcVQ3djE0TldnZk9KWi1ybXlwM0Ryb2NvWmJCRFZOX19xd0JDT2xPQy1VSDZBQ283ZUF1Z3JRaTRJd0VoYzF1SXVDdktn?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "黃仁勳旋風再起：亞洲夥伴股價應聲飆高！",
+    "zhSummary": "輝達執行長黃仁勳近期在亞洲的活動，讓與輝達合作的亞洲供應商和夥伴們的股票市場表現非常亮眼，股價因此大幅上漲。",
+    "zhContent": "<p>最近，科技界的大明星——輝達（Nvidia）的執行長黃仁勳先生，他的動向總能引起許多關注。當他最近在亞洲出現，或是參與相關活動後，許多和輝達有合作關係的亞洲廠商，他們的股價就像搭上雲霄飛車一樣，瞬間往上衝！這表示投資人對這些公司的未來充滿信心，覺得能跟輝達合作，絕對是個好消息。</p><p>這些「夥伴」和「供應商」指的是什麼呢？簡單來說，就是那些幫輝達製造晶片、提供零件，或者協助銷售產品的公司。當黃仁勳先生在亞洲有新動作時，這些公司的股票就會跟著活絡起來。因為大家相信，輝達這位AI（人工智慧）晶片龍頭的大老闆一出馬，肯定會為這些合作夥伴帶來更多訂單、更多生意，讓他們的業績表現更好。</p><p>為什麼黃仁勳先生的「回來」或「現身」會這麼有魔力呢？主要是因為輝達在全球科技產業，特別是AI領域，扮演著超級關鍵的角色。他們生產的顯示卡和AI晶片，幾乎是所有高科技產品和服務的核心。所以，只要黃仁勳先生有任何風吹草動，或者釋出任何對亞洲市場的關注，都會被解讀為輝達將在這裡有更深入的佈局，或是有新的合作計畫要啟動。</p><p>因此，在黃仁勳先生的亞洲行之後，這些與輝達緊密相連的亞洲供應商和合作夥伴，他們的市場價值都得到了顯著的提升。股票大漲不僅讓這些公司市值增加，也讓大家看到，在AI時代，誰能跟著像輝達這樣的巨頭，誰就更有機會在全球市場上發光發熱。這就是近期亞洲股市因為這位科技領袖而熱鬧不已的真實情況。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Jensen Huang's Asia Tour Ignites Partner Stocks",
+    "enContent": {
+      "basic": "...",
+      "intermediate": "...",
+      "advanced": "..."
+    },
+    "vocabulary": [
+      {
+        "word": "Stock",
+        "zh": "股票：簡單來說，股票就是一家公司的「小碎塊」，你買了股票就代表你擁有這家公司的一小部分。如果公司賺錢，你的股票價值可能就會漲，你也能賺到錢；反之則可能跌。"
+      },
+      {
+        "word": "Supplier",
+        "zh": "供應商：想像一下，如果你要開一家披薩店，你需要有人提供麵粉、番茄醬和起司對吧？這些提供材料的公司，就是你的「供應商」。在科技業，供應商就是為大公司提供零件或服務的公司。"
+      }
+    ],
+    "id": "r-6",
+    "type": "regional",
+    "category": "科技探索",
+    "tagClass": "tag-tech",
+    "region": "東北亞",
+    "date": "2026-11-24",
+    "sourceName": "CNBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQa9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "科技諜影？美國將Megaspeed公司列入貿易黑名單",
+    "zhSummary": "美國政府最近宣布，將Megaspeed公司列入貿易黑名單，理由是該公司涉及一宗與Nvidia公司有關的間諜醜聞，此舉將對Megaspeed未來的國際貿易造成嚴重影響。",
+    "zhContent": "<p>最近，國際科技圈傳出了一件大事，美國政府決定將一家叫做「Megaspeed」的公司，正式納入他們的「貿易黑名單」。這個消息立刻引起了廣泛討論。之所以會採取這麼嚴厲的行動，是因為在此之前，發生了一件與全球知名的繪圖晶片大廠Nvidia（輝達）有關的「間諜醜聞」。這起事件讓Megaspeed這家公司被推上了風口浪尖，成為了外界高度關注的對象。</p><p>那麼，被列入貿易黑名單究竟代表什麼呢？簡單來說，這表示美國將對Megaspeed實施非常嚴格的出口管制和貿易限制。這會讓Megaspeed很難，甚至幾乎不可能，從美國或任何受美國法規管轄的國家，採購到關鍵的軟體、高科技零組件，或是取得必要的技術服務。而報導中提到的「Nvidia間諜醜聞」，暗示Megaspeed可能牽涉到了一些不法行為，試圖透過非正當手段，獲取Nvidia公司重要的商業機密或是核心技術資料。</p><p>美國政府之所以會祭出這樣的貿易制裁，通常是基於幾個原因：可能是為了維護國家安全，保護其企業的知識產權，或是為了確保公平的國際貿易秩序。這次將Megaspeed列入黑名單，正是美國政府針對這起間諜醜聞所做出的具體且強硬的回應。這清楚地表明，對於任何被認為會損害美國企業利益或國家安全的行為，他們都會採取嚴肅的立場來應對。</p><p>因此，Megaspeed公司目前正處於一個相當不利的局面。在國際貿易上，他們將會面臨一道巨大的障礙，未來要取得或使用來自美國的先進技術和產品將會受到嚴重限制。這項貿易黑名單的措施已經正式生效，Megaspeed將不得不承受隨之而來的營運挑戰和壓力。這就是這起事件目前最直接、也最確鑿的結果。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中...？",
+      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Blacklists Megaspeed Amid Nvidia Spy Scandal",
+    "enContent": {
+      "basic": "The US government has added a company called Megaspeed to a trade blacklist. This happened because of a \"spy scandal\" involving the tech company Nvidia. Being on this list means Megaspeed will have trouble buying important things like parts and technology from the US. The US wants to protect its companies from spying.",
+      "intermediate": "The United States has officially placed Megaspeed on its trade blacklist, a move prompted by an alleged \"spy scandal\" linked to Nvidia. This designation imposes strict trade restrictions, making it difficult for Megaspeed to acquire essential software, high-tech components, or services from the U.S. and its allies. The action underscores the U.S. government's commitment to safeguarding national security and intellectual property against illicit acquisition.",
+      "advanced": "The U.S. government has imposed comprehensive trade restrictions on Megaspeed, formally adding the entity to its Commerce Department's blacklist following its purported involvement in a \"spy scandal\" concerning graphics giant Nvidia. This strategic sanction prohibits Megaspeed from accessing critical American technologies, software, and components, effectively isolating it from key global supply chains. The measure reflects a concerted effort by the U.S. to counter industrial espionage and protect the proprietary innovations of its domestic technology firms."
+    },
+    "vocabulary": [
+      {
+        "word": "blacklist",
+        "zh": "黑名單: 一份被禁止或限制來往的名單。就像是班上如果有人被老師列入「不能借書的黑名單」，就代表他暫時不能借學校的書。"
+      },
+      {
+        "word": "scandal",
+        "zh": "醜聞: 指的是一件引起公眾震驚或不滿，並影響到某人或某團體名聲的負面事件。就像某個明星做了不好的事情，引起大家討論，那就是一場醜聞。"
+      }
+    ],
+    "id": "r-7",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "東南亞",
+    "date": "2026-11-24",
+    "sourceName": "Al Jazeera",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzQzaW8ybWpocDRMUXdIRU1XWXk5TmZEa0F4VG10U19qamdObWdpMDFKeFNsdWMtRlI2RDRxUDllUm9WaTEyVlc3MllMZWZueVRIWGtVTTZJdVhyQm1DbnVaNU1YMkRhbHdKQUxRT3FOQ2dXOXR4LXlnNXBNVkpKeE9hQlRzbHhLbWJHdlMydHllMGJMamNCVm04TWwxUUtRTXhhQUZoY3ZONURYVHFpdDliWWRONGR1NHfSAb8BQVVfeXFMTUtjTm5TTXAxUTFsSERQWTlKQ1c2NDd0NVJDa1dBTm1fSEJyZ2hGZTRJX29YamI4TFB1TUJiY0hoTjQtWk41aUpObzFGX0E5QVBCNFZUNzFyNHh6c2JkcU90MWxXZVE3WnpZOFdlR2VCU1MwemJvTGVOZTJLLXZUY201N0hVc0RhYjUyejluZ0U5UDhZZ2MyeU1MbXh6RkpJSUx5dmtub2F5bW9GZFF1Z0JJQTVOeGNvLXk0cHhMam8?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "巴布亞紐幾內亞「Bilums」的世足夢：歷史性的一步",
+    "zhSummary": "巴布亞紐幾內亞女子足球隊（被稱為「Bilums」）在爭奪FIFA世界盃資格的附加賽中努力奮戰。她們贏得了區域冠軍，獲得了這次寶貴的晉級機會，可惜最終在關鍵比賽中未能成功晉級，但她們的表現仍為國家寫下了重要篇章。",
+    "zhContent": "<p>你聽過巴布亞紐幾內亞的女子足球隊嗎？她們有個很特別的暱稱，叫做「Bilums」。Bilum是當地傳統的編織袋，象徵著文化和韌性。這支隊伍承載著全國的希望，在去年經歷了一場關鍵的足球賽，她們的目標是前進國際足球總會（FIFA）世界盃，這對她們來說，是「再一次創造歷史」的寶貴機會。</p><p>這個讓她們能夠挑戰世界盃的機會，來自於她們在區域比賽中的出色表現。巴布亞紐幾內亞女子足球隊在贏得大洋洲足球協會（OFC）女子國家盃冠軍後，取得了參加跨洲附加賽的資格。這場附加賽可說是通往世界盃的最後一道關卡，來自不同區域的強隊齊聚一堂，爭奪僅剩的幾個世界盃席次。</p><p>這次的附加賽於紐西蘭舉行，對她們來說，每一場比賽都至關重要。她們被分到C組，首場比賽的對手是來自中北美洲及加勒比海地區的巴拿馬隊。這場單淘汰制的比賽，勝者才能繼續前進，朝著世界盃的夢想邁進一步，而敗者則將止步於此，必須等待下一次機會。</p><p>儘管巴布亞紐幾內亞的「Bilums」們在場上奮力拚搏，最終她們以0比2的比數輸給了巴拿馬隊，未能成功晉級2023年FIFA女子世界盃會內賽。雖然結果不盡理想，她們能站上世界級的附加賽舞台，與來自全球的隊伍競爭，這本身就已經是巴布亞紐幾內亞足球史上一個值得驕傲的重要里程碑。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，巴布亞紐幾內亞女子足球隊為什麼被稱為「Bilums」？這個稱呼對她們的參賽有什麼特別的意義？",
+      "生活與未來：你覺得一支國家隊，即使沒有成功晉級世界盃，但能打進國際附加賽，會對她們的國家或年輕一代帶來什麼樣的實際影響？",
+      "獨立思考提案：如果妳是巴布亞紐幾內亞足協的成員，為了讓國家隊未來有更好的表現，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "Papua New Guinea Bilums' FIFA World Cup Dream: A Historic Step",
+    "enContent": {
+      "basic": "The Papua New Guinea women's football team, known as the 'Bilums,' chased their dream of qualifying for the FIFA World Cup. They won their regional championship, which gave them a chance to play in a special tournament. Unfortunately, they lost their key game and didn't make it to the World Cup, but their journey was still a big deal for their country.",
+      "intermediate": "The Papua New Guinea women's national football team, affectionately called the 'Bilums' after a traditional string bag, embarked on a historic quest to qualify for the FIFA Women's World Cup. Their victory in the OFC Women's Nations Cup earned them a spot in the inter-confederation play-off tournament held in New Zealand. This crucial play-off was their 'another chance at history' to reach football's biggest stage.",
+      "advanced": "The Papua New Guinea women's national football team, symbolized by the traditional 'Bilums,' pursued a significant historical milestone: qualification for the FIFA Women's World Cup. Having secured victory in the OFC Women's Nations Cup, they advanced to the challenging inter-confederation play-off tournament hosted in New Zealand. Despite their dedicated efforts in the crucial knockout match against Panama, where they ultimately fell 0-2, their participation at this global qualification stage represents a pivotal and proud moment in Papua New Guinean football history."
+    },
+    "vocabulary": [
+      {
+        "word": "Confederation",
+        "zh": "區域足聯：在足球世界裡，全球被分成幾個大區域，每個區域都有自己的足球聯盟，負責管理和組織該區域的國家隊和俱樂部比賽。"
+      },
+      {
+        "word": "Play-off",
+        "zh": "附加賽：當兩支或多支隊伍實力接近，或是需要額外競爭來決定最終資格時，所進行的額外比賽，通常非常關鍵。"
+      }
+    ],
+    "id": "r-8",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "大洋洲",
+    "date": "2026-11-24",
+    "sourceName": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1FFdUhHR3gyVnFudnM4cnY3Z0hrWDZHX2M4ekNaYnFuT0hwU3lQSjNZYzdueE5QZ1otWUxoelozZnhFTVR3ZWIwdWVLVEtEWVNWU0VRZ1E5aEhxOFp3NG9UdkxqeEYzN2tvQ3hReFRTekRLWTctWUJkbVBWR0ItSU5xZjQ?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "美中俄峰會》三大國領袖見面！結果竟然沒有「超大進展」？",
     "zhSummary": "最近，美國、中國和俄羅斯這三個超級大國的領袖開了一場重要的會議。大家原本以為會有什麼重大決定，但美國媒體報導說，這次會議並沒有達成什麼大突破，因為每個國家都有自己的考量和計畫。",
     "zhContent": "<p>最近，國際上有一場備受關注的會議，主角是美國、中國和俄羅斯這三個在世界上很有影響力的國家。他們的最高領導人——美國總統川普、中國國家主席習近平和俄羅斯總統普丁，難得地聚在一起進行峰會。大家本來期待能為全球帶來一些「大突破」，解決重要國際問題，但根據美國媒體報導，這次見面並沒有取得太大進展，大家各自心裡都有自己的打算。</p><p>為什麼會這樣呢？報導中指出，雖然三位領導人坐下來面對面溝通，但每個國家都有自己最關心的議題和目標。例如，美國可能更看重自家的經濟或安全問題；中國則專注於自身發展和主權維護；俄羅斯也許有它在區域政治上的考量。當這些不同的「盤算」同時存在時，要快速達成大家都滿意的共識，甚至是大刀闊斧的決策，確實不是一件容易的事。</p><p>歷史上，大國領導人之間的峰會很常見，有時候會談出成果，有時候則只是例行性交流，或者像這次一樣，沒有立即顯著的突破。這反映了國際政治的複雜性。每個國家都有權利維護自己的利益，而國際合作往往需要長時間的協商和妥協。因此，在這樣一場由美中俄三大強國主導的會議中，各方有不同立場和期待，是相當自然的事情。</p><p>總體來說，這次的美中俄峰會並沒有像外界期待的那樣，在重大議題上出現什麼戲劇性的轉變或協議。美國媒體的結論是，三國領導人各自帶著原來的計畫與考量離開，會議結束後，也沒有發布任何具有里程碑意義的共同聲明或合作計畫。這場峰會就像是各方再次表明了立場，然後繼續各自的國際策略，沒有出現預期中的「重大突破」。</p>",
@@ -10633,216 +11088,6 @@
     "date": "2026-10-25",
     "sourceName": "Reuters",
     "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVNjS1MtbF9RQzltYk5VeXRfRVFQUkxBeFZyQjZlaWxDeGpQSTlQUGpZNnE3MHRfN1VQUkp0Rl9HcjZDSkZ6OTRIQlhqLUZNNnVNRXJFaUNOREY3ZUFOcDhqT0NnWGtySjZ1UVpDd1hhSVB5LUhYZlF3cXhfRm0tOEpiOG9zRzJWcnFNQWNRZklfRmlESDRMT2ZVdEgyTnAwSUJLM1hDNHhPWHU2X01rSXlqSjZfc1ptd0dIcVUwRDdDTnZfN2hQWDd3?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "匈牙利前議員呼籲歐洲：別再用「中國濾鏡」看台灣！",
-    "zhSummary": "一位匈牙利前國會議員接受訪問時，呼籲歐洲各國不要只從中國的角度看待台灣，應該要看到台灣在民主、經濟與文化上的多元面貌，並與台灣建立更直接、更深入的合作關係。",
-    "zhContent": "<p>最近，有一位來自匈牙利的前國會議員接受了媒體的專訪。他在訪問中提出了一個重要觀點，希望歐洲各國在看待台灣的時候，可以跳脫原本只將台灣視為「中國一部分」的框架。他認為，歐洲應該更積極地去發現和認識台灣多元的真實樣貌，而不僅僅是從與中國的關係角度來理解。這番話引起了不少關注，特別是在國際政治與經濟合作領域，讓大家開始思考歐洲與亞洲之間的互動關係。</p><p>這位前議員在談話中詳細解釋了他的想法。他認為，過去許多歐洲國家在制定對外政策時，常常會不自覺地把台灣與「一個中國原則」畫上等號，這樣做其實會限制了歐洲對台灣的認識。他指出，台灣不只在地理位置上具有關鍵的重要性，更是一個充滿活力的民主社會，擁有健全的法治體系、自由開放的社會氛圍以及蓬勃發展的科技產業。他特別強調，台灣在半導體等高科技領域的成就，在全球供應鏈中扮演著不可或缺的角色。</p><p>他進一步說明，如果歐洲能夠擺脫這種單一的視角，直接與台灣進行更深入的交流與合作，將會為雙方帶來巨大的好處。例如，透過更緊密的經濟連結，歐洲可以從台灣的創新產業中獲益；在文化教育方面，也能讓歐洲人民體驗到不同於中國文化的台灣特色。這位前議員相信，建立起這種不預設立場的夥伴關係，不僅能讓歐洲更全面地了解台灣，也能為歐洲本身的經濟與地緣政治策略帶來新的契機。</p><p>總結來說，這位匈牙利前議員的專訪，清楚地傳達了一個訊息：他期待歐洲各國能夠大膽地跨越傳統思維的限制，主動去探索和擁抱台灣作為一個獨立且多元的國際夥伴所能提供的價值。他的發言旨在鼓勵歐洲重新評估其對亞洲，特別是對台灣的策略方針，希望能促成一個更開放、更多元的國際交流格局。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，匈牙利前議員希望歐洲看見台灣的哪些「多元面貌」？他認為這樣做對歐洲會有什麼好處？",
-      "生活與未來：你覺得如果歐洲國家真的能跳脫舊有框架、更全面地認識台灣，對國際關係或全球產業發展可能造成什麼實際影響？",
-      "獨立思考提案：針對這個希望歐洲「跳脫中國框架」的呼籲，你覺得歐洲在實際行動上可以怎麼做，才能更有效地達成這個目標？"
-    ],
-    "enTitle": "Former Hungarian Lawmaker Urges Europe to See Taiwan Beyond China's Lens",
-    "enContent": {
-      "basic": "A former Hungarian Member of Parliament recently gave an interview, urging European countries to look at Taiwan in a fresh way. He wants them to see Taiwan's many different sides, not just how it relates to China. He believes Taiwan is a lively democracy with its own unique culture and strong tech industries. He hopes Europe will work more closely with Taiwan directly, saying it could bring many benefits to both sides.",
-      "intermediate": "In a recent interview, a former Hungarian Member of Parliament expressed a key perspective, advocating that European nations move beyond viewing Taiwan solely through the 'China framework.' He urged Europe to actively discover and appreciate Taiwan's diverse realities, rather than understanding it only in relation to China. He emphasized Taiwan's vital role not just geographically, but also as a vibrant democracy with a robust legal system, open society, and advanced tech industries like semiconductors, which are crucial to global supply chains. He believes that direct engagement would bring significant economic and cultural benefits.",
-      "advanced": "A prominent former Hungarian Member of Parliament, in a recent interview, made a compelling case for European states to fundamentally shift their perception of Taiwan. He strongly advocated for Europe to transcend the conventional 'China-centric' framework, asserting that such a limited perspective impedes a comprehensive understanding of Taiwan's rich and multifaceted identity. He underscored Taiwan's strategic importance and its status as a dynamic democracy, characterized by a sound legal framework, a free society, and a thriving technological sector, particularly its critical role in global semiconductor supply chains. He posited that fostering direct, unconstrained engagement with Taiwan would yield substantial advantages for Europe, encompassing economic collaborations and a deeper appreciation of Taiwan's distinct cultural contributions, thereby forging new strategic opportunities."
-    },
-    "vocabulary": [
-      {
-        "word": "Framework",
-        "zh": "框架 (kuàng jià) - 想像一個圖畫的框框，它把圖畫圍起來，決定了你看圖畫的方式。在這裡，它指的是一種思考事情的限制或角度。這位議員希望歐洲不要被舊有的「中國框架」給限制住，而是能用更開放的心態來看台灣。"
-      },
-      {
-        "word": "Diverse",
-        "zh": "多元 (duō yuán) - 意思是很多不同種類、不同樣貌的。就像一個花園裡有好多不同顏色、不同形狀的花朵一樣，都各有特色。這位議員希望歐洲能看到台灣除了政治之外，還有很多不同面向的特色，像是文化、科技和民主發展。"
-      }
-    ],
-    "id": "r-3",
-    "type": "regional",
-    "category": "人文流行",
-    "tagClass": "tag-human",
-    "region": "歐洲",
-    "date": "2026-10-24",
-    "sourceName": "中央社 CNA",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OaWdFdVc5RWY5VjMyd0V1ZkpJOTB5NGZWOGw2QjdoeFk4NEFDTF9mTHQ4ZjBLX3hJb2xMZWRPV0VTQnRmVFBNc0pKQ0pOdEdWQ1pnZWx4Unlfakxvcl9F?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "板球界的震撼彈：巴伍馬九小時史詩級演出，傳統賽制面臨大挑戰",
-    "zhSummary": "南非板球選手巴伍馬在一次測試賽中，打出了長達九小時的驚人表現。這場耐心與技巧的傑作，卻讓外界開始擔心，在現代板球追求快速的「淘汰」風潮下，這種經典的傳統長局比賽是否會逐漸消失，面臨巨大的考驗。",
-    "zhContent": "<p>最近，南非板球隊的隊長坦巴．巴伍馬（Temba Bavuma）在球場上完成了一次讓全球板球迷都驚嘆的「九小時馬拉松式」打擊。這可不是普通的比賽，而是在考驗選手耐力與技巧極限的「測試賽」（Test cricket）中，他獨自堅守打擊區將近一整個工作天，展現出教科書般的防守與得分藝術。他的表現就像是一幅精心繪製的畫作，每一個進球、每一次防守都充滿了智慧與沉著，讓大家看到了傳統板球最精髓的美。</p><p>巴伍馬的這場比賽之所以被形容為「傑作」，是因為測試賽本身就是一場時間與策略的戰爭。跟現在許多追求快速刺激的板球比賽不同，測試賽可以進行好幾天，選手必須長時間保持專注、評估場上情況，並用堅韌的毅力慢慢累積得分。巴伍馬在這次比賽中，面對著對手快速又刁鑽的投球，他沒有急於攻擊，而是穩紮穩打、一步一腳印地消耗對方的體力，同時為自己的隊伍爭取到寶貴的得分機會。這種老派但極其有效的戰術，正是測試賽最迷人的地方。</p><p>然而，這場精彩的九小時表演，卻也引發了板球界對於「測試賽大淘汰」的憂慮。近年來，為了吸引更多年輕觀眾和商業贊助，許多板球聯盟都推出了節奏更快、時間更短的比賽形式，像是「二十二十板球」（T20）。這種新興的比賽雖然刺激，但也壓縮了傳統測試賽的生存空間。由於球員賽程越來越滿，加上收益上的考量，一些國家甚至減少了舉辦測試賽的頻率，讓像巴伍馬這樣需要長時間醞釀的「慢工出細活」打法，面臨可能被邊緣化的危機。</p><p>儘管「測試賽」的未來充滿挑戰，巴伍馬的這場九小時堅持，無疑為這項傳統運動帶來了更多關注。它讓世人再次聚焦測試賽的獨特魅力與價值。目前，國際板球理事會和各國板球協會仍在努力尋找平衡，一方面要維持測試賽的傳統價值，另一方面也要因應現代觀眾對更快速比賽的需求。巴伍馬的這場精彩演出，讓這場關於板球未來的討論，變得更加熱烈與複雜。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，作者為什麼將巴伍馬的表現稱為「傑作」？你覺得「測試賽大淘汰」可能指的是什麼？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Bavuma's Nine-Hour Masterpiece Highlights Test Cricket's Future Challenges",
-    "enContent": {
-      "basic": "South African cricketer Temba Bavuma played an amazing nine-hour game in Test cricket. This long game showed great skill and patience. But now, people worry that these traditional, long Test matches might disappear. Faster, shorter games like T20 are becoming more popular because they are exciting and bring in more money. This \"purge\" could mean we lose the special art of long, careful cricket, like what Bavuma showed. Cricket leaders are now trying to figure out how to keep old traditions while also making the game exciting for new fans.",
-      "intermediate": "Temba Bavuma, the South African cricket captain, recently delivered a \"nine-hour masterpiece\" during a Test match, captivating fans worldwide with his endurance and precise batting. This marathon performance showcased the core values of traditional Test cricket – patience, strategy, and mental fortitude – at a time when the format faces an uncertain future. The Guardian's \"great purge\" refers to the growing pressure on Test cricket from faster, more commercially viable formats like T20. These shorter games, while exciting, are leading to packed player schedules and financial incentives that prioritize speed over the nuanced, longer-form play seen in Bavuma's innings. The debate now centers on how cricket's governing bodies can balance the preservation of Test cricket's unique artistry with the demands of modern audiences and commercial realities.",
-      "advanced": "Temba Bavuma's recent \"nine-hour masterpiece\" in a Test cricket match serves as a poignant reminder of the enduring artistry inherent in the sport's longest format, even as it confronts a \"great purge\" driven by commercial imperatives and evolving audience preferences. His marathon innings, characterized by unwavering concentration and strategic resilience, starkly contrasts with the escalating popularity of T20 cricket, which prioritizes rapid-fire entertainment and high-octane action. This shift has precipitated a calendar crunch and financial pressures that threaten the viability of traditional Test matches, potentially marginalizing the very qualities—patience, meticulous technique, and sustained mental grit—that Bavuma so spectacularly embodied. Cricket's governing bodies are currently grappling with the complex challenge of reconciling the rich legacy and unique demands of Test cricket with the undeniable allure and economic imperatives of its expedited counterparts, a debate into which Bavuma's performance offers a compelling, if bittersweet, focal point."
-    },
-    "vocabulary": [
-      {
-        "word": "masterpiece",
-        "zh": "傑作 - 指的是一件藝術品、表演或成就，做工非常精巧，展現出極高的技術和創意，讓人印象深刻，覺得很棒。"
-      },
-      {
-        "word": "purge",
-        "zh": "淘汰/去除 - 原本指為了讓組織或系統更乾淨、更有效率，而把不必要或不好的東西清除掉。在新聞裡，它指的是測試賽這個傳統項目，可能因為各種原因（像是商業考量或觀眾喜好），面臨被減少或改變的狀況。"
-      }
-    ],
-    "id": "r-4",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "非洲",
-    "date": "2026-10-24",
-    "sourceName": "The Guardian",
-    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNekFWZS1FMDY2U196OWRBREtBdVpheVdVMWJIVElfMlh6SGZ3bDlDUk9zREgwM1lfQjBSa1M2bmdyZUxTRkVwWDFIUmRKU3JaTmI3RjZFdXlRaXpxQ1oxckdmRFBaTjVSZnQ2Q2szZGs0OGVsbG83YzhBTzdoQnVaY3V3WnVKWEdFeHpycWJGakd6T2lEak9JR1ZSa2N2QXJfNi1leXN2ZktURG0zVzNYUVBCbnk?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "沙烏地阿拉伯機場遭襲：兩條無辜生命消逝",
-    "zhSummary": "沙烏地阿拉伯東部一座國際機場遭到葉門「青年運動」（Houthi，又稱胡塞武裝）的攻擊，造成兩名平民死亡。官方指出，攻擊是透過一枚裝有炸彈的無人機發動。",
-    "zhContent": "<p>沙烏地阿拉伯東部的一座國際機場最近遭到攻擊，造成了令人難過的傷亡。當地政府證實，這起襲擊導致兩個人不幸喪命。這場攻擊的幕後主使，是來自鄰國葉門、一個名為「青年運動」（Houthi，又稱胡塞武裝）的組織。他們宣稱，這次行動是針對沙烏地阿拉伯境內的目標發動的，目的在於反擊。</p><p>根據沙烏地阿拉伯官方提供的資訊，這起攻擊發生在當地時間的週日，確切地點是位於沙烏地阿拉伯東部的阿布哈國際機場（Abha International Airport）。「青年運動」組織使用的是一枚裝有爆炸物的無人機。這種無人機可以從遠處遙控飛行，並攜帶炸彈對目標進行精準打擊。據稱，這枚無人機成功突破了機場的防禦系統，最終在機場區域內爆炸，導致地面人員傷亡。</p><p>「青年運動」是一個在葉門內部發動武裝反抗的什葉派組織。多年來，他們與由沙烏地阿拉伯領導的多國聯軍在葉門陷入長期衝突。沙烏地阿拉伯一直指責伊朗在背後向「青年運動」提供武器和資金支持，但伊朗始終否認這些指控。「青年運動」方面則聲稱，他們發動這類針對沙烏地阿拉伯境內設施的攻擊，是為了報復沙烏地阿拉伯聯軍對葉門境內的空襲行動。在過去，這個組織也曾多次用無人機或導彈攻擊沙烏地阿拉伯的重要設施，包括機場、港口和重要的石油設施。</p><p>目前，這起針對阿布哈國際機場的無人機攻擊事件，已經造成兩名無辜的平民死亡，關於他們的具體身份，沙烏地阿拉伯當局尚未公布更多細節。沙烏地阿拉伯在事發後立即提高了全國的戒備狀態，並啟動了相關的調查工作，強調將會採取一切必要的措施來確保國家的安全和民眾的生命財產。這起事件再次凸顯了中東地區複雜且持續不斷的衝突局勢，以及它對當地社會和無辜民眾可能造成的嚴峻影響。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，胡塞武裝（青年運動）為什麼會攻擊沙烏地阿拉伯的機場？他們希望達到什麼目的？",
-      "生活與未來：你覺得這個衝突事件會對當地居民的日常生活，以及沙烏地阿拉伯與葉門兩國的關係造成什麼實際影響？",
-      "獨立思考提案：面對像這類國際衝突，你認為國際社會可以怎麼做，才能幫助降低衝突並保護平民呢？"
-    ],
-    "enTitle": "Two Killed in Houthi Drone Attack on Saudi Airport",
-    "enContent": {
-      "basic": "An airport in eastern Saudi Arabia was attacked by Houthi rebels from Yemen, killing two people. Authorities stated that a drone carrying explosives was used in the attack. The Houthi group claimed responsibility for the incident.",
-      "intermediate": "An international airport in eastern Saudi Arabia experienced a fatal attack, resulting in two civilian deaths. Saudi authorities confirmed that the attack, carried out by Yemen's Houthi movement, involved an explosives-laden drone. The Abha International Airport was the target, and the drone successfully breached defenses before detonating. This incident highlights the ongoing conflict between the Houthi rebels and the Saudi-led coalition in Yemen, where the Houthis claim such attacks are retaliation for Saudi air raids.",
-      "advanced": "Abha International Airport in eastern Saudi Arabia was targeted in a recent Houthi drone attack, which regrettably led to the deaths of two civilians. Saudi authorities reported that the unmanned aerial vehicle, carrying explosive ordnance, successfully penetrated the airport's security perimeter before detonating within the facility. The Houthi movement, a Shia armed group from Yemen, claimed responsibility, asserting the attack was a retaliatory measure against the Saudi-led coalition's military operations in Yemen. This event underscores the persistent volatility and humanitarian consequences of the protracted conflict in the Middle East."
-    },
-    "vocabulary": [
-      {
-        "word": "Houthi",
-        "zh": "青年運動（胡塞武裝）：想像一支在葉門活躍的武裝隊伍，他們是一群葉門的什葉派教徒，近年來在他們國家裡發生的戰爭中非常活躍。他們就是這次攻擊的發動者。"
-      },
-      {
-        "word": "drone",
-        "zh": "無人機：就是一種沒有飛行員，可以從遠端操控的小型飛機。它們常用來空拍、送貨，但很可惜，有時候也會被改造成能攜帶炸彈的武器，像這次新聞說的，用來攻擊目標。"
-      }
-    ],
-    "id": "r-5",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "中東與中亞",
-    "date": "2026-10-24",
-    "sourceName": "BBC",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZLXJNaS01NmN3UEpVbllOU1RXV3NOTGRHUWFIM0FCTlNScE5RTXBmTy1FS3VDVEI3Nnp4dk9mWDFINlBTQ0RNeUk5SXlKTG43UFc2OGtxTGNIZXd0OVE?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "網路世界拉警報！程式漏洞引發全球駭客急攻，政府企業忙修補",
-    "zhSummary": "最近網路上出現一股緊急狀況：一種叫做「PHP」的電腦程式語言發現了嚴重漏洞，導致全球許多公司和政府網站遭到駭客瘋狂攻擊。現在，大家都在趕時間，努力修補這些程式弱點，避免更多資料被偷或系統癱瘓。",
-    "zhContent": "<p>最近，全球網路世界正經歷一場緊張的「速度戰」。起因是常用於建立網站與線上服務的電腦程式語言「PHP」，被發現了安全漏洞。這些漏洞就像建築物牆壁上的破洞，讓不懷好意的駭客有機可趁，試圖鑽進去偷資料或搞破壞。由於PHP是網路世界的重要基石，從社群媒體、購物網站到政府網站都少不了它，這個消息讓網路安全專家們高度警惕。</p><p>根據外媒報導，自從這些PHP漏洞消息傳開後，全球駭客攻擊行動就明顯暴增。這意味著更多不明人士正嘗試利用弱點入侵系統。面對這種緊急情況，不論大型國際企業，還是各國政府部門，都必須立刻行動。他們的工作人員日夜趕工，像消防隊一樣，緊急為網站和伺服器打上「補丁」，也就是修補程式弱點，希望能趕在駭客得逞前，堵住所有破洞。</p><p>為什麼會這麼緊急？這是因為一旦程式漏洞被公開，壞蛋們會立刻研究如何利用。他們會開發自動化工具，像撒網一樣廣泛掃描網路，尋找任何沒有被修補好的系統，然後發動攻擊。這形成了一場和時間賽跑的競賽：程式開發者和網站管理員必須爭分奪秒發布並安裝安全更新，而駭客們則在另一邊拼命尋找未更新的目標。誰的速度更快，誰就能佔優勢。</p><p>目前，這場網路修補行動仍在持續。全球企業與政府機關都在努力確保自身數位系統安全，避免因PHP漏洞遭受損失，例如客戶資料外洩、服務中斷，甚至是重要政府資訊被竊取。大家都在盡力提高防禦力，目標是儘快關閉所有可能被利用的入口，讓網路環境恢復穩定與安全。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Cyber War Alert! PHP Flaws Trigger Global Hacking Spree, Governments and Companies Rush to Patch",
-    "enContent": {
-      "basic": "Recently, the global internet world is experiencing an intense 'race against time'. This started because a common computer programming language called 'PHP', used to build websites and online services, was found to have security flaws. These flaws are like holes in a building's wall, allowing malicious hackers to try and sneak in to steal data or cause damage. Since PHP is a crucial foundation of the internet, used in social media, shopping sites, and government websites, this news has made cybersecurity experts very alert. According to foreign media reports, since the news of these PHP flaws spread, global hacking attempts have significantly surged. This means more unknown individuals are trying to exploit these weaknesses to infiltrate systems. Facing this urgent situation, both large international companies and government departments must act immediately. Their staff are working day and night, like firefighters, urgently applying 'patches' to websites and servers, which means fixing the program's weaknesses. The goal is to plug all the holes before hackers can succeed. Why is it so urgent? Because once a program flaw is made public, bad actors immediately study how to exploit it. They develop automated tools that scan the internet widely, like casting a net, searching for any system that hasn't been patched, and then launching attacks. This creates a race against time: program developers and website administrators must quickly release and install security updates, while hackers are frantically searching for unupdated targets. Whoever is faster gains the advantage. Currently, this cyber patching effort is still ongoing. Global companies and government agencies are working hard to secure their digital systems and prevent losses due to these PHP flaws, such as customer data breaches, service interruptions, or even the theft of important government information. Everyone is trying their best to enhance their defenses, aiming to quickly close all potential entry points to restore stability and security to the internet.",
-      "intermediate": "The internet is currently facing a critical situation dubbed a 'speed war'. The root cause is the discovery of security vulnerabilities in PHP, a widely used programming language for websites and online services. These flaws are akin to structural weaknesses that allow cybercriminals to penetrate systems for data theft or disruption. Given PHP's foundational role across platforms from social media to governmental portals, this development has sparked heightened alerts among cybersecurity professionals. Reports from international media indicate a dramatic increase in hacking activities following the disclosure of these PHP flaws. This surge signifies an intensified effort by malicious actors to exploit system weaknesses. Consequently, major corporations and government entities worldwide are compelled to respond swiftly. Their teams are working around the clock, implementing 'patches' – corrective software updates – to their websites and servers. The aim is to secure these vulnerabilities proactively before further breaches can occur. The urgency stems from the immediate exploitation window that opens once a flaw is publicized. Hackers quickly devise automated tools to scan for and attack unpatched systems. This sets up a race: developers and administrators must rapidly deploy updates, while hackers concurrently seek unfortified targets. The outcome hinges on who moves faster. As of now, these widespread patching efforts continue. Entities globally are dedicated to fortifying their digital infrastructures against the PHP vulnerabilities to avert damages such as data breaches, service downtime, or sensitive information compromise. The collective goal is to bolster defenses and promptly close all exploitable entry points, ensuring a stable and secure online environment.",
-      "advanced": "A significant cybersecurity event is currently unfolding, characterized as a global 'speed war' on the internet. The impetus behind this crisis is the identification of critical security vulnerabilities within PHP, a ubiquitous server-side scripting language integral to a vast array of web applications and online services. These flaws represent exploitable entry points, enabling nefarious actors to potentially breach systems for data exfiltration or operational disruption. Given PHP's foundational ubiquity—powering platforms from social networks to e-commerce and governmental infrastructure—its compromised security posture has elicited a high state of alert among cybersecurity experts. International reports confirm a substantial escalation in hacking attempts subsequent to the public disclosure of these PHP vulnerabilities. This surge underscores a concerted effort by malicious entities to leverage the identified weaknesses for systemic infiltration. In response, both multinational corporations and governmental bodies are compelled to undertake immediate remedial actions. Their IT departments are engaged in intensive, continuous operations, deploying 'patches'—software updates designed to rectify these programmatic flaws—across their web servers and applications. The objective is to preemptively secure these vulnerabilities against ongoing exploitation. The critical nature of this response is dictated by the immediate weaponization of disclosed flaws. Threat actors swiftly develop automated exploits, conducting widespread network scans to identify and compromise unpatched systems. This creates a time-sensitive imperative: software developers and system administrators must rapidly disseminate and apply security updates, while adversaries simultaneously seek out unfortified targets. The strategic advantage resides with the swifter responder. Presently, these extensive remediation efforts are ongoing. Organizations globally are committed to fortifying their digital assets against the repercussions of PHP vulnerabilities, which include potential customer data breaches, service outages, and the compromise of sensitive governmental information. The overarching aim is to enhance defensive postures and expediently neutralize all exploitable vectors, thereby restoring stability and integrity to the online ecosystem."
-    },
-    "vocabulary": [
-      {
-        "word": "Flaw",
-        "zh": "「漏洞、缺陷」 想像一件東西壞掉一個小洞，讓壞人有機可趁鑽進去。"
-      },
-      {
-        "word": "Patch",
-        "zh": "「補丁、修補」 就像衣服破了個洞要把它補起來，電腦程式有問題就用新的程式碼把它修好。"
-      }
-    ],
-    "id": "r-6",
-    "type": "regional",
-    "category": "科技探索",
-    "tagClass": "tag-tech",
-    "region": "東北亞",
-    "date": "2026-10-24",
-    "sourceName": "Reuters",
-    "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "東南亞美食探險：舌尖上的故事與文化尋根",
-    "zhSummary": "這篇文章帶你深入了解東南亞豐富多彩的飲食文化，探索每道菜餚背後獨特的故事，以及它們如何連結當地人的生活與歷史。",
-    "zhContent": "<p>東南亞的食物不只美味，更是承載著豐富歷史與多元文化的縮影。德國之聲（DW.com）最近就深入探討了這個迷人的主題，帶我們了解當地每一道菜餚背後，那些鮮為人知、卻又充滿故事的起源與發展。從街頭巷尾的小攤販到家庭廚房的溫馨料理，每一口品嚐到的不僅是風味，更像是一場穿越時空的文化旅行，連結著過去與現在。</p><p>這篇報導特別指出，東南亞各國的飲食文化都深受其獨特地理位置、歷史事件及貿易路線的影響。舉例來說，越南的經典美食「河粉」，就巧妙地融合了法國殖民時期的烹飪技法和當地特有的新鮮食材。而泰國或馬來西亞菜中常見的濃郁咖哩，其複雜的香料組合則追溯至幾個世紀前的海上貿易，透過與印度和中東文化的交流而逐漸成形。這些食物不只是簡單的食譜，更是活生生的歷史紀錄，講述著不同族群間的遷徙、融合與創造。</p><p>報導中也強調，食物在東南亞社會中扮演的角色遠不止於填飽肚子。它更是家庭團聚的核心、社區交流的平台，以及文化傳承的重要載體。許多傳統菜餚的烹調方式和獨特風味，都是家族代代相傳的寶貴資產，透過味覺記憶，讓年輕一代能夠感受到祖先的生活智慧、信仰與價值觀。這種深刻的連結使得食物不僅是感官上的享受，更是一種凝聚情感與確認身份認同的重要符號。</p><p>總結來說，德國之聲的這篇報導讓我們重新審視了東南亞美食的意義。它提醒我們，當我們品嚐每一道風味獨特的佳餚時，其實也在品味著一段段動人的歷史，體驗著一個個鮮活的文化故事。這些藏在食物裡的秘密，讓東南亞的料理不單單是食物，更像是一個巨大的文化寶庫，等待著更多人去探索和發現它們背後所蘊含的豐富世界。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中...？",
-      "生活與未來：你覺得這個改變會對相關的人造成什麼實際影響？",
-      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
-    ],
-    "enTitle": "Southeast Asian Food: More Than Just a Meal",
-    "enContent": {
-      "basic": "Southeast Asian food is very tasty! But it's also more than just food. A report from DW.com shows that every dish has a story. It tells us about history, culture, and people's lives. For example, some food mixes different cooking styles from other countries. Eating these foods helps families stay close and teaches young people about their past. So next time you eat food from Southeast Asia, remember there's a cool story behind it!",
-      "intermediate": "Southeast Asian cuisine is celebrated not only for its vibrant flavors but also for its deep cultural significance. A recent feature by DW.com explored how each dish acts as a narrative, revealing historical influences, cultural exchanges, and personal stories. From street food to family recipes, the culinary traditions reflect a region shaped by diverse encounters, such as colonial history or ancient trade routes. This article highlights how food serves as a crucial link for community bonding and the preservation of heritage, passing down ancestral wisdom through generations.",
-      "advanced": "Delving beyond mere gastronomic delight, Southeast Asian food is a profound testament to the region's rich tapestry of history, culture, and human experience. A comprehensive report from DW.com meticulously unpacks how each culinary creation functions as a living archive, articulating tales of migration, colonial legacies, and intricate trade interactions that have sculpted the diverse palates across nations. The narrative underscores food's pivotal role not just as sustenance, but as an indispensable medium for intergenerational knowledge transfer, community cohesion, and the steadfast preservation of a vibrant cultural heritage."
-    },
-    "vocabulary": [
-      {
-        "word": "Cuisine",
-        "zh": "菜系、烹飪風格。指的是一個國家、地區或特定文化群體所特有的食物烹調方法和風格，像是法國菜系或四川菜系。"
-      },
-      {
-        "word": "Heritage",
-        "zh": "遺產、傳統。指的是一個社會或家族從過去繼承下來的寶貴文化、歷史或特徵，例如文化遺產或家族傳統。"
-      }
-    ],
-    "id": "r-7",
-    "type": "regional",
-    "category": "政治經濟",
-    "tagClass": "tag-polecon",
-    "region": "東南亞",
-    "date": "2026-10-24",
-    "sourceName": "DW.com",
-    "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHFNbzFobTNqT0RNNTBRTlpnc294MXR2MWJET05RbkcxTlJJVVpFMm5zOHEydC1qREZNVjNBZnBIU1puTE5TSFo0MjZxQ1haUmR0d3k0b3ZPU0QyNTIwbXNCa2tNVEItUW1BNXQ1cG13cnRkU2UyTFF6Ml9oMFctaDV3Rllzd1N2S29yLWpJeDY2WEtVcHBWWnVGaw?oc=5",
-    "isFeatured": false
-  },
-  {
-    "zhTitle": "太平洋教會團體發聲：以色列在區域組織的角色該重新檢視？",
-    "zhSummary": "一個代表太平洋地區許多教會的團體，要求重新評估以色列在「太平洋島國論壇」中的角色，他們認為這關乎到區域主義的原則，呼籲論壇應更專注於太平洋地區自身的發展與利益。",
-    "zhContent": "<p>嘿，大家有沒有聽過「太平洋島國論壇」這個名字？它可是太平洋地區一個很重要的組織。最近，一個代表太平洋許多教會的團體，叫做「太平洋教會會議」（Pacific Conference of Churches），他們公開呼籲論壇的成員們，應該要重新想想以色列在裡頭扮演的角色。這個呼籲被看作是對於「區域主義」的一次考驗，意思是大家開始討論，太平洋地區的決定和發展，是不是應該更專注在自己地區的需要上。</p><p>那麼，這個「太平洋島國論壇」（Pacific Islands Forum, PIF）究竟是什麼呢？簡單來說，它就像是太平洋地區各個島國的大家長會議，每年都會聚在一起討論怎麼讓這個區域變得更好，像是經濟發展、氣候變遷等等。而以色列呢，雖然不是太平洋的國家，但長期以來，它在論壇裡扮演著「對話夥伴」的角色，這讓他們有機會參與部分討論，並提供一些幫助或意見。</p><p>「太平洋教會會議」之所以提出這個要求，主要就是強調「區域主義」的重要性。他們認為，論壇應該把焦點放在太平洋地區自己的人民和發展上，確保所有決定都符合太平洋地區的利益。他們質疑，讓非太平洋國家在論壇中有太大的影響力，可能會分散大家的注意力，甚至讓某些議題變得更複雜。他們希望論壇成員能再次確認，這個組織的目標應該是服務太平洋社群，並且由太平洋人來主導。</p><p>目前，「太平洋教會會議」的這項呼籲已經傳達給了太平洋島國論壇的領導人。他們期望論壇能嚴肅對待這個提議，重新檢視以色列作為「對話夥伴」的角色。接下來，論壇成員們會怎麼討論和回應這項請求，將會是各方關注的焦點。</p>",
-    "scaffold": [
-      "觀察與識讀：這則新聞中，太平洋教會團體為什麼會對以色列在「太平洋島國論壇」的角色提出質疑？這個質疑的核心理由是什麼？",
-      "生活與未來：如果「太平洋島國論壇」真的調整了非太平洋國家的參與方式，你覺得這對太平洋地區的國際關係或合作模式可能帶來哪些實際的影響？",
-      "獨立思考提案：針對這類地區性組織在決定合作夥伴時，你覺得除了「區域主義」外，還可以考慮哪些原則或因素，讓決策更完善？"
-    ],
-    "enTitle": "Pacific Church Group Calls for Review of Israel's Role in Regional Forum",
-    "enContent": {
-      "basic": "A group representing many churches in the Pacific, called the Pacific Conference of Churches, wants the Pacific Islands Forum (PIF) to re-think Israel's role. They say this is a 'test of regionalism,' meaning that decisions in the Pacific should focus more on what the region itself needs. The PIF is an important group for Pacific island nations to talk about things like economy and climate. Israel is not a Pacific country but has been a 'dialogue partner' in the PIF. The church group believes that allowing non-Pacific countries to have too much influence might shift the focus away from Pacific people and their interests. They want the PIF to ensure the group serves the Pacific community and is led by Pacific people. Their call has been sent to the PIF leaders, and everyone is watching to see how the forum will respond.",
-      "intermediate": "The Pacific Conference of Churches has issued a significant call for the Pacific Islands Forum (PIF) to review Israel's current role within the regional body. This move is being framed as a crucial 'test of regionalism,' emphasizing the principle that decisions and developments pertinent to the Pacific region should prioritize local needs and self-determination. The PIF functions as a vital intergovernmental organization, convening Pacific island nations annually to address shared challenges such as economic development and climate change. Although not a Pacific nation, Israel has historically participated as a 'dialogue partner,' allowing its involvement in certain discussions and contributions. The church group's concern centers on potential undue influence from non-Pacific entities, which they argue could dilute the forum's focus and complicate regional issues. They advocate for the PIF to reaffirm its commitment to serving and being led by Pacific communities. The call has been formally communicated to PIF leaders, and their subsequent discussions and response are keenly anticipated.",
-      "advanced": "The Pacific Conference of Churches (PCC) has made a pointed appeal for the re-evaluation of Israel's role within the Pacific Islands Forum (PIF), characterizing the situation as a critical 'test of regionalism.' This initiative underscores a fundamental belief that governance and developmental trajectories within the Pacific ought to be intrinsically guided by, and responsive to, the indigenous requirements and aspirations of the region. The PIF, a prominent intergovernmental institution, serves as the primary political and economic policy organization for Pacific island states, addressing collective concerns spanning economic prosperity to climate resilience. Israel, despite its non-Pacific geographical status, has maintained a 'dialogue partner' relationship with the PIF. The PCC's contention posits that a disproportionate influence from external, non-Pacific actors risks diverting the forum's core mandate and potentially introducing complexities to regional deliberations. Their advocacy calls for a reassertion of the PIF's foundational commitment to the welfare and autonomous leadership of Pacific communities. The formal communication of this appeal to PIF leadership sets the stage for upcoming deliberations, with widespread interest in the forum's eventual determination and strategic recalibration."
-    },
-    "vocabulary": [
-      {
-        "word": "Regionalism",
-        "zh": "區域主義 (qūyù zhǔyì) - 簡單來說，就是強調重視一個特定地區的特色和利益，希望這個地區的事務能由當地人或當地組織來決定，不要被外面的力量影響太多。"
-      },
-      {
-        "word": "Forum",
-        "zh": "論壇 (lùntán) - 指的是一個大家聚在一起，公開討論重要議題的會議或平台。就像學校裡大家會一起討論班級事務的會議，讓每個人都有機會發表意見。"
-      }
-    ],
-    "id": "r-8",
-    "type": "regional",
-    "category": "自然生態",
-    "tagClass": "tag-nature",
-    "region": "大洋洲",
-    "date": "2026-10-24",
-    "sourceName": "RNZ",
-    "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEUtV1ZIWjlkS1RCNUFGcWRVd25lNlZkSVVURWt1dldzN09qaFhRdElRTzZ1UkZhMUszMWp5Rjl5WFN5c2o2anVURjB5LUZza29oWWstYUt0U2t6MjM1VGZBSEtwRzFHNEF2WGNKYmVvYnh5SF9BVjV4UHd3dG1XVDZlaTRMckVTLTBmUThhdUlITXV5NGlMSXY2V2liMzRSWEFrbXZiZjBWTXJCN1NnNlhxb29YUzRDa19fUUFR?oc=5",
     "isFeatured": false
   }
 ]
