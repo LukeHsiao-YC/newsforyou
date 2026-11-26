@@ -1,5 +1,145 @@
 [
   {
+    "zhTitle": "總統談健保新方向：看重付出，醫療品質更上一層樓！",
+    "zhSummary": "賴總統最近提到健保改革，希望能讓醫療人員的薪水，依照他們付出的努力和專業程度來決定。這樣做除了能讓醫護人員覺得更有價值，也能鼓勵大家投入更需要專業的醫療服務，目標是讓台灣的醫療品質變得更好。",
+    "zhContent": "<p>最近，賴總統在公開場合談到了一項重要的健保改革計畫。這個計畫的核心概念叫做「不同工不同酬」，聽起來好像有點複雜，但其實就是希望醫療人員的薪水，能夠更公平地反映他們實際付出的心力、專業程度以及面對的風險。簡單來說，如果醫師或護理師承擔了比較困難、需要高技術或長時間投入的醫療工作，他們的報酬應該要比執行一般例行工作的醫療人員來得高。</p><p>賴總統提出的這個想法，主要是為了改善目前的醫療體系。他認為，過去健保制度可能比較強調看診次數或病患量，但對於一些需要高技術、高風險或是比較辛苦的專科（像是外科手術、急診、麻醉等），其付出卻不一定能獲得足夠的獎勵。這可能導致醫療人員不願意投入這些艱鉅的領域，久而久之，也會影響到醫療服務的品質。</p><p>為了達到「提升醫療品質」的目標，這項改革希望能透過調整薪酬方式，來鼓勵更多有能力的醫療人才投入那些挑戰性較高、卻又非常重要的醫療服務。當醫療人員的專業付出能被看見並獲得相應的回報時，他們工作起來會更有動力，也能更專注於提供高品質的照護。這不僅是對醫護人員的肯定，也是對病患的一種保障。</p><p>目前，賴總統已經公開說明了這個健保改革的方向，這代表未來政府將會朝著這個目標去努力規劃與執行。雖然具體的實施細節和時間表還需要進一步的討論與安排，但這個「不同工不同酬」的原則，已經成為健保改革中一個很明確的重點，目的是讓台灣的整體醫療服務能夠持續進步，為大家帶來更好的健康保障。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，總統提出「不同工不同酬」的健保改革，主要目的是什麼？",
+      "生活與未來：你覺得這個改變會對相關的醫療人員（醫生、護理師）造成什麼實際影響？對我們一般民眾看病會有什麼不同？",
+      "獨立思考提案：針對這個規定，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "President Discusses Healthcare Reform: Valuing Effort for Better Medical Quality",
+    "enContent": {
+      "basic": "President Lai recently talked about a plan to change how our health insurance system works. He wants to make sure doctors and nurses get paid fairly based on how hard their work is and how much skill it needs. This means if a doctor does a difficult surgery, they might get paid more than for a simple check-up. The goal is to encourage medical staff to do important, tough jobs and make healthcare better for everyone. This new idea, called 'different pay for different work,' aims to improve how we reward healthcare professionals and raise the quality of medical care in Taiwan.",
+      "intermediate": "President Lai recently unveiled a key healthcare reform initiative, emphasizing the principle of 'different pay for different work.' This approach aims to adjust medical professionals' remuneration to better reflect the complexity, risk, and specialized skills required for various medical tasks. The intention is to incentivize doctors and nurses to engage in more challenging and demanding fields, such as surgery or emergency care, which may have been underserved or under-rewarded under the previous system. By aligning compensation more closely with the value and difficulty of the work, the reform seeks to enhance the motivation of healthcare providers and ultimately elevate the overall quality of medical services provided to the public.",
+      "advanced": "President Lai has recently articulated a significant direction for healthcare reform, advocating for the implementation of a 'different pay for different work' system within the National Health Insurance framework. This initiative seeks to recalibrate the compensation structure for medical professionals, ensuring that remuneration more accurately mirrors the complexity, inherent risks, and specialized expertise demanded by various medical procedures and specialties. The underlying rationale is to address potential imbalances in resource allocation and encourage greater engagement in high-skill, high-demand areas—such as critical care or advanced surgical interventions—which may currently suffer from under-recognition or insufficient incentives. By directly linking compensation to the substantive effort and critical value of medical services, the reform aims to bolster professional morale, attract talent to crucial fields, and thereby achieve a substantive improvement in the quality and accessibility of healthcare services across the nation."
+    },
+    "vocabulary": [
+      {
+        "word": "Reform",
+        "zh": "改革 (gǎi gé)：就是改變舊的制度或做法，讓事情變得更好、更有效率。就像我們學校的午餐如果變得不好吃，大家就會希望午餐制度能『改革』一下！"
+      },
+      {
+        "word": "Compensation",
+        "zh": "報酬 (bào chóu)：指你完成工作後得到的金錢或其他獎勵。就像你幫爸媽做家事，他們給你零用錢，這個零用錢就是你的『報酬』喔！"
+      }
+    ],
+    "id": "r-1",
+    "type": "regional",
+    "category": "政治經濟",
+    "tagClass": "tag-polecon",
+    "region": "北美洲",
+    "date": "2026-11-26",
+    "sourceName": "中央社 CNA",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mV1NPYkVaQUJJdEI1ZFMxb0RtTFNqVTZLLXRfS2ZVUEh2YmpHNE5ibGw0YUNJSEtnX3dXWV9MWjZFWFd4RFJpNXJ1R2VaT2dEeERyNmV1MFZ1blFiNU5Z?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "機票要變貴了？美國航空公司可能得多付「飛機稅」！",
+    "zhSummary": "美國政府正在考慮對來自巴西的Embraer飛機課徵高額進口稅。如果這項規定實施，美國的航空公司將面臨更高的飛機採購成本，這筆費用最終可能導致機票價格上漲。這場爭議的起因是美國波音公司投訴Embraer接受了不公平的政府補貼。",
+    "zhContent": "<p>嘿，同學們！最近在美國，航空公司和搭飛機的乘客們，都收到了一個可能讓大家有點頭痛的消息。原來啊，美國政府正在認真考慮，要對一種來自巴西、名叫「Embraer」（音譯：巴西航空工業公司）的飛機，加收一種特別的「進口稅」。你們可以想像成是一種「飛機稅」。如果這項稅金真的實施，美國的航空公司以後要買這些飛機，或者購買相關的零件，就得花更多更多的錢了。大家猜猜看，這筆額外的費用，最後可能會轉嫁到哪裡去呢？沒錯，很可能就是我們以後買的飛機票了！</p><p>這整件事的開端，其實是美國的一家超級有名的飛機製造商——波音（Boeing），向政府抱怨說巴西政府給Embraer公司太多「補貼」了。你們可以想像，補貼就像是政府給予公司額外的金錢協助，讓他們可以把產品賣得比較便宜。波音覺得，正是因為巴西政府的補貼，Embraer才能用低於市場行情的價格，把飛機賣給美國的航空公司，這對波音來說非常不公平，也損害了他們的利益。所以，美國的商務部就介入調查，想要釐清Embraer的飛機是不是真的因為政府補貼，才得以用「不公平」的價格，大舉進入美國市場。</p><p>美國商務部經過初步調查後，做出了驚人的決定：他們可能會對Embraer的飛機課徵高達299%的進口稅！這數字聽起來是不是超級嚇人？換句話說，如果美國的航空公司想買一架價值一億美元的Embraer飛機，可能就得額外支付將近三億美元的稅金給美國政府。這對任何航空公司來說，都是一筆天文數字的額外開銷。這場飛機稅大戰，除了波音和Embraer這兩個主要角色，連加拿大的飛機製造商龐巴迪（Bombardier）也間接被牽扯進來，因為Embraer在美國市場銷售的某些機型，其實是直接和龐巴迪的產品競爭的。</p><p>不過，同學們請注意喔，這個高達299%的「進口稅」目前還只是初步的決定，並不是最終的結果。最終的決定權掌握在一個叫做「美國國際貿易委員會」（US International Trade Commission）的獨立機構手裡。他們將會在接下來的幾個月內開會，仔細評估所有的證據和意見後，才會做出是否要正式實施這項稅金的最終決策。無論結果如何，這場關於飛機進口稅的爭議，已經讓航空公司和整個航空產業的未來多了一層不確定性。大家都在密切關注，看這齣「飛機稅」大戲，最後究竟會怎麼收場。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中提到，美國的波音公司向政府抱怨Embraer公司接受了「補貼」。你覺得公司接受政府補貼是好事還是壞事？為什麼？",
+      "生活與未來：你覺得這個「飛機稅」如果真的實施，除了讓機票變貴，還可能對美國的航空公司和乘客造成哪些實際影響？",
+      "獨立思考提案：針對波音抱怨Embraer接受政府補貼的問題，除了課徵高額進口稅，你覺得還可以怎麼做會更好？"
+    ],
+    "enTitle": "US Airlines Face Higher Costs from Proposed Embraer Duty",
+    "enContent": {
+      "basic": "US airlines might have to pay more money for planes made by a Brazilian company called Embraer. This is because the US government is thinking about adding a special tax, called a duty, on these planes. This could make airplane tickets more expensive for travelers.",
+      "intermediate": "The US government is considering imposing a significant import duty on aircraft manufactured by Embraer, a Brazilian company. This move stems from a complaint by Boeing, a US aircraft maker, alleging that Embraer receives unfair subsidies from the Brazilian government, allowing it to sell planes at lower prices in the US market. This could lead to higher operational costs for US airlines.",
+      "advanced": "US airlines are anticipating potential cost increases due to a proposed import duty on aircraft from Brazilian manufacturer Embraer. The US Commerce Department's preliminary ruling, following a complaint by Boeing regarding alleged unfair subsidies to Embraer, suggests duties could be as high as 299%. This decision, if finalized by the US International Trade Commission, would significantly impact the operational expenses for US carriers utilizing Embraer aircraft, potentially leading to higher ticket prices and affecting market competition within the aviation industry."
+    },
+    "vocabulary": [
+      {
+        "word": "duty",
+        "zh": "關稅：想像你在國外買了一個很棒的玩具帶回台灣，如果這個玩具太貴或數量太多，政府可能會跟你收一筆「稅金」，這筆稅金就叫做「關稅」或「進口稅」，目的是保護國內廠商或增加國家收入。"
+      },
+      {
+        "word": "subsidy",
+        "zh": "補貼：有時候政府為了幫助某些公司或產業，會直接給他們一些錢，或是讓他們享有特別的優惠，這就叫做「補貼」。例如，政府補貼農業，農民就能用比較低的成本賣農產品，這樣大家也能買到比較便宜的食物。"
+      }
+    ],
+    "id": "r-2",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "南美洲",
+    "date": "2026-11-26",
+    "sourceName": "Reuters",
+    "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpyd1BJdFpVWVVZa2U5Zzcxa2trQ29NTFItblc0Q0VJaWx3TEZvUjkwb1BlWXUwZW1vUXZSNkZSODduRzM5a1diUGJOdE1zc0dlb2lxNGhUaDhTVUJQUzk2b1JSZTRzSDBPenkxTVU0T2QtYlhsb2RGX0o1OG4tNkltblFaMUVRMk9hUEZsU2hGUlRVNnpNN3JIVGtWMkpUR0g0S3pSQUlYdkpUdTdfWkFQRGs?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "中國被指控濫用國際刑警組織：英國律師示警追捕異議人士",
+    "zhSummary": "一位英國知名律師指控中國政府濫用國際刑警組織的「紅色通報」系統，將其作為政治工具來追捕身在海外的異議人士，而非真正的刑事罪犯。",
+    "zhContent": "<p>嘿，大家有沒有聽過一個叫「國際刑警組織」的地方？它可不是什麼拍電影的特務機關，而是一個協助世界各國警察抓壞人的重要機構。最近，英國有一位很有名的律師提出了一個嚴肅的指控，他說有一個國家，就是中國，可能正在濫用這個國際刑警組織的系統，來追捕那些對政府有不同意見的人。</p><p>這個「濫用」是什麼意思呢？國際刑警組織最有名的一個工具叫做「紅色通報」，簡單來說，就是對全世界發出通緝令，要求各國協助逮捕某個被指控犯下重罪的人。照理說，這個通報應該是要用來抓真正的罪犯，像是走私毒品、恐怖分子等等。但這位英國律師指出，中國卻被懷疑利用紅色通報來追捕一些只是因為政治立場不同，批評政府的人，而不是真的犯了刑事罪的人。</p><p>這位律師認為，如果中國真的這樣做，那就會讓國際刑警組織失去了它原本的公正性。因為這樣一來，這些紅色通報就不是為了伸張正義，而是變成了一種政治工具，用來壓制不同的聲音。對於那些被鎖定的人來說，即使他們沒有犯法，也可能因此在國外遭到逮捕、被送回中國，並且面臨各種不確定的處境。這讓許多身在海外的中國異議人士感到非常害怕。</p><p>針對這些指控，國際刑警組織其實有自己的審核機制，他們會檢查成員國發出的紅色通報請求，希望確保這些請求不是出於政治目的。這位英國律師正在努力，希望能讓國際社會更關注中國利用這個系統的狀況，並推動國際刑警組織能更嚴格地把關。這起事件凸顯了國際合作工具在使用上可能面臨的挑戰，以及維護其公正性的重要性。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，國際刑警組織的「紅色通報」系統原本的目的是什麼？而中國被指控如何濫用這個系統？",
+      "生活與未來：你覺得如果一個國際性的組織，它的工具被不當利用，可能會對哪些人造成實際影響？",
+      "獨立思考提案：針對這類被指控濫用的情況，你覺得國際組織還可以怎麼做，才能更好地保護其公正性，同時又能有效執行任務？"
+    ],
+    "enTitle": "China Accused of Misusing Interpol to Target Dissidents: UK Lawyer Issues Stern Warning",
+    "enContent": {
+      "basic": "A lawyer in the UK says China is using Interpol in the wrong way. Interpol helps police from different countries catch criminals. But the lawyer says China is using it to find people who don't agree with their government, not real criminals. This makes people worry about fairness.",
+      "intermediate": "A prominent UK lawyer has accused China of misusing Interpol's \"red notice\" system. Interpol is an international organization that helps countries track and apprehend criminals globally. However, the lawyer claims China is deploying red notices to target political dissidents and critics living abroad, rather than individuals accused of genuine criminal offenses. This alleged misuse raises concerns about the integrity of the international policing body.",
+      "advanced": "A leading British human rights lawyer has leveled significant accusations against the Chinese government, alleging a systemic misuse of Interpol's \"red notice\" mechanism. The lawyer contends that Beijing is instrumentalizing this international policing tool, designed for the apprehension of serious criminal fugitives, to instead pursue and repatriate political dissidents and critics residing in various foreign jurisdictions. This purported weaponization of Interpol's framework undermines its neutrality and poses substantial risks to individuals sought for their political views rather than legitimate criminal acts."
+    },
+    "vocabulary": [
+      {
+        "word": "Interpol",
+        "zh": "國際刑警組織 (國際警察組織的簡稱，它會幫助世界各地的警察互相合作，一起打擊跨國犯罪，例如抓捕逃犯、追蹤販毒集團等。)"
+      },
+      {
+        "word": "Dissident",
+        "zh": "異議人士 (指那些對政府的政策、行為或統治方式持有不同意見，並公開表達不滿的人，他們通常不是罪犯，只是意見與當權者不同。)"
+      }
+    ],
+    "id": "r-3",
+    "type": "regional",
+    "category": "人文流行",
+    "tagClass": "tag-human",
+    "region": "歐洲",
+    "date": "2026-11-26",
+    "sourceName": "The Guardian",
+    "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUVaT25ybENDamExUWJDaUNmcnlkUlJQbURUTTlWd1RhSzVKMEtEalc4dkhjN1VJck9GRXJTZ1V4VXU0VEF3OWV6TG5HQ2gxVEIycHI2NHFralVTQXZURGJzcmxXU2VCaXBGbEtKdW4tYjJ0aGExSTlUY01kTWxjWTdjS094MldkSnp3akpPRWhVNVZnUHp0OWZETjNLQQ?oc=5",
+    "isFeatured": false
+  },
+  {
+    "zhTitle": "南非總統農場竊案大追擊：法院裁定不必下台！",
+    "zhSummary": "南非總統拉瑪佛沙因自家農場遭竊、牽扯到大筆現金處理不當的爭議，一度面臨被要求下台的窘境。但南非法院最新判決，駁回了罷免總統的動議，讓他暫時保住總統職位。",
+    "zhContent": "<p>南非總統拉瑪佛沙（Cyril Ramaphosa）最近身陷一起自家農場的竊盜案風波。這起事件不僅牽扯到大筆現金，更一度引發了政壇震盪，甚至有人要求他必須下台。不過，南非法院對此做出了最新裁定，讓這場政治風暴的走向有了明確的答案。</p><p>據報導，這起爭議發生在拉瑪佛沙總統位於南非林波波省（Limpopo）的私人「Phala Phala」農場。幾年前，他的農場據稱遭竊，被盜走了數量龐大的現金。這筆現金的來源和處理方式，後來成了各界質疑的焦點。批評者認為，總統對這起竊案的處理不夠透明，可能沒有依照正常的程序向相關單位申報，甚至有隱瞞的嫌疑，這也讓人們對他是否遵守了國家法規產生了疑問。</p><p>這起農場竊案隨著時間被媒體披露後，在南非政壇掀起了巨浪。許多反對黨和批評者紛紛站出來，指責拉瑪佛沙總統的行為可能已經違反了憲法，不適合繼續擔任國家元首。他們因此發起了罷免總統的動議，希望透過國會程序將他解職。這些聲音認為，總統必須對此事件負起責任，並要求政府對此事進行更深入的調查，給全國人民一個交代。</p><p>然而，就在外界高度關注這場罷免風暴會如何演變之際，南非當地的一家高等法院對此案做出了判決。法院最終駁回了這個要求總統下台的動議。這項裁決意味著，針對拉瑪佛沙總統的這項罷免程序將不會繼續進行。至少目前為止，他可以繼續履行總統職務，這場因農場竊案引發的政治危機，暫時告一段落。</p>",
+    "scaffold": [
+      "觀察與識讀：這則新聞中，總統拉瑪佛沙為什麼會被要求下台？而法院又是基於什麼理由駁回了這個要求？",
+      "生活與未來：你覺得這個法院的裁決，對南非的政治和社會會造成什麼實際影響？為什麼？",
+      "獨立思考提案：如果類似的事件發生在你的國家，你認為政府應該如何處理才能最有效地回應民眾的疑慮？"
+    ],
+    "enTitle": "South African President Ramaphosa Cleared in Farm Theft Controversy",
+    "enContent": {
+      "basic": "South African President Cyril Ramaphosa faced trouble because of a theft at his private farm called Phala Phala. A lot of cash was stolen. People said he didn't handle the theft correctly and might have hidden things. Some wanted him to step down. But a court has now decided that he doesn't have to leave his job. He can stay as president, and the attempt to remove him has stopped.",
+      "intermediate": "South African President Cyril Ramaphosa recently faced a political storm stemming from a theft at his Phala Phala farm. Several years ago, a large sum of cash was reportedly stolen there. Critics accused the President of mishandling the incident, potentially failing to report it properly or even attempting to conceal details, raising questions about his adherence to national regulations. This led to calls for his impeachment. However, a South African court recently dismissed the motion to remove him from office, allowing him to continue his presidency and bringing a temporary end to the controversy.",
+      "advanced": "President Cyril Ramaphosa of South Africa has been embroiled in controversy following a theft at his private Phala Phala farm. Years ago, a significant amount of undeclared foreign currency was allegedly stolen. The subsequent handling of the incident by the President drew intense scrutiny, with accusations of inadequate reporting, potential concealment, and breaches of executive ethics. Opposition parties initiated a parliamentary motion for his impeachment, contending that his actions constituted a violation of constitutional obligations. Nevertheless, a South African High Court has since ruled, dismissing the motion for his removal, thereby allowing President Ramaphosa to retain his position and momentarily diffusing the political crisis."
+    },
+    "vocabulary": [
+      {
+        "word": "Impeachment",
+        "zh": "罷免 (bàmiǎn)：指的是國會或立法機構對國家重要官員（像是總統）提出指控，並試圖將他從職位上撤下來的程序。就像班級要投票決定要不要把班長換掉一樣，但這是更嚴肅的國家級決定。"
+      },
+      {
+        "word": "Controversy",
+        "zh": "爭議 (zhēngyì)：指大家對某件事情有不同的意見或看法，而且這些意見衝突得很厲害，引起了大家的討論和爭辯。就像大家對某個新規定有好多不同想法，討論得很熱烈一樣。"
+      }
+    ],
+    "id": "r-4",
+    "type": "regional",
+    "category": "自然生態",
+    "tagClass": "tag-nature",
+    "region": "非洲",
+    "date": "2026-11-26",
+    "sourceName": "BBC",
+    "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HRXJ6aDNGMkdIWEZWMTRGNTFEU1NpcFF3N3k4WXp1SmotTk9KWXhiQ1R5alBlWnlpV3VaOHpfRkZKakRzNHRkM0JDbHI4blBZaWF6cGNvalZwbTDSAWBBVV95cUxNMXBYNzN2Y2ltd1ZMQzdKOXEzT3kwbFpqY09xMVJfamRURmhUSFdnMlFNZU5XLTJscWxaV0lrSVEzY3pCTU9ST3RMek9JUjkzU2xpbjl4SG1LcW41V213VTM?oc=5",
+    "isFeatured": false
+  },
+  {
     "zhTitle": "科技守護者：資拓宏宇因資安治理獲BSI未來獎",
     "zhSummary": "台灣科技公司資拓宏宇因長期投入資訊安全管理，獲得英國標準協會BSI台灣分公司頒發「2026年BSI台灣30成長夥伴獎」，肯定其在保護資料和系統方面的卓越表現。",
     "zhContent": "<p>資拓宏宇這家科技公司最近獲得了一個很特別的獎項，叫做「2026年BSI台灣30成長夥伴獎」。你可能會想，2026年？沒錯，這個獎是英國標準協會BSI台灣分公司提早頒發的，主要是肯定資拓宏宇在「資安治理」這方面的長期努力。簡單來說，「資安治理」就是一家公司怎麼規劃、執行和管理自己的資訊安全，讓所有資料、系統都受到妥善保護，不會被駭客入侵或資料外洩。</p><p>據中央社的報導，資拓宏宇之所以能獲得這個「成長夥伴獎」，是因為他們一直以來都非常重視資訊安全。他們不是一時興起才做資安，而是把這件事當作公司運作的重點，長期投入資源和人力去建立一套完整的資安防護網。這就像我們玩遊戲時，要不斷升級裝備、學習新技能來保護自己的城堡，資拓宏宇就是這麼認真地在保護他們公司的數位城堡。</p><p>資安治理不只是裝個防毒軟體那麼簡單，它包含了很多層面，比如說：定期檢查系統有沒有漏洞、員工怎麼使用資料才安全、萬一真的發生資安事件時要怎麼處理等等。這一切都需要一個嚴謹的制度和長期的執行，才能確保公司內部的資料和客戶的隱私都受到最高等級的保護。資拓宏宇在這方面展現了他們的決心和專業，讓他們的資安系統能夠跟上不斷變化的網路威脅。</p><p>因此，BSI台灣肯定了資拓宏宇在資安領域的持續投入與卓越表現，提前授予他們這個代表未來成長潛力的獎項。這個獎項不僅是對他們過去努力的認可，也象徵著他們在資訊安全管理方面，已經走在很前面，為公司未來的穩健發展打下了堅實的基礎。</p>",
